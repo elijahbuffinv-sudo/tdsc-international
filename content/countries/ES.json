@@ -1,0 +1,145 @@
+{
+  "cc": "ES",
+  "name": "Spain",
+  "meta_description": "Investigative consulting for matters touching Spain: due diligence, asset tracing and internal inquiries under the Private Security Act, GDPR and the AEPD.",
+  "eyebrow": "Kingdom of Spain",
+  "hero_lede": "Investigative consulting for matters touching Spain means working with detectives licensed by the Ministry of the Interior under the 2014 Private Security Act, data protection enforced by the AEPD, corporate criminal liability that rewards credible compliance, and registry-based company and property records.",
+  "intro": [
+    "Spain treats private investigation as part of the private security sector. Under Law 5/2014 on Private Security, only detectives holding a Ministry of the Interior qualification may carry out private investigations, every engagement must be documented in a written contract notified to the authorities, and detectives may not investigate offences that are prosecuted ex officio. Personal data is governed by the GDPR and the 2018 Organic Law on data protection and digital rights, enforced by the AEPD, one of Europe's most active regulators. Corporate and property information is held in registries run by the Registradores, and a central beneficial ownership register has operated at the Ministry of Justice since 2023.",
+    "Spain is the euro area's fourth-largest economy, with major groups in banking, infrastructure and construction, energy and renewables, telecommunications, tourism, retail and agrifood, and deep commercial ties with Latin America. Spanish companies are prominent investors and contractors across the Americas, and Madrid is a common base for regional management of Latin American operations. Organisations commission investigative work involving Spain for acquisition and partner due diligence, supplier and contractor integrity reviews framed against corporate criminal liability, misconduct allegations within Spanish subsidiaries, real estate and hospitality investments, and the tracing of assets held through Spanish companies or property in support of litigation or enforcement elsewhere."
+  ],
+  "population": {
+    "value": "49.4 million",
+    "year": "2025",
+    "source_url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ES"
+  },
+  "legal_system": "Spain has a civil law system based on the Constitution of 1978, the Civil Code, the Commercial Code, the Capital Companies Act and the Criminal Code of 1995. Several autonomous communities retain their own civil law in areas such as family and succession. Ordinary commercial disputes go to first-instance courts, while specialised commercial courts (Juzgados de lo Mercantil) hear insolvency and company law matters, with appeals to the provincial courts and the Supreme Court. Madrid and Barcelona are the main arbitral seats, and the Madrid International Arbitration Centre handles international cases.",
+  "data_protection": {
+    "law": "General Data Protection Regulation (EU) 2016/679; Organic Law 3/2018 on the Protection of Personal Data and Guarantee of Digital Rights (LOPDGDD)",
+    "regulator": "Agencia Española de Protección de Datos (AEPD)",
+    "summary": "Investigative work involving people in Spain is subject to the GDPR and the 2018 Organic Law, in force since 7 December 2018. Data about criminal convictions and offences may be processed only in narrow cases, such as by lawyers acting for clients or where anti-money-laundering law requires it. The Organic Law adds digital rights for employees covering device monitoring, workplace video, geolocation and disconnection, so employers must inform staff and their representatives before monitoring. Whistleblowing data is governed by Law 2/2023. Transfers outside the EEA follow the GDPR, and safeguards other than the standard contractual clauses need AEPD approval."
+  },
+  "investigator_regulation": "Private investigation is regulated by Law 5/2014 on Private Security and, in part, by Royal Decree 2364/1994. Detectives must hold a qualification issued by the Ministry of the Interior through the National Police, obtained through a university degree in private investigation or a recognised course, and only qualified detectives may own detective offices. Each engagement requires a written contract notified to the Ministry or competent regional authority, and offices must keep a register of engagements and file annual reports. Detectives may not investigate offences prosecuted ex officio and must report such facts to the authorities. Investigation inside homes or private places is excluded.",
+  "corporate_records": "The Mercantile Registry, run by the Registradores, holds company deeds, directors, share capital and annual accounts, available as simple information notes (notas simples) and certificates; key acts are also published in the Official Gazette of the Mercantile Registry (BORME). Shareholders of limited companies are generally recorded in the company's own register and are not routinely public, except for sole-shareholder companies. The Property Registry provides notas simples on real estate ownership and charges. The Central Register of Beneficial Ownership, created by Royal Decree 609/2023 and operating since September 2023, is open to authorities, obliged entities and persons demonstrating a legitimate interest.",
+  "anti_corruption": "Public bribery is punishable under Articles 419 to 427 of the Criminal Code, with separate provisions on business corruption and bribery in international transactions. Since 2010, Article 31 bis has made companies criminally liable for offences committed for their benefit, with mitigation for an effective compliance programme. Anti-money-laundering obligations are set by Law 10/2010, supervised by SEPBLAC, which also acts as the financial intelligence unit. Law 2/2023 protects whistleblowers and requires internal reporting channels. The Special Prosecutor's Office against Corruption and Organised Crime leads major cases.",
+  "matters": [
+    {
+      "title": "Acquisition and partner due diligence",
+      "text": "Buyers of Spanish companies, from family groups to private-equity-backed platforms, need to know who controls the target and how it has been managed. We reconcile Mercantile Registry deeds, BORME publications and filed accounts with media and court sources to test representations and identify related parties."
+    },
+    {
+      "title": "Contractor and supplier integrity reviews",
+      "text": "Construction, infrastructure and energy projects depend on chains of contractors and intermediaries. We review ownership, management history, sanctions and adverse media for counterparties, giving compliance teams documented evidence to support the due diligence expected under a Spanish corporate criminal liability programme."
+    },
+    {
+      "title": "Spain and Latin America structures",
+      "text": "Many Latin American groups hold European assets through Spanish companies, and Spanish groups operate widely across the Americas. We trace links between Spanish entities and counterparts in Latin America, identifying shared directors, shareholders and addresses across jurisdictions from public records."
+    },
+    {
+      "title": "Real estate and hospitality investments",
+      "text": "Tourism and residential property attract foreign capital and occasionally opaque ownership. We use Property Registry and Mercantile Registry records to establish title, charges and the corporate chain behind hotels, developments and holiday property, and to flag sellers or partners with problematic histories."
+    },
+    {
+      "title": "Asset tracing for enforcement",
+      "text": "Where a judgment or award must be enforced against a party with Spanish connections, we identify company interests, directorships and registered property through lawful sources, and support Spanish counsel in deciding whether recognition, attachment or insolvency proceedings in Spain are worthwhile."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Spanish; Catalan, Basque and Galician co-official in their regions"
+    },
+    {
+      "label": "Time zones",
+      "value": "Europe/Madrid, UTC+1 (UTC+2 in summer); Atlantic/Canary, UTC+0 (UTC+1 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; many firms work reduced hours in summer"
+    },
+    {
+      "label": "Court language",
+      "value": "Spanish; regional co-official languages also used in some courts"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Madrid, Barcelona, Valencia, Bilbao, Seville, Málaga"
+    },
+    {
+      "label": "Company identifier",
+      "value": "Tax identification number (NIF), beginning with a letter for companies"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-driven; meetings and lunches often run late"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Sworn translation (traducción jurada) for foreign documents in court"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Spanish matters from Nashville, starting from Law 5/2014: any investigation of persons or conduct carried out in Spain is work for a qualified Spanish detective operating under a written, notified contract, or for Spanish counsel. TDSC defines the questions, coordinates that work and integrates it with desk research drawn from the Mercantile and Property Registries, BORME, published court decisions and open sources. Because detectives cannot pursue offences prosecuted ex officio, matters that may involve serious crime are routed through counsel at the outset. TDSC does not request beneficial ownership data unless a legitimate interest is properly established. Personal data is processed under a documented legal basis, with employee matters checked against Spanish digital-rights rules, and transferred to the United States only under a GDPR-compliant mechanism.",
+  "faqs": [
+    {
+      "q": "Who may carry out private investigations in Spain?",
+      "a": "Only detectives holding a Ministry of the Interior qualification, working from a registered detective office, may conduct private investigations in Spain. Each engagement needs a written contract notified to the authorities. TDSC is not a Spanish detective office and does not investigate in Spain itself; it engages qualified Spanish detectives or counsel where field work is required."
+    },
+    {
+      "q": "Can a Spanish detective investigate suspected fraud by an employee?",
+      "a": "Often yes, where the conduct affects the employer's legitimate interests and is not an offence prosecuted ex officio. Detectives may not investigate inside homes or reserved places, and the employer must respect employees' digital rights and data protection rules. Spanish courts regularly assess detective evidence in dismissal cases, so methods should be agreed with employment counsel beforehand."
+    },
+    {
+      "q": "Is the shareholder register of a Spanish company public?",
+      "a": "Generally not for limited companies. The Mercantile Registry shows directors, capital, deeds and accounts, and sole-shareholder status, but the register of shareholders is kept by the company. Ownership can often be reconstructed from incorporation and capital-increase deeds, filed accounts and group disclosures. The beneficial ownership register is available only to those who show a legitimate interest."
+    },
+    {
+      "q": "How do we check property owned by a party in Spain?",
+      "a": "The Property Registry issues notas simples showing the registered owner, description and charges of a specific property, and searches by owner are possible where a legitimate interest is shown. Property is recorded by registry district, so effective searches depend on knowing where assets are likely to be. Spanish counsel usually requests these where enforcement is in view."
+    },
+    {
+      "q": "Does Spanish corporate criminal liability affect due diligence?",
+      "a": "Yes. Since 2010 Spanish companies can be criminally liable for offences such as bribery committed for their benefit, and an effective compliance programme can reduce or exclude liability. Counterparties therefore expect due diligence on intermediaries and suppliers, and documented, source-based reviews help demonstrate that the programme operates in practice."
+    }
+  ],
+  "sources": [
+    {
+      "title": "World Bank: Population, total - Spain",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ES"
+    },
+    {
+      "title": "BOE: Ley 5/2014, de 4 de abril, de Seguridad Privada (consolidated text)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+    },
+    {
+      "title": "DLA Piper: Data Protection Laws of the World - Spain",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=ES"
+    },
+    {
+      "title": "Ministerio de Justicia: Registro Central de Titularidades Reales",
+      "url": "https://www.mjusticia.gob.es/es/ciudadania/registros/registro-central-titularidades-reales"
+    },
+    {
+      "title": "SEPBLAC: Executive Service of the Commission for the Prevention of Money Laundering",
+      "url": "https://www.sepblac.es/en/"
+    },
+    {
+      "title": "BOE: Código Penal (Ley Orgánica 10/1995) consolidated text",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+    },
+    {
+      "title": "Colegio de Registradores de España",
+      "url": "https://www.registradores.org/"
+    },
+    {
+      "title": "Wikipedia (es): Detective privado",
+      "url": "https://es.wikipedia.org/wiki/Detective_privado"
+    }
+  ],
+  "review_flags": [
+    "Search budget was exhausted; not verified from an opened source: Juzgados de lo Mercantil jurisdiction, Madrid International Arbitration Centre, Anti-Corruption Prosecutor's role, Article 31 bis dating from 2010, shareholder register being kept by the company (not public), Property Registry owner searches, Canary Islands time zone, 'fourth-largest euro area economy'.",
+    "Restriction on investigating inside homes/reserved places is sourced to Spanish Wikipedia; Article 48 of Law 5/2014 could not be read in full. Verify wording against BOE.",
+    "Royal Decree 2364/1994 described as still partly in force pending a new implementing regulation for Law 5/2014; confirm whether a new Private Security Regulation has been adopted.",
+    "Qualification issuance described as Ministry of the Interior via National Police; regional authorities (e.g., Catalonia, Basque Country) may have competences over private security; confirm."
+  ],
+  "researched": "2026-11-04"
+}

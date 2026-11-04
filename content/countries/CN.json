@@ -1,0 +1,151 @@
+{
+  "cc": "CN",
+  "name": "China",
+  "meta_description": "Investigative consulting for matters touching mainland China: lawful due diligence, PIPL and data-transfer scoping, and coordination with PRC counsel.",
+  "eyebrow": "People's Republic of China",
+  "hero_lede": "Investigative work touching mainland China is shaped by strict personal information, data export and national security rules. TDSC scopes these matters from Nashville, relies on lawful public-record and open-source research, and coordinates with PRC-qualified counsel wherever work inside the mainland is required.",
+  "intro": [
+    "Mainland China is a civil law jurisdiction in which the state plays a central role in commerce, data and security. Since 2021 the Personal Information Protection Law, the Data Security Law and the Cybersecurity Law have together created one of the most demanding data regimes in the world, including controls on moving personal information and important data abroad. The Counter-espionage Law, revised with effect from 1 July 2023, adds further sensitivity to information gathering by or for foreign parties. In 2014 a Shanghai court convicted two corporate investigators of illegally acquiring personal data of Chinese citizens, a case that still frames how investigative work in the mainland is approached.",
+    "Organisations commission investigative work involving China because of its scale as a manufacturing base, supplier and counterparty. Typical exposures include opaque ownership behind suppliers and distributors, commercial bribery in sales channels, intellectual property leakage and counterfeiting, related-party transactions in joint ventures, and asset recovery after a judgment or award. Many matters are commissioned by parties outside the mainland, including Hong Kong, US and European companies, who need to understand a Chinese counterparty without breaching PRC rules on personal information, data export or state secrets. The work therefore relies heavily on careful scoping and on what can lawfully be done and transferred."
+  ],
+  "population": {
+    "value": "1.41 billion",
+    "year": "2024",
+    "source_url": "https://api.worldbank.org/v2/country/CN/indicator/SP.POP.TOTL?format=json&date=2024"
+  },
+  "legal_system": "Mainland China has a civil law system built on codified statutes, including the Civil Code in force since 1 January 2021, supplemented by judicial interpretations of the Supreme People's Court. Commercial disputes are heard in the people's courts at basic, intermediate and higher levels, with the Supreme People's Court at the apex. The China International Commercial Court, operated under the Supreme People's Court, offers a one-stop platform linking litigation, mediation and arbitration. Arbitration is widely used, with the China International Economic and Trade Arbitration Commission (CIETAC), established in 1956, the best-known institution.",
+  "data_protection": {
+    "law": "Personal Information Protection Law (PIPL, 2021), Data Security Law (2021) and Cybersecurity Law (2017, amended with effect from 1 January 2026)",
+    "regulator": "Cyberspace Administration of China (CAC), with roles for the Ministry of Public Security, the Ministry of Industry and Information Technology and sector regulators",
+    "summary": "The PIPL, effective 1 November 2021, requires a lawful basis for processing, with stricter rules for sensitive personal information, and applies to some processing outside China. Processing for human resources management under lawful employment policies is a recognised basis. Transfers of personal information out of the mainland require a CAC security assessment, a filed China standard contract or, from 2026, certification, unless an exemption under the March 2024 cross-border regulations applies. Important data and data held by critical information infrastructure operators face tighter controls. Providing data to foreign judicial or law enforcement bodies requires prior approval from PRC authorities. Fines for serious breaches can reach 5 percent of prior-year revenue."
+  },
+  "investigator_regulation": "We have not identified any licensing regime for private investigators in mainland China, and private detective services do not operate as a recognised licensed profession. Firms offering business investigation or due diligence services register as ordinary consulting companies and work within general law. The practical limits are set by criminal and administrative rules: obtaining or selling personal information without authorisation can be prosecuted, as the 2014 Shanghai conviction of two corporate investigators showed, and the Counter-espionage Law, revised in 2023, together with data security rules, makes certain information gathering for foreign clients sensitive. Covert surveillance, recording and access to household, telecom, travel or property records are not appropriate investigative tools.",
+  "corporate_records": "Company registration is administered by the market regulation authorities under the State Administration for Market Regulation, and core registration details such as registered capital, legal representative, shareholders of record, business scope and administrative penalties are published through a national enterprise credit information publicity system. Annual reports and some filings are available online, though depth varies by company and locality. A beneficial owner information filing regime introduced by the central bank and market regulator in 2024 is understood to be available to authorities rather than to the public. Court judgments have been published online, but coverage has narrowed in recent years.",
+  "anti_corruption": "Bribery of state functionaries, of non-state personnel and of foreign officials is a crime under the PRC Criminal Law. Commercial bribery is also prohibited by the Anti-Unfair Competition Law of 1993, most recently revised with effect from 15 October 2025 and enforced by market regulators. The Supervision Law of 2018, amended with effect from 1 June 2025, governs investigation of public officials. The Anti-Money Laundering Law of 2006 was revised with effect from 1 January 2025, with the People's Bank of China as lead AML authority.",
+  "matters": [
+    {
+      "title": "Supplier and distributor due diligence",
+      "text": "Mapping the registered ownership, legal representatives, litigation history and administrative penalties of Chinese suppliers, distributors and contract manufacturers, using public registration data and open sources, and identifying links to employees, officials or sanctioned parties that warrant further review by PRC counsel."
+    },
+    {
+      "title": "Commercial bribery in sales channels",
+      "text": "Supporting counsel-led internal reviews where distributors, agents or third-party service providers in China may have paid improper benefits to hospital, procurement or state-owned enterprise personnel, with document collection and review designed from the outset around PIPL requirements and data export constraints."
+    },
+    {
+      "title": "Intellectual property and counterfeiting",
+      "text": "Open-source tracing of online sellers, trademark squatters and manufacturers of counterfeit goods across Chinese e-commerce platforms, and preparation of structured evidence packages for PRC counsel, who handle notarised test purchases, administrative complaints and civil enforcement actions in the people's courts."
+    },
+    {
+      "title": "Joint venture and related-party review",
+      "text": "Examining related-party transactions, undisclosed affiliates and possible asset diversion within Chinese joint ventures or subsidiaries, combining public registration records, published filings and records the client already holds, with any onshore collection or data handling structured through PRC counsel."
+    },
+    {
+      "title": "Judgment and award enforcement support",
+      "text": "Identifying the publicly recorded corporate interests and enforcement history of a PRC debtor to support recognition and enforcement strategies led by counsel, whether in the mainland, in Hong Kong under its arrangements with the mainland, or elsewhere."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Mandarin Chinese (Putonghua); Cantonese widely used in Guangdong"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Shanghai, UTC+8, single national time zone"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; extended closures around Spring Festival and National Day"
+    },
+    {
+      "label": "Courts language",
+      "value": "Chinese; foreign-language evidence needs certified translation"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Shanghai, Beijing, Shenzhen, Guangzhou, Hangzhou, Chengdu"
+    },
+    {
+      "label": "Company identifier",
+      "value": "18-digit unified social credit code"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Company seals (chops) carry legal weight; confirm execution with PRC counsel"
+    }
+  ],
+  "tdsc_approach": "TDSC treats every mainland China matter as a compliance question first. Before work begins, we review with the client and their counsel whether the inquiry touches personal information, important data, state-owned entities or national security topics, and we decline requests that would require covert surveillance, purchased personal records or access to restricted government data. Research from Nashville is limited to lawfully available registration data, published filings, court and enforcement notices, media and open sources. Where work inside the mainland is needed, it is directed by PRC-qualified counsel and carried out by appropriately authorised local professionals. Data collected onshore is not exported unless a valid PIPL transfer route has been confirmed, and reports are drafted to minimise personal information.",
+  "faqs": [
+    {
+      "q": "Can TDSC run background checks on individuals in mainland China?",
+      "a": "Only within narrow limits. Household registration, telecom, travel, banking and property records of individuals are not lawfully obtainable for private investigation, and trading in such data has led to criminal convictions. TDSC can review public registration data, published court and enforcement information and open sources, and will advise when a question can only be answered through counsel or not at all."
+    },
+    {
+      "q": "How does the PIPL affect an internal investigation at a Chinese subsidiary?",
+      "a": "Employee data must be processed on a lawful basis, such as HR management under lawful employment policies or consent, and kept to what is necessary. If interview notes, emails or device data are to be reviewed outside the mainland, a transfer mechanism or exemption must apply. TDSC plans document review with PRC counsel so that data stays onshore where required."
+    },
+    {
+      "q": "Why has due diligence in China become more sensitive since 2023?",
+      "a": "The Counter-espionage Law revision effective 1 July 2023 and the data security framework have increased scrutiny of information gathering for foreign parties, and several international due diligence and consulting firms have faced official action. TDSC therefore keeps research to public and lawfully obtainable sources, avoids state secrets topics and routes any onshore work through local counsel."
+    },
+    {
+      "q": "Can you confirm who ultimately owns a Chinese company?",
+      "a": "Shareholders of record are usually visible in public registration data, but layered holdings, nominee arrangements and offshore parents often obscure the ultimate owner. The beneficial owner filing regime introduced in 2024 is understood to serve authorities rather than the public. TDSC traces ownership across mainland, Hong Kong and offshore records where lawful, and states clearly where ownership remains unconfirmed."
+    },
+    {
+      "q": "Does TDSC work on intellectual property infringement in China?",
+      "a": "Yes, in a supporting role. TDSC can trace online storefronts, related companies and trademark filings through open sources and prepare structured findings for counsel. Evidence intended for PRC courts or administrative complaints, such as notarised purchases, is obtained under the direction of PRC counsel so that it is admissible and lawfully gathered."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: China",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=CN"
+    },
+    {
+      "title": "NPC Observer: Personal Information Protection Law",
+      "url": "https://www.npcobserver.com/legislation/personal-information-protection-law/"
+    },
+    {
+      "title": "NPC Observer: Counterespionage Law",
+      "url": "https://www.npcobserver.com/legislation/counterespionage-law/"
+    },
+    {
+      "title": "NPC Observer: Anti-Unfair Competition Law",
+      "url": "https://www.npcobserver.com/legislation/anti-unfair-competition-law/"
+    },
+    {
+      "title": "NPC Observer: Supervision Law",
+      "url": "https://www.npcobserver.com/legislation/supervision-law/"
+    },
+    {
+      "title": "NPC Observer: Anti-Money Laundering Law",
+      "url": "https://www.npcobserver.com/legislation/anti-money-laundering-law/"
+    },
+    {
+      "title": "China International Commercial Court",
+      "url": "https://cicc.court.gov.cn/html/1/219/193/index.html"
+    },
+    {
+      "title": "CIETAC",
+      "url": "https://www.cietac.org/en/"
+    },
+    {
+      "title": "Wikipedia: Peter Humphrey",
+      "url": "https://en.wikipedia.org/wiki/Peter_Humphrey"
+    },
+    {
+      "title": "World Bank: Population, total (China)",
+      "url": "https://api.worldbank.org/v2/country/CN/indicator/SP.POP.TOTL?format=json&date=2024"
+    }
+  ],
+  "review_flags": [
+    "Search budget was exhausted; could not open an official or legal source confirming the absence of a PI licensing regime (commonly cited 1993 Ministry of Public Security notice) - investigator_regulation states this as 'not identified' and should be confirmed.",
+    "National enterprise credit information publicity system (gsxt.gov.cn) and China Judgments Online could not be fetched; corporate_records description of SAMR registry contents and narrowed judgment publication is from general knowledge and should be verified.",
+    "2024 beneficial owner information measures (PBOC/SAMR) not opened; non-public status stated as 'understood' and should be verified.",
+    "Criminal Law article numbers for bribery and personal information offences deliberately omitted (not verified).",
+    "FAQ references official action against international due diligence firms since 2023 (e.g., Mintz Group, Capvision) without naming them; no source could be opened to cite - verify or soften.",
+    "DLA Piper page notes uncertainty over whether the PIPL 5 percent fine refers to local or global revenue."
+  ],
+  "researched": "2026-11-04"
+}

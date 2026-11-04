@@ -1,0 +1,142 @@
+{
+  "cc": "AE",
+  "name": "United Arab Emirates",
+  "meta_description": "Investigative consulting for matters touching the UAE: onshore and free zone company research, PDPL-aware due diligence, asset tracing and careful local work.",
+  "eyebrow": "United Arab Emirates",
+  "hero_lede": "Investigative consulting for matters touching the UAE means working across seven emirates, dozens of free zones with their own registries, and two common law financial centres inside a civil law federation: ownership and counterparty research, asset tracing for counsel, and local work kept within strict privacy and cybercrime laws.",
+  "intro": [
+    "The United Arab Emirates is a federation of seven emirates with a civil law system, a federal criminal and civil framework, and substantial legislative and judicial autonomy at emirate level. Commercial life is divided between onshore companies licensed by each emirate's economic department and companies registered in free zones, each with its own registrar and rules. Two financial free zones, the Dubai International Financial Centre and Abu Dhabi Global Market, operate common law courts and their own data protection regimes. For investigative work this means that identifying the correct registry, regulator and court is a research task in itself. Privacy and reputation are also protected by criminal law, which places firm limits on surveillance, recording and online publication.",
+    "Organisations commission investigative work involving the UAE because of its role as a hub for regional headquarters, trading, logistics, aviation, real estate and private wealth. Dubai and Abu Dhabi host holding and trading companies whose operations extend to the Gulf, South Asia, Africa and the former Soviet states, and many international groups route regional contracting or treasury through UAE entities. Typical exposures include counterparties operating through layered free zone structures, trade-based fraud and misdescribed goods, assets placed in UAE property or companies after disputes arise elsewhere, and integrity questions about local sponsors, agents and intermediaries. Claimants frequently need to understand what assets sit in the UAE and which forum will recognise their judgment or award."
+  ],
+  "population": {
+    "value": "10.99 million",
+    "year": "2024",
+    "source_url": "https://api.worldbank.org/v2/country/AE/indicator/SP.POP.TOTL?format=json&date=2024"
+  },
+  "legal_system": "The UAE has a civil law system built on federal codes, with Islamic Sharia as a principal source of legislation, particularly in family and inheritance matters. Commercial disputes are heard by federal courts or, in Dubai, Abu Dhabi and Ras Al Khaimah, by local court systems, in Arabic. The Dubai International Financial Centre Courts, operating since 2004, have exclusive jurisdiction over DIFC-related civil and commercial cases and can hear other disputes where parties agree. Abu Dhabi Global Market Courts directly apply English common law. Arbitration centres include the Dubai International Arbitration Centre and the Abu Dhabi International Arbitration Centre.",
+  "data_protection": {
+    "law": "Federal Decree-Law No. 45 of 2021 on the Protection of Personal Data (PDPL); DIFC Data Protection Law No. 5 of 2020; ADGM Data Protection Regulations 2021",
+    "regulator": "UAE Data Office (federal); Commissioner of Data Protection (DIFC); ADGM Office of Data Protection",
+    "summary": "The federal PDPL came into force on 2 January 2022 and generally requires consent, with exceptions, but its Executive Regulations and the UAE Data Office's operational role had not been fully implemented as of early 2025, leaving detail on transfers and penalties pending. The DIFC and ADGM have separate, GDPR-style regimes with active regulators; the DIFC law permits transfers outside the centre on adequacy, appropriate safeguards or specific derogations including legal claims. Health data is subject to localisation under Federal Law No. 2 of 2019, and Central Bank rules require certain payment data to stay in the UAE. Investigative data handling must be planned regime by regime."
+  },
+  "investigator_regulation": "We have not identified a federal licensing regime that authorises private investigators to conduct surveillance or enquiries in the UAE, and the position varies by emirate. In Dubai, the Security Industry Regulatory Agency regulates security services, systems and guards, but we have not confirmed that its remit extends to investigation. What is clear is the strength of the privacy framework: Article 31 of the Constitution protects the confidentiality of communications, and Federal Decree-Law No. 34 of 2021 on combating rumours and cybercrimes, together with the Penal Code, penalises unauthorised recording, photography and online intrusion. Covert surveillance and pretext enquiries therefore carry serious criminal risk.",
+  "corporate_records": "There is no single national company register. Onshore businesses are licensed by each emirate's economic department, and free zone entities are registered with their free zone authority, so the first step is identifying where an entity sits. Public access differs: the DIFC and ADGM registrars publish searchable registers of entities with core details, while many onshore and free zone records are available only to the entity or through formal requests. Beneficial ownership information must be filed with the relevant registrar under federal rules but is not publicly searchable. Court judgments are published selectively, with DIFC and ADGM Courts publishing more consistently.",
+  "anti_corruption": "Bribery of public officials and, in specified cases, private-sector bribery are offences under the federal Penal Code, issued as Federal Decree-Law No. 31 of 2021. Money laundering is addressed by federal AML/CFT legislation introduced by Federal Decree-Law No. 20 of 2018 and subsequently updated, supervised by the Central Bank, sector regulators and the UAE Financial Intelligence Unit. Enforcement rests with the public prosecution in each emirate, alongside bodies such as the Abu Dhabi Accountability Authority and the Dubai Financial Audit Authority.",
+  "matters": [
+    {
+      "title": "Free zone structure and ownership mapping",
+      "text": "Identifying which onshore department or free zone registers a UAE counterparty, what that registry makes available, and how the entity relates to affiliates in other emirates and abroad, so that clients understand who controls a contracting party before signing distribution, supply or joint venture agreements."
+    },
+    {
+      "title": "Asset tracing after foreign judgments",
+      "text": "Researching UAE property interests, companies and related parties connected to a debtor who has relocated assets or residence to Dubai or Abu Dhabi, to support counsel deciding whether to pursue recognition through onshore courts, the DIFC Courts or arbitration-based enforcement."
+    },
+    {
+      "title": "Trade and re-export fraud",
+      "text": "Supporting investigations into misdescribed cargo, duplicated trade documents and counterparties that disappear after payment, using corporate records, shipping and trade information, litigation searches and open sources, with attention to the UAE's role as a re-export hub for neighbouring markets."
+    },
+    {
+      "title": "Agent and sponsor integrity reviews",
+      "text": "Background research on commercial agents, local partners and intermediaries engaged for government-related contracts, permits or licences, examining corporate affiliations, reputation, litigation and potential conflicts of interest, to support the anti-bribery compliance obligations of foreign parent companies, investors and lenders."
+    },
+    {
+      "title": "Executive and high-net-worth background",
+      "text": "Discreet reputational research on executives, investors and family offices based in the UAE, drawing on lawful public records, regulatory notices, court publications and media in Arabic and English, while avoiding methods that could breach UAE privacy, defamation or cybercrime law."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Arabic (official) and English"
+    },
+    {
+      "label": "Courts language",
+      "value": "Arabic onshore; English in DIFC and ADGM Courts"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Dubai, UTC+4, no daylight saving"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday, with shorter Friday hours in government"
+    },
+    {
+      "label": "Currency",
+      "value": "UAE dirham (AED)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Dubai, Abu Dhabi, Sharjah, Ras Al Khaimah"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Foreign documents often need legalisation and certified Arabic translation for onshore courts"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-based, hierarchical and discreet; public criticism carries legal risk"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes UAE matters from Nashville by first establishing which emirate, free zone and legal regime apply, because registries, data protection rules and courts differ between onshore Dubai, Abu Dhabi, the DIFC, ADGM and other zones. Research relies on registries that are lawfully accessible, published judgments, regulatory notices and open sources in Arabic and English. TDSC does not conduct or commission covert surveillance, recording, photography of individuals or pretext enquiries in the UAE. Where local enquiries are needed, TDSC works through UAE counsel and coordinates only professionals whose authorisation for the specific activity has been confirmed. Personal data is handled with the applicable federal or free zone regime identified in advance and is transferred under documented safeguards.",
+  "faqs": [
+    {
+      "q": "Is there a central company register in the UAE?",
+      "a": "No. Onshore companies are licensed by the economic department of each emirate, while free zone entities are registered with the relevant free zone authority. The DIFC and ADGM publish searchable public registers, but access to many other records is limited. TDSC begins by identifying where an entity is registered, then builds an ownership picture from what that registry discloses and from other lawful sources."
+    },
+    {
+      "q": "Can private investigators carry out surveillance in Dubai?",
+      "a": "We have not identified a regime that authorises private investigators to conduct surveillance in Dubai or elsewhere in the UAE, and UAE law treats unauthorised recording, photography and intrusion into private life seriously, including under the 2021 cybercrimes decree-law. TDSC does not conduct or commission covert surveillance in the UAE. Any local enquiries are scoped with UAE counsel and limited to lawful methods."
+    },
+    {
+      "q": "Which data protection law applies to a UAE matter?",
+      "a": "It depends on where processing takes place. The federal PDPL applies onshore and in most free zones, while the DIFC and ADGM have their own laws and regulators. Health and certain financial data carry localisation requirements. Because federal implementing rules have been slow to arrive, TDSC identifies the applicable regime at the outset and confirms open questions with UAE counsel."
+    },
+    {
+      "q": "Can beneficial owners of UAE companies be identified?",
+      "a": "UAE companies must record and file beneficial ownership information with their registrar, but those filings are not publicly searchable. TDSC therefore works from legal ownership disclosed by registries, related entities in other jurisdictions, court records and open sources, and reports inferred control as inference. Where formal disclosure is needed, UAE counsel can advise on court or regulatory routes."
+    },
+    {
+      "q": "How does the DIFC Courts' jurisdiction affect enforcement?",
+      "a": "The DIFC Courts hear DIFC-related cases and disputes that parties have agreed to submit to them, and they operate in English under a common law approach. Counsel sometimes consider them when planning recognition of foreign judgments or awards. TDSC's role is to identify assets and connections that inform that strategy; the choice of forum and procedure remains a decision for UAE counsel."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: UAE",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=AE"
+    },
+    {
+      "title": "DLA Piper Data Protection Laws of the World: UAE - Dubai (DIFC)",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=AE2"
+    },
+    {
+      "title": "UAE Government Portal: Data protection laws",
+      "url": "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws"
+    },
+    {
+      "title": "DIFC Courts: Court structure",
+      "url": "https://www.difccourts.ae/about/court-structure"
+    },
+    {
+      "title": "ADGM Courts",
+      "url": "https://www.adgm.com/adgm-courts"
+    },
+    {
+      "title": "Dubai Security Industry Regulatory Agency (SIRA)",
+      "url": "https://www.sira.gov.ae/en/home.aspx"
+    },
+    {
+      "title": "World Bank: Population, total (United Arab Emirates)",
+      "url": "https://api.worldbank.org/v2/country/AE/indicator/SP.POP.TOTL?format=json&date=2024"
+    }
+  ],
+  "review_flags": [
+    "PDPL Executive Regulations and UAE Data Office status are per DLA Piper as of January 2025; check whether regulations have since been issued.",
+    "Private investigator regulation: no authoritative source found on whether PI activity is licensed federally or by any emirate; SIRA homepage does not mention investigation. Needs human/counsel confirmation.",
+    "AML law: could not open official sources. Federal Decree-Law No. 20 of 2018 is cited with 'subsequently updated'; it may have been replaced by a 2025 decree-law. Verify and name the current law.",
+    "Penal Code (Federal Decree-Law No. 31 of 2021) bribery coverage, Abu Dhabi Accountability Authority, Dubai Financial Audit Authority, beneficial ownership filing rules (Cabinet Decision, non-public status), DIFC/ADGM public registers, ADGM Data Protection Regulations 2021 and Office of Data Protection, DIAC and Abu Dhabi International Arbitration Centre names, and working-week description are from general knowledge, not verified against an opened source.",
+    "Web search budget was exhausted and several official UAE sites (moec, uaefiu, centralbank, uaelegislation, u.ae legal system) could not be fetched."
+  ],
+  "researched": "2026-11-04"
+}

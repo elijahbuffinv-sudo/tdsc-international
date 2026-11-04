@@ -1,0 +1,150 @@
+{
+  "cc": "GB",
+  "name": "United Kingdom",
+  "meta_description": "Investigative consulting for UK matters: Companies House and PSC records, UK GDPR limits, unlicensed investigator sector, Bribery Act and fraud exposure.",
+  "eyebrow": "Great Britain and Northern Ireland",
+  "hero_lede": "Investigative work touching the United Kingdom benefits from an unusually open company register and a mature disputes market, but it is constrained by UK GDPR, a criminal offence of unlawfully obtaining personal data and three separate legal jurisdictions. TDSC scopes UK matters with local counsel and qualified UK investigators.",
+  "intro": [
+    "The United Kingdom contains three legal jurisdictions: England and Wales, Scotland, and Northern Ireland. Company law and the Companies House register are UK-wide, but land registration, courts and procedure differ between them. London remains a leading centre for commercial litigation, international arbitration and financial services, and English law governs a large share of cross-border contracts. Public records are comparatively accessible: company officers, persons with significant control and filed accounts are available online without charge. Personal data, however, is closely protected. UK GDPR and the Data Protection Act 2018 apply to investigative processing, and obtaining personal data without the controller's consent can be a criminal offence.",
+    "Organisations commission investigative work involving the United Kingdom because of the City of London's role in global finance and the number of holding companies, limited liability partnerships and property interests registered there. Typical engagements include due diligence on UK counterparties and their directors, asset tracing to support freezing orders and the enforcement of judgments or awards, and evidence gathering for proceedings in the Business and Property Courts. Overseas Territories and Crown Dependency structures often sit behind UK entities, extending enquiries beyond the UK register. Since September 2025, large organisations have faced a failure to prevent fraud offence, increasing demand for counterparty and internal fraud risk reviews."
+  ],
+  "population": {
+    "value": "69.5 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/GB/indicator/SP.POP.TOTL?format=json&mrv=1"
+  },
+  "legal_system": "England and Wales and Northern Ireland have common law systems; Scotland has a mixed system combining civil law and common law traditions. The UK Supreme Court is the final court of appeal for civil matters across the UK. In England and Wales, commercial disputes are heard in the Business and Property Courts of the High Court, including the Commercial Court and the Chancery Division, and in Scotland in the Court of Session. London hosts major arbitral institutions, including the London Court of International Arbitration (LCIA), under the Arbitration Act 1996 as amended in 2025.",
+  "data_protection": {
+    "law": "UK GDPR and Data Protection Act 2018, as amended by the Data (Use and Access) Act 2025",
+    "regulator": "Information Commissioner's Office (ICO)",
+    "summary": "Investigative processing of personal data requires a lawful basis under UK GDPR, most often legitimate interests supported by a documented balancing assessment, together with a condition for any special category or criminal offence data. Covert monitoring of employees is permitted only in limited circumstances and must be proportionate. Section 170 of the Data Protection Act 2018 makes it an offence knowingly or recklessly to obtain or disclose personal data without the controller's consent, subject to defences such as crime prevention. International transfers need adequacy regulations or safeguards such as the ICO's International Data Transfer Agreement. The Data (Use and Access) Act 2025 amends these rules, with provisions commencing in stages."
+  },
+  "investigator_regulation": "As of 2025, private investigators in the United Kingdom are not required to hold a licence. The Private Security Industry Act 2001 lists private investigations as a security activity, and the Security Industry Authority (SIA) regulates other sectors under that Act, but mandatory licensing for investigators has not been introduced. Investigators are instead constrained by general law: the Data Protection Act 2018 offence of unlawfully obtaining personal data, the Investigatory Powers Act 2016 prohibition on intercepting communications, harassment legislation and the law on misuse of private information. Evidence obtained improperly can be excluded or attract costs consequences in litigation.",
+  "corporate_records": "Companies House registers companies and LLPs across the UK and publishes directors, persons with significant control, registered addresses, filed accounts, confirmation statements and charges, free online. Residential addresses and full dates of birth are withheld. Since 18 November 2025, directors and persons with significant control must verify their identity under the Economic Crime and Corporate Transparency Act 2023. The Register of Overseas Entities records beneficial owners of overseas entities holding UK land. HM Land Registry covers England and Wales, with Registers of Scotland and Land and Property Services in Northern Ireland.",
+  "anti_corruption": "The Bribery Act 2010 covers bribing, being bribed and bribing a foreign public official, and a corporate offence of failing to prevent bribery. The Economic Crime and Corporate Transparency Act 2023 added a failure to prevent fraud offence for large organisations, in force from 1 September 2025. Money laundering is governed by the Proceeds of Crime Act 2002 and the Money Laundering Regulations 2017. The Serious Fraud Office, National Crime Agency and Financial Conduct Authority are the principal enforcement bodies.",
+  "matters": [
+    {
+      "title": "Due diligence on UK counterparties",
+      "text": "Reviewing Companies House filings, director appointment histories, persons with significant control, charges, insolvency notices and litigation, and identifying where control actually rests when UK companies sit beneath Crown Dependency, Overseas Territory or other offshore holding structures."
+    },
+    {
+      "title": "Asset tracing for freezing orders",
+      "text": "Identifying property, company interests and other assets to support applications for worldwide freezing orders or the enforcement of judgments and arbitral awards in England and Wales, using title registers, the Register of Overseas Entities and corporate filings."
+    },
+    {
+      "title": "Failure to prevent fraud reviews",
+      "text": "Supporting large organisations assessing exposure under the failure to prevent fraud offence in force since September 2025, through background research on associated persons, agents and suppliers, and factual enquiries into specific allegations at the direction of counsel."
+    },
+    {
+      "title": "Litigation support in London courts",
+      "text": "Gathering public-source evidence, tracing witnesses and building chronologies for proceedings in the Business and Property Courts or LCIA arbitrations, with methods chosen so that the material is admissible and does not expose the client to data protection or privacy claims."
+    },
+    {
+      "title": "Property and real estate ownership",
+      "text": "Establishing who owns or controls UK residential and commercial property, particularly where title is held by overseas companies, by combining HM Land Registry or Registers of Scotland title data with Companies House and Register of Overseas Entities records."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "English; Welsh has official status in Wales"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/London (UTC+0; UTC+1 in summer)"
+    },
+    {
+      "label": "Court languages",
+      "value": "English; Welsh may be used in courts in Wales"
+    },
+    {
+      "label": "Legal jurisdictions",
+      "value": "England and Wales, Scotland, Northern Ireland"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Witness statements with statements of truth; affidavits and statutory declarations for specific purposes"
+    },
+    {
+      "label": "Main business centres",
+      "value": "London, Manchester, Birmingham, Edinburgh, Glasgow, Leeds, Belfast"
+    }
+  ],
+  "tdsc_approach": "TDSC handles UK matters from Nashville and treats data protection as the first scoping question. Before work begins, the purpose, lawful basis and categories of personal data are agreed with the client, with work structured to support privilege where UK counsel is instructed. Research draws on Companies House, the Register of Overseas Entities, land registers, court and insolvency records, regulatory notices and media. Where interviews, surveillance or document service are needed in the UK, TDSC coordinates experienced UK investigators who work to recognised professional standards, since no statutory licence exists, and confirms in advance which of the three legal jurisdictions applies. TDSC does not obtain personal data through pretexting or insiders, and transfers of UK personal data to the United States follow applicable transfer mechanisms.",
+  "faqs": [
+    {
+      "q": "Do private investigators in the UK need a licence?",
+      "a": "Not as of 2025. The Private Security Industry Act 2001 identifies private investigation as a security activity, but mandatory licensing by the Security Industry Authority has not been introduced. The absence of licensing does not mean the absence of regulation: data protection, interception, harassment and privacy laws all apply, and courts scrutinise how evidence was obtained."
+    },
+    {
+      "q": "How much can be learned about a UK company from public records?",
+      "a": "A good deal. Companies House publishes directors, persons with significant control, filed accounts, charges and historic filings at no charge, and identity verification for directors and persons with significant control has been mandatory since November 2025. The register reflects what companies file, so information is checked against other sources, particularly where ownership runs offshore."
+    },
+    {
+      "q": "Can TDSC find out who owns a property in London?",
+      "a": "Usually. HM Land Registry titles for England and Wales can be obtained for a small fee and show the registered proprietor and charges. Where the owner is an overseas company, the Register of Overseas Entities may identify registered beneficial owners. Scotland and Northern Ireland have their own land registers, which are searched separately."
+    },
+    {
+      "q": "Is it lawful to obtain someone's bank or telephone records privately?",
+      "a": "No, not without consent or legal process. Obtaining personal data from a bank, telecoms provider or other controller without its consent can be an offence under section 170 of the Data Protection Act 2018, and intercepting communications is prohibited by the Investigatory Powers Act 2016. Such records are obtained through court disclosure orders, not investigators."
+    },
+    {
+      "q": "Does Scots law change how an investigation is run?",
+      "a": "It can. Scotland has its own courts, procedure, land register and evidential rules, and the Court of Session rather than the High Court hears major commercial cases there. Matters involving Scottish companies, property or proceedings are therefore scoped with Scottish solicitors, even though Companies House and UK GDPR apply across the whole United Kingdom."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: United Kingdom",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=GB"
+    },
+    {
+      "title": "Data Protection Act 2018, section 170 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/2018/12/section/170"
+    },
+    {
+      "title": "Private Security Industry Act 2001, Schedule 2 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/2001/12/schedule/2"
+    },
+    {
+      "title": "Bribery Act 2010 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/2010/23/contents"
+    },
+    {
+      "title": "GOV.UK: Offence of failure to prevent fraud introduced by ECCTA",
+      "url": "https://www.gov.uk/government/publications/offence-of-failure-to-prevent-fraud-introduced-by-eccta"
+    },
+    {
+      "title": "GOV.UK: Verifying your identity for Companies House",
+      "url": "https://www.gov.uk/guidance/verifying-your-identity-for-companies-house"
+    },
+    {
+      "title": "GOV.UK: People with significant control (PSCs)",
+      "url": "https://www.gov.uk/guidance/people-with-significant-control-pscs"
+    },
+    {
+      "title": "GOV.UK: HM Land Registry",
+      "url": "https://www.gov.uk/government/organisations/land-registry"
+    },
+    {
+      "title": "Serious Fraud Office",
+      "url": "https://www.sfo.gov.uk/"
+    },
+    {
+      "title": "World Bank: Population, total (United Kingdom)",
+      "url": "https://api.worldbank.org/v2/country/GB/indicator/SP.POP.TOTL?format=json&mrv=1"
+    }
+  ],
+  "review_flags": [
+    "Statement that PI licensing under the Private Security Industry Act 2001 has not been introduced is based on established position; the SIA licensing guidance page could not be loaded this session to reconfirm as of late 2026.",
+    "Data (Use and Access) Act 2025 commences in stages; some provisions (e.g., complaints procedure, due June 2026) may now be in force. Confirm before publishing.",
+    "Arbitration Act 2025 amendments to the Arbitration Act 1996 stated from background knowledge, not fetched this session.",
+    "Register of Overseas Entities, Registers of Scotland and Land and Property Services NI, Investigatory Powers Act 2016, POCA 2002 and MLR 2017 named from background knowledge; not separately fetched.",
+    "Companies House: limited partnerships, corporate directors and filers are not yet subject to identity verification (phased)."
+  ],
+  "researched": "2026-11-04"
+}

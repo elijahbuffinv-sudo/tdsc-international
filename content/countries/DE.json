@@ -1,14 +1,18 @@
 {
   "cc": "DE",
   "name": "Germany",
-  "meta_description": "Investigative consulting for matters touching Germany: GDPR and BDSG-aware due diligence, Handelsregister research, asset tracing and Mittelstand counterparty checks.",
+  "meta_description": "TDSC investigative consulting on Germany: GDPR and BDSG-aware due diligence, Handelsregister research, asset tracing and Mittelstand counterparty checks.",
   "eyebrow": "Federal Republic of Germany",
   "hero_lede": "Matters involving Germany call for work that respects one of Europe's strictest privacy cultures while making full use of its well-documented public records. TDSC scopes due diligence, asset research and litigation support from Nashville, coordinating licensed German professionals and counsel where local work is required.",
   "intro": [
     "Germany is a federal civil-law state with sixteen Länder, a deep base of family-owned Mittelstand companies and a court system that is both thorough and procedurally formal. Its corporate records are unusually accessible: since August 2022 the joint register portal of the states has allowed free online retrieval of Handelsregister entries and filed documents. Personal data, by contrast, is tightly protected under the GDPR, the Federal Data Protection Act (BDSG) and an active network of state supervisory authorities. Investigative work in Germany therefore rewards careful use of public sources, documented legal bases for any processing of personal data, and early coordination with German counsel on how findings may later be used in proceedings.",
     "Organisations commission work touching Germany because of its central place in European manufacturing, automotive, chemicals, engineering and financial services, and because German companies sit in supply chains worldwide. Typical exposures include acquiring or partnering with privately held Mittelstand businesses whose ownership runs through GmbH and GmbH and Co. KG structures, distributor and agent relationships in Central and Eastern Europe managed from Germany, suspected commercial bribery or procurement fraud, and enforcing judgments or arbitral awards against German assets. Supply chain due diligence obligations under German law and forthcoming EU rules also prompt counterparties abroad to verify their German partners and customers."
   ],
-  "population": {"value": "84.7 million", "year": "2024", "source_url": "https://www.destatis.de/EN/Themes/Society-Environment/Population/Current-Population/Tables/census-sex-and-citizenship-2024.html"},
+  "population": {
+    "value": "84.7 million",
+    "year": "2024",
+    "source_url": "https://www.destatis.de/EN/Themes/Society-Environment/Population/Current-Population/Tables/census-sex-and-citizenship-2024.html"
+  },
   "legal_system": "Germany has a civil-law system built on codified law, principally the Civil Code (BGB), the Commercial Code (HGB), the Code of Civil Procedure (ZPO) and the Criminal Code (StGB). Commercial disputes are heard by the Regional Courts (Landgerichte), many with chambers for commercial matters, with appeals to the Higher Regional Courts and the Federal Court of Justice. The Commercial Courts Act, in force since 1 April 2025, allows states to establish Commercial Courts at Higher Regional Court level and permits English-language proceedings by party agreement. Arbitration is commonly administered by the German Arbitration Institute (DIS).",
   "data_protection": {
     "law": "General Data Protection Regulation (EU) 2016/679 and Federal Data Protection Act (BDSG, 2018)",
@@ -19,39 +23,117 @@
   "corporate_records": "The commercial register (Handelsregister) is kept by local courts and searchable free of charge through the joint register portal of the states, which since August 2022 also provides filed documents such as articles of association and, for GmbHs, shareholder lists. Annual financial statements are published in the Company Register (Unternehmensregister). Following the Court of Justice of the European Union's judgment of 22 November 2022, the Transparency Register of beneficial owners (Transparenzregister) is no longer open to the general public; access requires a demonstrated legitimate interest. Land registers (Grundbuch) are available only to those showing a legitimate interest.",
   "anti_corruption": "Bribery of public officials is criminalised under sections 331 to 335a of the Criminal Code (StGB), which extend to foreign and EU officials, and commercial bribery under sections 299 and 300, with healthcare-specific offences in sections 299a and 299b. Companies are fined under section 30 of the Administrative Offences Act (OWiG), and managers face liability for supervisory failures under section 130. The Money Laundering Act (GwG) governs AML duties. Enforcement rests with state public prosecutors, several with specialised anti-corruption units, and the police, with the Financial Intelligence Unit at the customs administration receiving suspicious transaction reports.",
   "matters": [
-    {"title": "Mittelstand acquisition due diligence", "text": "Ownership and management research on privately held GmbH and GmbH and Co. KG targets, tracing shareholder lists, prior insolvencies, related-party entities and litigation history, and assessing founding-family dynamics that often shape governance in German family companies."},
-    {"title": "Supply chain and counterparty verification", "text": "Verification of German suppliers, distributors and customers for organisations with supply chain due diligence obligations, including registry checks, adverse-media review in German-language press and confirmation that a counterparty's trading footprint matches its filings."},
-    {"title": "Commercial bribery and procurement fraud", "text": "Support to counsel on suspected breaches of sections 299 or 331 onwards of the Criminal Code, including corporate mapping of intermediaries, relationship analysis and public-source evidence gathering, structured to respect employee data protection and works council rights."},
-    {"title": "Asset research for enforcement", "text": "Identification of corporate holdings, real estate indicators and business interests linked to a judgment debtor in Germany, scoped with German counsel so that land register and enforcement tools are used through lawful channels."},
-    {"title": "Disputes and arbitration support", "text": "Background research on witnesses, opposing parties and experts for proceedings before German courts, the new Commercial Courts or DIS arbitral tribunals, with findings documented for use under German evidentiary practice."}
+    {
+      "title": "Mittelstand acquisition due diligence",
+      "text": "Ownership and management research on privately held GmbH and GmbH and Co. KG targets, tracing shareholder lists, prior insolvencies, related-party entities and litigation history, and assessing founding-family dynamics that often shape governance in German family companies."
+    },
+    {
+      "title": "Supply chain and counterparty verification",
+      "text": "Verification of German suppliers, distributors and customers for organisations with supply chain due diligence obligations, including registry checks, adverse-media review in German-language press and confirmation that a counterparty's trading footprint matches its filings."
+    },
+    {
+      "title": "Commercial bribery and procurement fraud",
+      "text": "Support to counsel on suspected breaches of sections 299 or 331 onwards of the Criminal Code, including corporate mapping of intermediaries, relationship analysis and public-source evidence gathering, structured to respect employee data protection and works council rights."
+    },
+    {
+      "title": "Asset research for enforcement",
+      "text": "Identification of corporate holdings, real estate indicators and business interests linked to a judgment debtor in Germany, scoped with German counsel so that land register and enforcement tools are used through lawful channels."
+    },
+    {
+      "title": "Disputes and arbitration support",
+      "text": "Background research on witnesses, opposing parties and experts for proceedings before German courts, the new Commercial Courts or DIS arbitral tribunals, with findings documented for use under German evidentiary practice."
+    }
   ],
   "practical": [
-    {"label": "Business languages", "value": "German; English widely used in international business"},
-    {"label": "Time zone", "value": "Europe/Berlin, UTC+1 (UTC+2 in summer)"},
-    {"label": "Working week", "value": "Monday to Friday"},
-    {"label": "Courts language", "value": "German; English possible before Commercial Courts by agreement"},
-    {"label": "Main business centres", "value": "Frankfurt, Munich, Hamburg, Berlin, Düsseldorf, Stuttgart, Cologne"},
-    {"label": "Document formalities", "value": "Notarisation common for corporate acts; certified German translations often required"},
-    {"label": "Business culture", "value": "Formal, punctual and documentation-driven; titles and written confirmation matter"}
+    {
+      "label": "Business languages",
+      "value": "German; English widely used in international business"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Berlin, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Courts language",
+      "value": "German; English possible before Commercial Courts by agreement"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Frankfurt, Munich, Hamburg, Berlin, Düsseldorf, Stuttgart, Cologne"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Notarisation common for corporate acts; certified German translations often required"
+    },
+    {
+      "label": "Business culture",
+      "value": "Formal, punctual and documentation-driven; titles and written confirmation matter"
+    }
   ],
   "tdsc_approach": "TDSC begins every German matter with a jurisdictional review: the purpose of the inquiry, the lawful basis for any processing of personal data, whether employees or a works council are involved, and how findings may be used in German or foreign proceedings. Research draws first on the Handelsregister, Unternehmensregister, insolvency announcements, court publications and German-language media. Where work must be done on the ground, such as discreet inquiries or document retrieval from local courts, TDSC coordinates registered German professionals and works alongside the client's German counsel, who advises on legal questions. Personal data is minimised, transferred only under an appropriate GDPR mechanism and retained no longer than the engagement requires. TDSC does not seek access to restricted registers without a legitimate interest established through proper channels.",
   "faqs": [
-    {"q": "Can beneficial ownership of a German company still be confirmed after the Transparenzregister closed to the public?", "a": "Often, yes, through other lawful routes. GmbH shareholder lists filed with the Handelsregister are freely available online and frequently reveal ownership chains. The Transparenzregister itself now requires a demonstrated legitimate interest, so where it matters an application is made through proper channels, typically with German counsel, rather than assumed to be available."},
-    {"q": "Is surveillance of an employee in Germany permitted during an internal investigation?", "a": "Only within narrow limits. German law and labour court practice require a documented, concrete suspicion of a serious breach or offence, proportionate measures and no less intrusive alternative. Covert recording of private conversations is a criminal offence. Works council rights may apply. We scope any such step with the employer's German employment counsel before anything is done."},
-    {"q": "Do German private investigators hold a licence?", "a": "Germany does not license private investigators as a profession. Agencies register a trade with the local authority and undergo a reliability check because detective work is a supervised trade. Because the regime does not certify competence, TDSC selects local professionals on track record, professional association membership and references, and sets out lawful methods in writing."},
-    {"q": "Can findings be presented in English before a German court?", "a": "Since 1 April 2025, states may establish Commercial Courts where parties can agree to English-language proceedings, and some states have done so. In ordinary proceedings, German remains the court language and translations are usually required. We prepare reports with this in mind and coordinate translation with counsel."},
-    {"q": "What public sources are most useful for a German counterparty check?", "a": "The Handelsregister and its filed documents, published annual financial statements in the Unternehmensregister, insolvency announcements, the Federal Gazette, court decisions published by the states and German-language regional press. Together these usually establish identity, ownership, management history, financial filing compliance and reputational issues without touching restricted data."}
+    {
+      "q": "Can beneficial ownership of a German company still be confirmed after the Transparenzregister closed to the public?",
+      "a": "Often, yes, through other lawful routes. GmbH shareholder lists filed with the Handelsregister are freely available online and frequently reveal ownership chains. The Transparenzregister itself now requires a demonstrated legitimate interest, so where it matters an application is made through proper channels, typically with German counsel, rather than assumed to be available."
+    },
+    {
+      "q": "Is surveillance of an employee in Germany permitted during an internal investigation?",
+      "a": "Only within narrow limits. German law and labour court practice require a documented, concrete suspicion of a serious breach or offence, proportionate measures and no less intrusive alternative. Covert recording of private conversations is a criminal offence. Works council rights may apply. We scope any such step with the employer's German employment counsel before anything is done."
+    },
+    {
+      "q": "Do German private investigators hold a licence?",
+      "a": "Germany does not license private investigators as a profession. Agencies register a trade with the local authority and undergo a reliability check because detective work is a supervised trade. Because the regime does not certify competence, TDSC selects local professionals on track record, professional association membership and references, and sets out lawful methods in writing."
+    },
+    {
+      "q": "Can findings be presented in English before a German court?",
+      "a": "Since 1 April 2025, states may establish Commercial Courts where parties can agree to English-language proceedings, and some states have done so. In ordinary proceedings, German remains the court language and translations are usually required. We prepare reports with this in mind and coordinate translation with counsel."
+    },
+    {
+      "q": "What public sources are most useful for a German counterparty check?",
+      "a": "The Handelsregister and its filed documents, published annual financial statements in the Unternehmensregister, insolvency announcements, the Federal Gazette, court decisions published by the states and German-language regional press. Together these usually establish identity, ownership, management history, financial filing compliance and reputational issues without touching restricted data."
+    }
   ],
   "sources": [
-    {"title": "Destatis: Population by sex and citizenship, 2024", "url": "https://www.destatis.de/EN/Themes/Society-Environment/Population/Current-Population/Tables/census-sex-and-citizenship-2024.html"},
-    {"title": "DLA Piper Data Protection Laws of the World: Germany", "url": "https://www.dlapiperdataprotection.com/?c=DE&t=law"},
-    {"title": "IHK Merkblatt Detekteien und Auskunfteien", "url": "https://www.ihk.de/blueprint/servlet/resource/blob/5924930/ca0b8985226184559db0de3850e315e0/bewachung-merkblatt-detekteien-und-auskunfteien-data.pdf"},
-    {"title": "Morgan Lewis: No more public access to German Transparency Register", "url": "https://www.morganlewis.com/pubs/2022/12/no-more-public-access-to-german-transparency-register-due-to-new-european-court-of-justice-ruling"},
-    {"title": "IHK Lahn-Dill: Free online access to the commercial register", "url": "https://www.ihk.de/lahn-dill/recht/handels-und-gewerberecht/handelsrecht/handelsregister2/aktuelles-zur-digitalisierung-5618836"},
-    {"title": "SZA: Commercial Courts Act comes into force", "url": "https://www.sza.de/en/thinktank/english-language-commercial-litigation-germany-commercial-courts-act-comes-into-force"},
-    {"title": "Legal 500: Germany Bribery and Corruption", "url": "https://www.legal500.com/guides/chapter/germany-bribery-corruption"},
-    {"title": "CMS Expert Guide: Anti-bribery and corruption laws in Germany", "url": "https://cms.law/en/int/expert-guides/cms-expert-guide-to-anti-bribery-and-corruption-laws/germany"},
-    {"title": "Gibson Dunn: German Supply Chain Due Diligence Act to be amended", "url": "https://www.gibsondunn.com/german-supply-chain-due-diligence-act-to-be-amended-but-legislative-framework-remains/"}
+    {
+      "title": "Destatis: Population by sex and citizenship, 2024",
+      "url": "https://www.destatis.de/EN/Themes/Society-Environment/Population/Current-Population/Tables/census-sex-and-citizenship-2024.html"
+    },
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Germany",
+      "url": "https://www.dlapiperdataprotection.com/?c=DE&t=law"
+    },
+    {
+      "title": "IHK Merkblatt Detekteien und Auskunfteien",
+      "url": "https://www.ihk.de/blueprint/servlet/resource/blob/5924930/ca0b8985226184559db0de3850e315e0/bewachung-merkblatt-detekteien-und-auskunfteien-data.pdf"
+    },
+    {
+      "title": "Morgan Lewis: No more public access to German Transparency Register",
+      "url": "https://www.morganlewis.com/pubs/2022/12/no-more-public-access-to-german-transparency-register-due-to-new-european-court-of-justice-ruling"
+    },
+    {
+      "title": "IHK Lahn-Dill: Free online access to the commercial register",
+      "url": "https://www.ihk.de/lahn-dill/recht/handels-und-gewerberecht/handelsrecht/handelsregister2/aktuelles-zur-digitalisierung-5618836"
+    },
+    {
+      "title": "SZA: Commercial Courts Act comes into force",
+      "url": "https://www.sza.de/en/thinktank/english-language-commercial-litigation-germany-commercial-courts-act-comes-into-force"
+    },
+    {
+      "title": "Legal 500: Germany Bribery and Corruption",
+      "url": "https://www.legal500.com/guides/chapter/germany-bribery-corruption"
+    },
+    {
+      "title": "CMS Expert Guide: Anti-bribery and corruption laws in Germany",
+      "url": "https://cms.law/en/int/expert-guides/cms-expert-guide-to-anti-bribery-and-corruption-laws/germany"
+    },
+    {
+      "title": "Gibson Dunn: German Supply Chain Due Diligence Act to be amended",
+      "url": "https://www.gibsondunn.com/german-supply-chain-due-diligence-act-to-be-amended-but-legislative-framework-remains/"
+    }
   ],
   "review_flags": [
     "Population figure is Destatis 30 September 2024 (84,746,132); update when a year-end 2024 or 2025 figure is confirmed.",

@@ -1,14 +1,18 @@
 {
   "cc": "GW",
   "name": "Guinea-Bissau",
-  "meta_description": "Investigative consulting for matters touching Guinea-Bissau: cashew and fisheries counterparty checks, integrity and illicit finance risk, and post-2025 political context.",
+  "meta_description": "TDSC investigative consulting on Guinea-Bissau: cashew and fisheries counterparty checks, integrity and illicit finance risk, and post-2025 political context.",
   "eyebrow": "Republic of Guinea-Bissau",
   "hero_lede": "Matters involving Guinea-Bissau call for caution: limited public records, a military-led government since November 2025 and well-documented illicit finance risk. TDSC scopes counterparty, integrity and background research from Nashville, coordinating qualified local professionals and counsel only where lawful and safe work on the ground is possible.",
   "intro": [
     "Guinea-Bissau is a small Portuguese-speaking West African state, a member of the West African Economic and Monetary Union using the CFA franc, and a member of OHADA. On 26 November 2025, the day before election results were due, the military seized power, suspended the National People's Assembly and installed a transitional president; ECOWAS suspended the country's membership. The judiciary has long been described as under-resourced and lacking independence, and many disputes are settled outside the courts. Public records are limited and largely paper-based. Investigative work therefore relies on regional and international sources, careful assessment of political exposure and narrowly scoped local inquiry conducted only where it can be done lawfully and safely.",
     "Organisations commission work touching Guinea-Bissau mainly in connection with cashew nut trade, which dominates exports, much of it to India, as well as fisheries licensing, port and logistics activity, development-funded projects and prospective mining of bauxite and phosphates. Typical exposures include verifying cashew exporters and traders before advance payments, assessing fishing licence holders and vessel operators, reviewing partners and contractors on donor-funded work, and understanding illicit finance risk. Since the mid-2000s the country has been used as a transit point for cocaine bound for Europe, and political and military figures have been linked to trafficking, which makes counterparty and politically exposed person screening essential."
   ],
-  "population": {"value": "2.08 million (estimate)", "year": "2023", "source_url": "https://en.wikipedia.org/wiki/Guinea-Bissau"},
+  "population": {
+    "value": "2.08 million (estimate)",
+    "year": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Guinea-Bissau"
+  },
   "legal_system": "Guinea-Bissau has a civil-law system in the Portuguese tradition. As an OHADA member, its commercial law is governed by the OHADA uniform acts on commercial companies, secured transactions, insolvency and arbitration, with the Common Court of Justice and Arbitration as the supranational court for those acts. Domestically, sectoral courts handle minor civil and criminal matters, regional courts in each of the nine regions hear larger civil cases and appeals, and the Supreme Court of Justice is the final court. Following the November 2025 coup, the functioning of institutions should be confirmed case by case.",
   "data_protection": {
     "law": "Not verified for this page",
@@ -19,35 +23,101 @@
   "corporate_records": "Companies are formed under the OHADA framework and recorded in the commercial register, from which basic company particulars may be obtained through local professionals; we have not verified the current registration agency or the availability of online searches. According to Open Ownership, Guinea-Bissau had not implemented a beneficial ownership register as of 2026, although the ECOWAS directive requires central registers by 1 January 2027. Land and court records are largely paper-based and not centrally searchable, so research typically relies on local counsel and on records held in other jurisdictions.",
   "anti_corruption": "Guinea-Bissau has relatively few dedicated anti-corruption institutions. A Committee Against Corruption was created in 1995, and the Court of Accounts, introduced in 2006, audits public finances. The country has ratified UN and African Union anti-corruption conventions and applies WAEMU-aligned procurement rules. A Financial Intelligence Unit was established with UN and GIABA support but has been reported as under-resourced, and money laundering prosecutions have been rare. The principal statutes were not verified for this page.",
   "matters": [
-    {"title": "Cashew trade counterparties", "text": "Verification of cashew exporters, aggregators and traders before advance payments or financing, confirming corporate identity, export track record, warehouse and port arrangements, and any history of default, disputes or connections to politically exposed persons."},
-    {"title": "Fisheries and vessel operators", "text": "Research into holders of fishing licences and the vessels and operators behind them, including foreign-flagged fleets, ownership chains and any record of illegal fishing or enforcement action, for buyers, insurers and financiers."},
-    {"title": "Illicit finance and PEP screening", "text": "Enhanced screening of Guinea-Bissau counterparties for links to politically exposed persons, military figures and trafficking-related investigations, drawing on international court records, sanctions and enforcement actions, and reputable regional reporting."},
-    {"title": "Donor-funded project partners", "text": "Integrity due diligence on contractors, NGOs and service providers engaged on development or infrastructure programmes, assessing ownership, capacity, prior project performance and conflicts of interest for funders and implementing agencies."},
-    {"title": "Portuguese-speaking network research", "text": "Tracing business interests, companies and litigation linked to Bissau-Guinean parties across Portugal, Senegal, Cape Verde and other Lusophone or regional jurisdictions, where records are often more accessible than in Bissau itself."}
+    {
+      "title": "Cashew trade counterparties",
+      "text": "Verification of cashew exporters, aggregators and traders before advance payments or financing, confirming corporate identity, export track record, warehouse and port arrangements, and any history of default, disputes or connections to politically exposed persons."
+    },
+    {
+      "title": "Fisheries and vessel operators",
+      "text": "Research into holders of fishing licences and the vessels and operators behind them, including foreign-flagged fleets, ownership chains and any record of illegal fishing or enforcement action, for buyers, insurers and financiers."
+    },
+    {
+      "title": "Illicit finance and PEP screening",
+      "text": "Enhanced screening of Guinea-Bissau counterparties for links to politically exposed persons, military figures and trafficking-related investigations, drawing on international court records, sanctions and enforcement actions, and reputable regional reporting."
+    },
+    {
+      "title": "Donor-funded project partners",
+      "text": "Integrity due diligence on contractors, NGOs and service providers engaged on development or infrastructure programmes, assessing ownership, capacity, prior project performance and conflicts of interest for funders and implementing agencies."
+    },
+    {
+      "title": "Portuguese-speaking network research",
+      "text": "Tracing business interests, companies and litigation linked to Bissau-Guinean parties across Portugal, Senegal, Cape Verde and other Lusophone or regional jurisdictions, where records are often more accessible than in Bissau itself."
+    }
   ],
   "practical": [
-    {"label": "Business languages", "value": "Portuguese (official); Kriol widely spoken; French useful regionally"},
-    {"label": "Time zone", "value": "Africa/Bissau, UTC+0, no daylight saving time"},
-    {"label": "Working week", "value": "Monday to Friday"},
-    {"label": "Currency", "value": "West African CFA franc (XOF)"},
-    {"label": "Courts language", "value": "Portuguese"},
-    {"label": "Main business centre", "value": "Bissau"},
-    {"label": "Political status", "value": "Military-led transitional government since November 2025"}
+    {
+      "label": "Business languages",
+      "value": "Portuguese (official); Kriol widely spoken; French useful regionally"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Bissau, UTC+0, no daylight saving time"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "West African CFA franc (XOF)"
+    },
+    {
+      "label": "Courts language",
+      "value": "Portuguese"
+    },
+    {
+      "label": "Main business centre",
+      "value": "Bissau"
+    },
+    {
+      "label": "Political status",
+      "value": "Military-led transitional government since November 2025"
+    }
   ],
   "tdsc_approach": "TDSC scopes Guinea-Bissau matters conservatively. Each engagement begins with a review of purpose, parties and political exposure, together with screening for sanctions and links to trafficking-related enforcement actions, and a decision on whether any local activity is lawful and safe under current conditions. Much of the work is conducted through sources outside the country: corporate and litigation records in Portugal, Senegal and other jurisdictions where Bissau-Guinean parties do business, international enforcement records, EITI and donor publications and Portuguese- and French-language press. Where documents must be obtained in Bissau, TDSC coordinates established local professionals and the client's local counsel, who advises on legal questions. TDSC does not seek official, military or banking records.",
   "faqs": [
-    {"q": "Is it still possible to do due diligence on Guinea-Bissau counterparties after the 2025 coup?", "a": "Yes, but with adjusted methods. Much useful information sits outside the country, in corporate registers, courts and press in Portugal, Senegal and other jurisdictions, and in international enforcement records. Local document retrieval is undertaken only where it can be done lawfully and safely under current conditions."},
-    {"q": "How reliable are Bissau-Guinean company records?", "a": "Basic company particulars can usually be obtained under the OHADA commercial register framework, but records are largely paper-based, not centrally searchable and may be incomplete. Guinea-Bissau had not implemented a beneficial ownership register as of 2026. We treat local records as one input and corroborate them elsewhere."},
-    {"q": "What should cashew buyers check before paying an advance?", "a": "That the seller is a registered business with a verifiable export history, that the stated warehouse and port arrangements exist, that there is no history of non-delivery or disputes with other buyers, and that the principals are not politically exposed in ways that create integrity or sanctions concerns."},
-    {"q": "Why is illicit finance screening emphasised for Guinea-Bissau?", "a": "Since the mid-2000s the country has been used as a transit point for cocaine destined for Europe, and political and military figures have been linked to the trade in international enforcement actions. Screening principals and intermediaries against reliable enforcement and court records is a proportionate precaution for any significant transaction."},
-    {"q": "Does Guinea-Bissau law govern how TDSC handles personal data?", "a": "We could not confirm the current national data protection framework, and ECOWAS rules on personal data also apply to member states. We therefore agree data handling terms with local counsel, collect only what the purpose requires and apply the client's own data protection obligations to everything we gather."}
+    {
+      "q": "Is it still possible to do due diligence on Guinea-Bissau counterparties after the 2025 coup?",
+      "a": "Yes, but with adjusted methods. Much useful information sits outside the country, in corporate registers, courts and press in Portugal, Senegal and other jurisdictions, and in international enforcement records. Local document retrieval is undertaken only where it can be done lawfully and safely under current conditions."
+    },
+    {
+      "q": "How reliable are Bissau-Guinean company records?",
+      "a": "Basic company particulars can usually be obtained under the OHADA commercial register framework, but records are largely paper-based, not centrally searchable and may be incomplete. Guinea-Bissau had not implemented a beneficial ownership register as of 2026. We treat local records as one input and corroborate them elsewhere."
+    },
+    {
+      "q": "What should cashew buyers check before paying an advance?",
+      "a": "That the seller is a registered business with a verifiable export history, that the stated warehouse and port arrangements exist, that there is no history of non-delivery or disputes with other buyers, and that the principals are not politically exposed in ways that create integrity or sanctions concerns."
+    },
+    {
+      "q": "Why is illicit finance screening emphasised for Guinea-Bissau?",
+      "a": "Since the mid-2000s the country has been used as a transit point for cocaine destined for Europe, and political and military figures have been linked to the trade in international enforcement actions. Screening principals and intermediaries against reliable enforcement and court records is a proportionate precaution for any significant transaction."
+    },
+    {
+      "q": "Does Guinea-Bissau law govern how TDSC handles personal data?",
+      "a": "We could not confirm the current national data protection framework, and ECOWAS rules on personal data also apply to member states. We therefore agree data handling terms with local counsel, collect only what the purpose requires and apply the client's own data protection obligations to everything we gather."
+    }
   ],
   "sources": [
-    {"title": "Guinea-Bissau (overview, 2025 coup, economy, population)", "url": "https://en.wikipedia.org/wiki/Guinea-Bissau"},
-    {"title": "Politics of Guinea-Bissau (courts and transitional authorities)", "url": "https://en.wikipedia.org/wiki/Politics_of_Guinea-Bissau"},
-    {"title": "Economy of Guinea-Bissau", "url": "https://en.wikipedia.org/wiki/Economy_of_Guinea-Bissau"},
-    {"title": "Corruption in Guinea-Bissau", "url": "https://en.wikipedia.org/wiki/Corruption_in_Guinea-Bissau"},
-    {"title": "Open Ownership: Guinea-Bissau", "url": "https://openownership.org/en/map/country/guinea-bissau/"}
+    {
+      "title": "Guinea-Bissau (overview, 2025 coup, economy, population)",
+      "url": "https://en.wikipedia.org/wiki/Guinea-Bissau"
+    },
+    {
+      "title": "Politics of Guinea-Bissau (courts and transitional authorities)",
+      "url": "https://en.wikipedia.org/wiki/Politics_of_Guinea-Bissau"
+    },
+    {
+      "title": "Economy of Guinea-Bissau",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Guinea-Bissau"
+    },
+    {
+      "title": "Corruption in Guinea-Bissau",
+      "url": "https://en.wikipedia.org/wiki/Corruption_in_Guinea-Bissau"
+    },
+    {
+      "title": "Open Ownership: Guinea-Bissau",
+      "url": "https://openownership.org/en/map/country/guinea-bissau/"
+    }
   ],
   "review_flags": [
     "WEAKLY SOURCED: only Wikipedia overviews and Open Ownership could be accessed (search budget exhausted; State Dept and DLA Piper pages unavailable). Needs a human pass with official/legal sources.",

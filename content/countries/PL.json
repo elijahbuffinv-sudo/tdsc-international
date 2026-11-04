@@ -1,0 +1,140 @@
+{
+  "cc": "PL",
+  "name": "Poland",
+  "meta_description": "Investigative consulting for matters touching Poland: due diligence, fraud inquiries and asset tracing using KRS records within Polish GDPR and detective law.",
+  "eyebrow": "Republic of Poland",
+  "hero_lede": "Investigative consulting for matters touching Poland works with free online National Court Register (KRS) filings and a statutory detective-services regime that licenses individual detectives and bars methods reserved to the state, alongside the GDPR as applied by the President of the Personal Data Protection Office.",
+  "intro": [
+    "Poland is the largest economy in Central and Eastern Europe and has a mature, documentary legal environment. Companies, foundations and associations are entered in the National Court Register (KRS), whose extracts, registration files and financial statements are available online free of charge. Detective work is itself a regulated activity under the Act of 6 July 2001 on detective services, which requires licensed detectives, entry in a register kept by the Minister of Internal Affairs, liability insurance and written reporting. The GDPR is supplemented by the Personal Data Protection Act of 2018 and by Labour Code rules on employee monitoring, so investigative scope is defined carefully before any enquiries begin.",
+    "Organisations commission work involving Poland because of its role as a manufacturing, logistics and shared-services hub for European and US groups, its large construction, energy and defence procurement programmes, and its position on the EU's eastern border. Typical needs include due diligence on Polish acquisition targets, suppliers and joint venture partners, investigations into procurement fraud, kickbacks and conflicts of interest in subsidiaries, VAT and invoice fraud exposure in trading chains, and tracing assets held through spółka z o.o. and spółka akcyjna structures. Matters often extend to Ukraine, Germany, the Czech Republic and the Baltic states through supply chains and cross-border reconstruction and transport work."
+  ],
+  "population": {
+    "value": "36.4 million",
+    "year": "2025",
+    "source_url": "https://data.worldbank.org/country/poland"
+  },
+  "legal_system": "Poland has a civil law system built on codes, principally the Civil Code, the Code of Civil Procedure, the Commercial Companies Code and the Criminal Code. Ordinary courts are organised in three tiers of district (rejonowe), regional (okręgowe) and appellate courts, with the Supreme Court at the apex and separate administrative courts. Commercial cases between businesses are heard by commercial divisions under dedicated procedural rules. The Court of Arbitration at the Polish Chamber of Commerce (SA KIG) in Warsaw is the principal arbitral institution, alongside the Lewiatan Court of Arbitration.",
+  "data_protection": {
+    "law": "General Data Protection Regulation (EU) 2016/679 and the Personal Data Protection Act of 10 May 2018 (Ustawa o ochronie danych osobowych)",
+    "regulator": "President of the Personal Data Protection Office (Prezes Urzędu Ochrony Danych Osobowych, UODO)",
+    "summary": "The 2018 Act and an Implementing Act of 21 February 2019, which amended more than 160 sectoral laws, supplement the GDPR. Criminal-offence data is governed by GDPR Article 10, and employers may request criminal record certificates only where a law requires a clean record for the role. The Labour Code permits video and email monitoring only for listed purposes and requires employees to be told at least two weeks before monitoring starts. Employers may not contact a candidate's former employers without explicit consent. The detective services act adds its own rules on handing data to clients and destroying it. Transfers outside the EEA follow GDPR Chapter V."
+  },
+  "investigator_regulation": "Detective services are regulated by the Act of 6 July 2001 on detective services. Running a detective business is a regulated activity requiring entry in the register kept by the Minister of Internal Affairs, a licensed detective within the business and mandatory civil liability insurance. Individual detective licences are issued by provincial Police commanders, subject to conditions including a clean criminal record, training and a police opinion. Detectives may not use technical means or operational methods reserved to state bodies, may not act for authorities conducting criminal proceedings, and must keep written contracts and deliver a written final report. EU and EEA providers must notify the Minister before temporary services.",
+  "corporate_records": "The National Court Register (KRS), kept under the National Court Register Act with registry courts and a Central Information Office, covers companies, foundations and associations and is searchable free by KRS number, NIP, REGON or name through the Court Registers Portal. It shows legal status, representation and key financial information. Registration files filed since July 2021 and financial statements are available free online; earlier files are held on paper at the registry court. Sole traders appear in the Central Register and Information on Economic Activity (CEIDG). Beneficial owners are recorded in the Central Register of Beneficial Owners (CRBR). Land and mortgage registers (księgi wieczyste) are kept electronically.",
+  "anti_corruption": "Bribery in the public and private sectors, including active and passive bribery and influence peddling, is criminalised in the Polish Criminal Code. Anti-money laundering obligations derive from the Act of 1 March 2018 on counteracting money laundering and terrorist financing. The General Inspector of Financial Information (GIIF), supported by the Ministry of Finance, is Poland's financial intelligence unit. The Central Anti-Corruption Bureau (CBA) is a special service that combats corruption in public and economic life, alongside the Police and public prosecutors.",
+  "matters": [
+    {
+      "title": "Manufacturing and supplier diligence",
+      "text": "Background and integrity research on Polish suppliers, contract manufacturers and logistics providers serving European and US groups, testing ownership, related-party links, litigation history and financial condition through KRS filings, court records and Polish-language media before contracts are signed."
+    },
+    {
+      "title": "Public procurement and construction fraud",
+      "text": "Research into contractors, subcontractors and consultants on infrastructure, energy and defence projects, where bid rigging, kickbacks and undisclosed conflicts of interest between procurement staff and suppliers are recurring concerns for compliance teams and project funders."
+    },
+    {
+      "title": "VAT and trading-chain exposure",
+      "text": "Checks on counterparties in fuel, electronics, metals and food trading chains, where Polish authorities have pursued carousel and invoice fraud, to identify shell entities, nominee directors and patterns that expose a buyer to tax and reputational risk."
+    },
+    {
+      "title": "Shared-services and subsidiary reviews",
+      "text": "Independent fact-finding in Polish subsidiaries and shared-services centres following whistleblower reports or audit findings, planned around the Whistleblower Protection Act, Labour Code monitoring rules and the limits on criminal-record data that apply to Polish employers."
+    },
+    {
+      "title": "Asset tracing and award enforcement",
+      "text": "Tracing assets held through spółka z o.o. and spółka akcyjna structures, family foundations and real estate, using KRS financial statements, the beneficial ownership register and land and mortgage registers to support enforcement with Polish counsel and court bailiffs."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Polish; English common in international firms"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Warsaw, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Courts language",
+      "value": "Polish; sworn translations required"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Warsaw, Kraków, Wrocław, Poznań, Gdańsk, Katowice"
+    },
+    {
+      "label": "Company identifiers",
+      "value": "KRS number, NIP (tax ID), REGON"
+    },
+    {
+      "label": "Business culture",
+      "value": "Formal titles, written agreements, punctual meetings"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Polish matters from Nashville with the Act on detective services in view. Where information must be gathered in Poland beyond desk research, TDSC coordinates detectives who hold Polish licences and operate from businesses entered in the Minister of Internal Affairs register, under written contracts that define the task and its lawful methods. Desk research centres on KRS extracts and financial statements, the beneficial ownership register, land and mortgage registers, published court judgments and Polish-language media. Employment-related work is planned with Polish counsel around Labour Code monitoring rules and restrictions on criminal-record data. TDSC does not use methods reserved to state bodies, and findings leaving the EEA are transferred under GDPR Chapter V safeguards.",
+  "faqs": [
+    {
+      "q": "Do detectives in Poland need a licence?",
+      "a": "Yes. Under the Act of 6 July 2001 on detective services, individual detectives are licensed by provincial Police commanders, and a detective business must be entered in the register kept by the Minister of Internal Affairs and hold liability insurance. TDSC coordinates only appropriately licensed Polish detectives where local enquiries are needed."
+    },
+    {
+      "q": "What can a Polish detective not do?",
+      "a": "Detectives may not use technical means or operational and reconnaissance methods reserved by law to authorised state bodies, and may not act for the authorities conducting criminal or fiscal proceedings. Performing actions reserved to state bodies is a criminal offence. They must also respect data protection rules and keep sources and case details confidential."
+    },
+    {
+      "q": "How much company information is available from the KRS?",
+      "a": "A great deal, and free of charge. The National Court Register shows legal status, representation and key financial information, and registration files and financial statements are available online through the Court Registers Portal. Files submitted before July 2021 are held on paper at the relevant registry court and may need to be inspected there."
+    },
+    {
+      "q": "Can an employer in Poland check a candidate's or employee's past?",
+      "a": "Only within limits. Polish employers may not contact a candidate's former employers without explicit consent, and may request criminal record certificates only where a law requires a clean record for the position. Monitoring of employees must serve listed purposes and be announced at least two weeks in advance."
+    },
+    {
+      "q": "Which Polish bodies handle corruption and money laundering?",
+      "a": "The Central Anti-Corruption Bureau (CBA) combats corruption in public and economic life, while the General Inspector of Financial Information (GIIF) is the financial intelligence unit under the 2018 anti-money laundering act. Criminal cases are investigated with the Police and prosecuted by the public prosecution service."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Poland",
+      "url": "https://www.dlapiperdataprotection.com/countries/poland/law.html"
+    },
+    {
+      "title": "Sejm ELI: Act of 6 July 2001 on detective services (Dz.U. 2002 nr 12 poz. 110)",
+      "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/110"
+    },
+    {
+      "title": "Sejm ELI: Consolidated text of the Act on detective services (Dz.U. 2020 poz. 129)",
+      "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/129/text.pdf"
+    },
+    {
+      "title": "European e-Justice Portal: Business registers in Poland",
+      "url": "https://e-justice.europa.eu/topics/registers-business-insolvency-land/business-registers-eu-countries/pl_en"
+    },
+    {
+      "title": "Ministry of Finance: General Inspector of Financial Information",
+      "url": "https://www.gov.pl/web/finanse/generalny-inspektor-informacji-finansowej"
+    },
+    {
+      "title": "Central Anti-Corruption Bureau (CBA)",
+      "url": "https://www.cba.gov.pl/en"
+    },
+    {
+      "title": "Court of Arbitration at the Polish Chamber of Commerce",
+      "url": "https://sakig.pl/en"
+    },
+    {
+      "title": "World Bank: Poland country data",
+      "url": "https://data.worldbank.org/country/poland"
+    }
+  ],
+  "review_flags": [
+    "Detective services summary is based on the 2020 consolidated text (Dz.U. 2020 poz. 129); a later amendment (Dz.U. 2020 poz. 1747) and possibly a newer consolidated text exist. Confirm licence and register rules are unchanged.",
+    "World Bank lists Poland at 36.4 million (2025), noticeably below Statistics Poland (GUS) figures of roughly 37 million; confirm which figure to publish.",
+    "Not verified from an opened source this session (general knowledge): CRBR beneficial ownership register and its public access status; electronic land and mortgage registers; CEIDG name; commercial divisions/procedure; Lewiatan Court of Arbitration; Criminal Code bribery and influence-peddling provisions; Whistleblower Protection Act reference; VAT carousel fraud framing."
+  ],
+  "researched": "2026-11-04"
+}

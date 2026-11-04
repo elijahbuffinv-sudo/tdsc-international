@@ -1,14 +1,18 @@
 {
   "cc": "PR",
   "name": "Puerto Rico",
-  "meta_description": "Investigative consulting for matters touching Puerto Rico: corporate registry research, Act 60 due diligence, litigation support and licensed local coordination.",
+  "meta_description": "TDSC investigative consulting on Puerto Rico: corporate registry research, Act 60 due diligence, litigation support and licensed local coordination.",
   "eyebrow": "Commonwealth of Puerto Rico",
   "hero_lede": "Investigative consulting for matters touching Puerto Rico combines United States federal law with a Spanish-language civil law tradition. Engagements typically involve Department of State registry research, Spanish-language court records, Act 60 decree holder due diligence and coordination with investigators licensed by the Puerto Rico Police Bureau.",
   "intro": [
     "Puerto Rico is an unincorporated territory of the United States, so federal statutes, federal courts and federal regulators apply alongside the Commonwealth's own legislature, courts and agencies. Private law follows the civil law tradition inherited from Spain and was recodified in the Civil Code of 2020, while procedure and public law draw heavily on United States models. Commonwealth trials are conducted in Spanish and much of the primary documentation an investigator needs, from corporate filings to judgments, is in Spanish. Investigations therefore have to move between two legal vocabularies and two court systems, and between records held by the Department of State, the Commonwealth judiciary and the US District Court for the District of Puerto Rico.",
     "Organisations commission work involving Puerto Rico for reasons tied to its particular economy. The island hosts a long-established pharmaceutical and medical device manufacturing base, a financial and insurance sector, and a growing population of individuals and companies relocating under the tax incentives consolidated in the Puerto Rico Incentives Code (Act 60-2019). Public contracting, disaster recovery funding and the fiscal oversight process established under the federal PROMESA statute have also drawn scrutiny of contractors and counterparties. Typical exposures include misrepresented residency or business presence, related-party contracting, asset concealment in litigation, employee misconduct in regulated facilities, and reputational questions about counterparties in public procurement."
   ],
-  "population": {"value": "approximately 3.2 million", "year": "2024", "source_url": "https://newsismybusiness.com/puerto-ricos-population-decline-continues-census-bureau-reports"},
+  "population": {
+    "value": "approximately 3.2 million",
+    "year": "2024",
+    "source_url": "https://newsismybusiness.com/puerto-ricos-population-decline-continues-census-bureau-reports"
+  },
   "legal_system": "Puerto Rico has a mixed legal system: private law (obligations, contracts, property, family, succession) follows the civil law tradition and is codified in the Civil Code of 2020 (Act 55-2020), while constitutional, procedural and much public law follows United States common law models. Commonwealth courts comprise the Court of First Instance, the Court of Appeals and the Supreme Court of Puerto Rico. Federal matters go to the US District Court for the District of Puerto Rico and the First Circuit. Arbitration is governed, as of 2025, by the Puerto Rico Arbitration Act (Act 147-2024).",
   "data_protection": {
     "law": "No comprehensive data protection statute; sectoral laws including the Citizen Information on Data Banks Security Act (Act 111-2005), plus applicable US federal law",
@@ -19,41 +23,125 @@
   "corporate_records": "Corporations, limited liability companies and other entities are registered with the Puerto Rico Department of State through its online Registry of Corporations and Legal Entities. Articles of incorporation identify the resident agent, designated office, authorised stock and incorporator, and entities file annual reports with the Department of State, with a deadline of 15 April for corporations. Share ownership is not recorded in a public register. Following FinCEN's March 2025 interim final rule, entities created in Puerto Rico are treated as domestic US companies and are exempt from federal beneficial ownership reporting. Commonwealth and federal court records are available through the respective judiciaries.",
   "anti_corruption": "The Anti-Corruption Code for the New Puerto Rico (Act 2-2018) consolidates local anti-corruption provisions, bars persons and companies convicted of specified offences from contracting with executive agencies and requires bidders to file sworn declarations on prior convictions. The Department of Justice, the Office of Government Ethics, the Office of the Comptroller and the Office of the Special Independent Prosecutor Panel all have roles. US federal anti-corruption and anti-money laundering statutes, including the Bank Secrecy Act, also apply.",
   "matters": [
-    {"title": "Act 60 decree holder verification", "text": "Due diligence on individuals and businesses that claim Puerto Rico residency or export-services operations under the Incentives Code, including corporate presence, property records, litigation history and media review, for investors, counterparties or litigants assessing whether claimed operations and relationships are substantive."},
-    {"title": "Public contractor and vendor screening", "text": "Background research on contractors and suppliers to Commonwealth agencies and recovery-funded projects, covering corporate affiliations, officers, debarment and conviction exposure under Act 2-2018, related-party links and adverse media, to support procurement, compliance and lender reviews."},
-    {"title": "Life sciences workplace investigations", "text": "Fact-finding support in pharmaceutical and medical device manufacturing settings, where allegations of data integrity failures, diversion or misconduct must be handled with attention to constitutional privacy, prior-notice expectations for monitoring and Puerto Rico's unjust dismissal rules."},
-    {"title": "Asset research for litigation", "text": "Lawful identification of corporate interests, real property and litigation history in Commonwealth and federal records to support judgment enforcement, insolvency matters or settlement strategy, coordinated with Puerto Rico counsel on the appropriate procedural tools for discovery and attachment."},
-    {"title": "Counterparty and acquisition diligence", "text": "Pre-transaction reviews of Puerto Rico companies and principals, including Department of State filings, Spanish-language court dockets, regulatory actions and reputational inquiries, for acquirers, lenders and private equity firms entering the island's manufacturing, real estate, healthcare and services markets."}
+    {
+      "title": "Act 60 decree holder verification",
+      "text": "Due diligence on individuals and businesses that claim Puerto Rico residency or export-services operations under the Incentives Code, including corporate presence, property records, litigation history and media review, for investors, counterparties or litigants assessing whether claimed operations and relationships are substantive."
+    },
+    {
+      "title": "Public contractor and vendor screening",
+      "text": "Background research on contractors and suppliers to Commonwealth agencies and recovery-funded projects, covering corporate affiliations, officers, debarment and conviction exposure under Act 2-2018, related-party links and adverse media, to support procurement, compliance and lender reviews."
+    },
+    {
+      "title": "Life sciences workplace investigations",
+      "text": "Fact-finding support in pharmaceutical and medical device manufacturing settings, where allegations of data integrity failures, diversion or misconduct must be handled with attention to constitutional privacy, prior-notice expectations for monitoring and Puerto Rico's unjust dismissal rules."
+    },
+    {
+      "title": "Asset research for litigation",
+      "text": "Lawful identification of corporate interests, real property and litigation history in Commonwealth and federal records to support judgment enforcement, insolvency matters or settlement strategy, coordinated with Puerto Rico counsel on the appropriate procedural tools for discovery and attachment."
+    },
+    {
+      "title": "Counterparty and acquisition diligence",
+      "text": "Pre-transaction reviews of Puerto Rico companies and principals, including Department of State filings, Spanish-language court dockets, regulatory actions and reputational inquiries, for acquirers, lenders and private equity firms entering the island's manufacturing, real estate, healthcare and services markets."
+    }
   ],
   "practical": [
-    {"label": "Business languages", "value": "Spanish and English (both official)"},
-    {"label": "Courts language", "value": "Spanish in Commonwealth courts; English in federal court"},
-    {"label": "Time zone", "value": "America/Puerto_Rico (UTC-4, no daylight saving time)"},
-    {"label": "Currency", "value": "US dollar"},
-    {"label": "Working week", "value": "Monday to Friday"},
-    {"label": "Main business centres", "value": "San Juan metropolitan area, Ponce, Mayagüez, Caguas"},
-    {"label": "Document formalities", "value": "Sworn declarations and many filings require a Puerto Rico notary, who is a licensed attorney"}
+    {
+      "label": "Business languages",
+      "value": "Spanish and English (both official)"
+    },
+    {
+      "label": "Courts language",
+      "value": "Spanish in Commonwealth courts; English in federal court"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Puerto_Rico (UTC-4, no daylight saving time)"
+    },
+    {
+      "label": "Currency",
+      "value": "US dollar"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Main business centres",
+      "value": "San Juan metropolitan area, Ponce, Mayagüez, Caguas"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Sworn declarations and many filings require a Puerto Rico notary, who is a licensed attorney"
+    }
   ],
   "tdsc_approach": "TDSC scopes Puerto Rico engagements from Nashville and begins by identifying which law governs each task, since Commonwealth privacy and licensing rules sit alongside federal statutes such as the Fair Credit Reporting Act. Desk research draws on the Department of State registry, Commonwealth and federal court records, property and regulatory sources and Spanish-language media, reviewed by Spanish-proficient analysts. Where fieldwork, interviews or surveillance are needed, TDSC coordinates detectives licensed under Act 108-1965 and works with Puerto Rico counsel on privilege, employee monitoring and the admissibility of evidence. Personal data is collected only for a defined purpose, held in access-controlled systems and returned or destroyed under the engagement terms. TDSC does not hold a Puerto Rico licence and does not provide legal advice.",
   "faqs": [
-    {"q": "Does a private investigator need a Puerto Rico licence even though it is a US territory?", "a": "Yes. Puerto Rico licenses its own private detectives under Act 108-1965, administered by the Puerto Rico Police Bureau. A licence from a US state does not authorise investigative work on the island. TDSC therefore conducts research from Nashville and engages locally licensed detectives for any fieldwork, interviews or surveillance carried out in Puerto Rico."},
-    {"q": "Can you verify whether someone genuinely relocated to Puerto Rico under Act 60?", "a": "We can research the publicly observable footprint of a claimed relocation: entity filings, property records, litigation, professional activity and media coverage. We do not access tax records, decree files or government systems that are not public. Findings help clients and counsel assess consistency, while any formal residency question remains a matter for tax advisers and the relevant authorities."},
-    {"q": "Are Puerto Rico court records in English?", "a": "Federal court records from the US District Court for the District of Puerto Rico are in English. Commonwealth court proceedings and many filings are in Spanish, as are most Department of State documents. TDSC reviews Spanish-language material directly and can arrange certified translation when documents are needed for proceedings outside Puerto Rico."},
-    {"q": "Can an employer in Puerto Rico monitor employees during an internal investigation?", "a": "Puerto Rico recognises a constitutional right to privacy that applies to private employers, and case law generally expects employees to receive prior notice of electronic monitoring. Any monitoring, device review or covert observation should be planned with Puerto Rico employment counsel before it starts. TDSC structures investigative steps around that advice."},
-    {"q": "Is beneficial ownership information for Puerto Rico companies publicly available?", "a": "No public beneficial ownership register exists. Since FinCEN's March 2025 interim final rule, Puerto Rico entities are treated as domestic and are exempt from federal beneficial ownership reporting. Ownership is therefore reconstructed from filings, officers and agents, related entities, litigation, property records and other lawful sources, with conclusions stated at the confidence the evidence supports."}
+    {
+      "q": "Does a private investigator need a Puerto Rico licence even though it is a US territory?",
+      "a": "Yes. Puerto Rico licenses its own private detectives under Act 108-1965, administered by the Puerto Rico Police Bureau. A licence from a US state does not authorise investigative work on the island. TDSC therefore conducts research from Nashville and engages locally licensed detectives for any fieldwork, interviews or surveillance carried out in Puerto Rico."
+    },
+    {
+      "q": "Can you verify whether someone genuinely relocated to Puerto Rico under Act 60?",
+      "a": "We can research the publicly observable footprint of a claimed relocation: entity filings, property records, litigation, professional activity and media coverage. We do not access tax records, decree files or government systems that are not public. Findings help clients and counsel assess consistency, while any formal residency question remains a matter for tax advisers and the relevant authorities."
+    },
+    {
+      "q": "Are Puerto Rico court records in English?",
+      "a": "Federal court records from the US District Court for the District of Puerto Rico are in English. Commonwealth court proceedings and many filings are in Spanish, as are most Department of State documents. TDSC reviews Spanish-language material directly and can arrange certified translation when documents are needed for proceedings outside Puerto Rico."
+    },
+    {
+      "q": "Can an employer in Puerto Rico monitor employees during an internal investigation?",
+      "a": "Puerto Rico recognises a constitutional right to privacy that applies to private employers, and case law generally expects employees to receive prior notice of electronic monitoring. Any monitoring, device review or covert observation should be planned with Puerto Rico employment counsel before it starts. TDSC structures investigative steps around that advice."
+    },
+    {
+      "q": "Is beneficial ownership information for Puerto Rico companies publicly available?",
+      "a": "No public beneficial ownership register exists. Since FinCEN's March 2025 interim final rule, Puerto Rico entities are treated as domestic and are exempt from federal beneficial ownership reporting. Ownership is therefore reconstructed from filings, officers and agents, related entities, litigation, property records and other lawful sources, with conclusions stated at the confidence the evidence supports."
+    }
   ],
   "sources": [
-    {"title": "P.R. Laws tit. 25, § 285c - Private detective license requirements", "url": "https://d1tvxue8o4w0fl.cloudfront.net/statute/laws-of-puerto-rico/title-twenty-five-internal-security/subtitle-1-generally/part-ii-investigation-agencies/chapter-27-private-detectives/285c-license-requirements"},
-    {"title": "Metro Puerto Rico - Policía abre convocatoria para examen de detective privado (2025)", "url": "https://www.metro.pr/noticias/2025/05/28/policia-abre-convocatoria-para-tomar-examen-de-detective-privado/"},
-    {"title": "News is my Business - Puerto Rico population decline continues (Census Bureau)", "url": "https://newsismybusiness.com/puerto-ricos-population-decline-continues-census-bureau-reports"},
-    {"title": "Chambers Litigation 2026 - Puerto Rico", "url": "https://practiceguides.chambers.com/practice-guides/litigation-2026/puerto-rico"},
-    {"title": "Lex Mundi Global Data Privacy Guide - Puerto Rico", "url": "https://www.lexmundi.com/guides/data-privacy-guide/jurisdictions/caribbean/usa-puerto-rico/"},
-    {"title": "Morgan Lewis - Labour and Employment 2022: Puerto Rico", "url": "https://morganlewis.com/-/media/files/special-topics/gtdt/2022/getting-the-deal-through-labour-employment-2022-puerto-rico.pdf"},
-    {"title": "Puerto Rico Department of State - Registry of Corporations and Legal Entities", "url": "https://rcp.estado.pr.gov/en"},
-    {"title": "Multilaw - Puerto Rico Corporations", "url": "https://www.multilaw.com/Multilaw/Global_Business_Entities_Guide/Puerto_Rico_-_Corporations.aspx"},
-    {"title": "McConnell Valdés - CTA March 2025 Update", "url": "https://www.mcvpr.com/newsroom/publications/CTA-March-Update"},
-    {"title": "Ley 2-2018 Código Anticorrupción para el Nuevo Puerto Rico", "url": "https://docs.pr.gov/files/OIG/Normativas/Leyes/Ley-2-2018 - Codigo Anticorrupción para el Nuevo Puerto Rico.pdf"},
-    {"title": "Act 60-2019 Puerto Rico Incentives Code (InvestPR)", "url": "https://investpr.org/wp-content/uploads/2022/07/Act-60-Puerto-Ricos-Incentives-Code.pdf"}
+    {
+      "title": "P.R. Laws tit. 25, § 285c - Private detective license requirements",
+      "url": "https://d1tvxue8o4w0fl.cloudfront.net/statute/laws-of-puerto-rico/title-twenty-five-internal-security/subtitle-1-generally/part-ii-investigation-agencies/chapter-27-private-detectives/285c-license-requirements"
+    },
+    {
+      "title": "Metro Puerto Rico - Policía abre convocatoria para examen de detective privado (2025)",
+      "url": "https://www.metro.pr/noticias/2025/05/28/policia-abre-convocatoria-para-tomar-examen-de-detective-privado/"
+    },
+    {
+      "title": "News is my Business - Puerto Rico population decline continues (Census Bureau)",
+      "url": "https://newsismybusiness.com/puerto-ricos-population-decline-continues-census-bureau-reports"
+    },
+    {
+      "title": "Chambers Litigation 2026 - Puerto Rico",
+      "url": "https://practiceguides.chambers.com/practice-guides/litigation-2026/puerto-rico"
+    },
+    {
+      "title": "Lex Mundi Global Data Privacy Guide - Puerto Rico",
+      "url": "https://www.lexmundi.com/guides/data-privacy-guide/jurisdictions/caribbean/usa-puerto-rico/"
+    },
+    {
+      "title": "Morgan Lewis - Labour and Employment 2022: Puerto Rico",
+      "url": "https://morganlewis.com/-/media/files/special-topics/gtdt/2022/getting-the-deal-through-labour-employment-2022-puerto-rico.pdf"
+    },
+    {
+      "title": "Puerto Rico Department of State - Registry of Corporations and Legal Entities",
+      "url": "https://rcp.estado.pr.gov/en"
+    },
+    {
+      "title": "Multilaw - Puerto Rico Corporations",
+      "url": "https://www.multilaw.com/Multilaw/Global_Business_Entities_Guide/Puerto_Rico_-_Corporations.aspx"
+    },
+    {
+      "title": "McConnell Valdés - CTA March 2025 Update",
+      "url": "https://www.mcvpr.com/newsroom/publications/CTA-March-Update"
+    },
+    {
+      "title": "Ley 2-2018 Código Anticorrupción para el Nuevo Puerto Rico",
+      "url": "https://docs.pr.gov/files/OIG/Normativas/Leyes/Ley-2-2018 - Codigo Anticorrupción para el Nuevo Puerto Rico.pdf"
+    },
+    {
+      "title": "Act 60-2019 Puerto Rico Incentives Code (InvestPR)",
+      "url": "https://investpr.org/wp-content/uploads/2022/07/Act-60-Puerto-Ricos-Incentives-Code.pdf"
+    }
   ],
   "review_flags": [
     "Bank Secrecy Act / federal AML applicability stated from general knowledge rather than an opened source.",

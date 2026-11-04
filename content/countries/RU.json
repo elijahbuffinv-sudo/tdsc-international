@@ -1,14 +1,18 @@
 {
   "cc": "RU",
   "name": "Russia",
-  "meta_description": "Sanctions-screened investigative consulting on matters touching Russia: lawful due diligence, ownership and exposure research and risk advisory for clients outside Russia.",
+  "meta_description": "Sanctions-screened TDSC consulting on matters touching Russia: lawful due diligence, ownership and exposure research, and risk advisory for clients outside it.",
   "eyebrow": "Russian Federation",
   "hero_lede": "Investigative consulting on matters touching Russia is shaped first by sanctions. TDSC's work is limited to lawful due diligence, ownership and exposure research and risk advisory for clients outside Russia, screened against US and other applicable sanctions and conducted without services to persons located in Russia.",
   "intro": [
     "Russia has a civil law system with a detailed Civil Code, a separate system of arbitrazh (commercial) courts and an extensive body of federal regulation. For foreign organisations, the operating environment is now defined by the comprehensive and still-evolving US, EU, UK and other sanctions imposed since 2022, Russian counter-measures, and restrictions on information. Russia's data protection law requires that personal data of Russian citizens be initially stored in Russia, and access to some corporate disclosures has narrowed since 2022. Investigative work therefore relies heavily on historical records, international sources and careful analysis, and every step must be checked against sanctions and export rules before it is taken.",
     "Organisations outside Russia commission investigative work touching Russia mainly to understand and manage exposure. Typical needs include determining whether a counterparty, supplier or investor is owned or controlled, directly or indirectly, by sanctioned persons; identifying transshipment or diversion risks for controlled goods; assessing the history of acquired businesses that once operated in Russia; supporting litigation or arbitration involving Russian-connected parties; and researching assets of judgment debtors held outside Russia. Energy, metals, shipping, finance, technology and dual-use goods are the sectors where these questions most often arise, and where screening failures carry the greatest regulatory consequences."
   ],
-  "population": {"value": "143.5 million", "year": "2025", "source_url": "https://api.worldbank.org/v2/country/RU/indicator/SP.POP.TOTL?format=json&mrnev=1"},
+  "population": {
+    "value": "143.5 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/RU/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
   "legal_system": "Russia has a civil law system based on the Constitution, the Civil Code and federal statutes. Commercial disputes between businesses are heard by the system of arbitrazh courts, with appeal and cassation instances and the Supreme Court of the Russian Federation at the top; courts of general jurisdiction hear other civil and criminal matters. Arbitration is available through institutions such as the International Commercial Arbitration Court at the Chamber of Commerce and Industry. Since 2020, Russian procedural law has allowed sanctioned Russian parties to seek to bring disputes before Russian courts despite foreign forum clauses.",
   "data_protection": {
     "law": "Federal Law No. 152-FZ of 27 July 2006 'On Personal Data', as amended",
@@ -19,34 +23,97 @@
   "corporate_records": "Russian legal entities are recorded in the Unified State Register of Legal Entities (EGRUL), maintained by the Federal Tax Service, which has historically disclosed registered address, management, founders and participants of limited liability companies, and charter capital. Since 2022, Russian rules have permitted certain companies and persons, including those under foreign sanctions, to restrict disclosure of information in the register and in financial statements, so current records may be incomplete. Arbitrazh court case files are searchable through the courts' online card index. Historical registry data, foreign filings, trade data and international media are therefore central to ownership analysis.",
   "anti_corruption": "Russia's principal anti-corruption statute is Federal Law No. 273-FZ of 25 December 2008 'On Combating Corruption', with bribery offences in the Criminal Code and corporate liability for illicit remuneration under the Code of Administrative Offences. Anti-money laundering obligations are set by Federal Law No. 115-FZ of 7 August 2001, with the Federal Financial Monitoring Service (Rosfinmonitoring) as the financial intelligence unit. The Prosecutor General's Office and the Investigative Committee lead enforcement.",
   "matters": [
-    {"title": "Sanctions ownership and control analysis", "text": "Research for clients outside Russia into whether counterparties, vessels, suppliers or investors are owned or controlled by sanctioned persons, using historical Russian registry data, foreign filings, trade data and international media, with findings framed for review by the client's sanctions counsel."},
-    {"title": "Export diversion and transshipment risk", "text": "Assessing intermediaries in third countries that may be routing controlled goods toward Russia, by examining corporate histories, shared addresses and officers, trade flows and adverse media, so compliance teams can apply enhanced screening or decline transactions."},
-    {"title": "Legacy exposure in acquisitions", "text": "Due diligence on companies outside Russia that formerly operated there or retain Russian-connected shareholders, examining exit transactions, residual interests, related parties and litigation, to help acquirers understand sanctions, reputational and successor liability exposure."},
-    {"title": "Disputes with Russian-connected parties", "text": "Support for counsel in litigation and arbitration outside Russia involving Russian-connected parties, including background research on witnesses and counterparties, corporate genealogy and lawful asset research in jurisdictions outside Russia, with every step screened for sanctions implications."},
-    {"title": "Investor and counterparty screening", "text": "Enhanced background research on individuals and entities with Russian links seeking to invest in, partner with or buy from clients outside Russia, covering sanctions designations, ownership history, political exposure and media, with clear statements of the limits of available records."}
+    {
+      "title": "Sanctions ownership and control analysis",
+      "text": "Research for clients outside Russia into whether counterparties, vessels, suppliers or investors are owned or controlled by sanctioned persons, using historical Russian registry data, foreign filings, trade data and international media, with findings framed for review by the client's sanctions counsel."
+    },
+    {
+      "title": "Export diversion and transshipment risk",
+      "text": "Assessing intermediaries in third countries that may be routing controlled goods toward Russia, by examining corporate histories, shared addresses and officers, trade flows and adverse media, so compliance teams can apply enhanced screening or decline transactions."
+    },
+    {
+      "title": "Legacy exposure in acquisitions",
+      "text": "Due diligence on companies outside Russia that formerly operated there or retain Russian-connected shareholders, examining exit transactions, residual interests, related parties and litigation, to help acquirers understand sanctions, reputational and successor liability exposure."
+    },
+    {
+      "title": "Disputes with Russian-connected parties",
+      "text": "Support for counsel in litigation and arbitration outside Russia involving Russian-connected parties, including background research on witnesses and counterparties, corporate genealogy and lawful asset research in jurisdictions outside Russia, with every step screened for sanctions implications."
+    },
+    {
+      "title": "Investor and counterparty screening",
+      "text": "Enhanced background research on individuals and entities with Russian links seeking to invest in, partner with or buy from clients outside Russia, covering sanctions designations, ownership history, political exposure and media, with clear statements of the limits of available records."
+    }
   ],
   "practical": [
-    {"label": "Sanctions status", "value": "Comprehensive and extensive US, EU and UK sanctions in force as of November 2026"},
-    {"label": "Business language", "value": "Russian"},
-    {"label": "Courts language", "value": "Russian"},
-    {"label": "Time zones", "value": "Eleven zones, UTC+2 to UTC+12; Moscow is Europe/Moscow (UTC+3, no daylight saving time)"},
-    {"label": "Currency", "value": "Russian rouble (RUB)"},
-    {"label": "Main business centres", "value": "Moscow, Saint Petersburg, Yekaterinburg, Novosibirsk, Kazan"},
-    {"label": "Records availability", "value": "Corporate and financial disclosures restricted for some companies since 2022"}
+    {
+      "label": "Sanctions status",
+      "value": "Comprehensive and extensive US, EU and UK sanctions in force as of November 2026"
+    },
+    {
+      "label": "Business language",
+      "value": "Russian"
+    },
+    {
+      "label": "Courts language",
+      "value": "Russian"
+    },
+    {
+      "label": "Time zones",
+      "value": "Eleven zones, UTC+2 to UTC+12; Moscow is Europe/Moscow (UTC+3, no daylight saving time)"
+    },
+    {
+      "label": "Currency",
+      "value": "Russian rouble (RUB)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Moscow, Saint Petersburg, Yekaterinburg, Novosibirsk, Kazan"
+    },
+    {
+      "label": "Records availability",
+      "value": "Corporate and financial disclosures restricted for some companies since 2022"
+    }
   ],
   "tdsc_approach": "TDSC is a US company and screens every matter touching Russia for compliance with US and other applicable sanctions and export controls before accepting it. It does not accept engagements that would violate those rules. In particular, TDSC does not provide services to persons located in Russia, does not engage investigators, data vendors or other service providers in Russia, and does not deal with blocked persons or their property. Engagements involving Russia are therefore limited to lawful due diligence, ownership analysis and risk advisory for clients outside Russia, carried out from Nashville using public, historical and international sources. TDSC works alongside the client's sanctions counsel, documents the basis for each conclusion and does not provide legal or sanctions advice.",
   "faqs": [
-    {"q": "Will TDSC take on work involving Russia?", "a": "Only after sanctions screening. TDSC accepts lawful engagements for clients outside Russia, such as determining whether a counterparty is owned or controlled by sanctioned persons. It declines matters that would involve providing services to persons in Russia, dealing with blocked persons or property, or any other activity prohibited by US or other applicable sanctions."},
-    {"q": "Can you send an investigator to Russia?", "a": "No. TDSC does not conduct or commission fieldwork in Russia and does not engage investigators or other service providers there. Research is conducted from Nashville using public, historical and international sources. Where questions cannot be answered from those sources, the report says so rather than seeking information through channels that could breach sanctions or Russian law."},
-    {"q": "Are Russian company records still reliable for ownership research?", "a": "Less than before. Since 2022, some companies and individuals, including sanctioned persons, have been permitted to restrict disclosure in the state register and in financial statements. Current extracts may therefore be incomplete. TDSC compares historical registry data, foreign filings, trade records and media to reconstruct ownership and states its confidence explicitly."},
-    {"q": "How do you assess the 50 percent ownership rule for a Russian-linked counterparty?", "a": "We map direct and indirect ownership and control as far as lawful sources allow, aggregating interests held by designated persons and identifying gaps or nominee indicators. The resulting chart and evidence log are prepared for the client's sanctions counsel, who makes the legal determination. We do not give sanctions advice ourselves."},
-    {"q": "Can TDSC find assets of a Russian judgment debtor?", "a": "We can research assets held outside Russia, such as companies, real estate, vessels and aircraft in other jurisdictions, through lawful public sources, and only after confirming with counsel that the work and any resulting enforcement are consistent with applicable sanctions and licensing requirements. We do not conduct asset tracing inside Russia."}
+    {
+      "q": "Will TDSC take on work involving Russia?",
+      "a": "Only after sanctions screening. TDSC accepts lawful engagements for clients outside Russia, such as determining whether a counterparty is owned or controlled by sanctioned persons. It declines matters that would involve providing services to persons in Russia, dealing with blocked persons or property, or any other activity prohibited by US or other applicable sanctions."
+    },
+    {
+      "q": "Can you send an investigator to Russia?",
+      "a": "No. TDSC does not conduct or commission fieldwork in Russia and does not engage investigators or other service providers there. Research is conducted from Nashville using public, historical and international sources. Where questions cannot be answered from those sources, the report says so rather than seeking information through channels that could breach sanctions or Russian law."
+    },
+    {
+      "q": "Are Russian company records still reliable for ownership research?",
+      "a": "Less than before. Since 2022, some companies and individuals, including sanctioned persons, have been permitted to restrict disclosure in the state register and in financial statements. Current extracts may therefore be incomplete. TDSC compares historical registry data, foreign filings, trade records and media to reconstruct ownership and states its confidence explicitly."
+    },
+    {
+      "q": "How do you assess the 50 percent ownership rule for a Russian-linked counterparty?",
+      "a": "We map direct and indirect ownership and control as far as lawful sources allow, aggregating interests held by designated persons and identifying gaps or nominee indicators. The resulting chart and evidence log are prepared for the client's sanctions counsel, who makes the legal determination. We do not give sanctions advice ourselves."
+    },
+    {
+      "q": "Can TDSC find assets of a Russian judgment debtor?",
+      "a": "We can research assets held outside Russia, such as companies, real estate, vessels and aircraft in other jurisdictions, through lawful public sources, and only after confirming with counsel that the work and any resulting enforcement are consistent with applicable sanctions and licensing requirements. We do not conduct asset tracing inside Russia."
+    }
   ],
   "sources": [
-    {"title": "OFAC - Russian Harmful Foreign Activities Sanctions", "url": "https://ofac.treasury.gov/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions"},
-    {"title": "DLA Piper Data Protection Laws of the World - Russia", "url": "https://www.dlapiperdataprotection.com/index.html?t=law&c=RU"},
-    {"title": "World Bank API - Population, total (Russian Federation)", "url": "https://api.worldbank.org/v2/country/RU/indicator/SP.POP.TOTL?format=json&mrnev=1"},
-    {"title": "OFAC - Russia-related FAQs", "url": "https://ofac.treasury.gov/faqs/topic/6626"}
+    {
+      "title": "OFAC - Russian Harmful Foreign Activities Sanctions",
+      "url": "https://ofac.treasury.gov/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions"
+    },
+    {
+      "title": "DLA Piper Data Protection Laws of the World - Russia",
+      "url": "https://www.dlapiperdataprotection.com/index.html?t=law&c=RU"
+    },
+    {
+      "title": "World Bank API - Population, total (Russian Federation)",
+      "url": "https://api.worldbank.org/v2/country/RU/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "OFAC - Russia-related FAQs",
+      "url": "https://ofac.treasury.gov/faqs/topic/6626"
+    }
   ],
   "review_flags": [
     "SANCTIONS: verified from OFAC program page (Nov 2026) that the program remains in force with new measures through Oct 2026 (EO 14436) and targeted general licenses; no broad easing. Legal review of the tdsc_approach wording is recommended, especially the statement that TDSC provides no services to persons in Russia (EO 14071 management consulting / accounting determinations).",

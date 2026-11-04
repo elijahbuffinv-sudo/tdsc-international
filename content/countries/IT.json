@@ -1,0 +1,141 @@
+{
+  "cc": "IT",
+  "name": "Italy",
+  "meta_description": "Investigative consulting for matters touching Italy: counterparty due diligence, asset tracing and internal inquiries under prefect licensing and the GDPR.",
+  "eyebrow": "Italian Republic",
+  "hero_lede": "Investigative consulting for matters touching Italy means working with prefect-licensed investigators, data protection rules enforced by the Garante, strict limits on how employees may be investigated, and a chamber of commerce register that publishes shareholdings, officers and financial statements in unusual depth.",
+  "intro": [
+    "Italy offers investigators some of the richest corporate data in Europe and some of the strictest limits on how people may be investigated. The chamber of commerce Business Register publishes current and historical officer positions and shareholdings, financial statements and protest records. At the same time, private investigation requires a licence from the prefect, the Garante per la protezione dei dati personali enforces the GDPR and the Privacy Code actively, and labour law restricts inquiries into employees. Corporate criminal liability under Legislative Decree 231/2001 means that companies and their advisers take compliance programmes and internal inquiries seriously, and that the way an inquiry is run can itself carry legal consequences.",
+    "Italy is the euro area's third-largest economy, with a manufacturing base built on family-controlled groups and industrial districts in machinery, automotive components, fashion and luxury, food and wine, pharmaceuticals and design. Northern Italy is tightly integrated into European supply chains, while public works, energy and defence draw on large state-linked companies. Organisations commission investigative work involving Italy for acquisition and partner due diligence on privately held companies, supplier and distributor integrity reviews, procurement and public contract risk, allegations of fraud within Italian subsidiaries, brand protection and counterfeiting, and the tracing of assets held through Italian companies or real estate."
+  ],
+  "population": {
+    "value": "58.9 million",
+    "year": "2025",
+    "source_url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IT"
+  },
+  "legal_system": "Italy has a civil law system based on the Constitution of 1948, the Civil Code of 1942, the Code of Civil Procedure and the Criminal Code. Ordinary courts comprise first-instance tribunals, courts of appeal and the Court of Cassation; administrative disputes, including many public procurement challenges, go to regional administrative tribunals (TAR) and the Council of State. Corporate and intellectual property disputes are assigned to specialised business sections of the tribunals in the main cities. The Milan Chamber of Arbitration, operating since 1987, is the leading domestic arbitral institution.",
+  "data_protection": {
+    "law": "General Data Protection Regulation (EU) 2016/679; Personal Data Protection Code (Legislative Decree 196/2003), as amended by Legislative Decree 101/2018",
+    "regulator": "Garante per la protezione dei dati personali",
+    "summary": "Investigative work involving people in Italy is subject to the GDPR and the Privacy Code as amended in 2018. Data relating to criminal convictions and offences may be processed only where a specific legal provision authorises it, under Article 2-octies of the Code. The Garante has issued guidance that directly affects workplace inquiries, including 2024 guidelines limiting retention of employee email metadata. Investigative processing for the establishment or defence of legal claims is subject to Garante deontological rules. The Code adds no derogation for international transfers, so transfers to the United States follow the GDPR, including the EU-US Data Privacy Framework for certified recipients or standard contractual clauses."
+  },
+  "investigator_regulation": "Private investigation in Italy requires a licence issued by the prefect under the Consolidated Law on Public Security (TULPS, Royal Decree 773/1931), with detailed requirements set by Ministry of the Interior Decree No. 269 of 1 December 2010. The licence covers the national territory. Licensed investigators may act for individuals, companies, public bodies and lawyers, including in defence investigations under the Code of Criminal Procedure as amended by Law 397/2000. Labour law prohibits employers from inquiring into employees' opinions and matters irrelevant to their work, and limits remote monitoring. Investigators have no access to restricted government databases and remain bound by the Privacy Code.",
+  "corporate_records": "The Business Register (Registro delle imprese), kept by the chambers of commerce and distributed through the InfoCamere portal registroimprese.it, publishes company extracts (visure), registered office, current and historical officer positions, current and historical shareholdings in limited companies, filed financial statements, company files and protest records, with an English-language extract available. Property records are held by the land registry and the conservatorie of the Revenue Agency. A beneficial ownership section of the Business Register was introduced in 2023, but access by parties other than authorities and obliged entities has been contested in the courts, and current availability should be confirmed for each matter.",
+  "anti_corruption": "Bribery of public officials, including foreign officials, is punishable under Articles 318 to 322-bis of the Criminal Code, and private bribery under the Civil Code. Law 190/2012 established the national anti-corruption prevention framework overseen by ANAC, the independent National Anti-Corruption Authority, which also supervises public contracts. Legislative Decree 231/2001 imposes liability on companies for offences committed in their interest, mitigated by an effective compliance model. Anti-money-laundering obligations derive from Legislative Decree 231/2007, with the Financial Intelligence Unit at the Bank of Italy and the Guardia di Finanza central to enforcement.",
+  "matters": [
+    {
+      "title": "Family-owned target due diligence",
+      "text": "Many Italian acquisition targets are privately held and family-controlled, with value tied to founders and related-party arrangements. We trace shareholdings and officer histories through the Business Register, review filed financial statements and protest records, and test management representations against media and court sources."
+    },
+    {
+      "title": "Public procurement and contract integrity",
+      "text": "Infrastructure, energy and healthcare contracts carry risk of collusion, subcontracting abuse and infiltration by criminal interests. We review bidders, subcontractors and intermediaries against corporate filings, published administrative rulings and adverse media, framed against Decree 231/2001 and ANAC procurement rules."
+    },
+    {
+      "title": "Supply chain and distributor reviews",
+      "text": "Italy's industrial districts depend on dense networks of small suppliers and agents. We assess ownership, financial condition and integrity indicators of distributors and suppliers, identify undisclosed links between counterparties, and flag entities whose filings or protest history suggest instability."
+    },
+    {
+      "title": "Fashion and design brand protection",
+      "text": "Luxury and design houses face counterfeiting, parallel imports and leaks from production chains. We map the corporate and online footprint of suspected networks and coordinate with prefect-licensed investigators and counsel who handle any field work or evidence for proceedings."
+    },
+    {
+      "title": "Asset tracing for enforcement",
+      "text": "Where a judgment or award must be enforced against a party with Italian connections, we identify shareholdings, directorships and publicly documented property through lawful sources, and support Italian counsel in assessing recognition, attachment and insolvency options."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Italian; English common in larger groups and finance"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Rome, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; August is a slow month"
+    },
+    {
+      "label": "Court language",
+      "value": "Italian"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Milan, Rome, Turin, Bologna, Naples, Florence"
+    },
+    {
+      "label": "Company identifier",
+      "value": "REA number and tax code (codice fiscale) / VAT number"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-based; personal introductions and in-person meetings matter"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Sworn translation usually required for foreign documents filed in court"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Italian matters from Nashville and first separates desk research, which can be done from lawful public sources, from activity that requires a prefect's licence, such as locating or observing individuals or gathering witness information in Italy. Licensed activity is carried out by Italian investigators holding a current licence or by counsel, with TDSC defining questions, coordinating and integrating results. Where findings may support criminal or civil proceedings, the work is structured with Italian counsel from the outset. Desk research uses the Business Register, filed accounts, protest records, published court and administrative decisions and media sources. Employee-related matters are checked against labour law limits before any step is taken, and personal data is processed under a documented legal basis and transferred to the United States under a GDPR-compliant mechanism.",
+  "faqs": [
+    {
+      "q": "Can we see the shareholders of an Italian company?",
+      "a": "Usually yes for limited companies. The Business Register records current and historical shareholdings for companies such as the srl, along with officer positions, and these can be obtained through registroimprese.it. Listed and joint-stock companies have different disclosure patterns. Beneficial ownership data held in the register is a separate matter, and access by private parties has been contested."
+    },
+    {
+      "q": "Do Italian rules limit investigations into our employees?",
+      "a": "Yes, significantly. Italian labour law prohibits employers from investigating employees' opinions or matters unrelated to their work and restricts remote monitoring, and the Garante has issued detailed workplace guidance. Investigations into suspected misconduct are possible, but their scope and methods need to be agreed with Italian employment counsel before they begin."
+    },
+    {
+      "q": "Who can carry out investigative work in Italy?",
+      "a": "Private investigation requires a licence from the prefect, with requirements set by Ministry of the Interior Decree 269/2010. TDSC does not hold an Italian licence and does not conduct investigative activity in Italy itself. Where field work is necessary, licensed Italian investigators or counsel carry it out, and TDSC coordinates and integrates the results."
+    },
+    {
+      "q": "Why does Decree 231/2001 matter for due diligence?",
+      "a": "Decree 231/2001 makes companies liable for certain offences, including bribery, committed in their interest by managers or staff, unless an effective organisational model was in place. Italian counterparties therefore often have a 231 model and supervisory body, and the existence and credibility of that framework is a useful line of inquiry in partner and acquisition due diligence."
+    },
+    {
+      "q": "Are protest records useful in counterparty checks?",
+      "a": "Protest records, published through the chambers of commerce, show unpaid bills of exchange and cheques formally protested against a person or company. A recent or repeated protest is a practical signal of payment difficulty, and is checked alongside filed financial statements and insolvency publications when assessing the reliability of a supplier, distributor or borrower."
+    }
+  ],
+  "sources": [
+    {
+      "title": "World Bank: Population, total - Italy",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IT"
+    },
+    {
+      "title": "DLA Piper: Data Protection Laws of the World - Italy",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=IT"
+    },
+    {
+      "title": "Registro Imprese (Camere di Commercio / InfoCamere)",
+      "url": "https://www.registroimprese.it/"
+    },
+    {
+      "title": "ANAC: Autorità Nazionale Anticorruzione",
+      "url": "https://www.anticorruzione.it/"
+    },
+    {
+      "title": "ANAC: Mission e competenze",
+      "url": "https://www.anticorruzione.it/mission-e-competenze"
+    },
+    {
+      "title": "Camera Arbitrale di Milano",
+      "url": "https://www.camera-arbitrale.it/en/"
+    },
+    {
+      "title": "Wikipedia (it): Investigatore privato",
+      "url": "https://it.wikipedia.org/wiki/Investigatore_privato"
+    }
+  ],
+  "review_flags": [
+    "Search budget was exhausted; official sources for investigator licensing (TULPS art. 134, DM 269/2010) could not be opened (Normattiva/Gazzetta/Interior Ministry pages failed). Licensing description relies on Italian Wikipedia plus general knowledge; verify against Normattiva.",
+    "Beneficial ownership register (titolare effettivo): operational 2023, access by non-obliged parties litigated (TAR Lazio / Council of State / CJEU reference). Current status not verified; confirm before publishing.",
+    "Not verified from an opened source: Law 190/2012 as ANAC's basis, Criminal Code arts. 318-322-bis, Decree 231/2001, Decree 231/2007, UIF/Guardia di Finanza roles, Workers' Statute limits (arts. 4 and 8 of Law 300/1970), specialised business sections of tribunals, Garante deontological rules for defence investigations, 'euro area's third-largest economy'.",
+    "Data Privacy Framework referenced as adequacy basis for certified US recipients per DLA Piper (Jan 2025); confirm DPF remains valid at publication."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,134 @@
+{
+  "cc": "CA",
+  "name": "Canada",
+  "meta_description": "Investigative consulting for Canadian matters: federal and provincial company registries, PIPEDA and Quebec Law 25, provincial investigator licensing, CFPOA.",
+  "eyebrow": "The Canadian federation",
+  "hero_lede": "Investigative work involving Canada has to account for a federation in which companies may be incorporated federally or in any province, privacy law is split between PIPEDA and provincial statutes, and investigator licensing is provincial. Quebec adds a civil law system and French-language records. Scoping starts with the provinces involved.",
+  "intro": [
+    "Canada is a federation of ten provinces and three territories with a bijural legal system: common law in nine provinces and the territories, and civil law in Quebec for private matters. Companies can be incorporated under the Canada Business Corporations Act or under provincial statutes, and they register extra-provincially wherever they carry on business, so the same enterprise may appear in several registries with different disclosure. Privacy law is layered. PIPEDA applies to commercial activity in most provinces and to federally regulated sectors, while Quebec, Alberta and British Columbia have their own private sector statutes. Investigator licensing, land titles and most courts are provincial. An enquiry touching Toronto, Montreal and Vancouver therefore engages three distinct sets of rules.",
+    "Organisations commission investigative work involving Canada because of its close commercial integration with the United States, its large mining, energy and resources sector and the international reach of Toronto's financial and listing markets. Typical engagements include due diligence on Canadian counterparties and mining or energy issuers, asset tracing in support of judgments and insolvency proceedings, and litigation support for actions in provincial superior courts. Canadian companies operating abroad, particularly in extractive industries, also commission third-party due diligence to manage exposure under the Corruption of Foreign Public Officials Act. Cross-border matters often require coordination between US and Canadian counsel on evidence, privacy and enforcement."
+  ],
+  "population": {
+    "value": "41.7 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/CA/indicator/SP.POP.TOTL?format=json&mrv=1"
+  },
+  "legal_system": "Canada has a bijural system. Common law applies outside Quebec, while Quebec's private law is governed by the Civil Code of Quebec. Each province has a superior court of general jurisdiction, and the Ontario Superior Court of Justice runs a Commercial List in Toronto for insolvency and complex commercial matters. The Federal Court hears matters within federal jurisdiction, including intellectual property and maritime claims, and the Supreme Court of Canada is the final court of appeal. International arbitration is governed by provincial statutes based on the UNCITRAL Model Law.",
+  "data_protection": {
+    "law": "Personal Information Protection and Electronic Documents Act (PIPEDA); Quebec Act respecting the protection of personal information in the private sector, as amended by Law 25 (2021); Alberta and British Columbia Personal Information Protection Acts",
+    "regulator": "Office of the Privacy Commissioner of Canada, with provincial commissioners in Alberta and British Columbia and the Commission d'accès à l'information in Quebec",
+    "summary": "PIPEDA generally requires knowledge and consent for the collection of personal information, with exceptions that can cover investigations into a breach of agreement or contravention of law where consent would compromise the enquiry. Employee information is governed by provincial statutes in Quebec, Alberta and British Columbia. Bill C-27, which would have replaced PIPEDA, died when Parliament was prorogued in January 2025. Transfers outside Canada are permitted if the organisation remains accountable and protects the data contractually. Quebec requires a privacy impact assessment before personal information leaves the province, and its fines can reach CAD 25 million or 4 percent of worldwide turnover."
+  },
+  "investigator_regulation": "Private investigators are licensed by the provinces. In Ontario, the Private Security and Investigative Services Act, 2005 requires individual investigators to hold a licence and agencies to hold an agency licence, administered by the Ministry of the Solicitor General; employers with in-house investigators must register. Other provinces, including British Columbia and Quebec, operate their own licensing regimes, and a licence in one province does not authorise work in another. The Criminal Code prohibits intercepting private communications without the consent of a party, and provincial privacy torts and statutes limit surveillance and the use of personal information.",
+  "corporate_records": "Federal corporations are registered with Corporations Canada, and each province maintains its own business registry, such as Ontario's Public Business Registry and Quebec's Registraire des entreprises. Directors and registered office addresses are generally searchable, though access and fees differ. Since 22 January 2024, most federal corporations must file information on individuals with significant control with Corporations Canada, and part of it is published. Provincial beneficial ownership rules vary. Land is registered provincially, and court records are held by each court, with decisions widely published through public legal databases.",
+  "anti_corruption": "The Corruption of Foreign Public Officials Act (1998) prohibits bribery of foreign public officials and the falsification of books and records to conceal it. Domestic bribery and secret commissions are offences under the Criminal Code. The Proceeds of Crime (Money Laundering) and Terrorist Financing Act sets anti-money laundering obligations, supervised by FINTRAC, Canada's financial intelligence unit. The Royal Canadian Mounted Police investigates foreign bribery, and provincial securities regulators address disclosure and market misconduct.",
+  "matters": [
+    {
+      "title": "Mining and resources due diligence",
+      "text": "Researching the ownership, management history and regulatory record of Canadian-listed mining and energy issuers and their foreign subsidiaries, including litigation, securities enforcement and community or environmental disputes connected with projects in Latin America, Africa and elsewhere."
+    },
+    {
+      "title": "Cross-border asset tracing",
+      "text": "Following assets between the United States and Canada through federal and provincial corporate registries, provincial land title systems and court filings, to support recognition and enforcement of US judgments or arbitral awards before Canadian provincial courts."
+    },
+    {
+      "title": "CFPOA third-party due diligence",
+      "text": "Reviewing agents, intermediaries and joint venture partners used by Canadian companies abroad, so that clients can document reasonable enquiries into ownership, government connections and reputation before engagement and manage exposure under the Corruption of Foreign Public Officials Act."
+    },
+    {
+      "title": "Insolvency and fraud investigations",
+      "text": "Supporting counsel and insolvency professionals in proceedings on the Ontario Commercial List and in other provincial courts by identifying related parties, transfers before insolvency and undisclosed business interests, working from public records and court-sanctioned information."
+    },
+    {
+      "title": "Quebec counterparty and litigation enquiries",
+      "text": "Conducting research in French as well as English across the Registraire des entreprises, Quebec land and court records, and civil law procedure, where the evidentiary and privacy rules differ from those in the common law provinces."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official languages",
+      "value": "English and French; French is the official language of Quebec"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Time zones",
+      "value": "America/Toronto (UTC-5), America/Winnipeg (UTC-6), America/Edmonton (UTC-7), America/Vancouver (UTC-8), America/Halifax (UTC-4); daylight saving in most areas"
+    },
+    {
+      "label": "Court languages",
+      "value": "English or French in federal courts; provincial rules vary"
+    },
+    {
+      "label": "Legal traditions",
+      "value": "Common law outside Quebec; civil law in Quebec"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Affidavits and statutory declarations are standard; notaries in Quebec are legal professionals"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Toronto, Montreal, Vancouver, Calgary, Ottawa"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Canadian matters from Nashville by first establishing which provinces, registries and privacy statutes are engaged, since a federal corporation with operations in Quebec and Alberta can fall under three privacy regimes. Research draws on Corporations Canada and provincial registries, published court decisions and dockets, land title records, securities filings and media, including French-language sources for Quebec. Where interviews, surveillance or service of documents are needed, TDSC coordinates investigators licensed in the relevant province and works with Canadian counsel on admissibility and any cross-border evidence issues. Personal information is collected for a documented purpose, and transfers to the United States are handled to satisfy PIPEDA accountability and, for Quebec data, the province's transfer assessment requirement.",
+  "faqs": [
+    {
+      "q": "Is a single Canadian company search enough?",
+      "a": "Rarely. A company may be incorporated federally or in any province and registered extra-provincially elsewhere, and each registry discloses different information. Thorough research checks Corporations Canada and the registries of every province where the business operates, then compares officers, addresses and filing histories across them to identify related entities and inconsistencies."
+    },
+    {
+      "q": "Can a US investigator conduct fieldwork in Canada?",
+      "a": "Not on the strength of a US licence. Private investigation is licensed by each province, and Ontario, for example, requires individual and agency licences under its 2005 Act. TDSC therefore coordinates investigators licensed in the province concerned for any interviews, surveillance or other local work, and keeps its own role to scoping, research and analysis."
+    },
+    {
+      "q": "Are beneficial owners of Canadian companies publicly listed?",
+      "a": "Partly. Since January 2024 most federal corporations must file details of individuals with significant control with Corporations Canada, and some of that information is published. Provincial corporations are subject to provincial rules, which vary considerably, and listed issuers are covered by securities disclosure instead. Ownership is usually confirmed by combining these records with other sources."
+    },
+    {
+      "q": "How does Quebec differ for investigative work?",
+      "a": "Quebec applies the Civil Code to private law, conducts much business and court activity in French, and has its own private sector privacy statute as amended by Law 25. That law includes a privacy impact assessment before personal information is communicated outside Quebec and significant administrative penalties. Matters involving Quebec are scoped with Quebec counsel and bilingual researchers."
+    },
+    {
+      "q": "Is Canada's federal privacy law changing?",
+      "a": "Reform is expected but uncertain. Bill C-27, which would have replaced PIPEDA with a new consumer privacy statute, died when Parliament was prorogued in January 2025. PIPEDA therefore remains in force federally, alongside provincial statutes in Quebec, Alberta and British Columbia. TDSC monitors new federal legislation and adjusts engagement terms when the law changes."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Canada",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=CA"
+    },
+    {
+      "title": "Corporations Canada: Individuals with significant control",
+      "url": "https://ised-isde.canada.ca/site/corporations-canada/en/individuals-significant-control"
+    },
+    {
+      "title": "Government of Ontario: Private security and investigative services",
+      "url": "https://www.ontario.ca/page/private-security-and-investigative-services"
+    },
+    {
+      "title": "Justice Laws Website: Corruption of Foreign Public Officials Act (S.C. 1998, c. 34)",
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/C-45.2/"
+    },
+    {
+      "title": "FINTRAC: Who we are",
+      "url": "https://fintrac-canafe.canada.ca/intro-eng"
+    },
+    {
+      "title": "World Bank: Population, total (Canada)",
+      "url": "https://api.worldbank.org/v2/country/CA/indicator/SP.POP.TOTL?format=json&mrv=1"
+    }
+  ],
+  "review_flags": [
+    "DLA Piper Canada page notes it was last reviewed in 2023; Bill C-27 status (died January 2025) is from that page. A successor federal privacy bill may have been introduced since; confirm.",
+    "PIPEDA investigation-related consent exceptions, BC and Quebec PI licensing regimes, Ontario Commercial List, Ontario Public Business Registry and provincial UNCITRAL-based arbitration statutes stated from background knowledge; not fetched this session.",
+    "Which ISC fields Corporations Canada publishes was not confirmed (page says only that some information is public).",
+    "RCMP as foreign-bribery investigator and provincial beneficial ownership variation stated from background knowledge.",
+    "No named arbitral institution included in legal_system because none could be verified this session."
+  ],
+  "researched": "2026-11-04"
+}

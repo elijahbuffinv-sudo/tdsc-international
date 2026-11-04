@@ -1,14 +1,18 @@
 {
   "cc": "RW",
   "name": "Rwanda",
-  "meta_description": "Investigative consulting for matters touching Rwanda: RDB registry and beneficial ownership research, counterparty diligence, KIAC dispute support and data localisation awareness.",
+  "meta_description": "TDSC investigative consulting on Rwanda: RDB registry and beneficial ownership research, counterparty diligence, KIAC dispute support.",
   "eyebrow": "Republic of Rwanda",
   "hero_lede": "Investigative consulting for matters touching Rwanda means working with a mixed civil and common law system, an efficient online business registry and a data protection law that requires personal data to be stored in Rwanda unless authorised. Engagements focus on counterparty diligence, ownership verification and support for disputes before Kigali institutions.",
   "intro": [
     "Rwanda's legal system began in the Belgian civil law tradition and has incorporated common law features since major reforms in the early 2000s, a new constitution in 2003 and membership of the Commonwealth in 2009. Business registration through the Rwanda Development Board's Office of the Registrar General is fast and largely online, and a beneficial ownership register operates alongside it. The judiciary is generally regarded as independent in commercial matters though constrained in capacity, and the Kigali International Arbitration Centre handles a growing caseload. Investigators must also account for Law No. 058/2021, which requires registration of data controllers and, as a rule, storage of personal data within Rwanda.",
     "Organisations commission work involving Rwanda because of its role as a regional business and conference hub and its ambition, through the Kigali International Financial Centre, to serve as a platform for investment into Africa. Strategic sectors identified by the government include manufacturing, ICT and business process outsourcing, financial services, energy, mining, logistics, tourism and agriculture. Mining and mineral trading attract particular scrutiny of supply chains and origin claims in the Great Lakes region. Typical exposures include unclear ownership of local partners, misrepresented experience in public tenders, supply chain provenance questions, contract disputes and reputational issues concerning intermediaries."
   ],
-  "population": {"value": "14.6 million", "year": "2025", "source_url": "https://api.worldbank.org/v2/country/RW/indicator/SP.POP.TOTL?format=json&mrnev=1"},
+  "population": {
+    "value": "14.6 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/RW/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
   "legal_system": "Rwanda has a mixed legal system that combines its original Belgian civil law foundations with common law influences adopted after the 2003 Constitution and Commonwealth membership in 2009. Legislation is codified, while courts increasingly draw on precedent. Commercial disputes are heard by specialised commercial courts, with appeals to the Court of Appeal and the Supreme Court. The Kigali International Arbitration Centre, established in 2012, administers domestic and international arbitration under rules modelled on UNCITRAL and is a common seat for disputes involving Rwandan parties.",
   "data_protection": {
     "law": "Law No. 058/2021 of 13/10/2021 on the protection of personal data and privacy",
@@ -19,34 +23,97 @@
   "corporate_records": "Companies are registered with the Office of the Registrar General within the Rwanda Development Board, which provides online business registration and issues certificates within days; tax and social security numbers are generated automatically on registration. The Office is responsible for publicising information relating to business registration, and company searches and extracts can be obtained through its systems. A Beneficial Owners Register is maintained by the Registrar General with online filing; the extent of public access to beneficial ownership details should be confirmed matter by matter. Criminal record certificates can be requested from the National Public Prosecution Authority with the subject's involvement.",
   "anti_corruption": "Rwanda criminalises bribery and related offences under Law No. 54/2018 on fighting against corruption. The Office of the Ombudsman leads anti-corruption policy and receives asset declarations, the Rwanda Investigation Bureau investigates offences and the National Public Prosecution Authority prosecutes them; the Office of the Auditor General audits public spending. The Financial Intelligence Centre, created in 2020, is the financial intelligence unit under the anti-money laundering and counter-terrorism financing law. Rwanda has ratified the UN Convention against Corruption.",
   "matters": [
-    {"title": "Mineral supply chain diligence", "text": "Research into exporters, traders and processors of tin, tantalum, tungsten and gold connected to Rwanda, examining corporate ownership, licensing claims, adverse media and regional links, to support buyers and refiners managing provenance and due diligence obligations in Great Lakes mineral supply chains."},
-    {"title": "Local partner and agent vetting", "text": "Background and ownership research on Rwandan partners, distributors and agents using RDB registry records, beneficial ownership filings where accessible, litigation and media, to confirm identity, standing and potential conflicts before contracts or joint ventures are signed."},
-    {"title": "Public tender counterparty review", "text": "Verifying the experience, ownership and integrity history of contractors and consultants in infrastructure, energy and development-funded projects, including checks for related bidders and previous contract disputes, for lenders, prime contractors and development partners."},
-    {"title": "KIAC and court dispute support", "text": "Assisting counsel in arbitrations at the Kigali International Arbitration Centre and in commercial court litigation with chronology building, corporate history research, witness background research and lawful asset research relevant to enforcement in Rwanda and the region."},
-    {"title": "KIFC fund and investor screening", "text": "Background research on fund managers, holding companies and investors using the Kigali International Financial Centre as a platform, covering principals' track records, regulatory history, ownership structures and international media, for co-investors, banks and service providers."}
+    {
+      "title": "Mineral supply chain diligence",
+      "text": "Research into exporters, traders and processors of tin, tantalum, tungsten and gold connected to Rwanda, examining corporate ownership, licensing claims, adverse media and regional links, to support buyers and refiners managing provenance and due diligence obligations in Great Lakes mineral supply chains."
+    },
+    {
+      "title": "Local partner and agent vetting",
+      "text": "Background and ownership research on Rwandan partners, distributors and agents using RDB registry records, beneficial ownership filings where accessible, litigation and media, to confirm identity, standing and potential conflicts before contracts or joint ventures are signed."
+    },
+    {
+      "title": "Public tender counterparty review",
+      "text": "Verifying the experience, ownership and integrity history of contractors and consultants in infrastructure, energy and development-funded projects, including checks for related bidders and previous contract disputes, for lenders, prime contractors and development partners."
+    },
+    {
+      "title": "KIAC and court dispute support",
+      "text": "Assisting counsel in arbitrations at the Kigali International Arbitration Centre and in commercial court litigation with chronology building, corporate history research, witness background research and lawful asset research relevant to enforcement in Rwanda and the region."
+    },
+    {
+      "title": "KIFC fund and investor screening",
+      "text": "Background research on fund managers, holding companies and investors using the Kigali International Financial Centre as a platform, covering principals' track records, regulatory history, ownership structures and international media, for co-investors, banks and service providers."
+    }
   ],
   "practical": [
-    {"label": "Official languages", "value": "Kinyarwanda, English, French and Kiswahili"},
-    {"label": "Business languages", "value": "English and Kinyarwanda; French still used"},
-    {"label": "Time zone", "value": "Africa/Kigali (UTC+2, no daylight saving time)"},
-    {"label": "Working week", "value": "Monday to Friday"},
-    {"label": "Currency", "value": "Rwandan franc (RWF)"},
-    {"label": "Main business centre", "value": "Kigali"},
-    {"label": "Business culture", "value": "Formal, punctual and process-oriented; government reform agenda is prominent"}
+    {
+      "label": "Official languages",
+      "value": "Kinyarwanda, English, French and Kiswahili"
+    },
+    {
+      "label": "Business languages",
+      "value": "English and Kinyarwanda; French still used"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Kigali (UTC+2, no daylight saving time)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Rwandan franc (RWF)"
+    },
+    {
+      "label": "Main business centre",
+      "value": "Kigali"
+    },
+    {
+      "label": "Business culture",
+      "value": "Formal, punctual and process-oriented; government reform agenda is prominent"
+    }
   ],
   "tdsc_approach": "TDSC scopes Rwanda engagements from Nashville and addresses data protection at the outset, because Law No. 058/2021 requires registration, generally keeps personal data in Rwanda and restricts transfers abroad. Where possible, research relies on information already lawfully available outside Rwanda, and any collection of personal data in Rwanda is planned with Rwandan counsel to establish a transfer basis. Research draws on RDB registry records, beneficial ownership filings where accessible, court and arbitration materials, procurement information and English, French and Kinyarwanda media. As no dedicated investigator licensing regime has been identified, any local inquiries are carried out through appropriately qualified Rwandan professionals within limits agreed with counsel. TDSC does not provide legal advice.",
   "faqs": [
-    {"q": "Can personal data gathered in Rwanda be sent to the United States?", "a": "Only on a lawful basis. Law No. 058/2021 generally requires personal data to be stored in Rwanda and permits transfers abroad in defined cases, such as NCSA authorisation, consent, contractual necessity or legal claims, supported by a written contract. TDSC plans data flows with Rwandan counsel before any collection begins."},
-    {"q": "How quickly can a Rwandan company be checked?", "a": "Basic registry information is often available quickly because the Rwanda Development Board's registration system is largely online. Deeper work, such as confirming beneficial ownership, litigation history and reputation, takes longer and depends on what records are accessible. TDSC agrees scope and timing before starting."},
-    {"q": "Is there a beneficial ownership register in Rwanda?", "a": "Yes. The Office of the Registrar General at the Rwanda Development Board maintains a Beneficial Owners Register with online filing. The degree of public access to its contents should be confirmed for each matter, and TDSC corroborates filed information with other lawful sources rather than relying on a single declaration."},
-    {"q": "Can TDSC help with mineral sourcing questions involving Rwanda?", "a": "Yes, through documentary and open-source research on exporters, traders and their owners, licensing claims and adverse media. Physical verification of mine sites or shipments is a specialised task; where needed, TDSC coordinates qualified local or regional professionals and is clear about what desk research can and cannot establish."},
-    {"q": "Are private investigators licensed in Rwanda?", "a": "We have not identified a dedicated licensing statute for private investigators in Rwanda from official sources. Privacy, data protection and interception laws still apply to any inquiry. TDSC therefore limits local activity to lawful steps agreed with Rwandan counsel and carried out by appropriately qualified professionals."}
+    {
+      "q": "Can personal data gathered in Rwanda be sent to the United States?",
+      "a": "Only on a lawful basis. Law No. 058/2021 generally requires personal data to be stored in Rwanda and permits transfers abroad in defined cases, such as NCSA authorisation, consent, contractual necessity or legal claims, supported by a written contract. TDSC plans data flows with Rwandan counsel before any collection begins."
+    },
+    {
+      "q": "How quickly can a Rwandan company be checked?",
+      "a": "Basic registry information is often available quickly because the Rwanda Development Board's registration system is largely online. Deeper work, such as confirming beneficial ownership, litigation history and reputation, takes longer and depends on what records are accessible. TDSC agrees scope and timing before starting."
+    },
+    {
+      "q": "Is there a beneficial ownership register in Rwanda?",
+      "a": "Yes. The Office of the Registrar General at the Rwanda Development Board maintains a Beneficial Owners Register with online filing. The degree of public access to its contents should be confirmed for each matter, and TDSC corroborates filed information with other lawful sources rather than relying on a single declaration."
+    },
+    {
+      "q": "Can TDSC help with mineral sourcing questions involving Rwanda?",
+      "a": "Yes, through documentary and open-source research on exporters, traders and their owners, licensing claims and adverse media. Physical verification of mine sites or shipments is a specialised task; where needed, TDSC coordinates qualified local or regional professionals and is clear about what desk research can and cannot establish."
+    },
+    {
+      "q": "Are private investigators licensed in Rwanda?",
+      "a": "We have not identified a dedicated licensing statute for private investigators in Rwanda from official sources. Privacy, data protection and interception laws still apply to any inquiry. TDSC therefore limits local activity to lawful steps agreed with Rwandan counsel and carried out by appropriately qualified professionals."
+    }
   ],
   "sources": [
-    {"title": "DLA Piper Data Protection Laws of the World - Rwanda", "url": "https://www.dlapiperdataprotection.com/index.html?t=law&c=RW"},
-    {"title": "US Department of State - 2024 Investment Climate Statements: Rwanda", "url": "https://www.state.gov/reports/2024-investment-climate-statements/rwanda/"},
-    {"title": "Rwanda Development Board - Office of the Registrar General", "url": "https://org.rdb.rw/"},
-    {"title": "World Bank API - Population, total (Rwanda)", "url": "https://api.worldbank.org/v2/country/RW/indicator/SP.POP.TOTL?format=json&mrnev=1"}
+    {
+      "title": "DLA Piper Data Protection Laws of the World - Rwanda",
+      "url": "https://www.dlapiperdataprotection.com/index.html?t=law&c=RW"
+    },
+    {
+      "title": "US Department of State - 2024 Investment Climate Statements: Rwanda",
+      "url": "https://www.state.gov/reports/2024-investment-climate-statements/rwanda/"
+    },
+    {
+      "title": "Rwanda Development Board - Office of the Registrar General",
+      "url": "https://org.rdb.rw/"
+    },
+    {
+      "title": "World Bank API - Population, total (Rwanda)",
+      "url": "https://api.worldbank.org/v2/country/RW/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    }
   ],
   "review_flags": [
     "Search budget exhausted. NOT verified from an opened source (general knowledge): Law No. 54/2018 on fighting against corruption; Rwanda Investigation Bureau and NPPA roles; Ombudsman receiving asset declarations; Commercial Court/Commercial High Court structure; Kiswahili as official language; absence of PI licensing (none identified, also not searched).",

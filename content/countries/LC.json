@@ -1,14 +1,18 @@
 {
   "cc": "LC",
   "name": "Saint Lucia",
-  "meta_description": "Investigative consulting for matters touching Saint Lucia: company registry research, citizenship by investment background checks, real estate diligence and ECSC litigation support.",
+  "meta_description": "TDSC investigative consulting on Saint Lucia: company registry research, citizenship by investment background checks, real estate diligence.",
   "eyebrow": "Saint Lucia",
   "hero_lede": "Investigative consulting for matters touching Saint Lucia combines a common law court system with a civil code and property law shaped by French law. Engagements typically involve company and property research, background checks on citizenship by investment holders and developers, and support for litigation before the Eastern Caribbean Supreme Court.",
   "intro": [
     "Saint Lucia's legal system is unusual within the Eastern Caribbean: it follows English common law in most areas, while its civil code and property law are strongly influenced by French law. The Supreme Court of Judicature, made up of the High Court and the Eastern Caribbean Court of Appeal, hears disputes, and since May 2023 the Caribbean Court of Justice has been Saint Lucia's final appellate court in place of the Privy Council. Companies register with the Registry of Companies and Intellectual Property, which offers e-filing for most services. For investigators, these features mean property and succession questions may turn on civil code concepts, and appellate research must take the change of final court into account.",
     "Organisations commission investigative work involving Saint Lucia mainly in connection with tourism, real estate development and its citizenship by investment programme, established under the Citizenship by Investment Act of 2015. Developers, hotel investors and approved projects attract scrutiny from lenders, purchasers and partners, and individuals holding economic citizenship are sometimes the subject of enhanced due diligence by banks and counterparties abroad. Global business outsourcing is another growing sector. Typical exposures include unverified developer track records, disputes over land title and project funds, undisclosed ownership interests and reputational questions about intermediaries in investment programmes."
   ],
-  "population": {"value": "approximately 180,000", "year": "2025", "source_url": "https://api.worldbank.org/v2/country/LC/indicator/SP.POP.TOTL?format=json&mrnev=1"},
+  "population": {
+    "value": "approximately 180,000",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/LC/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
   "legal_system": "Saint Lucia has a hybrid legal system: English common law predominates, but the civil code and property law are heavily influenced by French law. The Supreme Court of Judicature, established under the Eastern Caribbean Supreme Court arrangements, comprises the High Court and the Eastern Caribbean Court of Appeal. In May 2023 Saint Lucia became the sixth CARICOM member to accept the Caribbean Court of Justice as its final court of appeal. The Eastern Caribbean Supreme Court also supports dispute resolution through court-connected mediation.",
   "data_protection": {
     "law": "Status of a comprehensive data protection statute not confirmed; see review notes",
@@ -19,32 +23,89 @@
   "corporate_records": "Companies are registered with the Registry of Companies and Intellectual Property, which offers e-filing for most services, although registration fees are paid in person. Businesses must also register with the Inland Revenue Department and the National Insurance Corporation, and non-CARICOM nationals holding more than 49 percent of a company's shares require a trade licence. We have not confirmed from an official source what shareholder, director or beneficial ownership information is publicly searchable. Land title and civil code property records are relevant to many matters and are usually researched with the assistance of local counsel.",
   "anti_corruption": "The principal anti-corruption statute is the Integrity in Public Life Act of 2004, and special prosecutor legislation allows civil and criminal action against officials for misuse of state resources. Enforcement involves the Royal Saint Lucia Police Force, the Director of Public Prosecutions, the Integrity Commission and the Financial Intelligence Authority. Saint Lucia is a party to the Inter-American Convention against Corruption and acceded to the UN Convention against Corruption in 2011. Financial institutions are supervised by the Eastern Caribbean Central Bank.",
   "matters": [
-    {"title": "Hotel and resort developer diligence", "text": "Background research on developers, sponsors and contractors behind tourism and real estate projects, including projects approved for investment programmes, examining prior developments, litigation, insolvencies, ownership and media, for lenders, purchasers, operators and equity partners."},
-    {"title": "Economic citizenship background checks", "text": "Enhanced due diligence on individuals who hold Saint Lucian citizenship under the 2015 programme, focusing on identity history, business record, litigation, sanctions exposure and media in the countries where they actually reside and conduct business."},
-    {"title": "Land and property disputes", "text": "Supporting counsel in disputes over land title, family property and project land, where French-influenced civil code concepts apply, through chronology building, corporate and party research and identification of related entities and transactions."},
-    {"title": "Outsourcing partner verification", "text": "Verifying the ownership, management and track record of business process outsourcing and service providers based in Saint Lucia before contracts are awarded, including checks for related parties, litigation and adverse media."},
-    {"title": "Public project integrity questions", "text": "Research for counsel and compliance teams into counterparties in infrastructure and public projects where integrity concerns have been raised, using published judgments, procurement information, corporate records and media, while distinguishing allegations from established findings."}
+    {
+      "title": "Hotel and resort developer diligence",
+      "text": "Background research on developers, sponsors and contractors behind tourism and real estate projects, including projects approved for investment programmes, examining prior developments, litigation, insolvencies, ownership and media, for lenders, purchasers, operators and equity partners."
+    },
+    {
+      "title": "Economic citizenship background checks",
+      "text": "Enhanced due diligence on individuals who hold Saint Lucian citizenship under the 2015 programme, focusing on identity history, business record, litigation, sanctions exposure and media in the countries where they actually reside and conduct business."
+    },
+    {
+      "title": "Land and property disputes",
+      "text": "Supporting counsel in disputes over land title, family property and project land, where French-influenced civil code concepts apply, through chronology building, corporate and party research and identification of related entities and transactions."
+    },
+    {
+      "title": "Outsourcing partner verification",
+      "text": "Verifying the ownership, management and track record of business process outsourcing and service providers based in Saint Lucia before contracts are awarded, including checks for related parties, litigation and adverse media."
+    },
+    {
+      "title": "Public project integrity questions",
+      "text": "Research for counsel and compliance teams into counterparties in infrastructure and public projects where integrity concerns have been raised, using published judgments, procurement information, corporate records and media, while distinguishing allegations from established findings."
+    }
   ],
   "practical": [
-    {"label": "Business language", "value": "English; Saint Lucian Kwéyòl widely spoken"},
-    {"label": "Courts", "value": "Eastern Caribbean Supreme Court; final appeal to the Caribbean Court of Justice since 2023"},
-    {"label": "Time zone", "value": "America/St_Lucia (UTC-4, no daylight saving time)"},
-    {"label": "Currency", "value": "Eastern Caribbean dollar (XCD)"},
-    {"label": "Working week", "value": "Monday to Friday"},
-    {"label": "Main business centres", "value": "Castries, Rodney Bay and Vieux Fort"},
-    {"label": "Legal tradition", "value": "Common law with a French-influenced civil code for property and family matters"}
+    {
+      "label": "Business language",
+      "value": "English; Saint Lucian Kwéyòl widely spoken"
+    },
+    {
+      "label": "Courts",
+      "value": "Eastern Caribbean Supreme Court; final appeal to the Caribbean Court of Justice since 2023"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/St_Lucia (UTC-4, no daylight saving time)"
+    },
+    {
+      "label": "Currency",
+      "value": "Eastern Caribbean dollar (XCD)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Castries, Rodney Bay and Vieux Fort"
+    },
+    {
+      "label": "Legal tradition",
+      "value": "Common law with a French-influenced civil code for property and family matters"
+    }
   ],
   "tdsc_approach": "TDSC scopes Saint Lucia engagements from Nashville with attention to the island's hybrid legal tradition, since property and family questions may turn on civil code concepts while procedure follows common law. Research draws on registry information, published Eastern Caribbean Supreme Court and Caribbean Court of Justice judgments, foreign filings, project and procurement information and regional media. Because the status of comprehensive data protection legislation has not been confirmed, TDSC applies its own data minimisation and retention standards and confirms handling with Saint Lucian counsel where personal data is gathered locally. Local inquiries are used sparingly, agreed with counsel and carried out by appropriately qualified professionals. TDSC does not hold a Saint Lucian licence and does not provide legal advice.",
   "faqs": [
-    {"q": "Why does French law matter in Saint Lucia?", "a": "Saint Lucia's civil code and property law are heavily influenced by French law, even though most other areas follow English common law. Disputes over land, inheritance and family property can therefore involve concepts unfamiliar to common law practitioners. TDSC frames research on these matters with Saint Lucian counsel."},
-    {"q": "What is Saint Lucia's final court of appeal?", "a": "Since May 2023 the Caribbean Court of Justice has been Saint Lucia's final appellate court, replacing the Judicial Committee of the Privy Council. Earlier cases may have gone to the Privy Council, so litigation research covers both, as well as the High Court and the Eastern Caribbean Court of Appeal."},
-    {"q": "Can TDSC check the background of a Saint Lucian citizenship by investment holder?", "a": "Yes, through lawful public sources. Programme files are confidential and we do not seek them. We research identity history, corporate roles, litigation, sanctions exposure and media, mainly in the countries where the person lives and works, and report findings with clear sourcing."},
-    {"q": "How do you research a developer behind a Saint Lucia resort project?", "a": "We review the developer's corporate history in Saint Lucia and elsewhere, previous projects and their outcomes, litigation and insolvency records, related companies and principals, and media coverage. Where a site visit or local inquiry would add value, it is planned with counsel and conducted by qualified local professionals."},
-    {"q": "Is there a public beneficial ownership register in Saint Lucia?", "a": "We have not confirmed that beneficial ownership information is publicly searchable in Saint Lucia. Ownership is therefore usually established from registry documents available through lawful channels, litigation, foreign filings and other sources, and we state the confidence level of any conclusion."}
+    {
+      "q": "Why does French law matter in Saint Lucia?",
+      "a": "Saint Lucia's civil code and property law are heavily influenced by French law, even though most other areas follow English common law. Disputes over land, inheritance and family property can therefore involve concepts unfamiliar to common law practitioners. TDSC frames research on these matters with Saint Lucian counsel."
+    },
+    {
+      "q": "What is Saint Lucia's final court of appeal?",
+      "a": "Since May 2023 the Caribbean Court of Justice has been Saint Lucia's final appellate court, replacing the Judicial Committee of the Privy Council. Earlier cases may have gone to the Privy Council, so litigation research covers both, as well as the High Court and the Eastern Caribbean Court of Appeal."
+    },
+    {
+      "q": "Can TDSC check the background of a Saint Lucian citizenship by investment holder?",
+      "a": "Yes, through lawful public sources. Programme files are confidential and we do not seek them. We research identity history, corporate roles, litigation, sanctions exposure and media, mainly in the countries where the person lives and works, and report findings with clear sourcing."
+    },
+    {
+      "q": "How do you research a developer behind a Saint Lucia resort project?",
+      "a": "We review the developer's corporate history in Saint Lucia and elsewhere, previous projects and their outcomes, litigation and insolvency records, related companies and principals, and media coverage. Where a site visit or local inquiry would add value, it is planned with counsel and conducted by qualified local professionals."
+    },
+    {
+      "q": "Is there a public beneficial ownership register in Saint Lucia?",
+      "a": "We have not confirmed that beneficial ownership information is publicly searchable in Saint Lucia. Ownership is therefore usually established from registry documents available through lawful channels, litigation, foreign filings and other sources, and we state the confidence level of any conclusion."
+    }
   ],
   "sources": [
-    {"title": "US Department of State - 2024 Investment Climate Statements: Saint Lucia", "url": "https://www.state.gov/reports/2024-investment-climate-statements/saint-lucia/"},
-    {"title": "World Bank API - Population, total (St. Lucia)", "url": "https://api.worldbank.org/v2/country/LC/indicator/SP.POP.TOTL?format=json&mrnev=1"}
+    {
+      "title": "US Department of State - 2024 Investment Climate Statements: Saint Lucia",
+      "url": "https://www.state.gov/reports/2024-investment-climate-statements/saint-lucia/"
+    },
+    {
+      "title": "World Bank API - Population, total (St. Lucia)",
+      "url": "https://api.worldbank.org/v2/country/LC/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    }
   ],
   "review_flags": [
     "Search and fetch budgets were exhausted; page relies on the 2024 US State Department Investment Climate Statement. Only 2 sources; brief asks for 5-12.",

@@ -1,0 +1,134 @@
+{
+  "cc": "TR",
+  "name": "Türkiye",
+  "meta_description": "Investigative consulting for matters touching Türkiye: due diligence, fraud inquiries and asset tracing under KVKK Law No. 6698 and Trade Registry records.",
+  "eyebrow": "Republic of Türkiye",
+  "hero_lede": "Investigative consulting for matters touching Türkiye works within Law No. 6698 on the Protection of Personal Data, its 2024 cross-border transfer rules and serious criminal penalties for unlawful data collection, relying on Trade Registry Gazette announcements, court records and lawful local enquiries rather than intrusive methods.",
+  "intro": [
+    "Türkiye has a code-based legal system and a large, diversified economy spanning Europe and Asia. Corporate events such as incorporations, capital changes and board appointments are announced in the Turkish Trade Registry Gazette, and court proceedings generate substantial documentary records. Personal data is governed by Law No. 6698 (KVKK), which is enforced by the Personal Data Protection Authority and backed by the Turkish Criminal Code, under which unlawful collection or disclosure of personal data can lead to imprisonment. Investigative work in Türkiye therefore turns on choosing lawful sources, defining a legal basis for each category of data and planning how findings will be transferred abroad under the rules introduced in 2024.",
+    "Organisations commission work involving Türkiye because of its role as a manufacturing and sourcing base for European markets, a regional hub for logistics, construction, energy, textiles, automotive and defence, and a gateway to the Middle East, the Caucasus and Central Asia. Typical needs include due diligence on Turkish suppliers, distributors, joint venture partners and family-owned acquisition targets, investigations into procurement fraud and kickbacks in subsidiaries, reviews of trade flows for sanctions and export-control exposure, and tracing of assets held through anonim şirket and limited şirket structures, real estate and related family companies. Disputes frequently involve Istanbul arbitration or Turkish court enforcement."
+  ],
+  "population": {
+    "value": "85.9 million",
+    "year": "2025",
+    "source_url": "https://data.worldbank.org/country/turkiye"
+  },
+  "legal_system": "Türkiye has a civil law system shaped by Swiss and other continental models; the 1926 Civil Code drew on the Swiss Civil Code and Code of Obligations. Commercial matters are governed principally by the Turkish Commercial Code (No. 6102) and Code of Obligations (No. 6098). Commercial courts of first instance sit in major cities, appeals go to regional courts of appeal, and the Court of Cassation (Yargıtay) is the final civil and criminal appellate court. The Istanbul Arbitration Centre (ISTAC) administers arbitration and mediation, including fast-track and emergency arbitrator procedures.",
+  "data_protection": {
+    "law": "Law No. 6698 on the Protection of Personal Data (KVKK, 2016), as amended in 2024, and the Regulation on Cross-Border Personal Data Transfers (2024)",
+    "regulator": "Personal Data Protection Authority (Kişisel Verileri Koruma Kurumu) and its Personal Data Protection Board",
+    "summary": "Most data controllers must register in the Registry of Data Controllers through VERBIS before processing, subject to exemptions. Special category data, which includes criminal convictions and security measures, health, biometric data, association and union membership, may be processed only under listed conditions with Board-mandated safeguards. Since the July 2024 regulation, transfers abroad rely on adequacy decisions, Board standard contracts notified within five business days of signature, binding corporate rules, Board-approved undertakings or limited occasional transfers. The Criminal Code punishes unlawful collection of personal data with one to three years' imprisonment, higher for sensitive data, and unlawful transfer or disclosure with two to four years."
+  },
+  "investigator_regulation": "We have not identified a statute that licenses private investigators or detective agencies in Türkiye. The Private Security Services Law (No. 5188) regulates guarding and protection services, and we have not confirmed that it extends to investigative work. Information gathering is constrained by Law No. 6698 and by the Turkish Criminal Code, which criminalises unlawful recording of personal data, violation of the privacy of private life and communications, and unlawful listening to or recording of conversations. In practice, enquiries in Türkiye are scoped with Turkish counsel and limited to lawful public and documentary sources and open interviews.",
+  "corporate_records": "Trade registry offices, operating within local chambers of commerce and industry under Ministry of Trade oversight, record companies through the central MERSIS system, and registered matters such as incorporation, articles of association, capital changes, director and authorised signatory appointments and liquidation are published in the Turkish Trade Registry Gazette. Shareholders of limited companies are registered, while the share ledgers of joint-stock companies are generally not public. Beneficial ownership information is reported to the authorities but is not, as far as we have confirmed, publicly searchable. Land registry records are held by the General Directorate of Land Registry and Cadastre and are not open to general name searches.",
+  "anti_corruption": "Bribery, including of foreign public officials, is criminalised under the Turkish Criminal Code (Law No. 5237). Because criminal liability attaches to individuals, companies face security measures under the Criminal Code and administrative fines under the Misdemeanours Law. Money laundering is addressed by Law No. 5549 on Prevention of Laundering Proceeds of Crime (2006). The Financial Crimes Investigation Board (MASAK), attached to the Ministry of Treasury and Finance, is the financial intelligence unit, and public prosecutors lead criminal investigations.",
+  "matters": [
+    {
+      "title": "Supplier and manufacturer diligence",
+      "text": "Background research on Turkish textile, automotive-parts, steel and food suppliers serving European buyers, testing ownership through Trade Registry Gazette announcements, related family companies, litigation and adverse media, and checking claims about capacity, certifications and subcontracting."
+    },
+    {
+      "title": "Family-owned acquisition targets",
+      "text": "Pre-transaction research on Turkish family groups and holding structures, mapping related companies, intra-group transactions and the reputations and political exposure of principals, where informal governance and cross-shareholdings can make ownership harder to read from filings alone."
+    },
+    {
+      "title": "Trade flow and sanctions exposure",
+      "text": "Research into distributors, freight forwarders and trading companies in Türkiye whose transactions with neighbouring markets may raise sanctions or export-control questions for clients, focusing on ownership, trading patterns, shipping routes and links to restricted parties."
+    },
+    {
+      "title": "Construction and procurement integrity",
+      "text": "Integrity research on contractors, consortium partners and agents in Turkish construction, energy and infrastructure projects at home and abroad, where subcontracting chains, intermediaries and undisclosed interests create bribery and fraud risk for project lenders and partners."
+    },
+    {
+      "title": "Asset tracing and award enforcement",
+      "text": "Tracing assets held through anonim and limited şirket structures, related companies and real estate to support enforcement of foreign judgments and arbitral awards in Türkiye, with lawful sources and Turkish counsel handling recognition, attachment and enforcement office procedures."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Turkish; English common in larger firms"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Istanbul, UTC+3 (no daylight saving)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Courts language",
+      "value": "Turkish; sworn translations required"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Istanbul, Ankara, Izmir, Bursa, Kocaeli"
+    },
+    {
+      "label": "Company identifiers",
+      "value": "MERSIS number and tax number"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-led; senior-level meetings and hospitality matter"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Turkish matters from Nashville with the criminal-law dimension of data protection in mind, since unlawful collection or disclosure of personal data in Türkiye can carry prison sentences. Each engagement records its purpose and the KVKK processing condition relied on, and special category data, including criminal-record information, is not sought without a clear legal basis confirmed by Turkish counsel. Desk research centres on Trade Registry Gazette announcements, published court decisions and Turkish-language media. Where local enquiries are needed, TDSC coordinates qualified Turkish professionals limited to lawful public sources and open interviews, without covert recording. Transfers of findings out of Türkiye are planned under the 2024 cross-border rules, including Board standard contracts where required.",
+  "faqs": [
+    {
+      "q": "Are private detectives licensed in Türkiye?",
+      "a": "We have not identified a statute that licenses private investigators or detective agencies in Türkiye, and the Private Security Services Law addresses guarding rather than investigation as far as we have confirmed. Investigative work is therefore scoped with Turkish counsel and confined to lawful documentary sources and open enquiries."
+    },
+    {
+      "q": "What are the risks of collecting personal data in Türkiye?",
+      "a": "They are significant. Beyond administrative fines under Law No. 6698, the Turkish Criminal Code provides for imprisonment of one to three years for unlawful collection of personal data, increased for sensitive data, and two to four years for unlawful transfer or disclosure. Method and source selection are therefore reviewed before any work begins."
+    },
+    {
+      "q": "How can investigative findings be sent out of Türkiye?",
+      "a": "Under the 2024 regulation on cross-border transfers, data can go abroad on the basis of a Board adequacy decision, Board-issued standard contracts notified to the Authority within five business days of signature, binding corporate rules, approved written undertakings or, in limited occasional cases, grounds such as establishing or defending a legal claim."
+    },
+    {
+      "q": "What does the Trade Registry Gazette show about a Turkish company?",
+      "a": "It publishes registered events such as incorporation, articles of association, capital increases, appointments of directors and authorised signatories, mergers and liquidation. These announcements are central to mapping a company's history. Shareholders of joint-stock companies are generally recorded in share ledgers that are not public, so ownership may need other lawful sources."
+    },
+    {
+      "q": "Where are commercial disputes in Türkiye resolved?",
+      "a": "Commercial cases are heard by commercial courts of first instance, with appeals to regional courts of appeal and the Court of Cassation. Many cross-border contracts instead refer disputes to arbitration, including at the Istanbul Arbitration Centre (ISTAC), which offers arbitration, mediation, fast-track and emergency arbitrator procedures."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Turkey",
+      "url": "https://www.dlapiperdataprotection.com/countries/turkey/law.html"
+    },
+    {
+      "title": "Personal Data Protection Authority (KVKK)",
+      "url": "https://www.kvkk.gov.tr/en/"
+    },
+    {
+      "title": "Istanbul Arbitration Centre (ISTAC)",
+      "url": "https://istac.org.tr/en/"
+    },
+    {
+      "title": "Financial Crimes Investigation Board (MASAK), Ministry of Treasury and Finance",
+      "url": "https://masak.hmb.gov.tr/"
+    },
+    {
+      "title": "Wikipedia: Judicial system of Turkey",
+      "url": "https://en.wikipedia.org/wiki/Judicial_system_of_Turkey"
+    },
+    {
+      "title": "World Bank: Türkiye country data",
+      "url": "https://data.worldbank.org/country/turkiye"
+    }
+  ],
+  "review_flags": [
+    "Turkey sources are thin: official legislation (mevzuat.gov.tr), trade registry (ticaretsicil.gov.tr), ICLG and OECD pages could not be fetched, and web search budget was exhausted. Several statements rely on general knowledge and need checking.",
+    "Private investigator regulation not verified: text says no licensing statute identified and that Law No. 5188 appears to cover guarding only. Confirm with Turkish counsel.",
+    "Not verified from an opened source this session: Turkish Commercial Code No. 6102 and Code of Obligations No. 6098; commercial courts of first instance; trade registry offices within chambers under Ministry of Trade oversight and MERSIS; non-public joint-stock share ledgers; beneficial ownership reporting and its non-public status; land registry (TKGM) access; Criminal Code bribery provisions covering foreign officials; corporate security measures and Misdemeanours Law fines; Law No. 5549 (2006); Criminal Code privacy and recording offences.",
+    "Data protection law name refers to 2024 amendments to Law No. 6698; the DLA Piper page cited only the July 2024 transfer regulation, not the amending law itself. Confirm amending law number and date.",
+    "Wikipedia used as a source for court structure; replace with an official or law-firm source if available."
+  ],
+  "researched": "2026-11-04"
+}

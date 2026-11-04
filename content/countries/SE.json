@@ -1,0 +1,131 @@
+{
+  "cc": "SE",
+  "name": "Sweden",
+  "meta_description": "Investigative consulting for matters touching Sweden: due diligence, fraud inquiries and asset tracing under the Data Protection Act and Bolagsverket records.",
+  "eyebrow": "Kingdom of Sweden",
+  "hero_lede": "Investigative consulting for matters touching Sweden draws on an unusually open public-records tradition and detailed Bolagsverket company filings, while working within the Swedish Data Protection Act's limits on personal identity numbers and criminal-offence data, and the oversight of Integritetsskyddsmyndigheten (IMY).",
+  "intro": [
+    "Sweden pairs a long-standing principle of public access to official documents (offentlighetsprincipen) with a demanding privacy framework. The Companies Registration Office, Bolagsverket, holds public records on company officers, auditors and filed annual accounts, and much court and property information can be requested from public bodies. At the same time, the Swedish Data Protection Act of 2018 supplements the GDPR with specific conditions on processing personal identity numbers (personnummer) and data about criminal offences. Investigative work therefore relies heavily on documentary and open sources, and the question is usually not whether information exists but whether a private party has a lawful basis to collect, combine and retain it.",
+    "Organisations commission work involving Sweden because of its globally active industrial, telecommunications, automotive, defence, forestry, mining and life sciences companies, its technology and gaming sector, and its role as a Nordic financial centre. Typical needs include due diligence on Swedish acquisition targets, investors and joint venture partners, internal reviews prompted by reports under the Whistleblowing Act, procurement and supplier fraud in subsidiaries, and tracing of assets held through Swedish aktiebolag (AB) and holding structures. Cross-border matters frequently extend to Finland, Norway, Denmark and the Baltic states, and to third markets where Swedish exporters rely on agents and distributors."
+  ],
+  "population": {
+    "value": "10.6 million",
+    "year": "2025",
+    "source_url": "https://data.worldbank.org/country/sweden"
+  },
+  "legal_system": "Sweden has a Nordic civil law system based on statutes, preparatory works and case law rather than a single civil code. The general courts comprise district courts (tingsrätter), courts of appeal (hovrätter) and the Supreme Court (Högsta domstolen), with a separate administrative court hierarchy. Commercial disputes are heard in the general courts, with intellectual property and market law matters going to the Patent and Market Court. Arbitration is governed by the Swedish Arbitration Act (1999:116), and the SCC Arbitration Institute in Stockholm, founded in 1917, administers domestic and international cases.",
+  "data_protection": {
+    "law": "General Data Protection Regulation (EU) 2016/679 and the Swedish Data Protection Act (Lag (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning)",
+    "regulator": "Integritetsskyddsmyndigheten (IMY, Swedish Authority for Privacy Protection)",
+    "summary": "The Data Protection Act and the accompanying Ordinance (2018:219) supplement the GDPR. Personal identity numbers may be processed without consent only where clearly justified by the purpose, the importance of secure identification or another substantial reason. Private parties may process data on criminal offences where necessary to establish, exercise or defend legal claims or to meet a legal obligation, or with an IMY permit in an individual case. Camera surveillance is governed separately by the Camera Surveillance Act (2018:1200). Employee investigations must also respect the Whistleblowing Act (2021:890). Transfers outside the EEA follow GDPR Chapter V."
+  },
+  "investigator_regulation": "We have not identified, from sources opened during this research, a licensing regime specific to private investigators in Sweden. The Act on Security Companies (Lag (1974:191) om bevakningsföretag) requires authorisation from the county administrative board (länsstyrelsen), after consultation with the Police Authority, for companies guarding property, events, people or valuables in transit, but its text does not expressly address investigation. Investigative activity remains constrained by the Data Protection Act's rules on identity numbers and offence data, the Camera Surveillance Act and criminal law protections for privacy, including against unlawful recording and intrusive surveillance.",
+  "corporate_records": "Bolagsverket keeps the company registers. Public information includes company name, organisation number, registered office, business activity, board members, authorised signatories, CEO and auditor, together with filed articles of association and annual accounts. Some searches through Näringslivsregistret are free, while documents, extracts and certified copies are charged. Registered changes are announced in Post- och Inrikes Tidningar. Bolagsverket also maintains a register of beneficial owners (verkliga huvudmän), access to which should be confirmed for each matter. Real property ownership is recorded in the Real Property Register maintained by Lantmäteriet.",
+  "anti_corruption": "Bribery is criminalised in Chapter 10 of the Swedish Criminal Code (Brottsbalken), covering both giving and taking bribes in the public and private sectors, as well as trading in influence and negligent financing of bribery by companies. Anti-money laundering obligations derive from the Money Laundering and Terrorist Financing (Prevention) Act (2017:630). Corruption cases are prosecuted by a specialist national unit of the Swedish Prosecution Authority, and the Swedish Economic Crime Authority (Ekobrottsmyndigheten) investigates and prosecutes economic crime, including money laundering offences.",
+  "matters": [
+    {
+      "title": "Industrial and defence counterparties",
+      "text": "Background and integrity research on agents, distributors and offset partners working with Swedish industrial, telecommunications and defence exporters, focusing on beneficial ownership, politically exposed connections and adverse media in the third markets where contracts are won."
+    },
+    {
+      "title": "Acquisition and investor diligence",
+      "text": "Structured pre-transaction research on Swedish targets, founders and investors, particularly in technology, gaming and life sciences, combining Bolagsverket filings, court records and Swedish-language media to test management track records, prior insolvencies and undisclosed related-party interests."
+    },
+    {
+      "title": "Whistleblower-triggered internal reviews",
+      "text": "Independent fact-finding following reports received through internal channels established under the Whistleblowing Act (2021:890), scoped to respect employee privacy, the strict limits on processing offence data and the expectations of Swedish labour law and applicable collective agreements."
+    },
+    {
+      "title": "Welfare and procurement fraud exposure",
+      "text": "Targeted research into suppliers, subcontractors and intermediaries in public procurement, construction, care and staffing, sectors where complex subcontracting chains, front persons and invoice schemes can conceal who controls a company and where payments ultimately go."
+    },
+    {
+      "title": "Asset tracing and enforcement",
+      "text": "Tracing interests held through Swedish aktiebolag and holding companies, using public company filings, property records and lawful open sources to support enforcement of judgments and arbitral awards, coordinated with Swedish counsel and the Enforcement Authority process."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Swedish; English widely used in business"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Stockholm, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; long July holiday period"
+    },
+    {
+      "label": "Courts language",
+      "value": "Swedish"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Stockholm, Gothenburg, Malmö"
+    },
+    {
+      "label": "Company identifier",
+      "value": "Organisation number (organisationsnummer)"
+    },
+    {
+      "label": "Business culture",
+      "value": "Consensus-driven, punctual, direct and low-key"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Swedish matters from Nashville with early attention to what Swedish law allows a private party to do with information that may be publicly accessible. Public access to official documents does not by itself create a lawful basis under the GDPR, so each engagement records its purpose and basis before personal identity numbers or offence-related material are handled. Desk research centres on Bolagsverket filings, court judgments, property records and Swedish-language media. Where enquiries must be made in Sweden, TDSC coordinates suitably qualified local professionals and works with Swedish counsel on methods, labour-law implications and evidential use. Covert recording and camera surveillance are not used without specific legal advice, and findings leaving the EEA move under GDPR Chapter V safeguards.",
+  "faqs": [
+    {
+      "q": "Does Sweden's principle of public access mean anything can be collected?",
+      "a": "No. Offentlighetsprincipen allows many official documents to be requested from public bodies, but a private organisation that collects and organises personal data from them is still a controller under the GDPR and the Swedish Data Protection Act. It needs a lawful basis, a defined purpose and proportionate retention, and offence data is subject to further restrictions."
+    },
+    {
+      "q": "Can criminal-record information about a Swedish individual be used?",
+      "a": "Only within narrow limits. Under the Data Protection Act, parties other than public authorities may process data on criminal offences where necessary to establish, exercise or defend legal claims or to meet a legal obligation, or with an IMY permit. TDSC does not seek such data without a clear basis confirmed with counsel."
+    },
+    {
+      "q": "What company information does Bolagsverket make public?",
+      "a": "Bolagsverket records include company name, organisation number, registered office, activity, board members, signatories, CEO and auditor, and filed annual accounts and articles of association. Some searches are free through Näringslivsregistret, while documents and certified copies are charged. Registered changes are announced in Post- och Inrikes Tidningar."
+    },
+    {
+      "q": "Are private investigators licensed in Sweden?",
+      "a": "We have not identified a dedicated licensing regime for private investigators. Security companies that guard property, people or valuables require county administrative board authorisation under the 1974 Act on Security Companies. Investigative engagements are therefore scoped with Swedish counsel, and any local work is carried out by qualified professionals within data protection and criminal law limits."
+    },
+    {
+      "q": "How are internal investigations in Swedish subsidiaries handled?",
+      "a": "They are planned around the Whistleblowing Act (2021:890), the GDPR, Swedish employment law and any collective agreements. That usually means defining the allegations, limiting data collection to what is necessary, involving employee representatives where required and preparing findings that Swedish counsel can rely on in labour or court proceedings."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Sweden",
+      "url": "https://www.dlapiperdataprotection.com/countries/sweden/law.html"
+    },
+    {
+      "title": "European e-Justice Portal: Business registers in Sweden",
+      "url": "https://e-justice.europa.eu/topics/registers-business-insolvency-land/business-registers-eu-countries/se_en"
+    },
+    {
+      "title": "Riksdagen: Lag (1974:191) om bevakningsföretag",
+      "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1974191-om-bevakningsforetag_sfs-1974-191/"
+    },
+    {
+      "title": "World Bank: Sweden country data",
+      "url": "https://data.worldbank.org/country/sweden"
+    },
+    {
+      "title": "SCC Arbitration Institute",
+      "url": "https://sccarbitrationinstitute.se/en"
+    },
+    {
+      "title": "Swedish Economic Crime Authority (Ekobrottsmyndigheten)",
+      "url": "https://www.ekobrottsmyndigheten.se/en/"
+    }
+  ],
+  "review_flags": [
+    "Swedish private investigator licensing not verified; text states no dedicated regime identified and that the 1974 Security Companies Act does not expressly address investigation. Confirm with Swedish counsel or the Police Authority.",
+    "Not verified from an opened source this session (general knowledge): Chapter 10 Brottsbalken bribery provisions incl. trading in influence and negligent financing of bribery; Money Laundering Act (2017:630); specialist national anti-corruption unit of the Prosecution Authority; Patent and Market Court; Arbitration Act (1999:116); Bolagsverket beneficial owner register and its current public access status after the 2022 CJEU ruling; Lantmäteriet Real Property Register; Enforcement Authority; offentlighetsprincipen."
+  ],
+  "researched": "2026-11-04"
+}

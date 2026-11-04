@@ -1,0 +1,97 @@
+{
+  "cc": "SG",
+  "name": "Singapore",
+  "meta_description": "Investigative consulting for matters touching Singapore: ACRA corporate research, PDPA-aware due diligence, asset tracing and licensed local coordination.",
+  "eyebrow": "Republic of Singapore",
+  "hero_lede": "Investigative consulting for matters touching Singapore centres on its role as a regional holding, trading and arbitration hub: corporate and ownership research through ACRA records, litigation and asset tracing in support of counsel, and fieldwork coordinated with licensed local investigators under the Private Security Industry Act.",
+  "intro": [
+    "Singapore is a compact, highly regulated common law jurisdiction that functions as a regional headquarters and treasury centre for businesses operating across Southeast Asia and beyond. Its institutions are well documented and its corporate registry is among the more accessible in the region, which makes structured desk research productive. At the same time, the rules that govern how information is gathered are specific and actively enforced. Private investigators are regulated by statute, personal data handling falls under the Personal Data Protection Act 2012, and the Personal Data Protection Commission publishes decisions and guidance that shape what is reasonable. Investigative work touching Singapore therefore rewards precision about method and source as much as diligence.",
+    "Organisations commission investigative work involving Singapore because so many regional structures pass through it. Holding companies, trading houses, commodity and shipping businesses, fund vehicles, family offices and fintech firms are incorporated or managed there, often with operations, counterparties or beneficial owners elsewhere in Asia. Common exposures include counterparties whose Singapore entity is a thin holding layer, trade finance and commodity disputes, misappropriation by senior staff, and asset recovery where proceeds have moved through Singapore accounts or companies. Disputes are frequently resolved in Singapore-seated arbitration or before its international commercial court, so evidence-gathering often needs to be organised with those forums and their procedural expectations in mind from the start."
+  ],
+  "population": {
+    "value": "6.04 million",
+    "year": "2024",
+    "source_url": "https://api.worldbank.org/v2/country/SG/indicator/SP.POP.TOTL?format=json&date=2024"
+  },
+  "legal_system": "Singapore has a common law legal system derived from English law, with legislation as the principal source of law and an active body of local case law. Commercial disputes are heard in the State Courts and the Supreme Court, which comprises the Court of Appeal and the High Court. The Singapore International Commercial Court, established in 2015, is a division of the General Division of the High Court that hears international commercial claims, supervises Singapore-seated international arbitrations and hears cross-border insolvency matters. The Singapore International Arbitration Centre administers a large share of the region's international arbitrations.",
+  "data_protection": {
+    "law": "Personal Data Protection Act 2012 (PDPA), as amended by the Personal Data Protection (Amendment) Act 2020",
+    "regulator": "Personal Data Protection Commission (PDPC)",
+    "summary": "The PDPA applies to private-sector organisations that collect, use or disclose personal data in Singapore, whether or not they have a physical presence there. Consent is the default basis, supplemented by deemed consent and statutory exceptions, including legitimate interests and an exception where collection is necessary for an investigation or proceedings. Transfers outside Singapore require that the recipient provide protection comparable to the PDPA, typically through contractual terms. Notifiable data breaches must be reported to the PDPC within three calendar days of assessment. Financial penalties can reach 10 percent of annual Singapore turnover for larger organisations. Investigative work is therefore planned with a documented basis for each category of personal data."
+  },
+  "investigator_regulation": "Singapore regulates private investigation by statute. The Private Security Industry Act 2007 provides, in its long title, for the regulation of private investigators, private investigation agencies, security officers and security agencies, and the licensing regime under it is administered by the Singapore Police Force. Licensed investigators work within the general law, including the PDPA, the Protection from Harassment Act and criminal provisions on unauthorised computer access, so covert recording, tracking devices and attempts to obtain bank or telecommunications records are tightly constrained. Field enquiries, surveillance and witness approaches in Singapore are therefore carried out only by appropriately licensed local professionals.",
+  "corporate_records": "Companies, limited liability partnerships and business names are registered with the Accounting and Corporate Regulatory Authority (ACRA), and information products such as Business Profiles and certificates can be purchased through its Bizfile portal; a profile typically shows registered details, officers and, for companies, shareholders. Companies and LLPs must keep a register of registrable controllers and, unless exempt, file that information with ACRA, which holds the Central Register of Registrable Controllers. That central register is not open to public search and is accessible to public agencies. Court judgments are published, and land title searches are available through the Singapore Land Authority.",
+  "anti_corruption": "The Prevention of Corruption Act applies to the public and private sectors and to individuals, with fines, imprisonment or both for each count. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992 provides for confiscation of criminal benefits and underpins Singapore's anti-money laundering framework. The Corrupt Practices Investigation Bureau investigates corruption in both sectors, and the Monetary Authority of Singapore supervises AML compliance by financial institutions.",
+  "matters": [
+    {
+      "title": "Holding structure and ownership research",
+      "text": "Mapping Singapore holding companies, their officers, shareholders and filing history through ACRA records, then tracing related entities across the region where the Singapore company sits above operating businesses in Indonesia, Malaysia, Vietnam, India or China. Useful before acquisitions, joint ventures and significant supply or distribution agreements."
+    },
+    {
+      "title": "Commodity and trade finance disputes",
+      "text": "Supporting counsel in disputes involving traders, shipping interests and trade finance lenders, including suspected duplicate financing, misdescribed cargo and counterparties that dissolve or restructure after default. Work focuses on corporate filings, litigation history, published judgments and lawful open-source and trade information."
+    },
+    {
+      "title": "Asset tracing for arbitration enforcement",
+      "text": "Identifying assets and corporate interests connected to an award debtor, including Singapore companies, property held through local vehicles and related parties, to support enforcement strategy developed by Singapore counsel. Findings are documented so that counsel can assess disclosure or freezing applications."
+    },
+    {
+      "title": "Senior employee and fraud enquiries",
+      "text": "Assisting legal and compliance teams investigating suspected conflicts of interest, kickbacks or diversion of business by regional managers based in Singapore, with attention to PDPA requirements on employee data, the Prevention of Corruption Act's reach into private-sector bribery, and preservation of evidence for proceedings."
+    },
+    {
+      "title": "Fund, family office and fintech diligence",
+      "text": "Background and reputational research on fund managers, single family offices, digital payment and token businesses and their principals, including regulatory history, litigation, media coverage and corporate affiliations, to inform investment, onboarding and partnership decisions involving Singapore-based counterparties."
+    }
+  ],
+  "practical": [
+    {"label": "Business languages", "value": "English; Mandarin, Malay and Tamil also official"},
+    {"label": "Courts language", "value": "English"},
+    {"label": "Time zone", "value": "Asia/Singapore, UTC+8, no daylight saving"},
+    {"label": "Working week", "value": "Monday to Friday"},
+    {"label": "Currency", "value": "Singapore dollar (SGD)"},
+    {"label": "Company registry", "value": "ACRA, searched through Bizfile"},
+    {"label": "Business culture", "value": "Formal, punctual and process-driven; written records valued"},
+    {"label": "Arbitration seat", "value": "SIAC and Maxwell Chambers are central to dispute work"}
+  ],
+  "tdsc_approach": "TDSC scopes Singapore matters from Nashville by first identifying the decision the client needs to make and the forum in which findings may be used, whether SIAC arbitration, the SICC or proceedings elsewhere. Desk research draws on ACRA filings, published judgments, regulatory notices from MAS and the PDPC, and lawful open sources. Where the brief requires enquiries, surveillance or interviews in Singapore, TDSC coordinates investigators licensed under the Private Security Industry Act and works with Singapore counsel on privacy, harassment and evidential questions. Personal data is collected only where a PDPA basis or exception has been identified and recorded, transferred under contractual safeguards, and retained for the engagement's defined purpose. TDSC holds no Singapore licence and does not obtain bank, telecommunications or government records.",
+  "faqs": [
+    {
+      "q": "Can TDSC find out who really owns a Singapore company?",
+      "a": "Legal ownership of a Singapore company is usually visible through ACRA records, which show shareholders and officers. Beneficial ownership is a different question: registrable controller information is filed with ACRA but its central register is not publicly searchable. TDSC therefore builds a beneficial ownership picture from filings, related entities, published judgments and open sources, and states clearly where a conclusion is inferred rather than documented."
+    },
+    {
+      "q": "Are private investigators licensed in Singapore?",
+      "a": "Yes. The Private Security Industry Act 2007 regulates private investigators and private investigation agencies, and the licensing regime is administered by the Singapore Police Force. TDSC does not hold a Singapore licence. Where an engagement requires work on the ground, such as enquiries, observation or witness approaches, TDSC coordinates appropriately licensed Singapore professionals and keeps the scope of that work tied to the client's instructions and counsel's advice."
+    },
+    {
+      "q": "Does the PDPA prevent investigations involving individuals?",
+      "a": "No, but it shapes them. The PDPA includes an exception allowing personal data to be collected where necessary for an investigation or proceedings, and it also recognises legitimate interests. Organisations still need to identify and document their basis, protect what they collect and observe the transfer limitation obligation when data leaves Singapore. TDSC plans data collection around these points and confirms the position with Singapore counsel where the matter is sensitive."
+    },
+    {
+      "q": "Can findings be used in SIAC arbitration or the SICC?",
+      "a": "Findings prepared for use in Singapore proceedings need clear sourcing, a documented chain of collection and methods that will withstand challenge. TDSC prepares reports with each source identified and separates verified facts from analysis so that Singapore counsel can decide what to rely on, what to verify further and whether witness evidence is needed. Admissibility and disclosure questions remain for counsel and the tribunal."
+    },
+    {
+      "q": "Why investigate a Singapore entity when operations are elsewhere?",
+      "a": "Many regional groups use a Singapore company as the contracting, financing or holding vehicle while operations sit in neighbouring countries. Understanding the Singapore layer, including its officers, filings, charges and litigation, often explains how a group is controlled and where value sits. TDSC then extends the research to the operating jurisdictions, coordinating local professionals where those countries require licensed fieldwork."
+    }
+  ],
+  "sources": [
+    {"title": "DLA Piper Data Protection Laws of the World: Singapore", "url": "https://www.dlapiperdataprotection.com/?t=law&c=SG"},
+    {"title": "Personal Data Protection Act 2012, Singapore Statutes Online", "url": "https://sso.agc.gov.sg/Act/PDPA2012"},
+    {"title": "Private Security Industry Act 2007, Singapore Statutes Online", "url": "https://sso.agc.gov.sg/Act/PSIA2007"},
+    {"title": "ACRA: Register of Registrable Controllers", "url": "https://www.acra.gov.sg/compliance/register-of-registrable-controllers"},
+    {"title": "ACRA: Buying information", "url": "https://www.acra.gov.sg/how-to-guides/buying-information"},
+    {"title": "CPIB: Legislation and enforcement", "url": "https://www.cpib.gov.sg/about-corruption/legislation-and-enforcement/"},
+    {"title": "Singapore Courts: Singapore International Commercial Court", "url": "https://www.judiciary.gov.sg/singapore-international-commercial-court"},
+    {"title": "World Bank: Population, total (Singapore)", "url": "https://api.worldbank.org/v2/country/SG/indicator/SP.POP.TOTL?format=json&date=2024"}
+  ],
+  "review_flags": [
+    "Private investigator licensing: the PSIA 2007 long title confirms PIs and PI agencies are regulated, but police.gov.sg and the Act's operative sections could not be fetched; the statement that the Singapore Police Force (Police Licensing and Regulatory Department) administers licensing is from general knowledge and should be confirmed.",
+    "ACRA: the claim that Business Profiles show officers and shareholders, and that the Central Register of Registrable Controllers is not public, was not explicitly confirmed by the fetched ACRA pages.",
+    "Prevention of Corruption Act year (1960) deliberately omitted; Singapore Land Authority title search and Maxwell Chambers references are from general knowledge.",
+    "Web search budget was exhausted; research relied on WebFetch of known URLs only."
+  ],
+  "researched": "2026-11-04"
+}

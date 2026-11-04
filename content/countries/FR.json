@@ -1,0 +1,145 @@
+{
+  "cc": "FR",
+  "name": "France",
+  "meta_description": "Investigative consulting for matters touching France: due diligence, asset tracing and internal inquiries under CNAPS licensing, Sapin II and CNIL oversight.",
+  "eyebrow": "French Republic",
+  "hero_lede": "Investigative consulting for matters touching France means working within a licensing regime that reserves private investigation to CNAPS-authorised professionals, data protection enforced by the CNIL, compliance expectations shaped by Sapin II, and company records consolidated in a national register run by the INPI.",
+  "intro": [
+    "France regulates private investigation more tightly than many of its neighbours. Agents de recherches privées are a regulated profession under Book VI of the Internal Security Code, and firms, their managers and their operational staff need authorisations issued by the Conseil national des activités privées de sécurité (CNAPS). Personal data processing is governed by the GDPR and the amended Informatique et Libertés law of 1978, and the CNIL is an active enforcer. Company information has been consolidated since the loi Pacte reforms into the Registre national des entreprises, free to consult. French courts scrutinise how evidence was obtained, so lawful method is as important as the finding itself.",
+    "France is one of Europe's largest economies, with leading groups in aerospace and defence, energy, luxury goods, pharmaceuticals, agrifood, construction and banking, and Paris hosts a dense concentration of corporate headquarters and arbitral activity, including the ICC International Court of Arbitration. Organisations commission investigative work involving France for acquisition and partner due diligence, supplier and distributor integrity reviews framed against Sapin II, allegations of fraud or misconduct within French subsidiaries, intellectual property and counterfeiting questions in the luxury and consumer sectors, and the tracing of assets held through French companies or real estate in support of litigation or award enforcement."
+  ],
+  "population": {
+    "value": "68.7 million",
+    "year": "2025",
+    "source_url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=FR"
+  },
+  "legal_system": "France has a civil law system built on codes, chiefly the Civil Code, the Commercial Code, the Criminal Code and the Code of Civil Procedure. Courts divide into the ordinary (judicial) order, headed by the Court of Cassation, and the administrative order, headed by the Council of State. Commercial disputes are heard at first instance by commercial courts staffed by elected business judges, with appeals to the courts of appeal; Paris has international commercial chambers able to work with English-language material. Paris is a leading arbitral seat and hosts the ICC International Court of Arbitration.",
+  "data_protection": {
+    "law": "General Data Protection Regulation (EU) 2016/679; Law No. 78-17 of 6 January 1978 on information technology, data files and civil liberties (Informatique et Libertés), as amended in 2018 and since",
+    "regulator": "Commission nationale de l'informatique et des libertés (CNIL)",
+    "summary": "Investigative work involving people in France is subject to the GDPR and the Informatique et Libertés law, supplemented by Decree No. 2019-536. Each processing operation needs a documented lawful basis, usually legitimate interests. Data relating to criminal offences may be processed only by the categories of persons the law permits, which include those preparing or defending legal claims. Breaches of the privacy provisions can be criminal offences carrying up to five years' imprisonment. Transfers to the United States or elsewhere outside the EEA follow the GDPR transfer rules; the CNIL published a transfer impact assessment guide in January 2025. Employee investigations must also respect French labour law requirements on transparency and proportionality."
+  },
+  "investigator_regulation": "Private investigation is a regulated activity under Book VI of the Internal Security Code (Code de la sécurité intérieure). The CNAPS, an administrative body under the Ministry of the Interior, issues and controls the required titles: an authorisation to operate for the firm, an approval (agrément) for its managers and a professional card for staff who carry out investigative work, each valid for five years. Private investigation is exclusive of other private security activities, so a licensed firm may not combine it with, for example, guarding. The CNAPS inspects and sanctions practitioners. Investigators have no access to restricted government files and remain bound by privacy and criminal law.",
+  "corporate_records": "The Registre national des entreprises (RNE), introduced under the loi Pacte and operated by the INPI, consolidates registration of commercial, craft, agricultural and liberal-profession businesses and is free to consult. Commercial companies also remain registered with the commercial court registries, whose extracts (Kbis), filed deeds and annual accounts are distributed through Infogreffe; small companies may elect to keep their accounts confidential. A register of beneficial owners exists, but public access was curtailed after the Court of Justice of the EU's November 2022 ruling on UBO registers and is now limited to authorities, obliged entities and persons able to show a legitimate interest.",
+  "anti_corruption": "Bribery of domestic and foreign public officials, private bribery and influence peddling are offences under the Criminal Code. The Sapin II law of 9 December 2016 defines the missions of the French Anti-Corruption Agency (AFA) and requires companies with more than 500 employees and turnover above 100 million euros to maintain an anti-corruption programme, which the AFA audits. Anti-money-laundering obligations sit in the Monetary and Financial Code, with TRACFIN as financial intelligence unit and the National Financial Prosecutor's Office (PNF) leading complex cases.",
+  "matters": [
+    {
+      "title": "Sapin II third-party due diligence",
+      "text": "French groups and their foreign partners are expected to assess intermediaries, distributors and suppliers under an AFA-audited compliance programme. We review ownership, management, public court records and adverse media to document integrity risk in a form that sits within the client's Sapin II evaluation process."
+    },
+    {
+      "title": "Acquisition and partner due diligence",
+      "text": "Buyers and investors in French companies, from family-owned industrial groups to technology businesses, need to understand who controls the target and how it has been run. We reconcile RNE data, filed deeds and accounts with open-source and media research to test management representations."
+    },
+    {
+      "title": "Luxury, brand and counterfeiting matters",
+      "text": "France's fashion, cosmetics, wine and spirits houses face counterfeiting, grey-market diversion and leaks. We map the corporate and online footprint of suspected networks and support counsel and licensed French investigators who handle any field activity and evidence collection."
+    },
+    {
+      "title": "Internal investigations in French subsidiaries",
+      "text": "Allegations against staff in a French subsidiary engage labour law, works-council sensitivities, the GDPR and CNIL guidance at once. We help US and international parents scope the inquiry so that interviews and evidence handling are run by French counsel or CNAPS-authorised investigators."
+    },
+    {
+      "title": "Asset tracing for enforcement",
+      "text": "Where a judgment or award must be enforced against a party with French connections, we identify company interests, directorships and publicly documented property through lawful sources, and support local counsel deciding whether recognition or protective attachment proceedings in France are worth pursuing."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "French; English common in large groups and finance"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Paris, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; statutory 35-hour week"
+    },
+    {
+      "label": "Court language",
+      "value": "French; Paris international chambers accept English-language material"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Paris, Lyon, Marseille, Toulouse, Lille, Nantes"
+    },
+    {
+      "label": "Company identifier",
+      "value": "Nine-digit SIREN number"
+    },
+    {
+      "label": "Business culture",
+      "value": "Formal and hierarchical; written French correspondence valued"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Sworn translation often required for documents filed in court"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes French matters from Nashville and first asks whether any part of the work amounts to private investigation within the meaning of the Internal Security Code. Where it does, such as locating individuals, observation or witness inquiries in France, the activity is carried out by investigators holding current CNAPS authorisations or handled through French counsel, and TDSC defines the questions, coordinates the work and integrates the findings. Desk research draws on the RNE, Infogreffe filings, published court decisions, official gazettes and open sources; TDSC does not seek beneficial ownership data it is not entitled to. Personal data is processed under a documented legitimate-interest assessment, limited to the question at hand, and transferred to the United States only under a GDPR-compliant mechanism agreed with the client.",
+  "faqs": [
+    {
+      "q": "Does a foreign firm need a CNAPS authorisation to investigate in France?",
+      "a": "Private investigation carried out in France is a regulated activity, and the firm, its managers and its operational staff need CNAPS titles. TDSC does not hold them and does not conduct investigative activity on French territory itself. Where field work is needed, it is performed by authorised French investigators or through counsel, while TDSC handles scoping, desk research outside France and coordination."
+    },
+    {
+      "q": "Can we see who owns a French company?",
+      "a": "Often in part. The RNE and Infogreffe show legal representatives, registered office, filed deeds and, for many companies, annual accounts. Shareholder identity depends on the company form and on what the filed deeds disclose. The beneficial owners register is no longer open to the general public and requires a recognised legitimate interest, so ownership is usually reconstructed from lawful filings and other sources."
+    },
+    {
+      "q": "How does Sapin II affect due diligence on French partners?",
+      "a": "Companies within the scope of Sapin II must evaluate customers, suppliers and intermediaries as part of their anti-corruption programme, and the AFA audits whether this is done effectively. Foreign companies dealing with French groups are frequently asked to support or undergo such assessments. Investigative due diligence gives the evaluation a documented, source-based foundation."
+    },
+    {
+      "q": "Will evidence gathered by investigators be accepted by French courts?",
+      "a": "French courts examine how evidence was obtained and weigh the right to evidence against privacy and fairness. Material gathered by unlawful or disproportionate means may be rejected and can expose the client to liability. This is why TDSC limits itself to lawful sources and involves French counsel early when findings may be used in proceedings."
+    },
+    {
+      "q": "Are French company annual accounts public?",
+      "a": "Most commercial companies must file annual accounts with the commercial court registry, and they can be obtained through Infogreffe. Small companies may opt to keep their profit and loss account or full accounts confidential, so availability varies. A confidentiality election, or a history of late filings, is itself useful context when assessing a counterparty."
+    }
+  ],
+  "sources": [
+    {
+      "title": "World Bank: Population, total - France",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=FR"
+    },
+    {
+      "title": "DLA Piper: Data Protection Laws of the World - France",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=FR"
+    },
+    {
+      "title": "CNIL: La loi Informatique et Libertés",
+      "url": "https://www.cnil.fr/fr/la-loi-informatique-et-libertes"
+    },
+    {
+      "title": "CNAPS: FAQ - Activités",
+      "url": "https://www.cnaps.interieur.gouv.fr/FAQ/Activites"
+    },
+    {
+      "title": "CNAPS: Conseil national des activités privées de sécurité",
+      "url": "https://www.cnaps.interieur.gouv.fr/"
+    },
+    {
+      "title": "AFA: Les missions de l'AFA",
+      "url": "https://www.agence-francaise-anticorruption.gouv.fr/lagence/les-missions-de-lafa"
+    },
+    {
+      "title": "INPI: Guichet unique et Registre national des entreprises",
+      "url": "https://www.inpi.fr/decouvrir-inpi/formalites-dentreprises/guichet-unique-formalites-dentreprises-et-registre-national-entreprises"
+    },
+    {
+      "title": "ICC: International Court of Arbitration",
+      "url": "https://iccwbo.org/dispute-resolution/dispute-resolution-services/icc-international-court-of-arbitration/"
+    }
+  ],
+  "review_flags": [
+    "Search budget was exhausted; several points rest on general knowledge rather than an opened source: Paris international commercial chambers, statutory 35-hour week, SIREN identifier, TRACFIN/PNF roles, AML provisions in the Monetary and Financial Code, and small-company accounts confidentiality option. Verify before publishing.",
+    "Beneficial owners register access: described as restricted to authorities, obliged entities and legitimate-interest applicants after CJEU Nov 2022 ruling; not confirmed from an official French source. Verify current access rules.",
+    "Commercial courts: an experimental conversion of some tribunaux de commerce into 'tribunaux des activités économiques' began in 2025; not mentioned in copy because it could not be verified. Check whether Paris now operates as a TAE and update legal_system.",
+    "Specific Internal Security Code article numbers for private investigation (Book VI) not cited; only CNAPS FAQ reference to L. 622-19 was seen."
+  ],
+  "researched": "2026-11-04"
+}

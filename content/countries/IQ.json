@@ -1,14 +1,18 @@
 {
   "cc": "IQ",
   "name": "Iraq",
-  "meta_description": "Investigative consulting for matters touching Iraq: counterparty due diligence, Baghdad and Kurdistan Region records, contract and asset questions, scoped lawfully.",
+  "meta_description": "TDSC investigative consulting on Iraq: counterparty due diligence, Baghdad and Kurdistan Region records, contract and asset questions, scoped lawfully.",
   "eyebrow": "Republic of Iraq",
   "hero_lede": "Investigative work touching Iraq means reading two administrative systems, federal Baghdad and the Kurdistan Region, through Arabic-language records, a still-developing data protection framework and a security environment that shapes what fieldwork is sensible. We scope each matter from Nashville and coordinate qualified local professionals where required.",
   "intro": [
     "Iraq's commercial environment is shaped by a state-dominated, oil-dependent economy, a large public procurement footprint and a private sector that has grown since 2003 under the Companies Law No. 21 of 1997 as amended. Federal authorities in Baghdad and the Kurdistan Regional Government in Erbil each maintain their own company registration functions, which means a counterparty may appear in one system and not the other. Court proceedings are conducted in Arabic, documents in other languages require translation, and much official information is held on paper or in systems only recently digitised. The Ministry of Trade announced an integrated electronic company registration platform in April 2026, but practical access to historical records still often depends on local enquiry.",
     "Organisations commission investigative work involving Iraq most often before committing capital or entering into supply, construction, energy services or telecommunications contracts, where the identity and connections of local partners, agents and subcontractors matter. Reconstruction and infrastructure spending, oilfield services in the south and investment in the Kurdistan Region bring foreign companies into contact with intermediaries whose ownership and political links are not always visible on paper. Other typical exposures include payment and diversion of funds, disputes over agency and distribution arrangements, enforcement of judgments or awards against Iraqi parties, and screening of individuals for sanctions, militia or politically exposed person connections ahead of onboarding."
   ],
-  "population": {"value": "47.0 million", "year": "2025", "source_url": "https://fred.stlouisfed.org/series/POPTOTIQA647NWDB"},
+  "population": {
+    "value": "47.0 million",
+    "year": "2025",
+    "source_url": "https://fred.stlouisfed.org/series/POPTOTIQA647NWDB"
+  },
   "legal_system": "Iraq has a mixed system of civil law and Islamic law. The Civil Code (Law No. 40 of 1951) draws on Egyptian and French models, commercial relations are governed by the Commercial Law No. 30 of 1984, and personal status matters follow Islamic jurisprudence. Ordinary courts sit under the Supreme Judicial Council, with appeals to the Courts of Appeal and the Federal Court of Cassation. A specialised commercial court for disputes with at least one foreign party began sitting in Baghdad in 2010. Proceedings are in Arabic, and foreign-language documents must be translated.",
   "data_protection": {
     "law": "No comprehensive personal data protection law in force as of 2025; a draft Personal Data Protection Law has been under consideration since 2021",
@@ -19,41 +23,125 @@
   "corporate_records": "In federal Iraq, companies are registered with the Companies Registration Directorate of the Ministry of Trade (Registrar of Companies); in the Kurdistan Region, registration is handled by the KRG Ministry of Trade and Industry in Erbil. Registry extracts covering founders, capital and managers can generally be requested, but there is no comprehensive public online search. Since 2023, foreign companies registered in Iraq must provide the Registrar with details of foreign shareholders, refreshed every six months, under instructions issued pursuant to AML Law No. 39 of 2015. We have not identified a publicly searchable beneficial ownership register. Land and court records are generally obtained through local counsel.",
   "anti_corruption": "Bribery and related offences are criminalised in the Penal Code (Law No. 111 of 1969, Articles 307 to 341). The Integrity Commission, governed by Law No. 30 of 2011 as amended, investigates corruption, alongside the Federal Board of Supreme Audit and the Federal Financial Monitoring Bureau (Law No. 31 of 2011). Law No. 39 of 2015 on Anti-Money Laundering and Terrorism Financing is supervised in part by the Anti-Money Laundering and Counter-Terrorism Financing Office at the Central Bank of Iraq. Iraq is a party to the UN Convention against Corruption.",
   "matters": [
-    {"title": "Local partner and agent vetting", "text": "Before appointing an Iraqi agent, sponsor or joint venture partner, clients need to understand who stands behind the company, how it won previous contracts and whether its principals have political, militia or sanctions exposure. We build profiles from federal and Kurdistan Region records, media and local enquiry."},
-    {"title": "Energy and oilfield services counterparties", "text": "Southern oilfield services, logistics and construction subcontracting involve layered local suppliers. We help operators and contractors test the ownership, track record and reputational standing of subcontractors and suppliers before award, and investigate concerns about inflated invoicing or undisclosed related-party interests once work is under way."},
-    {"title": "Procurement and diversion concerns", "text": "Where a company suspects that funds, equipment or goods destined for Iraqi projects have been diverted, or that a tender was compromised, we scope fact-finding with counsel, review documentation and transaction trails, and identify which questions can be answered through lawful enquiry inside Iraq."},
-    {"title": "Asset tracing for enforcement", "text": "Recovery against Iraqi parties often depends on assets held in the Gulf, Turkey, Jordan, Lebanon or Europe rather than in Iraq itself. We trace corporate interests and property across those jurisdictions to inform counsel on where enforcement of a judgment or award is realistic."},
-    {"title": "Kurdistan Region investment review", "text": "Investments in the Kurdistan Region raise questions about regional registration, licences issued in Erbil, and the relationship between regional and federal authority. We review counterparties and assets against regional records and help clients understand where federal approvals or disputes may affect the position."}
+    {
+      "title": "Local partner and agent vetting",
+      "text": "Before appointing an Iraqi agent, sponsor or joint venture partner, clients need to understand who stands behind the company, how it won previous contracts and whether its principals have political, militia or sanctions exposure. We build profiles from federal and Kurdistan Region records, media and local enquiry."
+    },
+    {
+      "title": "Energy and oilfield services counterparties",
+      "text": "Southern oilfield services, logistics and construction subcontracting involve layered local suppliers. We help operators and contractors test the ownership, track record and reputational standing of subcontractors and suppliers before award, and investigate concerns about inflated invoicing or undisclosed related-party interests once work is under way."
+    },
+    {
+      "title": "Procurement and diversion concerns",
+      "text": "Where a company suspects that funds, equipment or goods destined for Iraqi projects have been diverted, or that a tender was compromised, we scope fact-finding with counsel, review documentation and transaction trails, and identify which questions can be answered through lawful enquiry inside Iraq."
+    },
+    {
+      "title": "Asset tracing for enforcement",
+      "text": "Recovery against Iraqi parties often depends on assets held in the Gulf, Turkey, Jordan, Lebanon or Europe rather than in Iraq itself. We trace corporate interests and property across those jurisdictions to inform counsel on where enforcement of a judgment or award is realistic."
+    },
+    {
+      "title": "Kurdistan Region investment review",
+      "text": "Investments in the Kurdistan Region raise questions about regional registration, licences issued in Erbil, and the relationship between regional and federal authority. We review counterparties and assets against regional records and help clients understand where federal approvals or disputes may affect the position."
+    }
   ],
   "practical": [
-    {"label": "Business languages", "value": "Arabic; Kurdish in the Kurdistan Region; English common in energy and international business"},
-    {"label": "Working week", "value": "Sunday to Thursday"},
-    {"label": "Time zone", "value": "Asia/Baghdad, UTC+3 (no daylight saving)"},
-    {"label": "Courts language", "value": "Arabic; foreign documents require translation"},
-    {"label": "Main business centres", "value": "Baghdad, Basra, Erbil, Sulaymaniyah"},
-    {"label": "Document formalities", "value": "Foreign documents generally require legalisation or certification and Arabic translation; confirm with local counsel"},
-    {"label": "Business culture", "value": "Relationships and personal introductions carry weight; expect in-person meetings before commitments"}
+    {
+      "label": "Business languages",
+      "value": "Arabic; Kurdish in the Kurdistan Region; English common in energy and international business"
+    },
+    {
+      "label": "Working week",
+      "value": "Sunday to Thursday"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Baghdad, UTC+3 (no daylight saving)"
+    },
+    {
+      "label": "Courts language",
+      "value": "Arabic; foreign documents require translation"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Baghdad, Basra, Erbil, Sulaymaniyah"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Foreign documents generally require legalisation or certification and Arabic translation; confirm with local counsel"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationships and personal introductions carry weight; expect in-person meetings before commitments"
+    }
   ],
   "tdsc_approach": "Every matter touching Iraq begins with a jurisdictional and risk review in Nashville: what the client needs to know, whether the counterparties or sectors raise US or other sanctions concerns, and whether the work belongs in federal Iraq, the Kurdistan Region or neighbouring jurisdictions where Iraqi parties hold assets. We rely on lawful sources, including registry extracts, court information obtained through counsel, media in Arabic and Kurdish, and discreet interviews conducted by qualified local professionals with appropriate standing. Duty of care for anyone working on the ground is part of the scope, and we decline tasks that would expose sources or staff to undue risk. Personal data is minimised, held in the United States under access controls, and handled in line with the client's own legal obligations.",
   "faqs": [
-    {"q": "Can you search one registry for companies in both Baghdad and Erbil?", "a": "No. Federal Iraq and the Kurdistan Region keep separate company registration functions, and a company registered in one may not appear in the other. Where the counterparty operates in both areas, we arrange enquiries in each, usually through local counsel, and reconcile the results so that differences in names, capital or managers are explained rather than overlooked."},
-    {"q": "Does Iraq have a data protection law that limits what you can collect?", "a": "As of 2025 Iraq has no comprehensive data protection statute in force; a draft law has been under discussion since 2021. That does not mean anything goes. Penal Code provisions on privacy and unauthorised disclosure still apply, and the client's home-country law usually governs handling. We design collection to be proportionate and document the purpose of each enquiry."},
-    {"q": "Can you confirm whether an Iraqi partner has political or armed-group connections?", "a": "We can assess what public records, media, litigation and discreet source enquiries indicate, and we state how confident those findings are. Connections in Iraq are often informal and undocumented, so conclusions are presented as assessed risk with supporting evidence, not as certainty. Sanctions list screening is part of every such review."},
-    {"q": "Will your team travel to Iraq for fieldwork?", "a": "Our staff are based in Nashville. Where on-the-ground enquiry is necessary, we coordinate qualified local professionals who understand the security conditions in the relevant governorate. We weigh whether fieldwork is genuinely needed against the risks involved, and many matters can be answered through records and remote interviews alone."},
-    {"q": "How do you help when an Iraqi counterparty has not paid?", "a": "We first establish what the counterparty owns and where. Assets reachable for enforcement are frequently located outside Iraq, for example in the Gulf, Turkey or Europe. We trace corporate interests and property across those jurisdictions and report to the client's counsel, who decides where proceedings or recognition of an award are most likely to succeed."}
+    {
+      "q": "Can you search one registry for companies in both Baghdad and Erbil?",
+      "a": "No. Federal Iraq and the Kurdistan Region keep separate company registration functions, and a company registered in one may not appear in the other. Where the counterparty operates in both areas, we arrange enquiries in each, usually through local counsel, and reconcile the results so that differences in names, capital or managers are explained rather than overlooked."
+    },
+    {
+      "q": "Does Iraq have a data protection law that limits what you can collect?",
+      "a": "As of 2025 Iraq has no comprehensive data protection statute in force; a draft law has been under discussion since 2021. That does not mean anything goes. Penal Code provisions on privacy and unauthorised disclosure still apply, and the client's home-country law usually governs handling. We design collection to be proportionate and document the purpose of each enquiry."
+    },
+    {
+      "q": "Can you confirm whether an Iraqi partner has political or armed-group connections?",
+      "a": "We can assess what public records, media, litigation and discreet source enquiries indicate, and we state how confident those findings are. Connections in Iraq are often informal and undocumented, so conclusions are presented as assessed risk with supporting evidence, not as certainty. Sanctions list screening is part of every such review."
+    },
+    {
+      "q": "Will your team travel to Iraq for fieldwork?",
+      "a": "Our staff are based in Nashville. Where on-the-ground enquiry is necessary, we coordinate qualified local professionals who understand the security conditions in the relevant governorate. We weigh whether fieldwork is genuinely needed against the risks involved, and many matters can be answered through records and remote interviews alone."
+    },
+    {
+      "q": "How do you help when an Iraqi counterparty has not paid?",
+      "a": "We first establish what the counterparty owns and where. Assets reachable for enforcement are frequently located outside Iraq, for example in the Gulf, Turkey or Europe. We trace corporate interests and property across those jurisdictions and report to the client's counsel, who decides where proceedings or recognition of an award are most likely to succeed."
+    }
   ],
   "sources": [
-    {"title": "FRED / World Bank: Population, Total for Iraq", "url": "https://fred.stlouisfed.org/series/POPTOTIQA647NWDB"},
-    {"title": "Mondaq: Litigation and Dispute Resolution Comparative Guide (Iraq)", "url": "https://www.mondaq.com/litigation-mediation-arbitration/1573302/litigation-dispute-resolution-comparative-guide"},
-    {"title": "UN ESCWA: Arab Business Legislative Frameworks, Anti-Corruption, Iraq", "url": "https://www.unescwa.org/sites/default/files/inline-files/arab-business-legislative-frameworks-anti-corruption-iraq-english.pdf"},
-    {"title": "UN ESCWA: Law 39 of 2015 on Anti-Money Laundering and Counter-Terrorism Financing", "url": "https://alp.unescwa.org/legislations/law-39-2015-anti-money-laundering-and-counter-terrorism-financing"},
-    {"title": "Al Tamimi: Private Security Legislation in Iraq", "url": "https://www.tamimi.com/law_update_articles/private-security-legislation-in-iraq/"},
-    {"title": "Al Tamimi: New obligatory instructions for foreign companies registered with RoC in Iraq", "url": "https://tamimi.com/news/new-obligatory-instructions-for-foreign-companies-registered-with-roc-in-iraq"},
-    {"title": "Iraq Business News: New Digital Platform for Company Registration in Iraq", "url": "https://www.iraq-businessnews.com/2026/04/27/new-digital-platform-for-company-registration-in-iraq/"},
-    {"title": "Iraq Business News: Iraq Prepares for Anti-Money-Laundering Evaluation", "url": "https://www.iraq-businessnews.com/2026/01/28/iraq-prepares-for-anti-money-laundering-evaluation/"},
-    {"title": "KRG Representation in the US: Company Registration", "url": "https://us.gov.krd/en/services/company-registration"},
-    {"title": "Lawgratis: Privacy Law in Iraq", "url": "https://www.lawgratis.com/blog-detail/privacy-law-at-iraq"},
-    {"title": "University of Sulaimani journal: Notes on Kurdistan Region Private Security Companies Law No. 18 of 2021", "url": "https://sites.google.com/a/univsul.edu.iq/journal-of-politics-and-law/issues/volume-10-issue-02-2022/10228"}
+    {
+      "title": "FRED / World Bank: Population, Total for Iraq",
+      "url": "https://fred.stlouisfed.org/series/POPTOTIQA647NWDB"
+    },
+    {
+      "title": "Mondaq: Litigation and Dispute Resolution Comparative Guide (Iraq)",
+      "url": "https://www.mondaq.com/litigation-mediation-arbitration/1573302/litigation-dispute-resolution-comparative-guide"
+    },
+    {
+      "title": "UN ESCWA: Arab Business Legislative Frameworks, Anti-Corruption, Iraq",
+      "url": "https://www.unescwa.org/sites/default/files/inline-files/arab-business-legislative-frameworks-anti-corruption-iraq-english.pdf"
+    },
+    {
+      "title": "UN ESCWA: Law 39 of 2015 on Anti-Money Laundering and Counter-Terrorism Financing",
+      "url": "https://alp.unescwa.org/legislations/law-39-2015-anti-money-laundering-and-counter-terrorism-financing"
+    },
+    {
+      "title": "Al Tamimi: Private Security Legislation in Iraq",
+      "url": "https://www.tamimi.com/law_update_articles/private-security-legislation-in-iraq/"
+    },
+    {
+      "title": "Al Tamimi: New obligatory instructions for foreign companies registered with RoC in Iraq",
+      "url": "https://tamimi.com/news/new-obligatory-instructions-for-foreign-companies-registered-with-roc-in-iraq"
+    },
+    {
+      "title": "Iraq Business News: New Digital Platform for Company Registration in Iraq",
+      "url": "https://www.iraq-businessnews.com/2026/04/27/new-digital-platform-for-company-registration-in-iraq/"
+    },
+    {
+      "title": "Iraq Business News: Iraq Prepares for Anti-Money-Laundering Evaluation",
+      "url": "https://www.iraq-businessnews.com/2026/01/28/iraq-prepares-for-anti-money-laundering-evaluation/"
+    },
+    {
+      "title": "KRG Representation in the US: Company Registration",
+      "url": "https://us.gov.krd/en/services/company-registration"
+    },
+    {
+      "title": "Lawgratis: Privacy Law in Iraq",
+      "url": "https://www.lawgratis.com/blog-detail/privacy-law-at-iraq"
+    },
+    {
+      "title": "University of Sulaimani journal: Notes on Kurdistan Region Private Security Companies Law No. 18 of 2021",
+      "url": "https://sites.google.com/a/univsul.edu.iq/journal-of-politics-and-law/issues/volume-10-issue-02-2022/10228"
+    }
   ],
   "review_flags": [
     "Data protection: draft Personal Data Protection Law status sourced from a secondary site; confirm whether it has passed Parliament before publication.",

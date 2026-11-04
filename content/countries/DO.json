@@ -1,14 +1,18 @@
 {
   "cc": "DO",
   "name": "Dominican Republic",
-  "meta_description": "Investigative consulting for matters touching the Dominican Republic: counterparty due diligence, asset tracing, free zone and tourism sector risk, from Nashville.",
+  "meta_description": "TDSC investigative consulting on the Dominican Republic: counterparty due diligence, asset tracing, free zone and tourism sector risk, from Nashville.",
   "eyebrow": "República Dominicana",
   "hero_lede": "Investigative consulting for the Dominican Republic covers the tourism, real estate, free zone and mining sectors that draw most foreign capital. The work happens within a civil law system of French origin, a consent-based data protection law, and company records held by regional chambers of commerce.",
   "intro": [
     "The Dominican Republic is the largest economy in the Caribbean and Central America and has about 11.5 million people. Its legal system follows the civil law tradition, with codes that originated in France. Dominican courts often look to French case law where the texts are the same. Companies are governed by Law 479-08 on Commercial Companies and are recorded in the Registro Mercantil, which regional chambers of commerce maintain under Law 3-02. Investors often report that court proceedings are slow. Personal data is regulated by Law 172-13, a consent-based law with no dedicated supervisory authority, so how information is gathered and transferred needs careful planning.",
     "Organisations commission work involving the Dominican Republic because of its large foreign direct investment in tourism, real estate, telecommunications, mining and free trade zones. As of early 2024, the free zone regime under Law 8-90 had more than 800 companies in 84 parks producing medical devices, apparel, tobacco and electronics for export. Typical needs include checking hotel and real estate partners, researching suppliers in free zones, reviewing exposure to public procurement and state-owned enterprises, tracing assets of judgment debtors, and investigating fraud with links to the large Dominican diaspora in the United States and Spain."
   ],
-  "population": {"value": "11.5 million", "year": "2025", "source_url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DO"},
+  "population": {
+    "value": "11.5 million",
+    "year": "2025",
+    "source_url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DO"
+  },
   "legal_system": "The Dominican Republic has a civil law system built on codes of French origin, including the Civil Code, and on special statutes such as Law 479-08 on commercial companies. The Supreme Court of Justice heads the ordinary courts, above the courts of appeal and the courts of first instance, which sit in chambers. A Constitutional Court was created under the 2010 Constitution. Commercial arbitration is governed by Law 489-08. The Santo Domingo Chamber of Commerce runs an arbitration centre, the Corte de Arbitraje y Resolución Alternativa de Conflictos, which was created under Law 181-09.",
   "data_protection": {
     "law": "Law No. 172-13 on the Comprehensive Protection of Personal Data (2013)",
@@ -19,41 +23,125 @@
   "corporate_records": "Under Law 3-02, companies register in the Registro Mercantil kept by the chamber of commerce for their region. The Santo Domingo Chamber of Commerce runs the largest registry and provides an online search portal. Registry certifications generally show the company's constitution, registered address, administrators and, for some company types, partners or shareholders. Certified copies can be ordered. Since Law 155-17, entities and obliged parties must identify their beneficial owners, and the tax authority (DGII) plays a role in collecting that information. We have not confirmed that beneficial ownership information is public. Real property is registered through the Jurisdicción Inmobiliaria under a Torrens-style title system.",
   "anti_corruption": "Law 155-17 against money laundering and terrorist financing sets AML duties and the requirement to identify beneficial owners. The Unidad de Análisis Financiero (UAF), attached to the Ministry of Finance, receives suspicious transaction reports. The DGII supervises designated non-financial businesses. Law 340-06 on public procurement addresses conflicts of interest in public contracting. Corruption cases are prosecuted by the Procuraduría Especializada de Persecución de la Corrupción Administrativa (PEPCA) within the Public Ministry. The country has ratified the UN Convention against Corruption but is not a party to the OECD Anti-Bribery Convention.",
   "matters": [
-    {"title": "Tourism and real estate partners", "text": "Background and litigation research on hotel operators, developers and land sellers in markets such as Punta Cana, Cap Cana and the planned Pedernales tourism zone. This includes checking title chains through the Jurisdicción Inmobiliaria and looking for prior project failures or disputes."},
-    {"title": "Free zone supplier verification", "text": "Checking the corporate existence, ownership, reputation and operating footprint of manufacturers in free zones regulated under Law 8-90 for medical devices, apparel, tobacco and electronics. This supports supply chain, customs and forced-labour compliance reviews."},
-    {"title": "Public procurement and SOE exposure", "text": "Integrity due diligence for companies bidding on public contracts or partnering with state-owned enterprises in electricity, banking and refining. The work focuses on politically exposed persons, conflicts of interest and past procurement controversies that could matter under the FCPA or UK Bribery Act."},
-    {"title": "Diaspora-linked fraud and assets", "text": "Tracing funds and property where fraud, investment schemes or disputed estates connect the United States, Spain and the Dominican Republic. Dominican registry and court findings are combined with records in the counterparty's other jurisdictions."},
-    {"title": "Mining and energy counterparties", "text": "Reputational and ownership research on contractors, landholders and local partners around mining operations such as Pueblo Viejo and around energy generation projects, where community, environmental and permitting disputes can affect investment value."}
+    {
+      "title": "Tourism and real estate partners",
+      "text": "Background and litigation research on hotel operators, developers and land sellers in markets such as Punta Cana, Cap Cana and the planned Pedernales tourism zone. This includes checking title chains through the Jurisdicción Inmobiliaria and looking for prior project failures or disputes."
+    },
+    {
+      "title": "Free zone supplier verification",
+      "text": "Checking the corporate existence, ownership, reputation and operating footprint of manufacturers in free zones regulated under Law 8-90 for medical devices, apparel, tobacco and electronics. This supports supply chain, customs and forced-labour compliance reviews."
+    },
+    {
+      "title": "Public procurement and SOE exposure",
+      "text": "Integrity due diligence for companies bidding on public contracts or partnering with state-owned enterprises in electricity, banking and refining. The work focuses on politically exposed persons, conflicts of interest and past procurement controversies that could matter under the FCPA or UK Bribery Act."
+    },
+    {
+      "title": "Diaspora-linked fraud and assets",
+      "text": "Tracing funds and property where fraud, investment schemes or disputed estates connect the United States, Spain and the Dominican Republic. Dominican registry and court findings are combined with records in the counterparty's other jurisdictions."
+    },
+    {
+      "title": "Mining and energy counterparties",
+      "text": "Reputational and ownership research on contractors, landholders and local partners around mining operations such as Pueblo Viejo and around energy generation projects, where community, environmental and permitting disputes can affect investment value."
+    }
   ],
   "practical": [
-    {"label": "Business language", "value": "Spanish"},
-    {"label": "Time zone", "value": "America/Santo_Domingo, UTC-4, no daylight saving"},
-    {"label": "Currency", "value": "Dominican peso (DOP); US dollar common in tourism and real estate"},
-    {"label": "Main business centres", "value": "Santo Domingo; Santiago de los Caballeros; Punta Cana"},
-    {"label": "Courts language", "value": "Spanish; foreign documents need certified translation"},
-    {"label": "Working week", "value": "Monday to Friday; some offices open Saturday morning"},
-    {"label": "Business culture", "value": "Relationship-based; personal introductions and follow-up in person carry weight"},
-    {"label": "Document formalities", "value": "Notarised and legalised documents, often with Spanish translation"}
+    {
+      "label": "Business language",
+      "value": "Spanish"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Santo_Domingo, UTC-4, no daylight saving"
+    },
+    {
+      "label": "Currency",
+      "value": "Dominican peso (DOP); US dollar common in tourism and real estate"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Santo Domingo; Santiago de los Caballeros; Punta Cana"
+    },
+    {
+      "label": "Courts language",
+      "value": "Spanish; foreign documents need certified translation"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; some offices open Saturday morning"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-based; personal introductions and follow-up in person carry weight"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Notarised and legalised documents, often with Spanish translation"
+    }
   ],
   "tdsc_approach": "TDSC handles Dominican Republic matters from Nashville. We first map which registries actually hold the records that matter: the regional chamber of commerce for company records, the Jurisdicción Inmobiliaria for land, the courts for litigation, and records in the United States or Spain where diaspora links exist. Because Law 172-13 is built on consent, we document the legal basis for any collection of personal data, prefer public sources, and keep cross-border transfers of personal data to what the engagement needs. Where certified copies, field verification or interviews are required, we coordinate appropriately authorised local professionals and work with the client's Dominican counsel on legal questions, especially on admissibility and on whether a bill regulating detectives has come into force.",
   "faqs": [
-    {"q": "Where are Dominican company records held?", "a": "Each company is registered with the Registro Mercantil of the chamber of commerce for its region under Law 3-02. Santo Domingo holds the largest share. Certifications can confirm incorporation, registered address and administrators, and certified copies of filings can be ordered. Records of companies registered outside Santo Domingo may need a separate search at another chamber."},
-    {"q": "Can we see who really owns a Dominican company?", "a": "Law 155-17 requires beneficial owners to be identified and gives the tax authority a role in collecting that information, but we have not confirmed public access to it. In practice we combine registry filings, shareholder records where they are available, litigation, property and media sources, and relevant records abroad. We tell the client how confident we are in any ownership conclusion."},
-    {"q": "Does Law 172-13 restrict background research on individuals?", "a": "Yes, it can. The law is built on consent, with exceptions for public sources and for processing needed to meet contractual or legal obligations. Background research should therefore rely on public records and a clearly documented purpose. Transfers of personal data abroad generally require the data subject's express authorisation or contractual necessity, so we keep reporting focused and collect only what the stated purpose needs."},
-    {"q": "Are private detectives licensed in the Dominican Republic?", "a": "Oversight has historically sat with the Superintendencia de Vigilancia y Seguridad Privada under Decree 1128-03, and a bill to put private security and detectives on a statutory footing passed the Senate in first reading in 2019. Because the current status is uncertain, we confirm the authorisation of any local professional with Dominican counsel before work starts."},
-    {"q": "How are commercial disputes typically resolved?", "a": "Many commercial contracts provide for arbitration under Law 489-08, either ad hoc or through the arbitration centre of the Santo Domingo Chamber of Commerce. Court litigation runs through the courts of first instance, the courts of appeal and the Supreme Court of Justice, and investors often describe it as slow. Our research supports counsel with facts, evidence and asset information. We do not provide legal advice."}
+    {
+      "q": "Where are Dominican company records held?",
+      "a": "Each company is registered with the Registro Mercantil of the chamber of commerce for its region under Law 3-02. Santo Domingo holds the largest share. Certifications can confirm incorporation, registered address and administrators, and certified copies of filings can be ordered. Records of companies registered outside Santo Domingo may need a separate search at another chamber."
+    },
+    {
+      "q": "Can we see who really owns a Dominican company?",
+      "a": "Law 155-17 requires beneficial owners to be identified and gives the tax authority a role in collecting that information, but we have not confirmed public access to it. In practice we combine registry filings, shareholder records where they are available, litigation, property and media sources, and relevant records abroad. We tell the client how confident we are in any ownership conclusion."
+    },
+    {
+      "q": "Does Law 172-13 restrict background research on individuals?",
+      "a": "Yes, it can. The law is built on consent, with exceptions for public sources and for processing needed to meet contractual or legal obligations. Background research should therefore rely on public records and a clearly documented purpose. Transfers of personal data abroad generally require the data subject's express authorisation or contractual necessity, so we keep reporting focused and collect only what the stated purpose needs."
+    },
+    {
+      "q": "Are private detectives licensed in the Dominican Republic?",
+      "a": "Oversight has historically sat with the Superintendencia de Vigilancia y Seguridad Privada under Decree 1128-03, and a bill to put private security and detectives on a statutory footing passed the Senate in first reading in 2019. Because the current status is uncertain, we confirm the authorisation of any local professional with Dominican counsel before work starts."
+    },
+    {
+      "q": "How are commercial disputes typically resolved?",
+      "a": "Many commercial contracts provide for arbitration under Law 489-08, either ad hoc or through the arbitration centre of the Santo Domingo Chamber of Commerce. Court litigation runs through the courts of first instance, the courts of appeal and the Supreme Court of Justice, and investors often describe it as slow. Our research supports counsel with facts, evidence and asset information. We do not provide legal advice."
+    }
   ],
   "sources": [
-    {"title": "World Bank: Population, total (Dominican Republic)", "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DO"},
-    {"title": "DLA Piper Data Protection Laws of the World: Dominican Republic", "url": "https://www.dlapiperdataprotection.com/?t=law&c=DO"},
-    {"title": "Arias Legal guide: Dominican Republic data privacy law", "url": "https://aclaw.com/legal-guide-dominican-republic/data-privacy-law/"},
-    {"title": "US Department of State: 2024 Investment Climate Statement, Dominican Republic", "url": "https://www.state.gov/reports/2024-investment-climate-statements/dominican-republic/"},
-    {"title": "DGII: Lavado de activos brochure (Ley 155-17, beneficiario final)", "url": "https://dgii.gov.do/legislacion/prevencionLavado/informacionEspecializada/Documents/BrochureLavadoDeActivos.pdf"},
-    {"title": "El Día: Detectives poco regulados (2010)", "url": "https://eldia.com.do/detectives-poco-regulados/"},
-    {"title": "El Día: Senado aprueba en primera lectura Ley que Regula la Vigilancia y Seguridad Privada (2019)", "url": "https://eldia.com.do/senado-aprueba-en-primera-lectura-ley-que-regula-la-vigilancia-y-seguridad-privada/"},
-    {"title": "Cámara de Comercio y Producción de Santo Domingo", "url": "https://www.camarasantodomingo.do/"},
-    {"title": "Corte de Arbitraje y Resolución Alternativa de Conflictos", "url": "https://www.crcsd.do"},
-    {"title": "Wikipedia: Law of the Dominican Republic", "url": "https://en.wikipedia.org/wiki/Law_of_the_Dominican_Republic"}
+    {
+      "title": "World Bank: Population, total (Dominican Republic)",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DO"
+    },
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Dominican Republic",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=DO"
+    },
+    {
+      "title": "Arias Legal guide: Dominican Republic data privacy law",
+      "url": "https://aclaw.com/legal-guide-dominican-republic/data-privacy-law/"
+    },
+    {
+      "title": "US Department of State: 2024 Investment Climate Statement, Dominican Republic",
+      "url": "https://www.state.gov/reports/2024-investment-climate-statements/dominican-republic/"
+    },
+    {
+      "title": "DGII: Lavado de activos brochure (Ley 155-17, beneficiario final)",
+      "url": "https://dgii.gov.do/legislacion/prevencionLavado/informacionEspecializada/Documents/BrochureLavadoDeActivos.pdf"
+    },
+    {
+      "title": "El Día: Detectives poco regulados (2010)",
+      "url": "https://eldia.com.do/detectives-poco-regulados/"
+    },
+    {
+      "title": "El Día: Senado aprueba en primera lectura Ley que Regula la Vigilancia y Seguridad Privada (2019)",
+      "url": "https://eldia.com.do/senado-aprueba-en-primera-lectura-ley-que-regula-la-vigilancia-y-seguridad-privada/"
+    },
+    {
+      "title": "Cámara de Comercio y Producción de Santo Domingo",
+      "url": "https://www.camarasantodomingo.do/"
+    },
+    {
+      "title": "Corte de Arbitraje y Resolución Alternativa de Conflictos",
+      "url": "https://www.crcsd.do"
+    },
+    {
+      "title": "Wikipedia: Law of the Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Law_of_the_Dominican_Republic"
+    }
   ],
   "review_flags": [
     "Status of the private security and detectives bill (Senate first reading 2019) is unconfirmed; check whether a statute has been enacted and which authority now licenses detectives.",

@@ -1,0 +1,146 @@
+{
+  "cc": "US",
+  "name": "United States",
+  "meta_description": "Investigative consulting for US matters: state company and court records, state investigator licensing, FCRA and state privacy laws, and FCPA exposure.",
+  "eyebrow": "United States of America",
+  "hero_lede": "Matters touching the United States are rarely national in one sense. Companies, investigator licensing, surveillance rules and most court records are organised state by state, while privacy, anti-bribery and anti-money laundering obligations sit in a mix of federal and state law. Scoping starts with which states are involved.",
+  "intro": [
+    "The United States is a federal republic of fifty states, each with its own corporate statutes, courts, licensing boards and public records practices. There is no single national company register and no comprehensive federal privacy law. Instead, federal statutes govern particular sectors and activities such as consumer reports, finance and health, while a growing number of states have enacted their own comprehensive privacy laws. For investigative work, the practical result is that the same question, for example who controls a company or whether a person has been sued, must be answered separately in each relevant state and county.",
+    "Organisations outside the United States commission investigative work here because of the depth of its capital markets, the reach of its litigation system and the number of holding structures formed in states such as Delaware, Nevada and Wyoming. Typical engagements include background and reputational due diligence on US counterparties before investment or acquisition, asset tracing to support judgments and arbitral awards, and the gathering of public-record evidence for proceedings in US or foreign courts. Discovery in US litigation is broad, so information gathered outside formal process must be collected in a way that will withstand scrutiny if it is later produced or challenged."
+  ],
+  "population": {
+    "value": "341.8 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/US/indicator/SP.POP.TOTL?format=json&mrv=1"
+  },
+  "legal_system": "The United States has a common law system operating under a written federal Constitution, with Louisiana retaining a civil law tradition for private law. Each state has its own court system; federal courts hear cases involving federal law or parties from different states, with the US Supreme Court at the apex. Several states run specialised business courts, and the Delaware Court of Chancery is the principal forum for corporate governance disputes. Arbitration is supported by the Federal Arbitration Act, with institutions including the American Arbitration Association and its International Centre for Dispute Resolution.",
+  "data_protection": {
+    "law": "No comprehensive federal law; sectoral federal statutes including the Fair Credit Reporting Act, Gramm-Leach-Bliley Act and HIPAA, plus state comprehensive privacy laws such as the California Consumer Privacy Act",
+    "regulator": "Federal Trade Commission (FTC), state attorneys general and, in California, the California Privacy Protection Agency",
+    "summary": "As of 2025 the United States has no comprehensive national privacy law. Federal rules apply by sector, and around twenty states have comprehensive privacy statutes, led by California. For investigative work, the most significant federal statute is the Fair Credit Reporting Act: reports used for employment, tenancy, credit or insurance decisions are consumer reports, with notice, consent and accuracy obligations enforced by the FTC. Financial account and health information is protected by federal law and is not obtainable without legal process. State laws add rules on biometrics, data brokers and employee monitoring. Transfers out of the United States are not restricted federally, but data received from the EU or UK carries its own conditions."
+  },
+  "investigator_regulation": "Private investigators are licensed by the states, not the federal government. Most states require a licence for anyone conducting investigations for hire, administered by bodies such as California's Bureau of Security and Investigative Services under its Private Investigator Act or Tennessee's Private Investigation and Polygraph Commission. Requirements and reciprocity differ considerably, and a small number of states have no statewide licence. Federal and state law restrict the interception and recording of communications, with some states requiring the consent of all parties. Pretexting to obtain financial records is prohibited under the Gramm-Leach-Bliley Act, and motor vehicle records are protected by federal law.",
+  "corporate_records": "Companies are formed under state law and registered with each state's Secretary of State or equivalent office. Most states publish entity name, status, registered agent and formation date; disclosure of officers, directors and members varies widely, and Delaware, Nevada and Wyoming disclose comparatively little. Listed companies file with the SEC through EDGAR. Under FinCEN's beneficial ownership rules, US-formed companies are exempt from reporting, a position made final with effect from 14 August 2026; the information is not public in any event. Property records are held by county recorders, and federal court dockets are available through PACER.",
+  "anti_corruption": "The Foreign Corrupt Practices Act of 1977 prohibits bribery of foreign officials and imposes books-and-records and internal controls requirements on issuers, enforced by the Department of Justice and the SEC. Executive Order 14209 of February 2025 paused new FCPA enforcement pending review, and DOJ guidelines of 9 June 2025 narrowed enforcement priorities. The Foreign Extortion Prevention Act criminalises the demand side of foreign bribery. The Bank Secrecy Act underpins anti-money laundering obligations, administered by FinCEN.",
+  "matters": [
+    {
+      "title": "Counterparty due diligence before investment",
+      "text": "Identifying who stands behind a US company formed in a low-disclosure state, reviewing litigation, liens, bankruptcy filings, regulatory actions and adverse media across every state where the business or its principals operate, and noting where records are incomplete or unavailable online."
+    },
+    {
+      "title": "Asset tracing for judgment enforcement",
+      "text": "Locating real property through county recorders, identifying corporate interests, UCC filings, vessels and aircraft, and assessing which states offer the most practical route to enforcement of a foreign judgment or arbitral award, with domestication and discovery handled by US counsel."
+    },
+    {
+      "title": "Litigation support in state and federal courts",
+      "text": "Building witness, background and chronology work from public sources to support US counsel, including locating former employees and reviewing docket histories, while observing state ethics rules on contact with represented parties and the limits on recording conversations."
+    },
+    {
+      "title": "Internal and whistleblower investigations",
+      "text": "Supporting counsel-led reviews of fraud, misconduct or retaliation allegations, with attention to privilege, employee privacy rules in the relevant states, FCRA obligations where third-party reports are used, and the preservation of material for regulators or courts."
+    },
+    {
+      "title": "Third-party and supply chain screening",
+      "text": "Reviewing US distributors, agents and suppliers for ownership, sanctions and export control exposure, litigation history and links to restricted parties, particularly in cases where goods, technology or funds move between the United States and higher-risk jurisdictions."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "English; Spanish widely spoken in many regions"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Time zones",
+      "value": "America/New_York (UTC-5), America/Chicago (UTC-6), America/Denver (UTC-7), America/Los_Angeles (UTC-8); daylight saving applies in most areas"
+    },
+    {
+      "label": "Court language",
+      "value": "English"
+    },
+    {
+      "label": "Records model",
+      "value": "Company, property and most court records held at state or county level"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Notarisation is common; sworn declarations and affidavits are used in litigation"
+    },
+    {
+      "label": "Main business centres",
+      "value": "New York, Chicago, Los Angeles, Houston, Washington, Miami, Atlanta"
+    }
+  ],
+  "tdsc_approach": "TDSC is based in Nashville, so US matters are the ones it handles closest to home, but they still start with jurisdiction. Each engagement is scoped by identifying the states and counties involved, the licensing rules that apply to any fieldwork there, and whether the purpose of the work brings it within the Fair Credit Reporting Act or a state privacy statute. Research relies on lawful public sources: state registries, county property and court records, federal dockets, regulatory filings and media. Where surveillance, interviews or document service are needed outside Tennessee, TDSC coordinates investigators licensed in that state. Findings state their sources and gaps, and data is held under agreed retention terms. TDSC does not use pretexting or provide legal advice.",
+  "faqs": [
+    {
+      "q": "Is there a national database showing who owns a US company?",
+      "a": "No public one. Companies register with individual states, and most states do not publish shareholders or members. FinCEN's beneficial ownership information is not public and, since 2025, US-formed companies are exempt from reporting it. Ownership is usually established by combining state filings, SEC records, property, lien and litigation records."
+    },
+    {
+      "q": "Does a private investigator licensed in one state cover the whole country?",
+      "a": "Generally not. Licensing is state-based, and conducting investigations for hire in a state usually requires a licence there or a recognised reciprocity arrangement. Desk-based research using public records is often less restricted than surveillance or interviews, but the position depends on the state. TDSC coordinates locally licensed investigators for fieldwork outside Tennessee."
+    },
+    {
+      "q": "When does the Fair Credit Reporting Act apply to investigative work?",
+      "a": "The FCRA applies when a report on an individual is used, or expected to be used, for decisions such as employment, credit, insurance or tenancy. Pre-employment screening is the most common example. Litigation and transactional due diligence on businesses are usually outside its scope, but the intended use of each report should be confirmed at the outset."
+    },
+    {
+      "q": "Can conversations be recorded during US enquiries?",
+      "a": "Federal law permits recording with one party's consent, but several states require the consent of all parties, and calls between states raise questions about which rule applies. Recording also has evidential and ethical implications in litigation. TDSC agrees any recording with the client and counsel in advance and follows the stricter applicable rule."
+    },
+    {
+      "q": "How are court records searched across the United States?",
+      "a": "Federal civil, criminal and bankruptcy dockets are searchable through PACER. State court records are held county by county, with online access ranging from full portals to courthouse-only. A thorough litigation search therefore identifies the counties where a person or company has lived or operated and searches each, rather than relying on a single aggregated database."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: United States",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=US"
+    },
+    {
+      "title": "FinCEN: Beneficial Ownership Information Reporting",
+      "url": "https://www.fincen.gov/boi"
+    },
+    {
+      "title": "US Department of Justice: Foreign Corrupt Practices Act",
+      "url": "https://www.justice.gov/criminal/criminal-fraud/foreign-corrupt-practices-act"
+    },
+    {
+      "title": "The White House: Pausing Foreign Corrupt Practices Act Enforcement (Executive Order, 10 February 2025)",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/02/pausing-foreign-corrupt-practices-act-enforcement-to-further-american-economic-and-national-security/"
+    },
+    {
+      "title": "Office of the Deputy Attorney General: Guidelines for Investigations and Enforcement of the FCPA (9 June 2025)",
+      "url": "https://www.justice.gov/dag/media/1403031/dl?inline"
+    },
+    {
+      "title": "Federal Trade Commission: Fair Credit Reporting Act",
+      "url": "https://www.ftc.gov/legal-library/browse/statutes/fair-credit-reporting-act"
+    },
+    {
+      "title": "California Bureau of Security and Investigative Services: Private Investigators",
+      "url": "https://www.bsis.ca.gov/industries/pi.shtml"
+    },
+    {
+      "title": "PACER: Public Access to Court Electronic Records",
+      "url": "https://pacer.uscourts.gov/"
+    },
+    {
+      "title": "World Bank: Population, total (United States)",
+      "url": "https://api.worldbank.org/v2/country/US/indicator/SP.POP.TOTL?format=json&mrv=1"
+    }
+  ],
+  "review_flags": [
+    "FCPA enforcement policy changed in 2025 (EO 14209, DOJ guidelines of 9 June 2025); confirm current DOJ posture before publishing.",
+    "Count of state comprehensive privacy laws ('around twenty') is from DLA Piper, which itself gives inconsistent figures; number changes frequently.",
+    "Statement that 'a small number of states have no statewide investigator licence' and the name of Tennessee's Private Investigation and Polygraph Commission could not be verified via fetch this session (tn.gov pages failed to load).",
+    "FinCEN BOI final rule effective 14 August 2026 per FinCEN alert; foreign reporting company obligations under the final rule not restated on the page.",
+    "Time zone list is not exhaustive (Alaska, Hawaii, Arizona's no-DST practice omitted)."
+  ],
+  "researched": "2026-11-04"
+}
