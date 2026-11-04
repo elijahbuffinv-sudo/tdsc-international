@@ -1,0 +1,142 @@
+{
+  "cc": "FM",
+  "name": "Micronesia",
+  "meta_description": "Investigative consulting for Micronesia matters: national and state corporate records, foreign investment permits, Compact context and fisheries diligence.",
+  "eyebrow": "Federated States of Micronesia",
+  "hero_lede": "Investigative consulting for matters touching the Federated States of Micronesia usually involves small, closely connected markets across four states, fisheries and Compact-funded activity, and records split between national and state authorities. TDSC scopes this work from Nashville and coordinates qualified local professionals where on-island work is needed.",
+  "intro": [
+    "The Federated States of Micronesia is a constitutional federation of four states, Yap, Chuuk, Pohnpei and Kosrae, with national law compiled in the FSM Code and a national judiciary headed by the FSM Supreme Court, alongside state courts. Responsibility for business regulation is divided: the national Registrar of Corporations administers incorporation under Title 36 of the Code, but a state may establish its own incorporation process, and foreign investment is permitted either nationally or by the states depending on the sector. For investigators this means confirming at the outset which authority holds the relevant record. The country has no general data protection law, and records are frequently paper-based, so on-island retrieval through local professionals is often the practical route.",
+    "Organisations commission work involving the FSM because of its close relationship with the United States under the Compact of Free Association, in force since 1986 and amended in 2004, and because of its significance in Pacific tuna fisheries as a party to the Nauru Agreement and host of the Western and Central Pacific Fisheries Commission headquarters. Typical needs include due diligence on fishing, shipping and construction counterparties, background research on contractors receiving grant-funded work, reputational checks on local partners and officials, and support for disputes where assets or parties are in the FSM. Matters are commonly commissioned by US companies, lenders, insurers and law firms."
+  ],
+  "population": {
+    "value": "113,160",
+    "year": "2024",
+    "source_url": "https://api.worldbank.org/v2/country/FSM/indicator/SP.POP.TOTL?format=json&date=2024"
+  },
+  "legal_system": "The FSM is a constitutional federation with an English-language statutory code, the FSM Code, and parallel national and state court systems. National judicial power is vested in the FSM Supreme Court, which sits in a Trial Division, serving each of the four states as needed, and an Appellate Division, under a Chief Justice and up to five Associate Justices. State courts hear matters within state jurisdiction. We have not identified a specialised commercial court or a domestic arbitration centre; commercial disputes are generally heard by the FSM Supreme Court Trial Division or state courts, and the choice of forum should be confirmed with local counsel.",
+  "data_protection": {
+    "law": "No comprehensive data protection law; FSM Code Title 21, sections 349-350 (telecommunications customer information)",
+    "regulator": "No dedicated data protection authority",
+    "summary": "The FSM has no general data protection statute or regulator. The principal statutory protection is in Title 21 of the FSM Code, which requires telecommunications providers to keep customer information and communications confidential and not to collect, use or disclose customer information without consent. A Personal Data Protection Act of 2025 has been pending before the FSM Congress and would, if enacted, apply to national government departments. Investigative work therefore relies on general legal limits, contractual confidentiality and good practice, and on the data protection laws of the client's own jurisdiction, which often govern the handling of any personal data collected."
+  },
+  "investigator_regulation": "We have not identified a licensing regime for private investigators in the FSM Code or in published state legislation. That does not mean no requirements apply: business licensing at state level and, for foreign persons, foreign investment permits may be relevant to anyone carrying on business locally. Engagements are scoped with local counsel before on-island enquiries begin. Interception of telecommunications, trespass and other criminal provisions constrain surveillance, and records held by national or state agencies are obtained only through lawful public access or the courts.",
+  "corporate_records": "The Registrar of Corporations, under Title 36 of the FSM Code, keeps as custodian the certificates and other documents that corporations are required to file nationally, and may compel corporations to produce books and documents. States may establish their own incorporation processes, so some entities are registered at state level. The Code does not clearly state whether filed corporate records are open to public inspection; access is usually requested in person or through local professionals. Foreign investment permits are recorded in national and state registers, and the Department of Resources and Development publishes aggregate foreign investment data. No public beneficial ownership register has been identified.",
+  "anti_corruption": "Public corruption offences, including bribery, are set out in Title 11, Chapter 5 of the FSM Code (Crimes Against Public Administration). Money laundering and the confiscation of proceeds of crime are addressed in Title 11, Chapter 9, enacted by Public Law 11-72 as part of the Revised Criminal Code Act. Criminal enforcement is led by national authorities, and Compact-funded programmes are also subject to US grant oversight. We have not verified the current structure of the financial intelligence function from a primary source.",
+  "matters": [
+    {
+      "title": "Fisheries and vessel counterparty diligence",
+      "text": "Background research on fishing companies, vessel operators, agents and joint venture partners operating in FSM waters or under FSM permits, covering corporate filings, foreign investment permits, litigation in national and state courts, and regional fisheries and media reporting."
+    },
+    {
+      "title": "Contractor diligence for funded projects",
+      "text": "Due diligence on contractors and subcontractors bidding for infrastructure and service work funded through Compact or other development assistance, examining ownership, related parties, prior performance, disputes and links to officials responsible for awarding work."
+    },
+    {
+      "title": "Local partner and agent vetting",
+      "text": "Reputational and integrity checks on proposed local partners, agents and landlords, recognising that business communities in each state are small and interconnected, so independence and conflicts of interest require particular attention."
+    },
+    {
+      "title": "Litigation and asset support",
+      "text": "Supporting counsel in disputes before the FSM Supreme Court or state courts, or in foreign proceedings involving FSM parties, through record retrieval by local professionals, chronology building and identification of locally held business interests and assets."
+    },
+    {
+      "title": "Insurance and loss enquiries",
+      "text": "Supporting insurers and their counsel on marine, property and liability claims arising in the FSM, including background on claimants and counterparties, document collection through local professionals, and coordination with surveyors and adjusters across dispersed islands."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "English; local languages vary by state"
+    },
+    {
+      "label": "Time zones",
+      "value": "Pacific/Chuuk UTC+10 (Yap, Chuuk); Pacific/Pohnpei and Pacific/Kosrae UTC+11"
+    },
+    {
+      "label": "Currency",
+      "value": "US dollar"
+    },
+    {
+      "label": "Capital and centres",
+      "value": "Palikir (Pohnpei); Kolonia, Weno, Colonia, Tofol"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Records access",
+      "value": "Often paper-based; frequently requires in-person retrieval"
+    },
+    {
+      "label": "US relationship",
+      "value": "Compact of Free Association (1986, amended 2004)"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes FSM matters from Nashville. We first establish which records are national and which sit with an individual state, since incorporation, foreign investment permits and business licences may be held at either level, and many records are not online. Remote research covers the FSM Code, published FSM Supreme Court decisions, government and regional fisheries publications, and open sources. Where documents must be retrieved or enquiries made locally, we coordinate qualified local professionals in the relevant state and work with counsel admitted in the FSM. Because there is no comprehensive data protection law, we apply the data handling standards of the client's own jurisdiction and limit collection to what the matter requires. We do not use pretexting or seek non-public government records.",
+  "faqs": [
+    {
+      "q": "Are FSM company records available online?",
+      "a": "Generally not in a form that supports comprehensive remote research. The national Registrar of Corporations holds filed documents, and some entities are registered with a state instead. Requests are usually made in person, so we coordinate local professionals to retrieve records and confirm what has been filed, rather than relying on secondary listings."
+    },
+    {
+      "q": "Does the FSM have a data protection law?",
+      "a": "Not a general one. Title 21 of the FSM Code protects telecommunications customer information, and a bill applying to national government departments has been before Congress. In practice, the data protection rules of the client's jurisdiction often govern how we handle personal data, and we apply them conservatively."
+    },
+    {
+      "q": "Which court hears a commercial dispute involving an FSM company?",
+      "a": "It depends on the parties and subject matter. The FSM Supreme Court Trial Division sits in each state and hears matters within national jurisdiction, while state courts hear others. Forum questions should be settled by counsel admitted in the FSM; we support them with background research and record retrieval."
+    },
+    {
+      "q": "How do foreign investment permits help due diligence?",
+      "a": "Foreign investors in nationally regulated sectors such as fishing in the exclusive economic zone, telecommunications, banking and international shipping need a national permit, while other sectors are regulated by the states. Confirming whether a counterparty holds the appropriate permit, and from which authority, is a useful early check on legitimacy."
+    },
+    {
+      "q": "Can you carry out work on more than one island?",
+      "a": "Yes, but it requires planning. The four states are separated by long distances and limited flights, and records and contacts are specific to each. We scope the geography at the outset, use remote research where possible, and coordinate local professionals in each relevant state only where on-island work adds value."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Micronesia",
+      "url": "https://www.dlapiperdataprotection.com/?c=FM&t=law"
+    },
+    {
+      "title": "FSM Code index (FSM Legal Information System)",
+      "url": "https://www.fsmlaw.org/fsm/code/index.htm"
+    },
+    {
+      "title": "FSM Code Title 36, Chapter 2: Registrar of Corporations",
+      "url": "https://www.fsmlaw.org/fsm/code/title36/T36_Ch02.htm"
+    },
+    {
+      "title": "FSM Code Title 32, Chapter 2: Foreign Investment",
+      "url": "https://www.fsmlaw.org/fsm/code/title32/T32_Ch02.htm"
+    },
+    {
+      "title": "FSM Code Title 4, Chapter 1: Judicial Organization",
+      "url": "https://www.fsmlaw.org/fsm/code/title04/T04_Ch01.htm"
+    },
+    {
+      "title": "FSM Code Title 11, Chapter 9: Money Laundering and Proceeds of Crime",
+      "url": "https://www.fsmlaw.org/fsm/code/title11/T11_Ch09.htm"
+    },
+    {
+      "title": "US Department of State: U.S. Relations With the Federated States of Micronesia",
+      "url": "https://www.state.gov/u-s-relations-with-the-federated-states-of-micronesia/"
+    },
+    {
+      "title": "World Bank: Population, total (Micronesia, Fed. Sts.)",
+      "url": "https://api.worldbank.org/v2/country/FSM/indicator/SP.POP.TOTL?format=json&date=2024"
+    }
+  ],
+  "review_flags": [
+    "No private investigator licensing regime identified; state-level business licensing requirements not researched.",
+    "Public inspectability of Registrar of Corporations records not confirmed from the Code.",
+    "Personal Data Protection Act of 2025 was pending; check whether enacted.",
+    "Compact assistance: State Department page referenced funding through FY2023; status of the 2023 Compact renewal/economic assistance not verified, so text avoids it.",
+    "FSM financial intelligence unit structure and specialised commercial forum/arbitration centre not verified (web search budget exhausted)."
+  ],
+  "researched": "2026-11-04"
+}

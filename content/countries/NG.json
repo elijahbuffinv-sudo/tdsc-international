@@ -1,0 +1,153 @@
+{
+  "cc": "NG",
+  "name": "Nigeria",
+  "meta_description": "Investigative consulting for Nigeria: CAC and PSC register checks, NDPA 2023 data compliance, fraud tracing, asset searches and counterparty review.",
+  "eyebrow": "Federal Republic of Nigeria",
+  "hero_lede": "Investigative consulting for matters touching Nigeria draws on a public company registry and persons with significant control register, an active anti-corruption enforcement record and a large court system, and must account for document fraud, identity risk and the Nigeria Data Protection Act 2023.",
+  "intro": [
+    "Nigeria is Africa's most populous country and one of its largest economies, with a federal structure of 36 states and a legal system that combines English-derived common law with customary law and, in a number of northern states, Sharia. Corporate records are comparatively accessible: the Corporate Affairs Commission maintains a public registry and Nigeria operates a public register of persons with significant control. At the same time, forged documents, nominee arrangements and fragmented court records mean that registry data should be corroborated, not taken at face value. Data protection has also matured, with the Nigeria Data Protection Act 2023 and a 2025 implementing directive now governing personal data.",
+    "Organisations commission investigative work involving Nigeria for oil and gas, banking and fintech, telecoms, commodities and infrastructure matters, and for the recovery of funds lost to fraud. Common exposures include counterparties whose ownership is obscured, intermediaries with links to politically exposed persons, contract and procurement fraud, and advance-fee and business email compromise schemes that move money through Nigerian accounts. Lenders and investors seek background and reputational review before transactions; claimants and their counsel seek asset tracing and judgment enforcement support; and multinationals require integrity checks on agents, distributors and joint-venture partners operating under Nigerian anti-corruption law."
+  ],
+  "population": {
+    "value": "232.7 million",
+    "year": "2024",
+    "source_url": "https://fred.stlouisfed.org/data/POPTOTNGA647NWDB"
+  },
+  "legal_system": "Nigeria has a mixed legal system based on English common law, supplemented by customary law and, in a number of northern states, Sharia. The court hierarchy runs from trial courts, including state High Courts, the Federal High Court, magistrates' courts and customary and Sharia courts, through the Court of Appeal to the Supreme Court. Company and many federal commercial matters are heard by the Federal High Court. Arbitration is widely used; the Lagos Court of Arbitration, established under Lagos State law in 2009, is a leading institution for domestic and cross-border commercial disputes.",
+  "data_protection": {
+    "law": "Nigeria Data Protection Act 2023 (NDPA) and General Application and Implementation Directive 2025 (GAID)",
+    "regulator": "Nigeria Data Protection Commission (NDPC)",
+    "summary": "The NDPA, assented to in June 2023, and the GAID issued by the NDPC in March 2025 form the current framework, replacing the 2019 Nigeria Data Protection Regulation. Investigative work involving personal data of people in Nigeria needs a lawful basis, a defined purpose and proportionate collection, including for employee and counterparty checks. Transfers out of Nigeria require an adequacy finding or an approved transfer instrument such as standard contractual clauses, or a narrow exception such as legal claims. Organisations designated as data controllers or processors of major importance must register with the NDPC and file annual compliance audit returns."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators in Nigeria. The Private Guard Companies Act (1986) licenses guard companies and contains a provision restricting use of the expression 'private detective', but it does not clearly regulate investigative services. A bill to license private detectives was considered by the National Assembly but, according to press reporting, did not advance after a second reading in October 2024. Engagements are therefore scoped with Nigerian counsel. Surveillance, recording and any attempt to obtain bank, telecoms or police records outside lawful process are excluded.",
+  "corporate_records": "The Corporate Affairs Commission (CAC), constituted under the Companies and Allied Matters Act 2020, registers companies, business names and incorporated trustees and maintains a public registry with an online search. Basic company details, directors and filings can be obtained, and certified copies of documents can be requested. Nigeria also operates a public persons with significant control register with a 5% threshold, which Open Ownership lists as live and publicly available. Court records are held by individual courts and are not centrally searchable; land records are maintained by state land registries and generally require local searches.",
+  "anti_corruption": "Principal laws include the Corrupt Practices and Other Related Offences Act 2000, the Economic and Financial Crimes Commission (Establishment) Act 2004, the Nigerian Financial Intelligence Unit Act 2018 and the Money Laundering (Prevention and Prohibition) Act 2022. Enforcement is led by the Economic and Financial Crimes Commission (EFCC) and the Independent Corrupt Practices and Other Related Offences Commission (ICPC), with the Nigerian Financial Intelligence Unit (NFIU) receiving suspicious transaction reports and the Code of Conduct Bureau overseeing public officers.",
+  "matters": [
+    {
+      "title": "Fraud tracing and asset recovery",
+      "text": "Support for counsel pursuing funds lost to business email compromise, invoice fraud or investment schemes routed through Nigerian accounts, including identification of recipient entities, related companies and assets that may be relevant to freezing or enforcement proceedings."
+    },
+    {
+      "title": "Oil, gas and contractor review",
+      "text": "Ownership and integrity review of marginal field operators, service contractors, traders and local content partners, where political exposure, nominee shareholdings and disputed asset transfers are recurrent issues."
+    },
+    {
+      "title": "Fintech and banking counterparties",
+      "text": "Background checks on payment companies, agents and founders ahead of investment or partnership, with attention to licensing status, regulatory actions, litigation and the reliability of documents provided during onboarding."
+    },
+    {
+      "title": "Agent and distributor due diligence",
+      "text": "Pre-appointment review of sales agents, customs brokers and distributors for links to public officials, prior enforcement by the EFCC or ICPC, and red flags relevant to anti-bribery programmes in Nigeria and abroad."
+    },
+    {
+      "title": "Document and identity verification",
+      "text": "Verification of certificates, corporate documents, references and claimed experience where forgery or misrepresentation is a known risk, using registry records, issuing institutions and independent corroboration rather than copies supplied by the subject."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "English; Hausa, Yoruba and Igbo widely spoken"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Lagos, UTC+1"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Nigerian naira (NGN)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Lagos, Abuja, Port Harcourt, Kano, Ibadan"
+    },
+    {
+      "label": "Courts language",
+      "value": "English (customary and Sharia courts may use local languages)"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Certified true copies from the CAC or the relevant court are preferred over copies supplied by parties"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-driven; senior introductions and in-person meetings matter for local engagement"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes engagements touching Nigeria from Nashville, starting with a jurisdictional review of the client's objective, the legal basis for processing personal data under the NDPA and whether any enquiry would require Nigerian legal process. Research begins with CAC and persons with significant control records, reported judgments, regulatory announcements and Nigerian and international media, cross-checked against sources outside Nigeria. Where certified documents, court file searches, land searches or discreet local enquiries are needed, TDSC coordinates qualified local professionals and works alongside Nigerian counsel, who advise on remedies and evidence. TDSC does not seek bank, telecoms, police or immigration records outside lawful process, and transfers personal data out of Nigeria only on a documented basis.",
+  "faqs": [
+    {
+      "q": "Is beneficial ownership information publicly available in Nigeria?",
+      "a": "Yes, to a significant extent. Nigeria operates a public persons with significant control register with a 5% threshold, alongside the CAC's company records. Entries are self-declared, however, so they should be compared with filings, shareholder histories and other sources, particularly where nominees, trusts or offshore holding companies are involved."
+    },
+    {
+      "q": "Can a private investigator in Nigeria obtain bank or phone records?",
+      "a": "Not lawfully on their own initiative. Bank and telecoms records are obtained through court orders, regulatory process or law enforcement. TDSC works with Nigerian counsel where such evidence is needed, for example in fraud recovery, and does not seek it through informal channels."
+    },
+    {
+      "q": "How does the NDPA affect background checks on Nigerian staff or partners?",
+      "a": "Checks need a lawful basis, a clear purpose and proportionate scope, and individuals generally have to be informed. Where results are sent abroad, an adequacy finding, an approved transfer instrument or a recognised exception is required. Larger organisations may also need to register with the NDPC as controllers of major importance."
+    },
+    {
+      "q": "What are common warning signs in Nigerian counterparties?",
+      "a": "Recurring signs include recently incorporated companies with large contracts, directors who appear on many unrelated entities, addresses shared with other businesses, mismatches between CAC records and documents supplied, and undisclosed links to public officials or their families. None is conclusive alone; together they define where deeper enquiry is warranted."
+    },
+    {
+      "q": "Can TDSC help recover funds sent to Nigeria through fraud?",
+      "a": "TDSC supports counsel by identifying recipient entities, related parties and potentially reachable assets, and by assembling a sourced record for use in proceedings. Recovery itself depends on legal action by Nigerian or foreign counsel and, where appropriate, reports to the EFCC. TDSC does not provide legal advice or guarantee recovery."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Nigeria",
+      "url": "https://www.dlapiperdataprotection.com/index.html?c=NG&t=law"
+    },
+    {
+      "title": "FRED / World Bank: Population, Total for Nigeria",
+      "url": "https://fred.stlouisfed.org/data/POPTOTNGA647NWDB"
+    },
+    {
+      "title": "Corporate Affairs Commission",
+      "url": "https://www.cac.gov.ng/"
+    },
+    {
+      "title": "Open Ownership: Nigeria",
+      "url": "https://www.openownership.org/en/map/country/nigeria/"
+    },
+    {
+      "title": "Mondaq: Nigeria's Anti-Bribery & Corruption and AML Landscape: A Q&A",
+      "url": "https://webiis08.mondaq.com/nigeria/white-collar-crime-anti-corruption-fraud/1727098/nigerias-anti-bribery-corruption-abc-and-anti-money-laundering-aml-landscape-a-qa"
+    },
+    {
+      "title": "ICPC",
+      "url": "https://icpc.gov.ng/"
+    },
+    {
+      "title": "Private Guard Companies Act 1986 (judy.legal)",
+      "url": "https://www.judy.legal/legislation/akn/ng/act/1986/23"
+    },
+    {
+      "title": "Atlantic Post: Private investigators in Nigeria",
+      "url": "https://atlanticpostng.com/where-shadows-pay-the-bills-private-investigators-in-nigeria-and-the-underground-economy-around-them/"
+    },
+    {
+      "title": "Lagos Court of Arbitration",
+      "url": "https://www.lca.org.ng/"
+    },
+    {
+      "title": "Wikipedia: Judiciary of Nigeria",
+      "url": "https://en.wikipedia.org/wiki/Judiciary_of_Nigeria"
+    }
+  ],
+  "review_flags": [
+    "Private detective licensing bill status sourced only from a press article (shelved after October 2024 second reading); Interior Ministry review of private security law reported for November 2025. Verify.",
+    "Federal High Court jurisdiction over company matters stated from general knowledge, not from an opened source.",
+    "PSC register launch year differs between sources (2022 vs c.2023); only stated as 'public' in copy.",
+    "Legal system/court structure partly sourced from Wikipedia; consider replacing with an official judiciary source."
+  ],
+  "researched": "2026-11-04"
+}

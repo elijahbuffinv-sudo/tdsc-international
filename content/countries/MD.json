@@ -1,0 +1,130 @@
+{
+  "cc": "MD",
+  "name": "Moldova",
+  "meta_description": "Investigative consulting for Moldova matters: company and ownership research, the new personal data law, justice reform and EU accession-era due diligence.",
+  "eyebrow": "Republic of Moldova",
+  "hero_lede": "Investigative consulting for matters touching Moldova involves counterparty and ownership research in a market undergoing EU-accession reforms, careful handling of personal data under a changing law, and litigation support in courts reshaped by vetting. TDSC scopes this work from Nashville and coordinates licensed local professionals where needed.",
+  "intro": [
+    "Moldova is a civil law jurisdiction in the middle of substantial institutional reform. The European Union approved the opening of accession negotiations in 2023, and judicial vetting, a restructured Supreme Court of Justice and a consolidation of trial courts have changed how disputes move through the system. Company registration is administered by the Public Services Agency, which registers businesses quickly and electronically, and beneficial ownership disclosure requirements were strengthened in 2022. Personal data protection is in transition: the 2011 law remains the core framework while a new GDPR-style law adopted in 2024 phases in from August 2026. Investigative work needs to account for these reforms and for the Transnistrian region, which lies outside the effective control of the constitutional authorities.",
+    "Organisations commission work involving Moldova because of its growing role in nearshore IT and business services, its agriculture, food processing, wine, automotive components and garment sectors, and its position on trade routes between the EU and Ukraine. Typical exposures include opaque ownership of counterparties, historic links to banking-sector fraud, conflicts of interest involving officials, and the reliability of local partners in public procurement and donor-funded projects. Investors and lenders need background on principals and their political connections. Litigants need asset information and chronology support for Moldovan proceedings or for enforcement against Moldovan parties, often across neighbouring jurisdictions such as Romania and Ukraine."
+  ],
+  "population": {
+    "value": "2.40 million",
+    "year": "2024",
+    "source_url": "https://api.worldbank.org/v2/country/MDA/indicator/SP.POP.TOTL?format=json&date=2024"
+  },
+  "legal_system": "Moldova has a civil law system based on codified statutes, including the Civil Code and Civil Procedure Code. Courts are of general jurisdiction rather than specialised commercial courts: first-instance courts, Courts of Appeal (North, Centre and South) and the Supreme Court of Justice, which reforms in 2023 (Law No. 64/2023) refocused as a cassation court concerned with uniform application of the law. A separate Constitutional Court sits outside the ordinary hierarchy. Arbitration is governed by Laws No. 23/2008 and 24/2008, with the International Commercial Arbitration Court at the Chamber of Commerce and Industry as the main institution.",
+  "data_protection": {
+    "law": "Law No. 133 of 8 July 2011 on Personal Data Protection; Law No. 195 of 25 July 2024 on Personal Data Protection (effective 23 August 2026)",
+    "regulator": "National Centre for Personal Data Protection (NCPDP)",
+    "summary": "Law No. 133/2011 has long governed processing in Moldova, and the new Law No. 195/2024, closely modelled on the GDPR, takes effect on 23 August 2026 with penalties phasing in over three years. Consent is the general basis, with exceptions such as contract performance, legal obligations and legitimate interests that do not override the data subject's rights. Mandatory database registration was abolished in 2022 in favour of prior impact assessments. Transfers to the EU and to countries recognised as adequate are permitted; other transfers rely on derogations such as consent, and the NCPDP offers a standard transfer agreement template. Investigative engagements should be planned under the new law."
+  },
+  "investigator_regulation": "Private detective and security activity in Moldova is understood to be subject to dedicated legislation and authorisation, but we have not been able to review the current statute from an official source. We therefore do not state the licensing authority or conditions here, and any engagement involving enquiries in Moldova is scoped with Moldovan counsel to confirm that local professionals hold any required authorisation. Surveillance, recording and access to personal data are additionally constrained by the data protection law and the Criminal Code, and restricted state records are obtained only through lawful channels.",
+  "corporate_records": "Companies are registered by the Public Services Agency, created in 2017, which maintains the State Register of Legal Entities and issues each registered business a unique identification number. Registration has been available electronically since 2022, and basic extract information on legal entities can be obtained from the register. Amendments adopted in 2022 introduced requirements to disclose ultimate beneficial owners, and the government has emphasised transparency of offshore ownership. Officials' assets and interests are declared to the National Integrity Authority. Court decisions are published, which supports litigation research, though historic records may be incomplete.",
+  "anti_corruption": "The Law on Preventing and Combating Corruption, the Law on the National Integrity Authority and the Law on Disclosure of Assets and Conflicts of Interest (2016) form the core framework, with Criminal Code offences covering public and private-sector bribery, trading in influence and misuse of international assistance. Enforcement bodies include the National Anticorruption Centre (with its Criminal Assets Recovery Agency), the Anticorruption Prosecution Office and the National Integrity Authority. Law No. 308/2017 on preventing money laundering is applied by the Office for Prevention and Fight against Money Laundering, Moldova's financial intelligence unit.",
+  "matters": [
+    {
+      "title": "Ownership and political exposure",
+      "text": "Mapping ownership and control of Moldovan counterparties, including disclosed beneficial owners and connections to officials, using the State Register, asset declarations published through the National Integrity Authority, court decisions and Romanian, Russian and English-language media."
+    },
+    {
+      "title": "IT and services nearshoring diligence",
+      "text": "Background research on software developers, outsourcing providers and their founders ahead of contracting or investment, covering corporate history, litigation, regulatory actions and reputational issues, with attention to related entities registered in neighbouring countries."
+    },
+    {
+      "title": "Donor and procurement integrity",
+      "text": "Integrity due diligence on contractors and implementing partners in donor-funded and public procurement projects, examining ownership, conflicts of interest, prior performance and links to persons named in corruption proceedings."
+    },
+    {
+      "title": "Agribusiness and wine sector counterparties",
+      "text": "Pre-transaction research on agricultural producers, processors, wineries and exporters, covering land and asset holdings where public, disputes with suppliers and lenders, and the track record of principals in the sector."
+    },
+    {
+      "title": "Cross-border asset and dispute support",
+      "text": "Supporting counsel in Moldovan proceedings, arbitration or enforcement with asset research, chronology and background on parties, coordinating work with professionals in Romania, Ukraine or the EU where assets or entities have moved across borders."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Romanian (official); Russian widely used; English in IT and services"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Chisinau, UTC+2 (UTC+3 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Chișinău, Bălți"
+    },
+    {
+      "label": "Company registry",
+      "value": "Public Services Agency (State Register of Legal Entities)"
+    },
+    {
+      "label": "Representation in court",
+      "value": "Foreign lawyers may only assist a Moldovan advocate"
+    },
+    {
+      "label": "Territorial note",
+      "value": "Transnistrian region outside effective control of constitutional authorities"
+    }
+  ],
+  "tdsc_approach": "TDSC handles Moldovan matters from Nashville. Jurisdictional review comes first: whether the matter involves the Transnistrian region, which records the Public Services Agency and the courts make available, and whether the planned work falls within the private detective legislation. Research draws on the State Register, published court decisions, National Integrity Authority declarations and multilingual open sources. Where enquiries in Moldova are required, we coordinate appropriately licensed local professionals and work with Moldovan counsel, who must lead any court representation. Personal data is handled under Law No. 195/2024 standards, including impact assessment where appropriate and lawful transfer mechanisms. We do not use pretexting or obtain non-public state records, and we report clearly where reform-era data gaps limit conclusions.",
+  "faqs": [
+    {
+      "q": "Which data protection law applies to an investigation in Moldova?",
+      "a": "Law No. 133/2011 has applied until now, and Law No. 195/2024, modelled on the GDPR, takes effect on 23 August 2026. Engagements running across that date should be planned to meet the new law's requirements on lawful basis, impact assessment, breach notification and international transfers, which we review with Moldovan counsel."
+    },
+    {
+      "q": "Can beneficial owners of Moldovan companies be identified?",
+      "a": "Disclosure requirements introduced in 2022 oblige companies to identify ultimate beneficial owners, and registry extracts provide founders, administrators and other basic data. The degree of public access to beneficial ownership details should be confirmed for each matter. We combine register data with court records, asset declarations and media to build a sourced ownership picture."
+    },
+    {
+      "q": "How has justice reform affected litigation in Moldova?",
+      "a": "Judicial vetting temporarily reduced the number of sitting judges, and the Supreme Court of Justice was restructured in 2023 as a cassation court hearing matters of principle. Timelines have lengthened in some cases. Counsel increasingly rely on well-documented evidence and, where contracts allow, arbitration at the Chamber of Commerce and Industry."
+    },
+    {
+      "q": "Do matters involving Transnistria raise particular issues?",
+      "a": "Yes. The region is outside the effective control of the constitutional authorities, and entities there may be registered with local structures not recognised by Chișinău. Records may be inconsistent and enforcement is difficult. We identify any Transnistrian connection at scoping and adjust sources, expectations and risk advice accordingly."
+    },
+    {
+      "q": "Which bodies investigate corruption in Moldova?",
+      "a": "The National Anticorruption Centre investigates corruption offences and houses the Criminal Assets Recovery Agency, the Anticorruption Prosecution Office prosecutes high-level cases, and the National Integrity Authority checks officials' asset and interest declarations. Their published decisions and declarations are useful lawful sources in reputational and conflict-of-interest research."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Moldova",
+      "url": "https://www.dlapiperdataprotection.com/?c=MD&t=law"
+    },
+    {
+      "title": "Chambers Global Practice Guides: Litigation 2026, Moldova",
+      "url": "https://practiceguides.chambers.com/practice-guides/litigation-2026/moldova"
+    },
+    {
+      "title": "US Department of State: 2024 Investment Climate Statements, Moldova",
+      "url": "https://www.state.gov/reports/2024-investment-climate-statements/moldova/"
+    },
+    {
+      "title": "Office for Prevention and Fight against Money Laundering (SPCSB)",
+      "url": "https://spcsb.md/en/"
+    },
+    {
+      "title": "World Bank: Population, total (Moldova)",
+      "url": "https://api.worldbank.org/v2/country/MDA/indicator/SP.POP.TOTL?format=json&date=2024"
+    }
+  ],
+  "review_flags": [
+    "Private detective law: legis.md pages failed to load; the statute name, licensing authority and conditions are unverified and text is deliberately general.",
+    "Public accessibility of Moldovan beneficial ownership data not confirmed; register name 'State Register of Legal Entities' and availability of extracts not confirmed from the Public Services Agency site (fetch failed).",
+    "Law No. 308/2017 attribution as the AML law is based on SPCSB site reference only.",
+    "Population figure (World Bank) likely excludes the Transnistrian region; confirm basis.",
+    "Anticorruption bodies' leadership and possible new anti-corruption court were in flux as of the 2024 State Department report; Law 195/2024 effective date 23 August 2026 per DLA Piper."
+  ],
+  "researched": "2026-11-04"
+}

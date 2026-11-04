@@ -1,0 +1,155 @@
+{
+  "cc": "LT",
+  "name": "Lithuania",
+  "meta_description": "Investigative consulting for matters touching Lithuania: company register research, fintech and logistics due diligence, asset tracing, GDPR-aware work.",
+  "eyebrow": "Republic of Lithuania",
+  "hero_lede": "Investigative consulting for matters touching Lithuania means working with some of the most digitised state registers in the EU, a GDPR regulator that pays close attention to employee data, and an economy tied to fintech, logistics and manufacturing. TDSC scopes each matter from Nashville and coordinates qualified local professionals where needed.",
+  "intro": [
+    "Lithuania is an EU and eurozone member with a continental European civil law system rebuilt after 1990, a Civil Code that came into effect in 2001, and separate general and administrative court hierarchies. The State Enterprise Centre of Registers, owned by the Ministry of Justice, administers the Register of Legal Entities and the Real Property Register and Cadastre, and runs the beneficial ownership sub-system launched in 2022. The GDPR applies directly, supplemented by national rules that are unusually specific about employee and candidate data. For investigators, this means good access to structured records, combined with a need to document a lawful purpose for each request and handle personal data carefully.",
+    "Organisations commission investigative work involving Lithuania for reasons tied to its position in the Baltic region. Vilnius has become a base for electronic money and payment institutions licensed by the Bank of Lithuania, which brings ownership, fraud and money-laundering questions. Klaipėda port and road haulage make Lithuania a logistics corridor between the EU and markets to the east, raising sanctions, export-control and transhipment exposure. Manufacturing, furniture, laser technology and IT services attract foreign investors and outsourcing clients. Typical matters include counterparty verification, asset tracing for creditors, background on directors of payment firms, and investigations into internal fraud at shared service centres."
+  ],
+  "population": {
+    "value": "2.89 million",
+    "year": "2025",
+    "source_url": "https://fred.stlouisfed.org/series/POPTOTLTA647NWDB"
+  },
+  "legal_system": "Lithuania has a civil law system based on continental European traditions. The Civil Code came into effect in 2001, and the codes of civil and criminal procedure were re-enacted in 2003. Courts of general jurisdiction, comprising district courts, regional courts, the Court of Appeal and the Supreme Court, hear civil, commercial and criminal cases, while a separate administrative court system is headed by the Supreme Administrative Court. Published decisions of the Supreme Court guide lower courts. The Vilnius Court of Commercial Arbitration is the principal domestic arbitral institution.",
+  "data_protection": {
+    "law": "General Data Protection Regulation (EU) 2016/679 and the Law on Legal Protection of Personal Data (as in force from 16 July 2018)",
+    "regulator": "State Data Protection Inspectorate (Valstybinė duomenų apsaugos inspekcija); the Inspector of Journalist Ethics supervises journalistic processing",
+    "summary": "The GDPR applies directly, supplemented by the 2018 national law. Lithuanian rules on employee data are notably specific: employers may process criminal-conviction data on candidates and employees only where a law requires it or where a written legitimate-interest assessment and published list of positions support it. Qualification information may be obtained from a former employer only if the candidate is informed, and from a current employer only with consent. Employees must be informed in a verifiable way about workplace video, audio or monitoring. Transfers outside the EEA follow GDPR Chapter V, and the Inspectorate must authorise certain Article 46(3) safeguards."
+  },
+  "investigator_regulation": "Lithuania has historically regulated private detective activity through dedicated legislation, but we have not verified the current statute, licensing authority or permitted activities from an official source for this page. Engagements are therefore scoped with Lithuanian counsel before any local work. Restrictions apply regardless: the GDPR and the 2018 national law limit collection of personal data, workplace monitoring must be disclosed to employees, criminal intelligence powers are reserved to state bodies under the Law on Criminal Intelligence, and covert interception or recording of private communications is a criminal matter. TDSC relies on registers, court decisions and open sources, and coordinates only appropriately qualified local professionals.",
+  "corporate_records": "The State Enterprise Centre of Registers administers the Register of Legal Entities, the Real Property Register and Cadastre, and the Address Register. Register extracts show company details, management and, for some forms, shareholders, and are available for a fee, with requests stating a lawful purpose. Since 2022 beneficial owners above a 25 percent threshold are recorded in the JANGIS sub-system of the Information System of Legal Entities Participants. Following the November 2022 CJEU judgment, EU states need only grant access to those with a legitimate interest, and current public access in Lithuania should be confirmed. Real property ownership data is available from the Real Property Register.",
+  "anti_corruption": "Bribery is criminalised under the Criminal Code, with Article 225 covering passive bribery and Article 227 active bribery, and legal persons face fines of EUR 10,000 to 5,000,000. The Law on the Prevention of Corruption and the Law on the Adjustment of Public and Private Interests set preventive and disclosure duties; interest declarations became public in 2020. The Special Investigation Service (STT) investigates corruption. The Financial Crime Investigation Service (FNTT) under the Ministry of the Interior investigates financial crime and money laundering and acts as the financial intelligence unit.",
+  "matters": [
+    {
+      "title": "Payment and e-money firm due diligence",
+      "text": "Reviewing owners, directors and compliance histories of Lithuanian electronic money and payment institutions before partnerships, investments or banking relationships, including Bank of Lithuania enforcement notices, related-party links across jurisdictions and adverse media in Lithuanian, Russian and English."
+    },
+    {
+      "title": "Logistics and sanctions exposure",
+      "text": "Mapping ownership and trading patterns of Lithuanian freight forwarders, haulage companies and traders connected to Klaipėda and eastern land borders, to help compliance teams assess transhipment, export-control and sanctions-evasion risk in supply chains and customer bases."
+    },
+    {
+      "title": "Asset tracing for creditors",
+      "text": "Identifying real property, company interests and other assets of Lithuanian debtors through the Real Property Register, Register of Legal Entities and court decisions, and following assets moved to Latvia, Poland or further afield, to support enforcement and insolvency counsel."
+    },
+    {
+      "title": "Shared service centre fraud reviews",
+      "text": "Supporting internal investigations at Vilnius and Kaunas shared service and IT centres into procurement fraud, conflicts of interest and data leakage, with careful attention to Lithuanian rules on employee monitoring, notice and candidate data, and coordination with local employment counsel."
+    },
+    {
+      "title": "Investor and acquisition background",
+      "text": "Background research on Lithuanian founders, management teams and shareholders ahead of venture or private equity investments and acquisitions, including litigation, insolvency, public interest declarations of officials involved and reputation in manufacturing, laser technology and software sectors."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Lithuanian (official); English widely used, Russian and Polish in some sectors"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Vilnius, UTC+2 (UTC+3 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (EUR)"
+    },
+    {
+      "label": "Courts language",
+      "value": "Lithuanian; foreign documents need certified translation"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Vilnius, Kaunas, Klaipėda"
+    },
+    {
+      "label": "Records",
+      "value": "Centre of Registers extracts available electronically for a fee with a stated purpose"
+    },
+    {
+      "label": "Business culture",
+      "value": "Direct, punctual and document-oriented; e-signatures widely used"
+    }
+  ],
+  "tdsc_approach": "TDSC begins Lithuanian matters with a GDPR assessment: the purpose, lawful basis and categories of data involved, with particular care where employees or candidates are concerned. Research then draws on Centre of Registers extracts, published court decisions, Bank of Lithuania notices, public interest declarations and Lithuanian, Russian and English media. Because the current detective licensing position has not been verified, any field inquiries, such as discreet local enquiries or site observation, are agreed with Lithuanian counsel and carried out only by qualified local professionals. Data transferred to the United States is covered by an appropriate Chapter V mechanism. Matters touching eastern trade routes are screened for sanctions exposure before acceptance.",
+  "faqs": [
+    {
+      "q": "How much company information is available in Lithuania?",
+      "a": "A good deal. The Register of Legal Entities provides registration details, management and, for some forms, shareholder data, and the JANGIS sub-system records beneficial owners above 25 percent. Requests require a stated lawful purpose and a fee. Access to beneficial ownership data may now depend on demonstrating a legitimate interest following the 2022 CJEU judgment."
+    },
+    {
+      "q": "Can we check a Lithuanian job candidate's criminal record?",
+      "a": "Only in limited cases. Lithuanian law permits processing of conviction data on candidates where a law requires it, or where the employer has a written legitimate-interest assessment and has published the positions concerned. TDSC advises clients to confirm the basis with Lithuanian employment counsel before any check is commissioned."
+    },
+    {
+      "q": "Which authority investigates corruption in Lithuania?",
+      "a": "The Special Investigation Service (STT) investigates corruption and runs prevention programmes. The Financial Crime Investigation Service (FNTT), under the Ministry of the Interior, handles financial crime and money laundering. TDSC does not report to authorities for clients, but its findings can support counsel's decisions on referral."
+    },
+    {
+      "q": "Can TDSC investigate a Lithuanian payment institution?",
+      "a": "Yes, using lawful sources. TDSC reviews registration data, beneficial ownership where accessible, Bank of Lithuania licensing and enforcement publications, court decisions, and media across languages, and traces links between owners and other regulated or offshore entities. Findings are sourced and graded so compliance teams can rely on them."
+    },
+    {
+      "q": "Are private detectives licensed in Lithuania?",
+      "a": "Lithuania has historically regulated private detective activity through dedicated legislation, but TDSC has not verified the current statute and licensing authority for this page. Before any local inquiries, TDSC confirms the position with Lithuanian counsel and uses only appropriately qualified local professionals."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Lithuania",
+      "url": "https://www.dlapiperdataprotection.com/?c=LT&t=law"
+    },
+    {
+      "title": "State Data Protection Inspectorate",
+      "url": "https://vdai.lrv.lt/en/"
+    },
+    {
+      "title": "State Enterprise Centre of Registers",
+      "url": "https://www.registrucentras.lt/en/"
+    },
+    {
+      "title": "Centre of Registers: data provision conditions",
+      "url": "https://www.registrucentras.lt/p/1116"
+    },
+    {
+      "title": "Open Ownership: Lithuania",
+      "url": "https://openownership.org/en/map/country/lithuania"
+    },
+    {
+      "title": "Lex Mundi Global Anti-Corruption Compliance Guide: Lithuania",
+      "url": "https://www.lexmundi.com/guides/anti-corruption-compliance-guide/jurisdictions/europe/lithuania/"
+    },
+    {
+      "title": "Special Investigation Service (STT)",
+      "url": "https://www.stt.lt/en"
+    },
+    {
+      "title": "Wikipedia: Financial Crime Investigation Service",
+      "url": "https://en.wikipedia.org/wiki/Financial_Crime_Investigation_Service"
+    },
+    {
+      "title": "GlobaLex: Lithuanian legal system",
+      "url": "https://www.nyulawglobal.org/globalex/Lithuania.html"
+    },
+    {
+      "title": "FRED / World Bank: Population, Total for Lithuania",
+      "url": "https://fred.stlouisfed.org/series/POPTOTLTA647NWDB"
+    }
+  ],
+  "review_flags": [
+    "Web search budget exhausted; Lithuania relied on direct fetches.",
+    "Private detective licensing statute and authority not verified; flagged in text.",
+    "Regional courts tier and Supreme Court guidance are general knowledge; GlobaLex (2005) listed district/local courts only.",
+    "FNTT as FIU inferred from Wikipedia list; confirm.",
+    "Current public access to JANGIS beneficial ownership data after the 2022 CJEU ruling not confirmed.",
+    "Lithuanian payment-institution and logistics sector framing is general knowledge, not sourced."
+  ],
+  "researched": "2026-11-04"
+}

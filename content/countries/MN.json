@@ -1,0 +1,138 @@
+{
+  "cc": "MN",
+  "name": "Mongolia",
+  "meta_description": "Investigative consulting for Mongolia matters: mining sector diligence, State Registration and ownership records, data localisation and IAAC context.",
+  "eyebrow": "Mongolia",
+  "hero_lede": "Investigative consulting for matters touching Mongolia centres on the mining and resources economy, the ownership and political connections of counterparties, and personal data rules that require local server hosting. TDSC scopes this work from Nashville and coordinates qualified Mongolian professionals and counsel where local work is needed.",
+  "intro": [
+    "Mongolia has a three-tier court system with separate civil, criminal and administrative branches, a Constitutional Court established in 1992, and long-standing commercial arbitration through the Mongolian International and National Arbitration Center. Business entities are registered with the General Authority for State Registration, which has operated a beneficial ownership register covering the whole economy since 2022, and a separate extractive-sector beneficial ownership register was launched through the Mongolia EITI process in 2024. The Law on Personal Data Protection, in force since May 2022, requires consent for most processing, generally prohibits transfers abroad without legal approval or the data subject's permission, and requires controllers' processing servers to be located in Mongolia. These rules shape how investigative work is structured.",
+    "Organisations commission work involving Mongolia because of its mineral wealth, including copper and gold at Oyu Tolgoi and coal from the Tavan Tolgoi region, and because of the concentration of its trade with China, which received about 86 percent of its exports in 2023. Typical needs include due diligence on licence holders, contractors and offtake counterparties, research into the ownership and political connections of mining and infrastructure companies, and integrity reviews of local partners. Lenders, investors and development finance institutions need background on principals. Disputes over licences, joint ventures and supply contracts generate demand for asset research and litigation support, often spanning Mongolia, China, Singapore and Hong Kong."
+  ],
+  "population": {
+    "value": "3.52 million",
+    "year": "2024",
+    "source_url": "https://api.worldbank.org/v2/country/MNG/indicator/SP.POP.TOTL?format=json&date=2024"
+  },
+  "legal_system": "Mongolia has a codified legal system in the civil law tradition, with courts organised in three tiers: first-instance courts, appellate courts and the Supreme Court, each divided into civil, criminal and administrative branches. Commercial claims are heard by civil courts of first instance, with appeals to the capital city or aimag appellate courts and then the Supreme Court. A separate Constitutional Court decides constitutional questions. The Mongolian International and National Arbitration Center, attached to the Mongolian National Chamber of Commerce and Industry since 1960, is the principal arbitral institution for commercial disputes.",
+  "data_protection": {
+    "law": "Law on Personal Data Protection (adopted 17 December 2021, in force 1 May 2022)",
+    "regulator": "No single independent authority; oversight shared by the National Human Rights Commission, the Ministry of Digital Development, Innovation and Communications and other bodies",
+    "summary": "Mongolia's Law on Personal Data Protection generally requires written or electronic consent explaining the purpose, controller, data, retention and any onward transfer, with exceptions including contractual necessity, legal obligations and the employment relationship. Sensitive data is generally prohibited from processing unless an exception applies. Transfers of personal data abroad are generally prohibited unless approved by another law or permitted by the data subject, and security rules require controllers' processing servers to be located in Mongolia. For investigative work this favours limiting collection of personal data, obtaining consent where practicable, and planning carefully how any personal data reaches clients abroad."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing statute for private investigators in Mongolia from the sources available to us, and we do not assume that none exists. Engagements are therefore scoped with Mongolian counsel to confirm whether any authorisation applies to the planned activity and that local professionals are appropriately qualified. The Law on Personal Data Protection, criminal provisions on privacy and interception, and rules on state secrets constrain surveillance, recording and access to records. Information held by state bodies is obtained only through lawful public access, the parties themselves, or court process.",
+  "corporate_records": "The General Authority for State Registration registers legal entities and, since 2022, maintains a beneficial ownership register for the whole economy using a 33 percent threshold; Open Ownership links Mongolian ownership data to public portals including opendata.gov.mn and beneficialowner.mn. Through the Mongolia EITI process, an extractive-sector beneficial ownership register with a 5 percent threshold was launched in 2024, which is particularly relevant for mining licence holders. Officials' declarations of interests and assets are filed with the Independent Authority Against Corruption, which operates an electronic declaration system. The scope of public access should be confirmed for each source.",
+  "anti_corruption": "The Law Against Corruption, passed in July 2006 and in force from November 2006, established the Independent Authority Against Corruption (IAAC), which investigates bribery and abuse of power by officials, including officials of business entities, inspects asset and interest declarations, and pursues asset recovery. Bribery offences are set out in the Criminal Code. Anti-money laundering obligations are administered with the Financial Information Unit hosted by the Bank of Mongolia; we have not verified the current AML statute citation from a primary source.",
+  "matters": [
+    {
+      "title": "Mining licence holder diligence",
+      "text": "Research into the ownership, history and political connections of exploration and mining licence holders, using the State Registration and EITI beneficial ownership registers, litigation records, IAAC-related reporting and Mongolian, Chinese and English-language media before acquisitions, farm-ins or financing."
+    },
+    {
+      "title": "Contractor and offtake counterparties",
+      "text": "Due diligence on contractors, logistics providers and coal or copper concentrate buyers, including cross-border research into Chinese and Hong Kong counterparties, to identify related parties, undisclosed intermediaries and integrity concerns in supply and offtake chains."
+    },
+    {
+      "title": "Politically exposed principals",
+      "text": "Identifying links between business owners and current or former officials, legislators and state-owned enterprises, drawing on public declarations of interests, beneficial ownership disclosures and published investigations, and assessing exposure under US and other anti-bribery laws."
+    },
+    {
+      "title": "Joint venture and licence disputes",
+      "text": "Supporting counsel in disputes over licences, joint ventures and supply agreements with chronology building, background research on parties and identification of assets in Mongolia and abroad, for court proceedings or arbitration in Ulaanbaatar or elsewhere."
+    },
+    {
+      "title": "Development finance integrity reviews",
+      "text": "Integrity due diligence on sponsors and borrowers in infrastructure, energy and agribusiness projects financed by development institutions and commercial lenders, covering ownership, related-party dealings, prior performance and reputational issues."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Mongolian (Cyrillic script); English and Chinese in some sectors"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Ulaanbaatar UTC+8 (western provinces Asia/Hovd UTC+7)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Main business centre",
+      "value": "Ulaanbaatar"
+    },
+    {
+      "label": "Company registry",
+      "value": "General Authority for State Registration"
+    },
+    {
+      "label": "Data localisation",
+      "value": "Controllers' processing servers must be located in Mongolia"
+    },
+    {
+      "label": "Seasonal note",
+      "value": "Tsagaan Sar (Lunar New Year) and Naadam in July affect availability"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Mongolian matters from Nashville. We start by mapping which information is available from the General Authority for State Registration, the EITI beneficial ownership register, IAAC declarations and published court decisions, and which must be obtained from the parties or through counsel. Because of the data localisation and transfer rules in the Law on Personal Data Protection, we design engagements to minimise personal data, and agree with Mongolian counsel how any necessary personal data is lawfully processed and shared. Mongolian-language research is conducted by qualified professionals, and any enquiries in country are carried out by appropriately qualified local professionals we coordinate. We do not use pretexting or seek records held by state bodies outside lawful channels.",
+  "faqs": [
+    {
+      "q": "Is beneficial ownership information available for Mongolian companies?",
+      "a": "Mongolia has operated a beneficial ownership register through the General Authority for State Registration since 2022, and an extractive-sector register through the EITI process since 2024 with a lower 5 percent threshold. Coverage and accuracy vary, so we cross-check disclosures against corporate filings, licence records and media before reaching conclusions."
+    },
+    {
+      "q": "How does Mongolia's data law affect sending findings abroad?",
+      "a": "The Law on Personal Data Protection generally prohibits transferring personal data abroad unless another law approves it or the data subject permits it, and requires processing servers to be located in Mongolia. Reports therefore focus on corporate and public-record information, with personal data minimised and handled under arrangements agreed with Mongolian counsel."
+    },
+    {
+      "q": "Which body investigates corruption in Mongolia?",
+      "a": "The Independent Authority Against Corruption, created under the 2006 Law Against Corruption, investigates bribery and abuse of power, inspects officials' asset and interest declarations, and pursues asset recovery. Its published actions and the declaration system are useful lawful sources in research on politically exposed persons."
+    },
+    {
+      "q": "Where are Mongolian commercial disputes resolved?",
+      "a": "Commercial claims go to the civil courts of first instance, with appeals to appellate courts and the Supreme Court. Many contracts provide for arbitration at the Mongolian International and National Arbitration Center or abroad. We support counsel in either forum with party background, chronology and asset research."
+    },
+    {
+      "q": "Why do many Mongolian matters involve China?",
+      "a": "China takes the large majority of Mongolia's exports, mainly coal, copper concentrate and other minerals, so counterparties, intermediaries and assets often sit in China or Hong Kong. We plan research across both jurisdictions from the outset and apply the data and legal constraints of each."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Mongolia",
+      "url": "https://www.dlapiperdataprotection.com/?c=MN&t=law"
+    },
+    {
+      "title": "Open Ownership: Mongolia",
+      "url": "https://www.openownership.org/en/map/country/mongolia/"
+    },
+    {
+      "title": "Independent Authority Against Corruption of Mongolia",
+      "url": "https://www.iaac.mn/en"
+    },
+    {
+      "title": "Wikipedia: Independent Authority Against Corruption",
+      "url": "https://en.wikipedia.org/wiki/Independent_Authority_Against_Corruption"
+    },
+    {
+      "title": "Wikipedia: Judiciary of Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Judiciary_of_Mongolia"
+    },
+    {
+      "title": "Wikipedia: Economy of Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Mongolia"
+    },
+    {
+      "title": "World Bank: Population, total (Mongolia)",
+      "url": "https://api.worldbank.org/v2/country/MNG/indicator/SP.POP.TOTL?format=json&date=2024"
+    }
+  ],
+  "review_flags": [
+    "Private investigator licensing not researched successfully; text says none identified.",
+    "AML statute and FIU name not verified (FIU site blocked); text names the Bank of Mongolia-hosted FIU without citing the law.",
+    "Public access terms for State Registration and EITI beneficial ownership registers not confirmed.",
+    "Characterisation of Mongolia as civil law tradition is general knowledge, not from a fetched source; several sources are Wikipedia.",
+    "Time zone: Asia/Hovd UTC+7 for western provinces from general knowledge; verify."
+  ],
+  "researched": "2026-11-04"
+}

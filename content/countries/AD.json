@@ -1,0 +1,137 @@
+{
+  "cc": "AD",
+  "name": "Andorra",
+  "meta_description": "Investigative consulting for matters touching Andorra: company and asset research, banking-linked due diligence and Law 29/2021 compliance from Nashville.",
+  "eyebrow": "Principality of Andorra",
+  "hero_lede": "Matters touching Andorra usually concern its banking sector, tourism and retail economy, residency-driven wealth and links to Spain and France. TDSC scopes asset tracing, counterparty due diligence and litigation support around Andorra's registries, courts and data protection law, coordinating licensed local professionals and counsel.",
+  "intro": [
+    "Andorra is a small co-principality in the Pyrenees between Spain and France, with a population of around 83,000, the euro as its currency and a customs union with the European Union for manufactured goods. It has its own constitution, parliament and courts, and its own regulators, including the Andorran Data Protection Agency (APDA) and the financial intelligence unit UIFAND. The economy depends heavily on tourism, ski and summer resorts and duty-free retail, with a banking sector long described as an offshore centre. For investigators, the principality's small size, Catalan-language records and close cross-border ties mean that most matters require work in Andorra, Spain and France together.",
+    "Organisations commission investigative work involving Andorra for a few recurring reasons. Banks, asset managers and fiduciaries in Spain, France and elsewhere review clients and counterparties with Andorran accounts, companies or residency. Litigants and insolvency practitioners trace assets moved through Andorran structures, often in proceedings that began in Spanish or French courts. Investors in hotels, ski areas, real estate and retail examine local partners and ownership chains. Family offices and employers verify the background of high-net-worth individuals and executives who have relocated to the principality, and compliance teams assess reputational exposure arising from historical banking cases."
+  ],
+  "population": {
+    "value": "82,900",
+    "year": "2025",
+    "source_url": "https://fred.stlouisfed.org/series/POPTOTADA647NWDB"
+  },
+  "legal_system": "Andorra is a parliamentary co-principality whose courts are independent of the government. Civil, criminal and administrative cases begin in the Batllia, the first-instance court. The Tribunal de Corts tries serious crimes and hears criminal appeals, and the Tribunal Superior de Justícia hears appeals in civil, administrative and criminal matters. A four-member Constitutional Court rules on constitutionality, and the Superior Council of Justice administers the judiciary. We have not identified a specialised commercial court or a domestic arbitration centre; commercial disputes proceed through the ordinary courts.",
+  "data_protection": {
+    "law": "Law 29/2021 of 28 October, qualified law on the protection of personal data",
+    "regulator": "Andorran Data Protection Agency (Agència Andorrana de Protecció de Dades, APDA)",
+    "summary": "Law 29/2021 is Andorra's comprehensive data protection statute, supervised by the APDA, which publishes guidance on matters including international transfers and video surveillance. Investigative work involving personal data on people in Andorra needs a defined lawful basis, proportionate collection and secure handling, and transfers outside the principality must meet the law's transfer safeguards; the specific transfer mechanisms should be confirmed for each engagement. Covert video recording and employee monitoring are areas where the APDA issues requirements. TDSC reviews these points with Andorran counsel before collecting or exporting personal data."
+  },
+  "investigator_regulation": "We have not verified, in this research cycle, whether Andorra operates a dedicated licensing regime for private investigators or which authority would administer it. Clients should assume that any in-country enquiry, surveillance or interview must be carried out by an appropriately authorised local professional, and that data protection rules on video surveillance and personal data constrain what can be collected. Access to court files is generally limited to parties and their lawyers. TDSC confirms the regulatory position with Andorran counsel at the start of each engagement and does not conduct fieldwork in Andorra directly.",
+  "corporate_records": "The Government of Andorra administers company-related registers and procedures, with many filings handled through its electronic procedures portal, and companies must prepare annual accounts showing a true and fair view of their financial position. We have not verified in this research cycle the extent of public online access to the companies register, deposited accounts or any beneficial ownership register, and requests are commonly made through local representatives. Property and court records are not openly searchable online, so asset research typically combines Andorran enquiries through counsel with Spanish and French registries.",
+  "anti_corruption": "Andorra's anti-money laundering and counter-terrorist financing framework is coordinated by the Unitat d'Intel·ligència Financera d'Andorra (UIFAND), an independent body that receives suspicious transaction reports and promotes AML measures. Bribery and related offences are set out in the Criminal Code. We have not verified the current AML statute number and year in this research cycle; Andorra is evaluated by the Council of Europe's MONEYVAL committee.",
+  "matters": [
+    {
+      "title": "Cross-border asset tracing",
+      "text": "Creditors, insolvency administrators and claimants in Spain and France frequently find that assets have been held through Andorran banks, companies or property. TDSC maps the Andorran element alongside Spanish and French records and works with Andorran counsel on the lawful routes for obtaining information and court assistance."
+    },
+    {
+      "title": "Private client and residency due diligence",
+      "text": "Individuals relocating to Andorra for tax residency, and the family offices and employers dealing with them, need reliable background and source-of-wealth information. TDSC compiles corporate interests, litigation and media history across Andorra, Spain, France and other jurisdictions where the person has lived or done business."
+    },
+    {
+      "title": "Banking and fiduciary counterparty review",
+      "text": "Andorra's banking sector has been subject to significant reform and international scrutiny. Financial institutions and fiduciaries elsewhere ask TDSC to assess Andorran counterparties, their ownership and their exposure to past enforcement or reputational events, supporting enhanced due diligence files."
+    },
+    {
+      "title": "Tourism and real estate investment",
+      "text": "Hotels, ski facilities, retail premises and residential developments change hands among a small network of owners. TDSC identifies the individuals and holding companies behind local counterparties, related-party links and disputes, so investors understand who they are partnering with before committing capital."
+    },
+    {
+      "title": "Retail and duty-free supply chains",
+      "text": "Andorra's duty-free retail sector, especially tobacco, alcohol and luxury goods, creates diversion and smuggling risks into Spain and France. Brand owners commission TDSC to examine distributors' ownership and trading patterns to protect authorised channels and support enforcement by counsel."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official language",
+      "value": "Catalan; Spanish and French widely used in business"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Andorra, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (EUR)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Andorra la Vella, Escaldes-Engordany, Sant Julià de Lòria"
+    },
+    {
+      "label": "Courts language",
+      "value": "Catalan; foreign documents generally need translation"
+    },
+    {
+      "label": "Business culture",
+      "value": "Small, closely connected community; discretion and introductions matter"
+    }
+  ],
+  "tdsc_approach": "Because Andorra is small and closely connected, TDSC treats discretion as a design constraint: enquiries are scoped so that they do not alert subjects through overlapping local contacts. Each engagement starts with a review under Law 29/2021 and with Andorran counsel on access to registers, court material and any fieldwork. Research draws on Andorran government sources obtained through local representatives, Catalan-, Spanish- and French-language media, and registries in Spain and France where Andorran structures usually connect. Where in-country enquiries are needed, TDSC coordinates qualified and appropriately authorised local professionals. Personal data is minimised and transferred only under documented safeguards.",
+  "faqs": [
+    {
+      "q": "Can company ownership in Andorra be checked online?",
+      "a": "Online public access to Andorran company information is more limited than in many EU registries, and extracts are usually requested through local representatives. TDSC obtains the available records through Andorran professionals and supplements them with Spanish and French filings, where many owners and related companies also appear."
+    },
+    {
+      "q": "Which data protection law applies to investigations in Andorra?",
+      "a": "Law 29/2021 of 28 October, a qualified law on personal data protection, supervised by the Andorran Data Protection Agency (APDA). Investigative processing needs a lawful basis and proportionate scope, and transfers outside Andorra must meet the law's safeguards. TDSC confirms the transfer mechanism with Andorran counsel before exporting personal data."
+    },
+    {
+      "q": "Can Andorran assets be traced from a Spanish or French case?",
+      "a": "Often, but not informally. Banking information is protected, and access generally depends on court processes, mutual legal assistance or recognition proceedings handled by counsel. TDSC supports those processes by identifying likely Andorran companies, property and associates from lawful sources, so that counsel can target applications precisely."
+    },
+    {
+      "q": "Who supervises anti-money laundering compliance in Andorra?",
+      "a": "The Unitat d'Intel·ligència Financera d'Andorra (UIFAND) is the independent financial intelligence unit responsible for coordinating AML and counter-terrorist financing measures, and Andorra is evaluated by MONEYVAL. TDSC uses public enforcement information and media reporting to assess counterparties, while specific regulatory obligations remain a matter for the client's counsel."
+    },
+    {
+      "q": "Does TDSC have staff in Andorra?",
+      "a": "No. TDSC operates from Nashville and has no office or personnel in Andorra. Where an engagement requires local steps such as record retrieval or interviews, TDSC coordinates qualified and appropriately authorised Andorran professionals and works alongside the client's Andorran counsel."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Agencia Andorrana de Proteccio de Dades (APDA)",
+      "url": "https://www.apda.ad/"
+    },
+    {
+      "title": "Unitat d'Intel·ligencia Financera d'Andorra (UIFAND)",
+      "url": "https://www.uifand.ad/"
+    },
+    {
+      "title": "Government of Andorra",
+      "url": "https://www.govern.ad/"
+    },
+    {
+      "title": "Government of Andorra - Diposit de comptes",
+      "url": "https://www.govern.ad/ca/ministeris-i-secretaries-d-estat/ministeri-de-presidencia-economia-treball-i-habitatge/diposit-de-comptes"
+    },
+    {
+      "title": "Wikipedia - Judiciary of Andorra",
+      "url": "https://en.wikipedia.org/wiki/Judiciary_of_Andorra"
+    },
+    {
+      "title": "Wikipedia - Economy of Andorra",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Andorra"
+    },
+    {
+      "title": "FRED / World Bank - Population, Total for Andorra",
+      "url": "https://fred.stlouisfed.org/series/POPTOTADA647NWDB"
+    }
+  ],
+  "review_flags": [
+    "Research cut short by exhausted search and fetch limits. Companies register name, public access, beneficial ownership register, AML law number/year, anti-corruption provisions and PI licensing were NOT verified; text says so. Complete before publishing.",
+    "Statement that Criminal Code contains bribery offences and that Andorra is evaluated by MONEYVAL not confirmed from an opened source (MONEYVAL page failed to load).",
+    "Banking-sector reform/scrutiny references are general; no specific case named or sourced.",
+    "Spanish/French cross-border emphasis is editorial; review for accuracy."
+  ],
+  "researched": "2026-11-04"
+}

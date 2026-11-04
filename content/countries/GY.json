@@ -1,0 +1,62 @@
+{
+  "cc": "GY",
+  "name": "Guyana",
+  "meta_description": "Investigative consulting for matters touching Guyana: oil and gas local content partner vetting, Commercial Registry research and litigation support.",
+  "eyebrow": "Co-operative Republic of Guyana",
+  "hero_lede": "Guyana's oil-driven growth has brought new companies, new partners and new risks at speed. TDSC scopes due diligence on local content partners, contractors and counterparties from Nashville, coordinating qualified Guyanese professionals and counsel where registry searches or inquiries on the ground are required.",
+  "intro": [
+    "Guyana is an English-speaking South American state with a legal system that combines common-law and civil-law elements, and the Caribbean Court of Justice as its final court of appeal. Since commercial oil production began offshore in 2019, the economy has grown faster than almost any other, with real GDP growth of 43.8 percent in 2024. Institutions have had to expand quickly: companies are registered in person at the Commercial Registry, there is no digital land registry, and the US government has described the courts as slow at enforcing contracts. Investigative work therefore relies on in-person registry searches, careful reading of a fast-changing corporate landscape and local knowledge of who stands behind newly formed businesses.",
+    "Organisations commission work touching Guyana because of the oil and gas sector and the wave of infrastructure, construction, logistics and services contracts it has generated, as well as gold, bauxite, agriculture and forestry. The Local Content Act 2021 requires minimum Guyanese ownership, staffing and sourcing in petroleum-related services, which leads foreign companies to partner with local firms whose ownership and capacity must be verified. Typical exposures include nominee or front arrangements designed to meet local content criteria, procurement corruption risk, gold smuggling and illicit finance, unclear land titles and counterparties with limited operating history. The unresolved Essequibo territorial dispute with Venezuela adds a further geopolitical dimension."
+  ],
+  "population": {"value": "878,674 (census)", "year": "2022", "source_url": "https://statisticsguyana.gov.gy/"},
+  "legal_system": "Guyana's legal system combines common-law and civil-law elements, with English common law shaping procedure and most commercial law and Roman-Dutch influences surviving in some areas of property law. The High Court of the Supreme Court of Judicature hears commercial disputes and has a commercial court, which as of 2024 had a single judge and a backlog. Appeals go to the Court of Appeal and finally to the Caribbean Court of Justice in Trinidad and Tobago. Arbitration is governed by the Arbitration Act of 1931, and mediation is widely used for business disputes.",
+  "data_protection": {
+    "law": "Current status of comprehensive data protection legislation not verified for this page",
+    "regulator": "Not verified",
+    "summary": "We could not confirm from official sources reviewed for this page the current status, commencement and regulator of a comprehensive data protection statute in Guyana. The US State Department reported in 2024 that Guyana imposes no data localisation requirements and no restrictions on transferring customer or business data. Investigative work involving personal data is therefore scoped with Guyanese counsel at the outset, applying data minimisation, purpose limitation and the data protection law of the client's own jurisdiction, and observing confidentiality, banking secrecy and defamation rules that apply under general law."
+  },
+  "investigator_regulation": "We have not identified, from sources verified for this page, a dedicated licensing regime for private investigators in Guyana. Private security services may be subject to licensing, and whether a given investigative service falls within that regime should be confirmed with Guyanese counsel before field work begins. Private investigators have no special powers: police, immigration, tax and banking records are not available to private parties. In a small business community where relationships are close and politically connected, discretion in field inquiries is essential, and TDSC works only with local professionals whose standing has been checked.",
+  "corporate_records": "Companies are governed by the Companies Act 1991, as amended, and registered with the Commercial Registry, part of the Deeds and Commercial Registries Authority. Registration and searches are conducted in person, as there is no online platform for company records. The Commercial Registry collects beneficial ownership declarations for local and external companies through its AML Department, under the AML/CFT framework; public access terms were not confirmed for this page. Land titles can be unclear and there is no digital land registry, so title research is conducted through local counsel at the Deeds Registry and Lands and Surveys Commission.",
+  "anti_corruption": "Guyana's anti-corruption framework includes the Integrity Commission Act, under which public officials declare assets to the Integrity Commission, which can collect declarations and refer concerns but not investigate; the State Assets Recovery Act; and the Audit Act. Bribery is a criminal offence. Money laundering is addressed by the Anti-Money Laundering and Countering the Financing of Terrorism Act 2009. Guyana has ratified the UN Convention against Corruption. Concerns about corruption in contract awards were noted by the US government in 2024.",
+  "matters": [
+    {"title": "Local content partner verification", "text": "Testing whether a Guyanese partner genuinely meets Local Content Act ownership, management and staffing criteria, identifying nominee or front arrangements, and verifying the partner's real capacity before a foreign company relies on it for oil and gas services contracts."},
+    {"title": "Contractor and supplier due diligence", "text": "Background research on construction, logistics, marine and catering contractors that have expanded rapidly with the petroleum sector, covering ownership, prior contract performance, litigation and political connections relevant to anti-corruption compliance."},
+    {"title": "Gold and mining counterparties", "text": "Verification of gold dealers, exporters and small-scale mining partners, where foreign ownership of small-scale mining is restricted and smuggling risk is significant, focusing on licensing status, ownership and the plausibility of declared supply."},
+    {"title": "Real estate and land title context", "text": "Research supporting acquisitions of land and buildings in Georgetown and along the coast, where titles can be unclear and records are not digitised, coordinated with Guyanese counsel conducting formal title searches."},
+    {"title": "Litigation and asset research", "text": "Identifying companies, property and business interests of a Guyanese party for claims before the High Court or in arbitration, and tracing related interests in Trinidad and Tobago, the United States, Canada and elsewhere in the diaspora."}
+  ],
+  "practical": [
+    {"label": "Business language", "value": "English; Guyanese Creole widely spoken"},
+    {"label": "Time zone", "value": "America/Guyana, UTC-4, no daylight saving time"},
+    {"label": "Working week", "value": "Monday to Friday"},
+    {"label": "Currency", "value": "Guyanese dollar (GYD)"},
+    {"label": "Final court of appeal", "value": "Caribbean Court of Justice"},
+    {"label": "Main business centres", "value": "Georgetown, Linden, New Amsterdam"},
+    {"label": "Records note", "value": "Company and land searches are largely in person; allow time"}
+  ],
+  "tdsc_approach": "TDSC scopes Guyanese matters around the specific risk the client faces, most often whether a local partner or contractor is who it claims to be. Each engagement begins with a review of the purpose, the parties, any political exposure and the governing data protection rules. Desk research draws on Caribbean and international corporate records, litigation and press, Local Content Secretariat publications and the Official Gazette. Because company and land records in Guyana are largely searched in person, TDSC coordinates qualified Guyanese professionals for Commercial Registry and Deeds Registry work and works with the client's Guyanese counsel, who advises on legal questions. TDSC does not seek police, immigration, tax or banking records, and keeps inquiries discreet in a closely connected business community.",
+  "faqs": [
+    {"q": "How can a foreign company check that a Guyanese partner meets local content rules?", "a": "Certification by the Local Content Secretariat is the formal step, but certification does not always reveal who controls a company in practice. We review registry filings, beneficial ownership indicators, management biographies, the partner's real operating capacity and relationships with other companies to identify nominee or front arrangements before contracts are signed."},
+    {"q": "Are Guyanese company records available online?", "a": "Generally not. Companies register in person with the Commercial Registry, and searches are typically made at the registry in Georgetown through local professionals or counsel. The Registry also collects beneficial ownership declarations, but access to that information is not straightforwardly public, so it is approached through proper channels."},
+    {"q": "Where are commercial disputes in Guyana resolved?", "a": "In the High Court, which has a commercial court, with appeals to the Court of Appeal and finally the Caribbean Court of Justice. Court capacity is limited, so mediation and arbitration are commonly used. Pre-dispute research on a counterparty's assets helps clients choose a realistic route to recovery."},
+    {"q": "What risks arise in Guyana's gold sector?", "a": "Common concerns include dealers unable to demonstrate a licensed source, smuggling across land borders, small-scale mining arrangements that conflict with restrictions on foreign ownership, and links to illicit finance. Verifying licences, ownership and the plausibility of supply volumes is an essential first step for buyers and lenders."},
+    {"q": "Does the Essequibo dispute affect investigative work?", "a": "It can. Venezuela claims the territory west of the Essequibo River, and the case is before the International Court of Justice. For projects or counterparties in that region, we include the geopolitical context in our risk assessment and coordinate field activity carefully, in addition to standard corporate and reputational research."}
+  ],
+  "sources": [
+    {"title": "US Department of State: 2024 Investment Climate Statements, Guyana", "url": "https://www.state.gov/reports/2024-investment-climate-statements/guyana/"},
+    {"title": "Bureau of Statistics Guyana", "url": "https://statisticsguyana.gov.gy/"},
+    {"title": "Deeds and Commercial Registries Authority: AML", "url": "https://dcra.gov.gy/aml/"},
+    {"title": "Open Ownership: Guyana", "url": "https://openownership.org/en/map/country/guyana/"},
+    {"title": "Guyana (overview, economy and Essequibo dispute)", "url": "https://en.wikipedia.org/wiki/Guyana"},
+    {"title": "Parliament of Guyana: Acts of Parliament", "url": "https://parliament.gov.gy/publications/acts-of-parliament/"}
+  ],
+  "review_flags": [
+    "Data protection: Guyana reportedly passed a Data Protection Act in 2023 but this could NOT be verified (sites blocked, search budget exhausted). Text says status not verified. Confirm Act, commencement and regulator, then update data_protection.",
+    "Private investigator licensing not verified.",
+    "Roman-Dutch property law influence, Deeds Registry and Lands and Surveys Commission references are from general knowledge; verify.",
+    "Population uses 2022 census (878,674); later estimates range widely (956,044 for 2024 on Wikipedia; 1,025,200 2026 estimate). Consider updating.",
+    "Beneficial ownership declarations collected by Commercial Registry AML Department; public access terms not confirmed. Open Ownership lists 25% threshold.",
+    "Essequibo/ICJ case status may change; also Venezuela sanctions context may be relevant to some matters."
+  ],
+  "researched": "2026-11-04"
+}

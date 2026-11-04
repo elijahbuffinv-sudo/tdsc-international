@@ -1,0 +1,152 @@
+{
+  "cc": "NE",
+  "name": "Niger",
+  "meta_description": "Investigative consulting for Niger: OHADA corporate records, uranium and extractives exposure, counterparty due diligence and Sahel political risk review.",
+  "eyebrow": "Republic of Niger",
+  "hero_lede": "Investigative consulting for matters touching Niger centres on counterparty and ownership verification under the OHADA framework, extractives and supply-chain exposure, and political and security risk review, with careful attention to a fast-changing regulatory environment since the 2023 change of government.",
+  "intro": [
+    "Niger is a landlocked Sahelian state with a French-derived civil law system and membership of OHADA, the regional business law organisation whose Uniform Acts govern company law, commercial registration and security interests. Since the military takeover of July 2023, the country has been governed by a transitional authority under a Refoundation Charter adopted in March 2025, and Niger, Mali and Burkina Faso confirmed their exit from ECOWAS in January 2025. For investigative work this means records are largely paper-based and held in Niamey, official documents are in French, and legal and institutional arrangements are subject to revision. Findings must be dated and sourced with care.",
+    "Organisations commission investigative work involving Niger mainly because of its extractive sector, above all uranium, alongside oil production and export infrastructure, gold, and the large flows of humanitarian and development funding into the country. Recent disputes over mining concessions, including the government's stated plan to nationalise the Orano-operated SOMAIR uranium operation, have raised questions about asset control, contract validity and counterparty standing. Lenders, insurers, commodity traders, contractors and NGOs also seek ownership verification, reputational review and diversion-risk assessment for partners operating in an insecure environment."
+  ],
+  "population": {
+    "value": "27.0 million",
+    "year": "2024",
+    "source_url": "https://fred.stlouisfed.org/data/POPTOTNEA647NWDB"
+  },
+  "legal_system": "Niger has a civil law system derived from French law. Commercial matters are governed largely by the OHADA Uniform Acts, including those on general commercial law and commercial companies, with the Common Court of Justice and Arbitration (CCJA) in Abidjan acting as the court of final instance on their application. Commercial disputes at first instance are heard by the Tribunal de commerce de Niamey, alongside the ordinary high courts. Constitutional arrangements have been reshaped since 2023 by the transitional Refoundation Charter, so institutional details should be confirmed at the time of an engagement.",
+  "data_protection": {
+    "law": "Law No. 2022-59 of 16 December 2022 on the protection of personal data, as amended by Law No. 2023-31 of 4 July 2023",
+    "regulator": "Haute Autorité de Protection des Données à caractère Personnel (HAPDP)",
+    "summary": "Niger has a comprehensive data protection law supervised by the HAPDP, an independent administrative authority attached to the Presidency. Processing generally requires prior notification to the HAPDP unless a data protection correspondent has been appointed, and that exemption does not cover cross-border transfers. Certain categories, such as genetic and medical data, require prior authorisation. Transfers abroad are permitted only to countries offering an equivalent or higher level of protection. Investigative work that collects personal data about Nigerien residents, including employees and counterparties, therefore needs a defined purpose, proportionate collection and a documented position on how any data leaving Niger is handled."
+  },
+  "investigator_regulation": "We have not identified a dedicated statute or licensing regime for private investigators or private detective agencies in Niger. Private security and guarding activities are a separate matter and should not be assumed to cover investigative work. In the absence of a clear framework, engagements are scoped with Nigerien counsel, and any local enquiries are limited to lawful, open methods. Covert recording, surveillance of individuals and any approach to officials or security services carry legal and personal risk in the current security environment and are not undertaken without specific legal advice.",
+  "corporate_records": "Companies and traders are registered in the Registre du Commerce et du Crédit Mobilier (RCCM) established under the OHADA Uniform Act on General Commercial Law, maintained at the commercial court registry in Niamey, with formalities processed through the chamber of commerce's business formalities centre. RCCM extracts can show the company form, registered office, capital and managers, but access is largely in person and in French, and no reliable public online search has been confirmed. We have not identified a publicly searchable beneficial ownership register. Court and land records are not generally available online and are obtained through local counsel.",
+  "anti_corruption": "Niger's High Authority for Combating Corruption and Related Offences (HALCIA) was established by Law No. 2016-44 of 6 December 2016. Since 2023 the transitional authorities have also created a Commission de lutte contre la délinquance économique, financière et fiscale (CoLDEFF) to pursue economic and fiscal crime. Money laundering and terrorist financing are addressed by Law No. 2016-33, aligned with the regional UEMOA framework, with the national financial intelligence unit (CENTIF) receiving suspicious transaction reports.",
+  "matters": [
+    {
+      "title": "Uranium and mining counterparties",
+      "text": "Verification of the ownership, licences and standing of mining and processing counterparties after the review of concessions and the dispute over SOMAIR, including whether assets, permits and offtake rights remain with the entity claiming them and what litigation or arbitration is pending."
+    },
+    {
+      "title": "Oil export and logistics partners",
+      "text": "Background and reputational review of transport, storage and logistics partners connected to crude production and the export route, where cross-border disputes and changing transit arrangements have affected who controls revenue and infrastructure."
+    },
+    {
+      "title": "Humanitarian partner due diligence",
+      "text": "Integrity and diversion-risk review of implementing partners, suppliers and subcontractors receiving donor or NGO funding, including conflicts of interest, related-party links and adverse records relevant to programmes in insecure regions."
+    },
+    {
+      "title": "Gold trade and supply chains",
+      "text": "Source and chain-of-custody review for gold buyers and exporters, assessing artisanal mining exposure, armed group proximity and the reliability of documentation presented to refiners and traders outside the Sahel."
+    },
+    {
+      "title": "Political and regulatory risk",
+      "text": "Dated assessments of how transitional decrees, regional realignment within the Alliance of Sahel States and changes in contract review practice could affect an existing investment, guarantee or receivable."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Languages",
+      "value": "French (working language); Hausa (national language); Zarma and others widely spoken"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Niamey, UTC+1"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "West African CFA franc (XOF)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Niamey, Maradi, Zinder, Agadez"
+    },
+    {
+      "label": "Courts language",
+      "value": "French"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Records are largely paper-based; certified extracts usually require an in-person request in Niamey"
+    },
+    {
+      "label": "Business culture",
+      "value": "Personal introductions and formal written correspondence carry weight; expect longer timelines"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes engagements touching Niger from Nashville, beginning with a jurisdictional review of the client's purpose, the legal basis for each enquiry and the current position under transitional decrees. Research relies first on lawful public sources: international litigation and arbitration records, regulatory filings outside Niger, trade data, sanctions and watch lists, and media in French and English. Where RCCM extracts, court documents or local enquiries are needed, TDSC coordinates qualified local professionals and Nigerien counsel rather than acting directly. Personal data is limited to what the matter requires and handled with the HAPDP framework and transfer restrictions in view. Given the security situation, no enquiry is commissioned that would put local personnel at risk.",
+  "faqs": [
+    {
+      "q": "Can company ownership in Niger be confirmed online?",
+      "a": "Not reliably. The RCCM is maintained under the OHADA framework, but no dependable public online search has been confirmed and records are largely held in Niamey in paper form. Certified extracts are normally obtained in person through local counsel, and shareholder information beyond what is filed at registration may need to be pieced together from other sources."
+    },
+    {
+      "q": "Has the dispute over SOMAIR changed how mining counterparties should be checked?",
+      "a": "It has made dating and sourcing essential. Where the state has announced nationalisation or reviewed concessions, the entity that signed a contract may no longer control the asset. Checks should cover current permit holders, announced decrees, and arbitration or court proceedings outside Niger, and should be refreshed close to any transaction."
+    },
+    {
+      "q": "Does Niger's exit from ECOWAS affect investigations?",
+      "a": "It affects context more than method. Regional cooperation channels, trade and transit arrangements have shifted toward the Alliance of Sahel States, which can change which records exist and where counterparties are domiciled. Niger remains within the OHADA business law framework, so company law and registration concepts are unchanged for now."
+    },
+    {
+      "q": "Are there restrictions on taking personal data out of Niger?",
+      "a": "Yes. Under the 2022 data protection law, as amended in 2023, transfers abroad are permitted only to countries offering an equivalent or higher level of protection, and cross-border transfers are an exception to simplified notification. Investigative work therefore minimises the personal data collected and documents how any transfer is justified."
+    },
+    {
+      "q": "Is it safe to commission field enquiries in Niger?",
+      "a": "Only with care. Large areas are affected by armed group activity and the political environment is sensitive. TDSC favours remote and documentary research, limits field enquiries to what is lawful and necessary, and relies on local professionals' judgement about whether a particular enquiry can be made without putting anyone at risk."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Niger",
+      "url": "https://www.dlapiperdataprotection.com/index.html?c=NE&t=law"
+    },
+    {
+      "title": "FRED / World Bank: Population, Total for Niger",
+      "url": "https://fred.stlouisfed.org/data/POPTOTNEA647NWDB"
+    },
+    {
+      "title": "TRT Afrika: Six ways Niger has changed two years since military takeover",
+      "url": "https://www.trtafrika.com/english/article/6f5ae5b3dd50"
+    },
+    {
+      "title": "Africanews: ECOWAS confirms exit of the Alliance of Sahel States",
+      "url": "https://www.africanews.com/2025/01/29/ecowas-confirms-exit-of-the-alliance-of-sahel-states-from-the-regional-bloc//"
+    },
+    {
+      "title": "Le360 Afrique: Niger launches commission against economic and financial crime",
+      "url": "https://afrique.le360.ma/economie/niger-le-general-tiani-lance-la-traque-aux-delinquants-economiques-et-financiers_P73PZZXZOJHFLHF65ZBQIRADEA/"
+    },
+    {
+      "title": "Business Data Guide: Niger company search guide",
+      "url": "https://businessdataguide.com/blog/jurisdictions/niger-company-search-guide"
+    },
+    {
+      "title": "OHADA: Workshop at the Tribunal de commerce de Niamey",
+      "url": "https://www.ohada.com/actualite/8326/report-de-latelier-ohada-au-tribunal-de-commerce-de-niamey.html"
+    },
+    {
+      "title": "Africa-laws.org: Niger Loi no 2016-33 relative à la lutte contre le blanchiment des capitaux et le financement du terrorisme",
+      "url": "https://www.africa-laws.org/Niger\\banking and finance law\\Loi no 2016-33 relative à la lutte contre le blanchiment des capitaux et le financement du terrorisme.pdf"
+    },
+    {
+      "title": "EFCC: EFCC and HALCIA sign MoU in Niamey (HALCIA established by Law No. 2016-44)",
+      "url": "https://efccnigeria.org/efcc/news-and-information/news-release/3739-efcc-halcia-sign-mou-in-niamey-the-economic-and-financial-crimes-commission-efcc-and-the-high-authority-against-corruption-and-relating-crimes-halcia-have-signed-a-memorandum-of-understanding-mou-geared-towards-strengthening-collaboration-between-nigeria-and-the-republic-of-niger-halcia-a-counterpart-of-the-efcc-is-the-nigerien-agency-established-by-the-country-s-law-no-2016-44-of-december-6-2016"
+    }
+  ],
+  "review_flags": [
+    "Transitional government since July 2023; Refoundation Charter (March 2025) and institutional arrangements may change.",
+    "No private investigator licensing regime identified; confirm with Nigerien counsel.",
+    "AML law cited as Law No. 2016-33 from a law-repository title; Niger may have adopted a newer UEMOA-aligned AML/CFT/PF law (several UEMOA states did in 2023-2024). Verify.",
+    "CoLDEFF founding instrument not identified; status of HALCIA under the transitional authorities not confirmed.",
+    "No beneficial ownership register confirmed; RCCM online access unverified.",
+    "SOMAIR nationalisation status changes quickly; re-check before publishing.",
+    "Africa-laws.org source URL contains backslashes and spaces as published; may need URL-encoding or replacement."
+  ],
+  "researched": "2026-11-04"
+}

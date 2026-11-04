@@ -1,0 +1,154 @@
+{
+  "cc": "LU",
+  "name": "Luxembourg",
+  "meta_description": "Investigative consulting for matters touching Luxembourg: holding and fund structure research, asset tracing, GDPR-aware workplace inquiries, disputes.",
+  "eyebrow": "Grand Duchy of Luxembourg",
+  "hero_lede": "Investigative consulting for matters touching Luxembourg is mostly about structures: holding companies, fund vehicles and financing entities that sit inside international groups and transactions. TDSC scopes these matters from Nashville, working within the GDPR and Luxembourg's restrictions on workplace surveillance, and coordinates with Luxembourg counsel.",
+  "intro": [
+    "Luxembourg is a founding EU member with a civil law system, a constitutional monarchy and three working languages, with French used for legislation and in the courts alongside Luxembourgish and German. It is the world's second-largest investment fund domicile after the United States, and financial services supply roughly a third of GDP. Company formation requires a notary and registration with Luxembourg Business Registers, which operates the Trade and Companies Register and the register of beneficial owners. The National Commission for Data Protection enforces the GDPR and has specific powers over workplace surveillance. Investigative work therefore combines good corporate filing data with careful handling of personal data.",
+    "Organisations commission investigative work involving Luxembourg because so many international structures pass through it. Typical matters include tracing assets held through Luxembourg holding companies in fraud, insolvency or divorce proceedings, identifying who controls a special purpose vehicle or fund-related entity, and reviewing directors and service providers in a structure before an acquisition or financing. Funds and their managers need background research on sponsors and counterparties. Luxembourg also hosts headquarters, logistics operations around Luxembourg Airport and the Cargolux hub, and a growing space and fintech sector, while a large cross-border workforce makes internal investigations a recurring need."
+  ],
+  "population": {
+    "value": "686,970",
+    "year": "2025",
+    "source_url": "https://fred.stlouisfed.org/series/POPTOTLUA647NWDB"
+  },
+  "legal_system": "Luxembourg is a civil law jurisdiction under a Constitution dating from 1868, with EU law prevailing in areas of EU competence. Ordinary jurisdiction is exercised by three justices of the peace in Luxembourg City, Esch-sur-Alzette and Diekirch for minor civil and commercial matters, two district courts in Luxembourg and Diekirch for other civil, commercial and criminal cases, and the Superior Court of Justice, which comprises the Court of Appeal and the Court of Cassation. Administrative cases go to the Administrative Tribunal and Administrative Court, and a Constitutional Court sits in the capital.",
+  "data_protection": {
+    "law": "General Data Protection Regulation (EU) 2016/679 and the Law of 1 August 2018 on the organisation of the National Data Protection Commission and the general data protection framework",
+    "regulator": "Commission Nationale pour la Protection des Données (CNPD)",
+    "summary": "The GDPR applies directly, supplemented by the Law of 1 August 2018, and the CNPD can impose fines and publish decisions. For investigative work, the most important national rule is Article L.261-1 of the Labour Code: employers must inform staff representatives in advance of any workplace surveillance, describing its purpose, methods and retention, and employees may ask the CNPD for a prior opinion, which suspends the surveillance until it is given. Covert monitoring of employees is therefore high-risk. Transfers to the United States follow GDPR Chapter V, through the EU-US Data Privacy Framework for certified recipients or standard contractual clauses."
+  },
+  "investigator_regulation": "We have not identified a specific licensing regime for private investigators in Luxembourg in the official business guidance we reviewed. The government's business portal lists a special accreditation for private security and surveillance activities, but does not indicate whether investigative services fall within it, so the position is confirmed with Luxembourg counsel for each engagement. Limits are clear regardless: the GDPR governs collection of personal data, workplace surveillance requires prior notice under the Labour Code, professional secrecy binds banks, fund administrators and other financial professionals, and covert recording of private conversations carries criminal risk. TDSC uses registers, court decisions and open sources.",
+  "corporate_records": "Luxembourg Business Registers operates the Trade and Companies Register (RCS), which provides registered entity information, filed documents such as articles, annual accounts and appointments of managers, extracts and certificates. Because companies must file accounts and changes of officers, the RCS is a strong source for mapping structures and directors, including professional directors and domiciliation agents. The register of beneficial owners (RBE) launched in 2019 with a 25 percent threshold; after the November 2022 CJEU judgment, access for the general public was withdrawn and is now limited to those able to show a legitimate interest, under rules being revised as EU AML reforms take effect.",
+  "anti_corruption": "Active and passive bribery of national, foreign and EU officials is criminalised in the Penal Code, as revised by the Laws of 15 January 2001 and 13 February 2011, and companies can be criminally liable for offences committed in their name. Luxembourg is party to the UN Convention against Corruption and the OECD Anti-Bribery Convention and has a whistleblower law. AML obligations, extended by a 2018 law to notaries and lawyers among others, are supervised by the CSSF for the financial sector, and the Financial Intelligence Unit (CRF) receives suspicious transaction reports.",
+  "matters": [
+    {
+      "title": "Holding company asset tracing",
+      "text": "Following assets held through Luxembourg holding companies, financing vehicles and SPVs for counsel in fraud, insolvency and matrimonial proceedings, using RCS filings, annual accounts, appointments and foreign records to show what the structure owns and who appears to control it."
+    },
+    {
+      "title": "Fund sponsor and counterparty background",
+      "text": "Background research on sponsors, portfolio managers, seed investors and service providers connected to Luxembourg funds, covering regulatory history, litigation, related-party links and reputation, so that managers, depositaries and investors can document their decisions with sourced findings."
+    },
+    {
+      "title": "Structure mapping for transactions",
+      "text": "Mapping Luxembourg entities within a target group before an acquisition or financing, reconciling RCS filings with group disclosures, identifying professional directors and domiciliation agents, and flagging entities with gaps in filings, unusual capital movements or ownership changes that need explanation."
+    },
+    {
+      "title": "Workplace investigations",
+      "text": "Supporting internal inquiries into fraud, misconduct or data leakage at Luxembourg offices and logistics operations, designed around Labour Code notice requirements for surveillance and CNPD expectations, with interviews and document review coordinated with Luxembourg employment counsel."
+    },
+    {
+      "title": "Cross-border fraud recovery support",
+      "text": "Assembling evidence on Luxembourg entities and accounts linked to investment or payment fraud, to support criminal complaints, freezing applications and disclosure requests made by counsel, recognising that bank and fund information is protected by professional secrecy."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "French, German and Luxembourgish; English widely used in finance"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Luxembourg, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (EUR)"
+    },
+    {
+      "label": "Courts language",
+      "value": "French predominantly, with German and Luxembourgish also used"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Luxembourg City (Kirchberg, Cloche d'Or), Esch-sur-Alzette"
+    },
+    {
+      "label": "Company formation",
+      "value": "Notarial deed and filing with Luxembourg Business Registers"
+    },
+    {
+      "label": "Workforce note",
+      "value": "A large share of employees commute from France, Belgium and Germany"
+    }
+  ],
+  "tdsc_approach": "TDSC treats most Luxembourg matters as structure research first. Each engagement starts with a jurisdictional and GDPR review: what the client is entitled to obtain, the lawful basis for processing, and whether the work touches employees, in which case Labour Code notice rules shape the plan. Research draws on RCS filings and accounts, court decisions, regulatory publications and foreign registries, and TDSC states clearly where information is protected by professional secrecy and must be sought by counsel through the courts. Because a licensing position for investigators is not confirmed, any local inquiries are agreed with Luxembourg counsel and carried out by qualified professionals. Transfers to the United States use an approved Chapter V mechanism.",
+  "faqs": [
+    {
+      "q": "Can we see who owns a Luxembourg company?",
+      "a": "Partly. RCS filings show shareholders for some company forms, managers, and filed accounts. The register of beneficial owners is no longer open to the general public following the 2022 CJEU judgment; access requires a legitimate interest. TDSC combines RCS data with group disclosures, foreign registries and litigation to identify likely controllers."
+    },
+    {
+      "q": "Can an employer in Luxembourg monitor an employee suspected of fraud?",
+      "a": "Only within strict limits. Article L.261-1 of the Labour Code requires prior notice to staff representatives describing the purpose, method and retention of any surveillance, and employees can ask the CNPD for an opinion before it begins. TDSC designs workplace inquiries with Luxembourg employment counsel and avoids covert monitoring."
+    },
+    {
+      "q": "Can TDSC obtain bank or fund account information in Luxembourg?",
+      "a": "No. Banks, fund administrators and other financial professionals are bound by professional secrecy. Access comes through court orders, criminal proceedings or mutual legal assistance. TDSC can build the external evidence that supports such applications, which counsel then pursues."
+    },
+    {
+      "q": "Which courts hear commercial disputes in Luxembourg?",
+      "a": "Minor commercial matters go to the justices of the peace, and other commercial cases to the district courts in Luxembourg and Diekirch, with appeal to the Court of Appeal and review by the Court of Cassation. Proceedings are mainly in French. TDSC supports counsel with factual research rather than procedural advice."
+    },
+    {
+      "q": "What is the most useful public source for Luxembourg structures?",
+      "a": "The RCS. Filed articles, annual accounts and notices of appointment allow a structure to be mapped over time, including changes of managers, capital and registered office. TDSC reads these alongside group reports and foreign filings, and highlights gaps such as late accounts or frequent changes of domiciliation agent."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Luxembourg",
+      "url": "https://www.dlapiperdataprotection.com/?c=LU&t=law"
+    },
+    {
+      "title": "CNPD: National Commission for Data Protection",
+      "url": "https://cnpd.public.lu/en.html"
+    },
+    {
+      "title": "GlobaLex: Luxembourg legal system",
+      "url": "https://www.nyulawglobal.org/globalex/Luxembourg.html"
+    },
+    {
+      "title": "US Department of State: 2024 Investment Climate Statements, Luxembourg",
+      "url": "https://www.state.gov/reports/2024-investment-climate-statements/luxembourg/"
+    },
+    {
+      "title": "Lex Mundi Global Anti-Corruption Compliance Guide: Luxembourg",
+      "url": "https://www.lexmundi.com/guides/anti-corruption-compliance-guide/jurisdictions/europe/luxembourg/"
+    },
+    {
+      "title": "Cellule de renseignement financier (CRF)",
+      "url": "https://crf.public.lu/fr.html"
+    },
+    {
+      "title": "Luxembourg Business Registers",
+      "url": "https://www.lbr.lu/mjrcs-web-front/"
+    },
+    {
+      "title": "Open Ownership: Luxembourg",
+      "url": "https://openownership.org/en/map/country/luxembourg"
+    },
+    {
+      "title": "Guichet.lu: Activities subject to specific registration or authorisation",
+      "url": "https://guichet.public.lu/en/entreprises/sectoriel/inscriptions-agrements-specifiques.html"
+    },
+    {
+      "title": "FRED / World Bank: Population, Total for Luxembourg",
+      "url": "https://fred.stlouisfed.org/series/POPTOTLUA647NWDB"
+    }
+  ],
+  "review_flags": [
+    "Web search budget exhausted; Luxembourg relied on direct fetches.",
+    "No private investigator licensing regime identified; unclear whether the private security and surveillance accreditation covers investigative services.",
+    "Claim that RBE public access was withdrawn after the November 2022 CJEU judgment is based on general knowledge (Open Ownership confirms only that states are no longer required to provide it); confirm current RBE rules, which are changing with EU AML reforms.",
+    "Detail of what RCS filings show (accounts, managers, shareholders for some forms) is general knowledge, not confirmed from an opened LBR page.",
+    "Workforce and business centre practicals are general knowledge."
+  ],
+  "researched": "2026-11-04"
+}

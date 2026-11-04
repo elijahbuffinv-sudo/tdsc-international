@@ -1,0 +1,135 @@
+{
+  "cc": "DZ",
+  "name": "Algeria",
+  "meta_description": "Investigative consulting for matters touching Algeria: CNRC company checks, partner and agent due diligence, and Law 18-07 compliant research from Nashville.",
+  "eyebrow": "People's Democratic Republic of Algeria",
+  "hero_lede": "Matters touching Algeria involve a hydrocarbon-dominated, state-led economy, French-derived civil law, a strict data protection regime with authorised transfers, and records that are often accessible only in person. TDSC scopes partner, agent and counterparty due diligence and litigation support accordingly, coordinating licensed local professionals.",
+  "intro": [
+    "Algeria is Africa's largest country by area and one of its largest economies, with a legal system rooted in the French civil law tradition and a substantial state role in business. Oil and gas provide around 90 percent of export revenue, and Sonatrach and other state-owned enterprises dominate strategic sectors. Since 2020 the 51/49 rule requiring majority Algerian ownership has been lifted for most activities but kept for strategic sectors and reapplied to importers for resale, and a 2022 Investment Law created the Algerian Investment Promotion Agency (AAPI). Bureaucracy, opaque procedures and reported political pressure on courts mean that investigative findings depend heavily on local knowledge and careful sourcing.",
+    "Organisations commission work involving Algeria mainly around energy, infrastructure and trade. European buyers of Algerian gas, particularly in Italy, Spain and France, and oilfield service companies need counterparty and agent due diligence. China is the largest single source of imports, and Chinese, Turkish and European contractors compete for public works. Typical exposures include intermediaries in public procurement, local partners in joint ventures for strategic sectors, import licensing and foreign exchange controls, and the legacy of anti-corruption prosecutions of former senior officials and business figures since 2019. Disputes frequently involve Algerian state-owned enterprises and are commonly referred to international arbitration."
+  ],
+  "population": {
+    "value": "47.4 million",
+    "year": "2025",
+    "source_url": "https://fred.stlouisfed.org/series/POPTOTDZA647NWDB"
+  },
+  "legal_system": "Algeria has a civil law system in the French tradition, with Islamic law influencing family and succession matters. Commercial relationships are governed by the Commercial Code, dating from 1975 and last substantially updated in 2007, and the Code of Civil and Administrative Procedure. Ordinary courts and courts of appeal sit under the Supreme Court, while disputes with the state go to administrative tribunals under the Council of State. Most contracts between foreign and Algerian parties include international arbitration clauses, and the Algerian Chamber of Commerce and Industry (CACI) offers arbitration.",
+  "data_protection": {
+    "law": "Law No. 18-07 of 10 June 2018 on the protection of natural persons in personal data processing, as amended by Law No. 25-11 of 24 July 2025",
+    "regulator": "National Authority for the Protection of Personal Data (ANPDP)",
+    "summary": "Law No. 18-07 requires processing to rest on consent or a recognised exception, and many processing operations require prior declaration to or authorisation from the National Authority, which became operational in August 2023. Transfers of personal data abroad need the Authority's authorisation and an adequate level of protection in the destination state, with limited derogations, and are prohibited where they could affect public security or vital state interests. The 2025 amendments add record-keeping, profiling and accountability obligations. For investigative work, exporting personal data on Algerian residents to the United States must be planned in advance, and in-country processing is often the safer default."
+  },
+  "investigator_regulation": "We have not identified a published licensing regime for private investigators in Algeria, and private investigative activity does not appear to be an established, openly regulated profession. Security-sensitive enquiries, surveillance and approaches to officials can attract the attention of the authorities, and the data protection law independently restricts collection and transfer of personal data. Access to court files and many administrative records generally requires being a party or acting through an Algerian lawyer. TDSC therefore relies on lawful documentary research and works through Algerian counsel or appropriately qualified local professionals for any in-country enquiry.",
+  "corporate_records": "Companies register with the National Centre of the Trade Register (CNRC), which maintains the commercial register and claims to issue registrations within 48 hours of a complete application. Statutory notices, including formations, capital changes and appointments, are published in the Official Bulletin of Legal Announcements (BOAL), and laws and decrees appear in the Official Journal. Detailed requirements are often available only in person, and extracts are commonly obtained through local representatives. We have not identified a publicly searchable beneficial ownership register. Land records are held by local land registry offices and are not openly searchable online.",
+  "anti_corruption": "Algeria's principal anti-corruption statute is the 2006 law on the prevention of and fight against corruption, which criminalises bribery of public officials, including foreign officials, and illicit enrichment. Enforcement involves the Central Office for the Suppression of Corruption (OCRC, created 2013) and the High Authority for Transparency, Prevention and Fight against Corruption established under the constitution. Anti-money laundering and terrorist-financing legislation was updated in 2016, strengthening the financial intelligence unit.",
+  "matters": [
+    {
+      "title": "Hydrocarbon sector counterparty diligence",
+      "text": "Suppliers, service companies and partners of Sonatrach and its affiliates face scrutiny over intermediaries, subcontractors and past procurement. TDSC maps ownership, management and litigation history of Algerian counterparties and reviews French- and Arabic-language media for adverse findings before contracts, joint ventures or financing proceed."
+    },
+    {
+      "title": "Agent and intermediary vetting",
+      "text": "Foreign exporters often rely on local agents to navigate tenders, import licensing and state customers. TDSC examines agents' corporate history, connections to officials and state-owned enterprises, and any involvement in the corruption prosecutions pursued since 2019, so compliance teams can assess bribery risk under US, UK and EU law."
+    },
+    {
+      "title": "Strategic sector joint ventures",
+      "text": "Where the 51/49 rule still applies, foreign investors in energy, mining, transport or pharmaceuticals must take Algerian partners. TDSC assesses prospective partners' track records, related-party networks and financial standing, and identifies undisclosed interests that could affect control, profit repatriation or exit."
+    },
+    {
+      "title": "Arbitration and dispute support",
+      "text": "Disputes with Algerian state-owned enterprises and private counterparties are frequently arbitrated abroad. TDSC supports counsel with background research on parties, witnesses and corporate relationships, and with identifying assets held outside Algeria that could matter for enforcement strategy."
+    },
+    {
+      "title": "Trade compliance and import chains",
+      "text": "Import licensing, foreign exchange controls and frequently changing rules create incentives for misdeclaration and front companies. TDSC reviews the corporate links between importers, distributors and foreign suppliers to help manufacturers protect their distribution networks and detect diversion or unauthorised resale."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Arabic and French; Tamazight is also official; English limited"
+    },
+    {
+      "label": "Working week",
+      "value": "Sunday to Thursday; Friday and Saturday weekend"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Algiers, UTC+1, no daylight saving"
+    },
+    {
+      "label": "Currency",
+      "value": "Algerian dinar (DZD); foreign exchange controls apply"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Algiers, Oran, Constantine, Annaba, Hassi Messaoud"
+    },
+    {
+      "label": "Courts language",
+      "value": "Arabic; foreign documents need certified Arabic translation"
+    },
+    {
+      "label": "Business culture",
+      "value": "Formal and hierarchical; in-person meetings and patience with procedure expected"
+    }
+  ],
+  "tdsc_approach": "TDSC begins Algerian engagements with a data protection review, because Law No. 18-07 conditions transfers abroad on authorisation and adequacy. Where possible, research is designed so that personal data on Algerian residents is minimised, or processed by local professionals with only conclusions transferred. Sources include CNRC and BOAL records obtained through local representatives, the Official Journal, court information available to parties, and Arabic- and French-language media. TDSC does not approach officials or attempt to obtain restricted state records, and coordinates any in-country enquiries through Algerian counsel and qualified local professionals. Findings are framed for the client's counsel, distinguishing documented facts from reputation and political context.",
+  "faqs": [
+    {
+      "q": "Can company records in Algeria be obtained remotely?",
+      "a": "Partly. Basic information about registered companies and statutory notices published in the BOAL can be identified, but extracts from the CNRC and fuller filings are usually obtained in person through a local representative. TDSC arranges retrieval through local professionals and cross-checks the results against published notices and media coverage."
+    },
+    {
+      "q": "Does Algeria restrict sending personal data abroad?",
+      "a": "Yes. Under Law No. 18-07, transfers to a foreign state generally require authorisation from the National Authority for the Protection of Personal Data and adequate protection in the destination, with limited derogations. Transfers that could affect public security are prohibited. TDSC designs engagements to minimise transfers and recommends clients take Algerian legal advice on their own position."
+    },
+    {
+      "q": "Is the 51/49 foreign ownership rule still in force?",
+      "a": "Since 2020 it has been removed for most sectors but retained for strategic sectors such as energy, mining, defence, transport and pharmaceuticals, and reapplied in 2021 to importers of goods for resale. Because rules change through finance laws, TDSC treats the current position as a point for Algerian counsel and focuses on vetting the partners involved."
+    },
+    {
+      "q": "How relevant are the post-2019 corruption prosecutions?",
+      "a": "Significant. Since 2019, a number of former senior officials and prominent business figures have been prosecuted and convicted for corruption-related offences, and some assets were confiscated. Counterparties linked to those cases may carry legal and reputational risk. TDSC identifies such links through court reporting and media while reporting the procedural status accurately."
+    },
+    {
+      "q": "Are private investigators licensed in Algeria?",
+      "a": "We have not identified a published licensing framework for private investigators, and in-country enquiries can be sensitive. TDSC therefore avoids covert fieldwork, relies on lawful documentary and open-source research, and works through Algerian lawyers or appropriately qualified local professionals where local steps are necessary."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World - Algeria",
+      "url": "https://www.dlapiperdataprotection.com/index.html?t=law&c=DZ"
+    },
+    {
+      "title": "US State Department - 2024 Investment Climate Statements: Algeria",
+      "url": "https://www.state.gov/reports/2024-investment-climate-statements/algeria"
+    },
+    {
+      "title": "US International Trade Administration - Algeria Market Overview",
+      "url": "https://www.trade.gov/country-commercial-guides/algeria-market-overview"
+    },
+    {
+      "title": "Wikipedia - Economy of Algeria",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Algeria"
+    },
+    {
+      "title": "FRED / World Bank - Population, Total for Algeria",
+      "url": "https://fred.stlouisfed.org/series/POPTOTDZA647NWDB"
+    },
+    {
+      "title": "Journal Officiel de la Republique Algerienne",
+      "url": "https://www.joradp.dz/HAR/Index.htm"
+    }
+  ],
+  "review_flags": [
+    "Anti-corruption law cited by year only (2006); number 06-01 not confirmed in an opened source. AML law number (05-01) and FIU name (CTRF) not confirmed; text says only 'financial intelligence unit'.",
+    "CNRC site could not be fetched; BOAL description and land registry statement are based on general knowledge and the State Department note that requirements are available only in person. Verify.",
+    "Algeria reportedly created specialised commercial courts around 2022; not verified and omitted.",
+    "Post-2019 prosecutions FAQ is based on widely reported events but no source in the list covers it; add a source or soften.",
+    "Data protection regulator name: DLA Piper calls it the National Data Protection Authority; ANPDP abbreviation not confirmed.",
+    "No PI licensing regime identified."
+  ],
+  "researched": "2026-11-04"
+}

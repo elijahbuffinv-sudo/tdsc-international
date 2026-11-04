@@ -1,0 +1,145 @@
+{
+  "cc": "MU",
+  "name": "Mauritius",
+  "meta_description": "Investigative consulting for Mauritius matters: global business structures, CBRD records, Data Protection Act 2017 and Financial Crimes Commission context.",
+  "eyebrow": "Republic of Mauritius",
+  "hero_lede": "Investigative consulting for matters touching Mauritius usually concerns holding and fund structures in the global business sector, the people behind them, and the limits of what Mauritian registers will disclose. TDSC scopes this work from Nashville and coordinates qualified local professionals where on-island work is needed.",
+  "intro": [
+    "Mauritius combines a French-derived civil law tradition with English-influenced company, evidence and procedural law, and it has built a substantial international financial services sector regulated by the Financial Services Commission. For investigators this means two distinct record environments: domestic companies registered with the Corporate and Business Registration Department, and licensed global business entities whose information also sits with the Financial Services Commission and with management companies. Public company searches confirm basic status, but director, shareholder and beneficial ownership details are more restricted than many clients expect. Data handling is governed by a GDPR-aligned statute that requires controllers and processors to register, which shapes how any engagement involving personal data is planned.",
+    "Organisations commission work involving Mauritius because the island is widely used as a holding and investment jurisdiction for capital flowing into Africa and India, and because its funds, trusts and special-purpose companies frequently appear in transaction chains. Typical exposures include opaque ownership behind counterparties, asset tracing through layered Mauritian vehicles, disputes over fund management and shareholder rights, and reputational questions about promoters and directors. Tourism, real estate under foreign-investment schemes, and offshore business services also generate due diligence and dispute support needs. Many matters are commissioned by lenders, investors and law firms outside Mauritius who need to understand what a Mauritian entity is and who controls it."
+  ],
+  "population": {
+    "value": "1.25 million",
+    "year": "2024",
+    "source_url": "https://api.worldbank.org/v2/country/MUS/indicator/SP.POP.TOTL?format=json&date=2024"
+  },
+  "legal_system": "Mauritius has a mixed legal system. Private law rests on French-inspired codes, including the Civil Code, Commercial Code and Code of Civil Procedure, while company and insolvency legislation, evidence and criminal procedure draw heavily on English law. The Supreme Court has unlimited jurisdiction and a Commercial Division for business disputes; intermediate and district courts hear smaller claims. Final appeals lie to the Judicial Committee of the Privy Council in London. Arbitration is supported by the Mauritius International Arbitration Centre (MIAC) and the Mediation and Arbitration Centre Mauritius (MARC).",
+  "data_protection": {
+    "law": "Data Protection Act 2017 (in force 15 January 2018)",
+    "regulator": "Data Protection Office (Data Protection Commissioner)",
+    "summary": "The Data Protection Act 2017 replaced the 2004 Act and is closely aligned with the GDPR. Investigative work involving personal data needs a lawful basis, transparency unless an exemption applies, and data minimisation. Unusually, controllers and processors must register with the Data Protection Commissioner, with registration renewed every three years. Employee data is covered by the general rules, and special category data such as health information is restricted. Transfers of personal data out of Mauritius require appropriate safeguards evidenced to the Commissioner, explicit informed consent, or another listed ground such as necessity for legal claims, and the Commissioner may suspend or condition a transfer."
+  },
+  "investigator_regulation": "Private security service companies in Mauritius are licensed through the Commissioner of Police, with applications handled by the Private Security Section of the Mauritius Police Force. We have not been able to confirm from primary sources whether, or how, that regime applies to private investigation as distinct from guarding and security services, and we have not identified a separate licensing statute for private detectives. Engagements are therefore scoped with local counsel before any on-island enquiries begin. Covert recording, surveillance and handling of personal data are constrained by the Data Protection Act 2017 and the criminal law, and access to restricted records is available only through lawful channels.",
+  "corporate_records": "The Registrar of Companies, within the Corporate and Business Registration Department (CBRD), maintains the company register. A free public search confirms name, legal form, status, registration date and identifiers; fuller director and shareholder information is generally released on written request to the Registrar and payment of a fee, or with consent. A central beneficial ownership register is held by the Registrar under the Companies Act 2001, but it is not public: access is limited to competent authorities, or by court order. Global business companies also file information with the Financial Services Commission. Court judgments of the Supreme Court are published, which supports litigation history research.",
+  "anti_corruption": "The Financial Crimes Commission Act 2023 established the Financial Crimes Commission, which took over the functions of the Independent Commission Against Corruption, the Asset Recovery Investigation Division and the Integrity Reporting Services Agency, and repealed the Prevention of Corruption Act 2002 and the Asset Recovery Act 2011. The Financial Intelligence and Anti-Money Laundering Act 2002, as amended, continues to underpin the anti-money laundering framework, with the Financial Intelligence Unit and sector supervisors such as the Financial Services Commission and Bank of Mauritius.",
+  "matters": [
+    {
+      "title": "Ownership behind global business entities",
+      "text": "Identifying who stands behind a Mauritian holding company, fund or special-purpose vehicle, using CBRD filings, Financial Services Commission licensee information, published judgments and lawful open-source research, and being clear about where the restricted beneficial ownership register sets limits on what can be confirmed."
+    },
+    {
+      "title": "Cross-border asset tracing",
+      "text": "Following assets through Mauritian vehicles used for investment into Africa and India, mapping intermediate holdings, related parties and directors, and assembling material that local counsel can use to seek disclosure or freezing relief before the Supreme Court."
+    },
+    {
+      "title": "Investor and fund disputes",
+      "text": "Supporting shareholder, fund management and investment disputes with background research on managers, promoters and management companies, chronology building from public filings, and litigation history across Mauritian courts and the jurisdictions where the underlying investments sit."
+    },
+    {
+      "title": "Counterparty and promoter due diligence",
+      "text": "Pre-transaction and onboarding due diligence on Mauritian counterparties, directors and management companies, covering regulatory history, adverse media in English and French, litigation, and links to politically exposed persons."
+    },
+    {
+      "title": "Property and residency scheme diligence",
+      "text": "Background and reputational research on developers, agents and counterparties involved in real estate and investment schemes open to foreign buyers, including corporate history, disputes and regulatory actions, for buyers, lenders and their advisers outside Mauritius."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "English and French; Mauritian Kreol widely spoken"
+    },
+    {
+      "label": "Time zone",
+      "value": "Indian/Mauritius, UTC+4 (no daylight saving)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Port Louis and Ebène CyberCity"
+    },
+    {
+      "label": "Company registry",
+      "value": "Corporate and Business Registration Department (CBRD)"
+    },
+    {
+      "label": "Financial regulator",
+      "value": "Financial Services Commission (FSC)"
+    },
+    {
+      "label": "Data controller duty",
+      "value": "Registration with the Data Protection Commissioner"
+    },
+    {
+      "label": "Final appellate court",
+      "value": "Judicial Committee of the Privy Council"
+    }
+  ],
+  "tdsc_approach": "TDSC handles Mauritian matters from Nashville. Each engagement begins with a jurisdictional review: which entities are domestic companies and which are licensed global business entities, which records are public, which require a request to the Registrar or consent, and which are available only to authorities or by court order. We then work from lawful sources, including CBRD searches, Financial Services Commission information, published judgments, and open-source research in English and French. Where enquiries on the island are needed, we coordinate qualified local professionals and work alongside Mauritian counsel, particularly where disclosure applications are contemplated. Personal data is handled with the Data Protection Act 2017 registration and transfer rules in mind, and we do not access restricted registers or use pretexting.",
+  "faqs": [
+    {
+      "q": "Can you confirm the beneficial owner of a Mauritian company?",
+      "a": "Not from the central register itself. The beneficial ownership register held by the Registrar of Companies is not public and is available to competent authorities or by court order. We build an ownership picture from public CBRD information, filings obtainable through lawful requests, regulatory publications, judgments and open sources, and we state clearly which links are confirmed and which are inferred."
+    },
+    {
+      "q": "Are global business companies harder to research than domestic companies?",
+      "a": "Often they are. Licensed global business entities file information with the Financial Services Commission and are typically administered by management companies, so much of their documentation sits outside public view. Useful material still exists in FSC publications, published decisions, court records and the public footprint of directors and management companies, which we review systematically."
+    },
+    {
+      "q": "Does the Mauritian data protection law affect a US-based investigation?",
+      "a": "It can. The Data Protection Act 2017 applies to processing in Mauritius and restricts transfers of personal data out of the country unless safeguards or another legal ground apply. Where personal data will be gathered locally and sent abroad, we plan the engagement with Mauritian counsel and limit collection to what the matter actually requires."
+    },
+    {
+      "q": "Which authority investigates corruption in Mauritius now?",
+      "a": "The Financial Crimes Commission, created under the Financial Crimes Commission Act 2023, took over the functions of the former Independent Commission Against Corruption and related asset recovery bodies. Older reports and judgments will refer to ICAC and the Prevention of Corruption Act 2002, so research covering earlier years needs to account for both regimes."
+    },
+    {
+      "q": "Where are Mauritian commercial disputes heard?",
+      "a": "Larger commercial claims are heard by the Supreme Court, which has a Commercial Division, with appeals ultimately to the Judicial Committee of the Privy Council. Many cross-border disputes are arbitrated, with MIAC and MARC as the main local institutions. We support counsel with background research, chronology and asset information for both court and arbitral proceedings."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Mauritius",
+      "url": "https://www.dlapiperdataprotection.com/?c=MU&t=law"
+    },
+    {
+      "title": "Chambers Global Practice Guides: Litigation 2026, Mauritius",
+      "url": "https://practiceguides.chambers.com/practice-guides/litigation-2026/mauritius"
+    },
+    {
+      "title": "Bowmans: The Financial Crimes Commission Act, a new legal framework",
+      "url": "https://bowmanslaw.com/insights/mauritius-the-financial-crimes-commission-act-a-new-legal-framework-to-combat-financial-crimes/"
+    },
+    {
+      "title": "Financial Crimes Commission: About the FCC",
+      "url": "https://fcc.mu/?p=91"
+    },
+    {
+      "title": "Expanship: Mauritius beneficial ownership",
+      "url": "https://www.expanship.com/mu/blog/mauritius-beneficial-ownership"
+    },
+    {
+      "title": "Open Ownership: Mauritius",
+      "url": "https://www.openownership.org/en/map/country/mauritius/"
+    },
+    {
+      "title": "WikiProcedure: Obtain licence to operate a private security service company (Mauritius)",
+      "url": "https://wikiprocedure.com/index.php/Mauritius_-_Obtain_License_to_Operate_a_Private_Security_Service_Company"
+    },
+    {
+      "title": "World Bank: Population, total (Mauritius)",
+      "url": "https://api.worldbank.org/v2/country/MUS/indicator/SP.POP.TOTL?format=json&date=2024"
+    }
+  ],
+  "review_flags": [
+    "Private investigator licensing not confirmed: only private security company licensing via the Commissioner of Police (Private Security Section) was found; applicability to investigators unverified.",
+    "Beneficial ownership access and director/shareholder disclosure details drawn from a commercial provider (Expanship) rather than CBRD directly; Finance Act 2025 amendments may change requirements.",
+    "Financial Crimes Commission exact commencement date not confirmed from primary source.",
+    "Court of Civil Appeal Act 2025 (passed October 2025, not yet in force per Chambers 2026) may change appellate structure."
+  ],
+  "researched": "2026-11-04"
+}

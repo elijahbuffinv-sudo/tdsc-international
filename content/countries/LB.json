@@ -1,0 +1,162 @@
+{
+  "cc": "LB",
+  "name": "Lebanon",
+  "meta_description": "Investigative consulting for matters touching Lebanon: commercial register research, asset tracing after the banking crisis, due diligence and disputes.",
+  "eyebrow": "Lebanese Republic",
+  "hero_lede": "Investigative consulting for matters touching Lebanon means working with Arabic-language registers, a court system shaped by French civil law, and a financial sector still restructuring after the 2019 crisis. TDSC scopes each matter from Nashville and coordinates qualified local professionals where on-the-ground work is lawful and necessary.",
+  "intro": [
+    "Lebanon has a French-influenced civil law system, a public commercial register maintained under the Ministry of Justice, and a property register that third parties can query without proving a legal interest. Those are useful starting points for investigators. The environment is also demanding: register entries are primarily in Arabic and sometimes incomplete, capital figures are recorded in Lebanese lira that lost most of its value after 2019, and banking secrecy shaped financial transparency for decades. Parliament amended the banking secrecy law in April 2025 to widen access for banking supervisors, but that access belongs to regulators, not private parties. Investigative work therefore depends on careful use of public records, court filings and documented open sources.",
+    "Organisations commission investigative work involving Lebanon for reasons tied to its role as a trading, banking and diaspora hub. Typical matters include tracing assets and counterparties after the collapse of the banking sector, verifying Lebanese shareholders and signatories before transactions, supporting litigation or arbitration where a Lebanese party is involved, and reviewing intermediaries and agents in the Levant and Gulf. Families and businesses with property in Lebanon raise ownership and inheritance questions. Lenders, insurers and multinational companies also need reputational and integrity checks on politically exposed or sectarian-affiliated counterparties, and screening against sanctions designations that affect some Lebanese persons and entities."
+  ],
+  "population": {
+    "value": "5.85 million",
+    "year": "2025",
+    "source_url": "https://fred.stlouisfed.org/series/POPTOTLBA647NWDB"
+  },
+  "legal_system": "Lebanon is a civil law jurisdiction modelled on French law. The Code of Obligations and Contracts of 1932 is its core private-law code, while personal status matters such as marriage and inheritance fall to the separate laws and courts of each religious community. Commercial disputes are heard by first-instance courts sitting as single judges or three-judge panels, with appeal to the Courts of Appeal in each governorate and final review by the Court of Cassation. Arbitration is governed by the Code of Civil Procedure (Decree-Law 90/1983), and the Lebanese Arbitration and Mediation Centre of the Beirut and Mount Lebanon Chamber administers cases.",
+  "data_protection": {
+    "law": "Law No. 81 of 2018 on Electronic Transactions and Personal Data",
+    "regulator": "No independent data protection authority; the Ministry of Economy and Trade receives declarations and issues permits, with enforcement through the courts",
+    "summary": "Law 81/2018 requires personal data to be collected fairly for legitimate, specific and explicit purposes, and to be accurate and not excessive. Controllers must inform data subjects of the purpose, recipients and their rights. Processing generally requires a declaration to the Ministry of Economy and Trade, with exemptions including processing with prior consent and employer processing of employee data within legal limits. Data on security, criminal proceedings, health, genetic identity and sexual life requires a licence. The law does not address cross-border transfers specifically. Lebanon has no independent supervisory authority, so investigators should expect enforcement through prosecutors and the courts rather than an administrative regulator."
+  },
+  "investigator_regulation": "We have not identified a dedicated statute or licensing regime for private investigators or detective agencies in Lebanon. That absence does not mean investigative activity is unrestricted. Law 140 of 1999 protects the secrecy of communications and permits interception only by judicial or administrative order, so interception or recording of private communications by private parties is off-limits. The constitution protects the inviolability of the home, Law 81/2018 governs the handling of personal data, and bank account information remains protected except for the access granted to supervisory bodies under the 2025 amendment. TDSC scopes engagements with Lebanese counsel to confirm the permitted methods for each matter.",
+  "corporate_records": "The commercial register is maintained under the Ministry of Justice through registries attached to the courts of first instance. A register record typically shows the registration number, Arabic and often English trade name, legal form (SAL, SARL and others), capital in Lebanese lira, activities, status, and shareholders, founders, board members and authorised signatories, along with seizures and lawsuits noted against the company. Since 2019, beneficial owner identity must be disclosed on incorporation, following Laws 106 and 126 of 2018. Property certificates from the General Directorate of Land Registry and Cadastre show owners, shares and encumbrances and are available without proof of a legal interest.",
+  "anti_corruption": "Bribery, trading in influence and embezzlement are offences under the Criminal Code of 1943. Law 175 of 2020 on combating corruption in the public sector established the National Anti-Corruption Commission, and Law 189 of 2020 on financial disclosure and illicit enrichment replaced the 1999 illicit enrichment law. Law 83 of 2018 protects whistleblowers. Money laundering is addressed by Law 44 of 2015, which treats corruption offences as predicates; the Special Investigation Commission at Banque du Liban serves as the financial intelligence unit.",
+  "matters": [
+    {
+      "title": "Asset tracing after the banking crisis",
+      "text": "Locating assets held by Lebanese debtors, shareholders or former bank insiders through property certificates, commercial register entries and court records, and following assets moved abroad after 2019 through foreign registries in Cyprus, France, the Gulf and elsewhere, for use by counsel in recovery proceedings."
+    },
+    {
+      "title": "Counterparty and shareholder verification",
+      "text": "Confirming who owns and signs for a Lebanese SAL or SARL, reconciling Arabic and English names, checking declared beneficial owners against the register, and identifying seizures, lawsuits or liquidation notes before a transaction, distribution agreement or financing closes."
+    },
+    {
+      "title": "Litigation and arbitration support",
+      "text": "Assembling public-record and open-source evidence on Lebanese parties to disputes before Lebanese courts, the Lebanese Arbitration and Mediation Centre or foreign tribunals, including corporate histories, related-party links and enforcement prospects against assets located in Lebanon."
+    },
+    {
+      "title": "Diaspora property and inheritance questions",
+      "text": "Supporting families and their counsel abroad with property certificate research, identification of co-owners and encumbrances, and background on persons involved in contested estates, recognising that personal status and inheritance follow the rules of each religious community."
+    },
+    {
+      "title": "Integrity and sanctions exposure reviews",
+      "text": "Reviewing agents, distributors and partners for political exposure, adverse media in Arabic, French and English, and links to sanctioned persons or entities, so that lenders, insurers and multinational companies can document decisions under their own compliance programmes."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Arabic (official), with French and English widely used in business"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Beirut, UTC+2 (UTC+3 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday in most private businesses; some offices also open Saturday morning"
+    },
+    {
+      "label": "Currency",
+      "value": "Lebanese pound (LBP); US dollar widely used in commerce"
+    },
+    {
+      "label": "Courts language",
+      "value": "Arabic"
+    },
+    {
+      "label": "Register language",
+      "value": "Commercial register entries primarily in Arabic"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Beirut, Mount Lebanon (Baabda, Jounieh), Tripoli, Sidon"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-driven; family groups and personal networks matter in introductions"
+    }
+  ],
+  "tdsc_approach": "TDSC begins every Lebanon matter with a jurisdictional review of the objective, the parties and the lawful sources available. Core research relies on the commercial register, property certificates, court filings, official gazette notices and Arabic, French and English media, with name variants transliterated and reconciled. Because no dedicated licensing regime for investigators has been identified, the methods for any field work are confirmed with Lebanese counsel, and TDSC coordinates only qualified local professionals who work within Law 140/1999, Law 81/2018 and banking secrecy rules. TDSC does not seek bank records or other non-public data. Every matter is screened for sanctions exposure before acceptance, and personal data is minimised, held in the United States and reported only to the client and its counsel.",
+  "faqs": [
+    {
+      "q": "Can you obtain bank account information on a Lebanese party?",
+      "a": "No. The April 2025 amendment to the banking secrecy law widened access for banking supervisory bodies, not for private parties or investigators. Account information for litigation is a matter for the courts and counsel. TDSC focuses on lawful indicators of assets, such as property certificates, register entries showing pledges or seizures, court filings and documented foreign holdings."
+    },
+    {
+      "q": "How reliable is the Lebanese commercial register?",
+      "a": "It is a useful starting point. Records show shareholders, signatories, capital and noted lawsuits, and beneficial owner disclosure has been required since 2019. Entries are mainly in Arabic, formats vary, capital is stated in devalued lira, and directors are not listed for every company type. TDSC cross-checks register data against court filings, gazette notices and media before drawing conclusions."
+    },
+    {
+      "q": "Can property owned by a Lebanese party be identified?",
+      "a": "Property certificates from the General Directorate of Land Registry and Cadastre are publicly available and show owners, shares and encumbrances, but a request generally needs the property reference. Identifying holdings without that reference requires lawful indirect research through court records, register entries and open sources, coordinated where necessary with Lebanese counsel."
+    },
+    {
+      "q": "Are private investigators licensed in Lebanon?",
+      "a": "We have not identified a dedicated licensing statute for private investigators in Lebanon. Restrictions still apply through the communications secrecy law of 1999, the data protection law of 2018, the constitutional protection of the home and the criminal law. TDSC confirms the permitted scope of any local work with Lebanese counsel before it begins."
+    },
+    {
+      "q": "Does TDSC accept matters involving Lebanese politically exposed persons?",
+      "a": "Yes, where the purpose is lawful, such as due diligence, litigation support or compliance review. Each matter is screened for sanctions exposure, because certain Lebanese persons and entities are designated under US and other sanctions. Where a matter would breach applicable sanctions, TDSC declines it. Findings are reported factually and sourced."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Lebanon",
+      "url": "https://www.dlapiperdataprotection.com/?c=LB&t=law"
+    },
+    {
+      "title": "UN ESCWA Arab Legislation Portal: Law 175 of 2020 on Anti-Corruption",
+      "url": "https://alp.unescwa.org/legislations/law-175-2020-anti-corruption-public-sector-and-establishment-national-anti-corruption"
+    },
+    {
+      "title": "UN ESCWA Arab Legislation Portal: Law 189 of 2020 on Financial Disclosure and Illicit Enrichment",
+      "url": "https://alp.unescwa.org/legislations/law-189-2020-financial-disclosure-and-illicit-enrichment"
+    },
+    {
+      "title": "UN ESCWA Arab Legislation Portal: Law 44 of 2015 on Money Laundering",
+      "url": "https://alp.unescwa.org/legislations/law-44-2015-money-laundering-and-terrorist-financing"
+    },
+    {
+      "title": "Lex Mundi Global Anti-Corruption Compliance Guide: Lebanon",
+      "url": "https://www.lexmundi.com/guides/anti-corruption-compliance-guide/jurisdictions/middle-east/lebanon/"
+    },
+    {
+      "title": "GlobaLex: The Lebanese Legal System and Research",
+      "url": "https://www.nyulawglobal.org/globalex/Lebanon.html"
+    },
+    {
+      "title": "Global Arbitration Review: Lebanon (2026)",
+      "url": "https://globalarbitrationreview.com/review/the-middle-eastern-and-african-arbitration-review/2026/article/lebanon-modern-arbitration-friendly-hub-strengthening-legal-certainty-investors"
+    },
+    {
+      "title": "Privacy International: State of Privacy Lebanon",
+      "url": "https://privacyinternational.org/state-privacy/1081/state-privacy-lebanon"
+    },
+    {
+      "title": "Le Commerce du Levant: Mandatory declaration of beneficial owners",
+      "url": "https://www.lecommercedulevant.com/article/29388-the-implications-of-the-mandatory-declaration-of-companies-beneficial-owners"
+    },
+    {
+      "title": "Sayari: Lebanon Commercial Register",
+      "url": "https://learn.sayari.com/lebanon-commercial-register/"
+    },
+    {
+      "title": "Legalmondo: Real estate and land register information in Lebanon",
+      "url": "https://www.legalmondo.com/?p=32345"
+    },
+    {
+      "title": "The New Arab: Lebanon amends banking secrecy law",
+      "url": "https://www.newarab.com/news/lebanon-amends-banking-secrecy-law-key-reform?amp"
+    }
+  ],
+  "review_flags": [
+    "No dedicated private investigator licensing law identified for Lebanon; confirm with Lebanese counsel.",
+    "Special Investigation Commission described as FIU from general knowledge; not confirmed in an opened source.",
+    "Banking secrecy reform (April 2025) and related bank restructuring legislation still evolving.",
+    "DLA Piper Lebanon entry last reviewed 2022; check for any data protection amendments.",
+    "Working week and currency practicals are general knowledge, not sourced."
+  ],
+  "researched": "2026-11-04"
+}

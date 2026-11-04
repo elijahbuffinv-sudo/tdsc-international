@@ -1,0 +1,139 @@
+{
+  "cc": "GQ",
+  "name": "Equatorial Guinea",
+  "meta_description": "Investigative consulting for matters touching Equatorial Guinea: oil and gas counterparties, PEP exposure, OHADA corporate records and asset tracing, from Nashville.",
+  "eyebrow": "Republic of Equatorial Guinea",
+  "hero_lede": "Matters touching Equatorial Guinea usually involve the oil and gas sector, state-linked counterparties and politically exposed persons. Investigative consulting here works within a Spanish-derived civil law system under OHADA business law, where records are hard to obtain, so documentary and international sources carry most of the weight.",
+  "intro": [
+    "Equatorial Guinea is a small Central African state of about 1.9 million people. Its territory includes the island of Bioko, home to the capital Malabo, and the mainland region of Río Muni, centred on Bata. Its legal system descends from Spanish civil law. It is a member of OHADA, so the OHADA Uniform Acts govern company law, security interests and arbitration, and of CEMAC, which uses the Central African CFA franc. Spanish, French and Portuguese are official languages. Public records are limited and largely paper-based, and access to government information is restricted. Investigative work therefore relies heavily on documents gathered outside the country and on carefully scoped local retrieval.",
+    "Organisations commission work involving Equatorial Guinea mainly because of its hydrocarbons sector. Offshore oil and liquefied natural gas have dominated the economy and state revenue since the 1990s, though production has been declining. International operators, service companies, traders and lenders need to understand local partners, subcontractors and agents, many of which have links to officials. Authorities in the United States, France, Switzerland and Brazil have taken asset-recovery or criminal action against the Vice President, which makes politically exposed person screening and source-of-funds analysis central to compliance. Other needs include assessing counterparties on infrastructure contracts, reviewing commercial disputes and tracing assets held abroad."
+  ],
+  "population": {
+    "value": "1.9 million",
+    "year": "2025",
+    "source_url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GQ"
+  },
+  "legal_system": "Equatorial Guinea's penal code and judicial system remain largely based on the Spanish colonial model. As an OHADA member, the country applies the OHADA Uniform Acts on matters such as commercial companies, insolvency and accounting. Commercial cases go through the same courts as civil cases, and judges are appointed by the executive and can be removed by it. The country has no domestic arbitration and mediation centre. Investors can choose international arbitration in a neutral venue, or the OHADA Common Court of Justice and Arbitration (CCJA) in Abidjan, which also hears certain appeals on matters governed by the Uniform Acts.",
+  "data_protection": {
+    "law": "Personal Data Protection Law No. 1/2016 (22 July 2016)",
+    "regulator": "Governing Data Protection Body, acting through its Technical Secretariat, with a General Data Protection Registry",
+    "summary": "Law No. 1/2016 provides a framework for personal data protection, including registration of personal data files with a General Data Protection Registry under the Technical Secretariat of the governing data protection body. We have not been able to assess how actively the law is applied or enforced. In practice, investigative work involving Equatorial Guinean personal data should meet both the law and the client's home-jurisdiction rules, such as the GDPR, with strict data minimisation and documented purposes. Collecting personal data locally is sensitive in this political environment and should be kept to what the engagement strictly needs."
+  },
+  "investigator_regulation": "We have not identified a licensing regime for private investigators in Equatorial Guinea, and we would not assume that independent investigative activity is permitted. Government, banking, immigration and security records are not available for private inquiry. Photography near official sites, approaches to officials, and visible questioning about political figures carry serious personal and legal risk. Engagements are therefore weighted toward documentary research outside the country, with any local record retrieval carried out through counsel and qualified professionals after a careful review of security and legal conditions.",
+  "corporate_records": "Companies are formed through the Single Business Window (VUE) in Malabo and Bata, which requires in-person visits and works inconsistently. Different government agencies keep separate registries, so even the number of operating businesses is uncertain, and tax identification numbers were made mandatory to help track companies. Under OHADA, companies should also be entered in the Trade and Personal Property Credit Register (RCCM). We have not identified a public online company search or a beneficial ownership register. Extracts are generally obtained through local counsel, and ownership research relies heavily on records in other jurisdictions.",
+  "anti_corruption": "Corruption has been a constitutional offence since 2012, and Equatorial Guinea has ratified the UN Convention against Corruption and the African Union anti-corruption convention. An anti-corruption prosecutor's office exists. However, as of 2024, the National Committee on the Prevention and Fight Against Corruption, created by Law No. 1/2020, was not fully established, and the Commission on Ethics was not operational. Enforcement is weak. The most significant enforcement concerning Equatorial Guinea has occurred abroad, including the 2014 US civil forfeiture settlement, the 2017 French conviction of the Vice President, upheld in 2021, and proceedings in Switzerland and Brazil.",
+  "matters": [
+    {
+      "title": "Oil and gas local partners",
+      "text": "Ownership, political connections and track record of local partners, subcontractors and agents used by operators and oilfield service companies. Local content requirements and close state involvement create bribery and conflict of interest risks that buyers and lenders must document."
+    },
+    {
+      "title": "PEP and source-of-funds review",
+      "text": "Identifying politically exposed persons and their associates, and examining source of wealth where people or companies linked to Equatorial Guinea seek banking, real estate or luxury asset transactions abroad. This is informed by the US, French, Swiss and Brazilian proceedings against the Vice President."
+    },
+    {
+      "title": "Infrastructure contract counterparties",
+      "text": "Background research on construction, engineering and supply companies involved in public infrastructure such as roads, ports, airports and the planned administrative capital at Ciudad de la Paz, including corporate history, payment disputes and links to public officials."
+    },
+    {
+      "title": "Asset tracing abroad",
+      "text": "Tracing companies, property and accounts held outside the country by Equatorial Guinean counterparties, using foreign registries, litigation and published enforcement decisions to support recovery or enforcement of contractual claims and arbitral awards."
+    },
+    {
+      "title": "Dispute fact-finding",
+      "text": "Assembling documentary chronologies and counterparty information for commercial and arbitral disputes arising from hydrocarbons, construction and supply contracts, where local evidence is difficult to obtain and much relevant material sits with international parties."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Spanish (also the required language of arbitration for investors)"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Malabo, UTC+1, no daylight saving"
+    },
+    {
+      "label": "Currency",
+      "value": "Central African CFA franc (XAF), pegged to the euro"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Malabo (Bioko); Bata (Río Muni)"
+    },
+    {
+      "label": "Courts language",
+      "value": "Spanish"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Notarised and legalised documents with Spanish translation; confirm with counsel"
+    },
+    {
+      "label": "Operating environment",
+      "value": "Restricted information environment; travel and entry require advance planning"
+    }
+  ],
+  "tdsc_approach": "TDSC handles Equatorial Guinea matters from Nashville and treats them as high-sensitivity engagements. Our jurisdictional review sets out what can be answered without local activity: international corporate registries, foreign court and enforcement records, company and project disclosures, sanctions and PEP sources, and Spanish, French and English media. Where RCCM extracts or other local documents are essential, we obtain them through the client's local counsel or qualified local professionals, after considering the security and legal risks. We do not conduct surveillance, approach officials, or seek government, banking or immigration records. Personal data is limited to the stated compliance or legal purpose and handled under documented retention rules in our US systems.",
+  "faqs": [
+    {
+      "q": "Can we obtain corporate records for an Equatorial Guinean company?",
+      "a": "Records are fragmented. Companies are formed through the Single Business Window in Malabo or Bata, different agencies keep separate registries, and OHADA requires entry in the Trade and Personal Property Credit Register (RCCM). Extracts are generally obtained through local counsel. We combine whatever local documents can be lawfully obtained with filings and litigation involving the same parties in other jurisdictions."
+    },
+    {
+      "q": "Why is politically exposed person screening so central here?",
+      "a": "Economic activity, especially in hydrocarbons and public works, is closely tied to the state, and foreign courts and authorities have pursued assets of senior officials. Lenders, banks and acquirers therefore need documented PEP identification and source-of-wealth analysis. We build this from public, foreign and published judicial sources."
+    },
+    {
+      "q": "Does OHADA law help with disputes involving Equatorial Guinea?",
+      "a": "OHADA's Uniform Acts provide harmonised rules on companies, insolvency and accounting, and the Common Court of Justice and Arbitration in Abidjan is available for arbitration and certain appeals. Equatorial Guinea has no domestic arbitration centre, and the reliability of local courts is limited. Whether a particular route is effective is a question for counsel. We supply factual research on counterparties and assets."
+    },
+    {
+      "q": "Can you carry out on-the-ground inquiries in Malabo or Bata?",
+      "a": "Only in a limited way, and only when necessary. We have not identified a licensing framework for private investigators, and the environment is restrictive. Any local work is confined to lawful document retrieval through counsel or qualified professionals, with a prior security and legal review. We do not undertake surveillance or discreet questioning about officials."
+    },
+    {
+      "q": "What sources are most useful for Equatorial Guinea research?",
+      "a": "Usually sources from outside the country: corporate and property registries where counterparties hold assets, foreign litigation and enforcement records, project and financing disclosures, sanctions and PEP references, and reporting in Spanish, French and English. Local documents complement these where they can be obtained lawfully."
+    }
+  ],
+  "sources": [
+    {
+      "title": "World Bank: Population, total (Equatorial Guinea)",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GQ"
+    },
+    {
+      "title": "US Department of State: 2024 Investment Climate Statement, Equatorial Guinea",
+      "url": "https://www.state.gov/reports/2024-investment-climate-statements/equatorial-guinea/"
+    },
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Equatorial Guinea",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=GQ"
+    },
+    {
+      "title": "US Department of Justice: Second Vice President of Equatorial Guinea agrees to relinquish more than $30 million of assets (2014)",
+      "url": "https://www.justice.gov/opa/pr/second-vice-president-equatorial-guinea-agrees-relinquish-more-30-million-assets-purchased"
+    },
+    {
+      "title": "Wikipedia: Teodoro Nguema Obiang Mangue",
+      "url": "https://en.wikipedia.org/wiki/Teodoro_Nguema_Obiang_Mangue"
+    },
+    {
+      "title": "Human Rights Watch: France: Equatorial Guinea Vice President's Conviction Upheld (2021)",
+      "url": "https://www.hrw.org/news/2021/07/28/france-equatorial-guinea-vice-presidents-conviction-upheld"
+    }
+  ],
+  "review_flags": [
+    "Official languages (Spanish, French, Portuguese) mentioned in intro from general knowledge; confirm.",
+    "RCCM obligation is from general OHADA knowledge; local operation unverified.",
+    "CEMAC AML framework / ANIF not mentioned for lack of a verified source; consider adding if confirmed.",
+    "No PI licensing regime identified; not confirmed by an official source.",
+    "Ciudad de la Paz reference (matters) is from general knowledge; confirm or remove.",
+    "Data protection law 1/2016 confirmed via DLA Piper; enforcement status unknown."
+  ],
+  "researched": "2026-11-04"
+}

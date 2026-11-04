@@ -1,0 +1,140 @@
+{
+  "cc": "LY",
+  "name": "Libya",
+  "meta_description": "Investigative consulting for matters touching Libya: agent and partner due diligence, sanctions-aware risk advisory, asset tracing and arbitration support.",
+  "eyebrow": "State of Libya",
+  "hero_lede": "Investigative consulting for matters touching Libya means working with divided institutions, Arabic-language records that are hard to reach, and counterparties whose authority can depend on which part of the country they operate in. TDSC scopes each matter from Nashville with sanctions screening, lawful sources and remote research first.",
+  "intro": [
+    "Libya's legal framework rests on civil codes from the 1950s influenced by Egyptian, Italian and French law, amended in the 1970s to conform to Islamic principles. The 2011 Constitutional Declaration remains the interim constitution and names Sharia as the principal source of legislation. Institutions have been divided since 2014. The Government of National Unity in Tripoli, in office since 2021, has limited reach outside the northwest, while the Libyan National Army holds de facto control in the east and south. The central bank announced reunification in 2023 but remains divided in practice. Records are paper-based, company registration requires an agent, and the reliability of documents depends on which authority issued them.",
+    "Organisations commission investigative work involving Libya mainly because of energy, infrastructure and reconstruction. Oil and gas contracts, oilfield services, power, construction and port projects attract foreign companies that must rely on Libyan agents, partners and joint ventures, often under foreign-ownership limits. Typical exposures include agents with undisclosed links to officials or armed groups, competing claims of authority to sign contracts, unpaid receivables from public entities, and assets moved abroad. Lenders, insurers and arbitration counsel need reliable background on Libyan parties, and compliance teams must check counterparties against US and UN Libya-related designations before proceeding."
+  ],
+  "population": {
+    "value": "7.46 million",
+    "year": "2025",
+    "source_url": "https://fred.stlouisfed.org/series/POPTOTLYA647NWDB"
+  },
+  "legal_system": "Libya has a civil law system combined with Islamic law. The Civil Code (1953-1954), Commercial Code (1953) and Code of Civil and Commercial Procedure (1953) remain the core texts, amended in 1972 to align with Sharia. Courts sit at three levels: courts of first instance, courts of appeal in Tripoli, Benghazi and Sabha, and the Supreme Court, whose chambers include civil and commercial, administrative, constitutional and Sharia. There is no modern arbitration statute in force; foreign parties commonly choose ICC arbitration seated abroad, and enforcement of foreign awards in Libyan courts is slow.",
+  "data_protection": {
+    "law": "No comprehensive data protection law; Law No. 6 of 2022 on Electronic Transactions (Articles 73-79) and Law No. 5 of 2022 on Combating Cybercrime",
+    "regulator": "No data protection authority; the National Information Security and Safety Authority (NISSA) issues policies binding on state entities",
+    "summary": "Libya has no dedicated data protection statute. The 2022 Electronic Transactions Law requires notice before processing personal data in electronic transactions, gives access and correction rights against authentication service providers, and prohibits processing that a person explicitly refuses or that harms their rights, with imprisonment and fines for breaches. For transfers abroad, Article 78 requires due consideration of an appropriate level of protection in the recipient country. The 2011 Constitutional Declaration protects private life and correspondence, and the Penal Code protects correspondence and homes, so investigative work must avoid any intrusion into communications or premises."
+  },
+  "investigator_regulation": "We have not identified a licensing regime for private investigators in Libya in the sources available to us, and with institutions divided it is unlikely that any such regime is consistently applied. Engagements are scoped with Libyan counsel before any local inquiries are considered. Limits apply regardless: the 2011 Constitutional Declaration protects the confidentiality of correspondence and calls except under judicial warrant, the Penal Code protects correspondence and homes, and the 2022 cybercrime and electronic transactions laws carry criminal penalties. Security conditions also restrict field work. TDSC relies primarily on remote research and does not undertake interception, covert recording or pretexting.",
+  "corporate_records": "Company registration is handled by the Ministry of Economy and Trade through the Commercial Register, with separate registration at the Chamber of Commerce, tax and labour authorities, and must be completed by a specialised agent; online registration is not available. We have not identified a publicly searchable online company registry or a public beneficial ownership register. Commercial Register certificates can generally be obtained through local agents or counsel, but issuing offices may differ between east and west. Foreign investors cannot own land under the Investment Law, and property record access is not well documented.",
+  "anti_corruption": "Corruption offences are addressed by the Penal Code and specific legislation, and Libya has ratified the UN Convention against Corruption. The Libyan Audit Bureau is the highest financial oversight authority, and a National Anti-Corruption Commission exists alongside administrative control bodies. Libya has no asset disclosure law for officials, and enforcement is weak. Anti-money laundering legislation and a financial information unit at the Central Bank of Libya exist, but we have not verified their current statutory references for this page.",
+  "matters": [
+    {
+      "title": "Agent and joint venture due diligence",
+      "text": "Verifying the ownership, affiliations and track record of Libyan agents, distributors and joint venture partners required under foreign-ownership limits, including links to officials, armed groups or designated persons, before energy, construction or services contracts are signed or renewed."
+    },
+    {
+      "title": "Authority to contract checks",
+      "text": "Establishing whether a Libyan public entity, ministry or state company counterparty is recognised by the relevant authority, who holds signing power, and whether competing administrations in Tripoli and the east have issued conflicting decisions affecting the contract or payment obligations."
+    },
+    {
+      "title": "Receivables and asset tracing",
+      "text": "Tracing assets connected to Libyan debtors, contractors and former officials outside Libya, particularly in Malta, Tunisia, Türkiye, the UAE and Europe, through foreign registries, court records and open sources, to support arbitration award enforcement and recovery by counsel."
+    },
+    {
+      "title": "Arbitration and litigation support",
+      "text": "Assembling sourced background on Libyan parties to ICC and other arbitrations, including corporate histories, related-party links, public statements and evidence of control, so counsel can assess claims, witnesses and enforcement prospects in a jurisdiction where local enforcement is slow."
+    },
+    {
+      "title": "Sanctions-aware risk advisory",
+      "text": "Screening counterparties, vessels and intermediaries against US and UN Libya-related designations and broader sanctions lists, and mapping indirect exposure through ownership chains, so compliance teams can document decisions on oil trading, shipping, banking and supply relationships."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Arabic; English and Italian used in some commercial settings"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Tripoli, UTC+2, no daylight saving"
+    },
+    {
+      "label": "Working week",
+      "value": "Sunday to Thursday"
+    },
+    {
+      "label": "Currency",
+      "value": "Libyan dinar (LYD)"
+    },
+    {
+      "label": "Courts language",
+      "value": "Arabic; foreign documents need certified Arabic translation"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Tripoli, Benghazi, Misrata"
+    },
+    {
+      "label": "Registration",
+      "value": "Ministry of Economy and Trade via specialised agent; no online registration"
+    },
+    {
+      "label": "Business culture",
+      "value": "Trust built through personal and tribal networks; verify who has authority to commit"
+    }
+  ],
+  "tdsc_approach": "Every Libya matter begins with sanctions screening of the parties, vessels and ownership chains, because the US maintains a list-based Libya sanctions programme and the UN maintains related measures. TDSC, as a US company, does not accept engagements that would breach US or other applicable sanctions. Research is then conducted remotely wherever possible, using Arabic and English media, official announcements from the competing authorities, foreign corporate and court records, and registry certificates obtained through Libyan counsel. Because security conditions and divided institutions affect reliability, TDSC grades each source and states which authority issued each record. Field inquiries in Libya are considered only where lawful and safe, through qualified local professionals agreed with counsel.",
+  "faqs": [
+    {
+      "q": "Can TDSC take on matters involving Libya given US sanctions?",
+      "a": "Yes, where the matter complies with sanctions. The US Libya programme is list-based rather than a comprehensive embargo, so lawful business with non-designated Libyan parties is possible. TDSC screens every party and ownership chain before accepting a matter and declines engagements that would breach US, UN or other applicable sanctions."
+    },
+    {
+      "q": "How do you deal with two competing administrations?",
+      "a": "TDSC identifies which authority issued each document, appointment or decision, and checks for conflicting acts by the Tripoli-based government and authorities in the east. Reports state plainly where recognition of an official or entity is disputed, so clients and counsel can assess the risk to contracts, payments and enforcement."
+    },
+    {
+      "q": "Can we obtain a Libyan company's registration documents?",
+      "a": "Commercial Register certificates can usually be obtained through a Libyan agent or counsel, though there is no public online registry and offices may differ by region. TDSC arranges this through local professionals where needed and corroborates the documents against Chamber of Commerce records, media and foreign filings."
+    },
+    {
+      "q": "Is there a data protection law that limits background checks?",
+      "a": "Libya has no comprehensive data protection law, but the 2022 Electronic Transactions Law sets notice and objection rules, and the Constitutional Declaration and Penal Code protect correspondence and homes. TDSC limits research to lawful public and commercial sources and applies purpose limitation, minimisation and secure US storage."
+    },
+    {
+      "q": "Will TDSC send investigators into Libya?",
+      "a": "Only rarely. Security conditions and divided institutions make field work high-risk, and most questions can be answered through remote research. Where on-the-ground inquiries are lawful, necessary and safe, TDSC coordinates qualified local professionals under methods agreed in advance with the client and Libyan counsel."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Libya",
+      "url": "https://www.dlapiperdataprotection.com/?c=LY&t=law"
+    },
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Libya authority",
+      "url": "https://www.dlapiperdataprotection.com/?c=LY&t=authority"
+    },
+    {
+      "title": "US Department of State: 2024 Investment Climate Statements, Libya",
+      "url": "https://www.state.gov/reports/2024-investment-climate-statements/libya/"
+    },
+    {
+      "title": "GlobaLex: Libyan legal system",
+      "url": "https://www.nyulawglobal.org/globalex/Libya.html"
+    },
+    {
+      "title": "OFAC: Libya Sanctions",
+      "url": "https://ofac.treasury.gov/sanctions-programs-and-country-information/libya-sanctions"
+    },
+    {
+      "title": "FRED / World Bank: Population, Total for Libya",
+      "url": "https://fred.stlouisfed.org/series/POPTOTLYA647NWDB"
+    }
+  ],
+  "review_flags": [
+    "Web search budget was exhausted; several Libyan official and MENAFATF pages could not be fetched.",
+    "AML law (believed to be Law No. 2 of 2005) and FIU statutory reference not verified; text kept general.",
+    "National Anti-Corruption Commission establishing law (believed Law No. 11 of 2014) not verified; mentioned without citation.",
+    "Libya-related sanctions are mentioned per the brief's sanctioned-jurisdiction guidance; the US programme is list-based, so treatment is lighter than for comprehensive embargoes. Central sanctions team should confirm wording.",
+    "Political division and central bank status change frequently; review before publication.",
+    "Working week (Sunday-Thursday), currency, languages and business centres are general knowledge, not sourced.",
+    "No private investigator licensing regime identified."
+  ],
+  "researched": "2026-11-04"
+}

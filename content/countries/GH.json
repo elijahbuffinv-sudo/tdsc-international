@@ -1,0 +1,66 @@
+{
+  "cc": "GH",
+  "name": "Ghana",
+  "meta_description": "Investigative consulting for matters touching Ghana: counterparty due diligence in gold, cocoa and energy, Companies Act 2019 records and Act 843 data handling.",
+  "eyebrow": "Republic of Ghana",
+  "hero_lede": "Matters involving Ghana often turn on who really stands behind a mining licence, a cocoa trading house or an Accra holding company. TDSC scopes due diligence, integrity and asset research from Nashville, coordinating qualified Ghanaian professionals and counsel where work on the ground is required.",
+  "intro": [
+    "Ghana is a constitutional democracy whose legal system combines English common law and equity with statute and customary law, under the 1992 Constitution. Its corporate framework was modernised by the Companies Act, 2019 (Act 992), administered by the Office of the Registrar of Companies, and the Act requires companies to record and file beneficial ownership particulars. Personal data is governed by the Data Protection Act, 2012 (Act 843), which requires data controllers to register with the Data Protection Commission. Investigative work in Ghana is shaped by the gap between formal records in Accra and the practical realities of land tenure, family enterprises and regional commerce, so registry research is typically paired with discreet, locally informed inquiry.",
+    "Organisations commission work touching Ghana because of its weight in gold, cocoa and offshore oil, and because Accra and Tema serve as gateways to wider West African markets. Gold is the country's largest export, followed by cocoa and crude oil from the Jubilee, TEN and OCTP fields. Typical exposures include mining joint ventures and concession ownership, commodity trading counterparties and pre-shipment fraud, government contracting and procurement risk, local content arrangements in the energy sector, and the recovery of funds from failed commercial relationships. Foreign investors, lenders and buyers commonly need to verify the identity, ownership and reputation of Ghanaian partners before committing capital or extending credit."
+  ],
+  "population": {"value": "34.4 million (projection)", "year": "2026", "source_url": "https://statsghana.gov.gh/"},
+  "legal_system": "Ghana has a common-law system. Under Article 11 of the 1992 Constitution, the laws of Ghana comprise the Constitution, Acts of Parliament, subsidiary legislation, existing law and the common law, which includes English common law and equity as received in Ghana together with customary law. The superior courts are the Supreme Court, the Court of Appeal, the High Court and Regional Tribunals. Commercial disputes are commonly heard by the Commercial Division of the High Court, established in 2005, with lower-value claims before Circuit Courts.",
+  "data_protection": {
+    "law": "Data Protection Act, 2012 (Act 843)",
+    "regulator": "Data Protection Commission",
+    "summary": "Act 843 applies to the processing of personal data in Ghana and requires data controllers to register with the Data Protection Commission; controllers not incorporated in Ghana register as external companies, and registration is renewed every two years. The Commission maintains a public register of controllers. The Act prohibits knowingly obtaining, disclosing or selling personal data without authority, which bears directly on how information about individuals is sourced. It contains no detailed cross-border transfer regime, but where foreign data subjects' data is processed in Ghana, the controller must comply with the law of the subject's home jurisdiction. Investigative work involving individuals should be scoped with Ghanaian counsel."
+  },
+  "investigator_regulation": "We have not identified, from sources verified for this page, a dedicated statutory licensing regime specific to private investigators in Ghana. Private security activity is regulated, and some firms offering investigative services operate within that framework, but the precise requirements applicable to investigative work have not been confirmed here. Investigators have no special powers: access to police, tax, telecommunications or banking records is restricted to authorised bodies, and obtaining or disclosing personal data without authority is an offence under Act 843. TDSC therefore scopes each engagement with Ghanaian counsel and works only with appropriately registered local professionals.",
+  "corporate_records": "Companies are incorporated and registered with the Office of the Registrar of Companies under the Companies Act, 2019 (Act 992). The Act requires companies to keep a register of beneficial owners and file those particulars with the Registrar, and a company's register of members and index of beneficial owners may be inspected by non-members for a prescribed fee. A central beneficial ownership register has operated since 2020, though structured data is not published openly; the Ghana EITI publishes beneficial ownership information for the extractive sector. Land records are held by the Lands Commission, but customary and family land interests can make title research complex.",
+  "anti_corruption": "Public-sector corruption offences are prosecuted under the Criminal Offences Act and specialised statutes. The Office of the Special Prosecutor Act, 2017 (Act 959) created the Office of the Special Prosecutor to investigate and prosecute corruption and recover its proceeds. The Economic and Organised Crime Office, established under Act 804 of 2010, investigates serious economic crime and money laundering. The Commission on Human Rights and Administrative Justice also investigates corruption. The Anti-Money Laundering Act, 2020 (Act 1044) governs AML obligations, with the Financial Intelligence Centre receiving and analysing reports.",
+  "matters": [
+    {"title": "Mining and concession ownership", "text": "Research into the holders of mining leases and small-scale licences, their shareholders and politically exposed connections, and the history of disputes with communities or regulators, supporting investors and offtakers in Ghana's gold sector, including the artisanal and galamsey-affected segments."},
+    {"title": "Cocoa and commodity counterparties", "text": "Verification of licensed buying companies, exporters and traders, including their corporate identity, trading track record and any history of default or contract disputes, for buyers, financiers and insurers exposed to Ghanaian cocoa, cashew or shea trade."},
+    {"title": "Energy sector partner vetting", "text": "Background research on local content partners, service companies and intermediaries in Ghana's upstream oil and gas sector, examining ownership, affiliations with officials and reputation before contracts or joint ventures are concluded."},
+    {"title": "Procurement and agent integrity", "text": "Integrity due diligence on agents, consultants and contractors engaged on public tenders, mapping ownership and relationships to identify conflicts of interest or bribery risk relevant to Ghanaian and foreign anti-corruption laws."},
+    {"title": "Asset tracing and recovery support", "text": "Identification of corporate holdings, vehicles, property indicators and business interests of a Ghanaian debtor or counterparty, coordinated with local counsel so that enforcement proceeds through the Commercial Division and other lawful channels."}
+  ],
+  "practical": [
+    {"label": "Business language", "value": "English (official); Akan languages widely spoken"},
+    {"label": "Time zone", "value": "Africa/Accra, UTC+0, no daylight saving time"},
+    {"label": "Working week", "value": "Monday to Friday"},
+    {"label": "Courts language", "value": "English"},
+    {"label": "Currency", "value": "Ghana cedi (GHS)"},
+    {"label": "Main business centres", "value": "Accra, Tema, Kumasi, Sekondi-Takoradi"},
+    {"label": "Business culture", "value": "Relationship-based and courteous; introductions and personal trust carry weight"}
+  ],
+  "tdsc_approach": "TDSC opens each Ghana matter by establishing the purpose, the parties and the legal context, including whether personal data will be processed in Ghana and how findings may be used in Ghanaian or foreign proceedings. Desk research draws on the Office of the Registrar of Companies, Ghana EITI disclosures, court reporting, the Ghana Gazette and Ghanaian press. Where field inquiries, document retrieval from regional offices or land research are needed, TDSC coordinates qualified local professionals and works alongside the client's Ghanaian counsel, who advises on legal questions. TDSC does not seek police, tax, telecommunications or bank data through informal routes. Personal data is minimised, and reports separate verified records from reputational information so clients can weigh each appropriately.",
+  "faqs": [
+    {"q": "Can beneficial ownership of a Ghanaian company be confirmed?", "a": "Often in part. The Companies Act, 2019 requires companies to record beneficial owners and file them with the Registrar, and a company's index of beneficial owners can be inspected for a fee. For extractive companies, Ghana EITI disclosures add a further source. Records are then tested against press, litigation and field inquiries, since filings may be incomplete."},
+    {"q": "How reliable is land title research in Ghana?", "a": "It requires care. Much land is held under customary or family tenure, and records at the Lands Commission may not reflect every competing claim. Research therefore combines registry searches with inquiry into the relevant stool, skin or family interests and any pending litigation, conducted through local professionals and counsel."},
+    {"q": "Does processing personal data about Ghanaian individuals raise legal issues?", "a": "Yes. The Data Protection Act, 2012 (Act 843) governs processing in Ghana, requires controllers to register with the Data Protection Commission and makes it an offence to obtain or disclose personal data without authority. We scope what data is necessary, rely on lawful public and consented sources and agree handling terms with counsel."},
+    {"q": "What risks are common when buying gold from Ghana?", "a": "Recurring concerns include sellers who cannot evidence a licensed source, mixing of artisanal or illegally mined gold with licensed output, advance-fee schemes involving purported export documents, and counterparties without a verifiable corporate history. Verification of licences, ownership and trading track record before payment is the most effective safeguard."},
+    {"q": "Which authorities handle corruption complaints in Ghana?", "a": "Several bodies have roles: the Office of the Special Prosecutor for specified corruption offences, the Economic and Organised Crime Office for serious economic crime and money laundering, the Commission on Human Rights and Administrative Justice, and the police and Attorney-General. Whether and how to report is a decision for the client with Ghanaian counsel."}
+  ],
+  "sources": [
+    {"title": "Ghana Statistical Service", "url": "https://statsghana.gov.gh/"},
+    {"title": "DLA Piper Data Protection Laws of the World: Ghana", "url": "https://www.dlapiperdataprotection.com/?c=GH&t=law"},
+    {"title": "Companies Act, 2019 (Act 992), GhaLII", "url": "https://ghalii.org/akn/gh/act/2019/992/eng@2019-08-02"},
+    {"title": "Office of the Registrar of Companies", "url": "https://orc.gov.gh/"},
+    {"title": "Open Ownership: Ghana", "url": "https://openownership.org/en/map/country/ghana/"},
+    {"title": "GlobaLex: Ghana legal system research", "url": "https://www.nyulawglobal.org/globalex/Ghana1.html"},
+    {"title": "Financial Intelligence Centre, Ghana", "url": "https://fic.gov.gh/"},
+    {"title": "Economic and Organised Crime Office (overview)", "url": "https://en.wikipedia.org/wiki/Economic_and_Organised_Crime_Office"},
+    {"title": "Corruption in Ghana (overview of institutions and laws)", "url": "https://en.wikipedia.org/wiki/Corruption_in_Ghana"},
+    {"title": "Economy of Ghana (overview)", "url": "https://en.wikipedia.org/wiki/Economy_of_Ghana"}
+  ],
+  "review_flags": [
+    "Private investigator licensing in Ghana NOT verified (search budget exhausted); text states this honestly. Check whether investigators fall under private security organisation regulation by the Ministry of the Interior/Ghana Police.",
+    "Population is a GSS projection for 2026, not a census count.",
+    "Ghana Data Protection Commission website could not be fetched; registration details rely on DLA Piper.",
+    "Ghana has a pending/possible new data protection or cybersecurity-related reforms; verify Act 843 remains the principal law.",
+    "Some anti-corruption details (OSP, EOCO, CHRAJ) sourced from Wikipedia overviews; official OSP site was not accessible. Criminal Offences Act, 1960 (Act 29) is referenced generically without year in text.",
+    "Beneficial ownership register status (central register since 2020, ECOWAS deadline 1 January 2027) from Open Ownership; public access may change."
+  ],
+  "researched": "2026-11-04"
+}

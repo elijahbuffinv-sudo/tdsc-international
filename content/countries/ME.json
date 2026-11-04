@@ -1,0 +1,134 @@
+{
+  "cc": "ME",
+  "name": "Montenegro",
+  "meta_description": "Investigative consulting for Montenegro matters: CRPS company records, coastal real estate diligence, data transfer approvals and anti-corruption bodies.",
+  "eyebrow": "Montenegro",
+  "hero_lede": "Investigative consulting for matters touching Montenegro often involves coastal real estate and tourism investments, the ownership of counterparties in a small and interconnected market, and data rules that require approval for many transfers abroad. TDSC scopes this work from Nashville and coordinates licensed local professionals where needed.",
+  "intro": [
+    "Montenegro is an EU candidate country that opened accession negotiations in 2012 and has opened all 33 negotiating chapters. Its legal system follows the civil law tradition of the former Yugoslav states, and a single Commercial Court in Podgorica hears disputes between legal entities, insolvency, company registration and competition matters. Companies are registered with the Central Register of Business Entities (CRPS), which maintains an electronic database, while a dedicated register of ultimate beneficial owners has been in development. Personal data is governed by a 2008 law, last amended in 2024, under which transfers to countries outside the EU, EEA and EU-adequate jurisdictions generally need regulator approval. These features shape what can be researched and how findings may be shared.",
+    "Organisations commission work involving Montenegro because tourism is central to its economy, officially around a quarter of GDP, and because coastal real estate, marinas and resort developments have attracted substantial foreign investment, with Russian and British buyers prominent since the coastal property boom of the mid-2000s. Energy, infrastructure and banking also draw international capital, and the economy uses the euro. Typical needs include due diligence on developers and their backers, ownership mapping of property-holding companies, reputational checks on politically connected principals, and support in disputes over construction, joint ventures and property. Matters frequently extend into Serbia, Croatia, Bosnia and Herzegovina and offshore jurisdictions where related companies are registered."
+  ],
+  "population": {
+    "value": "623,525",
+    "year": "2024",
+    "source_url": "https://api.worldbank.org/v2/country/MNE/indicator/SP.POP.TOTL?format=json&date=2024"
+  },
+  "legal_system": "Montenegro has a civil law system in the continental European tradition, with codified civil, commercial and procedural law shaped by its Yugoslav-era heritage and by ongoing harmonisation with EU law. Commercial disputes between legal entities, insolvency, company registration, competition and intellectual property matters are heard by the single Commercial Court in Podgorica, with appeals to the Appellate Court and final review by the Supreme Court. Parties may agree to international arbitration, and Montenegro ratified the ICSID Convention in 2012. We have not verified the current status of a domestic arbitration institution.",
+  "data_protection": {
+    "law": "Law on Protection of Personal Data (2008, last amended 2024)",
+    "regulator": "Agency for Protection of Personal Data and Free Access to Information",
+    "summary": "Montenegro's Law on Protection of Personal Data, enacted in 2008 and most recently amended in July 2024, requires a lawful basis, proportionality and security for processing, and a new GDPR-aligned law is expected but without a confirmed timetable. For investigative work, the most significant rule concerns transfers: personal data may be sent to a country with adequate protection only with the Agency's approval, unless the data goes to the EU, EEA or an EU-adequate country, or the data subject consents after being informed of the consequences. Transfers to the United States therefore need careful planning, and collection of personal data in Montenegro should be minimised."
+  },
+  "investigator_regulation": "Montenegro is understood to regulate detective activity through dedicated legislation, but we have not been able to verify the current statute, licensing authority or conditions from an official source. Engagements involving enquiries in Montenegro are therefore scoped with Montenegrin counsel, and we work only with local professionals whose authorisation has been confirmed. Covert surveillance, recording and the handling of personal data are constrained by the data protection law and the Criminal Code, and records held by state bodies, banks or telecommunications providers are obtained only through lawful access or judicial process.",
+  "corporate_records": "The Central Register of Business Entities (CRPS) registers companies and maintains an electronic database of registered businesses, typically recording legal form, founders, directors and registered capital. A register of ultimate beneficial owners has been in the process of being established, and its current status and public accessibility should be confirmed for each matter. Real estate rights are recorded by the Real Estate Administration, whose registry has improved but remains uneven. The Agency for Prevention of Corruption maintains public records relating to officials, including information on public functions and income and asset reporting.",
+  "anti_corruption": "Corruption offences are set out in the Criminal Code, and Montenegro is party to the UN Convention against Corruption and succeeded to the OECD Anti-Bribery Convention. The Agency for Prevention of Corruption oversees conflicts of interest, officials' income and asset reports, lobbying, integrity plans and whistleblower protection, while the Special State Prosecutor's Office prosecutes high-level corruption and organised crime. A National Council for the Fight against Corruption was established in early 2024. We have not verified the citation of the principal anti-money laundering statute from a primary source.",
+  "matters": [
+    {
+      "title": "Coastal development counterparties",
+      "text": "Due diligence on developers, investors and contractors involved in resort, marina and residential projects along the Adriatic coast, examining CRPS records, property registry entries where accessible, litigation and media, and ownership chains running through neighbouring or offshore jurisdictions."
+    },
+    {
+      "title": "Property ownership mapping",
+      "text": "Identifying the companies and individuals behind property-holding entities, recognising that beneficial ownership disclosure has been in development and that registry quality varies, so conclusions rely on combining corporate records, court decisions and open-source research with clear statements of confidence."
+    },
+    {
+      "title": "Politically connected principals",
+      "text": "Reputational research into principals and their links to officials, political parties and state-owned enterprises, using Agency for Prevention of Corruption records, published prosecutions and regional media in Montenegrin, Serbian and English."
+    },
+    {
+      "title": "Energy and infrastructure partners",
+      "text": "Background research on partners and subcontractors in energy, transport and infrastructure projects, including related-party relationships, prior performance and any exposure to corruption investigations, for investors, lenders and contractors."
+    },
+    {
+      "title": "Dispute and enforcement support",
+      "text": "Supporting counsel before the Commercial Court in Podgorica or in international arbitration with party background, chronology and asset research, coordinated with work in Serbia, Croatia or other jurisdictions where related assets are held."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Montenegrin; Serbian, Bosnian, Croatian and English widely used"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Podgorica, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (adopted 2002 without EU membership)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Podgorica, Budva, Kotor, Tivat, Bar"
+    },
+    {
+      "label": "Company registry",
+      "value": "Central Register of Business Entities (CRPS)"
+    },
+    {
+      "label": "Commercial disputes",
+      "value": "Commercial Court, Podgorica"
+    },
+    {
+      "label": "Data transfers abroad",
+      "value": "Regulator approval often required outside EU/EEA"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Montenegrin matters from Nashville. We confirm early which entities are registered in Montenegro and which sit in neighbouring or offshore jurisdictions, what the CRPS and property registry will show, and whether beneficial ownership information is available. Research draws on corporate records, court decisions, Agency for Prevention of Corruption publications and regional media. Where enquiries in Montenegro are required, we coordinate local professionals whose authorisation has been confirmed and work with Montenegrin counsel. Because transfers of personal data to the United States may require the data protection agency's approval, we design engagements to limit personal data and agree a lawful transfer route before any is collected. We do not use pretexting or seek records held by state bodies outside lawful channels.",
+  "faqs": [
+    {
+      "q": "Can we find out who really owns a Montenegrin property company?",
+      "a": "Often in part. CRPS records show founders and directors, and property rights are recorded with the Real Estate Administration, but a register of ultimate beneficial owners has been in development and many structures run through other countries. We combine these sources with court records and media and state clearly what is confirmed."
+    },
+    {
+      "q": "Can personal data collected in Montenegro be sent to the United States?",
+      "a": "Transfers outside the EU, EEA and EU-adequate countries generally need approval from Montenegro's data protection agency unless the data subject gives informed consent or another exception applies. We plan engagements so that personal data is minimised and any necessary transfer has a lawful basis confirmed with local counsel."
+    },
+    {
+      "q": "Which court hears a commercial dispute in Montenegro?",
+      "a": "The Commercial Court in Podgorica hears disputes between legal entities, insolvency, company registration and competition matters, with appeals to the Appellate Court and final review by the Supreme Court. Many investment contracts instead provide for international arbitration, and we support counsel in either forum."
+    },
+    {
+      "q": "Which bodies handle corruption cases in Montenegro?",
+      "a": "The Agency for Prevention of Corruption oversees conflicts of interest and officials' asset reporting, and the Special State Prosecutor's Office prosecutes high-level corruption and organised crime. Their published decisions and records are important lawful sources when assessing politically exposed counterparties."
+    },
+    {
+      "q": "Why do Montenegrin matters often involve neighbouring countries?",
+      "a": "Shared language, history and business networks mean that companies, owners and assets frequently span Montenegro, Serbia, Bosnia and Herzegovina and Croatia, and investment often arrives through offshore vehicles. We scope research across the relevant jurisdictions from the outset rather than treating Montenegro in isolation."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Montenegro",
+      "url": "https://www.dlapiperdataprotection.com/?c=ME&t=law"
+    },
+    {
+      "title": "US Department of State: 2024 Investment Climate Statements, Montenegro",
+      "url": "https://www.state.gov/reports/2024-investment-climate-statements/montenegro/"
+    },
+    {
+      "title": "Agency for Prevention of Corruption (Montenegro)",
+      "url": "https://www.antikorupcija.me/en/"
+    },
+    {
+      "title": "Wikipedia: Economy of Montenegro",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Montenegro"
+    },
+    {
+      "title": "World Bank: Population, total (Montenegro)",
+      "url": "https://api.worldbank.org/v2/country/MNE/indicator/SP.POP.TOTL?format=json&date=2024"
+    }
+  ],
+  "review_flags": [
+    "Detective activity law, licensing authority and conditions not verified (official sites blocked).",
+    "UBO register status: State Department 2024 described it as being established; current status unknown.",
+    "AML statute and FIU not verified; anti-corruption law name/year not verified, so text avoids citing them.",
+    "CRPS data fields (founders, directors, capital) described from general knowledge; crps.me blocked fetching.",
+    "Only 5 sources; below the preferred depth."
+  ],
+  "researched": "2026-11-04"
+}

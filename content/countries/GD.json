@@ -1,0 +1,64 @@
+{
+  "cc": "GD",
+  "name": "Grenada",
+  "meta_description": "Investigative consulting for matters touching Grenada: counterparty and investor due diligence, CBI-related background research and common-law litigation support.",
+  "eyebrow": "Grenada, Carriacou and Petite Martinique",
+  "hero_lede": "Matters involving Grenada are usually small in scale but high in consequence: a resort developer, an investment-migration applicant, a local partner or a dispute before the Eastern Caribbean courts. TDSC scopes background research and due diligence from Nashville, coordinating qualified Grenadian professionals and counsel where local work is required.",
+  "intro": [
+    "Grenada is a small English-speaking parliamentary democracy in the Eastern Caribbean, with a common-law legal system and courts that form part of the Eastern Caribbean Supreme Court, with final appeal to the Judicial Committee of the Privy Council. It shares the Eastern Caribbean dollar and a central bank with other OECS members. Public records are more limited and less digitised than in larger jurisdictions, and as of 2024 the US government reported that legislation specific to data protection had not reached the national legislative agenda. Investigative work therefore relies on a careful combination of registry and court searches conducted locally, published regional sources and discreet, well-informed inquiry in a community where professional and family networks overlap closely.",
+    "Organisations commission work touching Grenada mainly in connection with tourism and resort development, real estate, its investment migration programme, the offshore medical education sector and regional trade. Typical needs include verifying developers and partners in hotel and residential projects, background research on individuals connected to investment-linked citizenship or projects marketed to foreign buyers, checking counterparties in agriculture and nutmeg and cocoa exports, and supporting litigation or enforcement before the High Court. Foreign investors, lenders and law firms also seek to understand the reputation and track record of Grenadian principals and the politically exposed connections that can arise in a small jurisdiction."
+  ],
+  "population": {"value": "114,600 (estimate)", "year": "2024", "source_url": "https://en.wikipedia.org/wiki/Grenada"},
+  "legal_system": "Grenada has a common-law system derived from English law. Its courts comprise the Magistrates' Courts and the High Court of Justice, which together with the Court of Appeal form part of the Eastern Caribbean Supreme Court, headquartered in Castries, Saint Lucia. The Court of Appeal travels among member states. Final appeals lie to the Judicial Committee of the Privy Council in London. The Caribbean Court of Justice has original jurisdiction over disputes on the Revised Treaty of Chaguaramas. Arbitration and court-connected mediation are available for commercial disputes.",
+  "data_protection": {
+    "law": "No comprehensive data protection statute identified as of 2024",
+    "regulator": "None identified",
+    "summary": "According to the US State Department's 2024 Investment Climate Statement, laws specific to data storage and protection had not yet reached Grenada's national legislative agenda, and OECS stakeholders were developing model laws. In the absence of a comprehensive statute, investigative work involving personal data is governed by general law, including confidentiality obligations, banking secrecy, defamation and the constitutional protection of privacy, and by the data protection law of the client's own jurisdiction, such as the GDPR or US state laws. TDSC applies data minimisation and purpose limitation as a matter of practice and confirms the current position with Grenadian counsel."
+  },
+  "investigator_regulation": "We have not identified, from sources verified for this page, a dedicated licensing regime for private investigators in Grenada. Private security activity may be subject to regulation, and the position for investigative services should be confirmed with Grenadian counsel before field work begins. Private investigators have no special powers: police, immigration, tax and banking records are not accessible to private parties, and access to court files may require an application. In a small jurisdiction, discretion is especially important, and TDSC coordinates only local professionals whose standing and methods have been checked.",
+  "corporate_records": "Companies are incorporated under the Companies Act, as amended in 2011, and records are kept by the Corporate Affairs and Intellectual Property Office (CAIPO). Searches of company files, including directors and registered office details, are generally conducted in person or through local agents rather than through a comprehensive public online database. We have not verified whether Grenada operates a central register of beneficial owners or its access rules. Land records are held through the Deeds and Land Registry, and searches are normally conducted by local counsel. High Court filings may be searched at the Registry in St. George's.",
+  "anti_corruption": "Bribery is a criminal offence in Grenada. The Integrity in Public Life Act (Act No. 24 of 2013) requires public officials to declare income and assets to the Integrity Commission, which monitors and verifies those declarations. Grenada is party to the Inter-American Convention against Corruption. Suspicious financial activity is reported to the Financial Intelligence Unit, and AML obligations are set by proceeds-of-crime legislation and associated regulations. We have not verified the specific titles and years of the principal anti-bribery and AML statutes for this page.",
+  "matters": [
+    {"title": "Resort and real estate developers", "text": "Background research on developers, sponsors and operators behind Grenadian hotel and residential projects, including those marketed to foreign buyers, reviewing corporate history, litigation, completion track record and reputation across the Caribbean and the sponsors' home jurisdictions."},
+    {"title": "Investment migration-linked research", "text": "Lawful background research on individuals and projects connected to Grenada's investment migration programme, for banks, project partners and counterparties that need independent assurance beyond government vetting, focusing on source-of-wealth plausibility and adverse history."},
+    {"title": "Local partner and agent vetting", "text": "Integrity due diligence on Grenadian partners, agents and contractors, mapping relationships and potential political exposure that can be significant in a small jurisdiction, for companies entering tourism, energy, telecommunications or public contracts."},
+    {"title": "Litigation and enforcement support", "text": "Research supporting claims before the High Court and the Eastern Caribbean Court of Appeal, including identifying assets and business interests of a Grenadian party, coordinated with local counsel and with regional searches across other OECS states."},
+    {"title": "Agricultural and trade counterparties", "text": "Verification of exporters, buyers and processors in nutmeg, cocoa and other agricultural trade, confirming that counterparties exist, trade as represented and have no history of default or disputes."}
+  ],
+  "practical": [
+    {"label": "Business language", "value": "English"},
+    {"label": "Time zone", "value": "America/Grenada, UTC-4, no daylight saving time"},
+    {"label": "Working week", "value": "Monday to Friday"},
+    {"label": "Currency", "value": "Eastern Caribbean dollar (XCD)"},
+    {"label": "Courts", "value": "Eastern Caribbean Supreme Court; final appeal to the Privy Council"},
+    {"label": "Main business centre", "value": "St. George's"},
+    {"label": "Business culture", "value": "Small, closely connected business community; discretion and introductions matter"}
+  ],
+  "tdsc_approach": "TDSC scopes Grenadian matters with particular attention to discretion, since inquiries in a small community can quickly become known. Each engagement starts with a review of the purpose, the parties, any political exposure and the legal context, including which data protection law governs the client and how findings may be used before the Eastern Caribbean courts or elsewhere. Desk research draws on regional court decisions, Caribbean press, international corporate and litigation records and the subjects' links to other jurisdictions. Where company, land or court searches must be made in St. George's, TDSC coordinates qualified local professionals and works alongside the client's Grenadian counsel, who advises on legal questions. TDSC does not seek immigration, police or banking records.",
+  "faqs": [
+    {"q": "Does Grenada have a data protection law?", "a": "As of the US State Department's 2024 Investment Climate Statement, laws specific to data protection had not reached Grenada's legislative agenda. That does not leave personal data unprotected: confidentiality, privacy and banking secrecy rules apply, and clients' own laws often govern. We confirm the current position with Grenadian counsel at the start of each matter."},
+    {"q": "Can company records in Grenada be searched online?", "a": "Only to a limited extent. Company files are held by the Corporate Affairs and Intellectual Property Office, and fuller searches are commonly made through local agents or counsel. We combine these searches with international corporate records, since many Grenadian-connected businesses also have entities in other Caribbean or foreign jurisdictions."},
+    {"q": "Where are commercial disputes involving Grenada heard?", "a": "In the High Court of Justice in St. George's, part of the Eastern Caribbean Supreme Court. Appeals go to the Eastern Caribbean Court of Appeal and finally to the Privy Council in London. Common-law procedure and English-language proceedings make it familiar territory for US and UK counsel."},
+    {"q": "Can TDSC verify an investor in a Grenadian development project?", "a": "Yes, through lawful sources. We research the investor's corporate and litigation history, media coverage, sanctions and regulatory exposure and the plausibility of declared wealth, working mainly in the jurisdictions where the investor actually lives and does business. We do not access government programme files or immigration records."},
+    {"q": "Are there particular risks in Caribbean resort projects?", "a": "Recurring issues include developers with limited completion history, pre-sale funds not held as represented, overlapping ownership of land or entities across islands and disputes with contractors. Independent verification of sponsors, their prior projects and their regional litigation record before committing funds helps clients avoid the most common problems."}
+  ],
+  "sources": [
+    {"title": "US Department of State: 2024 Investment Climate Statements, Grenada", "url": "https://www.state.gov/reports/2024-investment-climate-statements/grenada/"},
+    {"title": "Eastern Caribbean Supreme Court (overview)", "url": "https://en.wikipedia.org/wiki/Eastern_Caribbean_Supreme_Court"},
+    {"title": "Grenada (overview, population and economy)", "url": "https://en.wikipedia.org/wiki/Grenada"},
+    {"title": "Open Ownership: Grenada", "url": "https://openownership.org/en/map/country/grenada/"},
+    {"title": "Laws of Grenada", "url": "https://www.laws.gov.gd/"},
+    {"title": "Government of Grenada", "url": "https://www.gov.gd/"}
+  ],
+  "review_flags": [
+    "Thin verification overall: search budget exhausted and Grenadian government sites (CAIPO, FIU, Integrity Commission, CBI) blocked automated access.",
+    "Data protection: 2024 State Dept ICS says no data protection law on agenda; check whether a Data Protection Act has since been passed.",
+    "CAIPO as company registry, Deeds and Land Registry, and searchability of company files are from general knowledge; the State Dept source described CAIPO only for IP. Verify.",
+    "Beneficial ownership register existence/access not verified (Open Ownership has no data).",
+    "Principal anti-bribery and AML statute titles/years (e.g., Prevention of Corruption Act, Proceeds of Crime Act) not verified; text says so.",
+    "Private investigator licensing not verified.",
+    "Population is a 2024 estimate sourced via Wikipedia; replace with Grenada Central Statistical Office or UN figure if available.",
+    "CBI programme rebranded as Investment Migration Agency on 20 March 2024 per State Dept; programme rules change often (EU/US pressure on Caribbean CBI)."
+  ],
+  "researched": "2026-11-04"
+}

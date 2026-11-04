@@ -1,0 +1,55 @@
+{
+  "cc": "DJ",
+  "name": "Djibouti",
+  "meta_description": "Investigative consulting for matters touching Djibouti: port, logistics and trade counterparty due diligence, scoped with Djiboutian counsel.",
+  "eyebrow": "Republic of Djibouti",
+  "hero_lede": "Investigative consulting for matters touching Djibouti focuses on ports, logistics, free zones and the Ethiopia trade corridor, where counterparties are often regional trading houses, records are limited and verification depends on careful cross-referencing and qualified local professionals.",
+  "intro": [
+    "Djibouti is a small state on the Bab el-Mandeb strait whose economy rests on ports, logistics, free zones and services to the foreign military bases it hosts. It is the main maritime gateway for Ethiopian trade, linked by road and the Addis Ababa to Djibouti railway. French and Arabic are official languages, and the legal system reflects French civil law alongside Islamic law in personal status matters. Public records exist but are limited in online availability, and the business community is relatively concentrated, so reputational and ownership questions often require discreet, well-informed local enquiry alongside international sources.",
+    "Organisations commission work involving Djibouti because of its role in Red Sea and Horn of Africa trade. Shipping lines, freight forwarders, commodity traders, insurers and investors in port and free zone projects need to understand who they are dealing with, whether partners are politically connected, and whether shipments or counterparties may raise sanctions or diversion concerns, particularly given the proximity of Yemen and Somalia. Typical matters involve vetting logistics and customs partners, assessing joint venture partners in free zones, investigating cargo loss or fraud, and tracing assets of regional trading companies."
+  ],
+  "population": {"value": "1.17 million", "year": "2024", "source_url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DJ"},
+  "legal_system": "Djibouti has a mixed legal system based mainly on French civil law, with Islamic law applying in personal status matters and customary practice in some areas. Commercial disputes are heard by the courts of first instance in Djibouti city, with appeals to the Court of Appeal and further recourse to the Supreme Court. The structure and availability of specialised commercial chambers or arbitration centres has not been verified for this page. Court judgments are not systematically published, so litigation searches generally require local counsel.",
+  "data_protection": {
+    "law": "Not verified for this page; see review notes",
+    "regulator": "Not verified for this page",
+    "summary": "We have not verified, from a source opened during this research, whether Djibouti has a comprehensive personal data protection law in force or a supervisory authority. Until this is confirmed with Djiboutian counsel, TDSC handles personal data gathered in Djibouti matters under the client's home-jurisdiction rules and international good practice: a documented legitimate purpose, minimisation, secure storage and controlled onward transfer, with heightened care given the small size of the local business community and the sensitivity of security-related information."
+  },
+  "investigator_regulation": "We have not identified, from a source opened during this research, a dedicated licensing regime for private investigators in Djibouti. Engagements are scoped with Djiboutian counsel to establish what local activity is lawful and whether any authorisation is required. Given Djibouti's security environment and the presence of foreign military installations, any local enquiries are conducted only by qualified local professionals, without approaching restricted sites, and without pretexting or seeking restricted government records.",
+  "corporate_records": "Companies are registered with the trade and companies register (Registre du Commerce et des Sociétés), administered through the national registration authorities, and free zone companies are registered with the free zone authorities. The extent of information publicly available, such as managers, shareholders and filings, and whether it can be obtained remotely, has not been verified for this page. In practice, ownership research combines local registry extracts obtained through counsel with foreign registries, port and shipping data, and media.",
+  "anti_corruption": "Corruption offences are addressed in Djibouti's Penal Code, and the country has anti-money laundering legislation and a financial intelligence function. The specific laws, years and enforcement bodies have not been verified for this page and are being confirmed. International clients typically assess Djibouti-related risk against their own frameworks, such as the US Foreign Corrupt Practices Act and the UK Bribery Act, together with applicable sanctions regimes.",
+  "matters": [
+    {"title": "Port and logistics partner vetting", "text": "Background research on freight forwarders, customs brokers, stevedoring firms and transport operators handling cargo through Djibouti's ports and the corridor to Ethiopia, testing ownership, political connections, litigation and reputation."},
+    {"title": "Free zone joint ventures", "text": "Due diligence on prospective partners and tenants in Djibouti's free zones and industrial parks, including foreign holding companies, related-party relationships and the commercial track record of principals across the Gulf, East Africa and Asia."},
+    {"title": "Sanctions and diversion risk", "text": "Assessment of counterparties, vessels and cargo flows for links to sanctioned persons or diversion toward Yemen or Somalia, drawing on sanctions lists, maritime data and regional reporting, for shippers, insurers and banks."},
+    {"title": "Cargo loss and trade fraud", "text": "Fact-finding into missing or misdelivered cargo, document fraud and inflated invoicing along the Djibouti to Ethiopia corridor, coordinated with Djiboutian counsel and, where relevant, investigators in Ethiopia or the Gulf."},
+    {"title": "Regional trading house assets", "text": "Tracing assets of trading companies and principals active in Djibouti, Ethiopia, Somaliland, Somalia and the Gulf, combining corporate records, property information where available and litigation in other jurisdictions to support enforcement."}
+  ],
+  "practical": [
+    {"label": "Official languages", "value": "French and Arabic; Somali and Afar widely spoken"},
+    {"label": "Time zone", "value": "Africa/Djibouti, UTC+3, no daylight saving"},
+    {"label": "Working week", "value": "Generally Sunday to Thursday; confirm with counterparties"},
+    {"label": "Currency", "value": "Djiboutian franc (DJF), pegged to the US dollar"},
+    {"label": "Main business centre", "value": "Djibouti city and its port and free zone areas"},
+    {"label": "Court language", "value": "French"},
+    {"label": "Business culture", "value": "Relationship-based; introductions through trusted intermediaries matter"}
+  ],
+  "tdsc_approach": "TDSC scopes Djibouti matters from Nashville with a review of the legal framework, sanctions exposure and the practical availability of records. Desk research relies on international sanctions lists, maritime and trade data, foreign corporate registries, court records in other jurisdictions and French-, Arabic- and English-language media. Where Djiboutian registry extracts or local enquiries are needed, TDSC works through Djiboutian counsel and qualified local professionals, with no pretexting, no approaches to restricted sites and no payments to officials. Given the small and interconnected business community, enquiries are designed to protect the confidentiality of the client and the matter, and personal data is minimised and transferred under documented safeguards.",
+  "faqs": [
+    {"q": "Why is Djibouti relevant to trade investigations?", "a": "Djibouti is the principal maritime gateway for Ethiopian trade and a strategic port on the Red Sea route. Shippers, traders, insurers and investors in ports and free zones commission research on local partners, logistics providers and cargo flows to manage fraud, reputational and sanctions risks along the corridor."},
+    {"q": "Can company ownership be checked in Djibouti?", "a": "Usually only with local assistance. Registry information is limited online, so extracts are generally obtained through Djiboutian counsel. Ownership research typically combines those extracts with foreign registries for holding companies, shipping and port data, litigation abroad and media, and conclusions are presented with an assessed degree of confidence."},
+    {"q": "How is sanctions risk assessed for Djibouti counterparties?", "a": "By screening counterparties, principals and vessels against applicable sanctions lists, reviewing ownership and control, and analysing maritime and trade data for patterns suggesting diversion to sanctioned destinations or persons. Djibouti's proximity to Yemen and Somalia makes this a common element of due diligence for shipping and commodity clients."},
+    {"q": "Does Djibouti have a data protection law?", "a": "We have not yet verified the current position. Pending confirmation with Djiboutian counsel, TDSC applies the client's home-jurisdiction data protection rules and international good practice to personal data gathered in Djibouti matters, including minimisation, secure storage and controlled transfers."},
+    {"q": "Can matters extend into Ethiopia or Somaliland?", "a": "Often. Many Djibouti trade and logistics matters involve parties in Ethiopia, Somaliland, Somalia or the Gulf. Each jurisdiction is scoped separately, with its own legal review and qualified local professionals, and findings are consolidated so that the client sees the whole corridor rather than one country in isolation."}
+  ],
+  "sources": [
+    {"title": "World Bank population data: Djibouti", "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DJ"}
+  ],
+  "review_flags": [
+    "SEVERELY UNDER-SOURCED: web search budget (shared 200/turn) and hourly fetch quota were exhausted before Djibouti research began. Only population is sourced. All other content is from general knowledge and must be verified before publishing; add 5-12 sources.",
+    "Data protection law/regulator not verified; fields left as 'Not verified'.",
+    "Unverified: legal system and court structure, RCS and free zone registration, Penal Code/AML references, working week (Sunday-Thursday), DJF peg, arbitration centres.",
+    "Private investigator regulation not researched."
+  ],
+  "researched": "2026-11-04"
+}

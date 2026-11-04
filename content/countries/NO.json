@@ -1,0 +1,150 @@
+{
+  "cc": "NO",
+  "name": "Norway",
+  "meta_description": "Investigative consulting for Norway: Brønnøysund registry and beneficial owner checks, GDPR-compliant workplace investigations, energy and maritime review.",
+  "eyebrow": "Kingdom of Norway",
+  "hero_lede": "Investigative consulting for matters touching Norway works with some of the most transparent corporate records in Europe and a strict privacy culture under GDPR, supporting energy, maritime, seafood and investment matters as well as internal investigations into misconduct and fraud.",
+  "intro": [
+    "Norway is a high-income, highly transparent economy outside the EU but within the European Economic Area, so it applies the GDPR and much EU financial regulation. Company information is centralised at the Brønnøysund Register Centre, annual accounts are filed and publicly available, and a register of beneficial owners now operates with structured public data. Norwegian law also places a strong emphasis on privacy, with specific rules on employer access to email and workplace camera surveillance. For investigative work this means a great deal can be established from records, but methods that intrude on personal privacy are closely limited and scrutinised by Datatilsynet and the courts.",
+    "Organisations commission investigative work involving Norway in connection with petroleum and offshore services, shipping and shipowning, seafood and aquaculture, renewable energy and large state-linked companies, as well as investments by and into Norwegian funds and family offices. Several prominent Norwegian companies have faced foreign bribery cases, and municipal-level corruption has been documented in research, so integrity review of partners and agents remains relevant despite Norway's strong international standing. Typical requests include pre-transaction due diligence, review of maritime counterparties and ownership chains, fact-finding in workplace and whistleblowing investigations, and asset research for counsel in commercial disputes."
+  ],
+  "population": {
+    "value": "5.57 million",
+    "year": "2024",
+    "source_url": "https://fred.stlouisfed.org/data/POPTOTNOA647NWDB"
+  },
+  "legal_system": "Norway has a civil law system within the Nordic legal tradition, based on statute and case law rather than comprehensive codes. Most civil disputes may first go before a municipal conciliation board (forliksråd). The ordinary courts are 23 district courts (tingrett), six courts of appeal (lagmannsrett) and the Supreme Court (Høyesterett) in Oslo. There is no separate commercial court; commercial cases are heard by the ordinary courts, alongside specialised bodies such as the land consolidation courts and the Labour Court. Commercial arbitration is commonly used, including through the Oslo Chamber of Commerce arbitration institute.",
+  "data_protection": {
+    "law": "Personal Data Act 2018 (Personopplysningsloven), implementing the General Data Protection Regulation (EU) 2016/679",
+    "regulator": "Datatilsynet (Norwegian Data Protection Authority)",
+    "summary": "Investigative work involving personal data requires a lawful basis, proportionate scope and transparency under the GDPR as applied in Norway. National rules add specific constraints: employer access to employee email is limited by a dedicated regulation to defined situations, such as suspicion of a serious breach that could lead to dismissal, with notice and participation where possible, and workplace camera surveillance is separately regulated. Criminal offence data is handled under strict conditions, and national identity numbers may be processed only where necessary for proper identification. Transfers to the United States and other third countries follow GDPR transfer rules."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators in Norway. Related activities are separately regulated, including security guarding and debt collection, and those regimes should not be assumed to cover investigative work. In practice, the main constraints on investigations come from data protection law, the specific workplace email and camera surveillance regulations, criminal law on unlawful recording and intrusion, and restrictions on access to police, tax and bank information. Engagements are scoped with Norwegian counsel, particularly for workplace investigations.",
+  "corporate_records": "The Brønnøysund Register Centre (Brønnøysundregistrene) maintains the Register of Business Enterprises and related registers. Company details, roles such as board members and general managers, articles and filed annual accounts can be searched and ordered. The Register of Mortgaged Movable Property records charges. A Register of Beneficial Owners, based on the Register of Beneficial Owners Act, is now live with a 25% threshold and structured public data according to Open Ownership; companies must report changes within 14 days. Tax lists showing individuals' declared income, wealth and tax are published annually, with access subject to logging.",
+  "anti_corruption": "Bribery, gross bribery and trading in influence are criminal offences under the Penal Code (2005), applying to both public and private sector bribery and to conduct abroad by Norwegian companies and residents. Money laundering is addressed by the Anti-Money Laundering Act (2018). ØKOKRIM, the National Authority for Investigation and Prosecution of Economic and Environmental Crime, investigates and prosecutes serious bribery and money laundering and hosts Norway's Financial Intelligence Unit, which receives suspicious transaction reports.",
+  "matters": [
+    {
+      "title": "Offshore and energy counterparties",
+      "text": "Ownership and integrity review of contractors, suppliers, agents and joint-venture partners in petroleum, offshore wind and power projects, including links to foreign intermediaries in jurisdictions where Norwegian companies have previously faced bribery cases."
+    },
+    {
+      "title": "Shipping and shipowning structures",
+      "text": "Mapping of vessel ownership, single-ship companies, managers and financiers across Norway and offshore registries, supporting charterers, lenders and counsel in disputes, arrest proceedings or sanctions-sensitive trade reviews."
+    },
+    {
+      "title": "Seafood and aquaculture transactions",
+      "text": "Pre-investment review of salmon farming and seafood export businesses, covering ownership history, licence holdings, regulatory and environmental proceedings, litigation and the reputations of founders and principal shareholders."
+    },
+    {
+      "title": "Workplace and whistleblowing investigations",
+      "text": "Independent fact-finding support for counsel or boards handling harassment, fraud or misconduct allegations, structured around Norwegian rules on employee email access, camera surveillance, transparency and the rights of the person under investigation."
+    },
+    {
+      "title": "Asset research for disputes",
+      "text": "Research into companies, roles, real property, vessels, registered charges and published tax information connected to a debtor, to help counsel judge enforcement prospects in Norway and cross-border."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Norwegian (Bokmål and Nynorsk); English widely used"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Oslo, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; long summer holidays in July"
+    },
+    {
+      "label": "Currency",
+      "value": "Norwegian krone (NOK)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Oslo, Bergen, Stavanger, Trondheim"
+    },
+    {
+      "label": "Courts language",
+      "value": "Norwegian"
+    },
+    {
+      "label": "Company identifier",
+      "value": "Nine-digit organisation number issued by Brønnøysund"
+    },
+    {
+      "label": "Business culture",
+      "value": "Flat hierarchies, directness and punctuality; consensus-oriented decision-making"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes engagements touching Norway from Nashville, beginning with a jurisdictional review of purpose and lawful basis under the GDPR and Norwegian rules, and a decision on how personal data will be transferred to the United States. Most work can be completed from Brønnøysund records, filed accounts, beneficial ownership data, court decisions, ship registers, tax lists, regulatory releases and Norwegian media. Where local document retrieval, interviews or workplace fact-finding are needed, TDSC coordinates qualified local professionals and works alongside Norwegian counsel, who advise on employment law, evidence and remedies. TDSC does not access employee mailboxes, deploy surveillance or record conversations, and keeps personal data to what the matter requires.",
+  "faqs": [
+    {
+      "q": "How much can be learned about a Norwegian company from public records?",
+      "a": "A great deal. Brønnøysund provides company details, officers, articles and filed annual accounts, and beneficial ownership data is now available with a 25% threshold. Published tax lists, court decisions and ship registers add context. The main gaps are private shareholder agreements and ownership held through foreign structures, which need separate research."
+    },
+    {
+      "q": "Can an employer in Norway review an employee's email during an investigation?",
+      "a": "Only in limited circumstances set by a specific regulation, such as reasonable suspicion of a serious breach that could justify dismissal, and normally with notice and an opportunity for the employee to be present. Employers should take advice from Norwegian employment counsel before any access. TDSC does not access mailboxes itself."
+    },
+    {
+      "q": "Are private investigators licensed in Norway?",
+      "a": "We have not identified a dedicated licensing regime for private investigators. Related activities such as security services and debt collection are separately regulated. Investigative work is constrained mainly by data protection law, workplace surveillance rules and criminal law, and is scoped with Norwegian counsel."
+    },
+    {
+      "q": "Who investigates bribery and money laundering in Norway?",
+      "a": "ØKOKRIM is the national authority for investigating and prosecuting serious economic and environmental crime, including foreign bribery and money laundering, and it hosts the Financial Intelligence Unit. Companies that identify possible bribery by staff or agents usually take advice from counsel on whether and how to engage with ØKOKRIM."
+    },
+    {
+      "q": "Can ownership of Norwegian-controlled vessels be traced?",
+      "a": "Usually, at least in part. Norwegian ship registers and corporate records identify registered owners and companies, but vessels are often held through single-ship companies and registered under foreign flags. TDSC combines Norwegian records with international registries and commercial maritime data to map ownership, management and financing."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Norway",
+      "url": "https://www.dlapiperdataprotection.com/index.html?c=NO&t=law"
+    },
+    {
+      "title": "Brønnøysund Register Centre",
+      "url": "https://www.brreg.no/en/"
+    },
+    {
+      "title": "Brønnøysund: Beneficial owners",
+      "url": "https://www.brreg.no/en/beneficial-owners/"
+    },
+    {
+      "title": "Open Ownership: Norway",
+      "url": "https://www.openownership.org/en/map/country/norway/"
+    },
+    {
+      "title": "ØKOKRIM",
+      "url": "https://www.okokrim.no/en/"
+    },
+    {
+      "title": "FRED / World Bank: Population, Total for Norway",
+      "url": "https://fred.stlouisfed.org/data/POPTOTNOA647NWDB"
+    },
+    {
+      "title": "Norwegian Courts Administration",
+      "url": "https://www.domstol.no/en/"
+    },
+    {
+      "title": "Wikipedia: Judiciary of Norway",
+      "url": "https://en.wikipedia.org/wiki/Judiciary_of_Norway"
+    },
+    {
+      "title": "Wikipedia: Corruption in Norway",
+      "url": "https://en.wikipedia.org/wiki/Corruption_in_Norway"
+    }
+  ],
+  "review_flags": [
+    "Penal Code (2005) bribery/trading in influence provisions and Anti-Money Laundering Act (2018) named from general knowledge; official pages (Lovdata, Finanstilsynet, OECD) could not be fetched. Verify.",
+    "No PI licensing regime identified; security services and debt collection regulation referenced generally without verified statute names.",
+    "Oslo Chamber of Commerce arbitration institute and public tax lists (skattelister) stated from general knowledge, not an opened source.",
+    "Register of Beneficial Owners public access tiers not confirmed (brreg access page could not be fetched); Open Ownership lists it as public structured data, launch 2024.",
+    "Register of Mortgaged Movable Property named from general knowledge."
+  ],
+  "researched": "2026-11-04"
+}

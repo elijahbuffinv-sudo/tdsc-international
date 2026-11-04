@@ -1,0 +1,1682 @@
+{
+ "as_of": "2026-11-04",
+ "sources": {
+  "ny_convention": "https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards/status2",
+  "hague_service": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=17",
+  "hague_evidence": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=82",
+  "apostille": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=41",
+  "fatf": "https://www.fatf-gafi.org/en/publications/Fatfgeneral/outcomes-fatf-plenary-october-2026.html",
+  "cpi": "https://www.transparency.org/en/cpi/2025",
+  "cpi_year": "2025",
+  "ofac": "https://ofac.treasury.gov/sanctions-programs-and-country-information"
+ },
+ "fatf": {
+  "black": [
+   "KP",
+   "IR",
+   "MM"
+  ],
+  "grey": [
+   "AO",
+   "BO",
+   "BA",
+   "CM",
+   "HT",
+   "IQ",
+   "KE",
+   "KW",
+   "LA",
+   "LB",
+   "NP",
+   "PG",
+   "SS",
+   "SY",
+   "VE",
+   "VN",
+   "VG",
+   "YE"
+  ],
+  "as_of": "October 2026"
+ },
+ "ofac_programs": {
+  "AF": "Targeted/list-based sanctions program (Afghanistan-related)",
+  "BY": "Targeted/list-based sanctions program (Belarus sanctions)",
+  "MM": "Targeted/list-based sanctions program (Burma-related)",
+  "CF": "Targeted/list-based sanctions program (Central African Republic)",
+  "CN": "Targeted/list-based sanctions programs (Chinese Military Companies; Hong Kong-related)",
+  "HK": "Targeted/list-based sanctions program (Hong Kong-related)",
+  "CU": "Comprehensive embargo (Cuba sanctions)",
+  "CD": "Targeted/list-based sanctions program (Democratic Republic of the Congo-related)",
+  "IR": "Comprehensive embargo (Iran sanctions)",
+  "IQ": "Targeted/list-based sanctions program (Iraq-related)",
+  "LB": "Targeted/list-based sanctions program (Lebanon-related)",
+  "LY": "Targeted/list-based sanctions program (Libya sanctions)",
+  "ML": "Targeted/list-based sanctions program (Mali-related)",
+  "NI": "Targeted/list-based sanctions program (Nicaragua-related)",
+  "KP": "Comprehensive embargo (North Korea sanctions)",
+  "SY": "Targeted/list-based sanctions program (Promoting Accountability for Assad and Regional Stabilization Sanctions; comprehensive Syria program terminated 2025)",
+  "RU": "Extensive targeted, sectoral and services sanctions (Russian Harmful Foreign Activities; Ukraine-/Russia-related)",
+  "UA": "Comprehensive embargo on occupied Crimea, so-called DNR and LNR regions (Ukraine-/Russia-related); not a sanction on Ukraine itself",
+  "SO": "Targeted/list-based sanctions program (Somalia sanctions)",
+  "SS": "Targeted/list-based sanctions program (South Sudan-related)",
+  "SD": "Targeted/list-based sanctions program (Sudan and Darfur)",
+  "VE": "Targeted/list-based sanctions program (Venezuela-related; includes Government of Venezuela blocking)",
+  "YE": "Targeted/list-based sanctions program (Yemen-related)",
+  "RS": "Targeted/list-based sanctions program (Balkans-related)",
+  "BA": "Targeted/list-based sanctions program (Balkans-related)",
+  "ME": "Targeted/list-based sanctions program (Balkans-related)",
+  "MK": "Targeted/list-based sanctions program (Balkans-related)",
+  "XK": "Targeted/list-based sanctions program (Balkans-related)",
+  "AL": "Targeted/list-based sanctions program (Balkans-related)"
+ },
+ "countries": {
+  "AF": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 16,
+   "cpi_rank": 169
+  },
+  "AL": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 39,
+   "cpi_rank": 91
+  },
+  "DZ": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 34,
+   "cpi_rank": 109
+  },
+  "AD": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "AO": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 32,
+   "cpi_rank": 120
+  },
+  "AG": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "AR": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 36,
+   "cpi_rank": 104
+  },
+  "AM": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 46,
+   "cpi_rank": 65
+  },
+  "AU": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 76,
+   "cpi_rank": 12
+  },
+  "AT": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 69,
+   "cpi_rank": 21
+  },
+  "AZ": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 30,
+   "cpi_rank": 130
+  },
+  "BS": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 64,
+   "cpi_rank": 29
+  },
+  "BH": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 50,
+   "cpi_rank": 56
+  },
+  "BD": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 24,
+   "cpi_rank": 150
+  },
+  "BB": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 68,
+   "cpi_rank": 24
+  },
+  "BY": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 31,
+   "cpi_rank": 124
+  },
+  "BE": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 69,
+   "cpi_rank": 21
+  },
+  "BZ": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 36,
+   "cpi_rank": 104
+  },
+  "BJ": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 45,
+   "cpi_rank": 70
+  },
+  "BT": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 71,
+   "cpi_rank": 18
+  },
+  "BO": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 28,
+   "cpi_rank": 136
+  },
+  "BA": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 34,
+   "cpi_rank": 109
+  },
+  "BW": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 58,
+   "cpi_rank": 41
+  },
+  "BR": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 35,
+   "cpi_rank": 107
+  },
+  "BN": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 63,
+   "cpi_rank": 31
+  },
+  "BG": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 40,
+   "cpi_rank": 84
+  },
+  "BF": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 40,
+   "cpi_rank": 84
+  },
+  "BI": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 17,
+   "cpi_rank": 167
+  },
+  "KH": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 20,
+   "cpi_rank": 163
+  },
+  "CM": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 26,
+   "cpi_rank": 142
+  },
+  "CA": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 75,
+   "cpi_rank": 16
+  },
+  "CV": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 62,
+   "cpi_rank": 35
+  },
+  "KY": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "CF": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 24,
+   "cpi_rank": 150
+  },
+  "TD": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 22,
+   "cpi_rank": 157
+  },
+  "CL": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 63,
+   "cpi_rank": 31
+  },
+  "CN": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 43,
+   "cpi_rank": 76
+  },
+  "CO": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 37,
+   "cpi_rank": 99
+  },
+  "KM": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 20,
+   "cpi_rank": 163
+  },
+  "CG": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 23,
+   "cpi_rank": 153
+  },
+  "CR": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 56,
+   "cpi_rank": 46
+  },
+  "HR": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 47,
+   "cpi_rank": 63
+  },
+  "CU": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 40,
+   "cpi_rank": 84
+  },
+  "CY": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 55,
+   "cpi_rank": 49
+  },
+  "CZ": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 59,
+   "cpi_rank": 39
+  },
+  "CD": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 20,
+   "cpi_rank": 163
+  },
+  "DK": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 89,
+   "cpi_rank": 1
+  },
+  "DJ": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 31,
+   "cpi_rank": 124
+  },
+  "DM": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 60,
+   "cpi_rank": 37
+  },
+  "DO": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 37,
+   "cpi_rank": 99
+  },
+  "EC": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 33,
+   "cpi_rank": 116
+  },
+  "EG": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 30,
+   "cpi_rank": 130
+  },
+  "SV": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 32,
+   "cpi_rank": 120
+  },
+  "GQ": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 15,
+   "cpi_rank": 172
+  },
+  "ER": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 13,
+   "cpi_rank": 177
+  },
+  "EE": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 76,
+   "cpi_rank": 12
+  },
+  "SZ": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 23,
+   "cpi_rank": 153
+  },
+  "ET": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 38,
+   "cpi_rank": 96
+  },
+  "FJ": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 55,
+   "cpi_rank": 49
+  },
+  "FI": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 88,
+   "cpi_rank": 2
+  },
+  "FR": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 66,
+   "cpi_rank": 27
+  },
+  "GA": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 29,
+   "cpi_rank": 135
+  },
+  "GM": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 37,
+   "cpi_rank": 99
+  },
+  "GE": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 50,
+   "cpi_rank": 56
+  },
+  "DE": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 77,
+   "cpi_rank": 10
+  },
+  "GH": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 43,
+   "cpi_rank": 76
+  },
+  "GR": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 50,
+   "cpi_rank": 56
+  },
+  "GD": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 56,
+   "cpi_rank": 46
+  },
+  "GT": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 26,
+   "cpi_rank": 142
+  },
+  "GN": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 26,
+   "cpi_rank": 142
+  },
+  "GW": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 21,
+   "cpi_rank": 161
+  },
+  "GY": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 40,
+   "cpi_rank": 84
+  },
+  "HT": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 16,
+   "cpi_rank": 169
+  },
+  "HN": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 22,
+   "cpi_rank": 157
+  },
+  "HK": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 76,
+   "cpi_rank": 12
+  },
+  "HU": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 40,
+   "cpi_rank": 84
+  },
+  "IS": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 77,
+   "cpi_rank": 10
+  },
+  "IN": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 39,
+   "cpi_rank": 91
+  },
+  "ID": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 34,
+   "cpi_rank": 109
+  },
+  "IR": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 23,
+   "cpi_rank": 153
+  },
+  "IQ": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 28,
+   "cpi_rank": 136
+  },
+  "IE": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 76,
+   "cpi_rank": 12
+  },
+  "IL": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 62,
+   "cpi_rank": 35
+  },
+  "IT": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 53,
+   "cpi_rank": 52
+  },
+  "CI": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 43,
+   "cpi_rank": 76
+  },
+  "JM": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 44,
+   "cpi_rank": 73
+  },
+  "JP": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 71,
+   "cpi_rank": 18
+  },
+  "JO": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 50,
+   "cpi_rank": 56
+  },
+  "KZ": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 38,
+   "cpi_rank": 96
+  },
+  "KE": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 30,
+   "cpi_rank": 130
+  },
+  "KI": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "XK": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 43,
+   "cpi_rank": 76
+  },
+  "KW": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": false,
+   "cpi_score": 46,
+   "cpi_rank": 65
+  },
+  "KG": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 26,
+   "cpi_rank": 142
+  },
+  "LA": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 34,
+   "cpi_rank": 109
+  },
+  "LV": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 60,
+   "cpi_rank": 37
+  },
+  "LB": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 23,
+   "cpi_rank": 153
+  },
+  "LS": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 37,
+   "cpi_rank": 99
+  },
+  "LR": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 28,
+   "cpi_rank": 136
+  },
+  "LY": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 13,
+   "cpi_rank": 177
+  },
+  "LI": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "LT": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 65,
+   "cpi_rank": 28
+  },
+  "LU": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 78,
+   "cpi_rank": 8
+  },
+  "MO": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "MG": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 25,
+   "cpi_rank": 148
+  },
+  "MW": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 34,
+   "cpi_rank": 109
+  },
+  "MY": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 52,
+   "cpi_rank": 53
+  },
+  "MV": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 39,
+   "cpi_rank": 91
+  },
+  "ML": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 28,
+   "cpi_rank": 136
+  },
+  "MT": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 49,
+   "cpi_rank": 60
+  },
+  "MH": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "MR": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 30,
+   "cpi_rank": 130
+  },
+  "MU": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 48,
+   "cpi_rank": 61
+  },
+  "MX": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 27,
+   "cpi_rank": 141
+  },
+  "FM": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "MD": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 42,
+   "cpi_rank": 80
+  },
+  "MC": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "MN": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 31,
+   "cpi_rank": 124
+  },
+  "ME": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 46,
+   "cpi_rank": 65
+  },
+  "MA": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 39,
+   "cpi_rank": 91
+  },
+  "MZ": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 21,
+   "cpi_rank": 161
+  },
+  "MM": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 16,
+   "cpi_rank": 169
+  },
+  "NA": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 46,
+   "cpi_rank": 65
+  },
+  "NR": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "NP": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 34,
+   "cpi_rank": 109
+  },
+  "NL": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 78,
+   "cpi_rank": 8
+  },
+  "NZ": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 81,
+   "cpi_rank": 4
+  },
+  "NI": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 14,
+   "cpi_rank": 175
+  },
+  "NE": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 31,
+   "cpi_rank": 124
+  },
+  "NG": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 26,
+   "cpi_rank": 142
+  },
+  "KP": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 15,
+   "cpi_rank": 172
+  },
+  "MK": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 40,
+   "cpi_rank": 84
+  },
+  "NO": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 81,
+   "cpi_rank": 4
+  },
+  "OM": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 52,
+   "cpi_rank": 53
+  },
+  "PK": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 28,
+   "cpi_rank": 136
+  },
+  "PW": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "PS": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "PA": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 33,
+   "cpi_rank": 116
+  },
+  "PG": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 26,
+   "cpi_rank": 142
+  },
+  "PY": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 24,
+   "cpi_rank": 150
+  },
+  "PE": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 30,
+   "cpi_rank": 130
+  },
+  "PH": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 32,
+   "cpi_rank": 120
+  },
+  "PL": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 52,
+   "cpi_rank": 53
+  },
+  "PT": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 56,
+   "cpi_rank": 46
+  },
+  "PR": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "QA": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 58,
+   "cpi_rank": 41
+  },
+  "RO": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 45,
+   "cpi_rank": 70
+  },
+  "RU": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 22,
+   "cpi_rank": 157
+  },
+  "RW": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 58,
+   "cpi_rank": 41
+  },
+  "KN": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "LC": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 59,
+   "cpi_rank": 39
+  },
+  "VC": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 63,
+   "cpi_rank": 31
+  },
+  "WS": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "SM": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "SA": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 57,
+   "cpi_rank": 45
+  },
+  "SN": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 46,
+   "cpi_rank": 65
+  },
+  "RS": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 33,
+   "cpi_rank": 116
+  },
+  "SC": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 68,
+   "cpi_rank": 24
+  },
+  "SL": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 34,
+   "cpi_rank": 109
+  },
+  "SG": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 84,
+   "cpi_rank": 3
+  },
+  "SK": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 48,
+   "cpi_rank": 61
+  },
+  "SI": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 58,
+   "cpi_rank": 41
+  },
+  "SB": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 44,
+   "cpi_rank": 73
+  },
+  "SO": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 9,
+   "cpi_rank": 181
+  },
+  "ZA": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 41,
+   "cpi_rank": 81
+  },
+  "KR": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 63,
+   "cpi_rank": 31
+  },
+  "SS": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 9,
+   "cpi_rank": 181
+  },
+  "ES": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 55,
+   "cpi_rank": 49
+  },
+  "LK": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": false,
+   "cpi_score": 35,
+   "cpi_rank": 107
+  },
+  "SD": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 14,
+   "cpi_rank": 175
+  },
+  "SR": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 38,
+   "cpi_rank": 96
+  },
+  "SE": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 80,
+   "cpi_rank": 6
+  },
+  "CH": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 80,
+   "cpi_rank": 6
+  },
+  "SY": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 15,
+   "cpi_rank": 172
+  },
+  "ST": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 45,
+   "cpi_rank": 70
+  },
+  "TW": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 68,
+   "cpi_rank": 24
+  },
+  "TJ": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 19,
+   "cpi_rank": 166
+  },
+  "TZ": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 40,
+   "cpi_rank": 84
+  },
+  "TH": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 33,
+   "cpi_rank": 116
+  },
+  "TL": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 44,
+   "cpi_rank": 73
+  },
+  "TG": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 32,
+   "cpi_rank": 120
+  },
+  "TO": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "TT": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 41,
+   "cpi_rank": 81
+  },
+  "TN": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 39,
+   "cpi_rank": 91
+  },
+  "TM": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 17,
+   "cpi_rank": 167
+  },
+  "TV": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "TR": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 31,
+   "cpi_rank": 124
+  },
+  "UG": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 25,
+   "cpi_rank": 148
+  },
+  "UA": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 36,
+   "cpi_rank": 104
+  },
+  "AE": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 69,
+   "cpi_rank": 21
+  },
+  "GB": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 70,
+   "cpi_rank": 20
+  },
+  "US": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 64,
+   "cpi_rank": 29
+  },
+  "UY": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 73,
+   "cpi_rank": 17
+  },
+  "UZ": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 31,
+   "cpi_rank": 124
+  },
+  "VU": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": true,
+   "cpi_score": 47,
+   "cpi_rank": 63
+  },
+  "VA": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": null,
+   "cpi_rank": null
+  },
+  "VE": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 10,
+   "cpi_rank": 180
+  },
+  "VN": {
+   "ny_convention": true,
+   "hague_service": true,
+   "hague_evidence": true,
+   "apostille": true,
+   "cpi_score": 41,
+   "cpi_rank": 81
+  },
+  "YE": {
+   "ny_convention": false,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 13,
+   "cpi_rank": 177
+  },
+  "ZM": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 37,
+   "cpi_rank": 99
+  },
+  "ZW": {
+   "ny_convention": true,
+   "hague_service": false,
+   "hague_evidence": false,
+   "apostille": false,
+   "cpi_score": 22,
+   "cpi_rank": 157
+  }
+ }
+}

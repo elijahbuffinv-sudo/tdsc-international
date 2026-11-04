@@ -1,0 +1,125 @@
+{
+  "cc": "ER",
+  "name": "Eritrea",
+  "meta_description": "Investigative consulting for matters touching Eritrea: mining counterparties, state-linked entity exposure, sanctions screening and document-based research, from Nashville.",
+  "eyebrow": "State of Eritrea",
+  "hero_lede": "Eritrea's economy is dominated by the state and a governing party, its mining sector involves foreign operators, and very little of its records are public. Investigative consulting on matters touching Eritrea is therefore largely documentary, relies on sources outside the country and includes careful screening of state-linked entities.",
+  "intro": [
+    "Eritrea, on the Red Sea coast of the Horn of Africa, has about 3.6 million people. Its 1997 Constitution has never been implemented, no national elections have been held, and the PFDJ is the only legal party. Its commercial code derives from the Ethiopian code in force at independence. An overhaul of the major codes in 2015 has, according to the US State Department, never been implemented. Most large enterprises are fully or partly owned by the government or the governing People's Front for Democracy and Justice (PFDJ). There is no business registration website, records are not published, independent media are absent, and foreign access is restricted. Investigative work therefore depends on corporate, financial and judicial records outside the country and on carefully assessed open sources.",
+    "Organisations commission work involving Eritrea mainly because of mining. Foreign-owned mines must give the state-owned Eritrean National Mining Corporation (ENAMCO) a 10 percent stake and may be required to sell it up to a further 30 percent, so the sector runs through joint ventures with ENAMCO. Other exposures arise from Red Sea shipping, remittances and humanitarian programmes. Typical needs include identifying state or party ownership behind counterparties, screening against US designations made in November 2021 in connection with the conflict in northern Ethiopia, assessing forced-labour risk from the indefinite national service system, and reviewing diaspora-linked financial flows for compliance purposes."
+  ],
+  "population": {
+    "value": "3.6 million",
+    "year": "2025",
+    "source_url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ER"
+  },
+  "legal_system": "Eritrea's commercial code derives from the Ethiopian code in force at independence, with later amendments. An overhaul of the major codes in 2015 has not been implemented in practice, according to the US State Department. The judiciary is not fully independent of the executive, and judges are themselves national service employees. A Special Court operates alongside the ordinary courts, and its processes are criticised as lacking transparency. There is no functioning national legislature. International commercial contracts, including mining agreements, generally provide for arbitration seated abroad.",
+  "data_protection": {
+    "law": "No comprehensive data protection law identified",
+    "regulator": "No data protection authority identified",
+    "summary": "We have not identified a comprehensive personal data protection law or supervisory authority in Eritrea. Investigative work involving personal data should therefore follow the client's home-jurisdiction requirements and TDSC's own standards: a documented lawful purpose, strict minimisation and secure handling. This matters especially because information about Eritrean nationals, including diaspora members and people subject to national service, can be politically sensitive. Disclosure could expose individuals or their families to risk, so reporting is limited to what the compliance or legal purpose actually requires."
+  },
+  "investigator_regulation": "We have not identified any licensing framework for private investigators in Eritrea, and we do not consider independent investigative activity inside the country to be feasible or appropriate. Foreign access is restricted, and government, banking and party records are not available for private inquiry. Approaching officials or asking questions locally could endanger the people involved. TDSC's work touching Eritrea is confined to research conducted outside the country using lawful sources, and to coordination with counsel where formal document requests are needed.",
+  "corporate_records": "Businesses must register with six government offices, and there is no business registration website. We have not identified a publicly accessible company registry or beneficial ownership register. Information on Eritrean entities usually has to be built from records outside the country: filings of foreign mining companies and their project disclosures, corporate registries where Eritrean state or party-linked companies hold interests abroad, foreign litigation, sanctions designations such as OFAC's 2021 listings, and international reporting. Ownership conclusions are often inferred rather than documented, and we state confidence levels explicitly.",
+  "anti_corruption": "Corruption by officials, and by anyone claiming influence over them, is criminalised. Eritrea is not a signatory to the UN Convention against Corruption. We have not identified a published anti-money laundering law or an operating financial intelligence unit, although foreign currency transfers are tightly controlled, partly for terrorist financing reasons. Independent enforcement and published anti-corruption outcomes are not available. Counterparties therefore assess risk under their home-jurisdiction laws, such as the FCPA and UK Bribery Act, supported by documented due diligence on state and party-linked partners.",
+  "matters": [
+    {
+      "title": "Mining joint venture exposure",
+      "text": "Mapping ownership, governance and reputational issues around mining projects run as joint ventures with ENAMCO, which takes a mandatory 10 percent stake and may acquire up to 30 percent more. The work uses foreign operators' disclosures, financing documents and litigation to support investors, offtakers, insurers and lenders."
+    },
+    {
+      "title": "State and party ownership mapping",
+      "text": "Identifying whether counterparties, vessels or intermediaries are owned or controlled by the state or the PFDJ. OFAC designated the PFDJ, the Red Sea Trading Corporation, the Hidri Trust and the Eritrean Defense Forces in November 2021, so ownership links have direct sanctions consequences for clients."
+    },
+    {
+      "title": "Forced-labour supply chain risk",
+      "text": "Assessing the risk that national service conscripts, whose service is indefinite, very poorly paid and widely described as forced labour, were used in construction, mining or other supply chains. The assessment draws on documented reporting and contractor relationships, for clients subject to forced-labour import rules or human rights due diligence obligations."
+    },
+    {
+      "title": "Diaspora financial flows",
+      "text": "Supporting compliance reviews of remittance, money service and diaspora-linked transactions, including those connected to the reported diaspora tax and to fundraising, so that financial institutions can document risk assessments and escalate appropriately."
+    },
+    {
+      "title": "Red Sea shipping counterparties",
+      "text": "Background research on shipping, port service and trading counterparties linked to Massawa and Assab. These matters often combine maritime records, corporate registries abroad and sanctions sources in a region with heightened security and compliance risk."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Working languages",
+      "value": "Tigrinya, Arabic and English (no single official language)"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Asmara, UTC+3, no daylight saving"
+    },
+    {
+      "label": "Currency",
+      "value": "Nakfa (ERN); not convertible, fixed rate, withdrawals and transfers controlled"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Asmara; Massawa"
+    },
+    {
+      "label": "Courts language",
+      "value": "Tigrinya and other working languages; confirm with counsel"
+    },
+    {
+      "label": "Operating environment",
+      "value": "Highly restricted; no independent media; limited foreign access"
+    },
+    {
+      "label": "Research approach",
+      "value": "Predominantly external documentary and open-source research"
+    }
+  ],
+  "tdsc_approach": "TDSC handles Eritrea matters from Nashville and limits them to lawful due diligence and risk advisory conducted outside the country. As a US company, TDSC screens every matter for sanctions compliance, including designations of Eritrean entities and individuals, and does not accept engagements that would breach US or other applicable sanctions. Our jurisdictional review identifies which questions can be answered from foreign registries, project and financing disclosures, litigation, sanctions lists and credible international reporting, and which cannot be verified. We do not conduct inquiries inside Eritrea or approach officials. Because information about Eritrean individuals can be dangerous if disclosed, we keep personal data to the minimum needed, restrict how widely reports are circulated, and state clearly how confident we are in each finding.",
+  "faqs": [
+    {
+      "q": "Can company records be obtained from Eritrea?",
+      "a": "We have not identified a publicly accessible company registry. Ownership and control are usually established from records outside the country, such as foreign operators' disclosures, corporate registries where Eritrean entities hold interests, litigation and sanctions designations. Conclusions are often inferential, and our reports separate documented facts from assessments."
+    },
+    {
+      "q": "Are Eritrean entities subject to US sanctions?",
+      "a": "Yes, some are. In November 2021 OFAC designated Eritrean entities, including the Eritrean Defense Forces, the PFDJ, the Red Sea Trading Corporation and the Hidri Trust, as well as individuals, under the Ethiopia-related sanctions program. We screen every matter at intake and throughout, including for entities owned by designated parties. Clients should take formal sanctions advice from counsel."
+    },
+    {
+      "q": "Can you conduct interviews or site visits in Eritrea?",
+      "a": "No. We have not identified any lawful framework for independent investigative activity, foreign access is restricted, and local inquiries could put people at risk. We work from outside the country with lawful sources, and where formal document requests are needed, we coordinate them through counsel."
+    },
+    {
+      "q": "How is forced-labour risk assessed for Eritrean supply chains?",
+      "a": "We review documented reporting on the use of national service conscripts, contractor and subcontractor relationships disclosed by project operators, and legal proceedings in other countries. The result is a documented risk assessment that supports the client's own human rights due diligence and import-compliance decisions, not a legal conclusion."
+    },
+    {
+      "q": "What does an Eritrea due diligence report usually contain?",
+      "a": "Typically a counterparty profile built from foreign records, an analysis of state or party ownership, sanctions and PEP screening, a review of adverse media and NGO and UN reporting, and an explicit statement of information gaps. Given the restricted environment, stating what could not be verified is as important as what could."
+    }
+  ],
+  "sources": [
+    {
+      "title": "World Bank: Population, total (Eritrea)",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ER"
+    },
+    {
+      "title": "US Department of State: 2024 Investment Climate Statement, Eritrea",
+      "url": "https://www.state.gov/reports/2024-investment-climate-statements/eritrea/"
+    },
+    {
+      "title": "OFAC Recent Actions, 12 November 2021 (Ethiopia-related designations)",
+      "url": "https://ofac.treasury.gov/recent-actions/20211112"
+    },
+    {
+      "title": "Wikipedia: Eritrea",
+      "url": "https://en.wikipedia.org/wiki/Eritrea"
+    }
+  ],
+  "review_flags": [
+    "Sanctions: OFAC Ethiopia-related designations (Nov 2021) should be rechecked for current status before publication.",
+    "Data protection: no law identified (State Dept ICS mentions none); absence not confirmed by a legal database.",
+    "Specific mine names (Bisha, Zara, Colluli) deliberately omitted; Danakil potash reference removed from intro.",
+    "No PI licensing framework identified."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,334 @@
+Alpha++|London|GB
+Alpha++|New York|US
+Alpha+|Hong Kong|HK
+Alpha+|Beijing|CN
+Alpha+|Singapore|SG
+Alpha+|Shanghai|CN
+Alpha+|Paris|FR
+Alpha+|Dubai|AE
+Alpha+|Tokyo|JP
+Alpha+|Sydney|AU
+Alpha|Seoul|KR
+Alpha|Milan|IT
+Alpha|Toronto|CA
+Alpha|Frankfurt am Main|DE
+Alpha|Chicago|US
+Alpha|Jakarta|ID
+Alpha|São Paulo|BR
+Alpha|Mexico City|MX
+Alpha|Mumbai|IN
+Alpha|Madrid|ES
+Alpha|Warsaw|PL
+Alpha|Guangzhou|CN
+Alpha|Istanbul|TR
+Alpha|Amsterdam|NL
+Alpha|Bangkok|TH
+Alpha|Los Angeles|US
+Alpha|Kuala Lumpur|MY
+Alpha-|Luxembourg|LU
+Alpha-|Taipei|TW
+Alpha-|Shenzhen|CN
+Alpha-|Brussels|BE
+Alpha-|Zürich|CH
+Alpha-|Buenos Aires|AR
+Alpha-|Melbourne|AU
+Alpha-|San Francisco|US
+Alpha-|Riyadh|SA
+Alpha-|Santiago|CL
+Alpha-|Düsseldorf|DE
+Alpha-|Stockholm|SE
+Alpha-|Washington|US
+Alpha-|Vienna|AT
+Alpha-|Lisbon|PT
+Alpha-|Munich|DE
+Alpha-|Dublin|IE
+Alpha-|Houston|US
+Alpha-|Berlin|DE
+Alpha-|Johannesburg|ZA
+Alpha-|Boston|US
+Alpha-|New Delhi|IN
+Beta+|Bogotá|CO
+Beta+|Ho Chi Minh City|VN
+Beta+|Rome|IT
+Beta+|Bengaluru|IN
+Beta+|Budapest|HU
+Beta+|Athens|GR
+Beta+|Hamburg|DE
+Beta+|Doha|QA
+Beta+|Chengdu|CN
+Beta+|Miami|US
+Beta+|Tianjin|CN
+Beta+|Dallas|US
+Beta+|Atlanta|US
+Beta+|Auckland|NZ
+Beta+|Barcelona|ES
+Beta+|Hangzhou|CN
+Beta+|Bucharest|RO
+Beta+|Lima|PE
+Beta+|Montreal|CA
+Beta+|Prague|CZ
+Beta|Chongqing|CN
+Beta|Tel Aviv|IL
+Beta|Brisbane|AU
+Beta|Cairo|EG
+Beta|Hanoi|VN
+Beta|Nanjing|CN
+Beta|Oslo|NO
+Beta|Perth|AU
+Beta|Abu Dhabi|AE
+Beta|Copenhagen|DK
+Beta|Manama|BH
+Beta|Wuhan|CN
+Beta|Manila|PH
+Beta|Xiamen|CN
+Beta|Nairobi|KE
+Beta|Kyiv|UA
+Beta|Geneva|CH
+Beta|Jinan|CN
+Beta|Calgary|CA
+Beta|Zhengzhou|CN
+Beta|Shenyang|CN
+Beta|Dalian|CN
+Beta|Suzhou|CN
+Beta-|Qingdao|CN
+Beta-|Casablanca|MA
+Beta-|Changsha|CN
+Beta-|Beirut|LB
+Beta-|Port Louis|MU
+Beta-|Denver|US
+Beta-|Lagos|NG
+Beta-|Belgrade|RS
+Beta-|Montevideo|UY
+Beta-|Vancouver|CA
+Beta-|Seattle|US
+Beta-|Manchester|GB
+Beta-|Sofia|BG
+Beta-|Bratislava|SK
+Beta-|Rio de Janeiro|BR
+Beta-|Lyon|FR
+Beta-|Xi'an|CN
+Beta-|Helsinki|FI
+Beta-|Kunming|CN
+Beta-|Zagreb|HR
+Beta-|Nicosia|CY
+Beta-|Karachi|PK
+Beta-|Caracas|VE
+Beta-|Hefei|CN
+Beta-|Stuttgart|DE
+Beta-|Panama City|PA
+Beta-|Chennai|IN
+Beta-|Philadelphia|US
+Gamma+|Tunis|TN
+Gamma+|Fuzhou|CN
+Gamma+|Guatemala City|GT
+Gamma+|Hyderabad|IN
+Gamma+|Cape Town|ZA
+Gamma+|Dhaka|BD
+Gamma+|Porto|PT
+Gamma+|Austin|US
+Gamma+|San Diego|US
+Gamma+|Minneapolis|US
+Gamma+|Antwerp|BE
+Gamma+|Almaty|KZ
+Gamma+|Amman|JO
+Gamma+|Santo Domingo|DO
+Gamma+|Rotterdam|NL
+Gamma+|Adelaide|AU
+Gamma+|Lahore|PK
+Gamma+|Colombo|LK
+Gamma+|Taiyuan|CN
+Gamma+|Kuwait City|KW
+Gamma|Monterrey|MX
+Gamma|Osaka|JP
+Gamma|Haikou|CN
+Gamma|Tbilisi|GE
+Gamma|Tampa|US
+Gamma|Tirana|AL
+Gamma|Quito|EC
+Gamma|Nashville|US
+Gamma|Islamabad|PK
+Gamma|Kampala|UG
+Gamma|San Salvador|SV
+Gamma|Muscat|OM
+Gamma|Phnom Penh|KH
+Gamma|Birmingham|GB
+Gamma|Pune|IN
+Gamma|Ningbo|CN
+Gamma|Harbin|CN
+Gamma|San Jose|US
+Gamma|Bologna|IT
+Gamma|San José|CR
+Gamma|Ahmedabad|IN
+Gamma|Bristol|GB
+Gamma|Tegucigalpa|HN
+Gamma|Riga|LV
+Gamma|Detroit|US
+Gamma-|Poznań|PL
+Gamma-|Labuan|MY
+Gamma-|Charlotte|US
+Gamma-|Pittsburgh|US
+Gamma-|Valencia|ES
+Gamma-|Edinburgh|GB
+Gamma-|Jeddah|SA
+Gamma-|Turin|IT
+Gamma-|Katowice|PL
+Gamma-|Baku|AZ
+Gamma-|George Town|MY
+Gamma-|Dar es Salaam|TZ
+Gamma-|Wellington|NZ
+Gamma-|Managua|NI
+Gamma-|Cleveland|US
+Gamma-|Nanchang|CN
+Gamma-|Changchun|CN
+Gamma-|Cali|CO
+Gamma-|St. Louis|US
+Gamma-|Ljubljana|SI
+Gamma-|Baltimore|US
+Gamma-|Bilbao|ES
+Gamma-|Marseille|FR
+Gamma-|Surabaya|ID
+Gamma-|Accra|GH
+High Sufficiency|İzmir|TR
+High Sufficiency|Harare|ZW
+High Sufficiency|Maputo|MZ
+High Sufficiency|Vilnius|LT
+High Sufficiency|Macau|MO
+High Sufficiency|Gothenburg|SE
+High Sufficiency|Raleigh|US
+High Sufficiency|Querétaro|MX
+High Sufficiency|Glasgow|GB
+High Sufficiency|Zhuhai|CN
+High Sufficiency|Phoenix|US
+High Sufficiency|Dakar|SN
+High Sufficiency|Cincinnati|US
+High Sufficiency|Skopje|MK
+High Sufficiency|Kansas City|US
+High Sufficiency|Limassol|CY
+High Sufficiency|La Paz|BO
+High Sufficiency|Leeds|GB
+High Sufficiency|Guayaquil|EC
+High Sufficiency|Hartford|US
+High Sufficiency|Belfast|GB
+High Sufficiency|Indianapolis|US
+High Sufficiency|Algiers|DZ
+High Sufficiency|Shijiazhuang|CN
+High Sufficiency|Lusaka|ZM
+High Sufficiency|Guadalajara|MX
+Sufficiency|Strasbourg|FR
+Sufficiency|Columbus|US
+Sufficiency|Ankara|TR
+Sufficiency|Johor Bahru|MY
+Sufficiency|Ottawa|CA
+Sufficiency|Wrocław|PL
+Sufficiency|Ürümqi|CN
+Sufficiency|Christchurch|NZ
+Sufficiency|Douala|CM
+Sufficiency|Tashkent|UZ
+Sufficiency|Lausanne|CH
+Sufficiency|Málaga|ES
+Sufficiency|Wuxi|CN
+Sufficiency|George Town|KY
+Sufficiency|Salt Lake City|US
+Sufficiency|Tallinn|EE
+Sufficiency|Nantes|FR
+Sufficiency|Medellín|CO
+Sufficiency|Edmonton|CA
+Sufficiency|Utrecht|NL
+Sufficiency|Taichung|TW
+Sufficiency|Campinas|BR
+Sufficiency|Lille|FR
+Sufficiency|Abuja|NG
+Sufficiency|Yangon|MM
+Sufficiency|Kraków|PL
+Sufficiency|Jacksonville|US
+Sufficiency|Southampton|GB
+Sufficiency|San Antonio|US
+Sufficiency|Belo Horizonte|BR
+Sufficiency|Leipzig|DE
+Sufficiency|Newcastle upon Tyne|GB
+Sufficiency|Naples|IT
+Sufficiency|Curitiba|BR
+Sufficiency|Luanda|AO
+Sufficiency|Abidjan|CI
+Sufficiency|Milwaukee|US
+Sufficiency|Nassau|BS
+Sufficiency|Gaborone|BW
+Sufficiency|Puebla|MX
+Sufficiency|Toulouse|FR
+Sufficiency|Brasília|BR
+Sufficiency|Podgorica|ME
+Sufficiency|Kaohsiung|TW
+Sufficiency|Bern|CH
+Sufficiency|Porto Alegre|BR
+Sufficiency|Malmö|SE
+Sufficiency|Des Moines|US
+Sufficiency|Guiyang|CN
+Sufficiency|Nice|FR
+Sufficiency|Tijuana|MX
+Sufficiency|Nanning|CN
+Sufficiency|Canberra|AU
+Sufficiency|Nuremberg|DE
+Sufficiency|Port of Spain|TT
+Sufficiency|Córdoba|AR
+Sufficiency|Sarajevo|BA
+Sufficiency|Foshan|CN
+Sufficiency|Bordeaux|FR
+Sufficiency|Florence|IT
+Sufficiency|Oklahoma City|US
+Sufficiency|Astana|KZ
+Sufficiency|Genoa|IT
+Sufficiency|Nagoya|JP
+Sufficiency|Lanzhou|CN
+Sufficiency|Durban|ZA
+Sufficiency|Dongguan|CN
+Sufficiency|Portland|US
+Sufficiency|San Juan|PR
+Sufficiency|Bergen|NO
+Sufficiency|Yerevan|AM
+Sufficiency|Richmond|US
+Sufficiency|Santa Cruz de la Sierra|BO
+Sufficiency|Asunción|PY
+Sufficiency|Sacramento|US
+Sufficiency|Cebu City|PH
+Sufficiency|Hohhot|CN
+Sufficiency|Cologne|DE
+Sufficiency|The Hague|NL
+Sufficiency|Birmingham|US
+Sufficiency|Las Vegas|US
+Sufficiency|Ciudad Juárez|MX
+Sufficiency|Winnipeg|CA
+Sufficiency|Orlando|US
+Sufficiency|Windhoek|NA
+Sufficiency|Hanover|DE
+Sufficiency|Louisville|US
+Sufficiency|Aberdeen|GB
+Sufficiency|Liège|BE
+Sufficiency|Liverpool|GB
+Sufficiency|Basel|CH
+Sufficiency|Tulsa|US
+Sufficiency|Mannheim|DE
+Sufficiency|Palo Alto|US
+Sufficiency|San Pedro Sula|HN
+Sufficiency|Seville|ES
+Sufficiency|Recife|BR
+Sufficiency|Alexandria|EG
+Sufficiency|Vientiane|LA
+Sufficiency|Tangshan|CN
+Sufficiency|Ulaanbaatar|MN
+Sufficiency|Salvador|BR
+Sufficiency|Memphis|US
+Sufficiency|Yinchuan|CN
+Sufficiency|Linz|AT
+Sufficiency|Kolkata|IN
+Sufficiency|Halifax|CA
+Sufficiency|San Luis Potosí|MX
+Sufficiency|Barranquilla|CO
+Sufficiency|Libreville|GA
+Sufficiency|Łódź|PL
+Sufficiency|Hamilton|BM
+Sufficiency|Dresden|DE
+Sufficiency|Aarhus|DK
+Sufficiency|Baoding|CN
+Sufficiency|Wenzhou|CN
+Sufficiency|Blantyre|MW
+Sufficiency|Nottingham|GB

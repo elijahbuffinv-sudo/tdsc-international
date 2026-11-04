@@ -1,0 +1,141 @@
+{
+  "cc": "MX",
+  "name": "Mexico",
+  "meta_description": "Investigative consulting for Mexico matters: SIGER commercial registry research, the 2025 data protection law, AML reforms and nearshoring due diligence.",
+  "eyebrow": "United Mexican States",
+  "hero_lede": "Investigative consulting for matters touching Mexico spans nearshoring counterparties, cross-border fraud and asset questions, and litigation that moves between federal and state courts. TDSC scopes this work from Nashville and coordinates appropriately authorised Mexican professionals and counsel where work in Mexico is required.",
+  "intro": [
+    "Mexico is a federal civil law jurisdiction in which commercial matters are governed by the Code of Commerce and claimants can often choose between federal and state courts. Corporate acts are recorded in the Registro Público de Comercio through the Secretaría de Economía's SIGER platform, which is searchable online, while property, civil and litigation records are largely held at state level and vary considerably in accessibility. The legal environment has changed materially since 2024: a constitutional judicial reform introduced popular election of judges, a new private-sector data protection law took effect in 2025 under a new authority, and the federal anti-money laundering law was substantially amended the same year. Investigations need to account for each of these.",
+    "Organisations commission work involving Mexico because of the depth of its integration with the United States and Canadian economies, accelerated by nearshoring into manufacturing corridors in the north and the Bajío. Typical exposures include supplier and distributor integrity, customs and trade compliance, theft of cargo and inventory, employee and vendor fraud, and disputes over joint ventures and real estate. Lenders, private equity sponsors and acquirers need background on family-controlled groups and their principals. Litigants need asset information and chronology support for proceedings in Mexico or for recognition of foreign judgments and awards. Reputational screening, including links to politically exposed persons and organised crime, is a recurring requirement."
+  ],
+  "population": {
+    "value": "130.9 million",
+    "year": "2024",
+    "source_url": "https://api.worldbank.org/v2/country/MEX/indicator/SP.POP.TOTL?format=json&date=2024"
+  },
+  "legal_system": "Mexico has a civil law system rooted in Roman-Germanic principles, with codes and statutes as the primary sources of law and precedent that is persuasive rather than automatically binding. The Code of Commerce governs commercial matters, including arbitration and recognition of foreign judgments. Commercial claims may be brought in federal district courts or in state courts of first instance, with appeals through collegiate courts and, on constitutional questions, the Supreme Court. The 2024 judicial reform introduced elected judges and a nine-member Supreme Court. Arbitration institutions include the Mexican Arbitration Centre (CAM), ICC Mexico and the CANACO arbitration centre.",
+  "data_protection": {
+    "law": "Federal Law for the Protection of Personal Data in Possession of Private Parties (LFPDPPP, 2025)",
+    "regulator": "Secretaría Anticorrupción y Buen Gobierno (successor to the former INAI)",
+    "summary": "A new private-sector data protection law enacted in March 2025 replaced the 2010 statute, and data protection oversight passed from the dissolved INAI to the Secretaría Anticorrupción y Buen Gobierno. Earlier regulations and guidance remain relevant until replaced. Processing requires a privacy notice; implicit consent is the default, with express consent for financial or asset data and express written consent for sensitive data. Exceptions include processing required by law and data from publicly available sources. Transfers to third parties, including abroad, must be disclosed in the privacy notice and generally need consent unless an exception applies, such as intra-group transfers or the exercise of legal rights."
+  },
+  "investigator_regulation": "There is no stand-alone federal statute for private investigators. The Ley Federal de Seguridad Privada (2006) requires authorisation for private security services provided in two or more states, and one of its listed modalities covers services to obtain reports on the background, solvency, location or activities of persons. Services confined to a single state fall under state private security laws. Whether a particular investigative activity requires authorisation therefore depends on its scope and location, and is reviewed with Mexican counsel. Data protection law, constitutional privacy protections and criminal provisions on interception of communications constrain surveillance, recording and access to records.",
+  "corporate_records": "The Registro Público de Comercio, operated through the Secretaría de Economía's SIGER 2.0 platform, records the incorporation, amendment, merger, spin-off, dissolution and liquidation of commercial companies, each under a national electronic folio, and is available for public consultation online with certified copies on request. Shareholder changes are not always reflected promptly. Beneficial owner information is gathered under tax rules and, following the July 2025 reform, the anti-money laundering law, but it is not published. Real property registries and most court records are maintained by each state, with uneven online availability; federal judicial decisions are more accessible.",
+  "anti_corruption": "The Ley General de Responsabilidades Administrativas (2016) sets administrative liability for public officials and for companies involved in serious administrative offences, including bribery, within the National Anti-Corruption System. Bribery is also a criminal offence under federal and state criminal codes. The Federal Law for the Prevention and Identification of Operations with Resources of Illicit Origin (LFPIORPI) is the core anti-money laundering statute, substantially reformed with effect from 17 July 2025, lowering the beneficial ownership threshold to 25 percent. The Financial Intelligence Unit (UIF) of the Ministry of Finance leads AML enforcement alongside federal prosecutors.",
+  "matters": [
+    {
+      "title": "Nearshoring supplier and partner diligence",
+      "text": "Background research on Mexican manufacturers, logistics providers, distributors and landlords in industrial corridors such as Nuevo León, Coahuila, Guanajuato and Querétaro, covering SIGER corporate history, principals, litigation, adverse media in Spanish and indicators of undisclosed related parties."
+    },
+    {
+      "title": "Family group ownership mapping",
+      "text": "Mapping holdings and control within family-owned business groups ahead of acquisitions, financings or joint ventures, combining commercial registry filings, published regulatory information, court decisions and open-source research, and identifying where shareholder registers held by the company itself must be requested through the transaction."
+    },
+    {
+      "title": "Cargo theft and inventory losses",
+      "text": "Supporting internal and insurer reviews of cargo theft, inventory shrinkage and diversion of goods, including reconstruction of the supply chain, review of carrier and warehouse counterparties, and coordination with locally authorised professionals for any on-site enquiries."
+    },
+    {
+      "title": "Asset tracing for enforcement",
+      "text": "Assembling asset and corporate information to support enforcement of judgments and arbitral awards in Mexico, working from commercial registry filings, state property registries where accessible, and public litigation records, with Mexican counsel directing any judicial measures."
+    },
+    {
+      "title": "Vendor and procurement fraud",
+      "text": "Investigating vendor collusion, kickbacks and procurement fraud within Mexican subsidiaries, with document and transaction review, background on vendors and their owners, and assessment of potential exposure under the LGRA and US anti-bribery law where public officials are involved."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Spanish"
+    },
+    {
+      "label": "Time zones",
+      "value": "America/Mexico_City UTC-6 (most of the country); America/Cancun UTC-5; America/Tijuana UTC-8/-7"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; some sectors work Saturday mornings"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Mexico City, Monterrey, Guadalajara, Querétaro, Tijuana"
+    },
+    {
+      "label": "Commercial registry",
+      "value": "Registro Público de Comercio (SIGER 2.0, Secretaría de Economía)"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Foreign documents need official Spanish translation for court use; notaries (notarios públicos) formalise many corporate acts"
+    },
+    {
+      "label": "Courts",
+      "value": "Federal and state courts; concurrent jurisdiction in commercial matters"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Mexican matters from Nashville, starting with which records sit at federal level and which are held by individual states, and whether any proposed activity falls within the authorisation regime of the Ley Federal de Seguridad Privada or a state equivalent. Research draws on SIGER filings, published judicial decisions, regulatory and procurement information, and Spanish-language open sources. Where work in Mexico is needed, such as site visits, interviews or retrieval of state-level records, we coordinate appropriately authorised local professionals and work with Mexican counsel, particularly where evidence may be used in Mexican proceedings. Personal data is collected and transferred with the 2025 data protection law and privacy notice requirements in mind. We do not use pretexting or obtain non-public government data.",
+  "faqs": [
+    {
+      "q": "Can the Mexican commercial registry show who owns a company?",
+      "a": "Partly. SIGER records incorporation deeds and later corporate acts, which often identify founding shareholders, directors and appointed attorneys. Subsequent share transfers are not always registered, and the stock register is kept by the company. Beneficial owner information collected under tax and anti-money laundering rules is not public, so ownership conclusions are built from several sources and clearly qualified."
+    },
+    {
+      "q": "Does the 2024 judicial reform affect investigations supporting litigation?",
+      "a": "It affects the environment in which evidence will be used. Judges are now elected, the Supreme Court has been restructured, and commentators have raised concerns about predictability. Counsel may place more weight on arbitration or on documentary evidence that is thoroughly sourced. We prepare research with clear provenance so it can withstand scrutiny in whichever forum is chosen."
+    },
+    {
+      "q": "Who regulates personal data in Mexico after the INAI was dissolved?",
+      "a": "Under the private-sector data protection law enacted in March 2025, oversight passed to the Secretaría Anticorrupción y Buen Gobierno. The privacy notice and consent framework remains central, and transfers to third parties generally require consent unless an exception applies. We scope collection of personal data in Mexico with these rules and local counsel in mind."
+    },
+    {
+      "q": "Are background reports on individuals regulated in Mexico?",
+      "a": "The Ley Federal de Seguridad Privada lists, among its regulated modalities, services that obtain reports on the background, solvency, location or activities of persons, where provided across two or more states. State laws cover single-state services. We review with Mexican counsel whether a planned activity falls within these regimes before any local work is commissioned."
+    },
+    {
+      "q": "What changed in Mexico's anti-money laundering law in 2025?",
+      "a": "The LFPIORPI reform published in July 2025 lowered the beneficial ownership control threshold from more than 50 percent to more than 25 percent, extended beneficial owner identification across vulnerable activities, and strengthened the role of the Ministry of Finance and its Financial Intelligence Unit. Counterparties may now hold better ownership documentation, which can be requested in transactions."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Mexico",
+      "url": "https://www.dlapiperdataprotection.com/?c=MX&t=law"
+    },
+    {
+      "title": "Chambers Global Practice Guides: Litigation 2026, Mexico",
+      "url": "https://practiceguides.chambers.com/practice-guides/litigation-2026/mexico"
+    },
+    {
+      "title": "Chambers: Reform of Mexico's Anti-Money Laundering Law",
+      "url": "https://chambers.com/articles/reform-of-mexico-s-anti-money-laundering-law-regulatory-transformation-and-strategic-implications"
+    },
+    {
+      "title": "Cámara de Diputados: Ley Federal de Seguridad Privada (reforms)",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsp.htm"
+    },
+    {
+      "title": "Ley Federal de Seguridad Privada, Article 15",
+      "url": "https://mley.mx/LFSP/articulo/15/"
+    },
+    {
+      "title": "Cámara de Diputados: Ley General de Responsabilidades Administrativas (reforms)",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgra.htm"
+    },
+    {
+      "title": "Secretaría de Economía: SIGER 2.0 Registro Público de Comercio FAQ",
+      "url": "https://rpc.economia.gob.mx/siger2/xhtml/resources/docs/Preguntas_Frecuentes_RPC.pdf"
+    },
+    {
+      "title": "World Bank: Population, total (Mexico)",
+      "url": "https://api.worldbank.org/v2/country/MEX/indicator/SP.POP.TOTL?format=json&date=2024"
+    }
+  ],
+  "review_flags": [
+    "Data protection regulator: Secretaría Anticorrupción y Buen Gobierno per DLA Piper; it had not yet issued new guidelines; confirm current status and the 2025 law's exact transfer provisions.",
+    "Investigator regulation: application of LFSP modality on background/location reports to investigative consulting is our reading of Article 15; state-level laws not individually researched.",
+    "Criminal bribery provisions and corporate criminal liability not verified from a primary source (web search budget exhausted); text kept general.",
+    "Judicial reform implementation (elected judges since 2025) is ongoing and may change court practice."
+  ],
+  "researched": "2026-11-04"
+}

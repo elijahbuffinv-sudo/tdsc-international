@@ -1,0 +1,143 @@
+{
+  "cc": "MK",
+  "name": "North Macedonia",
+  "meta_description": "Investigative consulting for North Macedonia: Central Registry and UBO checks, GDPR-aligned data rules, TIDZ supplier review and integrity due diligence.",
+  "eyebrow": "Republic of North Macedonia",
+  "hero_lede": "Investigative consulting for matters touching North Macedonia uses an accessible Central Registry and a beneficial ownership register, works within a GDPR-aligned data protection law with strict transfer approvals, and addresses integrity risks in procurement, the judiciary and politically connected business.",
+  "intro": [
+    "North Macedonia is a small, open economy and an EU candidate country since 2005, steadily aligning its legislation with EU standards. It has a civil law system, a one-stop Central Registry through which all legal entities are registered, and a Register of Ultimate Beneficial Owners launched in 2021. Its data protection law, in force since February 2020, closely follows the GDPR, and the regulator takes a conservative approach to transfers outside the EU, EEA and NATO countries. Investors and the US government have reported lengthy commercial litigation and concerns about political interference in the judiciary, which shapes how court records and enforcement prospects should be read.",
+    "Organisations commission investigative work involving North Macedonia chiefly in connection with manufacturing investment, especially automotive and electronics suppliers operating in the Technological Industrial Development Zones, as well as energy, construction, public procurement and regional trade with the Western Balkans and the EU. Typical needs are background and ownership checks on local partners and suppliers, review of exposure to politically connected businesses, integrity due diligence ahead of acquisitions or tenders, and support to counsel in commercial disputes and judgment enforcement. Changes to the Criminal Code in 2023, which led to many corruption cases being dropped, mean that the absence of a conviction should not be read as the absence of concern."
+  ],
+  "population": {
+    "value": "1.82 million",
+    "year": "2024",
+    "source_url": "https://fred.stlouisfed.org/data/POPTOTMKA647NWDB"
+  },
+  "legal_system": "North Macedonia has a civil law system with increasing adversarial elements in procedure. Commercial disputes are heard by the ordinary courts, with appeals to the appellate courts and the Supreme Court; a Constitutional Court reviews constitutionality. Private enforcement agents carry out court judgments. Commercial disputes up to EUR 15,000 must first go through mediation. The Law on International Commercial Arbitration (2006) is based on the UNCITRAL Model Law, and a Permanent Court of Arbitration has operated within the Economic Chamber of North Macedonia since 1993.",
+  "data_protection": {
+    "law": "Law on Personal Data Protection (in force February 2020, as amended in 2021 and 2025)",
+    "regulator": "Personal Data Protection Agency",
+    "summary": "The law is largely harmonised with the GDPR, so investigative work involving personal data needs a lawful basis, proportionate scope and transparency, including for employee and counterparty checks. Transfers to EU, EEA and NATO member countries require notification to the Agency at least 15 days in advance. Transfers elsewhere, including to the United States outside those categories, generally need appropriate safeguards and prior approval, and the Agency has adopted no adequacy decisions and has informally expected a transfer impact assessment since 2022. Misuse of personal data is also a criminal offence under the Criminal Code."
+  },
+  "investigator_regulation": "North Macedonia is understood to have specific legislation on detective activity with state authorisation, but we have not been able to open the current text or confirm the licensing authority and its procedures, so this point is confirmed with Macedonian counsel for each engagement. In any case, investigative work must respect the data protection law, criminal prohibitions on misuse of personal data and unauthorised recording, and the restriction of bank, telecoms and police records to lawful process. TDSC relies on appropriately licensed local professionals for any work requiring a local licence.",
+  "corporate_records": "All legal entities register with the Central Registry of the Republic of North Macedonia through a one-stop-shop system, with online filing through authorised registration agents. Registry extracts show company details, founders, managers and registered capital, and annual accounts are filed with the Registry. North Macedonia also maintains a Register of Ultimate Beneficial Owners, launched in 2021 with a 25% threshold; the extent of public access should be confirmed at the time of a search. Real property records are held by the Agency for Real Estate Cadastre, and court records are obtained through the relevant court.",
+  "anti_corruption": "Bribery, abuse of official position and related offences are criminalised under the Criminal Code, and officials and their close relatives must declare income and assets. The State Commission for Prevention of Corruption (DKSK) oversees prevention, conflicts of interest, asset declarations and lobbying, under the 2021-2025 national anti-corruption strategy. Prosecution sits with the public prosecution service. North Macedonia has ratified the UN Convention against Corruption. Criminal Code amendments in September 2023 led to many corruption cases being dropped.",
+  "matters": [
+    {
+      "title": "TIDZ supplier and partner checks",
+      "text": "Ownership and integrity review of local suppliers, landlords, logistics providers and service companies supporting automotive and electronics plants in the Technological Industrial Development Zones, where incentives and public land allocation can attract politically connected intermediaries."
+    },
+    {
+      "title": "Public procurement and tenders",
+      "text": "Review of consortium partners, subcontractors and competitors in public tenders for construction, energy and infrastructure, including links to officials, prior procurement disputes and companies that appear repeatedly as winning bidders."
+    },
+    {
+      "title": "Acquisition integrity due diligence",
+      "text": "Pre-transaction review of targets and their principals, covering Central Registry history, beneficial ownership declarations, litigation, enforcement proceedings, media coverage and links to politically exposed persons or regional business groups."
+    },
+    {
+      "title": "Dispute and enforcement support",
+      "text": "Asset and corporate-link research for counsel enforcing judgments or arbitral awards, identifying companies, real property and related parties of a debtor across North Macedonia and neighbouring Western Balkan jurisdictions."
+    },
+    {
+      "title": "Regional network mapping",
+      "text": "Mapping of business relationships that span North Macedonia, Serbia, Kosovo, Albania, Bulgaria and Greece, where shared shareholders and cross-border holding structures can obscure who ultimately controls a counterparty."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Macedonian; Albanian (co-official); English common in business"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Skopje, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Macedonian denar (MKD)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Skopje, Bitola, Tetovo, Kumanovo, Ohrid"
+    },
+    {
+      "label": "Courts language",
+      "value": "Macedonian, with Albanian used in prescribed circumstances"
+    },
+    {
+      "label": "Pre-litigation mediation",
+      "value": "Mandatory for commercial disputes up to EUR 15,000"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Certified translations into Macedonian required for foreign documents in proceedings"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes engagements touching North Macedonia from Nashville, beginning with a jurisdictional review of purpose, the lawful basis for any personal data processing and how results will be transferred to the client, given the Personal Data Protection Agency's approach to transfers outside the EU, EEA and NATO. Research draws on Central Registry and beneficial ownership records, court and enforcement information obtainable through lawful channels, DKSK publications, procurement data and Macedonian, Albanian and regional media. Where local record retrieval or enquiries are required, TDSC coordinates appropriately licensed local professionals and works alongside Macedonian counsel, who advise on evidence and remedies. Reports distinguish clearly between verified records and allegations, particularly where cases were discontinued after 2023.",
+  "faqs": [
+    {
+      "q": "Can beneficial owners of a Macedonian company be identified?",
+      "a": "Often. North Macedonia has operated a Register of Ultimate Beneficial Owners since 2021, with a 25% threshold, alongside Central Registry records on founders and managers. Declarations are made by the companies themselves, so they should be cross-checked against shareholding history, related companies and media reporting, especially where foreign holding companies sit in the chain."
+    },
+    {
+      "q": "Can investigative findings about Macedonian individuals be sent to the United States?",
+      "a": "Yes, but on a documented basis. The United States is a NATO member, so transfers can fall within the notification route, which requires notifying the Personal Data Protection Agency at least 15 days beforehand. Other destinations generally need safeguards and approval. TDSC keeps personal data to what the matter requires and confirms the transfer route with local counsel."
+    },
+    {
+      "q": "Why might a corruption case against a counterparty have been dropped?",
+      "a": "Amendments to the Criminal Code in September 2023 reduced penalties and limitation periods for certain offences, and many pending cases were dismissed as a result. A discontinued case is therefore not the same as an acquittal on the merits. TDSC reports the procedural history and leaves the legal assessment to counsel."
+    },
+    {
+      "q": "How reliable are court timelines for enforcing a claim in North Macedonia?",
+      "a": "Investors report that commercial litigation can be lengthy and costly, though judgments are enforced by private enforcement agents. Mediation is mandatory for smaller commercial claims. For larger matters, arbitration under the 2006 UNCITRAL-based law is common. Early asset research helps counsel judge whether enforcement is worth pursuing."
+    },
+    {
+      "q": "Are private investigators licensed in North Macedonia?",
+      "a": "Detective activity is understood to be subject to specific legislation and authorisation, but we have not verified the current text, so the position is confirmed with local counsel for each matter. TDSC does not hold a Macedonian licence; where licensed local work is needed, it coordinates appropriately licensed local professionals and keeps all enquiries within data protection and criminal law limits."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: North Macedonia",
+      "url": "https://www.dlapiperdataprotection.com/index.html?c=MK&t=law"
+    },
+    {
+      "title": "US Department of State: 2024 Investment Climate Statements, North Macedonia",
+      "url": "https://www.state.gov/reports/2024-investment-climate-statements/north-macedonia/"
+    },
+    {
+      "title": "Open Ownership: North Macedonia",
+      "url": "https://www.openownership.org/en/map/country/north-macedonia/"
+    },
+    {
+      "title": "FRED / World Bank: Population, Total for North Macedonia",
+      "url": "https://fred.stlouisfed.org/data/POPTOTMKA647NWDB"
+    },
+    {
+      "title": "State Commission for Prevention of Corruption (DKSK)",
+      "url": "https://www.dksk.mk/"
+    },
+    {
+      "title": "European Commission: North Macedonia Report 2025",
+      "url": "https://enlargement.ec.europa.eu/north-macedonia-report-2025_en"
+    },
+    {
+      "title": "Wikipedia: Judiciary of North Macedonia",
+      "url": "https://en.wikipedia.org/wiki/Judiciary_of_North_Macedonia"
+    }
+  ],
+  "review_flags": [
+    "Private investigator regulation: a Law on Detective Activity and state licensing are believed to exist, but the text and licensing authority could not be opened or verified. Confirm with local counsel before publishing.",
+    "AML law name/year and Financial Intelligence Office not verified (FIU site blocked); anti_corruption field omits AML law accordingly. Add after verification.",
+    "Public access level of the UBO register not confirmed.",
+    "Agency for Real Estate Cadastre named from general knowledge, not an opened source.",
+    "US State Dept calls the regulator 'Directorate for Personal Data Protection'; DLA Piper uses 'Personal Data Protection Agency' (current name after 2020 law). Confirm official English name.",
+    "Courts-language practice for Albanian stated generally; confirm."
+  ],
+  "researched": "2026-11-04"
+}

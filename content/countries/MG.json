@@ -1,0 +1,155 @@
+{
+  "cc": "MG",
+  "name": "Madagascar",
+  "meta_description": "Investigative consulting for matters touching Madagascar: due diligence on mining, vanilla and textile counterparties, asset tracing and records review.",
+  "eyebrow": "Republic of Madagascar",
+  "hero_lede": "Investigative consulting for matters touching Madagascar means working through a French-derived civil law system, a bilingual French and Malagasy record base, a political transition under way since October 2025, and commodity sectors such as nickel, cobalt, graphite and vanilla where provenance and counterparties need careful checking.",
+  "intro": [
+    "Madagascar's legal framework follows the French civil law tradition, with customary law still relevant to family and some property matters. Business is conducted largely in French, while Malagasy is the national language and appears in many local records. The Economic Development Board of Madagascar (EDBM) acts as the investment agency and company formation point. Since the military takeover of October 2025, which suspended the constitution and installed transitional authorities, institutional arrangements have been in flux, and any investigation should be scoped on the basis that procedures, officeholders and regulatory timetables may change. Records exist, but many are held in paper form or at regional offices, and confirming what a document says often requires on-the-ground retrieval rather than an online query.",
+    "Organisations commission work involving Madagascar for several recurring reasons. Mining investors and offtakers need assurance on licence holders, joint venture partners and local intermediaries in a sector exposed to permitting disputes. Buyers of vanilla, cloves, seafood and other agricultural exports look at supply chain integrity and the people behind collectors and exporters. Apparel brands sourcing from export-processing zones review factory ownership and labour practices. Lenders, development finance institutions and counterparties in disputes look for assets, related parties and litigation history. Following the 2025 political change, clients also ask for reassessments of politically exposed persons and government-linked counterparties."
+  ],
+  "population": {
+    "value": "32.0 million",
+    "year": "2024",
+    "source_url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MG"
+  },
+  "legal_system": "Madagascar has a civil law system based on the French civil code, with customary law applying to aspects of marriage, family and obligations. Ordinary jurisdiction runs from roughly 39 first instance courts through six Courts of Appeal (Antananarivo, Antsiranana, Fianarantsoa, Toamasina, Mahajanga and Toliara) to the Supreme Court in Antananarivo. Arbitration is governed by legislation influenced by the UNCITRAL Model Law, and the Centre d'Arbitrage et de Médiation de Madagascar (CAMM) administers domestic and international commercial arbitration. Specialised anti-corruption judicial poles handle corruption and related economic offences.",
+  "data_protection": {
+    "law": "Law No. 2014-038 on the Protection of Personal Data (promulgated 2015)",
+    "regulator": "Commission Malagasy sur l'Informatique et des Libertés (CMIL)",
+    "summary": "Law No. 2014-038 requires a lawful basis for processing, typically consent or another listed ground such as a legal obligation, contract performance or legitimate interest, subject to individuals' rights. Sensitive data, including political opinions and beliefs, faces stricter conditions. Transfers abroad are permitted to countries offering sufficient protection, or otherwise on consent or specified necessity grounds, including establishing or defending legal claims. Most processing requires prior declaration to the CMIL, but the CMIL was created by decree only in December 2023 and, according to DLA Piper, is not yet fully operational and implementing rules remain outstanding. Investigative work should nonetheless be designed to comply with the law's principles of purpose limitation and minimisation."
+  },
+  "investigator_regulation": "We have not identified a published, dedicated licensing regime for private investigators or detective agencies in Madagascar, and the status of private security legislation as it applies to investigative activity should be confirmed with local counsel before any field work. Engagements are scoped on that basis. Regardless of licensing, general criminal and civil law protections for privacy, the data protection law and restrictions on access to official records apply. Surveillance, covert recording and any approach to public officials are treated as high-risk activities requiring prior legal review, and TDSC does not seek access to non-public government records.",
+  "corporate_records": "Companies are registered on the Registre du Commerce et des Sociétés (RCS), with formation handled through the EDBM one-stop shop in Antananarivo. Certified RCS extracts can be obtained, but there is no well-documented public online search, and confirming directors, shareholders and filings usually requires in-person requests or review of documents supplied by the company. A beneficial ownership declaration obligation, filed with the tax administration (DGI), took effect in June 2026; we have not confirmed that the information is publicly accessible. Land titles are held by the land administration and court records at individual tribunals, typically requiring local retrieval.",
+  "anti_corruption": "The principal statutes are Law No. 2016-020 on the fight against corruption and Law No. 2016-021 establishing the anti-corruption judicial poles (Pôles Anti-Corruption, PAC). Money laundering and terrorist financing are addressed by Law No. 2018-043, amended by legislation adopted in December 2023. The Bureau Indépendant Anti-Corruption (BIANCO) investigates corruption, SAMIFIN (Sampan-draharaha Malagasy Iadiana amin'ny Famotsiam-bola) is the financial intelligence unit, and an agency for the recovery of illicit assets (ARAI) has been established.",
+  "matters": [
+    {
+      "title": "Mining partner and licence due diligence",
+      "text": "Checks on holders of mining permits, joint venture partners and local intermediaries in nickel, cobalt, graphite, ilmenite and gemstone projects, including ownership chains, litigation history, politically exposed links and community or permitting disputes that could affect a project's continuity."
+    },
+    {
+      "title": "Vanilla and agricultural supply chains",
+      "text": "Mapping collectors, exporters and their beneficial owners in the vanilla, clove and spice trade around Sava and other producing regions, where price volatility, theft and informal pre-financing create counterparty risk, and confirming that suppliers are what they present themselves to be."
+    },
+    {
+      "title": "Export-processing zone factory reviews",
+      "text": "Background and ownership reviews of apparel and textile manufacturers operating in Madagascar's export-processing zones, covering related parties, subcontracting arrangements, labour and compliance history, and media or court records relevant to brand buyers, auditors and their compliance teams."
+    },
+    {
+      "title": "Post-transition counterparty reassessment",
+      "text": "Reassessing government-linked contracts, concessions and counterparties after the October 2025 change of power, including identification of newly appointed or departing officials, politically exposed persons, and changes in the standing or protection of incumbent local partners and agents."
+    },
+    {
+      "title": "Asset tracing and judgment support",
+      "text": "Supporting lenders and claimants in identifying real property, company interests and business relationships of debtors in Madagascar, coordinated with local counsel on enforcement options and with attention to records that are held only in paper form."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official languages",
+      "value": "Malagasy and French; English increasingly used in business"
+    },
+    {
+      "label": "Time zone",
+      "value": "Indian/Antananarivo, UTC+3"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Antananarivo, Toamasina, Mahajanga, Antsirabe"
+    },
+    {
+      "label": "Currency",
+      "value": "Malagasy ariary (MGA)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Court and record languages",
+      "value": "French and Malagasy"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-based; introductions and formal courtesy matter"
+    },
+    {
+      "label": "Investment agency",
+      "value": "Economic Development Board of Madagascar (EDBM)"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Madagascar engagements from Nashville, beginning with a jurisdictional review that accounts for the transitional political situation since October 2025 and the unsettled status of the data protection regulator. We define the questions first, then identify which answers can come from lawful open sources, which require certified extracts from the RCS or court registries, and which need discreet inquiries on the ground. Where local work is needed, we coordinate qualified local professionals and, for legal questions, Malagasy counsel, with French and Malagasy language review. Personal data is collected only where relevant to the stated purpose, transferred under documented grounds, and held securely. We report sources and confidence levels plainly, distinguishing confirmed records from information that could not be verified.",
+  "faqs": [
+    {
+      "q": "Can company ownership in Madagascar be confirmed online?",
+      "a": "Not reliably. The RCS and the EDBM provide certified extracts, but there is no well-documented public online search that shows directors and shareholders. Confirmation usually comes from certified extracts, statutes and filings retrieved locally or supplied by the company, cross-checked against press, court and trade records. Beneficial ownership declarations filed with the tax administration since 2026 are not known to be publicly accessible."
+    },
+    {
+      "q": "How has the 2025 political transition affected investigative work?",
+      "a": "The military takeover of October 2025 suspended the constitution and installed transitional institutions, with a referendum on a new constitutional order promised within two years. In practice this means officeholders, regulators and procedures may change during an engagement. We build that uncertainty into scoping, re-check politically exposed person status, and avoid assuming that pre-transition arrangements remain in place."
+    },
+    {
+      "q": "Does Madagascar have a data protection authority?",
+      "a": "Law No. 2014-038 created the framework and the CMIL was established by decree in December 2023. According to DLA Piper, the CMIL is not yet fully operational and implementing rules remain pending, so registration and authorisation procedures are not yet working in practice. We still apply the law's principles on lawful basis, minimisation and transfers when handling personal data."
+    },
+    {
+      "q": "Can TDSC verify the provenance of vanilla or other agricultural exports?",
+      "a": "We can investigate the people and companies in a supply chain: exporters, collectors, financiers and their related parties, along with any public enforcement, litigation or media history. We do not certify product quality or origin. Where field verification is needed, we coordinate qualified local professionals and report what was observed, by whom and with what limitations."
+    },
+    {
+      "q": "Are court judgments in Madagascar easy to search?",
+      "a": "Generally not. Court records are held at individual first instance courts, Courts of Appeal and the Supreme Court, and there is no comprehensive public online database of commercial judgments. Searches typically require targeted local retrieval with the assistance of counsel, and results should be read as covering the registries actually checked rather than the whole country."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Madagascar",
+      "url": "https://www.dlapiperdataprotection.com/?c=MG&t=law"
+    },
+    {
+      "title": "Loi n° 2014-038 sur la protection des données à caractère personnel (Assemblée nationale)",
+      "url": "https://www.assemblee-nationale.mg/wp-content/uploads/2020/11/Loi-n°2014-038-sur-la-protection-des-données-à-Kre-personnel.pdf"
+    },
+    {
+      "title": "Loi n° 2016-020 sur la lutte contre la corruption (Assemblée nationale)",
+      "url": "https://www.assemblee-nationale.mg/wp-content/uploads/2020/11/Loi-n°-2016-020-Lutte-contre-la-corruption.pdf"
+    },
+    {
+      "title": "Loi n° 2016-021 sur les pôles anti-corruption (Assemblée nationale)",
+      "url": "https://www.assemblee-nationale.mg/wp-content/uploads/2020/11/Loi-n°-2016-021-pôles-anti-corruption.pdf"
+    },
+    {
+      "title": "Loi n° 2018-043 sur le blanchiment de capitaux (Assemblée nationale)",
+      "url": "https://www.assemblee-nationale.mg/wp-content/uploads/2020/10/Loi-n°2018-043-Blanchiment-de-capitaux.pdf"
+    },
+    {
+      "title": "L'Express de Madagascar: la loi sur le blanchiment de capitaux adoptée (December 2023)",
+      "url": "https://www.lexpress.mg/2023/12/assemblee-nationale-la-loi-sur-le.html"
+    },
+    {
+      "title": "Addleshaw Goddard: Doing business in Africa, Madagascar",
+      "url": "https://www.addleshawgoddard.com/en/doing-business-in-africa/africa-countries-a-z-list/madagascar/"
+    },
+    {
+      "title": "ConstitutionNet: In Madagascar, military ousts president and suspends constitution",
+      "url": "https://constitutionnet.org/news/madagascar-military-ousts-president-and-suspends-constitution"
+    },
+    {
+      "title": "Madagascar Services: RCBE registration (beneficial owners)",
+      "url": "https://www.madagascar-services.com/blog/en/2026/08/06/your-rcbe-registration-with-our-support/"
+    },
+    {
+      "title": "World Bank: Population, total (Madagascar)",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MG"
+    }
+  ],
+  "review_flags": [
+    "Political transition: constitution suspended October 2025; institutions, courts' framework and officeholders may change. Re-check before publishing.",
+    "No dedicated private investigator licensing regime identified; not confirmed either way.",
+    "CMIL operational status per DLA Piper (late 2024/2025); may have changed (local press in Feb 2026 reports CMIL increasing activity).",
+    "Arbitration statute number not confirmed from the primary text (Addleshaw Goddard cites Law No. 98-019; the National Assembly site also hosts Law No. 96-012 on arbitration). Text avoids citing a number.",
+    "Beneficial ownership declaration (RCBE) legal basis and public access not confirmed from an official source; based on a service-provider blog.",
+    "Registry name RCS and the existence of the asset recovery agency ARAI taken from search-result titles and secondary sources."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,135 @@
+{
+  "cc": "MA",
+  "name": "Morocco",
+  "meta_description": "Investigative consulting for Morocco matters: OMPIC company records, commercial courts, Law 09-08 transfer authorisations and INPPLC anti-corruption context.",
+  "eyebrow": "Kingdom of Morocco",
+  "hero_lede": "Investigative consulting for matters touching Morocco involves counterparties in its automotive, aerospace, renewables and agro-industrial sectors, company records held by OMPIC, and personal data rules that require authorisation for transfers abroad. TDSC scopes this work from Nashville and coordinates qualified Moroccan professionals and counsel where needed.",
+  "intro": [
+    "Morocco has a hybrid legal system built on French-model civil law, including the 1913 Code of Obligations and Contracts and the 1996 Code of Commerce, with Islamic law influencing personal status matters. Specialised commercial courts sit in the main cities, with three commercial courts of appeal. Company information is held in the Registre central du commerce maintained by OMPIC, which makes legal and financial records available online for a fee, an unusual level of access for the region. Personal data is governed by Law 09-08 of 2009, under which processing generally requires a declaration to the CNDP and transfers abroad require prior authorisation. Investigative work must be planned around these requirements and the use of Arabic and French in official records.",
+    "Organisations commission work involving Morocco because it has become a manufacturing and logistics platform linking Europe and Africa, with significant investment in automotive production, aeronautics, battery and electric vehicle supply chains, renewables and green hydrogen. Casablanca Finance City, launched in 2010, hosts regional headquarters and financial firms serving Francophone Africa. Typical needs include due diligence on suppliers, distributors and joint venture partners, ownership research on family-controlled groups, integrity reviews in public procurement and concession projects, and asset and background research for disputes before Moroccan commercial courts or in arbitration. Matters often connect Morocco with France, Spain and West African markets."
+  ],
+  "population": {
+    "value": "38.1 million",
+    "year": "2024",
+    "source_url": "https://api.worldbank.org/v2/country/MAR/indicator/SP.POP.TOTL?format=json&date=2024"
+  },
+  "legal_system": "Morocco has a hybrid legal system combining French-model civil law with Islamic law influence, principally in personal status matters. Core commercial sources include the 1913 Code of Obligations and Contracts and the 1996 Code of Commerce. Under Law No. 53-95, specialised commercial courts in the main cities hear commercial and insolvency cases, with appeals to Commercial Courts of Appeal in Casablanca, Fes and Marrakech, and final review by the Court of Cassation. Law No. 08-05 governs arbitration and mediation; leading institutions include the Casablanca International Mediation and Arbitration Centre and an arbitration and mediation centre in Rabat.",
+  "data_protection": {
+    "law": "Law No. 09-08 of 18 February 2009 and implementing Decree No. 2-09-165 of 21 May 2009",
+    "regulator": "Commission Nationale de contrôle de la protection des Données à caractère Personnel (CNDP)",
+    "summary": "Law 09-08 makes consent the general basis for processing, with exceptions such as legal obligation, contract performance and legitimate interests, which the CNDP interprets narrowly. Processing generally requires prior declaration to the CNDP, and prior authorisation is required for sensitive data, data on offences or convictions, processing for a new purpose and data including national ID card numbers. Any transfer of personal data to a foreign state requires prior CNDP authorisation and is generally limited to countries with adequate protection unless an exception applies. Cybersecurity Law 05-20 and its implementing decree add data handling obligations that lead many Moroccan entities to keep data locally."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators in Morocco from the sources available to us, and we do not assume that none applies. Engagements involving enquiries in Morocco are therefore scoped with Moroccan counsel, who confirm whether any authorisation is needed for the planned activity and that local professionals are suitably qualified. Law 09-08 is particularly relevant: processing data about suspected offences requires CNDP authorisation, and covert collection of personal data carries legal risk. Surveillance, recording and access to administrative, banking or telecommunications records are permitted only through lawful channels.",
+  "corporate_records": "OMPIC maintains the Registre central du commerce and, through its Direct Info service, provides online access to company legal records, articles of association, meeting minutes, financial statements and statutory auditor reports for a fee, which is a valuable source for counterparty research. Company registration has been available online since 2021. Foreign companies registering a presence must provide apostilled Arabic translations of their constitutional documents. We have not confirmed from a primary source the status or accessibility of a beneficial ownership register. Officials' asset declarations are filed but not public, and court decisions are published only selectively.",
+  "anti_corruption": "Corruption by officials is criminalised under the Penal Code, and Morocco ratified the UN Convention against Corruption in 2007. Law No. 46-19 (2021) strengthened the National Authority for Probity, Prevention and Fight against Corruption (INPPLC), which has prevention and detection powers. An access to information law was adopted in 2018. Law No. 43-05 on combating money laundering, as amended, is the core AML statute, and Morocco exited the FATF increased monitoring list in February 2023 after reforms. The national financial intelligence authority receives suspicious transaction reports.",
+  "matters": [
+    {
+      "title": "Automotive and aerospace supplier diligence",
+      "text": "Background research on suppliers, logistics providers and joint venture partners in the automotive, aerospace and battery supply chains around Tangier, Kenitra and Casablanca, using OMPIC legal and financial records, litigation, regulatory history and French and Arabic-language media."
+    },
+    {
+      "title": "Family group ownership research",
+      "text": "Mapping ownership and control of family-held industrial, real estate and distribution groups ahead of acquisitions or partnerships, drawing on OMPIC filings, financial statements, published decisions and open sources, and identifying links to influential individuals."
+    },
+    {
+      "title": "Renewables and concession integrity",
+      "text": "Integrity due diligence on sponsors, subcontractors and local partners in renewable energy, green hydrogen, water and infrastructure concessions, including procurement history, related-party relationships and exposure to corruption allegations."
+    },
+    {
+      "title": "Commercial court dispute support",
+      "text": "Supporting counsel before Morocco's commercial courts or in arbitration at CIMAC or elsewhere with party background, chronology from public filings, and research into assets and corporate interests in Morocco and in France, Spain or West Africa."
+    },
+    {
+      "title": "Regional headquarters counterparties",
+      "text": "Due diligence on Casablanca-based holding companies and regional headquarters used for operations across Francophone Africa, tracing ownership, management and activities in subsidiary jurisdictions and identifying integrity and sanctions-screening concerns."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Arabic and Amazigh (official); French widely used in business; Spanish in the north"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Casablanca, UTC+1 (UTC+0 during Ramadan)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; shorter Friday hours common"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Casablanca, Rabat, Tangier, Marrakech, Agadir, Fes"
+    },
+    {
+      "label": "Company records",
+      "value": "OMPIC Registre central du commerce (Direct Info online)"
+    },
+    {
+      "label": "Courts language",
+      "value": "Arabic; translations of foreign documents required"
+    },
+    {
+      "label": "Data transfers abroad",
+      "value": "Prior CNDP authorisation required"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-driven; formal correspondence often in French"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Moroccan matters from Nashville. We begin with a review of Law 09-08 requirements, since processing data about suspected wrongdoing and transferring personal data abroad both require CNDP involvement, and agree with Moroccan counsel how the engagement will meet them. Research then draws on OMPIC legal and financial filings, published court decisions, regulatory and procurement information, and Arabic, French and English open sources. Where enquiries in Morocco are needed, we coordinate qualified local professionals and work with Moroccan counsel, who also advise on court-ordered routes to information. Findings are delivered with personal data minimised. We do not use pretexting or seek administrative, banking or telecommunications records outside lawful process.",
+  "faqs": [
+    {
+      "q": "What company information can be obtained in Morocco?",
+      "a": "More than in many regional jurisdictions. OMPIC's Direct Info service provides, for a fee, legal records, articles of association, meeting minutes, financial statements and auditor reports from the Registre central du commerce. These documents often identify shareholders and managers and support financial analysis of counterparties."
+    },
+    {
+      "q": "Does Moroccan data protection law affect cross-border investigations?",
+      "a": "Yes. Under Law 09-08, transferring personal data to a foreign state requires prior authorisation from the CNDP, and processing data about suspected offences also requires authorisation. We plan engagements so that personal data is limited and any necessary transfer has a lawful route agreed with Moroccan counsel."
+    },
+    {
+      "q": "Which courts hear commercial disputes in Morocco?",
+      "a": "Specialised commercial courts in the main cities hear commercial and insolvency matters, with appeals to the Commercial Courts of Appeal in Casablanca, Fes and Marrakech. Proceedings are conducted in Arabic. Many international contracts use arbitration, with CIMAC in Casablanca a frequent choice."
+    },
+    {
+      "q": "Who leads anti-corruption efforts in Morocco?",
+      "a": "The National Authority for Probity, Prevention and Fight against Corruption (INPPLC), strengthened by Law 46-19 in 2021, leads prevention and detection, while prosecutions proceed under the Penal Code. Officials' asset declarations are not public, so integrity research relies on corporate records, court decisions and media."
+    },
+    {
+      "q": "Is Casablanca Finance City relevant to due diligence?",
+      "a": "Often. Casablanca Finance City hosts holding companies and regional headquarters serving Francophone Africa. A CFC entity may be the visible contracting party while operations and assets sit in other African jurisdictions, so we trace subsidiaries and management across those countries as part of the scope."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Morocco",
+      "url": "https://www.dlapiperdataprotection.com/?c=MA&t=law"
+    },
+    {
+      "title": "US Department of State: 2024 Investment Climate Statements, Morocco",
+      "url": "https://www.state.gov/reports/2024-investment-climate-statements/morocco/"
+    },
+    {
+      "title": "CNDP (Morocco)",
+      "url": "https://www.cndp.ma/en/"
+    },
+    {
+      "title": "OMPIC Direct Info",
+      "url": "https://www.directinfo.ma/"
+    },
+    {
+      "title": "World Bank: Population, total (Morocco)",
+      "url": "https://api.worldbank.org/v2/country/MAR/indicator/SP.POP.TOTL?format=json&date=2024"
+    }
+  ],
+  "review_flags": [
+    "INPPLC law number: State Department page wrote 'Law No. 19-46'; the actual law is commonly cited as 46-19. Verify.",
+    "AML Law 43-05 and the name of the financial intelligence authority (ANRF, formerly UTRF) not verified from a primary source; text avoids naming the FIU.",
+    "Beneficial ownership register status not verified.",
+    "Private investigator regulation not identified; Court of Cassation reference from general knowledge.",
+    "CNDP full French name from general knowledge; verify.",
+    "Only 5 sources; below preferred depth."
+  ],
+  "researched": "2026-11-04"
+}

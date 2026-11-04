@@ -1,0 +1,142 @@
+{
+  "cc": "MC",
+  "name": "Monaco",
+  "meta_description": "Investigative consulting for Monaco matters: private wealth and asset questions, Law 1.565 data protection, CCIN authorisations and AMSF oversight.",
+  "eyebrow": "Principality of Monaco",
+  "hero_lede": "Investigative consulting for matters touching Monaco usually concerns private wealth, residency and property, and the people and companies behind them, in a small jurisdiction with strict data protection and discreet institutions. TDSC scopes this work from Nashville and coordinates appropriately authorised local professionals and counsel where needed.",
+  "intro": [
+    "Monaco is a sovereign principality with a civil law tradition closely aligned with French law, its own codes and courts, and a highest civil and criminal court, the Cour de révision, staffed by judges drawn from France. Its institutions are small and its business community closely connected. Personal data is governed by a GDPR-comparable statute adopted in December 2024, under which processing for surveillance or concerning suspected offences requires prior authorisation from the data protection authority, the CCIN. That rule has direct consequences for investigative work. Commercial activity is concentrated in finance, insurance, real estate, wholesale trade and services, and much of what investigators need sits with banks, family offices, trust and corporate service providers, and notaries rather than in public registers.",
+    "Organisations commission work involving Monaco because it is home to substantial private wealth, a concentrated wealth management and banking sector, and high-value real estate, and because Monaco-resident individuals and companies appear frequently in cross-border disputes, divorces, insolvencies and enforcement proceedings. Typical needs include asset and lifestyle research supporting litigation, due diligence on individuals seeking investment or partnership, reputational screening of residents and their companies, and support for counsel on fraud and breach of trust claims. Matters are often linked to France, Italy, Switzerland, the United Kingdom and offshore centres, so investigative scoping must address several legal systems together."
+  ],
+  "population": {
+    "value": "38,631",
+    "year": "2024",
+    "source_url": "https://api.worldbank.org/v2/country/MCO/indicator/SP.POP.TOTL?format=json&date=2024"
+  },
+  "legal_system": "Monaco has a civil law system closely modelled on French law, with its own Civil Code, Commercial Code and procedural codes. Commercial disputes are heard at first instance by the Tribunal de première instance, with appeal to the Cour d'appel and final review on points of law by the Cour de révision, which hears civil and criminal matters and is staffed by judges from France. The Tribunal suprême exercises constitutional and administrative review under the 1962 Constitution. We have not identified a specialised commercial court or a dedicated local arbitration institution; international arbitration seated elsewhere is common in cross-border matters.",
+  "data_protection": {
+    "law": "Law No. 1.565 of 3 December 2024 on the protection of personal data",
+    "regulator": "Commission de Contrôle des Informations Nominatives (CCIN)",
+    "summary": "Law No. 1.565 provides protection comparable to the GDPR, and Article 22 of the Constitution protects privacy and correspondence. For investigative work the key point is that processing for surveillance purposes, or concerning suspected offences, unlawful activity or security measures, requires prior authorisation from the CCIN. Transfers abroad are permitted to countries the CCIN considers equivalent; otherwise a CCIN transfer authorisation or a recognised exception, such as consent, is required, including where data is accessed from abroad. The CCIN has stated that employers may not access private messages in a work email account without the employee's presence and agreement."
+  },
+  "investigator_regulation": "We have not been able to verify from an official source the current statutory framework for private investigators (agents de recherches privées) in Monaco, including whether a specific authorisation is required and from which authority. Business activity in Monaco generally requires prior administrative authorisation, and the data protection law independently requires CCIN authorisation for surveillance-related processing, so engagements involving any work in the Principality are scoped with Monegasque counsel before they begin. Covert recording, physical surveillance and access to banking or administrative records are tightly constrained, and records are obtained only through lawful public access or judicial process.",
+  "corporate_records": "Commercial companies and traders are registered in the Répertoire du Commerce et de l'Industrie (RCI), from which basic registration information can be obtained; the depth of information publicly available is narrower than in many EU registries. We have not confirmed from an official source the public access status of Monaco's beneficial ownership registers, and the FATF's published ratings indicate that transparency of legal arrangements such as trusts has been weaker than for companies. Many holding structures for Monaco residents sit in other jurisdictions. Property transactions are executed before Monegasque notaries, and court records are not systematically published online.",
+  "anti_corruption": "Monaco's anti-money laundering framework is supervised by the Autorité Monégasque de Sécurité Financière (AMSF), which houses the financial intelligence unit and supervises reporting professionals. The FATF reports that Monaco's 2023 MONEYVAL mutual evaluation was followed by improvements in technical compliance recognised in December 2024. Bribery and corruption offences are set out in the Criminal Code. We have not verified the citation of the principal AML statute or recent anti-corruption amendments from a primary source.",
+  "matters": [
+    {
+      "title": "Asset research for litigation",
+      "text": "Supporting counsel in divorce, insolvency, fraud and enforcement proceedings with research into Monaco-linked assets, companies, property interests and lifestyle indicators, drawing on RCI information, published judgments, foreign registries and open sources, and identifying where only judicial process can obtain further information."
+    },
+    {
+      "title": "Resident and principal due diligence",
+      "text": "Background and reputational research on Monaco-resident individuals proposed as investors, partners, borrowers or board members, covering business history across several jurisdictions, litigation, regulatory actions and media in French, Italian and English."
+    },
+    {
+      "title": "Wealth management integrity questions",
+      "text": "Assisting counsel and institutions with background research on asset managers, family office personnel and intermediaries in matters involving alleged misappropriation, undisclosed conflicts or breach of mandate, with careful attention to banking secrecy and data protection constraints."
+    },
+    {
+      "title": "Real estate and yacht transactions",
+      "text": "Research into counterparties, intermediaries and ownership chains behind high-value property and yacht transactions linked to Monaco, often involving companies registered in other jurisdictions, to identify ultimate parties and red flags before completion."
+    },
+    {
+      "title": "Multi-jurisdiction structure mapping",
+      "text": "Mapping corporate and trust structures connecting Monaco residents to holdings in France, Italy, Switzerland, the United Kingdom and offshore centres, and coordinating research across those jurisdictions so the result can support legal advice in each."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "French (official); Italian and English widely used"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Monaco, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Euro"
+    },
+    {
+      "label": "Courts language",
+      "value": "French"
+    },
+    {
+      "label": "Company register",
+      "value": "Répertoire du Commerce et de l'Industrie (RCI)"
+    },
+    {
+      "label": "Surveillance-related processing",
+      "value": "Prior CCIN authorisation required"
+    },
+    {
+      "label": "Business culture",
+      "value": "Highly relationship-based and discreet; formal written communication"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Monaco matters from Nashville, beginning with a jurisdictional review that addresses Law No. 1.565 and the CCIN authorisation requirement for surveillance-related processing, as well as banking and professional secrecy. Much relevant information sits outside Monaco, so research typically spans French, Italian, Swiss, British and offshore records alongside RCI information, published Monegasque judgments and open sources. Where any work is needed in the Principality itself, we coordinate appropriately authorised local professionals and work under the direction of Monegasque counsel, who also advise on judicial routes to information that is not public. We do not conduct surveillance in Monaco without confirmed legal basis, do not use pretexting and do not seek banking or administrative records outside lawful process.",
+  "faqs": [
+    {
+      "q": "Can surveillance be carried out in Monaco?",
+      "a": "Only with great care and a confirmed legal basis. Under Law No. 1.565, processing personal data for surveillance purposes or concerning suspected offences requires prior authorisation from the CCIN, in addition to any rules on the activity itself. We review any proposed observation with Monegasque counsel first, and in many matters lawful document and open-source research is the better route."
+    },
+    {
+      "q": "How much company information is public in Monaco?",
+      "a": "Less than many clients expect. The RCI provides basic registration information, but ownership details, accounts and beneficial owners are not broadly published in the way they are in some EU states. Many structures used by Monaco residents sit in other jurisdictions, where we often find more useful records."
+    },
+    {
+      "q": "Which courts hear commercial disputes in Monaco?",
+      "a": "The Tribunal de première instance hears commercial matters at first instance, with appeal to the Cour d'appel and final review on points of law by the Cour de révision. Proceedings are in French and follow procedure modelled on French law. We support Monegasque counsel with background research and evidence chronologies."
+    },
+    {
+      "q": "Can personal data gathered in Monaco be sent to a US client?",
+      "a": "Transfers are permitted to countries the CCIN regards as providing equivalent protection; others require CCIN authorisation or an exception such as informed consent. This also applies when data held in Monaco is accessed from abroad. We plan collection so that transfers are lawful, or so that personal data is minimised from the outset."
+    },
+    {
+      "q": "Who supervises anti-money laundering compliance in Monaco?",
+      "a": "The Autorité Monégasque de Sécurité Financière supervises reporting professionals and houses Monaco's financial intelligence unit. Following its 2023 MONEYVAL evaluation, Monaco's technical compliance was re-rated upward in 2024. Published AMSF sanctions decisions can be relevant in reputational research on financial intermediaries."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Monaco",
+      "url": "https://www.dlapiperdataprotection.com/?c=MC&t=law"
+    },
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Monaco authority",
+      "url": "https://www.dlapiperdataprotection.com/?c=MC&t=authority"
+    },
+    {
+      "title": "Autorité Monégasque de Sécurité Financière (AMSF)",
+      "url": "https://amsf.mc/en"
+    },
+    {
+      "title": "FATF: Monaco country page",
+      "url": "https://www.fatf-gafi.org/en/countries/detail/Monaco.html"
+    },
+    {
+      "title": "Wikipedia: Judiciary of Monaco",
+      "url": "https://en.wikipedia.org/wiki/Judiciary_of_Monaco"
+    },
+    {
+      "title": "Wikipedia: Economy of Monaco",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Monaco"
+    },
+    {
+      "title": "World Bank: Population, total (Monaco)",
+      "url": "https://api.worldbank.org/v2/country/MCO/indicator/SP.POP.TOTL?format=json&date=2024"
+    }
+  ],
+  "review_flags": [
+    "Private investigator (agents de recherches privées) regime not verified; official Monaco government sites blocked fetching.",
+    "Court structure (Tribunal de première instance, Cour d'appel) and RCI description rely on general knowledge plus Wikipedia; confirm with an official Monaco source.",
+    "Beneficial ownership register access status not verified; FATF page ratings may have been mislabelled (shown under a 'France ratings' heading).",
+    "AML statute citation and anti-corruption legislation not verified (web search budget exhausted); text avoids naming them.",
+    "Sources are thinner than for other countries (two Wikipedia pages); a human should review before publication."
+  ],
+  "researched": "2026-11-04"
+}

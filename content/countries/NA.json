@@ -1,0 +1,68 @@
+{
+  "cc": "NA",
+  "name": "Namibia",
+  "meta_description": "Investigative consulting for matters touching Namibia: BIPA ownership research, mining and fishing counterparty diligence, and Orange Basin partner checks.",
+  "eyebrow": "Republic of Namibia",
+  "hero_lede": "Investigative consulting for matters touching Namibia involves BIPA company and beneficial ownership records, a mixed common-law court system centred on Windhoek, and commercial exposure concentrated in mining, fishing quotas, offshore oil exploration and new green hydrogen projects.",
+  "intro": [
+    "Namibia is a constitutional democracy with a mixed legal system whose private law derives from Roman-Dutch law received through South Africa, overlaid with English-influenced procedure and company law and supplemented by customary law. Courts are generally regarded as functional, and High Court judgments are a useful source for litigation history. Companies and close corporations register with the Business and Intellectual Property Authority (BIPA), which also collects beneficial ownership declarations under the Financial Intelligence Act, 2012. Namibia has not yet enacted a comprehensive data protection law. The Namibian dollar is pegged to the South African rand and the economy is closely tied to South Africa through the Southern African Customs Union, so many investigations extend to South African records.",
+    "Organisations commission investigative work involving Namibia mainly around natural-resource sectors. Diamonds, uranium and gold dominate exports, and Namibia is among the world's largest uranium producers. Offshore discoveries in the Orange Basin have drawn international oil companies and service contractors, and green hydrogen projects backed by German and European partners are attracting new capital and local partners. The Fishrot affair, in which documents published from 2019 alleged payments to senior officials to obtain fishing quotas, led to resignations, arrests and prosecutions and remains a reference point for counterparty risk in quota-based and licence-based sectors. Lenders, joint-venture partners and buyers commission ownership, reputation and integrity research accordingly."
+  ],
+  "population": {"value": "3.1 million", "year": "2025", "source_url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NA"},
+  "legal_system": "Namibia has a mixed legal system: Roman-Dutch common law, English-influenced procedural and company law, and customary law, all subject to the 1990 Constitution. The Supreme Court is the highest appellate court and its decisions bind lower courts. The High Court in Windhoek has original jurisdiction over substantial commercial disputes and hears appeals; the Labour Court is a division of it. Magistrates' courts handle most lower-value civil and criminal matters. There is no separate commercial court. Arbitration is available, and parties to larger transactions often choose South African or international seats.",
+  "data_protection": {
+    "law": "No comprehensive data protection law as of 2026; constitutional right to privacy (Article 13) and sectoral confidentiality rules apply; Draft Data Protection Bill (2021) pending",
+    "regulator": "No data protection authority; the draft bill would establish a Data Protection Supervisory Authority",
+    "summary": "Namibia has not enacted comprehensive data privacy legislation. Article 13 of the Constitution protects privacy, and sectoral rules govern confidential information held by banks, legal practitioners and others. There are currently no statutory restrictions on cross-border transfer and no breach notification duty. A Draft Data Protection Bill published in 2021 would create a supervisory authority and controller obligations, and reports in 2025 indicated Parliament was finalising it. Investigative work should still be designed to a recognised standard, with documented purpose and minimisation, so that it remains defensible when the law is adopted."
+  },
+  "investigator_regulation": "Namibia regulates security businesses under the Security Enterprises and Security Officers Act 19 of 1998, administered by the Security Enterprises and Security Officers Regulation Board (SESORB). The Act requires registration of security enterprises and officers, but its definition of security service covers protecting or safeguarding people or property and advising on that protection; it does not expressly refer to private investigation. We have not identified a separate licensing regime for private investigators. Whether specific activity requires SESORB registration should be confirmed with Namibian counsel. Interception of communications and access to non-public government records are not available routes.",
+  "corporate_records": "The Business and Intellectual Property Authority (BIPA), established under the BIPA Act 2016, registers companies, close corporations and business names. Name searches and application tracking are available online, and registered documents such as founding statements, director and member details can be requested. Under section 4 of the Financial Intelligence Act 2012, BIPA collects beneficial ownership declarations at registration, annually and within seven working days of a material change, and publishes lists of non-compliant entities. Whether the beneficial ownership register itself is open to the public has not been confirmed. High Court judgments are published, and deeds records are held by the Deeds Office.",
+  "anti_corruption": "The Anti-Corruption Act 8 of 2003 criminalises corrupt practices in the public and private sectors and established the Anti-Corruption Commission (ACC), which began operating in February 2006 and investigates corruption offences, referring cases to the Prosecutor-General. Anti-money laundering obligations arise under the Financial Intelligence Act 2012, which established the Financial Intelligence Centre (FIC) as Namibia's financial intelligence unit, with the Prevention of Organised Crime Act providing money laundering offences.",
+  "matters": [
+    {"title": "Fishing quota and licence holders", "text": "Ownership and integrity research on quota holders, joint-venture partners and processors in the Walvis Bay and Luderitz fishing industry, informed by the Fishrot prosecutions and the risk that quota rights are held through nominees connected to public officials."},
+    {"title": "Mining partner and offtake diligence", "text": "Research on exploration licence holders, empowerment partners and offtakers in uranium, gold, lithium and other minerals, covering BIPA records, beneficial ownership declarations, litigation in the High Court and links to politically exposed persons."},
+    {"title": "Orange Basin oil and gas suppliers", "text": "Screening of local-content partners, logistics providers and service companies seeking work on offshore exploration and appraisal programmes, including ownership verification, sanctions screening and review of prior contract performance in Namibia and South Africa."},
+    {"title": "Green hydrogen project counterparties", "text": "Background research on landholders, consortium members and local partners in green hydrogen and renewable energy projects in the south of the country, where large land allocations and public-private arrangements create procurement and ownership questions."},
+    {"title": "Cross-border asset research", "text": "Supporting creditors and counsel by identifying assets of Namibian debtors in Namibia and South Africa, including companies, close corporations, real property recorded at the Deeds Office and vehicle and business interests, using lawful public sources."}
+  ],
+  "practical": [
+    {"label": "Official language", "value": "English; Afrikaans and German widely used in business"},
+    {"label": "Time zone", "value": "Africa/Windhoek (UTC+2, no daylight saving)"},
+    {"label": "Working week", "value": "Monday to Friday"},
+    {"label": "Main business centres", "value": "Windhoek, Walvis Bay, Swakopmund, Oshakati"},
+    {"label": "Courts language", "value": "English"},
+    {"label": "Company registry", "value": "Business and Intellectual Property Authority (BIPA)"},
+    {"label": "Currency", "value": "Namibian dollar (NAD), pegged 1:1 to the South African rand"},
+    {"label": "Business culture", "value": "Small, closely connected business community; discretion in local enquiries is essential"}
+  ],
+  "tdsc_approach": "TDSC scopes Namibian matters from Nashville, beginning with a review of what the engagement needs: BIPA records, beneficial ownership information, High Court litigation, Deeds Office searches or discreet enquiries. Because the business community is small and well connected, we limit local enquiries to what is necessary and coordinate them through qualified local professionals, with Namibian counsel confirming whether any activity falls within the SESORB registration regime. As Namibia has no comprehensive data protection law yet, we apply the client's home-jurisdiction standard to personal data. Where matters extend to South Africa, we treat that as a separate jurisdictional review with its own rules on personal information.",
+  "faqs": [
+    {"q": "Can BIPA records show the beneficial owner of a Namibian company?", "a": "BIPA collects beneficial ownership declarations from companies and close corporations at registration, annually and after material changes, under the Financial Intelligence Act 2012. Whether third parties can obtain those declarations has not been confirmed, so we approach ownership through registered shareholder and member records, BIPA non-compliance lists, court records and South African filings."},
+    {"q": "Does Namibia have a data protection law?", "a": "Not a comprehensive one as of 2026. Privacy is protected by Article 13 of the Constitution and by sectoral confidentiality rules, and a Draft Data Protection Bill would establish a supervisory authority. We design engagements to a recognised data protection standard so that work remains defensible when legislation takes effect."},
+    {"q": "What does the Fishrot case mean for due diligence?", "a": "The Fishrot affair, which surfaced in 2019, alleged payments to senior officials to secure fishing quotas and led to ministerial resignations and prosecutions. For investors and buyers in quota-based and licence-based sectors, it underlines the need to establish who ultimately benefits from a licence and whether public officials or their associates hold undisclosed interests."},
+    {"q": "Are close corporations still relevant in Namibia?", "a": "Yes. Close corporations remain a common vehicle for small and medium businesses, and many counterparties operate through them rather than companies. Their founding statements identify members, and they must file beneficial ownership declarations with BIPA. Research that looks only at companies can miss the relevant entity."},
+    {"q": "How often do Namibian investigations extend to South Africa?", "a": "Frequently. The economies are tightly linked through the Southern African Customs Union and the rand peg, and many Namibian businesses have South African shareholders, banks or holding companies. South Africa has its own personal information law and records system, which we scope separately."}
+  ],
+  "sources": [
+    {"title": "DLA Piper Data Protection Laws of the World: Namibia", "url": "https://www.dlapiperdataprotection.com/index.html?t=law&c=NA"},
+    {"title": "Business and Intellectual Property Authority (BIPA)", "url": "https://www.bipa.na/"},
+    {"title": "BIPA: Beneficial Ownership", "url": "https://www.bipa.na/beneficial-ownership/"},
+    {"title": "Financial Intelligence Centre Namibia", "url": "https://www.fic.na/"},
+    {"title": "Legal Assistance Centre: Security Enterprises and Security Officers Act 19 of 1998", "url": "https://www.lac.org.na/laws/annoSTAT/Security%20Enterprises%20and%20Security%20Officers%20Act%2019%20of%201998.pdf"},
+    {"title": "Wikipedia: Anti-Corruption Commission of Namibia", "url": "https://en.wikipedia.org/wiki/Anti-Corruption_Commission_of_Namibia"},
+    {"title": "Wikipedia: Judiciary of Namibia", "url": "https://en.wikipedia.org/wiki/Judiciary_of_Namibia"},
+    {"title": "Wikipedia: Fishrot Files", "url": "https://en.wikipedia.org/wiki/Fishrot_Files"},
+    {"title": "Wikipedia: Economy of Namibia", "url": "https://en.wikipedia.org/wiki/Economy_of_Namibia"},
+    {"title": "Techhive Advisory: Bimonthly update on privacy in Africa, May-June 2025", "url": "https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-may---june-2025"},
+    {"title": "World Bank: Population, total", "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NA"}
+  ],
+  "review_flags": [
+    "Data Protection Bill status: reported as being finalised in 2025; check whether enacted by late 2026.",
+    "Public access to BIPA beneficial ownership register not confirmed.",
+    "Whether investigative activity requires SESORB registration not confirmed; Act 19 of 1998 definition does not expressly cover investigation.",
+    "Roman-Dutch basis of Namibian common law stated from general knowledge and a Wikipedia page that appeared to conflate South African courts; confirm. Prevention of Organised Crime Act cited without year; verify.",
+    "Fishrot trial outcome not researched; text avoids stating verdicts.",
+    "Web search budget exhausted during research; several sources are Wikipedia."
+  ],
+  "researched": "2026-11-04"
+}

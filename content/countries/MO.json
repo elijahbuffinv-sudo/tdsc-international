@@ -1,0 +1,145 @@
+{
+  "cc": "MO",
+  "name": "Macau",
+  "meta_description": "Investigative consulting for matters touching Macau: gaming sector counterparties, ownership research, asset tracing and support for disputes in Macau.",
+  "eyebrow": "Macao Special Administrative Region",
+  "hero_lede": "Investigative consulting for matters touching Macau means working in a Portuguese-derived civil law system, in Chinese and Portuguese, within an economy dominated by casino gaming and tourism. TDSC scopes each matter from Nashville, with close attention to Macau's personal data law, and coordinates qualified local professionals where needed.",
+  "intro": [
+    "Macau is a Special Administrative Region of the People's Republic of China, governed under the Basic Law and the principle of one country, two systems. Its legal system follows the Portuguese civil law tradition, built on the five codes of 1999, including the Civil Code and Commercial Code, with Chinese and Portuguese as official languages of the courts and government. English is generally not used in court. Personal data is protected by Law 8/2005, which requires notification to the data protection authority and prior authorisation for some categories, including data on suspected offences and on credit and solvency. Investigators need bilingual capacity and a clear legal basis before handling any personal data.",
+    "Organisations commission investigative work involving Macau largely because of casino gaming and its surrounding businesses. Gaming accounts for close to half of economic output, and the concessionaires, their suppliers, junket and VIP-room operators, and the property and hospitality businesses around them raise ownership, integrity and money-laundering questions. Creditors and their counsel pursue gaming debts, which are enforceable as civil obligations in Macau courts. Investors and lenders review counterparties in the Greater Bay Area, where Macau's ties with Guangdong and Hengqin are deepening. Families and companies with property in Macau also need ownership research for inheritance, matrimonial and commercial disputes."
+  ],
+  "population": {
+    "value": "685,900",
+    "year": "2025",
+    "source_url": "https://fred.stlouisfed.org/series/POPTOTMOA647NWDB"
+  },
+  "legal_system": "Macau has a civil law system based on Portuguese law, with some common law influence in commercial matters such as floating charges. The Basic Law of 1993 serves as its constitutional document, and the Civil Code (Decree-Law 39/99/M) and Commercial Code date from 1999. Cases begin in the Judicial Base Court, or in the Administrative Court for administrative, tax and customs matters. The Second Instance Court hears appeals and challenges to arbitral proceedings, and the three-judge Court of Final Appeal has final adjudicative power. Court decisions are published in Chinese, Portuguese or both.",
+  "data_protection": {
+    "law": "Personal Data Protection Act (Law 8/2005)",
+    "regulator": "Macau personal data protection authority, referred to by DLA Piper as the Office for Personal Data Protection",
+    "summary": "Law 8/2005 requires a lawful basis for processing, such as unequivocal consent, contract, legal obligation or legitimate interests that are not overridden by the data subject's rights. Controllers must notify the authority within eight days of starting processing unless exempt, and prior authorisation is needed for certain sensitive data, data on suspected illicit activity or offences, and credit and solvency data, which covers much background investigation. Transfers outside Macau generally require adequate protection in the destination or a legal exception, with required filings. Violations can bring administrative and criminal penalties, so investigative data handling must be planned in advance."
+  },
+  "investigator_regulation": "We have not identified, from the sources available to us, a dedicated licensing regime for private investigators in Macau. Engagements are therefore scoped with Macau counsel before any local inquiries. The constraints that matter most are clear: Law 8/2005 restricts processing of data about suspected offences and solvency without authorisation, and carries criminal penalties for some breaches; banking and gaming operators hold customer information under confidentiality and regulatory obligations; and covert recording or interception of private communications is not open to private parties. TDSC relies on public registers, court decisions, official gazette notices and media, and coordinates only qualified local professionals for any field work.",
+  "corporate_records": "Companies are registered with the commercial registry under the Legal Affairs Bureau, which records company details, capital, administrators and registered changes; extracts can generally be obtained by third parties, though we have not verified current online access or fees for this page. Property is recorded in the property registry, also under the Legal Affairs Bureau, and certificates are used in ownership and inheritance matters. Registry materials are in Chinese and Portuguese. We have not identified a public beneficial ownership register. Gaming concessionaires publish information through their listed parent companies, which are useful supplementary sources.",
+  "anti_corruption": "The Commission Against Corruption (CCAC), established on 20 December 1999 under Article 59 of the Basic Law and governed by Law 10/2000, investigates corruption, handles asset and interest declarations by public servants and performs ombudsman functions. Macau also criminalises bribery in the private sector under dedicated legislation, which the CCAC enforces. Anti-money laundering obligations, which are particularly relevant to gaming operators, are supervised by sectoral regulators, and a Financial Intelligence Office receives suspicious transaction reports.",
+  "matters": [
+    {
+      "title": "Gaming sector counterparty review",
+      "text": "Background research on suppliers, promoters, VIP-room and junket-linked operators, and business partners of gaming concessionaires, covering ownership, litigation, regulatory actions and adverse media in Chinese, Portuguese and English, to support integrity and anti-money laundering decisions by operators, suppliers and investors."
+    },
+    {
+      "title": "Gaming debt and asset tracing",
+      "text": "Supporting creditors and their counsel in locating assets of debtors connected to Macau gaming credit, using Macau commercial and property records alongside Hong Kong, mainland China and overseas sources, recognising that gaming credit extended lawfully creates civil obligations enforceable in Macau courts."
+    },
+    {
+      "title": "Property ownership research",
+      "text": "Establishing ownership history and encumbrances of Macau real estate for families, executors and litigants in inheritance, matrimonial and partnership disputes, through property registry certificates obtained via local counsel and corroborating court and media records in both official languages."
+    },
+    {
+      "title": "Greater Bay Area investment checks",
+      "text": "Reviewing Macau companies and their principals ahead of investments, joint ventures or financing involving Hengqin, Guangdong or Hong Kong, including cross-border ownership links, related-party transactions and reputational issues documented in public sources on both sides of the border."
+    },
+    {
+      "title": "Integrity and corruption risk reviews",
+      "text": "Assessing exposure to corruption and conflicts of interest in dealings with public bodies, concession-related procurement and private-sector partners, drawing on CCAC publications, court decisions and media, so that compliance teams can document decisions under their own anti-bribery programmes."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official languages",
+      "value": "Chinese (Cantonese widely spoken) and Portuguese; English used in business"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Macau, UTC+8, no daylight saving"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; gaming and hospitality operate continuously"
+    },
+    {
+      "label": "Currency",
+      "value": "Macanese pataca (MOP); Hong Kong dollar widely accepted"
+    },
+    {
+      "label": "Courts language",
+      "value": "Chinese and Portuguese; English generally not used"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Macau Peninsula, Taipa and Cotai"
+    },
+    {
+      "label": "Data handling",
+      "value": "Notification and, for some categories, prior authorisation under Law 8/2005"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-based; introductions and bilingual documentation are expected"
+    }
+  ],
+  "tdsc_approach": "TDSC begins each Macau matter with a review under Law 8/2005, because background work frequently touches data on suspected offences or solvency that the law treats as requiring authorisation. Where the work involves such data, TDSC confirms with Macau counsel how it can be lawfully handled, or restricts the scope to public records and published decisions. Research draws on commercial and property registry extracts obtained through local professionals, court decisions in Chinese and Portuguese, official bulletins, listed-company disclosures and regional media. Field inquiries are made only by qualified local professionals, using methods agreed in advance. Transfers of personal data out of Macau are assessed against the law's adequacy and filing requirements.",
+  "faqs": [
+    {
+      "q": "Does Macau's data protection law restrict background checks?",
+      "a": "Yes, significantly. Law 8/2005 requires notification of processing and prior authorisation for certain categories, including data on suspected offences and credit or solvency. Much background investigation touches those categories. TDSC confirms the lawful route with Macau counsel before any such work and keeps research to the minimum needed."
+    },
+    {
+      "q": "Can a casino debt be enforced in Macau?",
+      "a": "Credit lawfully extended for casino gaming has generated civil obligations enforceable in Macau courts since 2004. Enforcement depends on locating assets. TDSC supports counsel by identifying assets of debtors in Macau and elsewhere through registries, court records and open sources, and reports the reliability of each finding."
+    },
+    {
+      "q": "In what languages are Macau records available?",
+      "a": "Official records and court decisions are in Chinese, Portuguese or both, and English is generally not used in court. TDSC works with bilingual sources, records name variants in each language and romanisation, and provides English summaries with references to the original documents."
+    },
+    {
+      "q": "Which body investigates corruption in Macau?",
+      "a": "The Commission Against Corruption, established in 1999 under the Basic Law and governed by Law 10/2000, investigates corruption, handles officials' asset declarations and acts as ombudsman. Private-sector bribery is also criminalised. TDSC reviews CCAC publications and related court decisions as part of integrity assessments."
+    },
+    {
+      "q": "Can TDSC identify the owners of a Macau company?",
+      "a": "Usually, through commercial registry extracts obtained via local professionals, which record administrators, capital and registered changes. We have not identified a public beneficial ownership register, so where ownership runs through Hong Kong, mainland or offshore entities, TDSC follows the chain through those jurisdictions' records and corroborating sources."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Macau",
+      "url": "https://www.dlapiperdataprotection.com/?c=MO&t=law"
+    },
+    {
+      "title": "GlobaLex: Macau legal system",
+      "url": "https://www.nyulawglobal.org/globalex/Macau.html"
+    },
+    {
+      "title": "Commission Against Corruption of Macao",
+      "url": "https://www.ccac.org.mo/en/"
+    },
+    {
+      "title": "Wikipedia: Commission Against Corruption (Macau)",
+      "url": "https://en.wikipedia.org/wiki/Commission_Against_Corruption_(Macau)"
+    },
+    {
+      "title": "Wikipedia: Macau",
+      "url": "https://en.wikipedia.org/wiki/Macau"
+    },
+    {
+      "title": "Wikipedia: Gambling in Macau",
+      "url": "https://en.wikipedia.org/wiki/Gambling_in_Macau"
+    },
+    {
+      "title": "FRED / World Bank: Population, Total for Macao SAR",
+      "url": "https://fred.stlouisfed.org/series/POPTOTMOA647NWDB"
+    }
+  ],
+  "review_flags": [
+    "Web search budget exhausted and most Macau government sites blocked automated fetches; this page has the weakest sourcing of the batch and needs human review.",
+    "Data protection authority name: DLA Piper says Office for Personal Data Protection (OPDP); it may have been restructured into a bureau (DSPDP), so confirm the current name.",
+    "Commercial and property registries under the Legal Affairs Bureau (DSAJ): not verified from an opened source.",
+    "Private-sector bribery law (believed Law 19/2009), AML law (believed Law 2/2006) and the Financial Intelligence Office are mentioned without citation; verify.",
+    "No private investigator licensing regime identified.",
+    "Population: FRED/World Bank gives 685,900 (2025) but Wikipedia gives a 2024 estimate of 712,651; confirm against DSEC.",
+    "Gaming sector changes (2022 gaming law amendments, six concessions from 2023, junket rules) are not reflected because they could not be verified; consider adding after review.",
+    "Hong Kong dollar acceptance and working week are general knowledge."
+  ],
+  "researched": "2026-11-04"
+}

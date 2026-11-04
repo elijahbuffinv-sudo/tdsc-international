@@ -1,0 +1,62 @@
+{
+  "cc": "NR",
+  "name": "Nauru",
+  "meta_description": "Investigative consulting for matters touching Nauru: counterparty and citizenship-holder checks, deep-sea mining and fisheries diligence, offshore structures.",
+  "eyebrow": "Republic of Nauru",
+  "hero_lede": "Investigative consulting for matters touching Nauru usually concerns its international footprint rather than its small domestic market: seabed-mining sponsorship, fishing licence revenue, a citizenship-by-investment programme announced in 2025, and the legacy of its 1990s offshore banking and passport sales.",
+  "intro": [
+    "Nauru is a parliamentary republic of about 12,000 people whose courts follow common-law traditions. A small government dominates employment, and public revenue depends heavily on fishing licence fees and Australian-funded arrangements, including the Regional Processing Centre. Since appeals to the High Court of Australia ended on 12 March 2018, the Nauru Court of Appeal, created by legislation in May 2018 and staffed by judges from other Pacific jurisdictions, sits at the top of the hierarchy. Banking options are narrow: Bendigo and Adelaide Bank closed its agency in August 2025 and the Commonwealth Bank opened one days later. Public records exist, but much of what an investigation needs must be obtained through official requests or local professionals rather than online searches.",
+    "Organisations commission investigative work involving Nauru for reasons that usually arise outside the island. Nauru sponsors Nauru Ocean Resources Inc, a subsidiary of The Metals Company, in the Clarion-Clipperton Zone, and its 2021 notice to the International Seabed Authority made it central to the deep-sea mining debate; investors and counterparties in that sector commission research accordingly. Banks and compliance teams review holders of Nauruan passports issued under the citizenship programme announced in March 2025, and individuals or entities linked to Nauru's earlier offshore banking period still surface in historical asset tracing. Fisheries arrangements, Australian contracts and government procurement also generate counterparty questions."
+  ],
+  "population": {"value": "12,025", "year": "2025", "source_url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NR"},
+  "legal_system": "Nauru has a common-law-based legal system under its 1968 Constitution, with legislation enacted by a 19-member Parliament. The Supreme Court, headed by the Chief Justice, is paramount on constitutional matters and hears significant civil cases; the District Court and Family Court sit below it. The Nauru Court of Appeal, established in 2018 after Nauru withdrew from the treaty providing for appeals to the High Court of Australia, is the final appellate court and sits part-time with judges drawn from other Pacific jurisdictions. There is no specialised commercial court or domestic arbitration centre that we have identified.",
+  "data_protection": {
+    "law": "No comprehensive data protection law identified as of November 2026",
+    "regulator": "No data protection authority identified",
+    "summary": "We have not identified a comprehensive personal data protection statute or a dedicated regulator in Nauru, and leading international trackers do not cover the country. Confidentiality obligations may arise from sector rules, contracts and general law, and the Constitution protects certain personal rights. Because the population is very small, almost any personal information gathered locally is readily identifying. TDSC treats Nauru engagements under the data protection standard of the client's home jurisdiction, with strict minimisation, and confirms the current position with Nauruan counsel where personal data will be collected in-country."
+  },
+  "investigator_regulation": "We have not identified a licensing regime for private investigators in Nauru, and we have not been able to verify the position from the official legislation database. Given the island's size, any local enquiry is likely to become known quickly, and approaches to officials or residents need particular care. Engagements are therefore scoped with Nauruan legal practitioners, who can advise on whether a given activity requires authorisation, and most research is conducted remotely from public, regional and foreign records. Interception of communications and access to non-public government records are not available routes.",
+  "corporate_records": "Nauru maintains statutory registers for companies and business names, but we have not verified what is publicly searchable or whether any beneficial ownership register is open to third parties. Official legislation is published through the government's RONLAW database, and judgments of Nauruan courts are reported through regional legal information services. In practice, corporate research involving Nauru often turns on foreign records: Australian, Pacific and other filings of entities connected to the seabed-mining sponsorship, fisheries agreements, government contracts and the offshore banking era. Requests for local registry extracts are made through Nauruan practitioners.",
+  "anti_corruption": "Nauru was designated a non-cooperative jurisdiction by the Financial Action Task Force in the early 2000s over money-laundering concerns, revoked offshore banking licences in 2004 and was removed from that list in October 2005; the OECD upgraded its tax transparency rating in July 2017. It has anti-money laundering legislation and criminal offences covering bribery of officials, but we have not verified the current statute names or the designation of its financial intelligence unit in this research, and they should be confirmed before reliance.",
+  "matters": [
+    {"title": "Deep-sea mining counterparties", "text": "Research on investors, contractors and intermediaries connected to Nauru's sponsorship of Nauru Ocean Resources Inc in the Clarion-Clipperton Zone, including corporate structures, financing relationships and regulatory history before the International Seabed Authority and in the United States."},
+    {"title": "Citizenship programme holders", "text": "Enhanced due diligence on individuals presenting Nauruan citizenship acquired under the investment programme announced in 2025, establishing prior nationalities, source of wealth, adverse media and whether second citizenship may obscure sanctions or regulatory exposure elsewhere."},
+    {"title": "Historical offshore structures", "text": "Asset tracing and background work involving entities or individuals linked to Nauru's 1990s offshore banking and passport sales, typically relying on foreign court records, liquidation files and regulatory actions rather than Nauruan registries."},
+    {"title": "Fisheries and licensing partners", "text": "Diligence on fishing operators, agents and intermediaries involved in licensing Nauru's tuna grounds, including vessel ownership, flag histories, prior enforcement action and connections to officials in licensing decisions."},
+    {"title": "Government contract counterparties", "text": "Background research on contractors and service providers engaged in Australian-funded or government projects on Nauru, including construction, logistics, detention services and utilities, focusing on ownership, performance history and integrity concerns."}
+  ],
+  "practical": [
+    {"label": "Languages", "value": "Nauruan and English; English used in government and courts"},
+    {"label": "Time zone", "value": "Pacific/Nauru (UTC+12, no daylight saving)"},
+    {"label": "Working week", "value": "Monday to Friday"},
+    {"label": "Currency", "value": "Australian dollar (AUD)"},
+    {"label": "Final court of appeal", "value": "Nauru Court of Appeal (since 2018)"},
+    {"label": "Banking", "value": "Commonwealth Bank agency since August 2025; very limited local banking"},
+    {"label": "Fiscal year", "value": "1 July to 30 June"}
+  ],
+  "tdsc_approach": "TDSC scopes Nauru matters from Nashville with the expectation that most relevant evidence sits outside the country: International Seabed Authority materials, US regulatory filings, Australian and Pacific corporate records, foreign court files and sanctions and adverse-media sources. Where Nauruan records are needed, requests are made through Nauruan legal practitioners, who also confirm any authorisation requirements. Because the community is small, any in-country enquiry is limited to what is strictly necessary and planned to avoid identifying the client or exposing sources. Personal data is handled to the client's home-jurisdiction standard. Reports distinguish what was verified in Nauruan records from what was inferred from foreign sources.",
+  "faqs": [
+    {"q": "How should a bank assess a client holding Nauruan citizenship by investment?", "a": "Nauru announced its citizenship programme in March 2025, with a minimum contribution reported at about US$105,000 and no residency requirement. A Nauruan passport says little about the holder's background, so we establish prior and current nationalities, source of wealth, sanctions and adverse-media exposure, and the reasons a second citizenship was obtained."},
+    {"q": "Who is the final appellate court for Nauru?", "a": "The Nauru Court of Appeal. Nauru withdrew from the treaty allowing appeals to the High Court of Australia, and that jurisdiction ended on 12 March 2018. Legislation passed in May 2018 created the Court of Appeal, which sits part-time with judges drawn from other Pacific jurisdictions."},
+    {"q": "Why does Nauru matter in deep-sea mining due diligence?", "a": "Nauru sponsors Nauru Ocean Resources Inc, a subsidiary of The Metals Company, which has held an International Seabed Authority exploration contract since 2011. Nauru's June 2021 notice triggered the two-year rule on exploitation regulations, and in April 2025 the company applied for US permits. Counterparties examine these relationships closely."},
+    {"q": "Can Nauruan company records be searched online?", "a": "We have not confirmed any public online search facility for Nauruan company or business name records. Extracts are requested through local legal practitioners, and research usually relies equally on foreign filings by connected entities. We state clearly in reports which records were obtained and which could not be."},
+    {"q": "Does Nauru's offshore banking history still matter?", "a": "It can. Nauru revoked offshore banking licences in 2004 after international pressure and was removed from the FATF non-cooperative list in October 2005. Entities and individuals associated with that period still appear in historical asset-tracing and reputational research, mostly through foreign court and regulatory records."}
+  ],
+  "sources": [
+    {"title": "Wikipedia: Economy of Nauru", "url": "https://en.wikipedia.org/wiki/Economy_of_Nauru"},
+    {"title": "Wikipedia: Nauru", "url": "https://en.wikipedia.org/wiki/Nauru"},
+    {"title": "Wikipedia: Politics of Nauru", "url": "https://en.wikipedia.org/wiki/Politics_of_Nauru"},
+    {"title": "Lowy Institute, The Interpreter: A new court for Nauru", "url": "https://www.lowyinstitute.org/the-interpreter/new-court-nauru"},
+    {"title": "Wikipedia: The Metals Company", "url": "https://en.wikipedia.org/wiki/The_Metals_Company"},
+    {"title": "Government of the Republic of Nauru", "url": "https://www.nauru.gov.nr/"},
+    {"title": "World Bank: Population, total", "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NR"}
+  ],
+  "review_flags": [
+    "Thinly sourced: web search budget was exhausted; RONLAW, PacLII and the citizenship programme site could not be fetched. Companies registry, AML statute names, FIU and any data protection law are unverified and described generically.",
+    "Citizenship programme figures (announced March 2025, minimum about US$105,000) taken from Wikipedia; confirm official programme name and terms.",
+    "No PI licensing regime identified or verified.",
+    "Sources are mostly Wikipedia plus Lowy Institute; replace with official sources if possible before publishing.",
+    "Deep-sea mining regulatory status (ISA and US NOAA) changes quickly; recheck."
+  ],
+  "researched": "2026-11-04"
+}

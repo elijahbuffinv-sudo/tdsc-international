@@ -1,0 +1,57 @@
+{
+  "cc": "DK",
+  "name": "Denmark",
+  "meta_description": "Investigative consulting for matters touching Denmark: due diligence, fraud inquiries and asset tracing within the Danish Data Protection Act and CVR records.",
+  "eyebrow": "Kingdom of Denmark",
+  "hero_lede": "Investigative consulting for matters touching Denmark works with exceptionally open company data in the CVR, strict national rules on CPR numbers and criminal-offence data under the Danish Data Protection Act, and a cautious approach to methods that Danish law and Datatilsynet would treat as intrusive.",
+  "intro": [
+    "Denmark combines high public trust, digital government and a strong privacy culture. The Central Business Register (CVR), run by the Danish Business Authority, publishes company details, owners, management and annual accounts free of charge, and much registry information is available online. At the same time, the Danish Data Protection Act supplements the GDPR with specific limits on processing CPR numbers and data about criminal offences by private controllers. Investigative work therefore relies heavily on open corporate data and lawful public sources, while any processing of sensitive personal information is assessed carefully against the national rules and Datatilsynet guidance.",
+    "Organisations commission work involving Denmark because of its globally active shipping, logistics, pharmaceutical, life sciences, renewable energy and food companies, and its role as a gateway to the Nordic market. Typical needs include due diligence on Danish acquisition targets and joint venture partners, investigation of procurement fraud and conflicts of interest in subsidiaries, whistleblower-triggered internal reviews, and tracing of assets held through Danish holding companies (ApS and A/S). Cross-border matters often extend to Greenland and the Faroe Islands, which have their own data protection arrangements, and to neighbouring Sweden, Norway and Germany."
+  ],
+  "population": {"value": "5.98 million", "year": "2024", "source_url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DK"},
+  "legal_system": "Denmark has a Nordic civil law system that relies on statutes and case law rather than comprehensive codes. Ordinary courts comprise 24 district courts, two High Courts (Western and Eastern) and the Supreme Court. The Maritime and Commercial High Court in Copenhagen is a specialised court for commercial, maritime, competition and intellectual property disputes. The Danish Arbitration Act is based on the UNCITRAL Model Law, and the Danish Institute of Arbitration (Voldgiftsinstituttet) is the principal arbitral institution.",
+  "data_protection": {
+    "law": "General Data Protection Regulation (EU) 2016/679 and the Danish Data Protection Act (Databeskyttelsesloven, 2018)",
+    "regulator": "Datatilsynet (Danish Data Protection Agency)",
+    "summary": "The Danish Data Protection Act took effect on 25 May 2018, replacing Act no. 429 of 2000, and does not apply to Greenland or the Faroe Islands. It adds rules that matter for investigations: private controllers may process CPR numbers only under listed conditions, such as statutory requirement or explicit consent, and data about criminal offences only with explicit consent or where strictly necessary to pursue interests that clearly outweigh those of the data subject. Employee data may be processed where necessary for employment-law obligations. Transfers outside the EEA follow GDPR Chapter V."
+  },
+  "investigator_regulation": "We have not confirmed, from a source opened during this research, whether Denmark operates a licensing scheme specific to private investigators. Investigative activity is constrained in any event by the Danish Data Protection Act, criminal law protections for privacy and communications, and rules on surveillance and recording. In practice, engagements are scoped so that any enquiries in Denmark are carried out by suitably qualified local professionals and reviewed with Danish counsel, and covert methods are not used without specific legal advice.",
+  "corporate_records": "The Central Business Register (CVR), maintained by the Danish Business Authority (Erhvervsstyrelsen), publishes registration number, name, address, founding and winding-up dates, business type, sector and employee numbers, together with founders, owners and managers, listed with name and address but without CPR numbers. Annual reports for public and private limited companies are available, and documents not requiring manual handling are free. Denmark also maintains a register of beneficial owners within the CVR system. Land and property rights are recorded in the digital Land Register (Tingbogen).",
+  "anti_corruption": "Bribery in the public and private sectors is criminalised under the Danish Criminal Code, and companies can be held criminally liable for offences committed in the course of their activities. Anti-money laundering obligations derive from the Danish Money Laundering Act. The National Special Crime Unit (NSK) investigates serious economic and international crime, and the Money Laundering Secretariat within it acts as Denmark's financial intelligence unit.",
+  "matters": [
+    {"title": "Shipping and logistics counterparties", "text": "Background and sanctions-exposure research on charterers, ship managers, brokers and agents dealing with Danish shipping and logistics groups, including vessel ownership chains, adverse media and litigation in maritime jurisdictions."},
+    {"title": "Life sciences partner diligence", "text": "Due diligence on distributors, contract research organisations and healthcare intermediaries partnering with Danish pharmaceutical and medical technology companies, focusing on anti-bribery exposure in third markets and the integrity of individuals in key roles."},
+    {"title": "Renewable energy project risk", "text": "Research into developers, landowners, suppliers and local partners in wind and other renewable energy projects linked to Danish developers, where project companies, subsidies and cross-border supply chains can conceal related-party interests."},
+    {"title": "Whistleblower-triggered reviews", "text": "Independent fact-finding following reports made through internal channels under Danish whistleblower legislation, scoped to respect employee privacy, the Data Protection Act's limits on offence data and the procedural expectations of Danish labour law."},
+    {"title": "Asset tracing through holding companies", "text": "Tracing interests held through Danish ApS and A/S holding structures, using CVR ownership data, annual reports and the Land Register to support enforcement of judgments and awards with the assistance of Danish counsel."}
+  ],
+  "practical": [
+    {"label": "Business language", "value": "Danish; English used widely in business"},
+    {"label": "Time zone", "value": "Europe/Copenhagen, UTC+1 (UTC+2 in summer)"},
+    {"label": "Working week", "value": "Monday to Friday; shorter Friday hours common"},
+    {"label": "Currency", "value": "Danish krone (DKK)"},
+    {"label": "Main business centres", "value": "Copenhagen, Aarhus, Odense, Aalborg"},
+    {"label": "Court language", "value": "Danish; foreign documents may require translation"},
+    {"label": "Digital identity", "value": "MitID and the CPR system underpin most public services"},
+    {"label": "Business culture", "value": "Flat hierarchies, directness and consensus; informality should not be mistaken for laxity"}
+  ],
+  "tdsc_approach": "TDSC scopes Danish matters from Nashville with particular attention to the Danish Data Protection Act's rules on CPR numbers and criminal-offence data, which often determine what can be collected about individuals. Desk research centres on the CVR, annual reports, the Land Register, court decisions and Danish-language media. TDSC does not seek CPR numbers or criminal record information without a clear legal basis. Where enquiries must be made in Denmark, TDSC coordinates qualified local professionals and works with Danish counsel on methods, employment-law implications and evidential use. Matters touching Greenland or the Faroe Islands are reviewed separately, and findings leaving the EEA are transferred under GDPR Chapter V safeguards.",
+  "faqs": [
+    {"q": "How open is Danish company information?", "a": "Very open. The CVR, run by the Danish Business Authority, publishes company details, founders, owners and managers with names and addresses, and annual reports for limited companies. Most documents that do not require manual processing are free. CPR numbers of individuals are not released to private users."},
+    {"q": "Can CPR numbers be used in a Danish background check?", "a": "Only in limited circumstances. Under the Danish Data Protection Act, private controllers may process CPR numbers only where a listed condition applies, such as a statutory requirement or the individual's explicit consent. Background research is therefore built around names, addresses and public records, and CPR numbers are not collected without a legal basis."},
+    {"q": "Can information about criminal offences be gathered?", "a": "With care. Private controllers may process data about criminal offences only with explicit consent or where strictly necessary to pursue interests that clearly outweigh those of the individual, subject to other conditions. Published court decisions and reporting may be relevant, but their use is assessed case by case with Danish counsel."},
+    {"q": "Which court hears Danish commercial disputes?", "a": "Commercial disputes may be heard in the district courts and High Courts, but the Maritime and Commercial High Court in Copenhagen is a specialised court for commercial, maritime, competition and intellectual property cases. Arbitration under the Danish Arbitration Act, often administered by the Danish Institute of Arbitration, is also common in commercial contracts."},
+    {"q": "Does the Danish Data Protection Act apply in Greenland and the Faroe Islands?", "a": "No. The Act does not apply to Greenland or the Faroe Islands, which have their own arrangements. Matters involving companies or individuals there are scoped separately, with local legal advice on the applicable data protection rules and any differences in registries and court procedure."}
+  ],
+  "sources": [
+    {"title": "DLA Piper Data Protection Laws of the World: Denmark", "url": "https://www.dlapiperdataprotection.com/countries/denmark/law.html"},
+    {"title": "European e-Justice Portal: Business registers in Denmark", "url": "https://e-justice.europa.eu/topics/registers-business-insolvency-land/business-registers-eu-countries/dk_en"},
+    {"title": "World Bank population data: Denmark", "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DK"}
+  ],
+  "review_flags": [
+    "Only 3 sources opened (brief requires 5-12); web search budget and fetch quota were exhausted. Add sources for court structure, arbitration, anti-corruption and registers.",
+    "Danish private investigator licensing not verified; text says so. Check whether any authorisation scheme exists.",
+    "From general knowledge, unverified this session: 24 district courts, Maritime and Commercial High Court, Danish Arbitration Act/UNCITRAL, Danish Institute of Arbitration, NSK and Money Laundering Secretariat, Money Laundering Act, corporate criminal liability, beneficial owner register within CVR, Tingbogen, whistleblower legislation."
+  ],
+  "researched": "2026-11-04"
+}

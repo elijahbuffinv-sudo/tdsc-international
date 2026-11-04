@@ -1,0 +1,162 @@
+{
+  "cc": "AL",
+  "name": "Albania",
+  "meta_description": "Investigative consulting for matters touching Albania: QKB company and beneficial owner checks, asset tracing and GDPR-aligned due diligence from Nashville.",
+  "eyebrow": "Republic of Albania",
+  "hero_lede": "Investigative work touching Albania draws on a modern online business register, a beneficial owners register, an energetic special anti-corruption prosecutor and an EU-aligned data protection law. TDSC scopes due diligence, asset tracing and litigation support around those sources, coordinating licensed local professionals where needed.",
+  "intro": [
+    "Albania is an EU candidate country in the middle of a long justice reform. Constitutional amendments adopted in 2016 introduced the vetting of judges and prosecutors and created the Special Prosecution Office against Corruption and Organised Crime (SPAK) with dedicated courts, which have since prosecuted former ministers, mayors and members of parliament. Company formation and beneficial ownership disclosure run through the National Business Center (QKB), and Law No. 124/2024 on personal data protection aligns the country with the GDPR. Courts still face backlogs and questions of confidence, and property title remains complicated by post-communist restitution and informal construction, so documentary findings often need careful corroboration.",
+    "Organisations commission work involving Albania across a small but outward-facing economy. Tourism has grown rapidly, drawing property and hospitality investment along the Adriatic and Ionian coasts. Hydropower, solar and wind projects attract foreign developers, and chromium and other minerals sustain a mining sector. Italy is by far the largest trading partner, followed by Greece and Germany, and remittances from the diaspora are significant. Typical exposures include opaque real estate ownership, politically connected contractors in public procurement, links between local businesses and organised crime networks active across Europe, and disputes involving Albanian-owned companies in Italy, Greece and the United Kingdom."
+  ],
+  "population": {
+    "value": "2.35 million",
+    "year": "2025",
+    "source_url": "https://fred.stlouisfed.org/series/POPTOTALA647NWDB"
+  },
+  "legal_system": "Albania has a civil law system. Commercial disputes go to the district courts at first instance, then to courts of appeal and the Supreme Court, whose civil chamber hears appeals on points of law. Company matters are governed by Law No. 9901/2008 on Traders and Commercial Companies, as amended. Serious corruption and organised crime cases go to the Special Court against Corruption and Organised Crime (GJKKO) and its appeal court, established under the 2016 reform. Administrative disputes have separate first-instance and appeal courts.",
+  "data_protection": {
+    "law": "Law No. 124/2024 On Personal Data Protection (published January 2025)",
+    "regulator": "Commissioner for the Right to Information and Personal Data Protection (IDP)",
+    "summary": "Law No. 124/2024 replaced Albania's earlier data protection law and closely follows the GDPR, so investigative processing of personal data needs a defined lawful basis, typically legitimate interests supported by a documented balancing assessment, and proportionate collection. Sensitive categories, including data relating to criminal matters, attract stricter conditions. Transfers abroad require adequate protection or appropriate safeguards; under a 2016 Commissioner decision, EU and EEA states are treated as adequate, but transfers to the United States need a separate basis. Workplace investigations should respect employees' rights and be documented. TDSC plans engagements to fit these requirements."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators in Albania; private security services are regulated separately, and whether particular investigative activities fall within those rules should be confirmed with local counsel. Regardless of licensing, the Criminal Code and the data protection law constrain covert recording, interception of communications and unauthorised access to personal data. Access to court files, cadastre records and some registry data can depend on demonstrating a legitimate interest. TDSC confirms the position for each engagement and uses appropriately qualified local professionals for any fieldwork.",
+  "corporate_records": "The National Business Center (QKB) maintains the Commercial Register under Law No. 9723/2007 on Business Registration, with online search of registered entities, administrators, partners and filed documents through QKB and the e-Albania portal. QKB also keeps the Register of Beneficial Owners under Law No. 112/2020, amended in 2022; some data is searchable, while other registered data is not freely accessible. Land and buildings are registered by the State Cadastre Agency (ASHK), whose online services cover maps and applications; title searches usually require formal requests.",
+  "anti_corruption": "Bribery offences, including active and passive corruption of officials, sit in the Criminal Code, and legal persons can be held criminally liable under Law No. 9754/2007. SPAK, created under Law No. 95/2016, prosecutes high-level corruption and organised crime with the National Bureau of Investigation and the GJKKO courts. Albania's AML framework is administered by its financial intelligence unit, the Financial Intelligence Agency, and evaluated by MONEYVAL.",
+  "matters": [
+    {
+      "title": "Coastal real estate and tourism investment",
+      "text": "Hotel, resort and residential projects along the Albanian Riviera and in Durrës and Vlorë raise title, permitting and beneficial ownership questions. TDSC reviews QKB and beneficial owner filings, litigation history and adverse media, and coordinates cadastre enquiries through local professionals to identify competing claims and undisclosed parties."
+    },
+    {
+      "title": "Energy project counterparty review",
+      "text": "Hydropower concessions and newer solar and wind auctions involve local partners, contractors and financiers. TDSC maps ownership, political exposure and procurement history so that developers, lenders and equipment suppliers can assess integrity risk before committing capital or entering joint ventures."
+    },
+    {
+      "title": "Organised crime exposure screening",
+      "text": "Albanian-linked criminal networks are active in Italy, the United Kingdom and elsewhere in Europe. Banks, logistics firms and investors ask TDSC to screen counterparties for adverse media, SPAK and court references, and links to sanctioned or prosecuted persons, distinguishing documented findings from rumour."
+    },
+    {
+      "title": "Asset tracing for litigation",
+      "text": "Judgment creditors and claimants trace assets held by Albanian individuals and companies at home and in the diaspora. TDSC combines QKB records, cadastre enquiries, court decisions and foreign registries, and works with Albanian counsel on what information can be lawfully obtained and used."
+    },
+    {
+      "title": "Public procurement and integrity reviews",
+      "text": "Contractors on public works and concessions sometimes face allegations of collusion or improper influence. TDSC examines ownership chains, shared addresses and directors, prior award patterns and SPAK-related reporting to support internal investigations, bid protests and compliance reviews commissioned by clients and their counsel."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Albanian; Italian and English widely used in commerce"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Tirane, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Currency",
+      "value": "Albanian lek (ALL); euros common in property and tourism"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Tirana, Durrës, Vlorë, Shkodër, Fier"
+    },
+    {
+      "label": "Courts language",
+      "value": "Albanian; foreign documents need certified translation"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-driven; personal introductions and follow-up meetings matter"
+    },
+    {
+      "label": "Online records",
+      "value": "QKB register searches and many state services via e-Albania"
+    }
+  ],
+  "tdsc_approach": "TDSC starts each Albanian engagement by confirming the question and the evidence the client needs, then reviewing whether the planned sources and methods are lawful under the Criminal Code and Law No. 124/2024. Registry work begins with QKB commercial and beneficial owner records, followed by court decisions, SPAK announcements, Albanian-language media and records in Italy, Greece or other countries where assets or counterparties sit. Where cadastre searches, document retrieval or interviews are needed, TDSC coordinates qualified and appropriately licensed local professionals and involves Albanian counsel on access and admissibility. Personal data is minimised, transferred under documented safeguards, and retained only as long as the matter requires.",
+  "faqs": [
+    {
+      "q": "Can I see who owns an Albanian company?",
+      "a": "The QKB Commercial Register shows registered partners, administrators and filed documents for most entities, and QKB also maintains a Register of Beneficial Owners under Law No. 112/2020. Some beneficial ownership data is searchable, while other registered data is not freely accessible. TDSC compares both registers with filings and media to test whether declared owners are the real ones."
+    },
+    {
+      "q": "How reliable are Albanian property records?",
+      "a": "The State Cadastre Agency has digitised maps and services, but title can be affected by post-1991 restitution claims, informal construction and legalisation processes, and overlapping registrations. A clean extract is useful but not conclusive. TDSC recommends cadastre searches through local professionals combined with court record checks for disputes affecting the parcel."
+    },
+    {
+      "q": "What does SPAK mean for due diligence?",
+      "a": "SPAK, the special prosecution office created under the 2016 justice reform, investigates corruption and organised crime involving senior officials and their associates. Its announcements and GJKKO court proceedings are an important adverse-information source. TDSC reports on the status of any proceedings accurately and distinguishes investigation from conviction."
+    },
+    {
+      "q": "Does Albanian data protection law apply to background checks?",
+      "a": "Yes. Law No. 124/2024 follows the GDPR model, so background checks on Albanian individuals need a lawful basis, proportionate scope and attention to sensitive data such as criminal records. Transfers of results to the United States require appropriate safeguards. TDSC structures checks accordingly and advises clients to confirm employment-law points with counsel."
+    },
+    {
+      "q": "Are private investigators licensed in Albania?",
+      "a": "We have not identified a dedicated private investigator licensing regime, and private security services are regulated separately. That does not mean investigative activity is unconstrained: criminal and data protection law restrict surveillance, recording and data access. TDSC confirms the position for each matter and works with appropriately qualified local professionals."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World - Albania",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=AL"
+    },
+    {
+      "title": "Commissioner for the Right to Information and Personal Data Protection",
+      "url": "https://www.idp.al/"
+    },
+    {
+      "title": "National Business Center (QKB)",
+      "url": "https://qkb.gov.al/"
+    },
+    {
+      "title": "QKB - Beneficial owners registration legislation",
+      "url": "https://qkb.gov.al/legjislacioni/legjislacioni-per-regjistrimin-e-pronareve-perfitues/"
+    },
+    {
+      "title": "QKB - Business registration legislation",
+      "url": "https://qkb.gov.al/legjislacioni/legjislacioni-per-regjistrimin-e-biznesit/"
+    },
+    {
+      "title": "State Cadastre Agency (ASHK)",
+      "url": "https://www.ashk.gov.al/"
+    },
+    {
+      "title": "Special Prosecution Office against Corruption and Organized Crime (SPAK)",
+      "url": "https://spak.gov.al/"
+    },
+    {
+      "title": "Wikipedia - Special Anti-Corruption Structure",
+      "url": "https://en.wikipedia.org/wiki/Special_Anti-Corruption_Structure"
+    },
+    {
+      "title": "Wikipedia - Judiciary of Albania",
+      "url": "https://en.wikipedia.org/wiki/Judiciary_of_Albania"
+    },
+    {
+      "title": "Wikipedia - Economy of Albania",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Albania"
+    },
+    {
+      "title": "MONEYVAL - Albania",
+      "url": "https://www.coe.int/en/web/moneyval/jurisdictions/albania"
+    },
+    {
+      "title": "FRED / World Bank - Population, Total for Albania",
+      "url": "https://fred.stlouisfed.org/series/POPTOTALA647NWDB"
+    }
+  ],
+  "review_flags": [
+    "AML law number/year not verified (official FIU and Bank of Albania pages could not be read); text names only the Financial Intelligence Agency and MONEYVAL. Add law citation after checking.",
+    "No PI licensing regime identified; private security law not verified by number. Confirm with Albanian counsel.",
+    "Extent of public access to the Register of Beneficial Owners is only partially confirmed (QKB page implies some data is not freely accessible).",
+    "Legal system paragraph relies partly on Wikipedia for court structure; SPAK/GJKKO details from SPAK site and Wikipedia.",
+    "Web search budget was exhausted during research; some points could not be cross-checked."
+  ],
+  "researched": "2026-11-04"
+}

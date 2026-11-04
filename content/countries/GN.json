@@ -1,0 +1,63 @@
+{
+  "cc": "GN",
+  "name": "Guinea",
+  "meta_description": "Investigative consulting for matters touching Guinea: bauxite, iron ore and gold counterparty due diligence, OHADA-framework corporate research and integrity risk.",
+  "eyebrow": "Republic of Guinea",
+  "hero_lede": "Matters involving Guinea usually begin in the mining sector, where concession history, local partners and political change shape commercial risk. TDSC scopes due diligence and integrity research from Nashville, coordinating qualified Guinean professionals and counsel where inquiries in Conakry or the mining regions are required.",
+  "intro": [
+    "Guinea is a French-speaking West African state with a codified legal system largely based on French civil law, and a member of OHADA, whose uniform acts govern commercial companies, secured transactions, insolvency and arbitration. Following the September 2021 coup, the country was governed under a transitional charter; a new constitution was approved by referendum in September 2025, and General Mamadi Doumbouya won the presidential election of December 2025. The US government has described the judiciary as underfunded, slow and lacking independence, with business disputes taking years to resolve. Investigative work therefore depends on careful documentary research, discreet local inquiry and close attention to the political context in which commercial rights are granted, reviewed and sometimes withdrawn.",
+    "Organisations commission work touching Guinea mainly because of mining. The country holds roughly a third of the world's bauxite reserves, the Simandou iron ore deposit is among the largest undeveloped high-grade resources globally, and artisanal and industrial gold mining are significant, particularly around Siguiri. Typical exposures include the history and validity of mining titles, local partners and subcontractors whose ownership is opaque, state participation rights under the 2013 Mining Code, gold sourcing and smuggling risk, and bribery risk in licensing and procurement. Lenders, offtakers, equipment suppliers and logistics providers also need reliable information on Guinean counterparties before extending credit or entering long-term contracts."
+  ],
+  "population": {"value": "17.5 million (census)", "year": "2025", "source_url": "https://en.wikipedia.org/wiki/Guinea"},
+  "legal_system": "Guinea has a codified civil-law system largely based on French law. As an OHADA member, its commercial law is governed by the OHADA uniform acts, including those on general commercial law, commercial companies, secured transactions, insolvency and arbitration, with the Common Court of Justice and Arbitration in Abidjan as the supranational court for questions under those acts. Domestic commercial disputes are heard by the ordinary courts. An Arbitration Court established in 1999 under the supervision of the Chamber of Commerce is generally viewed more favourably than the regular courts.",
+  "data_protection": {
+    "law": "Law L/2016/037/AN on Cybersecurity and Personal Data Protection (2016)",
+    "regulator": "Data protection authority provided for by the law; reported in 2021 as not yet operational",
+    "summary": "Guinea's 2016 law on cybersecurity and personal data protection establishes data protection principles and requires that personal data be transferred to a third country only where it ensures an equivalent or higher level of protection, with prior authorisation from the protection authority. DLA Piper reported in 2021 that the authority had not yet become effective, leaving practical application uncertain. Investigative work involving Guinean individuals is therefore scoped with local counsel, limited to data necessary for the purpose, and handled in line with the client's own data protection obligations, particularly where data is moved outside Guinea."
+  },
+  "investigator_regulation": "We have not identified, from sources verified for this page, a dedicated licensing regime for private investigators in Guinea. Private security activity may be regulated separately, and the legal position for any field inquiry should be confirmed with Guinean counsel before work begins. Private parties have no access to police, intelligence, tax or banking records, and inquiries touching officials or security forces carry legal and personal risk. TDSC limits field activity to what is lawful and necessary and coordinates only established local professionals.",
+  "corporate_records": "Business registration is handled by the Agency for the Promotion of Private Investment (APIP) in Conakry and in regional offices, with an online platform used by notaries. Under the OHADA framework, companies are recorded in the Trade and Personal Property Credit Register (RCCM), from which basic company particulars can usually be obtained through local professionals. According to Open Ownership, Guinea had committed to beneficial ownership transparency, including through EITI for the extractive sector, but had not implemented a central register as of 2026; ECOWAS requires one by 1 January 2027. Mining titles are recorded by the mining administration.",
+  "anti_corruption": "Guinea adopted an Anti-Corruption Law in 2017. The National Agency to Fight Corruption, created in 2004 and reporting to the President, has been described by the US government as underfunded. The Court to Repress Economic and Financial Crimes (CRIEF), created in December 2021, hears corruption and embezzlement cases. Officials and family members have been required to file asset declarations since 2020, and mining officials may not hold shares in mining companies. Guinea is party to the UN Convention against Corruption. AML arrangements under the regional framework were not verified for this page.",
+  "matters": [
+    {"title": "Mining title and concession history", "text": "Research into the chain of ownership, transfers and disputes affecting bauxite, iron ore and gold titles, including past revocations and renegotiations, to help investors and lenders understand the political and legal history behind a Guinean concession before committing capital."},
+    {"title": "Local partner and subcontractor vetting", "text": "Background research on Guinean partners, subcontractors and service providers in mining, logistics and port operations, mapping ownership, links to officials or security forces and reputation, for compliance with Guinean and foreign anti-corruption laws."},
+    {"title": "Gold sourcing and offtake diligence", "text": "Verification of gold sellers, exporters and aggregators, particularly where supply is linked to artisanal mining in Upper Guinea, testing licensing, ownership and the plausibility of volumes, and identifying smuggling and illicit finance indicators."},
+    {"title": "Infrastructure and energy counterparties", "text": "Due diligence on companies involved in hydropower, rail, port and power projects, including sponsors, local contractors and intermediaries, for lenders and equipment suppliers assessing payment, reputational and integrity risk."},
+    {"title": "Dispute and arbitration support", "text": "Research supporting arbitration under OHADA rules, before the Common Court of Justice and Arbitration or international tribunals, including identifying assets and corporate relationships of a Guinean counterparty inside and outside the country."}
+  ],
+  "practical": [
+    {"label": "Business language", "value": "French; Susu, Pular and Malinke widely spoken"},
+    {"label": "Time zone", "value": "Africa/Conakry, UTC+0, no daylight saving time"},
+    {"label": "Working week", "value": "Monday to Friday"},
+    {"label": "Currency", "value": "Guinean franc (GNF)"},
+    {"label": "Courts language", "value": "French"},
+    {"label": "Main business centres", "value": "Conakry, Kamsar, Boké, Kankan, Siguiri"},
+    {"label": "Document formalities", "value": "Notaries required for most company formations; French translations needed"}
+  ],
+  "tdsc_approach": "TDSC scopes Guinean matters with attention to the political context in which mining rights, contracts and enforcement operate. Each engagement begins with a review of the purpose, the parties, any connections to officials or the security forces, and the legal and data protection framework, including the authorisation requirement for transfers of personal data abroad. Desk research draws on OHADA and Guinean legal sources, EITI disclosures, mining cadastre information, regional and international litigation records and French-language press. Where documents must be retrieved in Conakry or inquiries made in mining regions, TDSC coordinates established local professionals and works with the client's Guinean counsel, who advises on legal questions. Field activity is kept to what is lawful, necessary and safe.",
+  "faqs": [
+    {"q": "Can the ownership of a Guinean mining company be established?", "a": "Often in part. Company particulars can usually be obtained from the RCCM through local professionals, and EITI reporting adds information for the extractive sector. Guinea had not implemented a central beneficial ownership register as of 2026, so we combine registry data with international corporate records, litigation and press, and state confidence levels clearly."},
+    {"q": "Does Guinea have a data protection law?", "a": "Yes. Law L/2016/037/AN of 2016 covers cybersecurity and personal data protection and restricts transfers abroad, requiring prior authorisation from a protection authority. That authority was reported in 2021 as not yet operational, so we scope data handling with Guinean counsel and apply the client's own data protection obligations."},
+    {"q": "How are commercial disputes with Guinean parties usually resolved?", "a": "Because ordinary court proceedings can take years, many contracts provide for arbitration, whether under the OHADA framework with the Common Court of Justice and Arbitration in Abidjan, before the domestic Arbitration Court, or internationally. Asset research is often commissioned before choosing the forum or seeking enforcement."},
+    {"q": "What integrity risks are typical in Guinean mining?", "a": "Recurring issues include intermediaries claiming influence over licensing, partners with undisclosed links to officials, past concession disputes resurfacing after political change, and pressure to engage specific local subcontractors. Documented due diligence on each of these relationships supports compliance with Guinean law and foreign anti-bribery statutes."},
+    {"q": "Has the political transition changed the risk picture?", "a": "The 2025 constitution and the December 2025 presidential election ended the formal transitional period, and regional bodies restored Guinea's membership. Contract reviews and enforcement priorities can still shift, so we include current political context in each assessment rather than relying on older reporting."}
+  ],
+  "sources": [
+    {"title": "US Department of State: 2024 Investment Climate Statements, Guinea", "url": "https://www.state.gov/reports/2024-investment-climate-statements/guinea/"},
+    {"title": "DLA Piper Data Protection Laws of the World: Guinea", "url": "https://www.dlapiperdataprotection.com/?c=GN&t=law"},
+    {"title": "Open Ownership: Guinea", "url": "https://openownership.org/en/map/country/guinea/"},
+    {"title": "Guinea (overview, 2025 census and political developments)", "url": "https://en.wikipedia.org/wiki/Guinea"},
+    {"title": "OHADA (overview of uniform acts)", "url": "https://en.wikipedia.org/wiki/OHADA"},
+    {"title": "Simandou (overview)", "url": "https://en.wikipedia.org/wiki/Simandou"}
+  ],
+  "review_flags": [
+    "Political context post-2025 (new constitution, Doumbouya elected Dec 2025, ECOWAS/AU readmission) sourced from Wikipedia; verify against official/news sources.",
+    "Population 17,521,167 from 2025 census per Wikipedia; replace with INS Guinea source if available.",
+    "Data protection authority status from DLA Piper last reviewed 2021; check whether an authority now operates.",
+    "Private investigator licensing not verified.",
+    "RCCM, CCJA seat in Abidjan, and mining cadastre references from general knowledge and State Dept (which mentions Abidjan regional appeal); verify.",
+    "AML law/CENTIF not verified; text says so.",
+    "Simandou current status (production/exports 2025-26) not verified, so not asserted."
+  ],
+  "researched": "2026-11-04"
+}

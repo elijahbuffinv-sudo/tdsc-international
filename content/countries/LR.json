@@ -1,0 +1,152 @@
+{
+  "cc": "LR",
+  "name": "Liberia",
+  "meta_description": "Investigative consulting for matters touching Liberia: non-resident and ship-owning entity research, concession due diligence, asset tracing and disputes.",
+  "eyebrow": "Republic of Liberia",
+  "hero_lede": "Investigative consulting for matters touching Liberia often starts with an entity, not a place: a non-resident corporation or ship-owning company formed under Liberian law. It also covers mining, timber and agricultural concessions in the country itself. TDSC scopes each matter from Nashville and coordinates qualified local professionals when work in Liberia is required.",
+  "intro": [
+    "Liberia has a common law system derived from Anglo-American law, applied alongside customary law that governs many indigenous communities. Its courts include a Supreme Court, sixteen circuit courts and specialised courts, among them a Commercial Court and a Debt Court. Public records are thinner than in larger jurisdictions, many processes remain paper-based, and there is no comprehensive data protection statute. Domestic businesses register with the Liberia Business Registry in Monrovia, while non-resident corporations and vessel-owning entities are formed through the Liberian Registry, operated by LISCR. Investigators therefore need to distinguish clearly between the onshore economy and the offshore corporate and maritime registry, which have different records and practical access.",
+    "Organisations commission investigative work involving Liberia for two broad reasons. The first is the Liberian flag and corporate registry: shipping finance, charter disputes, sanctions screening and asset recovery often lead to Liberian-registered owning companies whose beneficial owners sit elsewhere. The second is the onshore economy, where iron ore, gold, rubber, palm oil and timber concessions involve foreign investors, government counterparties and community land claims. Development partners and lenders also fund public projects and need vetting of contractors. Typical exposures include opaque ownership, politically exposed counterparties, concession-related corruption allegations and weak enforcement of judgments."
+  ],
+  "population": {
+    "value": "5.73 million",
+    "year": "2025",
+    "source_url": "https://fred.stlouisfed.org/series/POPTOTLRA647NWDB"
+  },
+  "legal_system": "Liberia has a dual legal system. Statutory law based on Anglo-American common law governs the formal sector, while customary law applies in many indigenous communities and may be applied by the courts. The Supreme Court, led by a Chief Justice and four Associate Justices, is the final appellate court. Sixteen circuit courts hear serious civil and criminal matters, with magistrates' courts and justices of the peace below them. Specialised courts include the Commercial Court, Debt Court, National Labor Court, Tax Court and the Monthly and Probate Court.",
+  "data_protection": {
+    "law": "No comprehensive data protection law; sectoral provisions including the Electronic Transactions Law (2002), Telecommunications Act and 2017 AML/CFT Regulations, plus the ECOWAS Supplementary Act on personal data",
+    "regulator": "No dedicated data protection authority; the Liberia Telecommunications Authority is treated as the contact authority for ECOWAS transfer purposes",
+    "summary": "Liberia has no comprehensive data protection statute or independent authority. The National ICT Policy (2019) sets processing principles, and sectoral rules require telecom and e-payment providers to secure customer data and limit disclosure to third parties without consent or legal requirement. There is no general breach notification duty and no Liberian law specifically governing transfers abroad, though the ECOWAS Supplementary Act restricts transfers outside ECOWAS. Central Bank e-payment rules prefer local hosting. In practice, investigative work should still follow fairness, purpose limitation and minimisation, and expect enforcement mainly through private court action."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators in Liberia, and we have not confirmed whether security services legislation covers investigative work. Engagements are therefore scoped with Liberian counsel before any local inquiries begin. The absence of a licensing statute does not remove limits: the Penal Code, constitutional protections and sectoral confidentiality rules still apply, and access to bank, telecom and government records is not available to private parties. TDSC does not undertake interception, covert recording or pretexting. Any field inquiries in Liberia, such as site visits or discreet local enquiries, are carried out by qualified local professionals using methods confirmed in advance with counsel.",
+  "corporate_records": "Onshore businesses register with the Liberia Business Registry, established through the Ministry of Commerce and Industry with other ministries, which offers registration and information services. Non-resident corporations, LLCs, partnerships, foundations and vessel-owning entities are formed through the Liberian Registry operated by LISCR, which also records ship mortgages; shareholder information for these entities is generally not publicly available. Liberia has committed to beneficial ownership transparency through EITI, the IMF and its Open Government Partnership action plan, and Open Ownership lists it as implementing a register. ECOWAS rules require a central beneficial ownership register by January 2027.",
+  "anti_corruption": "The Liberia Anti-Corruption Commission (LACC) was established in 2008. An amended LACC Act passed in 2022 gave it direct prosecutorial powers, so it no longer depends on the Ministry of Justice to bring cases, and control of asset declarations across all three branches. Whistleblower and witness protection acts support reporting. Bribery and related offences fall under the Penal Code. Anti-money laundering legislation and a financial intelligence unit were developed after the 2011 GIABA evaluation, which found no comprehensive AML law then in force.",
+  "matters": [
+    {
+      "title": "Ship-owning company ownership research",
+      "text": "Identifying who stands behind Liberian-registered single-ship companies for lenders, charterers, insurers and claimants, combining vessel and mortgage records, foreign corporate registries, court filings, maritime databases and open sources, since shareholder details of Liberian non-resident entities are generally not public."
+    },
+    {
+      "title": "Concession and extractives due diligence",
+      "text": "Reviewing ownership, political connections and track record of partners in iron ore, gold, timber, rubber and palm oil concessions, including public-record corruption allegations, community land disputes and adverse findings by the LACC, auditors or legislative inquiries, before investment or financing decisions."
+    },
+    {
+      "title": "Asset tracing for judgment enforcement",
+      "text": "Locating vessels, receivables and holdings connected to Liberian entities to support arrest, attachment or recognition proceedings elsewhere, and mapping onshore assets of Liberian debtors where enforcement through the Commercial Court or Debt Court is contemplated by counsel."
+    },
+    {
+      "title": "Contractor and grantee vetting",
+      "text": "Supporting development partners, NGOs and lenders with integrity checks on Liberian contractors, consultants and implementing partners, including verification of registration with the Liberia Business Registry, claimed experience, ownership links to officials and prior misconduct findings."
+    },
+    {
+      "title": "Sanctions and politically exposed persons review",
+      "text": "Assessing whether counterparties or vessel owners connect to designated persons or politically exposed Liberians, using official lists, corporate and maritime records and multilingual media, so compliance teams can document decisions on onboarding, financing or charters."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "English (official); Liberian English widely spoken"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Monrovia, UTC+0, no daylight saving"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Liberian dollar (LRD); US dollar also legal tender and widely used"
+    },
+    {
+      "label": "Courts language",
+      "value": "English"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Monrovia, Buchanan, Harper"
+    },
+    {
+      "label": "Registry note",
+      "value": "Onshore companies: Liberia Business Registry; non-resident and maritime entities: Liberian Registry (LISCR)"
+    },
+    {
+      "label": "Business culture",
+      "value": "Personal relationships and in-person follow-up matter; paper records are common"
+    }
+  ],
+  "tdsc_approach": "TDSC first establishes whether a Liberia matter concerns the offshore corporate and maritime registry, the onshore economy, or both, because the records and practical routes differ. For registry entities, research centres on vessel, mortgage and foreign corporate records, litigation and maritime sources rather than on Liberia itself. For onshore matters, TDSC works with Liberian counsel and qualified local professionals to obtain registry and court records and to make lawful local enquiries, with methods agreed in writing. Although Liberia lacks a comprehensive data protection law, TDSC applies purpose limitation and minimisation and stores data in the United States. Each matter is screened for sanctions exposure, and TDSC does not provide legal advice.",
+  "faqs": [
+    {
+      "q": "Can you find the beneficial owner of a Liberian ship-owning company?",
+      "a": "Often, but rarely from Liberian records alone. Shareholder information for non-resident entities is generally not public. TDSC works from vessel and mortgage records, the manager and operator chain, foreign registries, court filings, insurance and maritime databases, and open sources to identify likely controllers, and reports the level of confidence for each link."
+    },
+    {
+      "q": "Does Liberia have a data protection law?",
+      "a": "Not a comprehensive one. Liberia relies on sectoral rules in the telecom, e-payment and financial sectors, the 2019 National ICT Policy and the ECOWAS Supplementary Act. There is no dedicated authority. TDSC still applies fairness, purpose limitation and minimisation, because clients' own laws, such as GDPR or US state law, may apply to the work."
+    },
+    {
+      "q": "Which court hears commercial disputes in Liberia?",
+      "a": "Liberia has a specialised Commercial Court alongside a Debt Court, Tax Court and the circuit courts, with final appeal to the Supreme Court. TDSC can assemble public background on parties and assets to support Liberian counsel, but procedural strategy and enforcement are matters for counsel."
+    },
+    {
+      "q": "Has Liberia strengthened anti-corruption enforcement?",
+      "a": "The Liberia Anti-Corruption Commission, established in 2008, gained direct prosecutorial powers through an amended act in 2022 and now manages asset declarations for officials. Cases can be slow and outcomes vary. TDSC records LACC actions, audit findings and legislative inquiries as part of integrity reviews, stating their status accurately."
+    },
+    {
+      "q": "Can TDSC visit a concession site or project in Liberia?",
+      "a": "Where a site visit is lawful and necessary, TDSC coordinates qualified local professionals who carry out observable, non-intrusive inquiries agreed in advance with the client and Liberian counsel. Visits are planned with attention to security, community relations and land claims, and reported factually with dated photographs and notes where appropriate."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Liberia",
+      "url": "https://www.dlapiperdataprotection.com/?c=LR&t=law"
+    },
+    {
+      "title": "GlobaLex: Liberian legal system",
+      "url": "https://www.nyulawglobal.org/globalex/Liberia.html"
+    },
+    {
+      "title": "Judiciary of the Republic of Liberia",
+      "url": "https://www.judiciary.gov.lr/"
+    },
+    {
+      "title": "Liberia Anti-Corruption Commission: About",
+      "url": "https://lacc.gov.lr/about-us/"
+    },
+    {
+      "title": "Liberia Business Registry",
+      "url": "https://www.lbr.gov.lr/"
+    },
+    {
+      "title": "LISCR: The Liberian Registry",
+      "url": "https://www.liscr.com/"
+    },
+    {
+      "title": "Open Ownership: Liberia",
+      "url": "https://openownership.org/en/map/country/liberia"
+    },
+    {
+      "title": "GIABA: Liberia member page",
+      "url": "https://www.giaba.org/member-states/liberia.html"
+    },
+    {
+      "title": "FRED / World Bank: Population, Total for Liberia",
+      "url": "https://fred.stlouisfed.org/series/POPTOTLRA647NWDB"
+    }
+  ],
+  "review_flags": [
+    "Web search budget was exhausted during research; Liberia relied on direct fetches.",
+    "AML law name and year (believed to be the Anti-Money Laundering and Terrorist Financing Act 2012) and current FIU name not verified from an opened source; text kept general.",
+    "Original LACC establishing act name not confirmed (LACC states 2008 establishment and 2022 amendment).",
+    "No private investigator licensing regime identified.",
+    "Statement that non-resident entity shareholder information is generally not public is based on general knowledge of the registry; confirm with LISCR or counsel.",
+    "Beneficial ownership register status may change before the ECOWAS 1 January 2027 deadline.",
+    "Practical items (working week, other business centres) are general knowledge."
+  ],
+  "researched": "2026-11-04"
+}
