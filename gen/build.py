@@ -545,7 +545,7 @@ def main():
         for f in os.listdir(cdir):
             if f.endswith('.json'):
                 x = json.load(open(os.path.join(cdir, f)))
-                if len(x.get('sources', [])) >= MIN_SOURCES: cities[x['slug']] = x
+                if len(x.get('sources', [])) >= MIN_SOURCES and not x.get('hold'): cities[x['slug']] = x
     HUB_BY_SLUG = {hub_slug(h): h for h in HUBS}
     hub_pages = {s for s in cities if s in HUB_BY_SLUG}
     PAGES.clear()

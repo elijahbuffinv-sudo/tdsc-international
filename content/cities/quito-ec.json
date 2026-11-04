@@ -1,0 +1,144 @@
+{
+  "slug": "quito-ec",
+  "name": "Quito",
+  "cc": "EC",
+  "meta_description": "TDSC investigative consulting in matters touching Quito: public procurement and oil sector counterparties, ownership research and arbitration support.",
+  "eyebrow": "Pichincha, Ecuador",
+  "hero_lede": "Investigative consulting for matters touching Quito, scoped from Nashville: background research on contractors and partners in public procurement and the energy sector, ownership research on Ecuadorian companies, screening for political exposure and organised crime links, and factual support for counsel in disputes before Quito courts and arbitration centres.",
+  "intro": [
+    "Quito is Ecuador's capital and, with about 2.6 million inhabitants in the Metropolitan District according to recent reporting on census data, one of the country's two main business centres alongside Guayaquil. Where Guayaquil is the port and trading hub, Quito concentrates the national government, ministries and regulators, the higher courts, state-owned enterprises, embassies and the head offices of many companies and international organisations working in Ecuador. Public administration, financial services, construction, commerce and professional services are central to its economy, and national statistics show a particularly dense base of microenterprises. Mariscal Sucre International Airport links the city to the Americas and Europe and handles fresh-cut flower exports from the surrounding highlands.",
+    "Organisations commission investigative work connected to Quito because so many decisions with financial consequences are taken there. Public contracts, oil, mining and infrastructure concessions and regulatory approvals are awarded from the capital, so procurement integrity, conflicts of interest and political exposure are recurring concerns. Ecuador's worsening security situation and organised crime have made counterparty screening more important for banks, exporters and investors. Investors acquiring or partnering with Ecuadorian groups need clarity on owners and related parties, and parties to commercial disputes need well-documented facts about opponents and their assets for litigation in Quito courts or arbitration before Quito-based centres."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 2.6 million, Metropolitan District of Quito (recent reporting on INEC census data); not confirmed from INEC directly"
+    },
+    {
+      "label": "Role",
+      "value": "National capital: government, regulators, higher courts, state-owned enterprises, embassies"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Public administration, financial services, commerce, construction, professional services, manufacturing, flower exports"
+    },
+    {
+      "label": "Business base",
+      "value": "High concentration of microenterprises (INEC)"
+    },
+    {
+      "label": "Arbitration",
+      "value": "Centre of Arbitration and Mediation of the Quito Chamber of Commerce (CCQ)"
+    },
+    {
+      "label": "Airport",
+      "value": "Mariscal Sucre International Airport"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Guayaquil (UTC-5, no daylight saving)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Spanish; English in international finance and energy"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Public procurement counterparty research",
+      "text": "Background research on contractors, consortium members and subcontractors in public works and supply contracts awarded from Quito, covering ownership, related companies, past awards, disputes and links to officials, to support integrity due diligence by financiers, joint venture partners and bidders."
+    },
+    {
+      "title": "Energy and mining partner diligence",
+      "text": "Researching partners, service providers and intermediaries in Ecuador's oil, mining and power sectors, whose state counterparties and regulators sit in Quito, including beneficial ownership, political exposure, prior investigations and adverse media, to assess bribery and reputational risk before contracts or acquisitions."
+    },
+    {
+      "title": "Organised crime and AML screening",
+      "text": "Screening Quito-based companies and individuals for links to organised crime, money laundering cases and sanctions designations using court records, official announcements and press, supporting banks, exporters and investors that must document enhanced due diligence on Ecuadorian counterparties."
+    },
+    {
+      "title": "Acquisition and investor diligence",
+      "text": "Ownership, management, financial filing and reputational research on Ecuadorian groups headquartered in Quito before acquisitions, minority investments or lending, including review of company filings, litigation and related-party structures, presented in clear English for clients with source references."
+    },
+    {
+      "title": "Dispute and asset research",
+      "text": "Assembling documented facts about opposing parties, their owners, assets and litigation history for counsel in Quito court proceedings or arbitration, and identifying transfers of assets to related parties or new companies that may affect enforcement."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Higher courts in the capital",
+      "text": "Quito is the seat of Ecuador's National Court of Justice and the Constitutional Court, and of the Provincial Court of Justice of Pichincha, which hears appeals from first-instance courts in the province. Cases involving the state, regulators and many national companies are therefore litigated in Quito. The judiciary's online case consultation system helps identify a counterparty's proceedings, though counsel should confirm status and documents."
+    },
+    {
+      "title": "Quito Chamber of Commerce arbitration",
+      "text": "The Centre of Arbitration and Mediation of the Quito Chamber of Commerce (CCQ) is one of Ecuador's leading commercial arbitration institutions and is profiled in Global Arbitration Review's regional arbitration guide. Reporting indicates that the chamber has also been designated as a venue for ICSID proceedings in Ecuador. Arbitration clauses in Quito contracts often refer to it, while awards are generally not public."
+    },
+    {
+      "title": "Company supervision in Quito",
+      "text": "The Superintendency of Companies, Securities and Insurance (Supercias) supervises Ecuadorian companies and operates a Quito Regional Intendancy that handles companies domiciled in the capital region. Its portal shows legal status, administrators, shareholder information and financial statements. Company acts are also recorded in the Quito mercantile registry, and land in the Metropolitan District's property registry. Records are compared with one another for consistency."
+    },
+    {
+      "title": "Seat of national regulators",
+      "text": "Most national ministries, regulators, control bodies and state-owned enterprises are headquartered in Quito, including those overseeing public procurement, energy and mining. Their resolutions, contract awards and sanctions decisions are often a key public source for understanding a counterparty's dealings with the state, and for identifying officials who may be politically exposed persons. They also show sanctions imposed by those bodies."
+    }
+  ],
+  "tdsc_approach": "For matters touching Quito, TDSC first defines the question, whether that is a contractor's links to officials, an energy partner's owners, a counterparty's exposure to organised crime or a debtor's assets, and then identifies the relevant records, including Supercias filings, judicial case information, procurement and regulatory decisions and Spanish-language media. Research is conducted from Nashville, with records from Colombia, Peru, Panama and other jurisdictions where owners or funds are located. Every matter is screened for sanctions before work begins. Where interviews, site visits or certified records are needed, TDSC coordinates with appropriately qualified local professionals and the client's Ecuadorian counsel, with attention to personal safety. Personal data is handled under Ecuador's data protection law.",
+  "faqs": [
+    {
+      "q": "How do we check a contractor that wins public contracts in Quito?",
+      "a": "We review Supercias records of shareholders and administrators, trace related companies and individuals, examine past awards, disputes and administrative sanctions, and look for links to officials in the contracting entity. We report how far ownership can be traced and where counsel or the client should seek disclosures directly from the contractor."
+    },
+    {
+      "q": "Can you screen Ecuadorian partners for organised crime links?",
+      "a": "Yes, using public court information, official statements, sanctions lists and Ecuadorian and international media. We report what lawful sources show and distinguish allegations from findings. Where risk is high, we also advise on security considerations for any local inquiries and on the limits of what desk research can establish."
+    },
+    {
+      "q": "Which arbitration centre in Quito is most common?",
+      "a": "The Centre of Arbitration and Mediation of the Quito Chamber of Commerce is one of the most frequently used for commercial disputes in the capital, but the applicable forum depends on the contract. We do not advise on forum or procedure; we support counsel with documented facts about the opposing party and its assets."
+    },
+    {
+      "q": "Do Quito court records show a company's full litigation history?",
+      "a": "They are an important source, available through the judiciary's online consultation system, but searches depend on accurate names and identifiers, and some matters are confidential or arbitrated. We combine court data with company filings, administrative decisions and media, and we state where absence of records is not proof of no disputes."
+    },
+    {
+      "q": "Does TDSC have an office in Quito?",
+      "a": "No. TDSC is based in Nashville and has no office or staff in Ecuador. Most work is desk-based research. Where local steps are justified, we coordinate with appropriately qualified local professionals and the client's Ecuadorian counsel, and we do not use covert or deceptive methods or seek restricted government records."
+    }
+  ],
+  "sources": [
+    {
+      "title": "El Diario: Quito multiplica su población por ocho, de 319 mil habitantes a 2,6 millones en siete décadas (December 2025)",
+      "url": "https://www.eldiario.ec/quito/quito-multiplica-su-poblacion-por-ocho-la-capital-de-ecuador-paso-de-319-mil-habitantes-a-2-6-millones-en-siete-decadas-03122025/"
+    },
+    {
+      "title": "INEC: En Quito, la presencia de microempresas alcanza proporciones destacadas",
+      "url": "https://www.ecuadorencifras.gob.ec/institucional/quito-ecuador-empresas-microempresas-emprendimientos-datos/"
+    },
+    {
+      "title": "Municipio de Quito: Mercado Laboral Anual 2025 (PDF)",
+      "url": "https://investigaciones.quito.gob.ec/wp-content/uploads/2026/04/Mercado-Laboral-Anual-2025.pdf"
+    },
+    {
+      "title": "Global Arbitration Review: Centro de Arbitraje y Mediación de la Cámara de Comercio de Quito (CCQ)",
+      "url": "https://globalarbitrationreview.com/survey/the-guide-regional-arbitration/2018/article/centro-de-arbitraje-y-mediacion-de-la-camara-de-comercio-de-quito-ccq"
+    },
+    {
+      "title": "El Oriente: La Cámara de Comercio de Quito será sede de procedimientos CIADI en Ecuador",
+      "url": "https://www.eloriente.com/articulo/la-caacutemara-de-comercio-de-quito-seraacute-sede-de-procedimientos-ciadi-en-ecuador/37801"
+    },
+    {
+      "title": "Supercias: Informe de rendición de cuentas 2022, Intendencia Regional de Quito (PDF)",
+      "url": "https://www.supercias.gob.ec/portalscvs/doc/institucion/rc/RendicionCuentas2022/INFORME-DE-RENDICION-DE-CUENTAS-FINAL-EOD-IRQ-2022.pdf"
+    }
+  ],
+  "review_flags": [
+    "HELD: written from search-result titles only; re-verify before publishing",
+    "Web fetch hourly rate limit was exhausted; no Quito source could be opened. All sources are search-result titles only, so figures (2.6 million population) rest on headlines. Re-verify before publication.",
+    "Seats of the National Court of Justice, Constitutional Court and Pichincha Provincial Court, Mariscal Sucre airport, flower exports, Quito mercantile/property registries and regulator/state-company HQs are stated from general knowledge.",
+    "CCQ as ICSID venue rests on an undated El Oriente headline; 'Quito Regional Intendancy' inferred from the Supercias report filename (IRQ).",
+    "Bolsa de Valores de Quito deliberately not named (not verified)."
+  ],
+  "researched": "2026-11-04",
+  "hold": true
+}

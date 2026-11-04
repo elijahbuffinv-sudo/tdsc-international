@@ -1,0 +1,139 @@
+{
+  "slug": "porto-pt",
+  "name": "Porto",
+  "cc": "PT",
+  "meta_description": "TDSC investigative consulting in matters touching Porto: manufacturer and exporter diligence, property ownership research, tech hiring checks, disputes.",
+  "eyebrow": "Porto, Northern Portugal",
+  "hero_lede": "Porto anchors Portugal's main manufacturing region and a growing services, technology and tourism economy. TDSC helps clients research northern Portuguese manufacturers, exporters and investors, trace ownership of Porto property and companies, and support counsel in disputes before the courts and arbitral bodies of the north.",
+  "intro": [
+    "Porto is Portugal's second city and the centre of a metropolitan area of 17 municipalities with about 1.86 million residents in 2025, according to Statistics Portugal, of whom about 273,000 live in the municipality itself. The region has been the country's largest manufacturing area since the Industrial Revolution and remains the base of many large Portuguese corporations and export-oriented family firms. The city council's 2024 economic bulletin reports that Porto holds 3.5 percent of Portugal's companies, 16 percent of its higher education graduates and 9.4 percent of its tourist guests, with dwelling sales averaging about 301,000 euros in 2024. The Port of Leixões in neighbouring Matosinhos handles cargo and a fast-growing cruise trade, and Porto Airport passenger numbers were 22 percent above 2019 levels in 2024.",
+    "Organisations commission investigative work connected to Porto because the north of Portugal is where much of the country's manufacturing, export trade and new technology investment takes place. Buyers and investors deal with family-owned manufacturers and exporters whose ownership and finances are not always transparent. Rapid growth in tourism, short-term rentals and foreign residents, whose number more than doubled between 2019 and 2023, has drawn international money into Porto property, sometimes through companies and funds. Technology and engineering centres set up by foreign firms bring hiring, vendor and confidentiality risks. Porto residents and companies also feature in cross-border insolvency, fraud and enforcement proceedings, often heard by the northern courts."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 273,000 in the municipality and 1.86 million in the metropolitan area (INE, 2025)"
+    },
+    {
+      "label": "Metro area",
+      "value": "Área Metropolitana do Porto, 17 municipalities including Vila Nova de Gaia, Matosinhos and Maia"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Manufacturing and export industries, IT services, tourism and hospitality, real estate, higher education, business services"
+    },
+    {
+      "label": "Port and airport",
+      "value": "Port of Leixões (Matosinhos), cargo and cruise traffic; Porto Airport"
+    },
+    {
+      "label": "Companies",
+      "value": "About 21 percent of the metro area's companies and 3.5 percent of Portugal's are in Porto municipality"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Lisbon, UTC+0 (UTC+1 in summer)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Portuguese; English widely used in technology, tourism and export trade"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Northern manufacturer and exporter diligence",
+      "text": "Researching Porto-region manufacturers and exporters before supply, distribution or acquisition deals: ownership and family control, group companies, insolvency and court history, labour and environmental issues, and reputation among customers and former staff, set against commercial registry filings and Portuguese-language press."
+    },
+    {
+      "title": "Property and investor ownership",
+      "text": "Identifying who stands behind Porto residential, hotel and short-term rental property held through companies or funds, using land and commercial registry certificates, beneficial ownership information where accessible, and court records, for clients facing a dispute, enforcement or reputational question."
+    },
+    {
+      "title": "Technology centre hiring and vendors",
+      "text": "Background checks on senior hires, contractors and service providers for technology and engineering centres in Porto, and research into vendors suspected of conflicts of interest or inflated billing, carried out with counsel under GDPR and Portuguese employment law constraints."
+    },
+    {
+      "title": "Asset research for enforcement",
+      "text": "Locating registered property, vehicles, company holdings and business activity in the Porto metropolitan area linked to a judgment or award debtor, to inform counsel seeking attachment, insolvency steps or recognition of a foreign decision through the Portuguese courts."
+    },
+    {
+      "title": "Port and trade counterparties",
+      "text": "Verifying freight forwarders, importers, exporters and intermediaries operating through the Port of Leixões, including ownership, trading history, links between parties and adverse records, where cargo diversion, documentary fraud or sanctions and export control concerns arise for a client."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Tribunal da Relação do Porto",
+      "text": "The Porto Court of Appeal hears appeals from first-instance courts across much of northern Portugal. Under the Voluntary Arbitration Law (Law 63/2011, in force since March 2012), appellate courts such as the Relação do Porto also decide applications to set aside arbitral awards seated in their district and matters relating to arbitrators. Its case law includes a 2014 decision setting aside an award over an arbitrator's conflict of interest."
+    },
+    {
+      "title": "First-instance and commerce courts",
+      "text": "The Comarca do Porto is the first-instance judicial district for the city and much of the metropolitan area. It includes specialised commerce sections that hear company law and insolvency matters, alongside general civil sections for contract claims. Interim measures, evidence-gathering assistance for arbitrations and enforcement proceedings are handled at first instance, so knowing which section holds a file matters when researching a Porto counterparty."
+    },
+    {
+      "title": "Associação Comercial do Porto arbitration",
+      "text": "The Associação Comercial do Porto, one of the city's long-established business associations, runs a commercial arbitration centre that administers domestic commercial disputes, alongside the larger Lisbon-based institutions. Parties may also arbitrate ad hoc in Porto under Law 63/2011, which follows the UNCITRAL Model Law, generally excludes appeals on the merits unless agreed and permits courts to remit an award to the tribunal instead of annulling it."
+    },
+    {
+      "title": "Registries and municipal records",
+      "text": "Companies and property in Porto are recorded in Portugal's national commercial and land registries, accessible through local registry offices in the city and through online permanent certificates. The city council's economic observatory publishes data on companies, housing sales, building licences and tourism, including local accommodation registrations, which can help test a counterparty's claims about its properties, activity or licensing in the city."
+    }
+  ],
+  "tdsc_approach": "TDSC handles Porto matters from Nashville and has no office in Portugal. Engagements begin by identifying the records that bear on the question: commercial and land registry certificates for the Porto entities and properties involved, published decisions of the Porto Court of Appeal and filings in the first-instance and commerce courts, insolvency notices, municipal licensing data and Portuguese-language press. Beneficial ownership information is used only within the access rules that now apply in Portugal. Where enquiries on the ground are needed, such as site visits to a northern factory or discreet industry interviews, TDSC coordinates qualified local professionals working with Portuguese counsel. All work involving personal data is scoped under the GDPR, without pretexting or access to restricted records.",
+  "faqs": [
+    {
+      "q": "Which court hears an appeal in a Porto commercial dispute?",
+      "a": "Appeals from first-instance courts in the Porto district generally go to the Tribunal da Relação do Porto, with further appeal in limited cases to the Supreme Court of Justice in Lisbon. The Relação do Porto also hears applications to set aside arbitral awards seated in its district under Law 63/2011."
+    },
+    {
+      "q": "Is there an arbitration centre in Porto?",
+      "a": "Yes. The Associação Comercial do Porto runs a commercial arbitration centre, mainly used for domestic disputes, and ad hoc arbitration can be seated in Porto under the Voluntary Arbitration Law. Many international parties choose Lisbon-based institutions. Forum choice is for counsel; TDSC supports either with research on parties, witnesses and assets."
+    },
+    {
+      "q": "How do you research ownership of a Porto property held through a company?",
+      "a": "Land registry certificates show the registered owner and charges, and commercial registry certificates show the company's officers and corporate acts. We then look at group structures, court and insolvency records and press coverage, and use beneficial ownership information only where lawful access is available, stating clearly where ultimate ownership remains unconfirmed."
+    },
+    {
+      "q": "What does diligence on a northern Portuguese manufacturer cover?",
+      "a": "Typically family and group ownership, management backgrounds, financial filings where published, insolvency and litigation history, labour and environmental issues, export activity and reputation among customers, suppliers and former staff. We set public claims against registry and court records and identify points the client should test directly before committing."
+    },
+    {
+      "q": "Can TDSC run background checks on staff for a Porto technology centre?",
+      "a": "Yes, within GDPR and Portuguese employment law limits. Checks are proportionate to the role, use lawful public and professional sources and are agreed in advance with the client and counsel. We do not obtain criminal, financial or telecoms records directly; where a criminal record certificate is appropriate, it is requested by the candidate."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Câmara Municipal do Porto: Porto Economic Bulletin, Annual 2024",
+      "url": "https://www.cm-porto.pt/files/uploads/cms/Porto Economic Bulletin_Annual_2024.pdf"
+    },
+    {
+      "title": "Wikipedia: Porto metropolitan area (INE population data)",
+      "url": "https://en.wikipedia.org/wiki/Porto_metropolitan_area"
+    },
+    {
+      "title": "PLMJ / Global Arbitration Review: The European Arbitration Review, Portugal",
+      "url": "https://www.plmj.com/xms/files/GAR_Portugal.pdf"
+    },
+    {
+      "title": "Global Arbitration Review: Commercial Arbitration, Portugal",
+      "url": "https://globalarbitrationreview.com/insight/know-how/commercial-arbitration/report/portugal"
+    },
+    {
+      "title": "Vieira de Almeida: Encyclopedia of International Commercial Litigation 2022, Portugal",
+      "url": "https://www.vda.pt/xms/files/05_Publicacoes/2022/Livros_e_obras/Encyclopedia_of_International_Commercial_Litigation_2022___Portugal___FC-11771805.1-.pdf"
+    },
+    {
+      "title": "Urbistat: Porto demographic data",
+      "url": "https://ugeo.urbistat.com/AdminStat/en/pt/demografia/dati-sintesi/porto/20320039/4"
+    }
+  ],
+  "review_flags": [
+    "Population (273,476 municipality; 1,861,727 metro, 2025) is INE data as reported on Wikipedia; no INE page was opened directly.",
+    "Comarca do Porto commerce sections, land/commercial registry arrangements and the Supreme Court of Justice in Lisbon are stated from prior knowledge, not confirmed by sources opened.",
+    "The Associação Comercial do Porto arbitration centre is confirmed only as 'Commercial Arbitration Institute of the Oporto Commercial Association' in a PLMJ/GAR article that may be dated; current name and activity unverified.",
+    "GAR know-how, VdA encyclopedia and Urbistat URLs appeared in search results but were not opened.",
+    "Footwear/textile clusters deliberately not named because no source opened confirmed them."
+  ],
+  "researched": "2026-11-04"
+}

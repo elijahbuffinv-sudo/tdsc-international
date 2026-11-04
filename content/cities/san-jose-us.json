@@ -1,0 +1,137 @@
+{
+  "slug": "san-jose-us",
+  "name": "San Jose",
+  "cc": "US",
+  "meta_description": "TDSC investigative consulting in matters touching San Jose: Silicon Valley technology diligence, trade secret disputes, Santa Clara County litigation support.",
+  "eyebrow": "Santa Clara County, California",
+  "hero_lede": "San Jose is the largest city in Silicon Valley and the seat of Santa Clara County, home to network, software, semiconductor-design and payments companies. TDSC scopes San Jose matters around technology diligence, trade secret and employee departure disputes, and research for proceedings in the city's state and federal courts.",
+  "intro": [
+    "San Jose is the county seat of Santa Clara County and the most populous city in Silicon Valley, with about 970,000 residents in the US Census Bureau's July 2023 estimate. It is headquarters to Cisco, Adobe, PayPal, eBay, Zoom, NetApp and Cadence, among other technology companies, and the city reports more than 2,500 high-tech firms. Its economy also includes high-tech manufacturing, electronic assembly, medical devices, biotechnology and clean technology. Foreign direct investment has come from groups such as SoftBank and ASML, and roughly 40 percent of residents were born outside the United States. Several companies that moved their legal headquarters out of California, among them Hewlett Packard Enterprise and Oracle, kept research and engineering functions in the area.",
+    "Organisations commission investigative work connected to San Jose because it concentrates engineering talent, intellectual property and hardware and software supply relationships. Investors and acquirers need background on founders, engineering leads and counterparties before deals close. Companies pursue or defend trade secret claims when engineers move between competitors, a recurring feature of a labour market built on mobility. Distributors, contract manufacturers and component suppliers linked to San Jose firms raise export-control, diversion and integrity questions abroad. Shareholder, employment and class action claims against Valley companies are litigated in San Jose's state and federal courts, where counsel need research on parties, witnesses and assets that stands up to scrutiny."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "969,655, City of San Jose (July 2023 estimate, US Census Bureau, as reported by KTVU)"
+    },
+    {
+      "label": "Metro area",
+      "value": "San Jose metropolitan area (Santa Clara and San Benito counties), part of the wider San Jose-San Francisco-Oakland region"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Networking, software, semiconductor design, payments, high-tech manufacturing, medical devices, clean technology"
+    },
+    {
+      "label": "Headquartered companies",
+      "value": "Cisco, Adobe, PayPal, eBay, Zoom, NetApp, Cadence"
+    },
+    {
+      "label": "Courts",
+      "value": "Santa Clara County Superior Court; San Jose Division, US District Court for the Northern District of California"
+    },
+    {
+      "label": "Airport",
+      "value": "San Jose Mineta International Airport (SJC)"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Los_Angeles, UTC-8 (PST), UTC-7 during daylight saving (PDT)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "English; Spanish and Vietnamese widely spoken locally"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Engineer departure and trade secrets",
+      "text": "Supporting counsel when engineers or product leads leave a San Jose company for a competitor or start their own venture, through background research on the individuals and new employer, public-record and open-source review, and coordination with forensic specialists, within California's limits on restricting employee mobility."
+    },
+    {
+      "title": "Technology acquisition and investment diligence",
+      "text": "Researching founders, executives and key engineers of target companies before acquisitions and investments by Silicon Valley corporates, testing claimed credentials, prior ventures, patents, litigation and related-party interests against court records, corporate filings and open sources rather than data-room narratives."
+    },
+    {
+      "title": "Channel partner and distributor integrity",
+      "text": "Reviewing overseas distributors, resellers and contract manufacturers that sell or build products for San Jose technology companies, looking at ownership, government links, adverse media and signs of diversion or improper payments, so compliance teams can decide on onboarding, audit or termination."
+    },
+    {
+      "title": "Shareholder and class action support",
+      "text": "Assisting counsel in securities, shareholder, employment and consumer class actions against Valley companies, including locating former employees and witnesses and researching undisclosed relationships, ahead of proceedings in Santa Clara County Superior Court or the federal court's San Jose Division."
+    },
+    {
+      "title": "Executive and insider misconduct inquiries",
+      "text": "Supporting boards and audit committees investigating allegations against executives, such as undisclosed conflicts, vendor kickbacks or misuse of company resources, with background and asset research, review of corporate and property records, and coordination with counsel and forensic accountants."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Santa Clara County Superior Court",
+      "text": "State civil cases arising in San Jose are heard by the Superior Court of California, County of Santa Clara, whose main civil courthouses are on North First Street downtown. Its Complex Civil Litigation program has two departments, at the Downtown Superior Courthouse and the Old Courthouse, and takes cases designated complex under California Rules of Court rule 3.400, including many class actions and PAGA employment claims, for all purposes through trial."
+    },
+    {
+      "title": "Federal court San Jose Division",
+      "text": "The US District Court for the Northern District of California sits in San Jose as well as San Francisco, Oakland and Eureka. The San Jose Division covers Santa Clara, Santa Cruz, San Benito and Monterey counties, so many intellectual property, securities and consumer claims against Valley companies are filed and tried there. Appeals go to the Ninth Circuit. Venue and forum choices are for counsel."
+    },
+    {
+      "title": "County records and property",
+      "text": "As county seat, San Jose hosts Santa Clara County's government, including the recorder and assessor offices that hold deeds and property records for the Valley's high-value residential and commercial real estate. Property held through LLCs or trusts is traced with California Secretary of State filings and litigation records. Availability and access practices should be confirmed matter by matter. Recorded documents can also show lenders, liens and transfers that help in judgment enforcement."
+    },
+    {
+      "title": "California investigation rules",
+      "text": "California's investigator licensing regime, all-party consent rule for recording confidential communications and active privacy litigation apply in San Jose as across the state. Any fieldwork, interviews or observation in Santa Clara County commissioned through TDSC is carried out by California-licensed investigators, with methods agreed in advance with the client's California counsel. Recording or observation that would be lawful elsewhere in the United States may be unlawful here, so methods are settled before any work begins."
+    }
+  ],
+  "tdsc_approach": "TDSC handles San Jose matters from Nashville, has no office in California and holds no California investigator licence. Engagements start with the question the client must answer, such as whether an engineer took code, whether a distributor is who it claims to be, or what a founder has not disclosed, and then map lawful sources: Santa Clara County Superior Court and federal San Jose Division dockets, Secretary of State and county property records, patent and regulatory filings, and open sources. Where local fieldwork is needed, TDSC coordinates California-licensed investigators and agrees methods with the client's counsel. Forensic work is coordinated with qualified specialists. Reports separate verified facts from inference.",
+  "faqs": [
+    {
+      "q": "Which courts hear San Jose technology disputes?",
+      "a": "State cases go to Santa Clara County Superior Court, which assigns cases designated complex under California Rules of Court rule 3.400 to its Complex Civil Litigation departments in downtown San Jose. Federal cases from Santa Clara County are commonly heard in the San Jose Division of the Northern District of California. TDSC supports counsel in either forum with research on parties, witnesses and assets."
+    },
+    {
+      "q": "Can you help when an engineer leaves for a competitor?",
+      "a": "Yes, in support of counsel. TDSC researches the departing employee's new role and relationships, the new employer and any related ventures through public records and open sources, and coordinates qualified forensic specialists for device and account review. California law sharply limits non-compete restrictions, so the legal theory and remedies are for the client's counsel."
+    },
+    {
+      "q": "How do you vet overseas distributors of a San Jose company?",
+      "a": "Through corporate registry and ownership research in the distributor's jurisdiction, adverse media and litigation review, checks for government or state-owned links, and comparison with what the distributor declared during onboarding. Where local enquiries are needed, TDSC coordinates appropriately licensed professionals in that country and scopes the work with the client's compliance team."
+    },
+    {
+      "q": "Does TDSC have investigators based in San Jose?",
+      "a": "No. TDSC operates from Nashville and has no office or staff in California. Research using public records and open sources is carried out by TDSC directly. Interviews, site visits or observation in Santa Clara County are carried out by California-licensed investigators that TDSC coordinates, working to a written scope agreed with the client and its counsel."
+    },
+    {
+      "q": "Can founders' claimed exits and credentials be verified?",
+      "a": "Often, though not always completely. Claimed degrees can be checked with the institutions where permitted, prior companies through Secretary of State and court records, acquisitions through press and filings, and patents through patent office records. Where a claim cannot be confirmed from reliable sources, the report says so rather than drawing conclusions from silence."
+    }
+  ],
+  "sources": [
+    {
+      "title": "KTVU: San Jose no longer 10th largest city in United States (Census 2023 estimate)",
+      "url": "https://ktvu.com/news/san-jose-longer-10th-largest-city-united-states"
+    },
+    {
+      "title": "Investment Monitor: San Jose economic recovery, investment and tech",
+      "url": "https://www.investmentmonitor.ai/cities/san-jose-economic-recovery-investment-tech/"
+    },
+    {
+      "title": "Superior Court of California, County of Santa Clara: Complex Civil Litigation Guidelines",
+      "url": "https://santaclara.courts.ca.gov/system/files/civil/complexcivillitigationguidelines.pdf"
+    },
+    {
+      "title": "Ballotpedia: Northern District of California",
+      "url": "https://ballotpedia.org/Northern_District_of_California"
+    },
+    {
+      "title": "Wikipedia: San Jose, California",
+      "url": "https://en.wikipedia.org/wiki/San_Jose,_CA"
+    }
+  ],
+  "review_flags": [
+    "Population uses the July 2023 Census estimate as reported by KTVU (969,655); Wikipedia shows a 2025 estimate of 989,814. Confirm against Census QuickFacts and update.",
+    "Company HQ list (Cisco, Adobe, PayPal, eBay, Zoom, NetApp, Cadence), SJC airport and county-seat status come from Wikipedia; Spanish/Vietnamese note and metro composition are general knowledge.",
+    "California licensing, recording and non-compete statements are not sourced in this file (see san-francisco-us sources); Santa Clara County recorder/assessor access not verified."
+  ],
+  "researched": "2026-11-04"
+}

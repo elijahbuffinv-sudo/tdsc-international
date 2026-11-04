@@ -1,0 +1,141 @@
+{
+  "slug": "bristol-gb",
+  "name": "Bristol",
+  "cc": "GB",
+  "meta_description": "TDSC investigative consulting in matters touching Bristol: aerospace supply chain diligence, regional commercial litigation, port and fraud inquiries.",
+  "eyebrow": "Bristol, South West England",
+  "hero_lede": "Bristol is the largest city in South West England, combining aerospace engineering at Filton, financial and professional services, creative industries and a deep-water port. TDSC scopes Bristol matters around supply chain and counterparty diligence, research for the city's Business and Property Courts, and fraud and asset inquiries.",
+  "intro": [
+    "Bristol is a city and unitary authority of about 495,000 people in the Office for National Statistics' mid-2025 estimate, having grown by 9.6 percent over the previous decade, faster than England and Wales as a whole. Its economy produced about 22.8 billion pounds of GDP in 2023. Aerospace is the signature industry: Airbus designs and builds wing technology, fuel systems and landing gear at Filton, where it employs more than 2,700 people, and Rolls-Royce and BAE Systems have long been present in the Filton and Patchway area. The city has one of the highest concentrations of finance jobs in the United Kingdom, is home to Imperial Tobacco's headquarters, and hosts the BBC Natural History Unit and Aardman Animations. The Bristol Port Company runs the docks at Avonmouth and Portbury.",
+    "Organisations commission investigative work connected to Bristol because of the value moving through its engineering supply chains, financial firms and port. Aerospace and defence primes and their suppliers need assurance on subcontractors, agents and new investors, with export control and national security questions in the background. Financial services firms based in or near the city face mis-selling, insider and fraud issues that require careful fact-finding. Companies across the South West and Wales litigate commercial, construction, insolvency and intellectual property disputes before the Business and Property Courts in Bristol rather than in London. The port's trade in vehicles, containers and bulk goods raises cargo, theft and trade fraud questions, and a fast-growing property market brings ownership and development disputes."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "495,300, Bristol (mid-2025 estimate, Office for National Statistics, via Bristol City Council)"
+    },
+    {
+      "label": "Economic output",
+      "value": "GDP about 22.8 billion pounds (2023)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Aerospace and advanced engineering, financial and professional services, creative and media, tobacco, technology"
+    },
+    {
+      "label": "Aerospace cluster",
+      "value": "Airbus, Rolls-Royce and BAE Systems at Filton and Patchway"
+    },
+    {
+      "label": "Port",
+      "value": "Bristol Port Company, Avonmouth and Portbury docks, about 12 million tonnes a year"
+    },
+    {
+      "label": "Courts",
+      "value": "Business and Property Courts in Bristol, Civil and Family Justice Centre, Redcliff Street"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/London, UTC+0 (GMT), UTC+1 during summer time (BST)"
+    },
+    {
+      "label": "Language of business",
+      "value": "English; more than 90 languages spoken in the city"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Aerospace and defence supplier diligence",
+      "text": "Researching subcontractors, agents and new shareholders in the Bristol aerospace supply chain for ownership, foreign state links, sanctions and export control exposure, insolvency risk and adverse media, so primes and tier-one suppliers can make onboarding and change-of-control decisions with evidence."
+    },
+    {
+      "title": "Commercial and construction litigation support",
+      "text": "Supporting counsel in disputes before the Circuit Commercial Court and Technology and Construction Court in Bristol, including research on counterparties, directors and witnesses, phoenix company patterns, and the assets available to meet a judgment, using Companies House, Land Registry, insolvency and court records."
+    },
+    {
+      "title": "Financial services misconduct inquiries",
+      "text": "Assisting regulated firms and their counsel in Bristol and the West of England with internal investigations into suspected fraud, conflicts of interest or undisclosed outside business by employees or advisers, through background, corporate interest and asset research carried out lawfully and proportionately."
+    },
+    {
+      "title": "Port cargo and trade fraud",
+      "text": "Supporting cargo owners, insurers and traders where goods moving through Avonmouth or Portbury are lost, misdeclared or financed on false documents, by researching the companies, individuals and related entities involved so counsel can assess recovery and claims."
+    },
+    {
+      "title": "Property and development disputes",
+      "text": "Researching ownership chains, developers, related companies and charges behind Bristol residential and commercial property in partnership, funding and joint venture disputes, using Land Registry titles, Companies House filings and court records to show who stood behind each transaction."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Business and Property Courts in Bristol",
+      "text": "Bristol is one of the regional centres of the Business and Property Courts of England and Wales. Sitting at the Civil and Family Justice Centre on Redcliff Street, it hears the Circuit Commercial Court, the Technology and Construction Court, and the Chancery Business, Insolvency and Companies, Property, Trusts and Probate, and Intellectual Property lists. This is essentially High Court work, so substantial regional disputes can be heard without going to London."
+    },
+    {
+      "title": "Regional reach of the courts",
+      "text": "The Business and Property Courts in Bristol were launched alongside those in Cardiff, and serve businesses across the South West of England. The Bristol County Court also keeps a Business and Property Courts list for certain specialist cases. Where a matter will be litigated affects which records, witnesses and assets matter most, and TDSC agrees that framework with the client's counsel."
+    },
+    {
+      "title": "Aerospace cluster at Filton",
+      "text": "The northern fringe of the city around Filton and Patchway, partly in South Gloucestershire, is a long-established aerospace cluster. Airbus reports a contribution of 442 million pounds to the Bristol economy from its Filton site, alongside Rolls-Royce and BAE Systems. Many smaller engineering suppliers in the region depend on these customers, which concentrates both export control obligations and supply chain fragility."
+    },
+    {
+      "title": "Port of Bristol",
+      "text": "The Bristol Port Company has operated the commercial docks at Avonmouth and Portbury since privatisation in 1991, handling forest products, cars, containers, bulk goods, liquids, metals and fresh produce. It is among the larger ports in England by tonnage. Cargo claims, theft and documentation disputes linked to the port can involve shipping lines, hauliers, warehouses and traders across several jurisdictions."
+    }
+  ],
+  "tdsc_approach": "TDSC handles Bristol matters from Nashville and has no office or staff in the United Kingdom. Engagements start with the decision or dispute in question and then map lawful sources: Companies House filings and persons with significant control, HM Land Registry titles, the Insolvency Service and Gazette notices, Business and Property Courts records, sanctions and export control lists, and local media. Where interviews, site visits or observation in Bristol or the wider South West are needed, TDSC coordinates experienced UK investigators and agrees methods with the client's English solicitors, staying within UK data protection, interception and harassment law. Reports separate documented facts from inference and are prepared so they can support proceedings if needed.",
+  "faqs": [
+    {
+      "q": "Can commercial disputes in Bristol be heard locally rather than in London?",
+      "a": "Yes. The Business and Property Courts in Bristol hear Circuit Commercial Court, Technology and Construction Court and Chancery cases, including insolvency, property and intellectual property, at the Civil and Family Justice Centre on Redcliff Street. Whether to issue in Bristol or London is a matter for counsel; TDSC supports either with factual research."
+    },
+    {
+      "q": "How do you vet a supplier in the Bristol aerospace supply chain?",
+      "a": "By reviewing Companies House filings and persons with significant control, foreign ownership and state links, sanctions and export control lists, insolvency notices, litigation and adverse media, and checking the people behind the company. Where site visits or interviews are needed, TDSC coordinates experienced UK professionals working to a scope agreed with the client."
+    },
+    {
+      "q": "Does TDSC have investigators based in Bristol?",
+      "a": "No. TDSC has no UK office or staff. Public-record and open-source research is carried out from Nashville. Where local fieldwork is needed, TDSC coordinates experienced UK investigators, chosen for their record and methods, working under a written scope and in line with UK data protection and other applicable law."
+    },
+    {
+      "q": "Can the ownership of Bristol property be established?",
+      "a": "Usually. HM Land Registry titles show the registered owner, price paid in many cases and registered charges. Where the owner is a company, Companies House filings and persons with significant control show those behind it, and overseas owners can be checked against the Register of Overseas Entities. Trust arrangements and nominees can limit what is visible."
+    },
+    {
+      "q": "What help is available for cargo lost at Avonmouth or Portbury?",
+      "a": "TDSC can research the hauliers, warehouses, freight forwarders and buyers involved, including company histories, links between parties, prior claims and insolvency, to help counsel and insurers understand what happened and who may be liable. Physical inspection and survey work is coordinated with appropriate UK professionals where required."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bristol City Council: Population of Bristol",
+      "url": "https://www.bristol.gov.uk/population"
+    },
+    {
+      "title": "Wikipedia: Economy of Bristol",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Bristol"
+    },
+    {
+      "title": "Judiciary of England and Wales: Business and Property Courts in Bristol, courts and work",
+      "url": "https://www.judiciary.uk/courts-and-tribunals/business-and-property-courts/regional-business-and-property-courts/bristol/courts-and-work/"
+    },
+    {
+      "title": "The Business Magazine: Airbus made 442 million pound contribution to Bristol economy",
+      "url": "https://thebusinessmagazine.co.uk/manufacturing-engineering/airbus-made-442-million-contribution-to-bristol-economy-last-year-says-new-report/"
+    },
+    {
+      "title": "St John's Chambers: The Business and Property Courts in Bristol and Cardiff",
+      "url": "https://www.stjohnschambers.co.uk/news/the-business-property-courts-in-bristol-and-cardiff"
+    },
+    {
+      "title": "Judiciary of England and Wales: The Technology and Construction Court in Bristol",
+      "url": "https://www.judiciary.uk/courts-and-tribunals/high-court/technology-and-construction-court/regional-centres/the-technology-and-construction-court-in-bristol/"
+    }
+  ],
+  "review_flags": [
+    "GDP 22.8bn pounds (2023), port tonnage and Imperial Tobacco HQ come from Wikipedia 'Economy of Bristol', parts of which are flagged as outdated; Imperial Brands HQ and port figures should be confirmed.",
+    "BPC Bristol launched alongside Cardiff and regional reach (South West) inferred from search result titles (St John's Chambers, not opened); TCC Bristol page not opened. Register of Overseas Entities, Insolvency Service and Land Registry statements are general knowledge consistent with countries/GB.json.",
+    "Airbus 442m pound contribution and 2,700+ Filton staff: article undated (R&D figures from 2022)."
+  ],
+  "researched": "2026-11-04"
+}

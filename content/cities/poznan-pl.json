@@ -1,0 +1,58 @@
+{
+  "slug": "poznan-pl",
+  "name": "Poznań",
+  "cc": "PL",
+  "meta_description": "TDSC investigative consulting in matters touching Poznań: manufacturing and logistics partner diligence, shared-services fraud reviews and asset research.",
+  "eyebrow": "Poznań, Wielkopolska, Poland",
+  "hero_lede": "Poznań sits between Warsaw and Berlin and combines automotive and food manufacturing, logistics and a large business services sector. TDSC scopes investigative consulting from Nashville for matters touching the city, coordinating licensed Polish detectives and counsel where local work is required.",
+  "intro": [
+    "Poznań is the capital of the Wielkopolska region and one of Poland's most productive cities. The Statistical Office in Poznań recorded 534,239 residents at the end of 2025, a figure the city notes excludes many students, temporary workers and foreign residents who use its services. More than 138,000 economic entities are registered in the city, unemployment has stayed among the lowest in Poland, and around 30,000 people worked in business services centres in 2024. Industrial investment, much of it German, French, Japanese, British and American, has gone into automotive, food and pharmaceutical production, while the A2 motorway, Poznań-Ławica airport and regional warehouse parks make it a logistics node. The Poznań International Fair has been held since 1921.",
+    "Organisations commission investigative work connected to Poznań because foreign-owned manufacturing, logistics and service operations there depend on local suppliers, distributors, landlords and staff. Questions arise when a supplier proves to be linked to an employee, when warehouse or transport partners carry undisclosed debts or ownership, or when a shared-services centre handling finance and procurement for a group detects irregular payments. Acquirers of Wielkopolska companies, many of them family-owned, want to understand ownership history and disputes. Creditors also turn to Poznań's registry divisions, which handle company and pledge records for a wide area of western Poland."
+  ],
+  "economy": [
+    {"label": "Population", "value": "534,239 (city, 31 December 2025, Statistical Office in Poznań)"},
+    {"label": "Region", "value": "Capital of Wielkopolskie voivodeship"},
+    {"label": "Key sectors", "value": "Automotive, food and pharmaceutical manufacturing, logistics, IT, business services, trade fairs"},
+    {"label": "Business services", "value": "About 30,000 employees in BPO, SSC, IT and R&D centres (2024)"},
+    {"label": "Registered entities", "value": "About 138,600 national economy entities"},
+    {"label": "Transport", "value": "A2 motorway between Warsaw and Berlin; Poznań-Ławica International Airport"},
+    {"label": "Time zone", "value": "Europe/Warsaw, UTC+1 (UTC+2 in summer)"},
+    {"label": "Language of business", "value": "Polish; English and German common in international firms"}
+  ],
+  "matters": [
+    {"title": "Supplier and procurement fraud reviews", "text": "Manufacturing plants and shared-services centres in Poznań manage large supplier bases. Where irregular payments or conflicts of interest are suspected, we examine supplier ownership in the KRS and CEIDG, links to employees, addresses and related companies, supporting internal investigations led by the client and its counsel."},
+    {"title": "Logistics and warehouse partner diligence", "text": "Warehouse operators, carriers and forwarders around Poznań handle goods for international groups. We review registry filings, financial statements, pledges, litigation and reputation to identify who controls a partner, whether it is financially stretched and whether it has connections that raise compliance concerns."},
+    {"title": "Acquisitions of Wielkopolska companies", "text": "Many targets in the region are family-founded businesses with complex histories of transformation, succession and related-party dealings. We trace ownership changes, management backgrounds, disputes and undisclosed interests so acquirers and their advisers can test the seller's disclosures before signing."},
+    {"title": "Asset research using pledge records", "text": "Registered pledges over machinery, inventory and receivables are a key part of the picture when a western Polish debtor defaults. We combine pledge register, KRS, land and mortgage register and court information to map assets and competing creditors for counsel planning security or enforcement."},
+    {"title": "Employee and executive background checks", "text": "Employers hiring senior staff in Poznań's manufacturing and services sector must work within Polish labour law and GDPR limits on candidate data. We verify qualifications, directorships, business interests and public litigation within those limits, with the scope documented in advance."}
+  ],
+  "local_context": [
+    {"title": "Courts in Poznań", "text": "Poznań hosts a Court of Appeal, a Regional Court and district courts serving the city and much of Wielkopolska. Commercial disputes are heard by commercial (gospodarczy) divisions, with higher-value cases at the Regional Court and appeals to the Court of Appeal in Poznań. Court files are generally consulted through counsel, and many first-instance judgments are not published, so litigation searches are scoped carefully and gaps stated in reports."},
+    {"title": "KRS and pledge register divisions", "text": "The District Court for Poznań-Nowe Miasto i Wilda runs two National Court Register divisions at ul. Chlebowa, one for Poznań and surrounding municipalities and another for a wider list of towns including Kalisz, Konin, Leszno, Piła and Gniezno. The same court keeps the register of pledges for the Poznań, Konin and Zielona Góra appellate areas. Filed documents beyond the online KRS extract may need to be requested from these divisions."},
+    {"title": "Business base and investors", "text": "According to the city, about 29 employers in Poznań had over 1,000 staff at the end of 2023, 14 of them in the public sector, and services account for roughly four in five jobs. Foreign groups operate manufacturing and regional headquarters in and around the city, while universities supply about 102,000 students. This mix shapes the typical matters: supplier, employee and partner risk inside large foreign-owned operations."},
+    {"title": "Arbitration and dispute resolution", "text": "Commercial contracts with Poznań counterparties often provide for arbitration, whether at national institutions in Warsaw or at arbitration courts attached to regional business organisations. We have not verified the current status or rules of any Poznań-based arbitral institution, and confirm the agreed forum with counsel at the outset. Arbitral files are confidential, so supporting research relies on the client's evidence and public records."}
+  ],
+  "tdsc_approach": "TDSC has no office in Poznań and handles matters touching the city from Nashville. We agree the purpose with the client and its Polish counsel, whether an internal investigation in a plant or services centre, a partner or supplier review, an acquisition or enforcement against a debtor. Research uses KRS and CEIDG data, filed financial statements, the pledge register kept in Poznań, land and mortgage registers, court information obtained through counsel and Polish-language media. Where enquiries on the ground are needed, they are carried out by detectives holding Polish licences and working within the Act on detective services and GDPR. Employee data is handled under Polish labour law with a documented scope and retention plan.",
+  "faqs": [
+    {"q": "Can company documents for Poznań firms be obtained online?", "a": "Current KRS extracts and filed financial statements are available online free of charge for registered companies. Older or underlying documents, such as articles of association and resolutions, may need to be requested from the KRS divisions of the District Court for Poznań-Nowe Miasto i Wilda. We obtain these through Polish counsel where they matter to the question."},
+    {"q": "How do you check whether a debtor's equipment is already pledged?", "a": "Registered pledges in Poland are recorded in a central register, and the Poznań district court keeps pledge records for a large part of western Poland. We search the register for the debtor and connected companies and compare entries with KRS, land register and litigation information to show which assets may already be encumbered."},
+    {"q": "Can you investigate an employee suspected of supplier fraud?", "a": "Yes, as support to the employer's own investigation. Under Polish labour law and GDPR, monitoring and data processing must be proportionate and documented, and employees have rights the employer must respect. We focus on the supplier side: ownership, links to staff and payment patterns, coordinated with the client's counsel and HR."},
+    {"q": "Where are commercial disputes involving Poznań companies heard?", "a": "Commercial disputes go to the commercial divisions of the district or regional courts in Poznań, depending on value, with appeals to the Court of Appeal in Poznań. Many contracts instead choose arbitration. Counsel determines the forum; we tailor research to its procedure and evidentiary needs."},
+    {"q": "Does TDSC conduct surveillance in Poznań?", "a": "No. TDSC has no staff or licence in Poland. Observation or other field enquiries, where lawful and proportionate, are carried out by detectives licensed under the Polish Act on detective services, coordinated with Polish counsel. Most of our Poznań work is research in public registers and open sources."}
+  ],
+  "sources": [
+    {"title": "Statistical Office in Poznań: Poznań", "url": "https://poznan.stat.gov.pl/en/poznan/"},
+    {"title": "City of Poznań: Invest in Poznań", "url": "https://www.poznan.pl/mim/inwestycje/en/-,p,45387.html"},
+    {"title": "City of Poznań: Talent pool", "url": "https://www.poznan.pl/mim/main/en/-,p,45387,45392.html"},
+    {"title": "City of Poznań: Population and economy overview", "url": "https://www.poznan.pl/mim/main/en/-,p,19,20.html"},
+    {"title": "dlaJurysty.pl: Sąd Rejonowy Poznań-Nowe Miasto i Wilda w Poznaniu (divisions)", "url": "https://dlajurysty.pl/sady/sad/sr-poznan-nowe-miasto-i-wilda-w-poznaniu"},
+    {"title": "Wielkopolska regional government: Brochure on Wielkopolska (2026 update)", "url": "https://www.umww.pl/./artykuly/11466/pliki/20260707082524_broszuraowielkopolsceaktualizacja3.06.2026.pdf"}
+  ],
+  "review_flags": [
+    "Court structure (Court of Appeal, Regional Court commercial divisions and value thresholds) is background knowledge; not fetched.",
+    "No Poznań-based arbitration institution verified; the page states this explicitly. Consider adding one if confirmed.",
+    "KRS/pledge register division details come from dlajurysty.pl (updated May 2023), not the court's own site; pledge register jurisdiction may have changed.",
+    "Wielkopolska brochure seen only as a search result. CEIDG and online KRS financial statements references rely on the PL country page/background."
+  ],
+  "researched": "2026-11-04"
+}

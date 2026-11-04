@@ -1,0 +1,60 @@
+{
+  "slug": "dar-es-salaam-tz",
+  "name": "Dar es Salaam",
+  "cc": "TZ",
+  "meta_description": "TDSC investigative consulting in matters touching Dar es Salaam: port and transit trade counterparties, mining partners and Commercial Division disputes.",
+  "eyebrow": "Dar es Salaam, Tanzania",
+  "hero_lede": "Dar es Salaam is Tanzania's commercial capital, main seaport and manufacturing centre, and a gateway for trade with landlocked neighbours. TDSC scopes investigative consulting from Nashville for matters touching the city, coordinating Tanzanian counsel and qualified local professionals where local enquiries are needed.",
+  "intro": [
+    "Dar es Salaam Region had 5,383,728 residents at the 2022 census across Ilala, Temeke, Kinondoni, Ubungo and Kigamboni, and the wider metropolitan area is estimated at more than 7 million. Although Dodoma was designated the capital in 1973, many government offices, most corporate headquarters, banks and the Dar es Salaam Stock Exchange remain here. The region holds more than 40 percent of Tanzania's industrial manufacturing units and produces about 45 percent of national manufacturing output. Its port, the country's largest, handles most of Tanzania's seaborne trade and serves cargo moving to and from landlocked countries in East and Central Africa, while Julius Nyerere International Airport links the city to regional and international markets.",
+    "Organisations commission investigative work connected to Dar es Salaam because the city is where most contracts, licences and disputes involving Tanzania are negotiated and decided. Traders, shippers and financiers need to know who stands behind clearing agents, transporters and commodity buyers handling transit cargo, where documentary and cargo fraud are recurring risks. Mining, gas and infrastructure investors vet local partners, contractors and intermediaries whose connections to public officials may raise bribery concerns. Lenders and acquirers examine family-controlled groups in manufacturing, distribution and real estate. Because beneficial ownership data is restricted to authorities, ownership often has to be reconstructed from company filings and other records. Disputes typically go to the Commercial Division of the High Court or to arbitration."
+  ],
+  "economy": [
+    {"label": "Population", "value": "5,383,728 (Dar es Salaam Region, 2022 census, NBS); metro estimate about 7.4 million"},
+    {"label": "Status", "value": "Commercial capital; Dodoma designated national capital in 1973"},
+    {"label": "Key sectors", "value": "Port and logistics, manufacturing, trade and distribution, banking, construction, telecoms"},
+    {"label": "Manufacturing", "value": "Over 40 percent of national manufacturing units; about 45 percent of output"},
+    {"label": "Exchange", "value": "Dar es Salaam Stock Exchange (market capitalisation TZS 16.14 trillion, March 2022)"},
+    {"label": "Transport hub", "value": "Port of Dar es Salaam; Julius Nyerere International Airport"},
+    {"label": "Time zone", "value": "Africa/Dar_es_Salaam, UTC+3"},
+    {"label": "Languages of business", "value": "Swahili and English"}
+  ],
+  "matters": [
+    {"title": "Port and transit cargo counterparties", "text": "Cargo for Zambia, the DRC, Rwanda and other inland markets passes through Dar es Salaam. We research clearing and forwarding agents, transporters and warehouse operators, their owners and dispute history, to help traders and financiers reduce exposure to cargo diversion, documentary fraud and unreliable partners."},
+    {"title": "Mining and energy local partners", "text": "Investors in Tanzanian gold, minerals and gas commonly deal with Dar es Salaam-based partners, contractors and agents. We review BRELA filings, court decisions, licensing information and media to identify owners, political exposure and integrity concerns relevant to anti-bribery and sanctions compliance."},
+    {"title": "Family group acquisition diligence", "text": "Many of Dar es Salaam's manufacturers, distributors and property owners are family-controlled groups with interests across East Africa. We map their companies, directors and related parties in Tanzania and neighbouring registries and review litigation and reputation before acquisitions, joint ventures or lending."},
+    {"title": "Commodity trade and payment fraud", "text": "Exports and imports through Dar es Salaam involve letters of credit, advance payments and third-party traders. Where goods fail to arrive or documents prove false, we trace the counterparties, connected companies and individuals through lawful sources to support recovery and claims by counsel."},
+    {"title": "Asset research for Tanzanian disputes", "text": "Creditors before the Commercial Division or in arbitration need to know what a debtor controls. We trace companies, shareholdings, directorships, registered charges and property indicators in Tanzania and abroad so counsel can plan attachment, enforcement and settlement strategy."}
+  ],
+  "local_context": [
+    {"title": "High Court Commercial Division", "text": "The High Court of Tanzania has a registry in Dar es Salaam, and its Commercial Division, created by amendment to the High Court Registries Rules, handles commercial disputes above its jurisdictional threshold, including banking, contract and company matters. Its judgments are published on TanzLII, which makes it a useful source for litigation histories of Dar es Salaam companies. The High Court's Land and Labour Divisions also sit in the city. Appeals go to the Court of Appeal of Tanzania."},
+    {"title": "Registries and ownership data", "text": "Mainland companies are registered by the Business Registrations and Licensing Agency (BRELA), headquartered in Dar es Salaam, whose Registrar of Companies keeps incorporation documents, directors, shareholders and annual returns; certified searches are normally obtained through local professionals. Beneficial ownership information is held for authorities and not open to the public. Companies registered in Zanzibar fall under a separate registry, so the place of incorporation must be checked first."},
+    {"title": "Arbitration and financial institutions", "text": "Domestic arbitration in Dar es Salaam is supported by local arbitrator bodies, while many investment and infrastructure contracts choose international institutions and foreign seats. The Bank of Tanzania and the Dar es Salaam Stock Exchange are based in the city; listed company disclosures and regulator notices are useful sources on banks, insurers and issuers. We confirm the forum named in a contract with Tanzanian counsel before supporting any dispute."},
+    {"title": "Port governance and public contracts", "text": "The port is operated under the Tanzania Ports Authority, and recent concession arrangements with private terminal operators have been politically sensitive. Port, transport and infrastructure contracts concentrated in Dar es Salaam carry procurement and integrity risk, so research on bidders, subcontractors and intermediaries, and on their links to public officials, is a regular part of diligence on counterparties in the city."}
+  ],
+  "tdsc_approach": "TDSC has no office in Dar es Salaam and handles matters touching the city from Nashville. We agree the purpose with the client and Tanzanian counsel, whether a trade or logistics counterparty, a mining or energy partner, an acquisition or a dispute before the Commercial Division, and confirm whether the counterparty sits on the mainland or in Zanzibar. Desk research uses BRELA filings, TanzLII judgments, stock exchange disclosures and Swahili and English-language media. Certified searches and lawful local enquiries are handled by qualified local professionals. Because personal data transfers abroad require a permit under the Personal Data Protection Act, we minimise personal data and agree transfers with counsel. Every matter is screened for sanctions exposure.",
+  "faqs": [
+    {"q": "Which court hears commercial disputes in Dar es Salaam?", "a": "Commercial disputes are usually heard by the Commercial Division of the High Court of Tanzania, which sits in Dar es Salaam, with smaller claims handled by subordinate courts. Appeals go to the Court of Appeal of Tanzania. Many contracts instead refer disputes to arbitration. Tanzanian counsel confirms the right forum and any monetary thresholds."},
+    {"q": "Can TDSC find out who owns a Dar es Salaam company?", "a": "Usually in part. BRELA keeps directors and shareholders on file, and certified searches can be obtained through local professionals. Beneficial ownership information is restricted to authorities, so where shareholders are holding companies or nominees we extend research to foreign registries, court records and media and state clearly what is confirmed and what is inferred."},
+    {"q": "Can you vet clearing agents and transporters at the port?", "a": "Yes. We review registration and ownership, directors' other interests, litigation on TanzLII, reported cargo or customs issues and media coverage of clearing agents, forwarders and transporters. This helps traders and financiers judge whether a counterparty is reliable before entrusting it with transit cargo or documents."},
+    {"q": "Are court judgments from Dar es Salaam searchable?", "a": "Many are. TanzLII publishes judgments of the High Court, including its Commercial Division, and of the Court of Appeal, which allows research into a company's or individual's litigation history. Coverage is not complete, so we combine it with registry and media research and, where needed, searches arranged through Tanzanian counsel."},
+    {"q": "Does TDSC carry out fieldwork in Dar es Salaam?", "a": "TDSC does not conduct surveillance or seek restricted government records. We have not identified a dedicated licensing regime for private investigators in Tanzania, and data protection, interception and media laws constrain information gathering. Where lawful local enquiries or interviews are needed, we coordinate qualified Tanzanian professionals under the guidance of counsel."}
+  ],
+  "sources": [
+    {"title": "City Population: Dar es Salaam City (NBS 2022 census data)", "url": "https://www.citypopulation.de/en/tanzania/admin/dar_es_salaam/0702__dar_es_salaam_city/"},
+    {"title": "Dar es Salaam Region (Wikipedia mirror)", "url": "https://cavac.at/cavacopedia/Dar%20es%20Salaam%20Region"},
+    {"title": "The Citizen: Dar es Salaam, the transformation of Tanzania's megacity (2024)", "url": "https://thecitizen.co.tz/tanzania/news/national/dar-es-salaam-the-transformation-of-tanzania-s-megacity-4598916"},
+    {"title": "Wikipedia: High Court of Tanzania", "url": "https://en.wikipedia.org/wiki/High_Court_of_Tanzania"},
+    {"title": "TanzLII: High Court Commercial Division judgment (2023)", "url": "https://tanzlii.org/judgments/TZHCComD/2023/7"},
+    {"title": "African Markets: DSE Quarterly Market Report, March 2022", "url": "https://hub.african-markets.com/reports/tanzania/dse-dar-es-salaam-stock-exchange-quarterly-market-report-march-2022"},
+    {"title": "Global Law Experts: Commercial litigation in Tanzania", "url": "https://globallawexperts.com/commercial-litigation-tanzania/"}
+  ],
+  "review_flags": [
+    "Metro population (about 7.4 million) is from The Citizen; region figure (5,383,728) is NBS 2022 census via a Wikipedia mirror and citypopulation.de.",
+    "Background knowledge, not sourced: port serving Zambia/DRC/Rwanda transit, Tanzania Ports Authority role and politically sensitive terminal concessions (e.g. the 2023 DP World arrangement), Bank of Tanzania and BRELA HQ in Dar, Julius Nyerere International Airport, Land/Labour Division seats in Dar.",
+    "Arbitration text kept generic; Tanzania Institute of Arbitrators and Tanzania Arbitration Centre not verified.",
+    "Political and security conditions since the October 2025 elections should be reviewed before publishing (carried over from TZ country page).",
+    "Global Law Experts page appeared in results but was not opened."
+  ],
+  "researched": "2026-11-04"
+}

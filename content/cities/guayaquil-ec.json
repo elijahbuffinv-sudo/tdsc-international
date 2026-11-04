@@ -1,0 +1,149 @@
+{
+  "slug": "guayaquil-ec",
+  "name": "Guayaquil",
+  "cc": "EC",
+  "meta_description": "TDSC investigative consulting in matters touching Guayaquil: shrimp and banana export chains, port logistics, Guayas courts and CCG arbitration research.",
+  "eyebrow": "Guayas Province, Ecuador",
+  "hero_lede": "Guayaquil is Ecuador's most populous canton and the commercial centre of its export economy, from shrimp and bananas to port logistics. Matters touching the city often turn on exporters, traders and family groups, and TDSC scopes research around the records and forums that cover them.",
+  "intro": [
+    "Guayaquil is Ecuador's largest city and its main commercial and port centre, set on the Guayas River close to the Gulf of Guayaquil. The 2022 Population and Housing Census counted 2,746,403 inhabitants in the canton, returning it to first place ahead of Quito. With neighbouring Samborondón, Durán, Daule, Nobol and Yaguachi, the wider urban and business area held about 3.47 million people. The city's economy is built around the export sector: processing of fish and crustaceans, marine aquaculture and banana cultivation were the three largest sources of formal employment in 2022. Trading houses, importers, shipping agents and family-controlled groups give the city a commercial character distinct from the administrative capital.",
+    "Organisations commission investigative work connected to Guayaquil mainly because of its place in export and import supply chains. Buyers of shrimp, bananas, cocoa and other commodities need to know who stands behind an exporter, whether its claimed farms and processing plants exist and whether its owners carry litigation, tax or reputational baggage. Lenders and trade finance providers ask similar questions about receivables and collateral. The port's role in global container traffic also brings scrutiny of logistics counterparties and cargo integrity. Disputes are commonly resolved before the Guayas courts or through arbitration at the Guayaquil Chamber of Commerce, and enforcement work often begins with locating company and property interests held in the city and surrounding cantons."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "2,746,403 (canton, 2022 census, INEC)"
+    },
+    {
+      "label": "Wider urban area",
+      "value": "About 3.47 million including Samborondón, Durán, Daule, Nobol and Yaguachi (2022)"
+    },
+    {
+      "label": "Largest formal employers",
+      "value": "Seafood processing, banana cultivation, marine aquaculture, private security, retail (2022)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Shrimp and seafood, bananas, cocoa, trade and logistics, commerce, construction, services"
+    },
+    {
+      "label": "Port",
+      "value": "Main container port of Ecuador, with terminals on the Guayas estuary and at Posorja"
+    },
+    {
+      "label": "Chamber of commerce",
+      "value": "Cámara de Comercio de Guayaquil, founded 1889, more than 10,000 members"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Guayaquil, UTC-5, no daylight saving"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Spanish; English common in export and shipping"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Shrimp exporter and farm verification",
+      "text": "Confirming that a shrimp exporter or processor in Guayaquil, Durán or the Gulf coast owns or controls the farms and plants it claims, identifying its shareholders through Supercias filings, and checking litigation, tax status and press coverage before a buyer or financier commits to volumes or prepayment."
+    },
+    {
+      "title": "Banana and cocoa supply chains",
+      "text": "Mapping the ownership of banana and cocoa exporters and their associated farms and trading companies, and assessing related parties, past disputes and reputational issues, so that importers and certifiers can rely on supplier representations about origin, labour practices and contractual capacity."
+    },
+    {
+      "title": "Port and logistics counterparty checks",
+      "text": "Reviewing freight forwarders, customs brokers, warehousing operators and shipping agents that handle cargo through Guayaquil, including ownership, regulatory and court records and adverse media, where a client is concerned about cargo integrity, diversion or contamination of container shipments."
+    },
+    {
+      "title": "Family group and holding structures",
+      "text": "Unravelling the layered holding companies often used by Guayaquil family business groups, linking operating companies, real estate vehicles and offshore parents through lawful records, so investors and counterparties understand who ultimately controls a business and how its assets are held."
+    },
+    {
+      "title": "Asset research for Guayas enforcement",
+      "text": "Identifying company shareholdings, property records and business interests in Guayaquil and neighbouring cantons such as Samborondón and Daule connected to a judgment or award debtor, to help counsel decide where enforcement before the Guayas courts is worth pursuing."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Guayas courts",
+      "text": "Guayaquil is the seat of the Provincial Court of Justice of Guayas, which hears appeals from the first-instance civil, commercial, labour and criminal judges in the province. Ecuador's judicial process system allows case lookups by party name or case number, which can reveal litigation involving Guayaquil companies and individuals. Volumes are large, and case records need careful reading to distinguish parties with common surnames or similar company names."
+    },
+    {
+      "title": "CCG Arbitration and Conciliation Centre",
+      "text": "The Cámara de Comercio de Guayaquil runs a Centro de Arbitraje y Conciliación, one of the main commercial arbitration institutions in Ecuador and listed in Global Arbitration Review's regional arbitration guide. Contracts between exporters, importers and service providers in the city frequently refer disputes to it. Arbitral proceedings are generally confidential, so research into a counterparty's dispute history relies on court applications connected to arbitrations, press and the parties' own disclosures."
+    },
+    {
+      "title": "Registries and the Chamber",
+      "text": "Companies are supervised nationally by the Superintendencia de Compañías, Valores y Seguros, whose online portal shows administrators, shareholders and filed financial statements. Corporate acts and property are recorded in the Guayaquil canton's commercial and property registries. The Cámara de Comercio de Guayaquil, founded in 1889 and with more than 10,000 members, offers business information, foreign trade and legal services and is a useful reference point on local commercial practice."
+    },
+    {
+      "title": "Securities market and finance",
+      "text": "Guayaquil has long been one of Ecuador's two securities trading centres, alongside Quito, and many of the country's banks, insurers and exporters are headquartered or heavily represented in the city. Issuer disclosures, prospectuses and risk ratings filed with the securities regulator are a lawful source on the finances and governance of Guayaquil companies that raise funds in the market. Those filings are particularly useful for exporters and agro-industrial groups that issue commercial paper or bonds."
+    },
+    {
+      "title": "Security and organised crime context",
+      "text": "The port and surrounding cantons have been affected by drug trafficking and organised crime, which is reflected in private security being one of the largest formal employers in the city. This context shapes risk assessments of logistics counterparties and the safety planning for any local enquiries, and it means some local sources may be unwilling to speak openly. Reports note where these constraints limited what could be confirmed."
+    }
+  ],
+  "tdsc_approach": "TDSC handles Guayaquil matters from Nashville and has no presence in Ecuador. Engagements begin by defining the counterparties and assets in question and the Ecuadorian records that lawfully cover them: Supercias filings, canton commercial and property registries, court case lookups, securities disclosures and Spanish-language press. For export supply chains, TDSC focuses on verifying ownership, related parties and track record rather than physical inspection. Where site visits or record retrieval in Guayaquil are needed, they are scoped with Ecuadorian counsel and carried out by qualified local professionals, with personal safety and the national data protection law taken into account. Surveillance and pretext techniques are excluded.",
+  "faqs": [
+    {
+      "q": "Can TDSC verify that a Guayaquil shrimp exporter really controls its farms?",
+      "a": "Often in part. Company filings, property and concession records, export history in trade data, litigation and press can show whether ownership claims are consistent. Physical confirmation of ponds or plants requires a site visit by a qualified local professional, which TDSC can scope with counsel. Reports state which elements are documented and which rely on representations."
+    },
+    {
+      "q": "Where are commercial disputes involving Guayaquil companies usually heard?",
+      "a": "Ordinary litigation runs through first-instance judges in Guayaquil and the Provincial Court of Justice of Guayas on appeal. Many commercial contracts instead refer disputes to arbitration at the Cámara de Comercio de Guayaquil's centre, or to international institutions for cross-border deals. TDSC adapts research to the forum; counsel advises on procedure."
+    },
+    {
+      "q": "Why are Guayaquil family groups difficult to research?",
+      "a": "Many operate through several layers of holding companies, real estate vehicles and sometimes foreign parents, with shareholdings changing over time. Supercias records help reconstruct the domestic layers, but foreign holding companies may disclose little. TDSC links the structure step by step and identifies where ultimate ownership cannot be confirmed from lawful sources."
+    },
+    {
+      "q": "Does the port's security situation affect investigative work?",
+      "a": "Yes. Drug trafficking linked to container traffic means logistics counterparties deserve closer scrutiny, and local enquiries need careful safety planning. TDSC relies primarily on records and open sources, limits field activity to what is necessary and lawful, and works only through local professionals who can assess conditions on the ground."
+    },
+    {
+      "q": "Is Guayaquil research different from research in Quito?",
+      "a": "National registries and laws are the same, but the subject matter differs. Guayaquil matters more often involve exporters, importers, shipping and family trading groups, while Quito work tends to involve government, regulators and procurement. Property and commercial registries are kept by canton, so records must be sought in the right local registry."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Primicias: Guayaquil vuelve a ser la ciudad más poblada de Ecuador (Censo 2022)",
+      "url": "https://primicias.ec/noticias/sociedad/censo-ecuador/censo-guayaquil-ciudad-inec-poblacion"
+    },
+    {
+      "title": "El Universo: Guayaquil trabajo, economía, banano y camarón",
+      "url": "https://www.eluniverso.com/noticias/informes/guayaquil-trabajo-economia-banano-camaron-nota/"
+    },
+    {
+      "title": "Ekos Negocios: Las 10 actividades empresariales que más empleo generan en Guayaquil",
+      "url": "https://ekosnegocios.com/articulo/estas-son-las-10-actividades-empresariales-que-mas-empleo-generan-en-guayaquil-y-su-zona-de-influencia"
+    },
+    {
+      "title": "El Diario: La Cámara de Comercio de Guayaquil cumple 136 años",
+      "url": "https://www.eldiario.ec/guayaquil/la-camara-de-comercio-de-guayaquil-cumple-136-anos-al-servicio-del-sector-empresarial-13062025/"
+    },
+    {
+      "title": "Cámara de Comercio de Guayaquil: Noticias CCG and services",
+      "url": "https://www.lacamara.org/website/nosotros/noticias-ccg/3"
+    },
+    {
+      "title": "Global Arbitration Review: Centro de Arbitraje y Conciliación de la Cámara de Comercio de Guayaquil (CCG)",
+      "url": "https://globalarbitrationreview.com/survey/the-guide-regional-arbitration/2018/article/centro-de-arbitraje-y-conciliacion-de-la-camara-de-comercio-de-guayaquil-ccg"
+    },
+    {
+      "title": "City Population: Guayaquil (Ecuador)",
+      "url": "https://citypopulation.de/en/ecuador/towns/guayas/090150000__guayaquil"
+    }
+  ],
+  "review_flags": [
+    "Port details (Posorja terminal, 'main container port'), Provincial Court of Justice of Guayas, canton-level registries in Guayaquil and the Guayaquil securities exchange are from prior knowledge, not pages opened. The Quito and Guayaquil exchanges may have been merged or restructured recently; verify the 'two securities trading centres' wording.",
+    "GAR page on the CCG arbitration centre failed to load and the CCG centre page was blocked; the centre's existence is confirmed by the CCG services list and GAR search titles only.",
+    "Population figure is the canton (INEC 2022 via Primicias), not the metropolitan area."
+  ],
+  "researched": "2026-11-04"
+}

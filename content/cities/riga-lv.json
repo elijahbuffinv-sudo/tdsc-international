@@ -1,0 +1,150 @@
+{
+  "slug": "riga-lv",
+  "name": "Riga",
+  "cc": "LV",
+  "meta_description": "TDSC investigative consulting in matters touching Riga: bank-linked asset tracing, Baltic counterparty diligence and support for Economic Affairs Court cases.",
+  "eyebrow": "Riga, Republic of Latvia",
+  "hero_lede": "Riga generates roughly half of Latvia's output and much of its trade, finance and technology activity. TDSC scopes investigative consulting from Nashville for matters touching the city, from counterparty diligence to tracing funds through its banking past, and coordinates licensed Latvian detectives and counsel where local work is required.",
+  "intro": [
+    "Riga is the capital and commercial centre of Latvia and the largest city in the Baltic states, with a metropolitan population the city's investment agency puts at more than 850,000. According to the Latvian Investment and Development Agency, the city generates roughly half of national GDP and exports and hosts about 41.5 percent of the country's economically active companies. Its economy rests on business and financial services, information technology, logistics, real estate, e-commerce and professional services. The Port of Riga connects to more than 50 countries, Riga International Airport is the main air hub of the region, and the city is the base for Rail Baltica, shared-service centres and most of Latvia's start-ups.",
+    "Organisations commission investigative work connected to Riga largely because of its role as a gateway between the EU and former Soviet markets. For years Riga banks held large deposits from foreign, mainly Russian and CIS, customers, and Latvian accounts appeared in schemes such as the Moldovan bank fraud and the Russian Laundromat; the United States moved against ABLV Bank in 2018, leading to its closure. Those histories still matter for asset recovery, litigation and onboarding. Today, buyers, investors and compliance teams also need to understand transit and logistics companies, technology firms and property holders whose owners or trade links may raise sanctions or reputational concerns."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "Metropolitan area over 850,000 (Investment and Development Agency of Riga)"
+    },
+    {
+      "label": "Share of economy",
+      "value": "About half of Latvia's GDP and exports"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Business and financial services, IT, logistics, real estate, e-commerce"
+    },
+    {
+      "label": "Companies",
+      "value": "About 75,200 economically active enterprises, 41.5 percent of the national total"
+    },
+    {
+      "label": "Port and airport",
+      "value": "Port of Riga, links to 50+ countries; Riga International Airport, 90+ direct destinations"
+    },
+    {
+      "label": "Specialised court",
+      "value": "Economic Affairs Court (Ekonomisko lietu tiesa), operating since 2021"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Riga, UTC+2 (UTC+3 in summer)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Latvian; English widely used, Russian common"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Tracing funds through Riga banks",
+      "text": "Claimants and liquidators pursuing funds that passed through Riga banks before the 2018 clean-up need to reconstruct account relationships, shell companies and intermediaries. We map the structures from court records, regulatory actions, leaked-data investigations reported in the press and corporate filings across the jurisdictions involved."
+    },
+    {
+      "title": "Transit and logistics counterparties",
+      "text": "Freight forwarders, terminal operators and trading companies around the Port of Riga historically handled eastbound and westbound cargo. We examine ownership, directors, trade patterns and adverse media to identify connections to sanctioned persons or diversion risk before contracts, financing or acquisitions."
+    },
+    {
+      "title": "Technology and fintech investment diligence",
+      "text": "Riga's start-up and fintech sector draws venture and strategic investment. We verify founders' backgrounds, prior ventures, litigation, licensing status and beneficial ownership so investors understand who controls the business and whether disclosures to them are complete."
+    },
+    {
+      "title": "Economic Affairs Court litigation support",
+      "text": "Complex commercial disputes and economic crime cases are concentrated before the Economic Affairs Court in Riga. We support counsel with corporate history, witness backgrounds and asset research, scoped to Latvian procedural rules and the specific claims before the court."
+    },
+    {
+      "title": "Riga property and holding structures",
+      "text": "Commercial and residential property in Riga has been held through layered Latvian and foreign companies. Working with Latvian counsel, we review land register entries, company filings and beneficial ownership disclosures to identify controllers and encumbrances before lending, acquisition or enforcement."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Economic Affairs Court",
+      "text": "The Economic Affairs Court began operating on 1 January 2021 at Mazā Nometņu iela in Riga. According to the Ministry of Justice, it hears complex commercial disputes and serious criminal cases that significantly harm the business environment, with practitioners reporting that its remit covers economic and financial crime, corruption and money laundering, and that appeals go to a specialised panel of the Riga Regional Court. Its competence was designed to expand in stages, so jurisdiction over a given claim should be confirmed with counsel."
+    },
+    {
+      "title": "LCCI Court of Arbitration",
+      "text": "The Latvian Chamber of Commerce and Industry operates the LCCI Court of Arbitration from its Riga offices on Krišjāņa Valdemāra iela, with published arbitration rules most recently revised in 2026. It is the best-known institutional option for commercial contracts with Latvian counterparties, alongside other permanent arbitration courts registered in Latvia. Arbitration awards and proceedings are confidential, so investigative support must work from parties' evidence and public records rather than the arbitral file."
+    },
+    {
+      "title": "Financial supervision and AML legacy",
+      "text": "Riga is home to Latvia's financial supervisor and its financial intelligence unit, and the banking sector was restructured after the 2018 ABLV case and international criticism of weak due diligence on foreign customers. Regulatory decisions, fines and liquidation proceedings from that period remain key sources when tracing historical flows through Riga accounts. Many of the banks concerned have since closed or been sold, so records often sit with liquidators, successors or court files rather than with the original institution."
+    },
+    {
+      "title": "Registers and the city's business base",
+      "text": "Latvia's Register of Enterprises and the Land Register are national systems, but in practice a large share of their entries relate to Riga, where about 75,200 active enterprises are based. Current company data and beneficial owner details are available online, while historical filings and documents generally require paid access or a request through counsel. Land Register entries for Riga property show owners and encumbrances and are used alongside company data to identify controllers."
+    }
+  ],
+  "tdsc_approach": "TDSC has no office in Riga and handles matters touching the city from Nashville. We start by agreeing the purpose with the client and its Latvian counsel, whether recovery proceedings, an investment, a logistics or trading relationship, or a dispute before the Economic Affairs Court or an arbitral tribunal. Research uses the Register of Enterprises, Land Register, court decisions, regulatory announcements, Latvian, Russian and English-language media and comparable records in connected jurisdictions. Any enquiries on the ground are carried out by Latvian detectives holding the required licence and certificates, under GDPR and Latvian law. Every matter is screened for sanctions exposure, given Riga's historic eastern trade and banking links.",
+  "faqs": [
+    {
+      "q": "Can funds that passed through closed Riga banks still be traced?",
+      "a": "Often in part. Bank records themselves are only obtainable through legal process, but liquidation proceedings, regulatory decisions, criminal cases, journalistic investigations and company filings can reveal account holders, intermediaries and destination entities. We assemble this material for counsel, who can then seek disclosure orders or cooperate with liquidators where a legal route exists."
+    },
+    {
+      "q": "Which court in Riga hears complex business disputes?",
+      "a": "The Economic Affairs Court, operating since 2021, hears designated complex commercial disputes and serious economic crime cases, with appeals to a specialised panel of the Riga Regional Court. Other commercial claims go to the ordinary district and regional courts. Counsel determines jurisdiction; we tailor research to the court's procedure."
+    },
+    {
+      "q": "Are commercial arbitrations commonly seated in Riga?",
+      "a": "Yes. The LCCI Court of Arbitration, run by the Latvian Chamber of Commerce and Industry in Riga, administers commercial arbitrations under its own rules, and contracts with Latvian counterparties often refer disputes to it. Because proceedings are confidential, our support relies on evidence the client holds and on public records."
+    },
+    {
+      "q": "How do you assess sanctions risk for a Riga logistics or trading company?",
+      "a": "We identify owners, directors and related companies in Latvia and abroad, check them against sanctions and adverse media, and examine trade patterns, routes and counterparties where information is available. Past dealings with Russia or Belarus are common in the sector, so the question is usually whether current ownership and activity are compliant."
+    },
+    {
+      "q": "Does TDSC carry out surveillance in Riga?",
+      "a": "No. TDSC has no staff or licence in Latvia. Where an observation or other field enquiry is lawful and proportionate, it is carried out by Latvian detectives licensed under the Detective Activity Law and coordinated with Latvian counsel. Most of our Riga work is desk-based research using lawful public and commercial sources."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Latvia.travel / LIAA: Riga's economic profile",
+      "url": "https://www.latvia.travel/en/rigas-economic-profile"
+    },
+    {
+      "title": "Live Riga: Business environment",
+      "url": "https://www.liveriga.com/en/11109-business-environment"
+    },
+    {
+      "title": "Ministry of Justice of Latvia: Economic Court",
+      "url": "https://www.tm.gov.lv/en/node/4245"
+    },
+    {
+      "title": "CEE Legal Matters: Latvia's leading commercial lawyers consider the new Economic Affairs Court",
+      "url": "https://ceelegalmatters.com/latvia/13408-better-for-business"
+    },
+    {
+      "title": "Latvian Chamber of Commerce and Industry: Arbitration",
+      "url": "https://ltrk.lv/en/arbitration/"
+    },
+    {
+      "title": "LCCI Court of Arbitration Rules (2026)",
+      "url": "https://ltrk.lv/wp-content/uploads/2026/07/LCCI-CA-Rules_2026_05_14.docx"
+    },
+    {
+      "title": "OCCRP: Latvia's anti-money laundering efforts too slow (2018)",
+      "url": "https://occrp.org/en/news/latvias-anti-money-laundering-efforts-too-slow"
+    },
+    {
+      "title": "PISM: The Baltic States and Russian money laundering",
+      "url": "https://pism.pl/publications/The_Baltic_States_and_Russian_Money_Laundering_"
+    }
+  ],
+  "review_flags": [
+    "No official city population found in searches; only the Live Riga 'metro 850,000+' figure (undated) is used. Replace with a CSB (stat.gov.lv) figure for the city.",
+    "Economic Affairs Court remit (money laundering, corruption, appeals to Riga Regional Court panel) relies on a 2020 CEE Legal Matters article on the draft law; confirm current jurisdiction.",
+    "LCCI rules '2026' inferred from the file name in a search result (not opened). Statement that other permanent arbitration courts are registered in Latvia is background knowledge.",
+    "Financial supervisor/FIU 'home in Riga' stated generically from background knowledge (FCMC integrated into Latvijas Banka in 2023, not verified). PISM source seen only as a search result."
+  ],
+  "researched": "2026-11-04"
+}

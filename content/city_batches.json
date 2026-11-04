@@ -1,10 +1,14 @@
 {
  "redo_weak": [
-  "new-york-us|New York|US",
-  "toronto-ca|Toronto|CA",
-  "mexico-city-mx|Mexico City|MX",
-  "istanbul-tr|Istanbul|TR",
-  "amsterdam-nl|Amsterdam|NL"
+  "tunis-tn|Tunis|TN",
+  "fuzhou-cn|Fuzhou|CN",
+  "tirana-al|Tirana|AL",
+  "quito-ec|Quito|EC",
+  "ningbo-cn|Ningbo|CN",
+  "harbin-cn|Harbin|CN",
+  "lahore-pk|Lahore|PK",
+  "strasbourg-fr|Strasbourg|FR",
+  "columbus-us|Columbus|US"
  ],
  "batches": [
   [
@@ -416,6 +420,26 @@
   15,
   16,
   17,
-  18
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38
  ]
 }

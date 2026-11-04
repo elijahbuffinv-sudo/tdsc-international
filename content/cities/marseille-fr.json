@@ -1,0 +1,138 @@
+{
+  "slug": "marseille-fr",
+  "name": "Marseille",
+  "cc": "FR",
+  "meta_description": "TDSC investigative consulting in matters touching Marseille: port and logistics due diligence, asset tracing and litigation support in France's largest port.",
+  "eyebrow": "Bouches-du-Rhône, France",
+  "hero_lede": "Marseille is France's second city and home to its largest port, a Mediterranean gateway for shipping, logistics, energy and trade with North Africa. TDSC scopes investigative consulting for matters running through the city from Nashville, coordinating French counsel and qualified local professionals where local work is required.",
+  "intro": [
+    "Marseille is France's second-largest commune, with about 873,000 residents at the 2021 census, and the centre of the Aix-Marseille-Provence Metropolis, created in 2016 from Marseille, Aix-en-Provence and 90 surrounding municipalities and home to roughly 1.9 million people. Its economy has always turned on the sea. The Port of Marseille-Fos, split between the city's northern docks from La Joliette to L'Estaque and the industrial basins at Fos-sur-Mer some 50 km to the northwest, is the largest port in France and among the largest in the Mediterranean. Container shipping, logistics, petrochemicals, cruise and ferry traffic, and the Euroméditerranée urban redevelopment project around La Joliette define its business landscape.",
+    "Organisations commission investigative work connected to Marseille because cargo, money and people move through it between Europe, North Africa, the Middle East and Asia. Typical engagements include diligence on freight forwarders, shipping agents and logistics operators, review of trading counterparties dealing with Algeria, Tunisia and Morocco, and tracing of assets in property and small businesses across the Bouches-du-Rhône. Marseille is also the base of some of France's most closely watched organised crime investigations, notably against the DZ Mafia network, which makes integrity screening of local partners, landlords and acquisition targets a recurring concern for companies operating in the region."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "873,076 in the commune; 1,888,788 in the metropolitan area (INSEE census, 2021)"
+    },
+    {
+      "label": "Metropolitan authority",
+      "value": "Aix-Marseille-Provence Metropolis, created 2016 (about 1.91 million, 2021)"
+    },
+    {
+      "label": "Port",
+      "value": "Port of Marseille-Fos: Marseille docks and Fos-sur-Mer basins; France's largest port"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Shipping and logistics, petrochemicals and energy, cruise and ferry traffic, tourism, services"
+    },
+    {
+      "label": "Business district",
+      "value": "Euroméditerranée redevelopment area around La Joliette, site of the CMA CGM Tower"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Paris, UTC+01:00 (UTC+02:00 in summer)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "French; English in shipping and international trade"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Freight forwarder and shipping agent diligence",
+      "text": "Shippers and lenders onboarding Marseille forwarders, customs brokers and port service companies need to confirm ownership, financial standing and litigation history, and to understand who actually controls operations at the terminals, since port access is a known point of vulnerability for contraband."
+    },
+    {
+      "title": "North Africa trade counterparty reviews",
+      "text": "Marseille trading houses and import-export firms often intermediate goods and payments with Algeria, Tunisia and Morocco. Reviews examine beneficial ownership, banking relationships and shipping patterns to assess sanctions, export control, customs fraud and money laundering exposure before a relationship begins."
+    },
+    {
+      "title": "Organised crime integrity screening",
+      "text": "Recent prosecutions of Marseille drug networks have involved laundering proceeds and corrupting insiders, including a court clerk charged in November 2025. Companies buying businesses, leasing property or appointing local partners screen for links to such networks through court reporting, registry data and press archives."
+    },
+    {
+      "title": "Real estate and small-business asset tracing",
+      "text": "Creditors and litigants trace assets held through property holding companies, restaurants, retail outlets and service businesses across the Bouches-du-Rhône. Work combines company registry data with lawful property and court research to map holdings and transfers that bear on recovery."
+    },
+    {
+      "title": "Insurance and cargo claim investigations",
+      "text": "Cargo losses, port damage and marine insurance claims routed through Marseille-Fos often turn on documents held by agents, surveyors and warehouse operators. Investigative support reconstructs the chain of custody and identifies witnesses and records for counsel handling the claim."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Courts sitting in Marseille",
+      "text": "Marseille has its own tribunal judiciaire for civil and criminal cases and a commercial court for disputes between businesses, both within the jurisdiction of the Court of Appeal of Aix-en-Provence. Appeals and assize trials for the area are heard in Aix-en-Provence, which in March 2026 tried six men over DZ Mafia-linked killings. The Marseille courts' own records and published case reporting are often the first sources for litigation history on local parties."
+    },
+    {
+      "title": "Interregional organised crime unit",
+      "text": "Marseille hosts one of France's interregional specialised jurisdictions for organised crime and complex financial crime (JIRS), whose investigating judges supervise major drug trafficking and money laundering cases. The March 2026 operation against the DZ Mafia, in which at least 42 people were arrested, was overseen by two of its judges, and a related cross-border laundering probe led to more than 40 million euros being seized in France and Italy."
+    },
+    {
+      "title": "Port of Marseille-Fos",
+      "text": "The port authority manages two distinct sites: the eastern basins inside the city, handling ferries to Corsica and North Africa, cruise ships and some cargo, and the western basins at Fos-sur-Mer, where container terminals, bulk and industrial traffic are concentrated. Understanding which terminal, operator and handling agents touched a consignment is essential in cargo, customs and contraband matters connected to the city."
+    },
+    {
+      "title": "Company records for Marseille businesses",
+      "text": "Businesses seated in Marseille are recorded in France's national business register and with the commercial court registry, so filings, officers and published accounts can generally be retrieved lawfully. National rules on registries, beneficial ownership access and data protection apply in full and are covered on our France page; city-level work adds local court records, municipal planning decisions and regional press."
+    }
+  ],
+  "tdsc_approach": "For Marseille matters TDSC first establishes where the relevant activity sits: in the city, at the Fos-sur-Mer basins, elsewhere in the metropolis, or with counterparties across the Mediterranean. Every counterparty and trade flow is screened for sanctions and export control exposure before research begins. Work relies on French registry data, court decisions and published reporting, Marseille regional press and port-related public information, reviewed by French speakers. Where interviews, site visits or document retrieval in Marseille are needed, TDSC coordinates appropriately authorised French professionals and works under the direction of the client's French counsel, applying French and EU data protection rules. Given the organised crime context, sources and contacts are handled with particular discretion.",
+  "faqs": [
+    {
+      "q": "Why do so many trade matters lead to Marseille?",
+      "a": "Marseille-Fos is France's largest port and a principal gateway between Europe and North Africa, the Middle East and Asia. Freight forwarders, shipping agents, traders and logistics operators based in the city handle documents and payments for goods moving through it, so records and witnesses relevant to cargo, customs and counterparty disputes are frequently found there."
+    },
+    {
+      "q": "Where are disputes involving Marseille companies heard?",
+      "a": "First-instance civil and criminal matters go to the Marseille tribunal judiciaire and business disputes to the commercial court in Marseille. Appeals, and serious criminal trials in the assize court, are heard in Aix-en-Provence. Major organised crime and financial crime cases are investigated by the specialised interregional unit based in Marseille."
+    },
+    {
+      "q": "Is organised crime a real risk for businesses dealing with Marseille?",
+      "a": "It is a recognised risk. Drug trafficking networks such as the DZ Mafia operate from the city, and prosecutors have pursued laundering through businesses and the corruption of insiders. Most Marseille businesses are legitimate, but proportionate integrity screening of partners, landlords and acquisition targets is a sensible precaution."
+    },
+    {
+      "q": "Can TDSC investigate the port operators involved in a cargo loss?",
+      "a": "TDSC can research the companies involved, their ownership, history and disputes, using lawful public sources, and help counsel identify which terminal operators, agents and surveyors handled a consignment. Access to port systems, customs files or restricted records is not something TDSC obtains; such material comes through counsel and legal process."
+    },
+    {
+      "q": "Does TDSC have an office in Marseille?",
+      "a": "No. TDSC is based in Nashville, Tennessee and has no office or staff in France. Engagements touching Marseille are scoped and managed from Nashville. Where local work is required, TDSC coordinates qualified French professionals who hold any authorisation the work requires and works with the client's French counsel."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikiwand: Marseille (INSEE population, metropolis, port ranking)",
+      "url": "https://wikiwand.com/en/Marseille"
+    },
+    {
+      "title": "Marseille-Fos Port (encyclopaedia mirror): sites and traffic",
+      "url": "https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Marseille-Fos_Port.html"
+    },
+    {
+      "title": "OCCRP: Six stand trial in France as Marseille's deadly drug war enters the courtroom",
+      "url": "https://www.occrp.org/en/news/six-stand-trial-in-france-as-marseilles-deadly-drug-war-enters-the-courtroom"
+    },
+    {
+      "title": "Brussels Signal: Major police operation targets France's DZ Mafia drugs gang",
+      "url": "https://brusselssignal.eu/2026/03/major-police-operation-targets-frances-dz-mafia-drugs-gang/"
+    },
+    {
+      "title": "Brut: Narcobanditisme et corruption, une greffière de Marseille écrouée",
+      "url": "https://www.brut.media/fr/articles/narcobanditisme-et-corruption-une-greffiere-de-marseille-ecrouee"
+    },
+    {
+      "title": "Cour d'appel d'Aix-en-Provence: Présentation de l'arrondissement judiciaire de Marseille",
+      "url": "https://www.cours-appel.justice.fr/aix-en-provence/presentation-de-larrondissement-judiciaire-de-marseille"
+    }
+  ],
+  "review_flags": [
+    "Population (873,076 commune; 1,888,788 metro, 2021) taken from a Wikipedia mirror citing INSEE, not from INSEE directly; port ranking from an older encyclopaedia mirror.",
+    "Court of appeal page was under maintenance; Marseille commercial court and its possible inclusion in the 2025 tribunal des activités économiques experiment not verified. Check current name before publishing.",
+    "JIRS Marseille identified via press description of the 'interregional organised crime unit'; France's new national organised crime prosecutor's office (if operational) not reflected.",
+    "Port site split (eastern basins vs Fos) and ferry/cruise roles partly general knowledge; CMA CGM Tower mentioned but CMA CGM headquarters not stated from a source; Marseille Provence Airport omitted for lack of a source."
+  ],
+  "researched": "2026-11-04"
+}

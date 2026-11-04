@@ -1,0 +1,58 @@
+{
+  "slug": "gothenburg-se",
+  "name": "Gothenburg",
+  "cc": "SE",
+  "meta_description": "TDSC investigative consulting in matters touching Gothenburg: automotive supplier diligence, port and shipping counterparties, IP and litigation support.",
+  "eyebrow": "Gothenburg, Västra Götaland, Sweden",
+  "hero_lede": "Gothenburg is Sweden's second city, home to the largest port in the Nordic countries and to Volvo, SKF and a dense automotive, life science and maritime cluster. TDSC scopes investigative consulting from Nashville for Gothenburg matters, coordinating qualified Swedish professionals and counsel where local work is required.",
+  "intro": [
+    "Gothenburg is Sweden's second-largest city and the seat of Västra Götaland County, with 612,231 residents in the municipality in 2025 and a metropolitan area of about 1.08 million. It stands at the mouth of the Göta älv, and the Port of Gothenburg, the largest in the Nordic countries, handles about 55 percent of Sweden's container traffic. The region is an industrial and research centre: Volvo Group and Volvo Cars are the largest companies by turnover, SKF, AstraZeneca, Saab and Ericsson have major operations, and the county accounts for about 35 percent of Sweden's private research and development investment. Chalmers University of Technology and the University of Gothenburg anchor the region's engineering and life science base.",
+    "Organisations commission investigative work connected to Gothenburg because the city sits at the centre of supply chains that run worldwide. Automotive and truck manufacturers depend on tiers of suppliers in Sweden, elsewhere in Europe and in Asia, and electrification has brought new partners, battery ventures and investors into the region. Shipping, logistics and freight businesses around the port handle goods subject to export controls and sanctions. Research-intensive companies protect technology that competitors and foreign actors may seek. Family-controlled groups such as Stena and the holdings of established Gothenburg families also make ownership and governance questions part of transactions and disputes in the city."
+  ],
+  "economy": [
+    {"label": "Population", "value": "612,231 in the municipality (2025)"},
+    {"label": "Metro area", "value": "About 1.08 million (2023); labour market of about 1.5 million"},
+    {"label": "Key sectors", "value": "Automotive and mobility, life science, ICT, transport and logistics, maritime"},
+    {"label": "Largest companies", "value": "Volvo Group, Volvo Cars, SKF, Stena Sphere by turnover (2024)"},
+    {"label": "Port", "value": "Port of Gothenburg, largest in the Nordic countries; about 55 percent of Swedish container traffic"},
+    {"label": "Airport", "value": "Göteborg Landvetter, Sweden's second-largest airport"},
+    {"label": "Time zone", "value": "Europe/Stockholm, UTC+1 (UTC+2 in summer)"},
+    {"label": "Languages of business", "value": "Swedish and English"}
+  ],
+  "matters": [
+    {"title": "Automotive and battery supplier diligence", "text": "Gothenburg's vehicle makers and their electrification projects rely on suppliers and joint-venture partners across several continents. We research ownership, financial distress signals, litigation and links to state-owned or sanctioned groups, so procurement and investment teams understand who stands behind a critical supplier."},
+    {"title": "Shipping and port counterparties", "text": "Forwarders, ship operators and trading companies around the Port of Gothenburg move goods through many jurisdictions. We map ownership and vessel or trade connections from public sources and screen for export control and sanctions exposure, helping clients document diligence before contracts, charters or financing."},
+    {"title": "Trade secrets and technology leakage", "text": "Research-heavy companies in the region face the loss of technical information through departing employees, suppliers or competitors. Working with counsel, we research the people and companies involved, their new affiliations and any related filings, scoped to Swedish trade secrets and employment law."},
+    {"title": "Family groups and acquisition targets", "text": "Many Gothenburg businesses sit within family-controlled groups and private holding companies. We review Swedish company records, annual reports, court decisions and media coverage to clarify control, related-party dealings and prior disputes for acquirers, investors and lenders."},
+    {"title": "Litigation and enforcement support", "text": "Commercial disputes involving western Swedish parties are heard in the Gothenburg courts. We support counsel with corporate histories, witness backgrounds and asset research on opposing parties in Sweden and abroad, using lawful public sources and documents counsel obtains."}
+  ],
+  "local_context": [
+    {"title": "Gothenburg District Court", "text": "Göteborgs tingsrätt, on Ullevigatan, is the first-instance general court for Gothenburg and hears civil, commercial and criminal cases arising in the city. It is also listed as a competent court for matters under the European Account Preservation Order, which is relevant when creditors seek to freeze bank accounts in cross-border claims. Court decisions and case documents in Sweden are generally public, subject to secrecy rules, and can be requested from the court."},
+    {"title": "Court of Appeal for Western Sweden", "text": "Hovrätten för Västra Sverige, founded in 1948 and seated at Packhusplatsen in Gothenburg, is one of Sweden's six courts of appeal. It hears appeals from district courts in western Sweden, including Göteborgs tingsrätt, which makes Gothenburg the centre of appellate commercial litigation for the region. Its judgments are a useful source when researching the dispute history of western Swedish companies and individuals."},
+    {"title": "Regional administration and chamber", "text": "As the seat of Västra Götaland County, Gothenburg hosts the County Administrative Board, which handles regional permits and supervision, as well as the West Sweden Chamber of Commerce. Business Region Göteborg promotes investment and publishes regional statistics. National registers, including company filings with Bolagsverket, are held centrally and are not specific to Gothenburg, so research combines these with local court and media sources."},
+    {"title": "Arbitration for Gothenburg parties", "text": "Gothenburg does not have an arbitral institution comparable to the Arbitration Institute of the Stockholm Chamber of Commerce, and Swedish commercial arbitration involving Gothenburg companies is commonly administered by that Stockholm institute or conducted ad hoc. Hearings can be held in Gothenburg where parties agree. Challenges to awards go to the Swedish courts of appeal, so counsel should confirm the relevant court for each matter."}
+  ],
+  "tdsc_approach": "TDSC has no office in Gothenburg and works on Gothenburg matters from Nashville. We agree the purpose with the client and its counsel first, whether supplier onboarding, a port or shipping transaction, a technology leakage concern, an acquisition or a dispute in the Gothenburg courts, and scope the research accordingly. Sources include Swedish company filings and annual reports, decisions from Göteborgs tingsrätt and the Court of Appeal for Western Sweden, Swedish trade press and records in the jurisdictions where suppliers and shipping counterparties sit. Personal data is handled under the GDPR and Swedish supplementary law. Any local enquiries are carried out by qualified Swedish professionals under Swedish counsel's guidance.",
+  "faqs": [
+    {"q": "Do you have an office in Gothenburg?", "a": "No. TDSC works from Nashville and has no office, staff or address in Sweden. Where an engagement needs court documents retrieved in Gothenburg, interviews or a site visit, we coordinate qualified Swedish professionals and work with Swedish counsel, who confirms what each activity requires under Swedish law before it starts."},
+    {"q": "Which courts hear commercial disputes in Gothenburg?", "a": "Göteborgs tingsrätt hears first-instance civil and commercial cases arising in the city, and appeals go to the Court of Appeal for Western Sweden, also seated in Gothenburg. Counsel decides the forum and strategy. We tailor background, asset and corporate research to the court's procedures and to what Swedish public access rules allow."},
+    {"q": "How do you assess an automotive supplier to a Gothenburg manufacturer?", "a": "We identify the supplier's owners and group structure, review financial filings for signs of distress, and search litigation, regulatory, sanctions and media records in each country where it operates. For electrification projects we pay particular attention to state ownership, export control questions and ties to restricted parties."},
+    {"q": "Can you research shipping companies linked to the Port of Gothenburg?", "a": "Yes. We trace ownership of forwarders, operators and trading companies through company registers in Sweden and abroad, review vessel and trade connections where public data allows, and screen principals against sanctions lists. Findings are reported with sources so compliance teams can document their decisions."},
+    {"q": "Are Swedish court records open for research?", "a": "Swedish court records are generally public under the principle of public access, subject to secrecy rules for certain information. Judgments and case documents from the Gothenburg courts can usually be requested, often by email. We combine them with company filings and media sources and handle personal data in line with the GDPR."}
+  ],
+  "sources": [
+    {"title": "Gothenburg (Wikipedia overview)", "url": "https://en.wikipedia.org/wiki/Gothenburg"},
+    {"title": "Invest in Gothenburg: Facts and figures", "url": "https://www.investingothenburg.com/insights/fact-figures"},
+    {"title": "Invest in Gothenburg: The largest companies in Gothenburg 2026", "url": "https://www.investingothenburg.com/news/all-news/largest-companies-gothenburg-2026"},
+    {"title": "Court of Appeal for Western Sweden (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Court_of_Appeal_for_Western_Sweden"},
+    {"title": "European e-Justice Portal: Sweden, competent courts for European Account Preservation Order", "url": "https://e-justice.europa.eu/competent-authorities/SE/EAPO/AAD_nl?node=7518"},
+    {"title": "Business Region Göteborg: Facts and figures 2026", "url": "https://www.businessregiongoteborg.se/sites/brg/files/downloadable_files/facts-figures_2026.pdf"}
+  ],
+  "review_flags": [
+    "Population (612,231, 2025) is the Gothenburg municipality figure via Wikipedia, not SCB directly; metro 1.08 million (2023) also via Wikipedia.",
+    "Port share (55 percent of Swedish container traffic) from Invest in Gothenburg without year.",
+    "Stated from background knowledge, not verified: County Administrative Board and West Sweden Chamber of Commerce in Gothenburg; absence of a Gothenburg arbitral institution and reliance on SCC Stockholm; Swedish public access to court records and that the Court of Appeal for Western Sweden hears appeals from Göteborgs tingsrätt.",
+    "Business Region Göteborg 2026 PDF appeared in search results but was not opened."
+  ],
+  "researched": "2026-11-04"
+}

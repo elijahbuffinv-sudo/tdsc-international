@@ -1,0 +1,58 @@
+{
+  "slug": "vilnius-lt",
+  "name": "Vilnius",
+  "cc": "LT",
+  "meta_description": "TDSC investigative consulting in matters touching Vilnius: fintech and licence-holder diligence, VCCA arbitration support, startup and asset research.",
+  "eyebrow": "Vilnius, Lithuania",
+  "hero_lede": "Vilnius is Lithuania's capital and the base of its licensed fintech sector, its fast-growing startup ecosystem and dozens of global business services centres. TDSC scopes investigative consulting from Nashville for Vilnius matters, using lawful registers and coordinating qualified Lithuanian professionals and counsel where local work is needed.",
+  "intro": [
+    "Vilnius is the capital and largest city of Lithuania, with about 643,500 residents according to the municipality in April 2026, and a population that includes substantial Polish, Russian and Belarusian communities. The city is home to the national government, the Bank of Lithuania and most of the country's financial institutions. Since the mid-2010s the central bank's openness to fintech licensing has drawn electronic money and payment institutions to Vilnius, and Revolut operates here under a Lithuanian banking licence. The city also hosts around 72 global business services centres and a startup ecosystem that Dealroom ranks among the largest in Central and Eastern Europe, with companies such as Vinted and Nord Security.",
+    "Organisations commission investigative work connected to Vilnius because many businesses licensed or headquartered there serve customers far beyond Lithuania. A payment institution authorised by the Bank of Lithuania may passport services across the European Union while its owners, agents and technology suppliers sit in several other countries. Investors in Vilnius startups need to understand founders, cap tables and earlier ventures. Shared service centres handle finance and IT processes for multinational groups, creating internal fraud and data-handling risks. The city's position close to the Belarusian border, and its role as a base for Belarusian businesses and professionals since 2020, adds sanctions and ownership questions to many matters."
+  ],
+  "economy": [
+    {"label": "Population", "value": "About 643,500 (Vilnius municipality, April 2026)"},
+    {"label": "Metro area", "value": "City and surrounding Vilnius district form the country's largest urban region"},
+    {"label": "Key sectors", "value": "Financial technology, IT and cyber security, global business services, life sciences, lasers, public administration"},
+    {"label": "Financial regulator", "value": "Bank of Lithuania, which licenses banks, e-money and payment institutions"},
+    {"label": "Business services", "value": "About 72 global business services centres (Go Vilnius)"},
+    {"label": "Startups", "value": "Six unicorns, including former and exited ones, per Go Vilnius"},
+    {"label": "Time zone", "value": "Europe/Vilnius, UTC+2 (UTC+3 in summer)"},
+    {"label": "Languages of business", "value": "Lithuanian and English; Russian and Polish also widely used"}
+  ],
+  "matters": [
+    {"title": "E-money and payment institution diligence", "text": "Vilnius licence holders are frequent partners for banks, merchants and platforms across Europe. We research shareholders, managers, agents and group companies abroad, and review regulatory announcements and media coverage, to test whether ownership and controls described to a partner or acquirer match the public record."},
+    {"title": "Startup and venture investment checks", "text": "Investors in Vilnius technology companies need confidence in founders, prior ventures and related entities. We review Lithuanian and foreign corporate filings, litigation, insolvency and media records to identify undisclosed interests, earlier failures and disputes before a funding round or acquisition closes."},
+    {"title": "Shared service centre integrity reviews", "text": "Finance, procurement and IT functions run from Vilnius centres can be exposed to vendor fraud and conflicts of interest. Working with the client's counsel, we research suppliers and their links to staff through registers and open sources, scoped to Lithuanian employment and data protection rules."},
+    {"title": "Belarus-linked ownership and sanctions", "text": "Many businesses with Belarusian founders or capital relocated to Vilnius after 2020. We map ownership chains across Lithuania, Belarus, Poland and other jurisdictions and screen for sanctioned persons and indirect control, helping clients document their sanctions compliance before onboarding or investment."},
+    {"title": "Arbitration and enforcement research", "text": "Commercial disputes involving Lithuanian parties are often resolved before the Vilnius Court of Commercial Arbitration or the Vilnius courts. We support counsel with background research on opposing parties and witnesses and identify companies, property and business interests relevant to enforcement."}
+  ],
+  "local_context": [
+    {"title": "Courts sitting in Vilnius", "text": "Vilnius is the seat of Lithuania's highest courts: the Supreme Court, the only cassation instance in the general courts, the Court of Appeal and the Supreme Administrative Court. Within the general courts, district courts hear first-instance cases and regional courts hear more complex disputes at first instance and appeals from district courts, so significant Vilnius commercial disputes usually come before the regional court in the city. Counsel determines the forum, and our research follows its procedural needs."},
+    {"title": "Vilnius Court of Commercial Arbitration", "text": "The Vilnius Court of Commercial Arbitration (VCCA) was formed in October 2003 through the merger of the arbitration court of the ICC Lithuania association and Vilnius International Commercial Arbitration. It administers confidential national and international commercial arbitration, and its awards cannot be appealed on the merits. It is the principal domestic arbitral institution and publishes annual statistics on its caseload."},
+    {"title": "Bank of Lithuania as fintech regulator", "text": "The Bank of Lithuania, headquartered in Vilnius, licenses and supervises banks, electronic money institutions and payment institutions. Its strategic decision in the mid-2010s to welcome fintech firms, including a regulatory sandbox for testing new models, made Lithuania one of the European Union's leading licensing jurisdictions for these institutions. Its public registers of licensed entities and its published supervisory measures are standard starting points when researching a Vilnius financial counterparty."},
+    {"title": "Registers and the Centre of Registers", "text": "Company, real property and address registers are administered by the State Enterprise Centre of Registers, headquartered in Vilnius. Extracts for companies and property can be requested for a fee, and requesters may need to state a lawful purpose for some personal data. For Vilnius businesses, register research is commonly combined with court decisions, Bank of Lithuania registers and foreign filings where owners sit outside Lithuania."}
+  ],
+  "tdsc_approach": "TDSC has no office in Vilnius and works on Vilnius matters from Nashville. We start by agreeing the purpose with the client and its counsel, whether a payments partnership, a venture investment, an internal review at a service centre, a sanctions question or an arbitration, and scope the work to it. Sources include Centre of Registers extracts, Bank of Lithuania registers and supervisory announcements, published court decisions, VCCA materials provided through counsel, Lithuanian, Russian and Polish-language media, and records in Belarus-adjacent and other jurisdictions where owners sit. Personal data is handled under the GDPR. Any local enquiries are carried out by qualified Lithuanian professionals under Lithuanian counsel's guidance.",
+  "faqs": [
+    {"q": "Can you check a payment institution licensed in Vilnius?", "a": "Yes. We confirm the licence and any published supervisory measures on the Bank of Lithuania's registers, then research shareholders, managers, agents and group companies in Lithuania and abroad. Litigation, insolvency and media coverage complete the picture. The aim is to show whether the business partners and controls presented to a client match the public record."},
+    {"q": "Do you have staff in Vilnius?", "a": "No. TDSC works from Nashville and has no office, staff or address in Lithuania. When an engagement requires local enquiries, document retrieval or interviews in Vilnius, we coordinate qualified Lithuanian professionals and work with Lithuanian counsel, who confirms what each activity requires under local law before it begins."},
+    {"q": "Can you support an arbitration at the VCCA?", "a": "Yes, as a consultant to the party's counsel. We research opposing parties, their directors and related companies, prepare witness backgrounds from public sources and identify assets relevant to enforcement in Lithuania and elsewhere. We do not act as counsel and do not give legal advice on the proceedings."},
+    {"q": "How do you handle Belarus-linked companies in Vilnius?", "a": "We trace ownership across Lithuanian and foreign registers, look for nominee arrangements and indirect control, and screen principals against applicable sanctions lists. Where links to Belarus or Russia appear, we report them with sources and confidence levels so that counsel and compliance teams can decide on next steps. We do not accept engagements that would breach sanctions."},
+    {"q": "What languages are Vilnius sources in?", "a": "Official registers and court decisions are in Lithuanian, and many companies also publish in English. Media and business sources relevant to Vilnius matters often appear in Russian, Polish or Belarusian as well. We review sources in their original languages and report in English, noting where translation affects interpretation."}
+  ],
+  "sources": [
+    {"title": "Demographics of Vilnius (Wikipedia, citing Statistics Lithuania and Vilnius municipality)", "url": "https://en.wikipedia.org/wiki/Demographics_of_Vilnius"},
+    {"title": "Vilnius Court of Commercial Arbitration (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Vilnius_Court_of_Commercial_Arbitration"},
+    {"title": "In-House Lawyer: General overview of the Lithuanian court system", "url": "https://inhouselawyer.co.uk/?p=10810"},
+    {"title": "Go Vilnius: Vilnius Startup Ecosystem", "url": "https://www.govilnius.lt/vilnius-startup-ecosystem"},
+    {"title": "Remote Work Europe: How Vilnius quietly became Europe's fintech capital (May 2026)", "url": "https://remoteworkeurope.eu/insights/vilnius-fintech-capital-lithuania"},
+    {"title": "VCCA: Statistics (Arbitrazas yearbook 2025)", "url": "https://www.arbitrazas.lt/failai/2025/metrastis/7.%20VCCA%20Statistics%20(Baranoviene).pdf"}
+  ],
+  "review_flags": [
+    "Population (643,513, April 2026) is a Vilnius municipality figure via Wikipedia, not Statistics Lithuania or World Bank.",
+    "Specific court seats in Vilnius (Supreme Court, Court of Appeal, Supreme Administrative Court, Vilnius Regional Court) stated from background knowledge; the court-system source does not give locations.",
+    "Bank of Lithuania and Centre of Registers headquarters in Vilnius, and Belarusian business relocation after 2020, stated from background knowledge.",
+    "VCCA statistics PDF appeared in search results but was not opened."
+  ],
+  "researched": "2026-11-04"
+}

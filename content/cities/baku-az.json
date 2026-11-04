@@ -1,0 +1,60 @@
+{
+  "slug": "baku-az",
+  "name": "Baku",
+  "cc": "AZ",
+  "meta_description": "TDSC investigative consulting in matters touching Baku: oil and gas contractors, Caspian logistics, construction counterparties and Baku arbitration.",
+  "eyebrow": "Baku, Republic of Azerbaijan",
+  "hero_lede": "Baku is Azerbaijan's capital and the hub of its oil and gas industry, Caspian shipping and export pipelines. TDSC scopes investigative consulting from Nashville for matters touching the city, relying on lawful sources and coordinating qualified Azerbaijani professionals and counsel where local work is needed.",
+  "intro": [
+    "Baku, on the Caspian coast, had about 2.34 million residents in 2024 according to the State Statistics Committee, and a wider urban area of more than 3.7 million. It is the centre of Azerbaijan's economic life and of an economy in which oil accounts for about 90 percent of exports and mining and quarrying, including oil and gas, for about 36 percent of GDP in 2022. The Baku-Tbilisi-Ceyhan, Baku-Supsa and Baku-Novorossiysk pipelines start here, and the city hosts oil and gas equipment plants, shipbuilding, steelmaking and chemicals alongside the headquarters of SOCAR, banks and the Baku Stock Exchange. The government has promoted a free trade zone at the port of Alat for non-oil activity.",
+    "Organisations commission investigative work connected to Baku because most significant contracts, licences and disputes in Azerbaijan pass through the capital. Energy companies and their contractors need to know who owns local subcontractors, agents and suppliers, and whether they are linked to public officials. Freight and logistics firms working on Caspian and east-west trade routes vet port, shipping and forwarding counterparties. Construction and real estate projects in Baku raise questions about developers, landowners and politically exposed investors. Because shareholder and beneficial ownership information is not generally public, ownership often has to be reconstructed from foreign registries, court decisions and media. Disputes increasingly go to the Baku Commercial Court or the new Baku Arbitration Centre."
+  ],
+  "economy": [
+    {"label": "Population", "value": "About 2,344,900 (Baku city, 2024, State Statistics Committee as cited by Wikipedia)"},
+    {"label": "Urban area", "value": "About 3.7 million (citypopulation.de estimate)"},
+    {"label": "Key sectors", "value": "Oil and gas, oilfield equipment, shipbuilding, steel, chemicals, construction, banking, tourism"},
+    {"label": "Energy profile", "value": "Oil about 90 percent of national exports; mining and quarrying 35.8 percent of GDP (2022, OECD)"},
+    {"label": "Exchange", "value": "Baku Stock Exchange"},
+    {"label": "Transport hub", "value": "Baku International Sea Trade Port and Alat free trade zone; Heydar Aliyev International Airport"},
+    {"label": "Time zone", "value": "Asia/Baku, UTC+4 (no daylight saving)"},
+    {"label": "Languages of business", "value": "Azerbaijani; Russian and English widely used in energy and finance"}
+  ],
+  "matters": [
+    {"title": "Oil and gas subcontractor vetting", "text": "International operators and service companies in Baku rely on local subcontractors, agents and suppliers. We research their registration, foreign holding structures, court decisions, procurement history and media to identify undisclosed owners, links to public officials and integrity issues before contracts are signed."},
+    {"title": "Caspian logistics and port counterparties", "text": "Freight forwarders, shipping companies and terminal operators around Baku and Alat handle growing east-west transit trade. We vet these counterparties for ownership, sanctions and export-control exposure, prior disputes and reputational issues, combining Azerbaijani, Russian and English-language sources with foreign registry records."},
+    {"title": "Construction and real estate partners", "text": "Large residential, commercial and infrastructure projects in Baku involve developers and contractors whose ownership is often opaque. We trace connected companies abroad, review court decisions and media, and assess political exposure so investors and lenders understand who stands behind a project."},
+    {"title": "Agent and intermediary due diligence", "text": "Foreign companies entering Azerbaijan frequently use local agents or consultants. We assess an intermediary's background, related entities, government connections and reputation to support anti-bribery compliance files and decisions on whether, and on what terms, to proceed."},
+    {"title": "Support for Baku disputes", "text": "Parties in disputes before the Baku Commercial Court, the Baku Arbitration Centre or foreign tribunals need background on opposing parties and witnesses. We research corporate networks, foreign assets and public statements so counsel can assess credibility, settlement leverage and enforcement prospects."}
+  ],
+  "local_context": [
+    {"title": "Baku Commercial Court", "text": "The Baku Commercial Court is the principal first-instance court for business disputes in the capital. Under the Law on Arbitration adopted in December 2023, it also performs court support functions for international arbitrations, including interim measures, arbitrator appointments and challenges, and assistance with evidence, including where the seat is abroad or undetermined. The Baku Appeal Court enforces tribunal decisions granting interim measures, and the Supreme Court hears applications to recognise foreign awards. Proceedings are in Azerbaijani."},
+    {"title": "Baku Arbitration Centre", "text": "The Baku Arbitration Centre, Azerbaijan's first domestic arbitral institution, was registered in 2024 and inaugurated on 24 October 2025. It is a non-governmental, non-commercial body governed by a board led by Professor Kamalia Mehtiyeva, founder of the Azerbaijan Arbitration Association. Its rules, in force since 18 October 2025, draw on the UNCITRAL Rules and provide for emergency and expedited arbitration. Its roster includes prominent international arbitrators, though many energy contracts still choose foreign seats."},
+    {"title": "Registries and ownership data", "text": "Legal entities are registered under the national state registration law, with the register maintained by the tax authority. Basic registration details can be checked, but shareholder and beneficial ownership data is not generally public, which affects every Baku ownership enquiry. Research therefore relies on foreign registries for holding companies, court decisions, procurement and trade data and media, and any local document retrieval is arranged through Azerbaijani counsel."},
+    {"title": "Free zone and financial institutions", "text": "The government has created a free trade zone at the port of Alat for non-oil activity as part of its diversification strategy, and investors there should confirm with counsel which regulatory, tax and dispute arrangements apply. The Central Bank of Azerbaijan and the Baku Stock Exchange are both in the capital, and their publications and listed company disclosures are useful sources on banks and issuers."}
+  ],
+  "tdsc_approach": "TDSC has no office in Baku and handles Baku matters from Nashville. We agree the purpose with the client and Azerbaijani counsel first, whether an energy or logistics counterparty, a construction partner, an agent review, or a dispute before the Baku Commercial Court or the Baku Arbitration Centre, and define which questions can be answered lawfully. Because ownership data is largely confidential, we build pictures from foreign registries, court decisions, stock exchange disclosures, procurement and trade data and Azerbaijani, Russian and English-language media, labelled by confidence. We do not seek restricted government, banking or telecom data, do not use pretexting and do not conduct surveillance. Every matter is screened for sanctions exposure.",
+  "faqs": [
+    {"q": "Which court hears business disputes in Baku?", "a": "Business disputes in the capital are generally heard by the Baku Commercial Court at first instance, with appeals to the Baku Appeal Court. The Baku Commercial Court also supports international arbitrations under the 2023 Law on Arbitration, while the Supreme Court recognises foreign awards. Azerbaijani counsel confirms jurisdiction for any particular claim."},
+    {"q": "Is the Baku Arbitration Centre a realistic forum?", "a": "It is new. The centre was inaugurated in October 2025 with UNCITRAL-inspired rules, emergency and expedited procedures and an international roster, and it is backed by the 2023 Law on Arbitration. It has little track record yet, so many energy and infrastructure contracts continue to choose foreign seats. Counsel should advise on clause drafting."},
+    {"q": "Can TDSC identify who owns a Baku company?", "a": "Often only partly. Shareholder and beneficial ownership data in Azerbaijan is not generally public. We reconstruct ownership from foreign holding company registries, court decisions, procurement records, stock exchange disclosures and media, and we say clearly which conclusions are confirmed and which are inferred. Local document retrieval, where lawful, is arranged through counsel."},
+    {"q": "Can you vet logistics partners on Caspian transit routes?", "a": "Yes. We review the ownership, foreign affiliates, fleet or asset claims, sanctions and export-control exposure, disputes and media coverage of forwarders, shipping companies and terminal operators linked to Baku and Alat. Findings help clients decide whether a counterparty is suitable for cargo moving between Central Asia, the Caucasus and Europe."},
+    {"q": "Does TDSC carry out fieldwork in Baku?", "a": "TDSC does not conduct surveillance, covert recording or attempts to obtain non-public records. We have not identified a dedicated licensing regime for private investigators in Azerbaijan, and privacy, secrecy and interception laws constrain fieldwork. Where lawful local enquiries are needed, we coordinate qualified Azerbaijani professionals under the direction of local counsel."}
+  ],
+  "sources": [
+    {"title": "Wikipedia: Baku", "url": "https://en.wikipedia.org/wiki/Baku"},
+    {"title": "Wikipedia: Economy of Baku", "url": "https://en.wikipedia.org/wiki/Economy_of_Baku"},
+    {"title": "OECD: Realising the Potential of the Middle Corridor (Azerbaijan chapter)", "url": "https://www.oecd.org/en/publications/realising-the-potential-of-the-middle-corridor_635ad854-en/full-report/component-10.html"},
+    {"title": "Chambers Practice Guides: International Arbitration 2026, Azerbaijan", "url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2026/azerbaijan"},
+    {"title": "Kluwer Arbitration Blog: The New Baku Arbitration Centre", "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/the-new-baku-arbitration-centre-forward-thinking-significance/"},
+    {"title": "Global Arbitration Review: Arbitration centre launches in Baku", "url": "https://globalarbitrationreview.com/article/arbitration-centre-launches-in-baku"},
+    {"title": "Wikipedia on IPFS: Baku Stock Exchange", "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Baku_Stock_Exchange"}
+  ],
+  "review_flags": [
+    "Population 2,344,900 (2024) is the State Statistics Committee figure as cited on Wikipedia; stat.gov.az not opened.",
+    "Baku Commercial Court as general first-instance business court and SOCAR/Central Bank HQ in Baku are background knowledge; sources confirm only its arbitration-support role.",
+    "Alat free trade zone: OECD confirms a non-oil free trade zone at Alat; its separate legal, court and arbitration regime was not researched and the text only advises checking with counsel.",
+    "The Baku Arbitration Centre is new (inaugurated October 2025); caseload and practice should be re-checked.",
+    "Press freedom and civil-society restrictions in Azerbaijan may affect source-gathering and interviews; human review of tone advised."
+  ],
+  "researched": "2026-11-04"
+}

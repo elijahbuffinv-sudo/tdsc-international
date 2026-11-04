@@ -1,0 +1,61 @@
+{
+  "slug": "dhaka-bd",
+  "name": "Dhaka",
+  "cc": "BD",
+  "meta_description": "TDSC investigative consulting in matters touching Dhaka: garment supplier integrity, group ownership research, land title checks and dispute support.",
+  "eyebrow": "Dhaka, Bangladesh",
+  "hero_lede": "Dhaka is the capital and commercial centre of Bangladesh and the hub of its ready-made garment export industry. TDSC helps buyers, investors and lenders research Dhaka suppliers and business groups, test ownership and integrity claims, and gather lawful evidence for disputes heard in the capital's courts and arbitration centre.",
+  "intro": [
+    "Dhaka is the capital of Bangladesh and the seat of its government, central bank, securities regulator and main stock exchange, as well as the head offices of most of the country's banks and large business groups. Its economy is built on manufacturing and trade. A 2025 survey by the Dhaka Chamber of Commerce and Industry found that productive industries made up 56 percent of participating businesses, and that ready-made garments accounted for 58.6 percent of the manufacturing activity covered, followed by food products, textiles, plastics, pharmaceuticals and leather. Wholesale and retail trade, real estate and transport dominate services. Garment factories spread across Dhaka and its industrial belt in Gazipur, Savar and Narayanganj supply many of the world's best-known apparel brands.",
+    "Organisations commission investigative work connected to Dhaka because of its central place in global apparel sourcing and in Bangladesh's financial system. Brands and buyers need to know who really owns and controls their suppliers and subcontractors, and whether factories meet the labour, safety and integrity standards they claim. Lenders and investors deal with family business groups whose companies, banks and real estate are closely interlinked, and where loan defaults and related-party lending have drawn public scrutiny. Land and property in the capital are frequent subjects of title disputes. Commercial litigation in Dhaka is slow, with more than four million cases pending in lower courts nationally at the end of 2025, so parties increasingly turn to arbitration."
+  ],
+  "economy": [
+    {"label": "Population", "value": "City and metropolitan estimates vary widely by boundary; Greater Dhaka is one of the world's most populous urban areas (national population 175.7 million, World Bank, 2025)"},
+    {"label": "Metro area", "value": "Dhaka city corporations with the Gazipur, Savar and Narayanganj industrial belt"},
+    {"label": "Key sectors", "value": "Ready-made garments and textiles, food products, plastics, pharmaceuticals, leather, wholesale and retail trade, real estate, banking"},
+    {"label": "Exchange and regulators", "value": "Dhaka Stock Exchange; securities and banking regulators headquartered in the capital"},
+    {"label": "Trade links", "value": "Hazrat Shahjalal International Airport; sea freight mainly through Chattogram port"},
+    {"label": "Time zone", "value": "Asia/Dhaka, UTC+6, no daylight saving"},
+    {"label": "Languages of business", "value": "Bangla; English widely used in banking, export trade, contracts and higher courts"}
+  ],
+  "matters": [
+    {"title": "Garment supplier ownership and integrity", "text": "Establishing who owns and controls Dhaka-area garment and textile suppliers and their subcontractors, through company records, court and press archives and discreet industry enquiries, and identifying undisclosed links, prior factory closures, labour disputes or sanctions concerns before a buyer commits volume."},
+    {"title": "Business group and lender exposure", "text": "Mapping the companies, banks and property connected to a Dhaka family business group ahead of lending, investment or a joint venture, including related-party arrangements, loan default litigation and public allegations, and separating documented findings from market rumour."},
+    {"title": "Land and property title checks", "text": "Reviewing ownership chains, mutation records, encumbrances and pending litigation affecting land or buildings in Dhaka and its industrial belt before a purchase, lease or factory investment, with local professionals obtaining lawfully available records and noting conflicting claims."},
+    {"title": "Procurement and agent due diligence", "text": "Researching local agents, distributors and consortium partners bidding for government or infrastructure contracts let from the capital, looking for shared ownership, connections to officials, past disqualifications, litigation and adverse coverage in Bangla and English media."},
+    {"title": "Asset research for disputes", "text": "Identifying property, company interests and business activity of a Dhaka counterparty to inform counsel's strategy in litigation, arbitration or enforcement, including whether assets have been transferred to relatives or related companies after a dispute arose."}
+  ],
+  "local_context": [
+    {"title": "Supreme Court and Dhaka courts", "text": "The Supreme Court of Bangladesh, comprising the Appellate Division and the High Court Division, sits in Dhaka. The High Court Division hears company matters and writ petitions, and court-supported steps in international commercial arbitration. Dhaka's district courts and money loan courts handle much commercial and bank recovery litigation. Delays are severe: the Law Minister reported 4,041,924 cases pending in the lower courts as of 31 December 2025."},
+    {"title": "Bangladesh International Arbitration Centre", "text": "BIAC, based on Kazi Nazrul Islam Avenue in Dhaka, began operating in April 2011 under a government licence, with the International Chamber of Commerce Bangladesh, the Dhaka Chamber of Commerce and Industry and the Metropolitan Chamber of Commerce and Industry as sponsors. It describes itself as the country's only registered arbitration institution and administers cases under its 2019 Arbitration Rules and 2019 Mediation Rules, alongside the Arbitration Act 2001."},
+    {"title": "Chambers and company records", "text": "Dhaka hosts the main business chambers, including the Dhaka Chamber of Commerce and Industry and the Metropolitan Chamber of Commerce and Industry, as well as the garment manufacturers' association BGMEA. The Registrar of Joint Stock Companies and Firms, which keeps incorporation documents and returns, has its head office in the capital. Membership and certification records of industry associations can help confirm a supplier's status, but are not a substitute for registry and court checks."},
+    {"title": "Financial regulators in the capital", "text": "Bangladesh Bank, the central bank, the Bangladesh Securities and Exchange Commission and the Dhaka Stock Exchange are all in Dhaka. Their published circulars, enforcement notices and listing disclosures are useful sources when researching listed companies, banks, insurers and their sponsor directors and major shareholders. The Dhaka Stock Exchange has worked with BGMEA to encourage garment companies to raise capital through the market."}
+  ],
+  "tdsc_approach": "TDSC handles Dhaka matters from Nashville and has no office in Bangladesh. Engagements begin by identifying the records that bear on the question: company documents from the Registrar of Joint Stock Companies, Supreme Court and Dhaka district court records, stock exchange and regulator disclosures, land records where relevant, and Bangla and English-language press. Because official records can be incomplete or slow to obtain, we explain what was confirmed and from where. Where work on the ground is needed, such as factory site verification or discreet industry enquiries, TDSC coordinates experienced local professionals working with Bangladeshi counsel, without pretexting or access to bank, telecoms or national identity records. Sanctions and labour-rights questions are scoped with the client's compliance team.",
+  "faqs": [
+    {"q": "How can a buyer verify who owns a Dhaka garment supplier?", "a": "Company records from the Registrar of Joint Stock Companies show directors and shareholders as filed, but they can be outdated. We compare them with association membership, court and press records, related-company analysis and discreet industry enquiries, and report any gap between the registered owners and the people who appear to control the business."},
+    {"q": "Is arbitration in Dhaka a realistic alternative to the courts?", "a": "Many parties choose it because of court delays. The Bangladesh International Arbitration Centre in Dhaka has administered cases since 2011 under its own rules and the Arbitration Act 2001. Forum choice is for counsel; TDSC supports arbitrations in Dhaka or elsewhere with research on parties, witnesses and assets."},
+    {"q": "Why are land checks important for a Dhaka factory investment?", "a": "Land in and around Dhaka is frequently subject to competing ownership claims, incomplete mutation records and litigation. Before purchase, lease or construction, we combine land and registration records obtained lawfully with court searches and local enquiries, and note inconsistencies that counsel should resolve before funds are committed."},
+    {"q": "What sources are used to research a Dhaka business group?", "a": "Company filings, stock exchange and regulator disclosures for listed members, court and money loan court records, land records where accessible, and Bangla and English media archives. We map how group companies, banks and property connect, and distinguish documented links from allegations reported in the press."},
+    {"q": "Can TDSC check a Dhaka counterparty's bank or tax records?", "a": "No. Bank, tax, telecoms and national identity records are confidential and we do not obtain them. We use public registries, court records, regulator publications, media and lawful enquiries. Where bank records are needed for a dispute, counsel can seek them through the courts, and our research can help identify which institutions to target."}
+  ],
+  "sources": [
+    {"title": "Bonik Barta: Manufacturing sector drives Dhaka's economy with 56% share, DCCI (2025)", "url": "https://en.bonikbarta.com/business/k4kbCeFIPRxTVq8D"},
+    {"title": "Bangladesh International Arbitration Centre: FAQ", "url": "https://biac.org.bd/faq/"},
+    {"title": "BSS: BIAC emerges as key ADR pillar amid rising case backlog in Bangladesh (April 2026)", "url": "https://b.bssnews.net/law-and-court/382487"},
+    {"title": "UNB: DSE and BGMEA join forces to support RMG enterprises in capital market", "url": "https://unb.com.bd/category/Business/dse-bgmea-join-forces-to-support-rmg-enterprises-in-capital-market/122045"},
+    {"title": "US International Trade Administration: Bangladesh Country Commercial Guide", "url": "https://www.trade.gov/country-commercial-guides/bangladesh-market-overview"},
+    {"title": "Dhaka Chamber of Commerce and Industry: BIAC", "url": "https://dhakachamber.com/biac"},
+    {"title": "Wikipedia: Economy of Dhaka", "url": "https://en.wikipedia.org/wiki/Economy_of_Dhaka"},
+    {"title": "World Bank population data, Bangladesh", "url": "https://api.worldbank.org/v2/country/BD/indicator/SP.POP.TOTL?format=json&mrnev=1"}
+  ],
+  "review_flags": [
+    "No Dhaka city or metro population figure was verified (web fetch limit reached); economy row uses the national World Bank figure from the BD country page. Add a BBS census figure.",
+    "Locations of RJSC head office, Bangladesh Bank, BSEC, Hazrat Shahjalal airport and the Gazipur/Savar/Narayanganj industrial belt are stated from prior knowledge, not sources opened.",
+    "Money loan courts (Artha Rin Adalat) and High Court Division role in arbitration stated from prior knowledge; Chambers practice guide fetch was blocked.",
+    "UNB, trade.gov, DCCI and Wikipedia URLs appeared in search results only and were not opened; the DSE-BGMEA cooperation is inferred from the UNB headline.",
+    "DCCI 56% and 58.6% figures refer to businesses participating in DCCI's survey, not to Dhaka's GDP.",
+    "Political context since 2024 deliberately omitted; review whether the page needs a note on the political transition."
+  ],
+  "researched": "2026-11-04"
+}

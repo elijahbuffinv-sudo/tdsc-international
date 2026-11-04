@@ -1,0 +1,146 @@
+{
+  "slug": "belfast-gb",
+  "name": "Belfast",
+  "cc": "GB",
+  "meta_description": "TDSC investigative consulting in matters touching Belfast: Northern Ireland courts, Windsor Framework trade, cyber and fintech, and local land registries.",
+  "eyebrow": "Belfast, Northern Ireland, UK",
+  "hero_lede": "Belfast is the capital of Northern Ireland and its main port, with a growing base in cyber security, financial and professional services and film. Matters touching the city sit in a separate legal jurisdiction within the UK, and TDSC scopes research around Northern Ireland's own courts, registries and trading rules.",
+  "intro": [
+    "Belfast is the capital and largest city of Northern Ireland and the centre of its commercial, legal and political life. Belfast Harbour handles about 70 percent of Northern Ireland's seaborne trade and hosts several hundred businesses on its estate, including film studios. Around 900 international companies operate from the city, according to Belfast City Council figures reported in 2021, with Citi, Liberty Mutual, the large accounting firms and several international law firms running substantial operations there. Cyber security has become the leading new sector, alongside fintech, software, life sciences and advanced manufacturing, including aerospace components. The Belfast Region City Deal adds public investment in innovation and infrastructure.",
+    "Organisations commission investigative work connected to Belfast because the city combines international back-office and technology operations with a distinct legal framework. Northern Ireland has its own courts and land registry, and under the Windsor Framework it remains aligned with EU rules for goods while being part of the UK customs territory, which creates particular trade compliance and origin questions for businesses moving goods through the port. Clients ask about counterparties in local construction, property and agrifood, about staff misconduct in shared service and technology centres, and about assets held in Northern Ireland by parties to disputes in London, Dublin or elsewhere. Some matters also require care around the legacy of the conflict and paramilitary-linked criminality."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 345,000 (Belfast local government district, 2021 census, NISRA)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Cyber security, fintech and financial services, software, professional services, film and TV, aerospace and engineering, agrifood"
+    },
+    {
+      "label": "International presence",
+      "value": "About 900 international companies (Belfast City Council, 2021)"
+    },
+    {
+      "label": "Port",
+      "value": "Belfast Harbour, about 70% of Northern Ireland seaborne trade"
+    },
+    {
+      "label": "Airports",
+      "value": "George Best Belfast City (BHD); Belfast International (BFS)"
+    },
+    {
+      "label": "Trade regime",
+      "value": "UK customs territory with EU single market rules for goods under the Windsor Framework (2023)"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/London, UTC+0 (UTC+1 in summer)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "English"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Windsor Framework trade compliance",
+      "text": "Researching importers, hauliers and traders that move goods between Great Britain, Northern Ireland and Ireland through Belfast, including ownership, related companies and adverse records, where a client suspects misuse of trusted trader arrangements, misdeclared origin or goods routed through Northern Ireland to reach EU markets."
+    },
+    {
+      "title": "Shared service centre investigations",
+      "text": "Supporting employers and counsel with lawful fact-finding where misconduct, data leakage or fraud is alleged in Belfast technology, finance or back-office operations, including background research on individuals and third parties and careful handling of employee data under UK data protection law."
+    },
+    {
+      "title": "Construction and property counterparties",
+      "text": "Checking developers, contractors and property investors in Belfast regeneration and harbour schemes, linking companies, directors and land holdings through Companies House and Northern Ireland land records, and identifying insolvencies, disputes and phoenix patterns before contracts or financing are agreed."
+    },
+    {
+      "title": "Cyber and fintech investment diligence",
+      "text": "Verifying founders, management and technology claims of Belfast cyber security and fintech businesses before investment or acquisition, including career histories, prior ventures, intellectual property disputes and regulatory records across the UK, Ireland and the United States."
+    },
+    {
+      "title": "Asset research for cross-border enforcement",
+      "text": "Identifying property, company interests and other assets in Northern Ireland held by parties to judgments or awards obtained in England, Ireland or abroad, so counsel can plan registration and enforcement through the Northern Ireland courts, which operate separately from those in London."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Royal Courts of Justice, Belfast",
+      "text": "The Court of Appeal and the High Court of Northern Ireland normally sit at the Royal Courts of Justice in Belfast. The High Court has Chancery, King's Bench and Family Divisions. Business disputes, including building contracts, sale of goods, insurance, banking and carriage of goods, may be assigned to the Commercial List of the King's Bench Division, managed by a designated Commercial Judge. Judgments of England and Wales must be registered before enforcement in Northern Ireland."
+    },
+    {
+      "title": "Arbitration and dispute resolution",
+      "text": "Belfast does not have a dedicated arbitral institution comparable to those in London or Dublin. Commercial arbitrations seated in Northern Ireland are typically conducted ad hoc or under international institutional rules, with the High Court in Belfast exercising supervisory powers. Many contracts involving Belfast businesses instead choose London or Dublin as the seat, which affects where evidence and applications will be heard."
+    },
+    {
+      "title": "Registries specific to Northern Ireland",
+      "text": "Northern Ireland companies are registered at Companies House, which keeps a Belfast office, and appear in the same UK-wide online register of directors, persons with significant control and filed accounts. Land, however, is recorded separately from England and Wales through Land and Property Services, which maintains the Land Registry and the Registry of Deeds for Northern Ireland. Property research therefore needs its own searches rather than reliance on HM Land Registry."
+    },
+    {
+      "title": "Windsor Framework trading rules",
+      "text": "Since 2020 Northern Ireland's goods trade has been governed by the Northern Ireland Protocol, revised by the Windsor Framework announced in 2023. Northern Ireland follows EU single market rules for goods, allowing trade across the land border without checks, while simplified procedures apply to goods arriving from Great Britain. These arrangements create compliance obligations for traders that are distinct from those elsewhere in the UK and can be relevant to fraud and sanctions enquiries."
+    },
+    {
+      "title": "Legacy and organised crime context",
+      "text": "Some sectors in and around Belfast, including fuel, tobacco and construction, have been linked to organised criminality, in some cases with paramilitary connections. This is relevant to counterparty risk assessments and to the safety of any local enquiries. Research relies on court records, official reports and reputable reporting, and findings distinguish proven matters from allegation and local rumour. Reports state clearly where sensitivities limited enquiries."
+    }
+  ],
+  "tdsc_approach": "TDSC handles Belfast matters from Nashville, with no office in Northern Ireland. Each engagement starts by confirming that Northern Ireland, not England and Wales, is the relevant jurisdiction for courts, land and enforcement, and by identifying the records that cover the subjects: Companies House, Northern Ireland land registers, High Court judgments, regulatory notices and local press. Trade-related matters are framed around the Windsor Framework and coordinated with customs or trade counsel. Interviews or local enquiries in Belfast are scoped with Northern Ireland solicitors and carried out by experienced local professionals, with attention to UK data protection law and the sensitivities of a post-conflict society.",
+  "faqs": [
+    {
+      "q": "Is Northern Ireland a separate legal jurisdiction from England?",
+      "a": "Yes. Northern Ireland has its own courts, with the High Court and Court of Appeal sitting in Belfast, and its own land registration system. UK Supreme Court decisions apply, and much commercial law is similar, but judgments from England and Wales must be registered before enforcement. TDSC plans research around the Northern Ireland system; counsel advises on procedure."
+    },
+    {
+      "q": "Can Companies House be used for Northern Ireland companies?",
+      "a": "Yes. Northern Ireland companies are on the UK-wide Companies House register, which shows directors, persons with significant control, accounts and charges. Property they hold, however, is recorded with Land and Property Services in Northern Ireland rather than HM Land Registry, so asset research needs separate land searches."
+    },
+    {
+      "q": "Why does the Windsor Framework matter for investigations?",
+      "a": "Because Northern Ireland follows EU rules for goods while remaining in the UK customs territory, traders moving goods through Belfast operate under arrangements that do not apply elsewhere in the UK. Where goods are misdeclared or routed to exploit those arrangements, research into the traders, their ownership and their logistics partners can support compliance or legal action."
+    },
+    {
+      "q": "Are private investigators licensed in Northern Ireland?",
+      "a": "As elsewhere in the UK, there was no mandatory licensing regime for private investigators as of 2025, but general law applies, including data protection, harassment and interception rules. TDSC works only through experienced local professionals for field enquiries in Belfast and confines its own work to lawful research and analysis."
+    },
+    {
+      "q": "Where are Belfast commercial disputes usually resolved?",
+      "a": "Many are heard in the High Court in Belfast, where business cases can be placed on the Commercial List of the King's Bench Division. Contracts with international parties often choose arbitration seated in London or Dublin, or courts in those cities. TDSC adapts research to the forum chosen and to the evidence it will require."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Department of Justice NI: Royal Courts of Justice",
+      "url": "https://www.justice-ni.gov.uk/articles/royal-courts-justice"
+    },
+    {
+      "title": "Investment Monitor: Belfast looks to play to its Brexit advantage (2021)",
+      "url": "https://investmentmonitor.ai/features/belfast-looks-to-play-to-its-brexit-advantage"
+    },
+    {
+      "title": "A&L Goodbody: Post-Brexit trade, the Windsor Framework",
+      "url": "https://www.algoodbody.com/belfast/our-services/post-brexit-trade-the-windsor-framework"
+    },
+    {
+      "title": "Solicitors Journal: Windsor Framework announced to replace Northern Ireland Protocol",
+      "url": "https://www.solicitorsjournal.com/sjarticle/windsor-framework-announced-to-replace-northern-ireland-protocol"
+    },
+    {
+      "title": "Royal Courts of Justice, Belfast (Wikipedia)",
+      "url": "https://EN.wikipedia.com/wiki/Royal_Courts_of_Justice,_Belfast"
+    },
+    {
+      "title": "Belfast City Council: Infographic facts and figures",
+      "url": "https://minutes3.belfastcity.gov.uk/documents/s63940/Infographic Facts Figures.pdf"
+    }
+  ],
+  "review_flags": [
+    "Population (about 345,000, 2021 census) is from prior knowledge; the Belfast City Council infographic that appeared in results could not be opened (robots disallowed) and no NISRA page was retrieved. Verify against NISRA.",
+    "Economic figures (900 international companies, 70% of seaborne trade) are 2021 promotional figures reported by Investment Monitor.",
+    "Companies House Belfast office, Land and Property Services (Land Registry and Registry of Deeds), airports and the statement that Belfast lacks a dedicated arbitral institution are from prior knowledge; verify.",
+    "Organised crime and paramilitary sector references are general and unsourced in this session; legal review advised before publication."
+  ],
+  "researched": "2026-11-04"
+}

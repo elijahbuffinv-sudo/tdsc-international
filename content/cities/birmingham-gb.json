@@ -1,0 +1,142 @@
+{
+  "slug": "birmingham-gb",
+  "name": "Birmingham",
+  "cc": "GB",
+  "meta_description": "TDSC investigative consulting in matters touching Birmingham: Midlands counterparty diligence, B&PC litigation support, supply chain and asset research.",
+  "eyebrow": "West Midlands, England",
+  "hero_lede": "Birmingham is England's largest city outside London, the regional centre for business, professional and financial services and home to Business and Property Courts serving the Midlands. TDSC supports clients and counsel with diligence, litigation research and asset tracing in matters involving Birmingham businesses and individuals.",
+  "intro": [
+    "Birmingham had 1,144,900 residents at the 2021 Census and is the commercial centre of the West Midlands. City council data for 2024 records 568,500 jobs in the city, with public services the largest group and business, professional and financial services second at about 148,500 jobs, or a quarter of employment. TheCityUK ranks Birmingham as the UK's second-largest cluster for these services after London; HSBC UK and Goldman Sachs are cited as headquartered or significantly present in the region, and all four large accounting firms are based there. Retail, hospitality and manufacturing remain significant, and the wider region's automotive and advanced engineering supply chains run through firms based in and around the city.",
+    "Organisations commission investigative work connected to Birmingham because it is where much of the Midlands' commercial litigation, insolvency and professional advice is concentrated. Lenders and insolvency practitioners pursue directors and assets after business failures. Manufacturers and buyers need confidence in regional suppliers and in new owners of long-established firms. Investors in city-centre property and regeneration schemes face layered ownership and development risk. Law firms in the city bring claims for fraud, breach of fiduciary duty and misappropriation in the Birmingham Business and Property Courts, and need evidence, witnesses and asset research to support them. The city's diverse, internationally connected business community also gives many matters a cross-border dimension."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "1,144,900 (2021 Census); projected about 1.19 million by 2028"
+    },
+    {
+      "label": "Workplace jobs",
+      "value": "568,500 in 2024 (ONS Business Register and Employment Survey)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Business, professional and financial services; public services; retail; hospitality; manufacturing"
+    },
+    {
+      "label": "Financial services",
+      "value": "UK's second-largest business, professional and financial services cluster (TheCityUK)"
+    },
+    {
+      "label": "Regional role",
+      "value": "Commercial and legal centre of the West Midlands"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/London, UTC+0 (UTC+1 in British Summer Time)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "English; many community languages in a highly diverse city"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Insolvency and director conduct",
+      "text": "Supporting insolvency practitioners and lenders after Midlands business failures by researching directors' other companies, transactions with connected parties, property holdings and lifestyle indicators, and identifying phoenix patterns where assets or trade move to new entities controlled by the same people."
+    },
+    {
+      "title": "Manufacturing supplier and acquirer checks",
+      "text": "Background research on West Midlands engineering, automotive and component suppliers and on buyers of established family firms, covering ownership changes, financial distress signals, litigation, export control and sanctions exposure, and the track record of new owners or management."
+    },
+    {
+      "title": "Business and Property Courts litigation",
+      "text": "Assisting Birmingham and national law firms with claims in the Business and Property Courts in Birmingham: locating and interviewing witnesses, researching opposing parties, assembling public-record chronologies and identifying assets before freezing or enforcement applications. Findings are presented with sources so they can be relied on in evidence."
+    },
+    {
+      "title": "Property and regeneration investments",
+      "text": "Reviewing developers, landowners and investment vehicles behind Birmingham city-centre and regeneration projects, including offshore ownership disclosed through the Register of Overseas Entities, title and charge history, planning disputes and the background of principals, before clients lend, buy or partner."
+    },
+    {
+      "title": "Professional services misconduct",
+      "text": "Discreet internal investigation support for firms in Birmingham's accounting, legal, banking and shared-services sector, where client money, expenses or data have been misused, or employees have moved clients or confidential material to a competitor. Work is scoped with the firm's counsel."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Business and Property Courts",
+      "text": "The Business and Property Courts in Birmingham took effect on 2 October 2017 and sit at the Birmingham Civil Justice Centre. They bring together Chancery lists, including business, insolvency and companies, intellectual property and property, trusts and probate, with the Birmingham Circuit Commercial Court (formerly the Mercantile Court) and the Technology and Construction Court. Parties across the Midlands can issue substantial business claims there rather than in London, before specialist judges."
+    },
+    {
+      "title": "Circuit Commercial Court",
+      "text": "The Birmingham Circuit Commercial Court hears commercial disputes such as contract, banking, sale of goods, agency and professional negligence claims with a commercial character, and applications for injunctions, including freezing and search orders, within its business. For investigative support this means evidence must meet High Court standards of procedure and disclosure, and asset research is often needed quickly ahead of without-notice applications."
+    },
+    {
+      "title": "Regional advisory community",
+      "text": "Birmingham has the largest concentration of law firms, accountancy practices, barristers' chambers and insolvency practitioners in the UK outside London. Many Midlands disputes, restructurings and transactions are advised on locally, which means investigative work often feeds into teams based in the city's Colmore business district even when assets and parties are spread across the UK or overseas. Local knowledge of that community helps."
+    },
+    {
+      "title": "National registers apply",
+      "text": "Company, property and land records for Birmingham are national: Companies House for companies and persons with significant control, HM Land Registry for title registers and charges in England and Wales, and the Register of Overseas Entities for foreign owners of land. Local sources add planning records held by the city council, licensing registers and regional press archives that often hold the fuller story of a local business."
+    }
+  ],
+  "tdsc_approach": "TDSC handles Birmingham matters from Nashville and has no office in the United Kingdom. We build each engagement around the evidence the Birmingham Business and Property Courts or the client's decision will require: Companies House and Land Registry records, court filings, insolvency notices, planning and licensing files, regional press archives and open sources. Where enquiries in the Midlands are needed, such as witness location, discreet interviews or site visits, TDSC coordinates experienced UK-based investigators working under the direction of the client's solicitors. Work involving personal data is scoped with counsel under UK data protection law, and we do not use pretexting or obtain bank, telephone or other protected records.",
+  "faqs": [
+    {
+      "q": "Do Birmingham commercial claims have to be issued in London?",
+      "a": "No. Since October 2017 the Business and Property Courts in Birmingham have heard substantial business, commercial, insolvency, property and construction claims locally, including in the Birmingham Circuit Commercial Court and the Technology and Construction Court. Where to issue is a decision for counsel; TDSC supports either venue with research and evidence gathering."
+    },
+    {
+      "q": "Can TDSC help trace assets before a freezing order application?",
+      "a": "Yes, in support of the client's solicitors. We research property titles and charges, company interests, vehicles and assets held through connected people or overseas entities, using public records and lawful enquiries. We present findings with sources so counsel can assess whether they support a risk of dissipation and the scope of any order."
+    },
+    {
+      "q": "How do you check a Midlands manufacturing supplier?",
+      "a": "We review Companies House filings and charges, accounts for signs of distress, litigation and insolvency records, changes of ownership and the background of directors. For export-sensitive products we look at ownership links to sanctioned or high-risk jurisdictions. Where useful, local enquiries test claimed capacity, customers and site activity."
+    },
+    {
+      "q": "Is Birmingham property ownership transparent?",
+      "a": "Title registers from HM Land Registry show the registered owner and charges, and the Register of Overseas Entities lists foreign entities owning land. Ownership through UK companies, trusts or nominees can still obscure who benefits. We combine those registers with company filings, planning records and open sources to identify the people behind a holding."
+    },
+    {
+      "q": "Can you support investigations in Birmingham professional services firms?",
+      "a": "Yes. We assist general counsel and external solicitors with fact-finding into suspected misuse of client money, expenses fraud, conflicts of interest or departing employees taking clients. Work is scoped with counsel around employment and data protection obligations, and digital forensics is carried out by specialists engaged through the firm or its lawyers."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Birmingham City Council: Birmingham Employment Update 2024",
+      "url": "https://www.birmingham.gov.uk/download/downloads/id/30399/birmingham_employment_update_-_2024.pdf"
+    },
+    {
+      "title": "Birmingham City Observatory: Insight fact sheet (population, economy)",
+      "url": "https://cityobservatory.birmingham.gov.uk/api/explore/v2.1/catalog/datasets/insight-fact-sheets/files/90c517717d156817d09a3f3de40439a5"
+    },
+    {
+      "title": "Invest West Midlands: Birmingham remains second-largest BPFS cluster in UK (2023)",
+      "url": "https://www.investwestmidlands.com/news/2023/09/08/birmingham-remains-second-largest-bpfs-cluster-in-uk/"
+    },
+    {
+      "title": "Judiciary of England and Wales: Business and Property Courts in Birmingham, courts and work",
+      "url": "https://www.judiciary.uk/courts-and-tribunals/business-and-property-courts/regional-business-and-property-courts/birmingham/courts-and-work/"
+    },
+    {
+      "title": "Judiciary of England and Wales: Introduction to the Business and Property Courts in Birmingham (2017)",
+      "url": "https://www.judiciary.uk/wp-content/uploads/2017/10/bpc-intro-birmingham.pdf"
+    },
+    {
+      "title": "Judiciary of England and Wales: Birmingham Circuit Commercial Court",
+      "url": "https://www.judiciary.uk/courts-and-tribunals/business-and-property-courts/commercial-court/circuit-commercial-courts/birmingham-circuit-commercial-court/"
+    },
+    {
+      "title": "GOV.UK: Circuit Commercial Court, what we do",
+      "url": "https://www.gov.uk/courts-tribunals/commercial-circuit-court"
+    }
+  ],
+  "review_flags": [
+    "Population is the 2021 Census figure (1,144,900) from a city council fact sheet; no ONS mid-year estimate appeared in searches. Consider updating to the latest ONS mid-year estimate.",
+    "Description of Circuit Commercial Court business (contract, banking, injunctions including freezing orders) is based on general knowledge of the Circuit Commercial Court Guide; the judiciary pages were seen in search results but the specific page text was not opened. Verify.",
+    "Claim that Birmingham has the largest concentration of legal and accounting firms outside London is an editorial inference from TheCityUK's BPFS ranking; the Colmore business district is named from general knowledge.",
+    "Airport, HS2 and Birmingham City Council's financial position were deliberately omitted for lack of sources opened."
+  ],
+  "researched": "2026-11-04"
+}

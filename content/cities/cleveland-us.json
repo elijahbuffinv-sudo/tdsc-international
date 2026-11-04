@@ -1,0 +1,146 @@
+{
+  "slug": "cleveland-us",
+  "name": "Cleveland",
+  "cc": "US",
+  "meta_description": "TDSC investigative consulting in matters touching Cleveland: healthcare and manufacturing due diligence, litigation support and asset research in Ohio.",
+  "eyebrow": "Cleveland, Ohio, United States",
+  "hero_lede": "Investigative consulting for matters that run through Cleveland: due diligence on Northeast Ohio manufacturers, healthcare and insurance businesses, research for counsel in Ohio state and federal litigation, and asset and ownership work across Cuyahoga County. Scoped from Nashville with investigators licensed in Ohio where required.",
+  "intro": [
+    "Cleveland is the principal city of Northeast Ohio and the core of a metropolitan economy of about 2.06 million people in the Cleveland-Elyria metropolitan area (July 2023 estimate). Once defined by steel and heavy industry, the region now leans on health care and education, which form its largest employment sector with about 203,000 jobs. Cleveland Clinic is the largest employer by a wide margin, followed by University Hospitals, the federal government, Progressive and Cuyahoga County. Manufacturing still accounts for about 11 percent of payroll jobs. The region hosts the headquarters of Sherwin-Williams, Parker Hannifin, KeyCorp and Progressive, and the city is home to the Federal Reserve Bank of Cleveland, which serves the Fourth District. Case Western Reserve University anchors a research and health technology cluster.",
+    "Organisations commission investigative work connected to Cleveland because of its concentration of industrial, healthcare, insurance and banking businesses and the litigation they generate. Typical triggers include due diligence on privately held manufacturers and suppliers before acquisitions, research into physician groups, health technology start-ups and service providers working with the city's hospital systems, and support to counsel in commercial, product liability, insurance and employment disputes in Ohio state and federal courts. Private equity investment in Midwest industrial firms, family-owned businesses changing hands, and economic development incentives tied to real estate projects all raise questions about owners, related parties and past conduct. Asset research for judgment enforcement commonly involves Ohio limited liability companies and property held across Cuyahoga and neighbouring counties."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 2.06 million, Cleveland-Elyria metro area (July 2023 estimate)"
+    },
+    {
+      "label": "Largest employers",
+      "value": "Cleveland Clinic, University Hospitals, US Government, Progressive, Cuyahoga County"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Health care and education, manufacturing, insurance, banking, professional services"
+    },
+    {
+      "label": "Headquarters",
+      "value": "Sherwin-Williams, Parker Hannifin, KeyCorp, Progressive (Mayfield)"
+    },
+    {
+      "label": "Financial institutions",
+      "value": "Federal Reserve Bank of Cleveland (Fourth District); KeyBank"
+    },
+    {
+      "label": "Manufacturing share",
+      "value": "About 11% of payroll jobs, about 119,500 (2023)"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/New_York, UTC-5 (UTC-4 in daylight saving time)"
+    },
+    {
+      "label": "Business language",
+      "value": "English"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Industrial acquisition due diligence",
+      "text": "Background research on privately held Northeast Ohio manufacturers, their owners and key managers before acquisitions or financing, covering corporate history, litigation, environmental and safety enforcement, related-party dealings and reputation, built from Ohio Secretary of State filings, court dockets and regulatory records."
+    },
+    {
+      "title": "Healthcare provider and vendor checks",
+      "text": "Research into physician practices, health technology companies, staffing agencies and vendors that work with Cleveland's hospital systems, covering ownership, licensing and exclusion history, litigation and adverse media, to support contracting, investment, vendor onboarding and compliance reviews."
+    },
+    {
+      "title": "Insurance fraud and claims research",
+      "text": "Lawful background and asset research supporting insurers and counsel investigating suspected fraud in commercial, property and casualty claims in Northeast Ohio, with field inquiries carried out by Ohio-licensed investigators where needed and documented for use in litigation."
+    },
+    {
+      "title": "Litigation support in Ohio courts",
+      "text": "Witness location, background research on parties and experts, and fact development for counsel in commercial, product liability and employment cases before the federal court in Cleveland and the Cuyahoga County Court of Common Pleas, scoped to fit discovery deadlines and privilege."
+    },
+    {
+      "title": "Asset tracing in Cuyahoga County",
+      "text": "Identification of real property, business interests and LLC structures connected to a judgment debtor in Cleveland and surrounding counties, using county property and recorder records, Secretary of State filings and court records, to inform post-judgment discovery and collection strategy."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Courts sitting in Cleveland",
+      "text": "Cleveland is the seat of the United States District Court for the Northern District of Ohio, which hears federal commercial, securities and product liability cases, including large multidistrict proceedings. The Cuyahoga County Court of Common Pleas, the county's general-jurisdiction trial court, hears most state commercial disputes and maintains a commercial docket for qualifying business cases. Appeals from the county go to Ohio's Eighth District Court of Appeals, also in Cleveland."
+    },
+    {
+      "title": "Ohio investigator licensing",
+      "text": "Ohio regulates private investigation under Chapter 4749 of the Ohio Revised Code. Licences are issued through the Private Investigator Security Guard Services program (PISGS), part of Ohio Homeland Security within the Department of Public Safety. Class A licences cover investigation and security, Class B investigation only. Companies must be licensed and insured with a qualifying agent, and their employees registered and background checked. TDSC coordinates Ohio-licensed providers for any field work in the state."
+    },
+    {
+      "title": "Business and property records",
+      "text": "Ohio business entities, including corporations and limited liability companies, are registered with the Ohio Secretary of State, whose filings show registered agents and organisers but often not owners. Real property records for Cleveland are maintained at county level by Cuyahoga County, including deed and mortgage recordings and property tax information, and are important sources for tracing ownership through LLCs and trusts."
+    },
+    {
+      "title": "Federal Reserve and regional finance",
+      "text": "The Federal Reserve Bank of Cleveland, in the city since its building opened in 1923, serves the Fourth Federal Reserve District, covering Ohio, western Pennsylvania, eastern Kentucky and the northern panhandle of West Virginia. KeyCorp is headquartered in Key Tower downtown. Cleveland's banks, insurers and private equity firms are frequent counterparties in lending, acquisition and fraud matters across the Midwest."
+    }
+  ],
+  "tdsc_approach": "For matters touching Cleveland, TDSC starts by fixing the forum and purpose: a federal case in the Northern District of Ohio, a Cuyahoga County proceeding, an acquisition or financing, or post-judgment enforcement. Desk research draws on Ohio Secretary of State filings, Cuyahoga County property and recorder records, federal and state court dockets, regulatory and exclusion lists and open sources, with consumer report and privacy rules such as the Fair Credit Reporting Act applied where relevant. Where interviews, surveillance or other field work is needed in Ohio, TDSC coordinates providers licensed under Ohio Revised Code Chapter 4749 and works with the client's Ohio counsel. TDSC is based in Nashville and has no office in Cleveland.",
+  "faqs": [
+    {
+      "q": "Does field work in Cleveland need an Ohio-licensed investigator?",
+      "a": "Generally yes. Ohio requires companies providing private investigation services to be licensed under Ohio Revised Code Chapter 4749 through the state's PISGS program, and their employees to be registered. TDSC therefore coordinates Ohio-licensed providers for interviews, surveillance and other field inquiries in Cleveland, while desk research is managed from Nashville."
+    },
+    {
+      "q": "Can TDSC support a case in the Northern District of Ohio?",
+      "a": "Yes, as a consultant to counsel. TDSC locates and profiles witnesses, researches parties and experts and develops facts for commercial, product liability and employment cases in the federal court in Cleveland. Counsel controls discovery, privilege and how findings are used, and TDSC documents sources so material can be assessed for evidential use."
+    },
+    {
+      "q": "How does TDSC identify who owns a Cleveland property held by an LLC?",
+      "a": "TDSC combines Cuyahoga County deed, mortgage and tax records with Ohio Secretary of State filings, court records, lending documents and open sources to connect property-holding LLCs to people and companies. Where public records stop short of naming owners, TDSC reports that limit and identifies discovery steps counsel may take."
+    },
+    {
+      "q": "Can TDSC vet a vendor before it works with a Cleveland hospital system?",
+      "a": "Yes. TDSC reviews ownership, corporate history, litigation, regulatory and exclusion records, professional licensing information and adverse media for vendors, practices and health technology firms. The findings support contracting and compliance decisions and do not replace credentialing or regulatory checks the client is required to run."
+    },
+    {
+      "q": "Does TDSC have an office in Cleveland?",
+      "a": "No. TDSC is headquartered in Nashville, Tennessee, and has no office, staff or address in Cleveland or elsewhere in Ohio. Engagements are managed from Nashville, and where Ohio field work is needed TDSC coordinates providers licensed in Ohio under an agreed written scope with the client and its counsel."
+    }
+  ],
+  "sources": [
+    {
+      "title": "HUD, Comprehensive Housing Market Analysis: Cleveland-Elyria, Ohio (2023)",
+      "url": "https://www.huduser.gov/portal/publications/pdf/ClevelandElyriaOH-CHMA-23.pdf"
+    },
+    {
+      "title": "Economy of Greater Cleveland (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Greater_Cleveland"
+    },
+    {
+      "title": "Ohio Revised Code 4749.03, Private investigator and security guard provider licences",
+      "url": "https://codes.ohio.gov/assets/laws/revised-code/authenticated/47/4749/4749.03/9-28-2012/4749.03-9-28-2012.pdf"
+    },
+    {
+      "title": "Ohio Department of Public Safety, PISGS Mid-Week Minute, November 5, 2025",
+      "url": "https://content.govdelivery.com/accounts/OHDPS/bulletins/3f92b19"
+    },
+    {
+      "title": "eInvestigator, How to become a licensed private investigator in Ohio",
+      "url": "https://www.einvestigator.com/how-to-become-a-licensed-private-investigator-in-ohio/"
+    },
+    {
+      "title": "Ohio Department of Public Safety, PISGS provider search",
+      "url": "https://services.dps.ohio.gov/PISGS/Pages/public/ProviderSearch.aspx"
+    },
+    {
+      "title": "Ohio Department of Development, Ohio Major Employers Report",
+      "url": "https://dam.assets.ohio.gov/image/upload/development.ohio.gov/research/obs/Ohio-Major-Employers-Report.pdf"
+    }
+  ],
+  "review_flags": [
+    "City-proper population not stated: Census QuickFacts fetch failed; page uses HUD metro estimate (2.06 million, July 2023).",
+    "Courts (N.D. Ohio seat in Cleveland, Cuyahoga Common Pleas commercial docket, Eighth District Court of Appeals), Secretary of State and Cuyahoga County records, and Fourth District coverage stated from general knowledge, not an opened source.",
+    "Fortune 500 HQ list is from 2019 data via Wikipedia; employer ranks from HUD 2023.",
+    "Ohio Major Employers Report and PISGS provider search seen in search results but not opened."
+  ],
+  "researched": "2026-11-04"
+}

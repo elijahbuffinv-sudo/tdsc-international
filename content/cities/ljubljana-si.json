@@ -1,0 +1,56 @@
+{
+  "slug": "ljubljana-si",
+  "name": "Ljubljana",
+  "cc": "SI",
+  "meta_description": "TDSC investigative consulting in matters touching Ljubljana: acquisition and counterparty diligence, arbitration support and Slovenian ownership research.",
+  "eyebrow": "Ljubljana, Republic of Slovenia",
+  "hero_lede": "Ljubljana is Slovenia's capital and the seat of its government, central bank, stock exchange, business registers and principal courts. TDSC scopes investigative consulting from Nashville for matters touching the city, working from public records and coordinating licensed Slovenian detectives and counsel where local work is required.",
+  "intro": [
+    "Ljubljana is Slovenia's capital and largest municipality, with about 300,000 residents at the start of 2025 according to the Statistical Office. It is the country's administrative, financial and corporate centre. The government, the Bank of Slovenia, the Ljubljana Stock Exchange, the national business register agency AJPES and the highest courts are all located in the city, as are the headquarters of many of Slovenia's largest banks, energy, retail, telecommunications and pharmaceutical groups. Municipal statistics recorded more than 41,000 companies in Ljubljana in 2017. The stock exchange, founded in 1989, has been wholly owned by the Zagreb Stock Exchange since 2015, tying Ljubljana's capital market to the wider Adriatic region.",
+    "Organisations commission investigative work connected to Ljubljana because control of Slovenian business is concentrated there. Foreign investors buying Slovenian companies, many of them formerly state or socially owned, need to understand ownership histories, management networks and related-party dealings. Lenders and funds active in the region assess Ljubljana-based holding companies that control assets across the former Yugoslav markets. Procurement and state-enterprise decisions made in the capital raise integrity and conflict-of-interest questions. Arbitrations seated at the Ljubljana Arbitration Centre, and court proceedings before the District Court of Ljubljana, generate demand for evidence, witness and asset research in Slovenian, English and neighbouring languages."
+  ],
+  "economy": [
+    {"label": "Population", "value": "About 300,350 (municipality, 1 January 2025, SURS)"},
+    {"label": "Region", "value": "Capital of the Osrednjeslovenska (Central Slovenia) statistical region"},
+    {"label": "Key sectors", "value": "Public administration, finance and insurance, energy, retail, pharmaceuticals, ICT, professional services"},
+    {"label": "Companies", "value": "41,708 registered companies (SURS, 2017)"},
+    {"label": "Exchange", "value": "Ljubljana Stock Exchange, owned by the Zagreb Stock Exchange"},
+    {"label": "Registers", "value": "AJPES business register and annual reports, headquartered in the city"},
+    {"label": "Time zone", "value": "Europe/Ljubljana, UTC+1 (UTC+2 in summer)"},
+    {"label": "Languages of business", "value": "Slovenian; English widely used; Croatian, Serbian and German in regional trade"}
+  ],
+  "matters": [
+    {"title": "Privatisation-era ownership diligence", "text": "Many Ljubljana groups emerged from privatisation and later restructurings, leaving complex histories of management buyouts, holding companies and state stakes. We reconstruct ownership chains from the business register, annual reports, court records and Slovenian media to identify related parties and legacy disputes before a transaction."},
+    {"title": "Regional holding company reviews", "text": "Ljubljana-based groups often control subsidiaries in Croatia, Serbia, Bosnia and Herzegovina and North Macedonia. We map these structures across national registers, identify cross-border related parties and adverse media in local languages, and highlight where control or financing is unclear."},
+    {"title": "State enterprise and procurement integrity", "text": "Decisions on public procurement and state-owned companies are taken in the capital. Bidders and investors need assurance about partners, consultants and subcontractors. We review ownership, prior contracts, litigation and press coverage to identify conflicts of interest and links to politically exposed persons."},
+    {"title": "Arbitration and court evidence support", "text": "Commercial disputes involving Slovenian parties are often arbitrated at the Ljubljana Arbitration Centre or litigated before the District Court of Ljubljana. We support counsel with party and witness backgrounds, corporate chronologies and asset indicators, organised for use in Slovenian proceedings."},
+    {"title": "Asset tracing and recovery", "text": "Creditors pursuing Ljubljana debtors need to know what companies, real estate and movable assets exist. We combine business register data, annual reports, land register extracts and lien registers with insolvency notices to identify recoverable assets and transfers that may warrant challenge."}
+  ],
+  "local_context": [
+    {"title": "District Court of Ljubljana", "text": "The District Court of Ljubljana hears major commercial disputes and keeps the court register for companies seated in its area. Under the Slovenian Arbitration Act it also decides on annulment of arbitral awards, declares domestic awards enforceable, recognises foreign awards and can assist tribunals in taking evidence. The Higher Court in Ljubljana hears appeals, and the Supreme Court sits in the city."},
+    {"title": "Ljubljana Arbitration Centre", "text": "The Ljubljana Arbitration Centre is organised within the Chamber of Commerce and Industry of Slovenia and is the country's central arbitration institution, tracing its roots to a tribunal set up by the Ljubljana Chamber of Trade, Craft and Industry in 1928. Its current rules took effect on 1 January 2014 and include emergency arbitrator and expedited procedures; Lex Mundi reports an average proceeding length of about 264 days."},
+    {"title": "AJPES registers", "text": "AJPES, headquartered in Ljubljana, manages the Slovenian Business Register, of which the court register is part, and publishes registered entries online. It also publishes annual reports of companies, cooperatives and sole proprietors free of charge, and keeps the public Register of Non-Possessory Liens and Seized Movable Property. These sources make Slovenian corporate research comparatively transparent, though AJPES does not verify the substance of lien entries."},
+    {"title": "Capital market and supervisors", "text": "The Ljubljana Stock Exchange, at Slovenska cesta 56, operates a regulated market and an MTF, SI ENTER, with prime, shares, debt and sustainable financing segments. The Bank of Slovenia and the Securities Market Agency are also based in the city. Issuer disclosures and supervisory decisions are useful sources when researching listed Slovenian companies, their major shareholders and changes in control over time."}
+  ],
+  "tdsc_approach": "TDSC has no office in Ljubljana and works on Ljubljana matters from Nashville. We begin by agreeing purpose and scope with the client and Slovenian counsel, whether an acquisition, a regional holding company review, a procurement integrity check or support for proceedings before the Ljubljana Arbitration Centre or District Court. Research draws on AJPES register data and annual reports, court and land registers, issuer disclosures and Slovenian and regional media. Where local enquiries are needed, we coordinate detectives licensed by the Detective Chamber of Slovenia, working with counsel and within GDPR and Slovenian data protection rules. We do not use pretexting or obtain restricted records.",
+  "faqs": [
+    {"q": "Are Ljubljana company accounts publicly available?", "a": "Yes, largely. AJPES publishes annual reports of Slovenian companies, cooperatives and sole proprietors on its website free of charge, and business register entries are published once registered. This allows financial and ownership trends to be tracked over several years. We combine these filings with court, land and lien records to build a complete picture."},
+    {"q": "Where are arbitral awards involving Slovenian parties challenged?", "a": "Under the Slovenian Arbitration Act, the District Court of Ljubljana decides on annulment of awards, declares domestic awards enforceable and recognises foreign awards. Counsel handles those proceedings; we support them with research on parties, assets and witnesses, and with chronologies drawn from public records and media."},
+    {"q": "Can you research subsidiaries of Ljubljana groups in neighbouring countries?", "a": "Yes. Many Slovenian groups own companies in Croatia, Serbia, Bosnia and Herzegovina and other regional markets. We search the relevant national registers and courts and review local-language media, coordinating licensed professionals in each country where on-the-ground work is required, and report where records are incomplete."},
+    {"q": "Can a lender check whether movable assets in Ljubljana are already pledged?", "a": "AJPES keeps a public Register of Non-Possessory Liens and Seized Movable Property, which shows registered pledges and seizures over movable assets. AJPES does not examine whether entries are justified, so findings should be confirmed against loan documents and court records. We include these searches in asset and counterparty reviews."},
+    {"q": "Does TDSC have a presence in Ljubljana?", "a": "No. TDSC has no office, staff or address in Slovenia. We work on Ljubljana matters from Nashville through scoped engagements and, where local work is required, coordinate detectives licensed in Slovenia and the client's Slovenian counsel. We do not hold Slovenian licences, access restricted systems or provide legal advice."}
+  ],
+  "sources": [
+    {"title": "City of Ljubljana: Ljubljana in figures", "url": "https://www.ljubljana.si/en/about-ljubljana/ljubljana-in-figures"},
+    {"title": "City Population: Ljubljana municipality (SURS data, 2025)", "url": "https://citypopulation.de/de/slovenia/osrednjeslovenska/061__ljubljana/"},
+    {"title": "Ljubljana Stock Exchange: General information", "url": "https://ljse.si/en/about-us/695"},
+    {"title": "AJPES: Tasks", "url": "https://www.ajpes.si/About_AJPES/Tasks"},
+    {"title": "Lex Mundi Global Arbitration Institutions Guide: Slovenia", "url": "https://www.lexmundi.com/guides/arbitration-institutions-guide/jurisdictions/europe/slovenia/"},
+    {"title": "Aceris Law: Ljubljana Arbitration Centre at the Slovenian Chamber of Commerce and Industry", "url": "https://www.acerislaw.com/ljubljana-arbitration-centre-slovenian-chamber-commerce-industry/"}
+  ],
+  "review_flags": [
+    "Population 300,354 (1 Jan 2025) is SURS data via citypopulation.de; the city's own page only gives 2019 figures. Company count (41,708) is 2017.",
+    "Stated from background knowledge, not verified in fetched sources: Zagreb Stock Exchange acquisition year (2015), Higher Court and Supreme Court in Ljubljana, Bank of Slovenia and Securities Market Agency HQ, sector list, privatisation-era characterisation, regional subsidiary patterns."
+  ],
+  "researched": "2026-11-04"
+}

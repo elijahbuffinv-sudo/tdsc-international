@@ -1451,12 +1451,58 @@ Items researchers could not verify from an opened source. Not published on the s
 - ADGM extension to Al Reem Island is inferred from an ADGM site navigation item ('Al Reem Expansion') seen in search results; confirm scope and date.
 - Population is the emirate (all three regions), not the city alone; SCAD 2024 figure. A 2025 SCAD update exists (dge.gov.ae) but was not opened.
 
+## Accra (GH) — 5 sources
+- Population is for the Greater Accra Region (5,455,692 final 2021 census via Wikipedia; Daily Graphic gives provisional 5,446,237). No Accra Metropolitan figure verified.
+- Not verified from a source: Tema port's container role, Kotoka airport name, Ghana Stock Exchange/Bank of Ghana/SEC/NIC and anti-corruption bodies being in Accra, and the commercial division's principal sittings being in Accra. All general knowledge; confirm.
+- Free zones body: OBG 2020 says Ghana Free Zones Board (Act 1995); it may since have become the Ghana Free Zones Authority. GIPC Act may have been replaced; page avoids minimum capital figures.
+- Only five sources; consider adding a Ghana Statistical Service or Judicial Service page.
+
+## Adelaide (AU) — 6 sources
+- No ABS or World Bank Greater Adelaide population found in searches; page uses City of Adelaide LGA figures (27,901 residents, 169,940 workers, NIEIR via economy.id). Consider adding the ABS Greater Adelaide GCCSA figure.
+- Submarine yard (30 billion dollars) and 165,000 residents by 2030 come from Ray White Commercial (Mar 2026) and Defence SA; not primary Commonwealth sources.
+- South Australian surveillance legislation (Surveillance Devices Act 2016, not named in copy) stated from background knowledge, not verified this session.
+- Stated from background knowledge, not verified this session: court hierarchy and Federal Court Adelaide registry, copper/uranium and wine/agribusiness sectors, Edinburgh defence precinct, Australia/Adelaide time offsets.
+- SA Security and Investigation Industry Act PDF listed from search results only; Act name confirmed via SAPOL page.
+
+## Ahmedabad (IN) — 6 sources
+- Population: city 5,577,940 from Wikipedia infobox (believed Census 2011, not explicitly tied); district 'more than seven million' from India Briefing (2022, undated). Confirm against Census of India; no newer census published.
+- Gujarat High Court, NCLT Ahmedabad bench, ROC Ahmedabad, commercial courts in Ahmedabad and SVPI airport name are general knowledge, not sourced in this file.
+- Gujarat Private Security Agencies Rules: the 2007 rules were opened; a 2024 version appeared only in search results (not opened). Confirm which rules are current. GIFT City overview PDF and Simpliance were not opened.
+
+## Algiers (DZ) — 6 sources
+- Population is a 2015 wilaya figure from the El Mouchir investment portal; no ONS or World Bank figure appeared in results. The 40% of companies / 25% of GDP figures come from a careers guide (Africarrières), not an official source.
+- Centre algérien de règlement des différends was announced by the Algiers Bar president in February 2026; its legal basis, institutional sponsor and operating status are unconfirmed.
+- CACI training article and Ministry of Commerce CACI page were not opened (only seen in results; the latter is robots-blocked). Headquarters of state enterprises in Algiers, Houari Boumediene Airport and corruption prosecution references are from prior knowledge.
+- Algiers specialised commercial court seat and territorial coverage come from a secondary legal source; confirm against the implementing decree.
+
+## Almaty (KZ) — 7 sources
+- Population (2.39 million, 1 Sept 2026) and GRP share (20.2 percent, H1 2026) from stat.gov.kz; figures update monthly.
+- Stated from background knowledge, not fetched: KASE and ARDFM/National Bank operations in Almaty, specialised interdistrict economic court and Almaty City Court structure, capital move to Astana in 1997. Verify, especially current ARDFM headquarters.
+- Status of the 2006 Regional Financial Center of Almaty law is unclear (database shows amendments to 2017, no repeal shown); page describes it historically only.
+- One source is a blog (fininansist-almaty); KASE and Astana Times URLs from search results, not fetched. Replace weaker sources if possible.
+- Russia diversion/sanctions screening is mentioned; Kazakhstan itself is not a sanctioned jurisdiction.
+
+## Amman (JO) — 6 sources
+- Population 4.64 million (end 2021, DoS via Jordan News) likely refers to Amman Governorate rather than the municipality; not from World Bank or a DoS page directly.
+- Jordan Arbitration Centre: Pinsent Masons (Aug 2026) describes 2026 Arbitration Law amendments partly as draft and says the centre has not opened; location in Amman not confirmed. Recheck status before publishing.
+- Commercial section of the Amman Court of First Instance: Jordan Times article gives no date.
+- Petra centennial article as summarised gave the event date as 10 Feb 2026 despite 1923 founding; centennial date omitted from copy.
+- Stated from background knowledge, not verified this session: Court of Cassation and Court of Appeal location, Central Bank of Jordan, Jordan Securities Commission and Integrity and Anti-Corruption Commission headquartered in Amman, sector list, refugee inflows, Amman as base for Iraq/Syria business.
+- GAR Jordan arbitration source listed from search results only; not opened.
+
 ## Amsterdam (NL) — 8 sources
 - Corrected: removed 'fourth-largest port in Europe'; Wikipedia ranks the Port of Amsterdam 14th in Europe by tonnage, about 63 million tonnes in 2023. The 'fuels and agricultural commodities' wording in matters is only partly supported (fossil fuels yes, agribulk not confirmed).
 - Population changed to 942,504 (CBS figure reported by NH Nieuws, 2 Feb 2026) from 941,873 (Wikipedia); likely provisional, confirm on CBS StatLine. Metro figure (2.48 million) still from Wikipedia.
 - AFM and DNB Amsterdam headquarters and twin peaks roles now sourced (Wikipedia, Baker McKenzie).
 - Netherlands Arbitration Institute deliberately not placed in Amsterdam; no Amsterdam-specific arbitration centre named.
 - Licensing and privacy code reference relies on the NL country page, whose Wpbr details are themselves flagged as unverified; Enterprise Chamber details rest on Chambers guide only.
+
+## Antwerp (BE) — 6 sources
+- No Statbel or World Bank population figure appeared in searches; page omits a population figure. Add Statbel city figure.
+- Diamond sector content (diamond district, AWDC, EU/G7 Russian diamond restrictions) is from background knowledge; no source found within search budget. Verify before publishing.
+- Stated from background knowledge, not fetched: Court of Appeal of Antwerp territory, Port of Antwerp-Bruges ownership structure, chemicals cluster size. Port ownership (cities of Antwerp and Bruges) in particular should be checked.
+- Cocaine seizure figures: 2023 record 121 tonnes and H1 2024 22,276 kg per Brussels Times (July 2024); newer figures likely exist (Belga 55 tonnes headline in search results, not fetched).
+- Bloomberg, Belga and court FAQ URLs are from search results, not fetched.
 
 ## Athens (GR) — 7 sources
 - Population is from the 2021 census as reported by EMTA (preliminary, 3,722,544 metro) and Anadolu (Attica nearly 3.8 million); no ELSTAT page was opened. EMTA's City of Athens municipal figure (996,283) looked inconsistent and was not used.
@@ -1475,6 +1521,25 @@ Items researchers could not verify from an opened source. Not published on the s
 - Commercial List start date described as 'expected October 2025' (Law Society, June 2025); confirm it is operating and current entry criteria (NZ$1 million threshold) from the practice note.
 - Auckland Council property information/consent records and widespread use of family trusts are stated from general knowledge, not an opened source.
 - NZDRC/NZIAC relationship stated per NZDRC page ('part of The ADR Centre'); confirm wording.
+
+## Austin (US) — 6 sources
+- No Census city-level population appeared in searches; page uses HUD metro estimate (2.56 million, 1 January 2025). Add Census city figure if desired.
+- Samsung employee counts conflict: Dallas Fed cites about 14,000; Samsung's own 2024 impact report cites 4,907 at Austin and 1,110 at Taylor. Page avoids a Samsung headcount.
+- Stated from background knowledge, not fetched: Western District of Texas Austin Division, Travis County district courts, DPS headquarters in Austin, Chapter 1702 licensing details, Secretary of State/Comptroller records, county clerk and appraisal district arrangements.
+- Lloyd Gosselink reports Bastrop County was recently added to the Third Division; not stated on page. Reed Smith URL is from search results, not fetched.
+
+## Baku (AZ) — 7 sources
+- Population 2,344,900 (2024) is the State Statistics Committee figure as cited on Wikipedia; stat.gov.az not opened.
+- Baku Commercial Court as general first-instance business court and SOCAR/Central Bank HQ in Baku are background knowledge; sources confirm only its arbitration-support role.
+- Alat free trade zone: OECD confirms a non-oil free trade zone at Alat; its separate legal, court and arbitration regime was not researched and the text only advises checking with counsel.
+- The Baku Arbitration Centre is new (inaugurated October 2025); caseload and practice should be re-checked.
+- Press freedom and civil-society restrictions in Azerbaijan may affect source-gathering and interviews; human review of tone advised.
+
+## Baltimore (US) — 6 sources
+- Metro population (2.83 million) is HUD as of September 2023; no newer metro figure was found. City population 573,243 (2024) from Maryland Commerce.
+- Title 13 PDF and Johns Hopkins fact sheet appeared in search results but were not opened; cited for existence only.
+- Stated from background knowledge, not verified in fetched sources: Business and Technology Case Management Program, District of Maryland seats (Baltimore/Greenbelt), Maryland Judiciary Case Search, Maryland Port Administration, SDAT entity search contents, land records via Circuit Court clerk.
+- Francis Scott Key Bridge collapse (March 2024) and related federal limitation proceedings deliberately not mentioned; consider whether a reference is wanted.
 
 ## Bangkok (TH) — 6 sources
 - No National Statistical Office or World Bank population source surfaced; Bangkok figure (5,527,994 registered, DPA 2022) and BMR figures (about 17 million, roughly half of GDP FY2022) come from Wikipedia, which notes internal inconsistencies - verify against NSO/NESDC.
@@ -1500,6 +1565,12 @@ Items researchers could not verify from an opened source. Not published on the s
 - Commercial register location (attached to Beirut court of first instance) relies on the LB country file. GAR and Byblos Bank pages seen in search results only.
 - Security situation and sanctions designations affecting Lebanon change frequently; review before publication.
 
+## Belfast (GB) — 6 sources
+- Population (about 345,000, 2021 census) is from prior knowledge; the Belfast City Council infographic that appeared in results could not be opened (robots disallowed) and no NISRA page was retrieved. Verify against NISRA.
+- Economic figures (900 international companies, 70% of seaborne trade) are 2021 promotional figures reported by Investment Monitor.
+- Companies House Belfast office, Land and Property Services (Land Registry and Registry of Deeds), airports and the statement that Belfast lacks a dedicated arbitral institution are from prior knowledge; verify.
+- Organised crime and paramilitary sector references are general and unsourced in this session; legal review advised before publication.
+
 ## Belgrade (RS) — 7 sources
 - Population is from citypopulation.de citing the Serbian Statistical Office; the official census brochure appeared in results but was not opened.
 - GDP share (40%, 2022) and sector employment come from Wikipedia's Economy of Belgrade page.
@@ -1519,10 +1590,26 @@ Items researchers could not verify from an opened source. Not published on the s
 - Whether Berlin has set up a Commercial Court/English-language chambers under the 2024 Justizstandort-Staerkungsgesetz is unverified; copy tells readers to check.
 - Economic and VC figures come from the State of Berlin's own investor presentation, which disclaims accuracy.
 
+## Bilbao (ES) — 6 sources
+- Population (about 345,000, INE 2024) is from background knowledge; no INE/Eustat population figure was opened (Deia result failed to load). Verify before publishing.
+- Arbitration rules described are from the Chamber's 2005/2006 bylaws document; a 2021 rules PDF appeared in results but was not opened. Confirm current rules (e.g. six-month award period).
+- Stated from background knowledge, not verified in fetched sources: TSJ País Vasco seat, Bilbao commercial courts and Provincial Court of Bizkaia, Mercantile Registry of Bizkaia, foral tax/Economic Agreement, Basque Data Protection Authority remit, Ertzaintza role, Sener/Gestamp as Bizkaia groups.
+
+## Birmingham (GB) — 7 sources
+- Population is the 2021 Census figure (1,144,900) from a city council fact sheet; no ONS mid-year estimate appeared in searches. Consider updating to the latest ONS mid-year estimate.
+- Description of Circuit Commercial Court business (contract, banking, injunctions including freezing orders) is based on general knowledge of the Circuit Commercial Court Guide; the judiciary pages were seen in search results but the specific page text was not opened. Verify.
+- Claim that Birmingham has the largest concentration of legal and accounting firms outside London is an editorial inference from TheCityUK's BPFS ranking; the Colmore business district is named from general knowledge.
+- Airport, HS2 and Birmingham City Council's financial position were deliberately omitted for lack of sources opened.
+
 ## Bogotá (CO) — 6 sources
 - No DANE city population figure appeared in searches; the page uses the Bogotá Cómo Vamos projection (peak just under 8 million) as reported by Portafolio. Replace with the DANE projection for 2025/2026 if available.
 - Stated from background knowledge, not verified in fetched sources: high courts and Superior Tribunal in Bogotá, Supersociedades judicial/insolvency functions and Superfinanciera HQ, CCB registry certificate contents and SAS shareholder disclosure limits, Bogotá property registration offices under the SNR, El Dorado airport.
 - CCB arbitration figures (1,339 awards, 12-17 months) are the CCB board's own statements reported in November 2024.
+
+## Bologna (IT) — 6 sources
+- Only metropolitan-city population (1,022,338, 2024, via Invest in Emilia-Romagna) was found; the comune of Bologna (roughly 390,000) is not stated. Confirm with ISTAT.
+- That Bologna's tribunal has a business section (sezione specializzata in materia di impresa) and the Court of Appeal district covering Emilia-Romagna are general knowledge; the source opened confirms only the 2012 reform, not the city list.
+- Marchesini, Marconi airport name, 55 municipalities and organised-crime FAQ are general knowledge. Bologna Welcome and Citta metropolitana sources appeared in search results but were not opened.
 
 ## Boston (US) — 6 sources
 - Census QuickFacts page could not be fetched; the 673,822 (2024) figure is taken from the City of Boston FY27 budget document citing Census estimates. A Vintage 2025 Census figure may now exist; verify.
@@ -1540,6 +1627,11 @@ Items researchers could not verify from an opened source. Not published on the s
 - PI licence application page could not be fetched (URL too long); Security Providers Act 1993 and Office of Fair Trading role confirmed from search results and the ongoing-requirements page.
 - Stated from background knowledge, not verified this session: Queensland listening device law (Invasion of Privacy Act 1971, not named in copy), Queensland Titles Registry and Torrens system, Federal Court Brisbane registry, court hierarchy, resources companies headquartered in Brisbane, phoenixing and builder insolvency trends.
 - QGSO projections PDF and Security Providers Act PDF listed from search results only; not opened.
+
+## Bristol (GB) — 6 sources
+- GDP 22.8bn pounds (2023), port tonnage and Imperial Tobacco HQ come from Wikipedia 'Economy of Bristol', parts of which are flagged as outdated; Imperial Brands HQ and port figures should be confirmed.
+- BPC Bristol launched alongside Cardiff and regional reach (South West) inferred from search result titles (St John's Chambers, not opened); TCC Bristol page not opened. Register of Overseas Entities, Insolvency Service and Land Registry statements are general knowledge consistent with countries/GB.json.
+- Airbus 442m pound contribution and 2,700+ Filton staff: article undated (R&D figures from 2022).
 
 ## Brussels (BE) — 6 sources
 - Brussels International Business Court: sources opened only show the 2017 plan and a later bill amendment; the statement that it did not become an operating court is from general knowledge and phrased cautiously. Verify.
@@ -1578,6 +1670,18 @@ Items researchers could not verify from an opened source. Not published on the s
 - No named arbitration institution in Calgary verified; local_context arbitration item kept general.
 - Court of King's Bench details from Wikipedia only; no commercial list or specialised commercial practice verified.
 
+## Cali (CO) — 6 sources
+- Population (2,277,296, 2025) is a DANE projection taken from a third-party site (Telencuestas); confirm on dane.gov.co.
+- 3.4% growth figure is Q2 2025 year-on-year (municipal IMAE as reported by Portafolio), not full-year 2025.
+- Stated from background knowledge, not verified in fetched sources: Superior Tribunal of the Judicial District of Cali, metro municipalities listed, free trade zones in Cali-Yumbo-Palmira, SNR property registration, SAS shareholder disclosure limits.
+- Agro-industry (23%) and industry (15%) shares are Valle del Cauca figures stated by the governor in 2023 (La República).
+
+## Cape Town (ZA) — 7 sources
+- Population 4,772,846 (Census 2022) is from a Cape Argus report, not a Stats SA page directly.
+- Cape Town Deeds Registry, Master of the High Court trust records and Cape Town Labour Court sitting are stated from prior knowledge or a single law-firm guide; confirm.
+- Litigation timelines (18-36 months) come from a single law-firm guide (VLO).
+- BusinessTech and Wikipedia sources appeared in search results but were not opened; Naspers is named on the City of Cape Town page.
+
 ## Caracas (VE) — 6 sources
 - SANCTIONS: status as of sources dated May and August 2026 (GLs 46-58, 5X; reaffirmation August 2026). Re-check OFAC's Venezuela page before publishing; confirm whether EO 13884 Government of Venezuela blocking remains and whether the US-law governing-law condition still applies (country page says it was removed by September 2026; Foley August 2026 still describes it). Copy hedges this.
 - Political context: intro states Maduro was captured in a January 2026 US operation in Caracas, per Blank Rome/JD Supra; editorial decision needed on whether to include, and on describing the current government.
@@ -1592,16 +1696,33 @@ Items researchers could not verify from an opened source. Not published on the s
 - Location of Casablanca Commercial Court of Appeal relies on the MA country file; Aceris says CIMAC focuses on Middle East disputes while CGEM says Morocco/Africa - text follows CGEM.
 - Bank Al-Maghrib and AMMC (both Rabat-based) intentionally not presented as Casablanca institutions.
 
+## Changchun (CN) — 6 sources
+- GDP 763 billion yuan from Wikipedia infobox with no year stated; population is 2020 census (9.07 million). No official Changchun statistical bulletin opened - update with latest year figures.
+- Changchun IP Court: launch date inferred from a China Daily article dated 11 January 2019 ('recently launched'); confirm exact date and whether it is the IP tribunal of the Changchun Intermediate People's Court.
+- Changchun Arbitration Commission not verified in any source, so not named on the page.
+- Gasgoo article seen in search results but not opened. Enterprise credit system description is general knowledge.
+
 ## Changsha (CN) — 6 sources
 - Population 10.72 million (2025) comes from a JETRO summary that does not say whether it is permanent or registered population; no Changsha statistics bureau figure was found.
 - Wikipedia page on the China-Africa Expo carries an AI-generated deletion notice; edition dates partly corroborated by China Services Info headlines seen in search results only.
 - No Changsha arbitration institution was verified in searches, so none is named; Hunan FTZ Changsha Area launch date and size not verified and omitted.
 - 'Provincial capital institutions' item (Hunan courts and regulators sitting in Changsha) rests on Changsha's status as provincial capital rather than a cited source; Changsha IP Court jurisdiction scope not confirmed.
 
+## Charlotte (US) — 6 sources
+- Population figures (964,784 for 2025; metro about 2.88 million; CSA 3.47 million for 2024) are via Wikipedia, which itself showed conflicting metro numbers; Census QuickFacts and HUD sources appeared in search results but were not opened.
+- Stated from background knowledge, not verified this session: North Carolina Business Court having a judge in Charlotte, Western District of North Carolina sitting in Charlotte, Secretary of State Business Registration Division record content, Mecklenburg Register of Deeds, NC Commissioner of Banks role.
+- Duke Energy headquarters in Charlotte is background knowledge; the Wikipedia fetch only called it a major energy player.
+
 ## Chengdu (CN) — 5 sources
 - Population (21.474 million, 2024) is from JETRO, not the Chengdu Bureau of Statistics directly; JETRO's own comparison table shows 21.27 million.
 - Chengdu Arbitration Commission and the role of district/municipal market regulation bureaus are stated generically from background knowledge, not fetched.
 - Electronics output claims (iPads, laptops) are officials' statements via Xinhua for Chengdu and Chongqing combined; page text keeps them generic.
+
+## Chennai (IN) — 6 sources
+- Population uses the 2011 Census (latest full census; 2027 census pending), via a Wikipedia mirror; no World Bank or recent official city estimate found.
+- Madras High Court Arbitration Centre: Legally India page appeared in results but could not be fetched (robots); existence and rules stated from general knowledge.
+- Registrar of Companies Chennai, MCA21, SBO non-public status, Tamil Nadu land record arrangements, Kattupalli port and Oragadam belt rely on general knowledge and older sources (India Briefing 2013); automotive share figures not quoted.
+- Absence of a Tamil Nadu investigator licensing statute is inferred (none identified), not confirmed by a source.
 
 ## Chicago (US) — 5 sources
 - Population figure (2,731,585) is from a FOX 32 news report citing Census Bureau Vintage 2025 data, not the Census site directly; the article contains an internal inconsistency. Verify against census.gov.
@@ -1616,10 +1737,33 @@ Items researchers could not verify from an opened source. Not published on the s
 - Export control/sanctions matter is generic risk framing; no Chongqing-specific listed entities were researched.
 - Liangjiang introduction and CGTN pages listed from search results only; not opened.
 
+## Cincinnati (US) — 6 sources
+- Population figures (city about 311,000; metro 2,130,151) are from the Cincinnati visitor bureau page, which gives no year and is not a Census Bureau source. Verify against census.gov.
+- Stated from background knowledge, not verified in sources: Hamilton County Court of Common Pleas and Ohio commercial dockets, First District Court of Appeals, Southern District of Ohio, Sixth Circuit seat in Cincinnati, Ohio Secretary of State and Hamilton County Recorder/Auditor records, Kentucky and Indiana licensing requirements (kept generic). Ohio recording law was deliberately not described.
+- Wikipedia company list, REDI Cincinnati and Zenind were search results only, not opened.
+
+## Cleveland (US) — 7 sources
+- City-proper population not stated: Census QuickFacts fetch failed; page uses HUD metro estimate (2.06 million, July 2023).
+- Courts (N.D. Ohio seat in Cleveland, Cuyahoga Common Pleas commercial docket, Eighth District Court of Appeals), Secretary of State and Cuyahoga County records, and Fourth District coverage stated from general knowledge, not an opened source.
+- Fortune 500 HQ list is from 2019 data via Wikipedia; employer ranks from HUD 2023.
+- Ohio Major Employers Report and PISGS provider search seen in search results but not opened.
+
+## Colombo (LK) — 6 sources
+- Population is the 2011 census city figure (753,000) via Wikipedia; no World Bank or newer national statistics figure for Colombo appeared in searches. Metro 'above 5 million' is a Wikipedia estimate citing 2013 sources.
+- Port throughput figures found were from 2008 only, so no current TEU numbers are given; 'leading transshipment hub' is general.
+- Colombo Financial Zone law (announced September 2023) not confirmed as enacted; Port City ICDRC status rests on a law-firm commentary, not an official source.
+- Commercial High Court, SLNAC and ICLP centre details rely on the LK country page rather than city-specific sources fetched here; SriLankaLaw statute page appeared in search results but was not opened.
+
 ## Copenhagen (DK) — 6 sources
 - Population (667,124, 1 Jan 2025) comes via citypopulation.de citing the City of Copenhagen statistics bank, not Statistics Denmark directly; verify.
 - City Court of Copenhagen, Eastern High Court and Supreme Court locations, Finanstilsynet HQ, Nasdaq Copenhagen, Copenhagen Airport as largest Scandinavian hub, Medicon Valley and foundation-ownership characterisation are from prior knowledge, not opened sources. Verify before publication.
 - Maritime and Commercial High Court location in Copenhagen is from prior knowledge; the pages opened did not state it. Chambers pages listed as sources appeared in search results but were not opened.
+
+## Dakar (SN) — 7 sources
+- Population (3,896,564, Dakar Region, 2023 census) is taken from Wikipedia citing the census, not ANSD directly; no Dakar city/department figure was obtained.
+- Port figures (24 million tonnes, 19 percent of GDP) come from a study presented by the port's staff association and reported by Le Soleil; they are not official statistics.
+- Stated from background knowledge, not verified in sources: Senegal's oil and gas development (kept generic), Mali transit trade, CFA franc, CAMC-D being attached to the Dakar Chamber of Commerce (supported by GAR search result title and country page, not opened), Wolof as a business language, presence of regional and international organisations in Dakar (kept generic).
+- Chambers guide gives inconsistent descriptions of the court competent for annulment and exequatur; page follows its statement that the Commercial Court of Dakar acts as supporting and enforcement judge. Confirm with Senegalese counsel.
 
 ## Dalian (CN) — 6 sources
 - No population figure could be verified within the search budget (an implied ~7.5 million from GDP per capita is a calculation, not used). Economy item says 'not independently verified'; a human should add an official figure or drop the row.
@@ -1633,11 +1777,32 @@ Items researchers could not verify from an opened source. Not published on the s
 - Stated from background knowledge, not fetched: Northern District of Texas Dallas Division, Texas Secretary of State and Comptroller public information reports, Dallas County Clerk and appraisal district, Texas homestead exemptions.
 - Texas Business Court start date given as 1 September 2024 per Foley; Reed Smith reports first filings on 3 September 2024.
 
+## Dar es Salaam (TZ) — 7 sources
+- Metro population (about 7.4 million) is from The Citizen; region figure (5,383,728) is NBS 2022 census via a Wikipedia mirror and citypopulation.de.
+- Background knowledge, not sourced: port serving Zambia/DRC/Rwanda transit, Tanzania Ports Authority role and politically sensitive terminal concessions (e.g. the 2023 DP World arrangement), Bank of Tanzania and BRELA HQ in Dar, Julius Nyerere International Airport, Land/Labour Division seats in Dar.
+- Arbitration text kept generic; Tanzania Institute of Arbitrators and Tanzania Arbitration Centre not verified.
+- Political and security conditions since the October 2025 elections should be reviewed before publishing (carried over from TZ country page).
+- Global Law Experts page appeared in results but was not opened.
+
 ## Denver (US) — 6 sources
 - Population (715,522, 2020 Census) and metro figure (~3 million) are from background knowledge; no Census or World Bank result appeared in searches. Verify against census.gov and update to a current estimate.
 - Industry cluster facts come from an undated (c. 2015) Denver Chamber page and older news/trade articles; consider a current Metro Denver EDC source.
 - Stated from background knowledge, not fetched: Denver District Court as Second Judicial District, Tenth Circuit headquarters, Colorado Privacy Act and AG enforcement, one-party consent recording rule, Denver Clerk and Recorder, Secretary of State search content, DIA hub status.
 - PI licensing based on 2020 Justia statute text and a secondary guide; confirm current Article 160 status (sunset review) with DORA.
+
+## Detroit (US) — 7 sources
+- Population ~649,000 comes from CBS Detroit reporting of the 2025 Census estimate (rounded); 645,705 is the prior estimate per City of Detroit. Census QuickFacts could not be fetched; confirm exact figure.
+- Michigan specialised business dockets, Third Circuit Court details, Eastern District of Michigan, Wayne County Register of Deeds and LARA entity search contents are from background knowledge, not fetched sources.
+- Wayne County Prosecutor, SFA bill summary and RSQE forecast seen only as search results (not opened); the prosecutor 'union and automotive sector' corruption reference is background knowledge.
+- Gordie Howe International Bridge deliberately not mentioned; its opening status was not verified.
+
+## Dhaka (BD) — 8 sources
+- No Dhaka city or metro population figure was verified (web fetch limit reached); economy row uses the national World Bank figure from the BD country page. Add a BBS census figure.
+- Locations of RJSC head office, Bangladesh Bank, BSEC, Hazrat Shahjalal airport and the Gazipur/Savar/Narayanganj industrial belt are stated from prior knowledge, not sources opened.
+- Money loan courts (Artha Rin Adalat) and High Court Division role in arbitration stated from prior knowledge; Chambers practice guide fetch was blocked.
+- UNB, trade.gov, DCCI and Wikipedia URLs appeared in search results only and were not opened; the DSE-BGMEA cooperation is inferred from the UNB headline.
+- DCCI 56% and 58.6% figures refer to businesses participating in DCCI's survey, not to Dhaka's GDP.
+- Political context since 2024 deliberately omitted; review whether the page needs a note on the political transition.
 
 ## Doha (QA) — 6 sources
 - Population: no Doha-specific figure was found in searches; the page uses Qatar's 2025 World Bank figure (2.97 million) taken from the QA country page and states that most residents live in Doha. The World Bank URL is not listed in sources because it was not opened in this session. Add a Planning and Statistics Authority figure for Doha municipality if wanted.
@@ -1663,11 +1828,23 @@ Items researchers could not verify from an opened source. Not published on the s
 - Not verified from an opened source: Regional Court and Higher Regional Court Düsseldorf patent jurisdiction and caseload, commercial register at Amtsgericht Düsseldorf, NRW data protection commissioner (LDI NRW) seat, name of the Düsseldorf stock exchange (Börse Düsseldorf).
 - IHK and JETRO pages seen only in search results; IHK foreign-companies page fetch failed.
 
+## Edinburgh (GB) — 6 sources
+- Population (530,680, 2024) is via Wikipedia; the Council's Edinburgh by numbers file returned binary data and could not be read. Verify against National Records of Scotland.
+- Stated from background knowledge, not verified this session: Court of Session commercial court and Parliament House, High Court of Justiciary, Arbitration (Scotland) Act 2010 and Scottish Arbitration Centre, Registers of Scotland HQ, Companies House Edinburgh office, Accountant in Bankruptcy, ECCTA 2023 reforms to Scottish limited partnerships and their use in money laundering.
+- UK PI licensing statement relies on the GB country page (as of 2025).
+
 ## Frankfurt am Main (DE) — 5 sources
 - Population is end-2023 city figure (770,166); a newer end-2024 or 2025 figure likely exists on statistikportal.frankfurt.de.
 - Gibson Dunn and Hessian Finance Ministry pages were seen only in search results, not opened.
 - Not verified from an opened source: Handelsregister kept by Amtsgericht Frankfurt am Main, Hessian Commissioner for Data Protection (HBDI) in Wiesbaden as private-sector supervisor, Frankfurt Stock Exchange/Deutsche Borse, airport status, BaFin's Frankfurt presence (BaFin is split between Bonn and Frankfurt).
 - AMLA direct supervision start date (expected 2028) not stated in copy; check AMLA's operational status before publishing.
+
+## Fuzhou (CN) — 8 sources
+- HELD: written from search-result titles only; re-verify before publishing
+- WebFetch hourly limit was reached before Fuzhou research: no page was opened. Sources are search-result titles only; all facts need verification.
+- Population (~8.5 million, 2024) is from general knowledge with no opened source; replace with a Fuzhou or Fujian statistics bureau figure. GDP deliberately omitted.
+- Stated from general knowledge: Fujian Higher People's Court and Fuzhou Intermediate People's Court seats; Xiamen Maritime Court jurisdiction over Fuzhou; Port of Fuzhou terminals (Mawei, Jiangyin); Changle airport; Fuqing/Changle administrative status; sectoral list; Pingtan's place in the FTZ; 2015 FTZ date (Wikipedia title only).
+- Statement that authorities have taken action against business investigation firms mirrors the CN country page flag (unsourced); verify or soften.
 
 ## Geneva (CH) — 6 sources
 - Population (about 639,000, end 2024) is OCSTAT via The Local; the FSO page could not be opened within the rules.
@@ -1676,12 +1853,53 @@ Items researchers could not verify from an opened source. Not published on the s
 - Statement that SA shareholders are generally not shown in the register is general knowledge; federal transparency register status (see CH country flags) may change this.
 - Watchmaking and luxury goods sector listed from general knowledge; S-GE page confirms only finance, commodities, international organisations and high-value services.
 
+## George Town (Penang) (MY) — 7 sources
+- Population (794,313, 2020 census) is DOSM data via a Wikipedia mirror; DOSM not opened.
+- AIAC/Singapore as usual arbitration seats, state land office searches, Penang Development Corporation and MIDA roles are background knowledge; Bayan Lepas FIZ, Chinese Chamber and MIDA pages appeared in results but were not opened.
+- Penang High Court jurisdiction description (civil, winding-up, criminal) is general knowledge; the fetched page confirms location, history and nearby Sessions/Magistrates Courts only.
+- Private Agencies (Amendment) Bill 2025 status (see MY country page) may change licensing terms.
+
+## Glasgow (GB) — 5 sources
+- Population (650,300, 2024) and GDP (£31.8bn, 2023) taken from Wikipedia's Economy of Glasgow page, not National Records of Scotland or ONS directly; metro figure (about 1.8 million) is a mid-2020 figure from Investment Monitor. Verify against NRS.
+- Stated from background knowledge, not verified in sources opened: Registers of Scotland, Land Register and Register of Sasines; Police Scotland and Crown Office and Procurator Fiscal Service; existence of a separate Scottish civil recovery unit; UK Supreme Court as final civil appeal court (from GB country page).
+- Sheriff court thresholds (simple procedure up to £5,000; Court of Session generally £100,000+) come from a debt recovery firm's blog and a 2017 law firm alert; confirm current limits with scotcourts.gov.uk.
+- Transport Scotland source was a search result only and is not relied on for specific figures; no fetched source covered Glasgow Airport or Clydeport details, so these are kept generic.
+
+## Gothenburg (SE) — 6 sources
+- Population (612,231, 2025) is the Gothenburg municipality figure via Wikipedia, not SCB directly; metro 1.08 million (2023) also via Wikipedia.
+- Port share (55 percent of Swedish container traffic) from Invest in Gothenburg without year.
+- Stated from background knowledge, not verified: County Administrative Board and West Sweden Chamber of Commerce in Gothenburg; absence of a Gothenburg arbitral institution and reliance on SCC Stockholm; Swedish public access to court records and that the Court of Appeal for Western Sweden hears appeals from Göteborgs tingsrätt.
+- Business Region Göteborg 2026 PDF appeared in search results but was not opened.
+
+## Guadalajara (MX) — 6 sources
+- Population uses INEGI 2020 census figures as reported on Wikipedia; the IIEG (Jalisco statistics institute) PDF was seen in search results only, not opened.
+- Organised crime penetration of legitimate business in Jalisco is stated generally without a cited source; CJNG and US designations deliberately not named. Review wording.
+- No Guadalajara arbitration centre verified (Lider Empresarial and Milenio pages failed to load; tetakawi.com redirect blocked); Supremo Tribunal and courts sitting in Guadalajara rest on capital status, not a source. Federal courts in Zapopan not verified.
+- IMMEX and FDI figures from a 2022 industrial-park developer overview and may be dated; Guadalajara airport omitted as unverified.
+
 ## Guangzhou (CN) — 6 sources
 - Population (18.97 million, 2024) from a Greater Bay Area promotional site (ourchinastory.com), not Guangzhou Statistics Bureau; GDP figure is 2022 and dated - verify current figures.
 - Guangzhou Maritime Court named from general knowledge; not confirmed in a source opened this session.
 - Port figure is Nansha Port only (20.49 million TEU, 2024), not total Port of Guangzhou throughput.
 - Guangzhou Arbitration Commission figures (27,000 filings in 2025, May 2026 arbitration-centre regulations) from a 2026 PR Wire/Xinhua item via ANTARA - promotional source.
 - Hong Kong government source listed for GBA legal cooperation was seen in search results only, not opened.
+
+## Guatemala City (GT) — 7 sources
+- Population (1,221,739 city, 2023 projection; urban area about 3 million) comes from a Wikipedia mirror, not INE or the World Bank. Replace with an INE figure if available.
+- Lex Mundi arbitration guide was last updated October 2018; CENAC/CRECIG rules (six-month award period, no emergency arbitrator) may have changed.
+- La Aurora International Airport, Registro General de la Propiedad and the Registro Mercantil being headquartered in the capital are stated from general knowledge; sources opened did not name them explicitly (PwC says sociedades anonimas are registered in Guatemala City).
+- GTQ 80,000 first-instance threshold and two-judge Guatemala City courts are from a single law-firm guide; verify against current Organismo Judicial rules.
+
+## Guayaquil (EC) — 7 sources
+- Port details (Posorja terminal, 'main container port'), Provincial Court of Justice of Guayas, canton-level registries in Guayaquil and the Guayaquil securities exchange are from prior knowledge, not pages opened. The Quito and Guayaquil exchanges may have been merged or restructured recently; verify the 'two securities trading centres' wording.
+- GAR page on the CCG arbitration centre failed to load and the CCG centre page was blocked; the centre's existence is confirmed by the CCG services list and GAR search titles only.
+- Population figure is the canton (INEC 2022 via Primicias), not the metropolitan area.
+
+## Haikou (CN) — 6 sources
+- Haikou city population and GDP not found in permitted searches; economy block uses Hainan Province figures (10.55 million, 810.9 billion yuan, 2025) from the 2026 investment guide.
+- Customs launch date 18 December 2025 rests on the September 2025 State Council announcement as reported; CGTN only says 'Thursday'.
+- Hainan International Arbitration Court location (assumed Haikou) and caseload not verified; text says so.
+- Exact formal name and level of the Hainan Free Trade Port IP court (opened January 2021) not confirmed from sources opened.
 
 ## Hamburg (DE) — 7 sources
 - Population: the only figure from a source opened is 1.787 million (end of 2015, Hamburg Chamber of Commerce profile); 'about 1.8 million' should be updated with a current Statistikamt Nord figure (likely around 1.85-1.9 million).
@@ -1700,6 +1918,25 @@ Items researchers could not verify from an opened source. Not published on the s
 - VIAC's Hanoi location, State Bank of Vietnam, State Securities Commission, Hanoi Stock Exchange, Supreme People's Court location, and National Business Registration Portal contents are from general knowledge; not opened from official sources.
 - Hanoi business registration office: the Department of Planning and Investment functions were reportedly merged into the Department of Finance in 2025; page avoids naming the department. Confirm.
 - The Vietnam Briefing article on the 2010 arbitration law and court caseload is dated (c. 2010); caseload described only generally. Check whether arbitration law reform has been enacted since.
+
+## Harare (ZW) — 5 sources
+- Sanctions status as of March 2024 (Treasury JY2154); later US designations/delistings and EU/UK measures not checked. Re-verify before publishing, and confirm legal is comfortable naming designated persons/entities.
+- Not verified from a source: High Court commercial division in Harare, seats of Constitutional/Supreme Courts, Registrar of Companies/RBZ/regulators based in Harare, Zimbabwe Stock Exchange and VFEX (omitted). Arbitration centres not researched (omitted).
+- Population: City of Harare 1,849,600 and Province 2,427,209 from The Herald's report of ZimStat 2022 census (ZimStat not opened directly).
+- Copy relies on general knowledge for tobacco side-marketing and assets moved to South Africa; soften if needed.
+
+## Harbin (CN) — 9 sources
+- HELD: written from search-result titles only; re-verify before publishing
+- WebFetch hourly rate limit was exhausted; no Harbin page was opened. All sources are search-result titles only, and most descriptive facts (industries, courts, FTZ 2019 launch and Harbin area focus, arbitration commission) are from general knowledge. Needs human verification before publication.
+- Population not verified; economy row says so. Add Harbin Municipal Bureau of Statistics or census figure.
+- Sanctions: page states that some Harbin entities and institutions appear on US export control or sanctions lists (e.g. universities on the Entity List) without naming them; confirm wording with compliance. Russia-related sanctions language in tdsc_approach follows COUNTRY_BRIEF rules; review given Russia's sanctioned status.
+- Russia trade figure (2.73 billion yuan, Q1 2023) is from a headline and is dated; consider a more recent figure.
+- FTZ offshore arbitration statement relies on a 2017 HSF headline; scope of offshore arbitration for FTZ companies should be confirmed by counsel.
+
+## Hartford (US) — 6 sources
+- City population (about 122,000, 2025) comes from EBSCO citing Census QuickFacts, not a Census page opened directly; the 2020 census figure was not verified. Metro population and employer list are from HUD's 2017 analysis and are dated (Aetna is now part of CVS Health; UTC Aerospace is now Collins Aerospace).
+- Connecticut Insurance Department, US District Court sessions in Hartford, Bradley International Airport, Secretary of the State business search and town-clerk land records are from prior knowledge, not pages opened.
+- DESPP private detective page was last modified 2019; fees and requirements should be rechecked. CT DECD insurance page redirects to advancect.org, which could not be opened.
 
 ## Hefei (CN) — 6 sources
 - Population (over 10 million, 2024) and GDP from ECNS (state news service), not a statistics bureau release; 2025 figures likely available.
@@ -1724,6 +1961,24 @@ Items researchers could not verify from an opened source. Not published on the s
 - Population figures are Greater Houston Partnership summaries of 2025 Census estimates, not a Census Bureau page directly.
 - Not verified from an opened source: Harris County civil district courts and county clerk record practices; Southern District of Texas sitting in Houston; Texas Data Privacy and Security Act not mentioned and may deserve a line.
 
+## Hyderabad (IN) — 7 sources
+- Population 3,943,323 is a city-area figure from India Briefing with no year (likely the 2011 Census); no World Bank or Census page appeared in searches. Update when India's new census results are published.
+- Dharani replaced under 'Telangana Bhu Bharati' legislation (2025) is stated from prior knowledge; no source opened confirms it. Verify name and status.
+- Telangana High Court, commercial courts, NCLT Hyderabad bench and DRT presence stated from prior knowledge, not confirmed by sources opened.
+- IAMC: LiveLaw says the High Court upheld the Rs 3 crore grant and the directive referring disputes above Rs 3 crore to IAMC; this is reported as such but should be checked against the judgment. IAMC's current operational status was not confirmed (official site blocked fetch).
+- Investment Monitor, Bar and Bench and Business Standard URLs appeared in search results but were not opened.
+
+## Indianapolis (US) — 6 sources
+- City population (887,642, 2020 census) is from Wikipedia, not a Census Bureau page; metro figure is HUD's July 2024 HMA estimate.
+- Marion Superior Court commercial court docket, Southern District of Indiana, Secretary of State business search, Indiana Department of Insurance, IND cargo hub and Unigov consolidation are from prior knowledge, not pages opened. Justia statute page was not opened (fetch rate limit); IC 25-30-1 citation rests on search results.
+- Indiana licensing details come from a law firm blog; confirm against the Professional Licensing Agency before publication.
+
+## Islamabad (PK) — 7 sources
+- City economy description (sectors, telecoms/IT, development community) is from general knowledge; the EUAA page fetched did not include its economic text.
+- Not verified from fetched sources: SECP, NAB headquarters in Islamabad; Islamabad High Court jurisdiction description; accountability courts sitting in Islamabad; Federal Constitutional Court seat (relies on country page's 27th Amendment source). No Islamabad-specific commercial court or arbitration centre was verified, so none is named.
+- Wikipedia and ARY News results appeared in search results but were not opened.
+- Property Verification Centre is from a 2021 Dawn report; current operation not confirmed. E-stamp article dated 4 November 2025 per fetch.
+
 ## Istanbul (TR) — 6 sources
 - Population 15,754,053 now confirmed via Daily Sabah report of TÜİK 2025 address-based results (published 9 Feb 2026); TÜİK release itself not opened. 30% GDP share still from Wikipedia only.
 - Corrected: Istanbul Financial Center is in Finanskent near Ataşehir and hosts the BRSA and Capital Markets Board; sources do not say Borsa Istanbul moved there, so the page no longer says so. Borsa Istanbul's own location still unverified.
@@ -1731,11 +1986,24 @@ Items researchers could not verify from an opened source. Not published on the s
 - Still not verified from an opened source: trade registry operating within the Istanbul Chamber of Commerce; largest concentration of commercial courts; ITOTAM; non-public joint-stock share ledgers.
 - Sanctions and re-export risk language is general; review against current US/EU guidance on Türkiye-routed trade.
 
+## İzmir (TR) — 6 sources
+- Population 4,493,242 is TÜİK end-2024 (via Dünya); end-2025 TÜİK figure (published Feb 2026) not found within search budget. Update if available.
+- 'About half of Aegean regional GDP' from İTB page with no year; trade registry in İzmir and its link to the İzmir Chamber of Commerce, Bayraklı courthouse location and the İzmir Regional Court of Appeal not verified from a source (text kept general).
+- Mediation precondition stated as applying to 'certain' commercial claims per a law firm page; confirm scope with Turkish counsel.
+- Aliağa's refinery/petrochemical and ship-recycling roles deliberately omitted (unsourced). Port list from İTB page.
+
 ## Jakarta (ID) — 5 sources
 - Capital transfer status: sources reviewed (to December 2024) say the presidential decree moving the capital to Nusantara had not been issued. Confirm the position as of publication; if the decree has been issued, the intro, local_context and first FAQ need revision.
 - The amendment to Law No. 2 of 2024 is reported by the INP article as 'Law No. 151 of 2024'; the number looks unusual and was not checked against an official gazette, so the page refers only to the law being 'later amended'.
 - Commercial Court at Central Jakarta District Court, registration of international awards there under Law 30/1999, BANI headquarters in Jakarta, Corruption Court in Central Jakarta, and HQ locations of IDX, OJK, Bank Indonesia, KPK and PPATK are from prior knowledge; official court and regulator sites were not opened (search budget and fetch restrictions). Verify before publication.
 - Population figure is a BPS projection reported by Databoks, not taken directly from bps.go.id.
+
+## Jeddah (SA) — 6 sources
+- Population (3,751,722, 2022 census) is via Wikipedia; no GASTAT page was opened.
+- Port throughput figures (about 4.2-4.3 million TEU) are for 2017-2018 per Wikipedia; current volumes not verified.
+- Stated from background knowledge, not verified this session: a specialised commercial court sitting in Jeddah, Najiz platform, enforcement courts, IsDB headquarters in Jeddah (search snippets only), IsDB debarment regime, Ministry of Commerce registry limits (country page flags new Commercial Register Law and BO rules; may be outdated).
+- Jeddah Central project demolitions affecting about 558,000 people (per Wikipedia citing reports) are a reputational sensitivity; the page mentions the project neutrally only.
+- No PI licensing regime identified for Saudi Arabia (consistent with SA country page).
 
 ## Jinan (CN) — 7 sources
 - Population 9.42 million (2022) is from a China Services Info profile, not a statistical bulletin or World Bank; no 2024 figure or 2024 GDP found within budget (2023 GDP used).
@@ -1750,12 +2018,31 @@ Items researchers could not verify from an opened source. Not published on the s
 - Not verified from an opened source: AFSA's Johannesburg/Sandton location; deeds registry office arrangements for Gauteng; JSE details beyond the portal's ranking claim.
 - AFSA International Court is described per IBA article; confirm whether the AFSA International Arbitration Rules have been revised since 2021.
 
+## Kampala (UG) — 6 sources
+- Commercial Division backlog figures date from a 2020 Daily Monitor article; current backlog not verified.
+- CADER status rests on a July 2025 commentary; whether CADER is now fully constituted should be checked.
+- Not verified from fetched sources: land tenure types and forged-title risk in Kampala, Wakiso/Mukono metro extent, KCCA procurement role, Bank of Uganda/IG/FIA located in Kampala, ULII publication, mobile money sector. Registry details reuse the UG country page.
+- Judiciary cause list URL (contains spaces) appeared in search results but was not opened; consider encoding or replacing.
+
+## Kansas City (US) — 6 sources
+- City population (about 510,000, 2020 census) stated from background knowledge; metro 2.27 million (2025) verified via FRED/Census.
+- Stated from background knowledge, not verified in sources opened: federal court seats (W.D. Mo. in Kansas City MO; D. Kan. in Kansas City KS), county court names, Secretary of State registries, Tenth District coverage wording, Ford/Tyson as operations (KCtoday lists them as employers).
+- Wikipedia economy page is dated (some data from 2004; Cerner now Oracle Health; YRC/Yellow defunct) - only current-looking employers used.
+- Kansas AG document is a licensee list, not the statute; Kansas Private Detective Licensing Act citation not verified and not stated. Whether Kansas City, Missouri imposes its own municipal licence was not checked.
+- HUD market profile appeared in search results but was not opened.
+
 ## Karachi (PK) — 7 sources
 - Population (about 20.3 million, 2023 census) from the Commissioner Karachi website and The News citing PBS; no direct PBS table opened.
 - Economic facts (ports, SBP and PSX headquarters, banks' head offices, ~half of FBR revenue, industrial estates, KEPZ 1980) rely on Wikipedia only; consider an official source.
 - Sindh Civil Courts (Amendment) Act 2025 commencement date and transitional arrangements for pending High Court suits not verified; possible further changes or constitutional challenge.
 - No dedicated Karachi commercial court identified; banking courts and Karachi arbitration centres not researched due to search budget.
 - SECP's Karachi company registration office not verified; SECP itself is headquartered in Islamabad.
+
+## Katowice (PL) — 6 sources
+- Population (280,190) is from the city investment agency's 2023 report without a stated reference year; no GUS result appeared in searches.
+- Exact KRS registry and land registry division locations (which Katowice district court) not confirmed; text kept general.
+- Arbitration court at the Regional Chamber of Commerce in Katowice is from background knowledge and not verified as currently active.
+- Metropolis GZM PDF and the commercial courts regulation appeared in results but were not opened.
 
 ## Kuala Lumpur (MY) — 6 sources
 - No DOSM or World Bank population source opened; population (2.08 million Q1 2024), Klang Valley (8.8 million) and GDP (RM 277.5 billion, 2023) come from Wikipedia via Wikiwand - verify against DOSM.
@@ -1770,12 +2057,30 @@ Items researchers could not verify from an opened source. Not published on the s
 - The 'Cross-border fraud' matter, the border sensitivities item and the scam-network FAQ are sensitive. Legal staff should review the wording.
 - Two of the six sources (Invest in China FTZ page and China Daily '141 measures') appeared in search results but were not opened.
 
+## Kuwait City (KW) — 6 sources
+- No Kuwait City or Capital Governorate population figure was found; national figure (4.91 million, 1 Jan 2024) is from Wikipedia, not PACI or World Bank directly.
+- KCAC founding year 1999 is from a Kuwait Times report quoting the KCCI chairman; GAR articles are paywalled (titles only) and a 2024-2025 run of Kuwaiti court decisions on arbitration was not reviewed.
+- Headquarters of KPC, KIA, Central Bank and CMA in Kuwait City is stated from general knowledge, not a fetched source; Mubarak Al Kabeer Port status is from older Wikipedia text and may be outdated.
+- KCCI 'membership and certification functions' is a general characterisation not verified in a fetched source.
+
 ## Kyiv (UA) — 6 sources
 - Population is KPMG's 'around 3 million (2022)'; no World Bank or State Statistics Service figure found within budget, and wartime displacement makes any figure uncertain.
 - Location in Kyiv of the Supreme Court, High Anti-Corruption Court and the city's first-instance and appellate commercial courts, and NBU/bank headquarters, is general knowledge, not from an opened source.
 - Martial law assumed still in force as of Nov 2026; register restriction/reopening language relies on the UA country page's secondary sources.
 - Mentions of nationalisations / state management of businesses since 2022 are general knowledge, not sourced this session.
 - Sanctions note: Ukraine is not comprehensively sanctioned, but tdsc_approach includes screening language because of Russian-linked ownership risk; occupied regions (including Crimea) are not discussed on this city page.
+
+## La Paz (BO) — 7 sources
+- DISCREPANCY: BO country page says SEPREC was created by Supreme Decree 4644; the decree text opened here (Lexivox, SEPREC and ASFI copies) is DS 4596 of 6 October 2021. Country page should be checked.
+- City population (755,732, 2024 census) and GDP share (24%) via Wikipedia, not INE directly; metro figure conflicts within Wikipedia (2.07 vs 2.2 million), so stated as 'over 2 million'.
+- Stated from background knowledge, not verified: National Chamber of Commerce arbitration centre in La Paz (procuraduria rcac.pdf seen only in search results), Departmental Court of Justice of La Paz, ASFI and UIF headquarters in La Paz.
+- Bolivia has no comprehensive data protection law per BO country page; local enquiry limits to be confirmed by counsel.
+
+## Labuan (MY) — 7 sources
+- Population (101,400, Q4 2023) from Wikiwand, not DOSM; no official statistic surfaced in searches.
+- Labuan Companies (Amendment) Act 2025 exists (search result) but its content was not reviewed; the page describes the 2022 amendments only.
+- Courts paragraph (High Court in Sabah and Sarawak jurisdiction) and Labuan Foundations Act 2010 / Labuan Trusts Act 1996 names partly from background/search snippet; FSA public licence list and registry public access not verified.
+- Time zone given as Asia/Kuching (UTC+8); confirm preferred IANA zone (Asia/Kuala_Lumpur also used for Malaysia).
 
 ## Lagos (NG) — 7 sources
 - No authoritative population figure found (no World Bank/NPC result); text gives a range of estimates. Add a cited UN/NBS figure if available.
@@ -1784,11 +2089,30 @@ Items researchers could not verify from an opened source. Not published on the s
 - Stated from background knowledge, not fetched: Lagos Court of Arbitration, Federal High Court jurisdiction, Land Use Act Governor's consent, Lagos State Lands Registry, NGX HQ in Lagos, SEC/CBN HQ in Abuja, free zone licensing regime (NEPZA/OGFZA). The LMDC law PDF and BusinessDay pages appeared in search results but were not opened.
 - EFCC land allocation story is a single-outlet report of an early-stage investigation; keep wording as allegations or remove.
 
+## Lahore (PK) — 6 sources
+- HELD: written from search-result titles only; re-verify before publishing
+- WebFetch hourly limit was hit before any Lahore page could be opened; all six sources are from search result titles only, and snippets carried no body text. Lahore page needs a full verification pass.
+- Population 'more than 13 million, Lahore district, 2023 census' is from background knowledge (about 13.0 million); PBS and citypopulation.de results appeared but were not opened. Verify.
+- LHC/SECP items rely on headlines: 2020 sugar mills ruling (Dawn) and order on 8,444 companies (Customs Today, date unknown; copy says the court 'has been asked to direct', which may understate or misstate it). Verify.
+- Stated from background knowledge, not verified this session: sector list, SECP company registration office in Lahore, Allama Iqbal International Airport, Punjab land record computerisation and development authority/housing society records, Punjab home department licensing of security companies, overlapping FIA and anti-corruption inquiries.
+
+## Leeds (GB) — 7 sources
+- Population (about 800,000) is the West Yorkshire Combined Authority's undated figure; no ONS result appeared in searches (2021 census figure not cited).
+- Leeds BPC brochure dates from 2017; current list composition and the 8,100 legal-sector jobs figure may be outdated.
+- UK Infrastructure Bank becoming the National Wealth Fund in October 2024 relies on a council headline seen in search results (not opened) plus background knowledge.
+- Stated from background knowledge: Leeds Bradford Airport, HM Land Registry and register of overseas entities details, Gazette usage.
+
 ## Lima (PE) — 6 sources
 - Population is an INEI projection (10,285,076 for 2025, excluding Callao) from an older projection series; check for updated INEI estimates. 'Roughly three in ten Peruvians' derived against World Bank 34.6 million in the PE country page.
 - Chancay opening (expected November 2024) and 0.9-point GDP estimate are BCR projections reported by Andina before opening; confirm actual operations.
 - Not verified from an opened source: Callao airport/port, Bolsa de Valores de Lima and regulator head offices, specialised anticorruption courts in Lima, Superior Court of Lima commercial sub-speciality handling award annulments, Callao as separate judicial district, Chancay in Huaral province (Andina confirms Huaral).
 - Lava Jato arbitrator case described from a 2019 report (preliminary stage); later developments (accusations, outcomes) not checked. No named individuals included.
+
+## Limassol (CY) — 7 sources
+- Limassol District population (about 260,000, 2021 census) stated from background knowledge; no CYSTAT result appeared. National figure from CY country page (World Bank).
+- Commercial Court and Admiralty Court (Law 69(I)/2022): operational status and whether they sit in Limassol not confirmed; source article notes inconsistent law number (68/69). Chambers 2026 guide and Cyprus Mail article appeared in search results but were not opened.
+- Stated from background knowledge: Limassol District Court, Court of Appeal in Nicosia, Cyprus Union of Shipowners role, CySEC supervision, airports, Department of Lands and Surveys access conditions, Russian-language business community.
+- Ship management at about 4% of GDP is turnover-based (Central Bank 2021H1 figure via Limassol Chamber), not value added.
 
 ## Lisbon (PT) — 6 sources
 - Population and GDP figures (658,236 municipality; 3,352,939 metro, 2025; GDP 106 bn euros 2024) taken from Wikipedia citing INE; verify on ine.pt.
@@ -1796,6 +2120,10 @@ Items researchers could not verify from an opened source. Not published on the s
 - Arbitration centre facts from a 2017 Kluwer blog post; rules and caseload may have changed.
 - Not verified from an opened source: Lisbon commercial court sections (Juízo de Comércio), Court of Appeal of Lisbon, Supreme Court of Justice seat, Banco de Portugal/CMVM headquarters in Lisbon (Euronext page names them as regulators only).
 - Angola asset recovery mention relies only on search-result headlines (Sonair case); no specific case named in copy.
+
+## Ljubljana (SI) — 6 sources
+- Population 300,354 (1 Jan 2025) is SURS data via citypopulation.de; the city's own page only gives 2019 figures. Company count (41,708) is 2017.
+- Stated from background knowledge, not verified in fetched sources: Zagreb Stock Exchange acquisition year (2015), Higher Court and Supreme Court in Ljubljana, Bank of Slovenia and Securities Market Agency HQ, sector list, privatisation-era characterisation, regional subsidiary patterns.
 
 ## London (GB) — 6 sources
 - Population uses the mid-2023 figure (8.95 million) from the London Datastore; ONS mid-2024 estimates have been published but the London figure was not extracted. Update if desired.
@@ -1809,6 +2137,12 @@ Items researchers could not verify from an opened source. Not published on the s
 - LA Superior Court as county trial court and Central District of California headquartered in LA stated from general knowledge; not confirmed in a source opened.
 - BSIS/Private Investigator Act licensing statement relies on country page and a non-official PI exam study guide; verify against bsis.ca.gov.
 - CCPA mention and CIPA class-action trend from search-result titles (calawyers.org, bhba.org) not opened.
+
+## Lusaka (ZM) — 8 sources
+- Lusaka District 2022 population differs between City Population (2,212,301, citing CSO) and Wikipedia (2,204,059); no Zamstats page opened. Used City Population figure.
+- Lusaka High Court divisions come from Chalochatu (community wiki); Commercial Division hearing commercial disputes not confirmed by an official judiciary source.
+- Location in Lusaka of Bank of Zambia, LuSE, ZDA and PACRA head offices and the 'one of the fastest-growing cities' phrase rest on capital status and census growth, not a specific source; COMESA Secretariat and Kenneth Kaunda International Airport deliberately omitted as unverified.
+- LIAC case statistics and ADR Bill status (as of August 2026) from a Chambers 2026 guide; the PwC LuSE report was seen in search results only.
 
 ## Luxembourg (LU) — 7 sources
 - National population (about 682,000) taken from a Chronicle.lu search-result title citing STATEC; the page was not opened. The country page uses 686,970 (World Bank, 2025) - reconcile.
@@ -1829,6 +2163,13 @@ Items researchers could not verify from an opened source. Not published on the s
 - Airport figure (66.9 million) is read as a 12-month cumulative to April 2025 from the city economy report; confirm wording.
 - City padron figures (municipal) may differ from official INE population figures.
 
+## Managua (NI) — 6 sources
+- Sanctions: page treats Nicaragua as targeted (not comprehensive) US sanctions; confirm against central sanctions data before publication.
+- Population (1.05 million, 2022 INIDE estimate) and metro estimate (1.37 million, 2023) from Hispanopedia, which itself gives inconsistent 2022 figures; no INIDE or World Bank page opened.
+- Free zone figures are from 2013/2014 press (174 companies, 45 parks); outdated - update if current CNZF data are available. Location of parks 'in and around Managua' is general knowledge.
+- Arbitration centre status: 2007 Tico Times article only; current operation of Managua centres not verified.
+- Judicial independence concerns, NGO/media closures and asset seizures stated from general knowledge, not an opened source. Spain ficha país and EC Access2Markets were seen in search results but not opened.
+
 ## Manama (BH) — 6 sources
 - City population uses the Capital Governorate 2020 census figure (548,345) via Wikipedia citing the governorate annual report; no standalone Manama figure found. National figure reused from the BH country page (World Bank), not re-fetched this session.
 - BCDR mandatory jurisdiction described generally ('certain commercial disputes above BHD 500,000'); the qualifying conditions (financial institution or international party) were not confirmed in sources opened.
@@ -1844,6 +2185,19 @@ Items researchers could not verify from an opened source. Not published on the s
 - Locations of the Supreme Court, Court of Appeals and BSP in the City of Manila, the Sandiganbayan in Metro Manila, PSE, NAIA, and business-district list are from prior knowledge, not opened sources.
 - Infrastructure-corruption RTC designation relies only on a Manila Bulletin headline seen in search results (Magzter); article not opened. NDV Law, Wikipedia census and PSA PSGC pages appeared in search results but were not opened.
 - Metro Manila 14,001,751 is the PSA preliminary 2024 census figure as reported by Real Estate News PH.
+
+## Maputo (MZ) — 6 sources
+- City population is the 2017 INE census figure via Wikipedia; no current INE or World Bank city estimate was found. Metro figure deliberately vague because Wikipedia gives conflicting numbers (1.77m vs 2.72m).
+- Port tonnage (30.9 million tonnes, 2024) is from EBSCO; MPDC concession end date (Wikipedia says 2030) and any extension were not verified, so not stated.
+- Specific Maputo court names (Tribunal Judicial da Cidade de Maputo, any commercial sections) were not verified; text kept general.
+- Not verified from sources and therefore not stated: Bolsa de Valores de Mocambique and Banco de Mocambique details; Mozal named only generically as aluminium smelting in the Matola area.
+- Clifford Chance arbitration source is from 2014; check whether CACM remains the principal institution and Law 11/99 is unchanged.
+
+## Marseille (FR) — 6 sources
+- Population (873,076 commune; 1,888,788 metro, 2021) taken from a Wikipedia mirror citing INSEE, not from INSEE directly; port ranking from an older encyclopaedia mirror.
+- Court of appeal page was under maintenance; Marseille commercial court and its possible inclusion in the 2025 tribunal des activités économiques experiment not verified. Check current name before publishing.
+- JIRS Marseille identified via press description of the 'interregional organised crime unit'; France's new national organised crime prosecutor's office (if operational) not reflected.
+- Port site split (eastern basins vs Fos) and ferry/cruise roles partly general knowledge; CMA CGM Tower mentioned but CMA CGM headquarters not stated from a source; Marseille Provence Airport omitted for lack of a source.
 
 ## Melbourne (AU) — 5 sources
 - Victorian PI licensing (Private Security Act 2004, Victoria Police licensing division, Certificate III) is from a careers blog (OzStudies), not Victoria Police; verify with the official licensing page.
@@ -1871,6 +2225,18 @@ Items researchers could not verify from an opened source. Not published on the s
 - Milan Chamber of Commerce site (milomb.camcom.it) could not be opened; its register role is stated from general knowledge.
 - CAM announced an office move on 1 November 2026; no address used in copy.
 
+## Minneapolis (US) — 6 sources
+- No Census city-level population found; page uses HUD metro and Hennepin County figures (March 2025).
+- Feeding Our Future figures are as of October 2025 (KSTP); case counts and outcomes are evolving. The topic is politically sensitive; wording kept factual.
+- Stated from background knowledge, not fetched: Minnesota Private Detective and Protective Agent Services Board and Minn. Stat. ch. 326, Hennepin County District Court/Fourth Judicial District, District of Minnesota court locations, Secretary of State and Hennepin County property records. Verify.
+- Fortune 500 count is from the 2023 list (TCB/HUD); verify against the current list. Star Tribune and Minneapolis.org URLs from search results, not fetched.
+
+## Monterrey (MX) — 6 sources
+- Population (5.34 million metro, INEGI 2020) taken from Wikipedia citing INEGI; INEGI page itself not opened. Municipal city-proper figure not given.
+- Major Monterrey companies (FEMSA, Cemex, Banorte, Alfa) not named because no fetched source confirmed headquarters; 'many headquartered in San Pedro Garza García' is general knowledge and should be checked.
+- No Monterrey arbitration centre (e.g. CAMCO/CANACO Monterrey) verified, so none named. State and federal court presence in Monterrey and the state private security framework for Nuevo León not confirmed with a city-specific source.
+- Time zone America/Monterrey UTC-6 assumes Mexico's 2022 abolition of daylight saving applies to Monterrey (non-border municipality); confirm.
+
 ## Montevideo (UY) — 6 sources
 - Population (1,302,954, Censo 2023) is from a Montevideo municipal ombudsman page citing INE; the INE infographic appeared in results but was not opened.
 - Economic description (port, Mercosur/ALADI seat, financial hub) relies on Wikipedia.
@@ -1894,6 +2260,12 @@ Items researchers could not verify from an opened source. Not published on the s
 - Not verified from an opened source: commercial register kept by Amtsgericht Muenchen; Regional Court Munich I as main first-instance commercial court; presence of German/European patent institutions (EPO, Federal Patent Court) in Munich; whether Landgericht Muenchen I has English-language commercial chambers.
 - DAX/market-cap figures are as of April 2026 per city page and will change; individual companies deliberately not named.
 
+## Muscat (OM) — 6 sources
+- Muscat population 1,546,325 (end July 2026) is NCSI registered population; the fetch gave conflicting Omani/expatriate split (text vs table), so the split is omitted.
+- Circuits article lists no Muscat primary circuit; Times of Oman cites SJC Decision 433/2025 while Oman Observer cites Royal Decree 35/2025 (the court decree). Confirm decision numbers and Muscat circuit arrangements.
+- Not verified from fetched sources: Central Bank of Oman, FSA and Muscat Stock Exchange in Muscat; Ministry of Commerce registry location; OCCI headquarters and its link to the Oman Commercial Arbitration Centre (from country page/Chambers, not reopened).
+- Chambers source appeared in search results but was not opened in this pass.
+
 ## Nairobi (KE) — 6 sources
 - 2019 census count differs between sources (Wikipedia 4,397,073; Kenyans.co.ke 4,394,073); copy uses 'about 4.4 million'. No KNBS or World Bank page opened.
 - Court list (Supreme Court, Court of Appeal, High Court commercial work, ELC, ELRC sitting in Nairobi) and 'Kenya Law' as judgment source are general knowledge, not opened sources; Milimani Commercial Courts not confirmed and not named.
@@ -1901,11 +2273,24 @@ Items researchers could not verify from an opened source. Not published on the s
 - UNON as one of four major UN duty stations outside headquarters is general knowledge; Wikipedia confirms only UNEP and UN-Habitat headquarters.
 - NCIA reform debate (April 2026) and Arbitration (Amendment) Bill 2025 may have moved on; check status.
 
+## Nanchang (CN) — 6 sources
+- Population (6.67 million, end-2024) and GDP (780.04 billion yuan, 2024) from Wikipedia, not an official Nanchang statistics bulletin; JETRO gives 6.538 million and 720.3 billion yuan for 2022.
+- Nanchang IP Court established 5 July (year inferred as 2018 from the China Daily date); confirm it is the IP tribunal of the Nanchang Intermediate People's Court and its current jurisdiction.
+- IP arbitration centre information dates from January 2016 (CNIPA); current operation not verified.
+- Aviation sector named generically; Hongdu Aviation not confirmed by any opened source, so not named. Enterprise credit system description is general knowledge.
+
 ## Nanjing (CN) — 7 sources
 - Nanjing Maritime Court cooperation agreement with CMAC and the Jiangsu High Court typical cases item were taken from search result titles only (not opened).
 - Jiangsu High People's Court seat in Nanjing, Nanjing Lukou Airport, provincial regulator branches, and contents of the national enterprise credit publicity system are general knowledge; not verified from opened sources.
 - Nanjing International Commercial Court: parent court (likely Nanjing Intermediate People's Court) and exact unveiling date not confirmed.
 - Approach wording on official scrutiny of due diligence firms is unsourced here (consistent with CN country flag); verify or soften.
+
+## Nashville (US) — 6 sources
+- HQ exception applied: page states plainly that Nashville is TDSC's headquarters and only office; the 1873 name history is described as reintroduced, not continuous.
+- Licensing body: tn.gov says the PI program has been housed in the commissioner-run Detection Services Licensing Program since 1 July 2021 (not described as the PI & Polygraph Commission any longer), and that the Polygraph Examiners Act (T.C.A. 62-27) was repealed effective 1 July 2026 (SB2224/HB2530, signed 21 May 2026). The 'Get a License' page still lists polygraph licences, so it appears out of date. Confirm the current oversight structure.
+- Not verified from fetched sources (background knowledge): Davidson County Chancery Court business court docket, Middle District of Tennessee and Tennessee appellate courts in Nashville, Secretary of State Division of Business and Charitable Organizations name, Register of Deeds/Assessor roles, Sixth Circuit appeals.
+- Cornell LII regulation page appeared in search results but was not opened. Healthcare Council economic-impact figures (2014 data) were deliberately not used as current.
+- Davidson County 2025 population (745,904) is the Chamber's citation of the Census Bureau; metro 2.11 million is a HUD estimate for January 2024.
 
 ## New Delhi (Delhi) (IN) — 7 sources
 - Population uses Census 2011 (16.8 million for NCT Delhi) because no current official estimate appeared in searches; India's next census is under way, so update when results are published. No World Bank city figure available.
@@ -1927,11 +2312,32 @@ Items researchers could not verify from an opened source. Not published on the s
 - Not verified from an opened source: Nicosia District Court and appellate courts sitting in Nicosia, Central Bank and CySEC headquarters in Nicosia, Registrar of Companies location, CPR being modelled on English rules, EU acquis suspension in the north, Asia/Nicosia time zone (standard IANA).
 - Cyprus Stock Exchange (Nicosia-based) omitted because no source was opened.
 
+## Ningbo (CN) — 9 sources
+- HELD: written from search-result titles only; re-verify before publishing
+- WebFetch hourly rate limit was hit before any Ningbo page could be opened. All Ningbo sources are search results only (titles); facts beyond the headline figures are from general knowledge and need human verification.
+- Population not verified; economy row says so. Add Ningbo Municipal Bureau of Statistics figure.
+- Port figures: 1.4 billion tonnes (provincial/Xinhua-type report) vs 1.22 billion tonnes (listed operator) differ in scope; both taken from search result headlines only.
+- Industry list, Ningbo Intermediate People's Court, Zhejiang High People's Court, the Ningbo Arbitration Commission and CIETAC Zhejiang presence, and the FTZ Ningbo area focus are from general knowledge, not opened sources.
+- Ningbo Maritime Court jurisdiction description (Zhejiang coast, foreign-related share) is general knowledge; expansion plans only from a 2024 headline.
+
+## Osaka (JP) — 6 sources
+- City population 2.75 million is the 2020 census via JETRO; prefecture 8.8 million and GDP USD 376 billion (2021) are from an Osaka Prefecture strategy PDF. No World Bank figure exists at city level.
+- Osaka High Court's Kansai appellate role and the 'junket-style intermediaries' reference rest on general knowledge, not a fetched source; integrated resort opening 'around 2030' is from the prefecture PDF and may shift.
+- Last two sources (Osaka's Attractiveness for Business PDF, GPCI press release) appeared in search results but were not opened. Whether foreign financial firm target of 30 by FY2025 was met is unknown.
+- Takeda, Shionogi and Sumitomo Pharma listed by JETRO as Osaka companies without stating headquarters; nippon.com notes Takeda moved much business to Tokyo.
+
 ## Oslo (NO) — 6 sources
 - Population (724,290 municipality, 1 Jan 2025) is from Wikipedia without a named source; urban area figure cited to SSB. Confirm against Statistics Norway.
 - Euronext page and Chambers 2026 guide appeared in search results but were not opened (Chambers redirected).
 - Oslo locations of Finanstilsynet, Økokrim, Datatilsynet and Norges Bank/NBIM, Brønnøysund Register of Beneficial Owners, public tax lists, ad hoc arbitration prevalence and the Nordic high-yield bond market are general knowledge, not opened sources.
 - No Norwegian PI licensing regime identified (consistent with NO country page).
+
+## Panama City (PA) — 7 sources
+- Population figures come from a Wikipedia mirror (city proper ~880,691 per Panama City Hall; 1.94 million 2020 figure labelled 'capital city' in the infobox, treated here as the capital region); no INEC or World Bank city figure was found. Verify.
+- Chambers 2026 Panama arbitration guide redirected and could not be fetched; Latinex brochure PDF had no extractable text; SBP and Latinex roles are stated from search result titles and the PA country page, not opened content.
+- Cecomap: TradeWinds article (undated excerpt) says it was ready to launch; current operating status not confirmed.
+- 'Around 80 banks' is from the Wikipedia mirror and may be dated; Colón Free Zone ranking ('one of the largest free trade zones in the Americas') softened from Wikiwand's 'largest free port'. Panamá Pacífico and Maritime Courts stated from general knowledge.
+- Private investigator licensing in Panama remains unverified (see PA country page).
 
 ## Paris (FR) — 6 sources
 - TAE Paris figures (70,000+ decisions/year, 220 international chamber cases in 2025), CCIP-CA English use and ICSID Paris 2026 opening come from a French government promotional brochure; confirm if quoted prominently.
@@ -1945,22 +2351,91 @@ Items researchers could not verify from an opened source. Not published on the s
 - WA Legislation and Business News pages were taken from search results only (not opened).
 - Name of the current WA mines regulator department changed in recent restructures; page avoids naming it. Confirm before adding.
 
+## Philadelphia (US) — 7 sources
+- City population: WHYY (2023) says ~1.6 million peak in 2020 with a ~22,000 drop 2021-22; no current Census estimate opened. Metro 6.25 million and GMP US$478 billion are from a 2023 City flyer.
+- Commerce Program of the Court of Common Pleas, Eastern District/Third Circuit seats, Department of Records, PA Bureau of Corporations, PA all-party consent wiretap rule are stated from general knowledge, not opened sources.
+- 'Fastest-growing container port on the East Coast' claim (City flyer) not repeated; port described generically.
+
+## Phnom Penh (KH) — 7 sources
+- Population 2.28 million (2023) is the CIA World Factbook figure as cited by EBSCO; no World Bank or National Institute of Statistics city figure was found in searches. Confirm against NIS data.
+- Airport: sources name Phnom Penh International Airport; flights were understood to be moving to the new Techo International Airport in 2025, so the page names neither. Confirm and add the name.
+- Port: Phnom Penh Autonomous Port and the Cambodia Securities Exchange are omitted because no opened source confirmed them; consider adding after verification.
+- Commercial court: a 'draft law on commercial court establishment' appeared in search results but the page could not be fetched (redirect blocked). The page says reform has been proposed; verify current status.
+- Court of Appeal chamber structure is as of 2022 (ECCC page); may have changed.
+- Scam compound and illicit finance references are general; no specific companies named. Keep under review given sanctions developments.
+
+## Phoenix (US) — 7 sources
+- No City of Phoenix population figure was found in sources; the page uses the HUD metro estimate (5.25 million, January 2025). Add the Census Bureau city estimate if a city figure is wanted.
+- TSMC investment figure ($65 billion by 2024) is from HUD; HUD notes a March 2025 announcement raising the total to $165 billion. Page uses the lower confirmed figure; consider updating.
+- Stated from background knowledge, not verified in sources: Maricopa County Superior Court structure and commercial case assignment, Court of Appeals Division One and Arizona Supreme Court sitting in Phoenix, District of Arizona, Arizona Corporation Commission and Maricopa County Recorder/Assessor records, Arizona one-party consent recording rule, America/Phoenix no-DST time zone.
+- Arizona PI licensing details (Title 32 Chapter 24, agency/qualifying party, bond and $100,000/$300,000 liability insurance) come from statute excerpts and a third-party guide; the DPS checklist was a search result only. Confirm against azdps.gov.
+
+## Pittsburgh (US) — 5 sources
+- Court-issued licensing procedure is described from Adams County's clerk page; Allegheny County's own procedure was not checked.
+- Stated from background knowledge, not verified this session: Allegheny County Court of Common Pleas civil division handling complex commercial matters (we did not confirm a named commerce program), Western District of Pennsylvania and Third Circuit, Superior and Commonwealth Courts sitting in Pittsburgh, PA Department of State bureau name, PA DEP oil and gas records.
+- PNC headquartered in Pittsburgh is background knowledge; sources only listed it as a major employer.
+- Lycoming Private Detective Act PDF and Visit Pittsburgh page appeared in search results but were not opened.
+
 ## Port Louis (MU) — 6 sources
 - Population 140,403 (2022 census) comes via City Population citing the Central Statistical Office, not a Statistics Mauritius page; it includes Pailles.
 - Supreme Court sitting in Port Louis, Ebene as nearby business district, and port being the country's main port are from general knowledge/Wikipedia; Wikipedia's 'largest port facility in the Indian Ocean region' claim not used verbatim.
 - No freeport details were verified; freeport omitted. Mondaq and Chambers main-page sources seen in search results only.
 - Beneficial ownership register not public and Data Protection Act 2017 rely on the MU country file.
 
+## Porto (PT) — 6 sources
+- Population (273,476 municipality; 1,861,727 metro, 2025) is INE data as reported on Wikipedia; no INE page was opened directly.
+- Comarca do Porto commerce sections, land/commercial registry arrangements and the Supreme Court of Justice in Lisbon are stated from prior knowledge, not confirmed by sources opened.
+- The Associação Comercial do Porto arbitration centre is confirmed only as 'Commercial Arbitration Institute of the Oporto Commercial Association' in a PLMJ/GAR article that may be dated; current name and activity unverified.
+- GAR know-how, VdA encyclopedia and Urbistat URLs appeared in search results but were not opened.
+- Footwear/textile clusters deliberately not named because no source opened confirmed them.
+
+## Poznań (PL) — 6 sources
+- Court structure (Court of Appeal, Regional Court commercial divisions and value thresholds) is background knowledge; not fetched.
+- No Poznań-based arbitration institution verified; the page states this explicitly. Consider adding one if confirmed.
+- KRS/pledge register division details come from dlajurysty.pl (updated May 2023), not the court's own site; pledge register jurisdiction may have changed.
+- Wielkopolska brochure seen only as a search result. CEIDG and online KRS financial statements references rely on the PL country page/background.
+
 ## Prague (CZ) — 6 sources
 - Population is preliminary CZSO data for 31 December 2024; a final or 2025 figure may now be available.
 - Stated from background knowledge, not verified this session: Municipal Court in Prague as regional court and registry court for Prague companies, Czech National Bank as integrated financial supervisor headquartered in Prague, sector mix, Vaclav Havel Airport, holding group structures via NL/CY/LU.
 - CSU time-series and CMS guide listed from search results only; not opened.
+
+## Pune (IN) — 6 sources
+- Population: no World Bank or Census figure appeared in searches; the page uses India Briefing's 'ninth most populous city' (2016 article). Add official figure (2011 Census or forthcoming census) after verification.
+- Company and investment facts (225+ German companies, named employers) come from a 2016 India Briefing article; may be dated.
+- Absence of a Bombay High Court bench in Pune, the Maharashtra Industrial Development Corporation, PMC/PCMC and the metropolitan development authority (PMRDA) are stated from general knowledge, not an opened source. Verify; a Pune bench has long been proposed.
+- Maharashtra private registration centres were at tender stage in February 2026; rollout status may have changed.
+- Gokhale Institute and Housing.com pages appeared in search results but were not opened.
 
 ## Qingdao (CN) — 6 sources
 - Population is 'more than 10 million' from a 2025 China Daily city publication without a reference year; no national statistics figure was found in searches - replace with an official year-end figure.
 - Port figures (710 million tonnes, 30.87 million TEU) come from the same publication without a stated year; likely 2024 - verify.
 - Qingdao Maritime Court's territorial jurisdiction is described generically from general knowledge; its official site was not opened. The 'Qingdao Arbitration Commission' was not confirmed in sources, so only the FTZ 'international arbitration centre' is named.
 - Belt and Road Portal and Statista pages and the 2024 China Daily FTZ article were seen in search results only, not fetched.
+
+## Querétaro (MX) — 5 sources
+- No INEGI or World Bank population figure obtained within the search budget; metro figure of about 2.6 million is from an American Industries Group 2025 table and looks high against INEGI's 2020 metro count. Replace with INEGI data before publishing. City population omitted.
+- Federal courts in Querétaro, concurrent state/federal mercantile jurisdiction, SIGER for commercial registry and a state-run property registry stated from background knowledge or the MX country page, not verified here.
+- Court counts (9 civil, 2 oral mercantile) from the state judiciary page, which contains internal naming inconsistencies; structure information dated October 2023.
+- Aerocluster Querétaro and Unaq mentioned per industry sources; state investment figures (53 projects, MX$30 billion) attributed by American Industries Group to the state promotion office.
+
+## Quito (EC) — 6 sources
+- HELD: written from search-result titles only; re-verify before publishing
+- Web fetch hourly rate limit was exhausted; no Quito source could be opened. All sources are search-result titles only, so figures (2.6 million population) rest on headlines. Re-verify before publication.
+- Seats of the National Court of Justice, Constitutional Court and Pichincha Provincial Court, Mariscal Sucre airport, flower exports, Quito mercantile/property registries and regulator/state-company HQs are stated from general knowledge.
+- CCQ as ICSID venue rests on an undated El Oriente headline; 'Quito Regional Intendancy' inferred from the Supercias report filename (IRQ).
+- Bolsa de Valores de Quito deliberately not named (not verified).
+
+## Raleigh (US) — 5 sources
+- City population (about 499,600) is an ACS 2024 estimate cited by EBSCO; Census QuickFacts page did not load. Metro and CSA 2025 estimates via Wikipedia, which is internally inconsistent on the 2020 CSA figure.
+- North Carolina Business Court Raleigh location, its designation of complex business cases, Eastern District of North Carolina, NC Supreme Court and Court of Appeals in Raleigh, Secretary of State and Wake County Register of Deeds roles were stated from background knowledge and not verified in this research.
+- Exactly 5 sources; no official Business Court source was found within the search budget.
+
+## Riga (LV) — 8 sources
+- No official city population found in searches; only the Live Riga 'metro 850,000+' figure (undated) is used. Replace with a CSB (stat.gov.lv) figure for the city.
+- Economic Affairs Court remit (money laundering, corruption, appeals to Riga Regional Court panel) relies on a 2020 CEE Legal Matters article on the draft law; confirm current jurisdiction.
+- LCCI rules '2026' inferred from the file name in a search result (not opened). Statement that other permanent arbitration courts are registered in Latvia is background knowledge.
+- Financial supervisor/FIU 'home in Riga' stated generically from background knowledge (FCMC integrated into Latvijas Banka in 2023, not verified). PISM source seen only as a search result.
 
 ## Rio de Janeiro (BR) — 6 sources
 - Only the Diário do Rio (IBGE population) and Forbes Brasil (oil share, state economy, armed-group estimate) pages were opened; Lex, TJRJ, Monitor Mercantil and Prefeitura sources are cited from search results only (fetch failed or not attempted).
@@ -1979,16 +2454,53 @@ Items researchers could not verify from an opened source. Not published on the s
 - Consob conciliation chamber: PDF seen in search results, not opened; Consob has since operated the ACF ombudsman, so the chamber reference is in the past tense. Verify or remove.
 - Stated from background knowledge, not verified: Bank of Italy/IVASS/ANAC/Consob HQs, FAO/IFAD/WFP, Fiumicino/Ciampino/Civitavecchia, Court of Cassation/Council of State/TAR Lazio roles, Revenue Agency land registry, state-controlled group HQs.
 
+## Rotterdam (NL) — 7 sources
+- Population (672,565, 1 Jan 2025) from the municipal investment promotion site, not CBS or World Bank directly.
+- 2025 port throughput (428.4 Mt, 14.2M TEU) from the same municipal site; 2024 figures from Intermodal News. Confirm against Port of Rotterdam facts and figures page (listed from search results, not opened).
+- Maritime arbitration paragraph is deliberately general; did not verify TAMARA or a Rotterdam seat of NAI. Stated from background knowledge: drug trafficking and port security context, Rotterdam The Hague Airport, petrochemical and energy cluster.
+- Rechtspraak English-summaries page and Standard Club alert listed from search results only; not opened.
+
+## San Diego (US) — 6 sources
+- Population is the July 2022 Census estimate as cited in the city's FY2024 profile; newer Census vintage likely available.
+- BSIS licensing details come from an exam-prep site, not the BSIS or Legislature site; verify against official sources.
+- Stated from background knowledge, not fetched: Southern District of California, Fourth District Court of Appeal Division One, Superior Court, California all-party consent recording rule (Penal Code 632), Secretary of State statements of information, county Assessor/Recorder/County Clerk.
+- Last two sources (2024 EDC brochure, McGrath) appeared in search results but were not fetched.
+
 ## San Francisco (US) — 5 sources
 - California PI licensing and Penal Code 632/632.7/637.2 details come from an exam-prep study guide, not BSIS or the official code; verify against BSIS and leginfo.legislature.ca.gov.
 - Federal Reserve Bank of SF, Ninth Circuit and N.D. Cal. seated in SF, SF Superior Court complex civil assignments, SFO/Port of SF/Port of Oakland, SF Assessor-Recorder records, and California's consumer privacy law/regulator (CCPA/CPPA, deliberately not named in detail) are from general knowledge; not opened.
 - Kearney v. Salomon Smith Barney (2006) was cited in the study guide as applying CIPA to out-of-state callers; FAQ paraphrases this without naming the case.
+
+## San José (CR) — 6 sources
+- Population (canton 352,325; province 1,657,316, 2024 INEC estimates) comes from an aggregator site (telencuestas.com), and GAM 3.1 million (2011 census) from a Wikipedia mirror; confirm with INEC (2022 census).
+- Location in San José of Supreme Court/First Chamber, Registro Nacional, SUGEF, SUGEVAL, CONASSIF, BCCR, Bolsa Nacional de Valores, prosecutors' economic crime units, Civil Procedure Code in force 2018, and SJO airport location are general knowledge; not sourced in this file.
+- Free zones around the GAM and multinational shared-services presence are general knowledge. Shareholder register not public is carried from countries/CR.json; verify current access rules.
+
+## San Jose (US) — 5 sources
+- Population uses the July 2023 Census estimate as reported by KTVU (969,655); Wikipedia shows a 2025 estimate of 989,814. Confirm against Census QuickFacts and update.
+- Company HQ list (Cisco, Adobe, PayPal, eBay, Zoom, NetApp, Cadence), SJC airport and county-seat status come from Wikipedia; Spanish/Vietnamese note and metro composition are general knowledge.
+- California licensing, recording and non-compete statements are not sourced in this file (see san-francisco-us sources); Santa Clara County recorder/assessor access not verified.
+
+## San Salvador (SV) — 6 sources
+- Population: 2024 census figure is for San Salvador district via citypopulation.de (not an official DIGESTYC page); municipality (~570,000) and metro (2.3-2.4 million) figures are estimates from Spain's April 2026 country sheet.
+- Bitcoin/digital asset status deliberately left vague; Spanish 2026 sheet still lists bitcoin as non-mandatory legal tender. Verify before adding specifics.
+- Not verified from fetched sources: Supreme Court and mercantile courts sitting in San Salvador, CNR headquarters location, securities exchange and financial supervisors in the capital, court files not searchable online. Arbitration description reuses the SV country page.
+- Transparencia and WIPO Lex results appeared in search but were not opened; their content is unconfirmed and could be replaced with stronger official sources.
+- Country-level data protection law status (possible 2024 law) remains unresolved per SV country page flags.
 
 ## Santiago (CL) — 5 sources
 - Population is INE 2024 census first results via a news report (En Cancha); the INE release itself was not opened.
 - Supreme Court/Santiago Court of Appeals roles, absence of specialised commercial courts, Conservador de Bienes Raíces de Santiago keeping the Commerce Registry, Registro de Empresas y Sociedades, CMF/Central Bank/Santiago Stock Exchange, airport and ports, and online access to court files are from general knowledge; not opened.
 - Private security law (Law 21.659) application to investigative consulting unresolved, as on the country page; Law 21.719 data protection reforms take effect 1 December 2026, shortly after research date.
 - Regional GDP sector figures on BCN page are 2016-2019 (2013 prices); no more recent breakdown opened.
+
+## Santo Domingo (DO) — 6 sources
+- Population (3.7 million, Greater Santo Domingo, 2022 census) taken from Revista Mercado, not directly from ONE or World Bank.
+- 34% of GDP figure is an Asoinco estimate reported in 2018 (based on 2016-17 data); copy hedges it but it is dated.
+- Arbitration centre: Acento (2017) says the CRC was created under Law 50-87; the DO country page names a 'Corte de Arbitraje y Resolución Alternativa de Conflictos' created under Law 181-09. Reconcile name and legal basis.
+- Free zone figures (65 parks, 493 importing companies) from El Día (Oct 2025) citing MICM; article's numbers partly garbled.
+- Stated from background knowledge, not verified this session: Las Américas airport, location of Supreme and Constitutional Courts, civil and commercial chambers, 2001 split (Law 163-01 confirmed via Revista Mercado), Jurisdicción Inmobiliaria.
+- CRC 2011 rules PDF and 2nd Acento article listed from search results only; not opened.
 
 ## São Paulo (BR) — 5 sources
 - Population (11,451,245, 2022 census) and metro figure (about 21.5 million, 2025) taken from Wikipedia; IBGE page could not be fetched. Confirm against IBGE.
@@ -2028,11 +2540,28 @@ Items researchers could not verify from an opened source. Not published on the s
 - Population (18.25 million, end 2025) comes from Caixin, not the Shenzhen Statistics Bureau; the government profile gives 17.98 million at end 2024.
 - Qianhai legal-services figures (182 entities, joint-operation law firm pilot) date from a 2023 promotional press release.
 
+## Shijiazhuang (CN) — 7 sources
+- No dated Shijiazhuang GDP figure verified (Wikipedia infobox gives 820 billion yuan without a year); only the trillion-yuan target is cited. Population is the 2020 census via Wikipedia, not a statistics bureau source.
+- Pillar-industry and biomedicine park figures come from Tiger Brokers news reposts of Chinese media, not official sources.
+- Shijiazhuang Intermediate People's Court and Hebei Higher People's Court not verified in searches; 'provincial capital courts' item rests on capital status. Food safety 'recurring concern' alludes to the 2008 Sanlu melamine case (Sanlu HQ in Shijiazhuang per Wikipedia); the scandal itself was not sourced.
+- Belt and Road Portal and China Daily integration pages seen in search results only, not opened.
+
+## Skopje (MK) — 8 sources
+- City population (about 526,000, 2021 census) stated from background knowledge; no statistics office result appeared in searches. National figure taken from the MK country page.
+- Stated from background knowledge, not verified in sources opened: Basic Civil Court Skopje, Basic Criminal Court Skopje, Court of Appeal Skopje, Administrative Court and Supreme Court seats; Macedonian Stock Exchange and Skopje International Airport; Skopje 1 and Skopje 2 (Bunardzik) zone names (search-result titles only).
+- FDI Intelligence ranking year (2024-2025) inferred from MIA search-result date (February 2025) and agency page; confirm edition.
+- TIDZ figures (EUR 1 billion, 18,000 workers) are the agency's own claims as of late 2023.
+
 ## Sofia (BG) — 6 sources
 - Population (about 1.27 million, 2021 census) is from background knowledge; no NSI or World Bank city figure appeared in searches. Verify against NSI.
 - Stated from background knowledge, not fetched: Sofia City Court as first-instance commercial court, Sofia Court of Appeal, Supreme Court of Cassation and Supreme Administrative Court sitting in Sofia, Registry Agency headquarters in Sofia, procurement/EU-funds exposure.
 - Arbitration Act 2025 registration requirement and Registry Agency details are carried over from the BG country file, not re-verified here. GAR article on the BCCI Arbitration Court was paywalled.
 - Bulgaria's euro adoption (1 January 2026) not mentioned; GDP figures are already in EUR. Confirm whether the page should reference it.
+
+## St. Louis (US) — 6 sources
+- Historical 1873 St. Louis founding mentioned once, in tdsc_approach, with the dissolution, no-office and no-continuity statements; confirm wording.
+- Census QuickFacts URL appeared in search results but failed to load; city population 279,700 (July 2024) is taken from the HUD profile.
+- Stated from background knowledge, not verified in fetched sources: 22nd Judicial Circuit, Missouri Court of Appeals Eastern District, Eighth Circuit HQ, Case.net, Secretary of State record contents, City Recorder of Deeds, Illinois county names, attorney exemption, Illinois licensing on the Illinois side.
 
 ## Stockholm (SE) — 7 sources
 - Not verified from an opened source: SCC Arbitration Institute details, Svea Court of Appeal hearing challenges to awards, Nasdaq Stockholm, Finansinspektionen seat in Stockholm, Stockholm as East-West arbitration seat; all stated from general knowledge.
@@ -2044,6 +2573,12 @@ Items researchers could not verify from an opened source. Not published on the s
 - Opening date of the Baden-Württemberg Commercial Court at OLG Stuttgart not found (Act in force 1 April 2025); copy says 'since 2025'. The 10,000 euro Commercial Chambers threshold comes from SZA only.
 - Not verified from an opened source: LfDI Baden-Württemberg as private-sector supervisor, Amtsgericht Stuttgart as register court (copy says 'local register court'), works council prevalence. Bosch, Börse Stuttgart and LBBW omitted for lack of an opened source.
 - Largest-companies list (Heidelberg24, 2023) is a secondary source; Mahle, Züblin, DEKRA headquarters in Stuttgart rest on it.
+
+## Surabaya (ID) — 5 sources
+- Population 3,003,860 (BPS mid-2025) taken from Wikipedia citing BPS; Wikipedia also lists a higher mid-2024 figure (3,018,022). Metro figure of about 10 million is the Wikipedia infobox mid-2025 number. Confirm against BPS Kota Surabaya.
+- Port operator: source names Pelindo III; Pelindo III was merged into a single Pelindo in 2021 (general knowledge). DP World/Pelindo 49/51 TPS ownership is from a 2018 OBG report; current status unverified.
+- Surabaya Commercial Court's territorial coverage (which provinces) not verified; text avoids listing them. Appeals to East Java High Court and online publication of decisions are general knowledge.
+- Only five sources, two of them academic abstracts; consider adding an official BPS or Mahkamah Agung source.
 
 ## Suzhou (CN) — 6 sources
 - Population (12.96 million) is from an undated ICE Italian Trade Agency sheet, not an official statistics release; verify current figure and year.
@@ -2063,6 +2598,31 @@ Items researchers could not verify from an opened source. Not published on the s
 - Statements that the High Court and Supreme Court sit in Taipei, and that IP and Commercial Court hears trade secret and listed-company governance matters, are general knowledge not confirmed in an opened source. The IP and Commercial Court's location (New Taipei) deliberately omitted.
 - TWSE listed-company and market cap figures date from June 2023; consider updating.
 
+## Taiyuan (CN) — 7 sources
+- Population 5.39 million is a 2021 China Daily figure; no Taiyuan statistics bureau or newer figure was found. 2024 GDP not found, so 2023 figure used.
+- Taiyuan Iron and Steel (TISCO) and Shanxi coal SOEs not named because no fetched source confirmed them; stainless steel base is from China Daily.
+- Reform zone founding date (about 2017) is inferred from 'more than seven years' and omitted; whether the zone sits within Taiyuan city limits was not confirmed in sources fetched.
+- No Taiyuan arbitration commission was verified, so none is named. 'Provincial capital institutions' rests on Taiyuan's capital status rather than a cited source. The 2019 award case reasoning is from a paywalled summary.
+
+## Tampa (US) — 6 sources
+- Thirteenth Judicial Circuit, MDFL Tampa Division and bankruptcy court, Division of Corporations and Hillsborough clerk/property appraiser are stated from general knowledge; no source opened for them in this batch.
+- City of Tampa 'About us' page is partly dated (no year on figures); MacDill 19,000 employees and 'largest port in Florida' come from it.
+- HUD and Data USA sources appeared in search results only and were not opened.
+- Named private employers page (6amcity) could not be fetched (permission prompt timed out); no private employers named.
+
+## Tbilisi (GE) — 7 sources
+- Tbilisi City Court, Tbilisi Court of Appeals and Supreme Court of Georgia sitting in Tbilisi stated from general knowledge; not opened in this batch's sources.
+- Tbilisi Free Industrial Zone details come from a commercial company-formation site (YB Case); tax specifics deliberately omitted; founding year and administering agency not verified from an official source.
+- Post-2022 influx of foreign residents/companies and sanctions-diversion exposure stated in general terms without a cited source.
+- Georgian Stock Exchange facts from a Wikipedia page tagged as needing citations.
+
+## Tegucigalpa (HN) — 7 sources
+- Population (1,342,329) is an INE 2024 projection reported by El Heraldo, not an INE page; a new census was in preparation.
+- GDP share (19.3%) and sector breakdown come from Wikipedia, not an official source.
+- CCIT arbitration centre existence confirmed only from a paywalled GAR listing (2014/2016); current rules, caseload and exact chamber name (Industria vs Industrias) not verified. Radio América source seen only as a search result.
+- Court structure (Juzgados de Letras, corruption courts, limited online docket) partly from background knowledge and the HN country page; Registro Mercantil office arrangement for Francisco Morazán not verified.
+- IP corruption case is from 2015; current state of the property registry not researched. International flight transfer to Palmerola described as in progress per Wikipedia; confirm.
+
 ## Tel Aviv (IL) — 6 sources
 - Population is an end-2021 CBS estimate via citypopulation.de; no current CBS figure appeared in searches. Replace with the latest CBS estimate.
 - Stated from background knowledge, not verified this session: TASE location and role, sector mix, foreign real estate bond issuers and defaults, Ben Gurion Airport, Sunday-Thursday working week, Federation of Israeli Chambers of Commerce role.
@@ -2075,6 +2635,13 @@ Items researchers could not verify from an opened source. Not published on the s
 - Tianjin Arbitration Commission and the national enterprise credit publicity system role are stated generically from background knowledge, not fetched.
 - Court descriptions rely on Wikipedia; official court pages not fetched. No Tianjin international commercial tribunal was verified, so none is mentioned.
 - China Daily statistics page yielded only GDP growth headlines; it is listed as a consulted source but supports little text.
+
+## Tirana (AL) — 7 sources
+- HELD: written from search-result titles only; re-verify before publishing
+- Web fetch rate limit hit mid-research: only the Albanian Daily News construction article was opened; other sources are search-result titles only (no snippets), so the 'one third of GDP' and '1,700 population growth in 2024' figures rest on headlines.
+- No Tirana population figure verified; economy item says so. Needs an INSTAT figure before publication.
+- Courts sitting in Tirana (Supreme Court, Constitutional Court, GJKKO, regional courts), Tirana International Airport and Port of Durres are stated from general knowledge.
+- Restitution/informal construction effects on Tirana title stated without a cited source in this batch.
 
 ## Tokyo (JP) — 6 sources
 - JIDRC: the FSA page states it ceased operations in March 2025 (citing the business registry); confirm before publication since this contradicts older law-firm material describing it as active.
@@ -2089,6 +2656,26 @@ Items researchers could not verify from an opened source. Not published on the s
 - Still from background knowledge: OSC headquarters in Toronto (only its published cease trade orders verified), TSX and TMX, SEDAR+, Bay Street bank headquarters, mining-finance concentration, Arbitration Act 1991, intrusion upon seclusion tort.
 - No named Toronto arbitral institution included; none verified.
 
+## Tunis (TN) — 7 sources
+- HELD: written from search-result titles only; re-verify before publishing
+- WebFetch hourly limit was reached during Tunis research: no page was opened for this city. All sources are search-result titles (plus RNE/beneficial ownership/data protection facts carried over from the TN country page). Treat the whole page as needing verification.
+- Population (Greater Tunis ~2.6 million, 2014 census) is from general knowledge with no source; replace with an INS 2024 census figure.
+- Stated from general knowledge: Bourse de Tunis, CMF and Central Bank seats; Berges du Lac; port of Radès; Court of Cassation and Tunis Court of Appeal seats; commercial chambers; CCAT operating under the 1993 Arbitration Code; Conservation de la Propriété Foncière.
+- CCI Tunis mediation/arbitration centre: only the article title was seen; date and current status unknown.
+- Private investigator licensing not identified (see TN country page); lawfulness of the activity should be confirmed with Tunisian counsel.
+
+## Turin (IT) — 6 sources
+- Population (855,654) and OECD metro estimate (2.2 million) taken from Wikipedia; no ISTAT page appeared in searches.
+- Export share (5.2 percent) and 350+ component firms come from a dated Wikipedia-derived economy page; consider removing if not refreshed.
+- Tribunale di Torino business section jurisdiction, Corte d'Appello di Torino and the prefecture-authorisation reference are from background knowledge and the IT country page, not a fetched Turin court source.
+- Business Register for Turin is now kept by the Camera di commercio di Torino; confirm no merger has changed the chamber's name.
+
+## Valencia (ES) — 6 sources
+- City population (about 0.8 million, third-largest in Spain) is background knowledge; no INE result appeared in searches. Please verify against INE padron data.
+- Constitutional Court 2016 annulment of the Valencian matrimonial regime law (Law 10/2007) is from background knowledge plus a search-result title; the judgment PDF was not opened.
+- Stated from background knowledge, not verified: Ford Almussafes plant, Valencia Chamber of Commerce Corte de Arbitraje, High Court of Justice and Provincial Court seats, current number of Valencia commercial courts (2011 article said three).
+- The '40 percent of Spain's containers' figure refers to import/export containers January-July 2021.
+
 ## Vancouver (CA) — 7 sources
 - Metro Vancouver population (~2.6 million) is background knowledge; the city memo gives only growth figures. City figure 662,248 is from the City of Vancouver memo citing the 2021 census.
 - The official BC Land Owner Transparency Registry page (www2.gov.bc.ca) was blocked by an unanswered permission prompt; LOTA details rely on a Bennett Jones law-firm update (pre-launch); confirm current search access and fees.
@@ -2102,6 +2689,12 @@ Items researchers could not verify from an opened source. Not published on the s
 - International organisations list from an archived Austrian embassy page; KAICIID (listed there) relocated and was deliberately omitted. OSCE HQ status not explicit in that source but UNOV page lists it.
 - Sanctions-related matter types reference Russia exposure in general terms only; review against current sanctions status.
 
+## Vilnius (LT) — 6 sources
+- Population (643,513, April 2026) is a Vilnius municipality figure via Wikipedia, not Statistics Lithuania or World Bank.
+- Specific court seats in Vilnius (Supreme Court, Court of Appeal, Supreme Administrative Court, Vilnius Regional Court) stated from background knowledge; the court-system source does not give locations.
+- Bank of Lithuania and Centre of Registers headquarters in Vilnius, and Belarusian business relocation after 2020, stated from background knowledge.
+- VCCA statistics PDF appeared in search results but was not opened.
+
 ## Warsaw (PL) — 7 sources
 - Population figure from poland.gg, a third-party mirror of Statistics Poland (GUS) Local Data Bank; verify against stat.gov.pl.
 - GDP share (one-sixth, 2019) and business services figures (321 centres) come from a 2021 Investment Monitor article and may be dated.
@@ -2112,6 +2705,11 @@ Items researchers could not verify from an opened source. Not published on the s
 - D.C. private detective licensing details (bond amounts, even-year renewals) come from Harbor Compliance, a private filing service, not DLCP; verify on dlcp.dc.gov. Governing statute not identified.
 - Not verified from an opened source: DLCP corporations division and Recorder of Deeds as record holders, D.C. Superior Court structure, World Bank/IMF presence, D.C. Circuit's caseload profile.
 - Country page US.json covers state licensing generally; check the D.C. licensing paragraph does not duplicate it.
+
+## Wellington (NZ) — 6 sources
+- Population (543,400, June 2025) and services share (74.5%, YE March 2018) taken from a Wikipedia snapshot citing Stats NZ; MBIE regional pages were blocked and no Stats NZ page appeared in searches.
+- Regulator locations (Reserve Bank, MBIE/Companies Office in Wellington; FMA and Commerce Commission 'significant presence') and High Court/District Court sitting in Wellington stated from general knowledge, not an opened source.
+- Key sectors (ICT, screen and creative industries) stated from general knowledge; MBIE and courtsofnz sources were seen in search results but returned no usable content.
 
 ## Wuhan (CN) — 6 sources
 - Population (around 13.8 million, end 2024) is from prior knowledge; neither search surfaced a Wuhan statistical bulletin or World Bank figure. Verify against the Wuhan Bureau of Statistics before publication.
@@ -2144,6 +2742,12 @@ Items researchers could not verify from an opened source. Not published on the s
 - Respondent in the 2019 Zhengzhou Intermediate Court case is Jetstar Pacific Airlines; described as 'a Vietnamese airline' from background knowledge.
 - Foxconn headcount of about 250,000 is from a 2024 Site Selection article and fluctuates seasonally; Zhengzhou Commodity Exchange regulator (CSRC) referred to generically.
 - Population figure is from the Henan provincial government English site, not a World Bank or NBS release.
+
+## Zhuhai (CN) — 7 sources
+- Population (about 2.51 million) is a Zhuhai Statistics Bureau figure dated 1 November 2024 as reported by Macao News, not the bureau directly; GDP figure is for 2021 (China Briefing) and is dated. Update with latest statistics bureau data.
+- Hengqin enterprise count (6,552 Macao-invested entities, September 2024) is from the zone's official site; the figure changes frequently.
+- Stated from background knowledge, not verified in sources: Macao's separate civil law system and registries; that the Hengqin cooperation zone has its own customs and governance arrangements (kept generic). Major employers such as Gree and the Zhuhai Airshow were deliberately omitted because no fetched source covered them.
+- Macau Business source was a search result only (title/snippet: 2024 GDP growth target and support for Hengqin); not opened.
 
 ## Zürich (CH) — 6 sources
 - City population (about 440,000, end 2025) is a Statista estimate; the Statista page's own meta description says about 434,000. Replace with Stadt Zürich Statistik figure if available.
