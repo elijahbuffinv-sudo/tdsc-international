@@ -5,7 +5,7 @@
   "title": "International Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting across 200 jurisdictions from Thiel Detective Service Company: legal frameworks, records, data protection and how TDSC scopes cross-border work.",
   "nav": "International",
-  "bytes": 47982
+  "bytes": 48030
  },
  {
   "key": "intl-andorra",
@@ -405,7 +405,7 @@
   "title": "Ecuador Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Ecuador: export supply chain checks, mining and energy counterparties, asset tracing and LOPDP-aware research.",
   "nav": "Ecuador",
-  "bytes": 41429
+  "bytes": 41459
  },
  {
   "key": "intl-estonia",
@@ -3374,6 +3374,14 @@
   "desc": "TDSC investigative consulting in matters touching Querétaro: aerospace and automotive supplier diligence, industrial real estate and mercantile court support.",
   "nav": "Querétaro",
   "bytes": 41503
+ },
+ {
+  "key": "intl-ecuador-quito",
+  "path": "/international/ecuador/quito",
+  "title": "Quito Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting in matters touching Quito: counterparty and ownership research, public contract screening, flower trade and arbitration support.",
+  "nav": "Quito",
+  "bytes": 35784
  },
  {
   "key": "intl-united-states-raleigh",
