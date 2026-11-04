@@ -1,0 +1,145 @@
+{
+  "slug": "dubai-ae",
+  "name": "Dubai",
+  "cc": "AE",
+  "meta_description": "TDSC investigative consulting in matters touching Dubai: DIFC and onshore court context, free zone entity research, asset tracing and counterparty diligence.",
+  "eyebrow": "Emirate of Dubai, UAE",
+  "hero_lede": "Matters touching Dubai rarely sit in one legal system. An entity may be licensed onshore, in the DIFC or in one of the emirate's other free zones, and disputes may run through Dubai Courts, DIFC Courts or DIAC arbitration. TDSC scopes research around that structure from the outset.",
+  "intro": [
+    "Dubai is the commercial and logistics centre of the United Arab Emirates and one of the main trading hubs between Europe, Africa and Asia. The Dubai Data and Statistics Establishment reported a population of about 4.58 million at the end of 2025, the large majority of them foreign residents. The emirate combines an onshore economy licensed by the Dubai government with a network of free zones, among them the Dubai International Financial Centre, a common law financial free zone with its own courts and regulator, and DMCC, which reports more than 26,000 member companies and hosts the Dubai Diamond Exchange. Real estate, aviation, trade, hospitality and financial services anchor the economy.",
+    "Organisations commission investigative work connected to Dubai because so much international wealth, trade and corporate structuring passes through it. Holding companies, trading entities and family investment vehicles are frequently registered in Dubai free zones, and property in the emirate is a common destination for capital from across the region and beyond. That creates recurring questions: who stands behind a free zone counterparty, whether a trading partner's volumes and relationships are genuine, whether a judgment debtor holds Dubai real estate or company interests, and whether an executive candidate's regional track record is accurate. Answering those questions requires knowing which registry, regulator and court applies to the entity concerned."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 4.58 million (end 2025, Dubai Data and Statistics Establishment)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Trade and logistics, real estate, financial services, aviation, tourism, commodities"
+    },
+    {
+      "label": "Financial centre",
+      "value": "Dubai International Financial Centre (DIFC), regulated by the DFSA"
+    },
+    {
+      "label": "Commodities hub",
+      "value": "DMCC free zone, including the Dubai Diamond Exchange and gold trading"
+    },
+    {
+      "label": "Exchanges",
+      "value": "Dubai Financial Market; Nasdaq Dubai in the DIFC"
+    },
+    {
+      "label": "Port and airport",
+      "value": "Jebel Ali Port; Dubai International Airport (DXB)"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Dubai, UTC+4, no daylight saving"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Arabic (official, onshore courts) and English (widely used; DIFC Courts)"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Free zone counterparty identification",
+      "text": "Establishing which authority licenses a Dubai entity, whether onshore, DIFC, DMCC or another free zone, what that registrar makes available, and how far ownership and management can be confirmed from lawful public and commercial sources before a transaction or distribution appointment proceeds."
+    },
+    {
+      "title": "Real estate and asset tracing",
+      "text": "Identifying Dubai property holdings and company interests connected to a judgment debtor or award debtor, mindful that land registration records are not generally open to public ownership searches, and supporting counsel deciding whether recognition in Dubai Courts or DIFC Courts is worthwhile."
+    },
+    {
+      "title": "Gold, diamond and commodity trading",
+      "text": "Reviewing trading counterparties in the commodities sector, including their stated supply chains, trade volumes, related companies and adverse media, where documentation, invoicing and provenance questions are central to financing, compliance or dispute risk. Findings are set out so compliance and credit teams can see which points are verified."
+    },
+    {
+      "title": "Trade finance and re-export fraud",
+      "text": "Testing whether goods, shipments and buyers described in trade documents exist as represented, in a hub where transshipment and re-export through Jebel Ali and the free zones are routine and duplicate financing or fictitious trade can be difficult to detect."
+    },
+    {
+      "title": "Regional executive background reviews",
+      "text": "Verifying the career history, directorships and reputation of executives and principals based in Dubai who have worked across several Gulf and international markets, using lawful sources in each jurisdiction concerned. Discrepancies between stated and documented histories are reported with their sources."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Dubai Courts and DIFC Courts",
+      "text": "Onshore civil and commercial disputes in the emirate are heard by Dubai Courts, a local court system that proceeds in Arabic through first instance, appeal and cassation levels. The DIFC Courts sit separately in the DIFC. Their Court of First Instance has exclusive jurisdiction over DIFC-related civil and commercial matters and can hear other disputes where parties choose it before or after a dispute arises. A Small Claims Tribunal, a Digital Economy Court established in 2021 and a Court of Appeal complete the structure."
+    },
+    {
+      "title": "Dubai International Arbitration Centre",
+      "text": "DIAC is the emirate's principal arbitral institution and offers arbitration, mediation and appointing authority services, with a branch in the DIFC. Dubai Decree No. 34 of 2021 consolidated the emirate's arbitration centres into DIAC, so older contracts referring to the former DIFC-LCIA centre or the Emirates Maritime Arbitration Centre may now be administered by DIAC. Where a matter is heading to arbitration, research is scoped around the evidence the tribunal is likely to need."
+    },
+    {
+      "title": "Registries and licensing authorities",
+      "text": "There is no single Dubai company register. Onshore businesses are licensed by the Department of Economy and Tourism, DIFC entities by the DIFC Registrar of Companies, and DMCC and other free zone companies by their own authorities. Each publishes different information. The Dubai Land Department administers land and property registration, tenancy registration and real estate market data, but individual ownership records are not generally available to third parties without a legitimate basis."
+    },
+    {
+      "title": "DIFC legal framework and DFSA",
+      "text": "The DIFC applies its own civil and commercial laws, based largely on common law principles, and the DIFC Data Protection Law 2020 governs personal data processed in the centre, separately from federal law. The Dubai Financial Services Authority supervises financial services firms operating in or from the DIFC, including banking, asset management, insurance and the exchanges in the centre, and enforces anti-money laundering rules there."
+    },
+    {
+      "title": "Recording and privacy constraints",
+      "text": "UAE federal law treats unauthorised photography, recording and online intrusion as serious criminal matters, and these rules apply in Dubai's free zones as much as onshore. Surveillance and pretext enquiries are therefore not appropriate tools in Dubai matters. Field enquiries, where needed at all, are scoped with UAE counsel and carried out only by appropriately authorised local professionals. Clients are told at scoping which methods are excluded."
+    }
+  ],
+  "tdsc_approach": "TDSC works on Dubai matters from Nashville and has no presence in the emirate. Each engagement begins by locating the relevant entities within Dubai's layered system, onshore, DIFC or another free zone, and identifying which registers, court records and regulatory publications lawfully cover them. Research relies on public registers, DIFC and DFSA publications, published judgments, commercial databases and open sources, read in Arabic and English. Where on-the-ground enquiries are justified, TDSC coordinates qualified local professionals working with UAE counsel, and does not undertake surveillance or recording. Findings are organised so counsel can decide between Dubai Courts, DIFC Courts or DIAC routes, and personal data is handled with the federal and DIFC data protection regimes in mind.",
+  "faqs": [
+    {
+      "q": "Why does it matter whether a Dubai company is onshore or in a free zone?",
+      "a": "Because the licensing authority determines what records exist and who can see them. A DIFC entity sits on the DIFC Registrar's searchable register, a DMCC company is licensed by DMCC, and an onshore business is licensed by the Department of Economy and Tourism. Each discloses different information, so identifying the right authority is the first step in any Dubai counterparty review."
+    },
+    {
+      "q": "Can a foreign judgment be enforced against assets in Dubai?",
+      "a": "Enforcement routes depend on the judgment, the treaty position and where the assets sit. The DIFC Courts have been used in recognition strategies, but their interaction with onshore Dubai Courts has been shaped by decrees and case law and continues to evolve. TDSC helps identify assets and their location; counsel decides the enforcement route."
+    },
+    {
+      "q": "Can TDSC find out who owns a property in Dubai?",
+      "a": "The Dubai Land Department administers property registration, but ownership records are not generally open to public searches by third parties. Property links can sometimes be inferred lawfully from corporate filings, litigation records, developer announcements and other public sources. Formal disclosure usually requires a court process, which TDSC can support with research that helps counsel frame applications."
+    },
+    {
+      "q": "Are DIFC Courts proceedings in English?",
+      "a": "Yes. The DIFC Courts operate in English and apply DIFC law, which draws on common law principles, and their judgments are published. Onshore Dubai Courts proceed in Arabic, so documents generally need certified Arabic translations. TDSC reviews court records in both languages when building a litigation profile of a Dubai party."
+    },
+    {
+      "q": "Does DIFC data protection law apply to an investigation?",
+      "a": "If personal data is processed by an entity within the DIFC, the DIFC Data Protection Law 2020 applies rather than the federal law, and it carries its own conditions on lawful processing and transfers. TDSC asks clients at scoping whether DIFC-based entities or data are involved so handling is planned correctly."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DIFC Courts: Court structure",
+      "url": "https://www.difccourts.ae/about/court-structure"
+    },
+    {
+      "title": "Dubai International Arbitration Centre",
+      "url": "https://www.diac.com/en/home/"
+    },
+    {
+      "title": "Dubai Financial Services Authority: About us",
+      "url": "https://www.dfsa.ae/about-us"
+    },
+    {
+      "title": "Dubai Land Department: About",
+      "url": "https://dubailand.gov.ae/en/about-dubai-land-department/"
+    },
+    {
+      "title": "DMCC: About us",
+      "url": "https://www.dmcc.ae/about-us"
+    },
+    {
+      "title": "TradeArabia: Dubai's population tops 4.58m by 2025 end",
+      "url": "https://www.tradearabia.com/News/466004/Dubai-s-population-tops-4.58m-by-2025-end-records-7.5_Percent-growth"
+    }
+  ],
+  "review_flags": [
+    "Population figure (4.58 million, end 2025) taken from TradeArabia reporting of Dubai Data and Statistics Establishment data; the official DSC site could not be opened.",
+    "Decree No. 34 of 2021 consolidation of DIFC-LCIA and EMAC into DIAC, the DIFC Data Protection Law 2020, the Department of Economy and Tourism as onshore licensing authority, Dubai Courts' three tiers, and Nasdaq Dubai/DFM/Jebel Ali are from prior knowledge, not pages opened in this session (dc.gov.ae and difc.ae were blocked). Verify before publication.",
+    "FAQ on DIFC Courts as an enforcement conduit is deliberately general; the onshore/DIFC interplay has changed through decrees and Joint Judicial Committee decisions."
+  ],
+  "researched": "2026-11-04"
+}

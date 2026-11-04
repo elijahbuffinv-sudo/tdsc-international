@@ -1,0 +1,146 @@
+{
+  "slug": "tokyo-jp",
+  "name": "Tokyo",
+  "cc": "JP",
+  "meta_description": "TDSC investigative consulting in matters touching Tokyo: Prime Market company diligence, Business Court disputes, antisocial forces screening, asset research.",
+  "eyebrow": "Tokyo Metropolis, Japan",
+  "hero_lede": "Investigative consulting for matters touching Tokyo, scoped from Nashville: research on listed and private Japanese companies and their groups, antisocial forces screening for transactions, and factual support for counsel in disputes before Tokyo's Business Court or in Tokyo-seated arbitration.",
+  "intro": [
+    "Tokyo is Japan's political capital and the centre of its corporate and financial life. The metropolis had an estimated 14.25 million residents on 1 May 2025, and the surrounding commuter region is the largest urban economy in Japan. Most of the country's major trading houses, banks, insurers and listed manufacturers are headquartered in central Tokyo, and the Tokyo Stock Exchange, part of Japan Exchange Group, has organised its cash equity market into Prime, Standard and Growth segments since April 2022. The Financial Services Agency and the main national ministries sit in Kasumigaseki, and since October 2022 the Tokyo District Court's business-related divisions have been brought together in the Business Court at Nakameguro.",
+    "Organisations commission investigative work connected to Tokyo for several recurring reasons. Foreign acquirers and investors need to understand Japanese companies whose shareholders, cross-holdings and related-party arrangements are not fully visible in public filings. Japanese counterparties expect partners to have screened for links to organised crime, and foreign firms are increasingly asked to do the same. Tokyo headquarters of Japanese groups commission inquiries into misconduct at overseas subsidiaries, including in the United States. Departing employees and trade secret disputes, insolvency proceedings and enforcement of judgments against Tokyo-based assets also call for carefully sourced facts presented in a form Japanese counsel can use."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "14.25 million (estimate, 1 May 2025)"
+    },
+    {
+      "label": "Administrative status",
+      "value": "Tokyo Metropolis, a prefecture-level metropolitan government; national capital"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Finance, trading houses, manufacturing headquarters, information and communications, professional services"
+    },
+    {
+      "label": "Exchange",
+      "value": "Tokyo Stock Exchange (Japan Exchange Group): Prime, Standard and Growth markets since April 2022"
+    },
+    {
+      "label": "Financial regulator",
+      "value": "Financial Services Agency, headquartered in Tokyo"
+    },
+    {
+      "label": "Airports",
+      "value": "Haneda (Tokyo International) and Narita International"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Tokyo (UTC+9, no daylight saving)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Japanese; English in finance, trading houses and multinational firms"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Japanese target and partner diligence",
+      "text": "Research on Tokyo-headquartered companies ahead of acquisitions, investments or joint ventures, covering commercial registration details, group and cross-shareholding structures, management backgrounds, litigation and insolvency history, and Japanese-language press, so that buyers see beyond the securities reports and the management presentation."
+    },
+    {
+      "title": "Antisocial forces screening",
+      "text": "Screening counterparties, shareholders and intermediaries for indications of links to organised crime groups, as expected by Tokyo banks, landlords and listed companies, using lawful public sources and media archives. Findings are framed to support decisions under contractual exclusion clauses rather than as accusations."
+    },
+    {
+      "title": "Overseas subsidiary misconduct inquiries",
+      "text": "Support to Tokyo headquarters and their counsel investigating suspected fraud, bribery or accounting irregularities at subsidiaries abroad, especially in the United States, including background research on local managers, vendors and related companies, with reporting structured for Japanese decision-makers and audit committees."
+    },
+    {
+      "title": "Trade secrets and departing employees",
+      "text": "Fact-finding where a Tokyo company suspects that former employees or business partners have taken technical or customer information to a competitor, focusing on corporate links, new employers and public filings, in support of counsel considering claims under Japan's unfair competition rules."
+    },
+    {
+      "title": "Asset research and enforcement support",
+      "text": "Identifying publicly recorded real estate, corporate interests and other assets in Tokyo that may be relevant to enforcing a judgment or arbitral award, or to assessing a debtor before proceedings in the Tokyo District Court's commercial or insolvency divisions."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Tokyo Business Court",
+      "text": "Japan's first Business Court opened in October 2022 in the Tokyo District Court Nakameguro Government Building. It houses the Intellectual Property High Court, the district court's Intellectual Property Rights Division, and its Commercial Affairs and Insolvency Divisions, which previously sat in Kasumigaseki. Corporate disputes, shareholder actions, major insolvencies and patent litigation involving Tokyo companies therefore concentrate in one complex, and dockets and published decisions there are central to litigation history research."
+    },
+    {
+      "title": "Arbitration in Tokyo",
+      "text": "The Japan Commercial Arbitration Association (JCAA) administers commercial arbitration and mediation, with arbitration rules effective 1 July 2021 and commercial mediation rules partly amended in April 2024. The Japan International Dispute Resolution Center opened a Tokyo hearing facility in Toranomon in March 2020, but Japan's Financial Services Agency reports that it ceased operations in March 2025, so parties should confirm current hearing arrangements with counsel."
+    },
+    {
+      "title": "Detective business notification in Tokyo",
+      "text": "Under the national Act on the Proper Operation of Detective Business, anyone conducting surveillance, tailing or interviews into a person's whereabouts or activities for clients must notify the prefectural public safety commission; in Tokyo this is the Tokyo Metropolitan Public Safety Commission. TDSC does not hold such a notification and does not conduct surveillance in Tokyo. Any field work is coordinated with properly notified local businesses and the client's counsel."
+    },
+    {
+      "title": "Registries and the Legal Affairs Bureau",
+      "text": "Commercial and real estate registration for Tokyo companies and property is handled by the Ministry of Justice's Legal Affairs Bureau network, with the Tokyo Legal Affairs Bureau and its branch offices covering the metropolis. Registry extracts showing directors, representative directors, capital, purpose and registered address, and real estate records showing title and registered security interests, can be obtained, including online, and are routine starting points for Tokyo research."
+    },
+    {
+      "title": "Tokyo organised crime exclusion ordinance",
+      "text": "Tokyo has its own metropolitan ordinance on eliminating organised crime groups, which places obligations on businesses not to provide benefits to such groups and encourages exclusion clauses in contracts. Combined with national guidelines, it explains why Tokyo counterparties routinely ask for representations and screening. Screening relies on lawful public sources; police databases are not accessible to private parties. Matches are reported with their source and an assessment of reliability."
+    }
+  ],
+  "tdsc_approach": "For matters touching Tokyo, TDSC first agrees the decision the client faces and the Japanese records most likely to inform it: registry extracts, securities filings, Business Court and insolvency records, real estate registration and Japanese-language media. Research is conducted from Nashville, with Japanese-language material reviewed by qualified translators where needed, and findings are written so that both Western and Japanese readers can rely on them, with sources and confidence clearly stated. TDSC does not conduct surveillance or interviews in Japan; where field enquiries are justified it coordinates with businesses properly notified under the detective business law and with the client's Japanese counsel. Personal information is handled consistently with the Act on the Protection of Personal Information.",
+  "faqs": [
+    {
+      "q": "What can Tokyo registry records tell us about a Japanese company?",
+      "a": "Commercial registry extracts from the Legal Affairs Bureau show the company's name, purpose, capital, registered office, representative directors, directors and auditors, and their changes over time. They do not show shareholders. For listed companies, securities reports and large-shareholding filings add ownership detail. We combine these with litigation, real estate and media research to build a fuller picture."
+    },
+    {
+      "q": "Why do Tokyo counterparties ask about antisocial forces?",
+      "a": "Tokyo's metropolitan ordinance and national guidance expect businesses to avoid dealings with organised crime groups, so contracts commonly include exclusion clauses and parties screen each other. A foreign company entering a Tokyo transaction may be asked for representations or to screen its own intermediaries. We conduct that screening from lawful public sources and explain its limits."
+    },
+    {
+      "q": "Can you help with a case before the Tokyo Business Court?",
+      "a": "We support the client's Japanese counsel, who conduct the case. Typical tasks include researching the opposing party's group structure, directors, prior litigation and insolvency history, and publicly recorded assets. Material is delivered in a form counsel can translate and adapt for submission. We do not contact the court and do not obtain records other than through lawful channels."
+    },
+    {
+      "q": "Does TDSC conduct surveillance in Tokyo?",
+      "a": "No. Surveillance, tailing and similar enquiries in Japan are regulated detective business requiring notification to the Tokyo Metropolitan Public Safety Commission, and TDSC holds no such notification. Where a matter genuinely requires field work, we coordinate with properly notified Japanese firms under the client's counsel's direction, and we decline requests that would infringe privacy or the law."
+    },
+    {
+      "q": "Our Tokyo headquarters suspects fraud at a US subsidiary. Can TDSC help?",
+      "a": "Yes. Because TDSC is based in the United States, we can research US managers, vendors and related companies directly from public records and coordinate with US counsel, while reporting to the Tokyo headquarters in a structure suited to Japanese management and audit committees. Where Japanese-side records or personnel are involved, we work through Japanese counsel."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Tokyo Metropolitan Government: population estimate press release (May 2025)",
+      "url": "https://www.metro.tokyo.lg.jp/information/press/2025/05/2025052804"
+    },
+    {
+      "title": "Japan Exchange Group: TSE completes transition to new market segments (4 April 2022)",
+      "url": "https://www.jpx.co.jp/english/corporate/news/news-releases/0060/20220404-01.html"
+    },
+    {
+      "title": "World IP Review: A new era for business disputes in Japan",
+      "url": "https://www.worldipreview.com/contributed-article/a-new-era-for-business-disputes-in-japan"
+    },
+    {
+      "title": "Financial Services Agency: International arbitration in Japan",
+      "url": "https://www.fsa.go.jp/internationalfinancialcenter/en/news/2021/2021-09-22-international-arbitration.html"
+    },
+    {
+      "title": "Japan Commercial Arbitration Association (English site)",
+      "url": "https://www.jcaa.or.jp/en/"
+    },
+    {
+      "title": "Wikipedia: Demographics of Tokyo",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Tokyo"
+    }
+  ],
+  "review_flags": [
+    "JIDRC: the FSA page states it ceased operations in March 2025 (citing the business registry); confirm before publication since this contradicts older law-firm material describing it as active.",
+    "JCAA page opened did not confirm its office locations; the text deliberately does not state where JCAA offices are.",
+    "Tokyo Metropolitan Organized Crime Exclusion Ordinance (commonly dated 2011), the Tokyo Metropolitan Public Safety Commission as the notification authority, the Tokyo Legal Affairs Bureau, FSA's Tokyo location and Haneda/Narita are from general knowledge, not opened sources - verify. Ordinance year deliberately omitted.",
+    "courts.go.jp and Tokyo government English pages could not be fetched; Business Court details rely on a World IP Review article."
+  ],
+  "researched": "2026-11-04"
+}

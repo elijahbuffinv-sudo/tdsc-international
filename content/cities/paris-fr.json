@@ -1,0 +1,59 @@
+{
+  "slug": "paris-fr",
+  "name": "Paris",
+  "cc": "FR",
+  "meta_description": "TDSC investigative consulting in matters touching Paris: due diligence, asset tracing and dispute support around its courts, arbitral bodies and markets.",
+  "eyebrow": "Paris, Ile-de-France, France",
+  "hero_lede": "Investigative consulting for matters that run through Paris: counterparties headquartered in the capital, disputes before its economic and international chambers, arbitrations seated in the city, and assets held through Parisian holding structures. Engagements are scoped from Nashville with qualified French professionals where local work is needed.",
+  "intro": [
+    "Paris is the seat of French government, of most large French groups and of the national financial market authority, and it concentrates head offices, investment banks, asset managers, insurers and luxury, media and professional services firms. The business district of La Defense lies just outside the city limits in the Hauts-de-Seine. For legal purposes the city is also a deliberate venue: the Paris economic activities court, the international commercial chamber of the Paris Court of Appeal, the Paris seat of the Unified Patent Court and the ICC International Court of Arbitration all sit here, and the government actively promotes Paris as a place for resolving international business disputes.",
+    "Organisations commission investigative work connected to Paris because so many cross-border transactions, disputes and corporate structures pass through it. Typical triggers include pre-acquisition and partner due diligence on French groups and their subsidiaries, background work on executives and board candidates, evidence gathering and witness location for arbitrations seated in Paris, asset tracing to support recognition and enforcement of awards and judgments, and inquiries into suspected misconduct inside French entities. Real estate held through property companies (SCI) and layered holdings, and the reputational exposure of luxury, defence and public-contract sectors, also generate regular requests that need careful handling under French privacy and labour rules."
+  ],
+  "economy": [
+    {"label": "Population", "value": "2,103,778 (city of Paris, INSEE, 2023)"},
+    {"label": "Region", "value": "Ile-de-France, France's largest regional economy"},
+    {"label": "Key sectors", "value": "Finance, insurance, luxury goods, professional services, media, tourism, public administration"},
+    {"label": "Market regulator", "value": "Autorite des marches financiers (AMF), place de la Bourse"},
+    {"label": "Stock exchange", "value": "Euronext Paris"},
+    {"label": "Transport hubs", "value": "Paris-Charles de Gaulle and Paris-Orly airports"},
+    {"label": "Time zone", "value": "Europe/Paris, UTC+1 (UTC+2 in summer)"},
+    {"label": "Business languages", "value": "French; English widely used in finance and arbitration"}
+  ],
+  "matters": [
+    {"title": "Arbitration support for Paris-seated cases", "text": "Fact development, witness location and background research for parties in arbitrations seated in Paris under ICC or other rules, coordinated with counsel so that material gathered can be reviewed for admissibility and used in submissions, and later in annulment or enforcement proceedings before the Paris courts."},
+    {"title": "Due diligence on Paris-headquartered groups", "text": "Ownership mapping, litigation and insolvency history, press and regulatory record, and management background for French groups and their foreign subsidiaries, drawing on commercial court registry filings, the national business register and published AMF decisions where the target is listed or regulated."},
+    {"title": "Asset tracing through Parisian structures", "text": "Identification of real estate, holding companies and business interests linked to a judgment debtor or award debtor in Paris, including property held through SCIs and layered holdings, to support enforcement strategy developed by French counsel and authorised enforcement officers."},
+    {"title": "Internal inquiries in French entities", "text": "Support to counsel investigating alleged fraud, bribery or misconduct in a Paris office, scoped around French employment and data protection constraints, with document review and interviews planned with local counsel and staff representative bodies in mind."},
+    {"title": "Executive and board background checks", "text": "Lawful, consent-based or legitimate-interest background research on senior hires, board candidates and investment partners based in Paris, covering directorships, published court decisions, sanctions and media coverage, with careful attention to proportionality and the rights of the person concerned."}
+  ],
+  "local_context": [
+    {"title": "Economic activities court", "text": "Since 1 January 2025 the Paris commercial court has operated as one of twelve tribunaux des activites economiques created on an experimental basis for four years. It keeps the commercial court's role and also hears preventive and collective insolvency proceedings for a wider range of businesses. A government brochure published in 2026 describes it as issuing more than 70,000 decisions a year, with an international chamber that handled 220 cases in 2025 and allows English for documents and testimony."},
+    {"title": "Paris Court of Appeal chambers", "text": "The international commercial chamber of the Paris Court of Appeal (CCIP-CA) hears appeals in international business cases and devotes more than half of its activity to the review of international arbitral awards, an area where it has national exclusive jurisdiction. Hearings may be held in English and parties, witnesses and experts can be cross-examined. The Tribunal judiciaire de Paris acts as supporting judge for international arbitration."},
+    {"title": "Arbitral institutions in the city", "text": "Paris hosts the ICC International Court of Arbitration, founded in 1923, whose secretariat operates from Paris among other offices, and an ICC hearing centre opened in 2025. The Permanent Court of Arbitration has handled cases in Paris, ICSID announced a Paris location for 2026, and the Chambre arbitrale maritime de Paris and the Chambre arbitrale internationale de Paris serve trade and maritime disputes."},
+    {"title": "Patent and specialist jurisdiction", "text": "Since 1 June 2023 Paris has hosted a seat of the Unified Patent Court's Court of First Instance, including its central division and the French local division. Matters involving patent infringement or validity across participating EU states may therefore be litigated in Paris, which is relevant to intellectual property investigations, counterfeit supply chain work and evidence preservation in technology disputes."},
+    {"title": "Regulators headquartered in Paris", "text": "The Autorite des marches financiers, which regulates and supervises French financial markets and protects investors, is based at place de la Bourse. Its published sanctions and market decisions are a useful lawful source in due diligence on listed companies, investment firms and their managers. Other national authorities relevant to investigations, including those covering anti-corruption and data protection, are described on the France country page."}
+  ],
+  "tdsc_approach": "For matters touching Paris, TDSC begins by identifying the forum that will ultimately use the work, whether the economic activities court, the CCIP-CA, a Paris-seated arbitration or a foreign court enforcing French assets, because admissibility and procedure shape what should be gathered and how. Research is built on public registry filings, published decisions and regulator records, and on open sources reviewed for proportionality under French and EU data protection rules. Where fieldwork, interviews or surveillance in Paris are required, TDSC coordinates professionals authorised under French private security rules and works alongside the client's French counsel. TDSC has no office in Paris and scopes every engagement from Nashville.",
+  "faqs": [
+    {"q": "Can TDSC support a party in an ICC arbitration seated in Paris?", "a": "Yes, as a consultant to counsel. TDSC can research counterparties, locate and background witnesses and experts, and trace assets relevant to eventual enforcement. Counsel decides how material is used in the arbitration. Because annulment applications go to the Paris Court of Appeal, work is documented with a view to later scrutiny by that court."},
+    {"q": "Does the Paris court's change of name affect investigations?", "a": "The Paris commercial court has operated since January 2025 as an experimental economic activities court with broader insolvency jurisdiction. For investigators this mainly matters when checking insolvency and safeguard proceedings, which may now involve businesses that previously fell outside the commercial court. Searches should cover both the old and new designations when reviewing historical filings."},
+    {"q": "Can English-language evidence be used before the Paris courts?", "a": "According to a 2026 French government brochure, the international chamber of the Paris economic activities court allows English for documents and witness and expert testimony, and the CCIP-CA allows English at hearings. Proceedings and judgments remain in French, so counsel should confirm translation needs before evidence is gathered."},
+    {"q": "How does TDSC trace property held in Paris?", "a": "Property in Paris is often held through SCIs or holding companies rather than in personal names. TDSC combines registry research on the companies concerned with lawful public sources to build a picture of likely holdings, then works with French counsel, who can obtain formal property and registry extracts and instruct enforcement officers where needed."},
+    {"q": "Does TDSC have investigators based in Paris?", "a": "No. TDSC works from Nashville and has no office or staff in Paris. Where a matter needs local fieldwork, TDSC coordinates with independent French professionals authorised under French private security rules, within a scope agreed with the client and its French counsel, and remains responsible for the overall engagement and reporting."}
+  ],
+  "sources": [
+    {"title": "INSEE, Paris (75056) population data", "url": "https://www.insee.fr/fr/statistiques/1405599?geo=COM-75056"},
+    {"title": "Ministere de la Justice, Paris place de droit 2026 brochure", "url": "https://www.justice.gouv.fr/sites/default/files/2026-09/plaquette_paris_place_de_droit_2026.pdf"},
+    {"title": "Service-Public.fr, tribunaux des activites economiques", "url": "https://www.service-public.gouv.fr/entreprendre/actualites/A17504"},
+    {"title": "Autorite des marches financiers", "url": "https://www.amf-france.org/en"},
+    {"title": "AMF contact and address", "url": "https://www.amf-france.org/en/contact-us"},
+    {"title": "ICC International Court of Arbitration", "url": "https://iccwbo.org/dispute-resolution/dispute-resolution-services/icc-international-court-of-arbitration/"}
+  ],
+  "review_flags": [
+    "TAE Paris figures (70,000+ decisions/year, 220 international chamber cases in 2025), CCIP-CA English use and ICSID Paris 2026 opening come from a French government promotional brochure; confirm if quoted prominently.",
+    "Paris international commercial chamber pages on cours-appel.justice.fr were under maintenance and could not be opened directly.",
+    "Euronext Paris, Paris airports, La Defense location, sector list and Ile-de-France as largest regional economy are general knowledge, not from an opened source.",
+    "TAE experiment runs four years from 2025; check status if the experiment is extended, generalised or ended."
+  ],
+  "researched": "2026-11-04"
+}

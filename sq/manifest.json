@@ -5,7 +5,7 @@
   "title": "International Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting across 200 jurisdictions from Thiel Detective Service Company: legal frameworks, records, data protection and how TDSC scopes cross-border work.",
   "nav": "International",
-  "bytes": 30872
+  "bytes": 31940
  },
  {
   "key": "intl-andorra",
@@ -21,7 +21,7 @@
   "title": "United Arab Emirates Investigations | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching the UAE: onshore and free zone company research, PDPL-aware due diligence, asset tracing and careful local work.",
   "nav": "United Arab Emirates",
-  "bytes": 42456
+  "bytes": 42499
  },
  {
   "key": "intl-afghanistan",
@@ -61,7 +61,7 @@
   "title": "Australia Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters involving Australia: ASIC company records, Privacy Act limits, state investigator licensing and foreign bribery exposure.",
   "nav": "Australia",
-  "bytes": 53147
+  "bytes": 53180
  },
  {
   "key": "intl-bangladesh",
@@ -109,7 +109,7 @@
   "title": "Brazil Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Brazil: Junta Comercial and CNPJ research, LGPD-aware due diligence, asset tracing and Clean Company Act risk.",
   "nav": "Brazil",
-  "bytes": 47677
+  "bytes": 47710
  },
  {
   "key": "intl-bahamas",
@@ -157,7 +157,7 @@
   "title": "China Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching mainland China: lawful due diligence, PIPL and data-transfer scoping, and coordination with PRC counsel.",
   "nav": "China",
-  "bytes": 51188
+  "bytes": 51249
  },
  {
   "key": "intl-colombia",
@@ -197,7 +197,7 @@
   "title": "Germany Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Germany: GDPR and BDSG-aware due diligence, Handelsregister research, asset tracing and Mittelstand counterparty checks.",
   "nav": "Germany",
-  "bytes": 47759
+  "bytes": 47801
  },
  {
   "key": "intl-dominica",
@@ -253,7 +253,7 @@
   "title": "Spain Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Spain: due diligence, asset tracing and internal inquiries under the Private Security Act, GDPR and the AEPD.",
   "nav": "Spain",
-  "bytes": 46502
+  "bytes": 46531
  },
  {
   "key": "intl-finland",
@@ -277,7 +277,7 @@
   "title": "France Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching France: due diligence, asset tracing and internal inquiries under CNAPS licensing, Sapin II and CNIL oversight.",
   "nav": "France",
-  "bytes": 41217
+  "bytes": 41246
  },
  {
   "key": "intl-united-kingdom",
@@ -285,7 +285,7 @@
   "title": "United Kingdom Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for UK matters: Companies House and PSC records, UK GDPR limits, unlicensed investigator sector, Bribery Act and fraud exposure.",
   "nav": "United Kingdom",
-  "bytes": 52866
+  "bytes": 52904
  },
  {
   "key": "intl-grenada",
@@ -397,7 +397,7 @@
   "title": "Indonesia Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for Indonesia matters: PDP Law-aware due diligence, beneficial ownership records, asset tracing and coordination with local counsel.",
   "nav": "Indonesia",
-  "bytes": 56523
+  "bytes": 56557
  },
  {
   "key": "intl-ireland",
@@ -421,7 +421,7 @@
   "title": "India Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching India: MCA company research, DPDP-aware due diligence, litigation support and vetted local coordination.",
   "nav": "India",
-  "bytes": 48897
+  "bytes": 48926
  },
  {
   "key": "intl-iraq",
@@ -437,7 +437,7 @@
   "title": "Italy Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Italy: counterparty due diligence, asset tracing and internal inquiries under prefect licensing and the GDPR.",
   "nav": "Italy",
-  "bytes": 46206
+  "bytes": 46234
  },
  {
   "key": "intl-jamaica",
@@ -461,7 +461,7 @@
   "title": "Japan Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Japan: APPI-aware due diligence, registry research and coordination with notified local investigators.",
   "nav": "Japan",
-  "bytes": 48676
+  "bytes": 48704
  },
  {
   "key": "intl-kenya",
@@ -485,7 +485,7 @@
   "title": "South Korea Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching South Korea: PIPA-compliant due diligence, chaebol and supply-chain research, asset tracing and dispute support.",
   "nav": "South Korea",
-  "bytes": 49447
+  "bytes": 49481
  },
  {
   "key": "intl-kuwait",
@@ -941,7 +941,7 @@
   "title": "United States Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for US matters: state company and court records, state investigator licensing, FCRA and state privacy laws, and FCPA exposure.",
   "nav": "United States",
-  "bytes": 54759
+  "bytes": 54797
  },
  {
   "key": "intl-uruguay",
@@ -966,5 +966,125 @@
   "desc": "Investigative consulting for matters touching South Africa: POPIA-aware due diligence, CIPC records, asset tracing and PSIRA-registered local coordination.",
   "nav": "South Africa",
   "bytes": 44016
+ },
+ {
+  "key": "intl-china-beijing",
+  "path": "/international/china/beijing",
+  "title": "Beijing Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting in matters touching Beijing: state-linked counterparties, financial court disputes, tech-sector diligence and regulatory risk.",
+  "nav": "Beijing",
+  "bytes": 42632
+ },
+ {
+  "key": "intl-united-states-chicago",
+  "path": "/international/united-states/chicago",
+  "title": "Chicago Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting in matters touching Chicago: trading, logistics and property due diligence, asset research and Cook County litigation support.",
+  "nav": "Chicago",
+  "bytes": 46548
+ },
+ {
+  "key": "intl-united-arab-emirates-dubai",
+  "path": "/international/united-arab-emirates/dubai",
+  "title": "Dubai Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting in matters touching Dubai: DIFC and onshore court context, free zone entity research, asset tracing and counterparty diligence.",
+  "nav": "Dubai",
+  "bytes": 35276
+ },
+ {
+  "key": "intl-germany-frankfurt-am-main",
+  "path": "/international/germany/frankfurt-am-main",
+  "title": "Frankfurt am Main Investigations | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting in matters touching Frankfurt am Main: financial sector due diligence, AML-related inquiries and commercial court support.",
+  "nav": "Frankfurt am Main",
+  "bytes": 38536
+ },
+ {
+  "key": "intl-indonesia-jakarta",
+  "path": "/international/indonesia/jakarta",
+  "title": "Jakarta Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting in matters touching Jakarta: group ownership research, Commercial Court and award enforcement context, procurement risk.",
+  "nav": "Jakarta",
+  "bytes": 50933
+ },
+ {
+  "key": "intl-united-kingdom-london",
+  "path": "/international/united-kingdom/london",
+  "title": "London Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting in matters touching London: due diligence, asset tracing and litigation support tied to the City, its courts and markets.",
+  "nav": "London",
+  "bytes": 45771
+ },
+ {
+  "key": "intl-spain-madrid",
+  "path": "/international/spain/madrid",
+  "title": "Madrid Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting in matters touching Madrid: due diligence on Spanish groups, asset tracing and support around Madrid courts and arbitration.",
+  "nav": "Madrid",
+  "bytes": 38723
+ },
+ {
+  "key": "intl-italy-milan",
+  "path": "/international/italy/milan",
+  "title": "Milan Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting in matters touching Milan: due diligence, asset tracing and dispute support linked to its business court, CAM and markets.",
+  "nav": "Milan",
+  "bytes": 38343
+ },
+ {
+  "key": "intl-india-mumbai",
+  "path": "/international/india/mumbai",
+  "title": "Mumbai Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting in matters touching Mumbai: listed company and promoter diligence, Bombay High Court litigation research and asset tracing.",
+  "nav": "Mumbai",
+  "bytes": 39772
+ },
+ {
+  "key": "intl-france-paris",
+  "path": "/international/france/paris",
+  "title": "Paris Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting in matters touching Paris: due diligence, asset tracing and dispute support around its courts, arbitral bodies and markets.",
+  "nav": "Paris",
+  "bytes": 32668
+ },
+ {
+  "key": "intl-brazil-sao-paulo",
+  "path": "/international/brazil/sao-paulo",
+  "title": "São Paulo Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting in matters touching São Paulo: due diligence, asset tracing and litigation support in Brazil's financial and corporate centre.",
+  "nav": "São Paulo",
+  "bytes": 38388
+ },
+ {
+  "key": "intl-south-korea-seoul",
+  "path": "/international/south-korea/seoul",
+  "title": "Seoul Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting in matters touching Seoul: chaebol group diligence, technology leakage, insolvency court records and Seoul-seated arbitration.",
+  "nav": "Seoul",
+  "bytes": 43434
+ },
+ {
+  "key": "intl-china-shanghai",
+  "path": "/international/china/shanghai",
+  "title": "Shanghai Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting in matters touching Shanghai: trade and supplier diligence, financial court disputes, free trade zone entities and assets.",
+  "nav": "Shanghai",
+  "bytes": 42515
+ },
+ {
+  "key": "intl-australia-sydney",
+  "path": "/international/australia/sydney",
+  "title": "Sydney Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting in matters touching Sydney: NSW court and licensing context, ASX-listed and private company diligence, asset tracing support.",
+  "nav": "Sydney",
+  "bytes": 43576
+ },
+ {
+  "key": "intl-japan-tokyo",
+  "path": "/international/japan/tokyo",
+  "title": "Tokyo Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting in matters touching Tokyo: Prime Market company diligence, Business Court disputes, antisocial forces screening, asset research.",
+  "nav": "Tokyo",
+  "bytes": 42505
  }
 ]

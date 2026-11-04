@@ -1,0 +1,131 @@
+{
+  "slug": "mexico-city-mx",
+  "name": "Mexico City",
+  "cc": "MX",
+  "meta_description": "TDSC investigative consulting in matters touching Mexico City: due diligence, asset research and litigation support in Mexico's capital and financial centre.",
+  "eyebrow": "Ciudad de México, Mexico",
+  "hero_lede": "Mexico City is where Mexico's federal government, regulators, exchanges and most corporate headquarters meet. TDSC scopes investigative consulting for matters that run through the capital, from Nashville, and coordinates licensed Mexican professionals and counsel where local inquiries or filings are needed.",
+  "intro": [
+    "Mexico City produces roughly 15.8 percent of Mexico's gross domestic product on its own, and the wider metropolitan area about 22 percent, making it the largest single contributor to national services output. It is the seat of the federal government, the National Banking and Securities Commission (CNBV) and the country's two stock exchanges: the Bolsa Mexicana de Valores (BMV), described as Latin America's second largest exchange, and the Bolsa Institucional de Valores (BIVA), which began trading in July 2018. Since 2016 the former Federal District has been officially named Ciudad de México, a federal entity with its own constitution and sixteen boroughs (alcaldías).",
+    "Because ministries, regulators, banks and the headquarters of Mexico's large business groups cluster in the capital, matters touching Mexico often lead to Mexico City even when plants, mines or logistics hubs sit in other states. Organisations commission investigative work connected to the city before acquisitions and joint ventures, when government-facing intermediaries or contractors need to be vetted, when a distributor or local management team is suspected of diverting revenue, and when judgments or arbitral awards must be enforced against groups whose holding companies are domiciled there. Litigation in the capital's local and federal courts creates further demand for evidence and witness work."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "9.21 million in the city (2020 census)"
+    },
+    {
+      "label": "Metro area",
+      "value": "About 21.8 million in Greater Mexico City (2020)"
+    },
+    {
+      "label": "Share of national GDP",
+      "value": "About 15.8% for the city, about 22% for the metro area"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Federal government, finance, professional services, retail, media, manufacturing"
+    },
+    {
+      "label": "Exchanges and regulator",
+      "value": "BMV and BIVA; supervised by the CNBV"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Mexico_City, UTC-06:00 (no daylight saving)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Spanish; English common in finance and international law firms"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Government-facing intermediary vetting",
+      "text": "Concessions, permits and public contracts are largely negotiated with federal ministries and agencies headquartered in the capital. Before engaging consultants, agents or local partners who will deal with officials, organisations commission research into ownership, political exposure, prior sanctions and disputes, and how the intermediary is paid."
+    },
+    {
+      "title": "Business group ownership mapping",
+      "text": "Many Mexican groups are controlled by families through holding companies and trusts administered from Mexico City. Engagements reconstruct those structures from commercial registry filings, court records, regulatory disclosures and press coverage so that clients understand who ultimately controls a counterparty."
+    },
+    {
+      "title": "Listed issuer and financial counterparties",
+      "text": "With the BMV, BIVA, the CNBV and most banks in the city, investors and lenders examine issuers, brokers, fintech firms and fund managers. Work focuses on regulatory history, related-party transactions, disputes with investors and the backgrounds of controlling shareholders and directors."
+    },
+    {
+      "title": "Judgment and award enforcement",
+      "text": "Holding companies, bank relationships and high-value real estate of judgment and award debtors are often in Mexico City. Asset research covers registered real property, company interests, vehicles and receivables, and identifies transfers to relatives or affiliated entities ahead of enforcement."
+    },
+    {
+      "title": "Internal investigations at headquarters",
+      "text": "Regional headquarters for multinational subsidiaries in Mexico are frequently in the capital. Allegations of procurement kickbacks, expense fraud or conflicts of interest are investigated with attention to Mexican labour rules, data protection obligations and the preservation of documents for possible proceedings."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Courts sitting in the capital",
+      "text": "Mexico City hosts both its own judiciary, headed by the Tribunal Superior de Justicia de la Ciudad de México, which hears civil and commercial claims under local jurisdiction, and a large concentration of federal courts, including the federal district and collegiate courts that hear commercial and amparo matters and the Supreme Court. Whether a commercial dispute goes to local or federal court shapes where records are searched and how evidence is presented."
+    },
+    {
+      "title": "Arbitration in Mexico City",
+      "text": "Mexico City is the country's principal arbitral seat. The Centro de Arbitraje de México (CAM) is a private institution that administers commercial arbitration under its own rules, in force since 1 July 2009, under which the secretary general fixes the seat where the parties have not agreed one. ICC proceedings with a Mexican seat are also commonly sited in the capital, and the city's courts handle supporting and annulment measures."
+    },
+    {
+      "title": "Registries for the capital",
+      "text": "Commercial acts for companies domiciled in the capital are recorded in the Registro Público de Comercio through the federal SIGER system, while real property in the city is recorded in the Registro Público de la Propiedad y de Comercio de la Ciudad de México. Property research therefore follows the city's own registry procedures, which differ from those of the surrounding State of Mexico where much of the metropolitan area lies."
+    },
+    {
+      "title": "City and federal boundaries",
+      "text": "Greater Mexico City spans the city itself, municipalities of the State of Mexico and one municipality in Hidalgo. A person or company described as being in Mexico City may in fact be domiciled under State of Mexico jurisdiction, with different courts, property registry and local rules. Confirming the correct entity is an early step in any engagement. The same check applies to individuals' addresses."
+    }
+  ],
+  "tdsc_approach": "For Mexico City matters TDSC first confirms jurisdiction: whether the people, entities and assets sit in the city itself, in the State of Mexico portion of the metropolitan area, or elsewhere in the country. Research then draws on commercial registry filings, local and federal court records, property registry information obtained through lawful channels, regulatory disclosures from the CNBV and the exchanges, and Spanish-language media. Where field inquiries, certified copies or court filings are needed, TDSC coordinates licensed Mexican professionals, mindful that some investigative services may require private security authorisation, and works under the direction of the client's Mexican counsel. Findings are reported with sources and confidence levels, and personal data is kept to the agreed purpose.",
+  "faqs": [
+    {
+      "q": "Why do many Mexican matters lead to Mexico City?",
+      "a": "The capital hosts the federal government, the CNBV, both stock exchanges, the headquarters of most large banks and business groups, and the leading law firms. Even where operations are in Monterrey, the Bajío or the border states, holding companies, board decisions and bank relationships are often managed from Mexico City."
+    },
+    {
+      "q": "Is Mexico City the same as the State of Mexico?",
+      "a": "No. Ciudad de México is its own federal entity with sixteen boroughs, its own judiciary and its own property registry. Much of the metropolitan area lies in the State of Mexico, a separate state with different courts and registries. Investigations must confirm which jurisdiction an address or company actually falls under."
+    },
+    {
+      "q": "Which courts hear commercial disputes in Mexico City?",
+      "a": "Commercial claims may be heard by the city's own courts under the Tribunal Superior de Justicia de la Ciudad de México or by federal courts sitting in the capital, depending on the claim and the parties' choice. Appeals and constitutional challenges go through federal collegiate courts and, ultimately, the Supreme Court, also located in the city."
+    },
+    {
+      "q": "Is Mexico City a common arbitral seat?",
+      "a": "Yes. Arbitrations involving Mexican parties are frequently seated in Mexico City, administered by institutions such as the Centro de Arbitraje de México or the ICC. Investigative support usually involves identifying witnesses, tracing documents and researching assets that may be available if an award has to be enforced."
+    },
+    {
+      "q": "Does TDSC have an office in Mexico City?",
+      "a": "No. TDSC is based in Nashville, Tennessee and has no office or staff in Mexico. Engagements touching Mexico City are scoped and managed from Nashville, and where local work is required TDSC coordinates appropriately authorised Mexican professionals and works with the client's Mexican counsel. Field work is never presented as TDSC's own."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikipedia: Mexico City (population, GDP share, legal status, boroughs)",
+      "url": "https://en.wikipedia.org/wiki/Mexico_City"
+    },
+    {
+      "title": "Baker McKenzie Cross-Border Listings Guide: Bolsa Mexicana de Valores overview",
+      "url": "https://resourcehub.bakermckenzie.com/en/resources/cross-border-listings-guide/latin-america/bolsa-mexicana-de-valores/topics/overview-of-exchange"
+    },
+    {
+      "title": "Mexico News Daily: New stock exchange begins trading, breaking a 43-year monopoly",
+      "url": "https://mexiconewsdaily.com/news/new-stock-exchange-begins-trading/"
+    },
+    {
+      "title": "Reglas de Arbitraje del Centro de Arbitraje de México (OHADAC copy)",
+      "url": "https://www.ohadac.com/telechargement/legislation/40/reglas-de-arbitraje-del-centro-de-arbitraje-de-mexico.pdf"
+    }
+  ],
+  "review_flags": [
+    "Only 4 sources opened (brief asks 5-10); camaramexico.com.mx and poderjudicialcdmx.gob.mx were blocked by fetch provenance rules. Add official TSJCDMX and CAM sources.",
+    "Headquarters of BMV, BIVA and CNBV in Mexico City is stated from general knowledge; opened sources did not state their location explicitly.",
+    "CAM rules cited are the 2009 version from an OHADAC copy; CAM may have issued newer rules. Check camaramexico.com.mx.",
+    "Court description (TSJCDMX civil/commercial jurisdiction, federal courts in the capital) and the Registro Público de la Propiedad y de Comercio de la CDMX are from general knowledge; not opened. Effect of the 2024-2025 judicial reform on the CDMX judiciary not researched.",
+    "AICM/AIFA airports intentionally omitted (not verified)."
+  ],
+  "researched": "2026-11-04"
+}

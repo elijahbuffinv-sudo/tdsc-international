@@ -1,0 +1,137 @@
+{
+  "slug": "mumbai-in",
+  "name": "Mumbai",
+  "cc": "IN",
+  "meta_description": "TDSC investigative consulting in matters touching Mumbai: listed company and promoter diligence, Bombay High Court litigation research and asset tracing.",
+  "eyebrow": "Mumbai, Maharashtra, India",
+  "hero_lede": "Mumbai is where India's markets, banks and regulators sit and where many of its largest commercial disputes are fought. TDSC helps clients research Mumbai-based companies, promoters and counterparties, and supports counsel in disputes and enforcement before the city's courts, tribunals and arbitral institutions.",
+  "intro": [
+    "Mumbai, the capital of Maharashtra, is India's financial and commercial centre. The Reserve Bank of India and the Securities and Exchange Board of India are headquartered in the city, as are BSE and the National Stock Exchange, and a large share of India's banks, insurers, asset managers, conglomerates and law firms run their head offices from the Bandra Kurla Complex, Nariman Point and Lower Parel. The 2011 Census recorded about 12.4 million people in Greater Mumbai, and the wider metropolitan region, including Thane and Navi Mumbai, is considerably larger. Port and logistics activity runs through Mumbai Port and the Jawaharlal Nehru Port in Navi Mumbai, and the city is the centre of India's film, media, diamond and textile trades.",
+    "Organisations commission investigative work connected to Mumbai because it is where Indian capital is raised, managed and contested. Foreign investors acquiring stakes in listed or closely held companies need confidence in promoters and their related parties. Lenders and creditors pursuing defaulted borrowers often find that the relevant proceedings, from insolvency to debt recovery to commercial suits, sit in Mumbai. Distributors, joint venture partners and suppliers based in the metropolitan region are frequent subjects of integrity reviews. And because family-controlled groups dominate much of Indian business, mapping the web of group companies, trusts and individuals behind a counterparty is often the central task."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 12.4 million in Greater Mumbai (Census 2011)"
+    },
+    {
+      "label": "Metro area",
+      "value": "Mumbai Metropolitan Region, including Thane and Navi Mumbai"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Banking and finance, capital markets, media and film, diamonds and jewellery, pharmaceuticals, logistics"
+    },
+    {
+      "label": "Exchanges and regulators",
+      "value": "BSE and NSE; Reserve Bank of India and SEBI head offices"
+    },
+    {
+      "label": "Port and airport",
+      "value": "Mumbai Port and Jawaharlal Nehru Port (Navi Mumbai); Chhatrapati Shivaji Maharaj International Airport"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Kolkata, UTC+5:30, no daylight saving"
+    },
+    {
+      "label": "Languages of business",
+      "value": "English, Hindi and Marathi (state official language); Gujarati widely used in trade"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Promoter and group structure mapping",
+      "text": "Tracing the companies, LLPs, trusts and family members connected to a Mumbai promoter group through Ministry of Corporate Affairs filings, stock exchange disclosures and litigation records, to identify related-party exposure, pledged shareholdings and undisclosed interests before an investment or financing."
+    },
+    {
+      "title": "Listed company disclosure review",
+      "text": "Comparing a listed company's exchange announcements, annual reports and shareholding patterns with regulatory orders, auditor changes, insolvency proceedings and press coverage to test whether its public narrative holds up, ahead of a transaction or in support of a dispute."
+    },
+    {
+      "title": "Creditor and insolvency support",
+      "text": "Researching borrowers, guarantors and their assets for lenders and creditors whose recovery runs through Mumbai proceedings, including insolvency matters, debt recovery cases and commercial suits, and helping counsel identify property and corporate interests worth pursuing. Gaps are stated plainly."
+    },
+    {
+      "title": "Diamond and jewellery trade counterparties",
+      "text": "Reviewing gem and jewellery businesses connected to Mumbai's trading hubs, including their group companies, export financing, banking history and adverse media, in a sector where trade finance has been the subject of major fraud cases. Sanctions exposure is also checked."
+    },
+    {
+      "title": "Distributor and vendor integrity reviews",
+      "text": "Verifying the ownership, registration, litigation history and reputation of distributors, logistics providers and suppliers across the Mumbai Metropolitan Region, including checks for links to the client's own employees and for undisclosed government connections. Results are graded by risk."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Bombay High Court and city courts",
+      "text": "The Bombay High Court has its principal seat in Mumbai, with benches at Nagpur and Aurangabad and a court in Goa. Unusually, it exercises ordinary original civil jurisdiction over Mumbai, so larger suits arising in the city are filed directly in the High Court. Under section 7 of the Commercial Courts Act 2015, commercial disputes above the specified value on its original side go to the Commercial Division, and leave under clause 12 of the Letters Patent is needed where only part of the cause of action arises in Mumbai."
+    },
+    {
+      "title": "Mumbai Centre for International Arbitration",
+      "text": "MCIA was launched in 2016 as a not-for-profit institution supported by the Government of Maharashtra together with the Indian and international business and legal communities, and its arbitration rules took effect on 15 June 2016. It has received appointment references from Indian courts and administers domestic and international cases. Mumbai is also a frequent seat for ad hoc arbitrations involving Indian parties, with supervisory applications heard by the Bombay High Court."
+    },
+    {
+      "title": "Tribunals and corporate records",
+      "text": "Mumbai hosts benches of the National Company Law Tribunal, which hears insolvency and company law cases, and Debt Recovery Tribunals used by banks. The Registrar of Companies for Maharashtra in Mumbai registers companies incorporated in the state, with filings available through the Ministry of Corporate Affairs portal. Listed company disclosures are published by BSE and NSE, and SEBI publishes enforcement orders that frequently concern Mumbai-based entities and intermediaries."
+    },
+    {
+      "title": "Maharashtra property and state law",
+      "text": "Land and property transactions in Mumbai are registered under the Registration Act 1908 through Maharashtra's Department of Registration and Stamps, and stamp duty is governed by state legislation. Registered project information for developers is published by the Maharashtra Real Estate Regulatory Authority. The Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 is used in large investor fraud cases, and the Economic Offences Wing of Mumbai Police handles major financial crime complaints."
+    }
+  ],
+  "tdsc_approach": "TDSC handles Mumbai matters from Nashville and has no office in India. Engagements start by identifying which Mumbai records bear on the question: Ministry of Corporate Affairs filings, BSE and NSE disclosures, SEBI and RBI orders, Bombay High Court, NCLT and DRT cause lists and judgments, and lawfully accessible registration records. Research draws on English-language records and, where useful, in Marathi, Hindi and Gujarati sources. Where enquiries in Mumbai are needed, such as market interviews or site verification, TDSC coordinates experienced local professionals working with Indian counsel, without pretexting or access to call, bank or identity records. Personal data is handled with India's data protection framework in mind, and findings are prepared so Indian counsel can use them in proceedings.",
+  "faqs": [
+    {
+      "q": "Why are so many commercial suits filed directly in the Bombay High Court?",
+      "a": "The Bombay High Court has ordinary original civil jurisdiction over Mumbai, so suits above the applicable value arising in the city are filed there rather than in a district court, and commercial disputes go to its Commercial Division. Research for such cases often starts with the court's own cause lists and orders alongside the opponent's corporate records."
+    },
+    {
+      "q": "Can TDSC map a Mumbai promoter group's companies and interests?",
+      "a": "Yes, within lawful sources. Director identification numbers, company filings, charge records, exchange disclosures and court records usually reveal much of a group's structure. Benami holdings and informal family arrangements are harder to evidence, and we say clearly which links are documented and which are inferred."
+    },
+    {
+      "q": "Is MCIA a good choice for disputes with Mumbai counterparties?",
+      "a": "That is a decision for counsel. MCIA has administered domestic and international arbitrations since 2016 and Mumbai is an established seat. TDSC's role is to support whichever forum is chosen, for example with background research on parties and witnesses or asset tracing ahead of enforcement in India."
+    },
+    {
+      "q": "Are Mumbai property records searchable?",
+      "a": "Property documents are registered with Maharashtra's Department of Registration and Stamps, and some registration index information can be searched online, but coverage, fees and the level of detail vary and older records may require in-person searches. TDSC works with local professionals to obtain records lawfully and notes their limits."
+    },
+    {
+      "q": "Where are regulatory actions against Mumbai companies published?",
+      "a": "SEBI publishes enforcement orders and settlement orders on its website, the RBI publishes penalties on regulated entities, and the stock exchanges publish disciplinary actions and announcements. NCLT and court orders are available through their own portals. These are core sources in any Mumbai counterparty or listed company review."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DWF: The Mumbai Centre for International Arbitration (2026)",
+      "url": "https://dwfgroup.com/en/news-and-insights/insights/2026/6/the-mumbai-centre-for-international-arbitration"
+    },
+    {
+      "title": "Aceris Law: Mumbai Centre for International Arbitration",
+      "url": "https://www.acerislaw.com/mumbai-centre-international-arbitration-mcia/"
+    },
+    {
+      "title": "Norton Rose Fulbright: The Mumbai Centre for International Arbitration",
+      "url": "https://www.nortonrosefulbright.com/en/knowledge/video/33499368/the-mumbai-centre-for-international-arbitration"
+    },
+    {
+      "title": "Bombay High Court: court information",
+      "url": "https://bombayhighcourt.nic.in/proceeding.php"
+    },
+    {
+      "title": "Commercial Courts Act 2015, section 7",
+      "url": "https://www.advocatekhoj.com/library/bareacts/commercialcourts/7.php"
+    },
+    {
+      "title": "Law and Other Things: Bombay High Court practice and procedure",
+      "url": "https://lawandotherthings.com/litigation-101-part-2-bombay-high-court-practice-and-procedure/"
+    }
+  ],
+  "review_flags": [
+    "Population (Census 2011, about 12.4 million Greater Mumbai) is from prior knowledge; no official census page was opened. India's next census was under way in 2026, so update when results are published.",
+    "Official sites for SEBI, RBI, MCIA, IGR Maharashtra and MahaRERA could not be fetched (provenance restrictions); statements that RBI/SEBI/BSE/NSE are headquartered in Mumbai, the NCLT and DRT benches, the MPID Act 1999, MahaRERA and the online registration index search rely on prior knowledge. Verify before publication.",
+    "Bombay High Court bench list taken from the court's site (Nagpur, Aurangabad, Goa); a Kolhapur circuit bench was announced in 2025 per press reports not verified here and the court page lists Kolhapur only as a district."
+  ],
+  "researched": "2026-11-04"
+}

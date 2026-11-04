@@ -1,0 +1,134 @@
+{
+  "slug": "new-york-us",
+  "name": "New York",
+  "cc": "US",
+  "meta_description": "TDSC investigative consulting in matters touching New York: due diligence, asset tracing and litigation support tied to its courts, markets and real estate.",
+  "eyebrow": "New York City, United States",
+  "hero_lede": "New York brings together US capital markets, global banking, commercial litigation and high-value real estate. TDSC scopes investigative consulting from Nashville for matters touching the city, relying on public records and coordinating New York-licensed investigators and the client's counsel where local work is required.",
+  "intro": [
+    "New York City is the largest city in the United States, with an estimated 8.58 million residents in July 2025 across five boroughs. It is the country's principal financial centre, home to major stock exchanges, global banks, asset managers, insurers and the law and accounting firms that serve them, and to the headquarters of the United Nations. Manhattan concentrates corporate headquarters, media and professional services, while Brooklyn and Queens host growing technology, logistics and creative industries. New York law governs a large share of US and international finance contracts, and the city's state and federal courts hear complex commercial, securities and fraud cases.",
+    "Organisations commission investigative work connected to New York because capital, contracts and disputes from around the world are routed through it. A foreign borrower may have accepted New York jurisdiction in a loan agreement; a judgment debtor may hold a Manhattan apartment through a limited liability company; a fund manager seeking investment may be based in Midtown with affiliates offshore. Lenders, investors and litigators need to understand who controls an entity, where assets sit and what history lies behind the people involved. The work usually combines New York court, property and corporate records with research in the other states and countries connected to the matter."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "8,584,629 (New York City, July 2025, Census Bureau Vintage 2025)"
+    },
+    {
+      "label": "Boroughs",
+      "value": "Manhattan, Brooklyn, Queens, the Bronx, Staten Island"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Finance, insurance, real estate, legal and professional services, technology, media"
+    },
+    {
+      "label": "Exchanges",
+      "value": "New York Stock Exchange and Nasdaq"
+    },
+    {
+      "label": "State financial regulator",
+      "value": "New York State Department of Financial Services"
+    },
+    {
+      "label": "Commercial court",
+      "value": "Commercial Division, Supreme Court, New York County"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/New_York, UTC-5 (UTC-4 in summer)"
+    },
+    {
+      "label": "Language of business",
+      "value": "English"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Enforcing judgments against New York assets",
+      "text": "Creditors holding foreign or US judgments often look to New York, where debtors keep bank relationships, brokerage accounts and property. We identify entities, real estate and connected persons through public records so counsel can decide on recognition, restraint or turnover proceedings under New York procedure."
+    },
+    {
+      "title": "Real estate held through LLCs",
+      "text": "Manhattan and Brooklyn property is frequently held through limited liability companies that disclose little about their members. We trace deeds, mortgages, filings and litigation linked to a property and its holding entities to identify the people likely to stand behind them."
+    },
+    {
+      "title": "Fund manager and sponsor diligence",
+      "text": "Investors allocating to New York-based managers, sponsors and placement agents need assurance on the individuals involved. We review regulatory filings and disciplinary records, litigation, corporate affiliations and career history to surface undisclosed conflicts, prior enforcement or inconsistent claims."
+    },
+    {
+      "title": "Commercial Division and federal litigation",
+      "text": "Disputes in the Commercial Division and the federal courts in Manhattan and Brooklyn often turn on facts outside the documents produced. We support counsel with witness background research, corporate history and document trail reconstruction, scoped to the rules of the court and the litigation hold."
+    },
+    {
+      "title": "Sovereign and cross-border debtor research",
+      "text": "Many international bonds and loans are governed by New York law and litigated there. Creditors need to understand a foreign obligor's commercial assets, state-owned entities and counterparties. We map these from public sources across jurisdictions, leaving immunity and enforceability questions to counsel."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Commercial Division of the Supreme Court",
+      "text": "New York's Supreme Court is the state's general trial court. Its Commercial Division hears complex business cases under dedicated rules (22 NYCRR 202.70). In New York County (Manhattan) the monetary threshold is $500,000, compared with $150,000 in Kings County (Brooklyn), $100,000 in Queens and $75,000 in the Bronx, excluding punitive damages, interest, costs and fees. Some matters, such as shareholder derivative actions and commercial class actions, are heard regardless of amount. Investigative evidence must fit the division's disclosure and expert rules."
+    },
+    {
+      "title": "Federal courts in the city",
+      "text": "The United States District Court for the Southern District of New York sits in Manhattan and the Eastern District of New York in Brooklyn. Both hear large volumes of securities, fraud, sanctions and international commercial cases, and the US Attorney's offices for those districts prosecute many white-collar matters. Federal dockets are searchable through PACER. Discovery in aid of foreign proceedings is also commonly sought in these courts under federal law, a route counsel should evaluate early."
+    },
+    {
+      "title": "New York investigator licensing",
+      "text": "Under Article 7 of the New York General Business Law, anyone who engages in the business of private investigation for pay must be licensed by the Department of State, with a separate licence for each office. A licence requires at least three years of qualifying investigative experience and a written examination; attorneys acting in their regular practice are exempt. Fieldwork in New York for TDSC matters is therefore carried out by New York-licensed professionals or by the client's counsel."
+    },
+    {
+      "title": "Records and registries",
+      "text": "Business entities are formed with the New York Department of State, Division of Corporations, whose public records show entity type, filing history and a service address but usually not owners. Real property records for the city's boroughs are recorded by the New York City Department of Finance, and state court filings are searchable online for many cases. Records of entities formed in Delaware or other states must be searched in those states."
+    },
+    {
+      "title": "Financial regulation in New York",
+      "text": "The New York State Department of Financial Services supervises state-chartered banks, insurers, money transmitters and virtual currency businesses, and publishes enforcement actions and consent orders. Federal regulators, including the Securities and Exchange Commission and the Financial Industry Regulatory Authority, maintain major offices in the city. Their public enforcement records are standard sources when assessing New York financial counterparties."
+    }
+  ],
+  "tdsc_approach": "TDSC has no office in New York and works on New York matters from Nashville. We begin by agreeing with the client's counsel whether the work supports state or federal litigation, enforcement, a transaction or an internal review, because that decides which records are relevant and how findings should be documented. Research covers state and federal dockets, the Division of Corporations, New York City property records, regulatory registers and filings in Delaware and other states where entities are formed. Any fieldwork, interviews or surveillance in New York is performed by New York-licensed investigators under Article 7 of the General Business Law. Reports cite sources so counsel can rely on them in proceedings.",
+  "faqs": [
+    {
+      "q": "Does an investigator need a New York licence to work on a New York matter?",
+      "a": "Anyone conducting private investigation in New York for pay generally needs a licence from the New York Department of State under Article 7 of the General Business Law, unless an exemption applies, such as attorneys acting in their regular practice. TDSC does not hold a New York licence; fieldwork in the state is carried out by New York-licensed professionals."
+    },
+    {
+      "q": "Which New York court is likely to hear a large commercial dispute?",
+      "a": "In Manhattan, cases above $500,000 that meet the commercial criteria can be heard in the Commercial Division of the Supreme Court, New York County. Federal cases go to the Southern District of New York in Manhattan or the Eastern District in Brooklyn. Counsel decides on forum; we tailor research to that court's disclosure and evidence rules."
+    },
+    {
+      "q": "Can we find out who owns a Manhattan apartment held by an LLC?",
+      "a": "Recorded deeds and mortgages identify the LLC as owner and often the person who signed for it. New York's public entity records rarely list members. We combine property, entity, litigation and other public records, including filings in other states, to identify the likely beneficial owners and the confidence level of each conclusion."
+    },
+    {
+      "q": "Is New York useful for tracing assets of a foreign debtor?",
+      "a": "Often. Many foreign companies, banks and sovereign entities have New York-law contracts, US dollar clearing relationships or property in the city. Public records may reveal litigation, liens, real estate and corporate affiliates. Account-level information is not obtainable privately; it requires court process, which counsel can seek once research shows where assets are likely to be."
+    },
+    {
+      "q": "Where are regulatory histories of New York financial firms found?",
+      "a": "Sources include the New York Department of Financial Services enforcement actions, SEC filings and litigation releases, FINRA BrokerCheck and disciplinary records, and court dockets. We review these alongside corporate records and media to give a rounded picture. Absence from these sources is not proof of a clean record, so we describe the scope of each search."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NYC Department of City Planning: New York City Population Estimates and Trends, March 2026",
+      "url": "https://s-media.nyc.gov/agencies/dcp/assets/files/pdf/data-tools/population/population-estimates/new-york-city-population-estimates-and-trends-march-2026.pdf"
+    },
+    {
+      "title": "22 NYCRR 202.70: Rules of the Commercial Division of the Supreme Court (Cornell LII)",
+      "url": "https://www.law.cornell.edu/regulations/new-york/title-22/subtitle-A/chapter-II/part-202/section-202.70"
+    },
+    {
+      "title": "New York Department of State: Private Investigator licensing law (March 2026)",
+      "url": "https://dos.ny.gov/system/files/documents/2026/03/pi-bea-wgp-sg-licensing-law_03.2026.pdf"
+    }
+  ],
+  "review_flags": [
+    "Only three sources were actually opened (below the 5 minimum). Official pages for NYDFS, SDNY/EDNY, NYC Department of Finance (ACRIS), NY Division of Corporations, NYSE/Nasdaq and the UN could not be fetched (provenance restrictions); those statements rest on background knowledge. Add sources before publishing.",
+    "Commercial Division thresholds taken from Cornell LII text of 22 NYCRR 202.70; the official nycourts.gov page did not load. Thresholds are amended periodically; confirm before publishing.",
+    "New York LLC Transparency Act deliberately not mentioned: its scope was narrowed in 2025 and its status should be checked if beneficial ownership is to be discussed.",
+    "Search budget for this city exceeded by one call (4 WebSearch calls)."
+  ],
+  "researched": "2026-11-04"
+}

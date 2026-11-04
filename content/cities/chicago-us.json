@@ -1,0 +1,142 @@
+{
+  "slug": "chicago-us",
+  "name": "Chicago",
+  "cc": "US",
+  "meta_description": "TDSC investigative consulting in matters touching Chicago: trading, logistics and property due diligence, asset research and Cook County litigation support.",
+  "eyebrow": "Chicago, Illinois, United States",
+  "hero_lede": "Chicago anchors derivatives trading, Midwest banking, logistics and manufacturing headquarters. TDSC scopes investigative consulting from Nashville for matters touching the city, working from public records and coordinating Illinois-licensed private detectives and the client's counsel where local work is required.",
+  "intro": [
+    "Chicago is the third-largest city in the United States, with about 2.73 million residents in the Census Bureau's 2025 estimate, and the economic centre of the Midwest. It is a global hub for futures and options trading, home to large exchange, trading and clearing operations, and hosts a Federal Reserve Bank. The city has a broad base of corporate headquarters in manufacturing, food, aviation, insurance and professional services, and its airports, rail yards and inland ports make it one of the country's main freight and distribution nodes. Its law and accounting firms serve clients across the region, and Cook County courts carry one of the largest civil caseloads in the country.",
+    "Organisations commission investigative work connected to Chicago because trading, supply chain and real estate activity concentrates there. A trading counterparty may operate from the Loop through layered entities; a logistics or distribution partner may control warehouses across Illinois and neighbouring states; a property portfolio may be held through land trusts and limited liability companies that reveal little about their beneficiaries. Lenders, acquirers, insurers and litigators need to know who controls these structures and what histories lie behind them. Illinois also has distinctive rules on recording conversations and on biometric data, which shape how any local fieldwork must be planned."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "2,731,585 (City of Chicago, 2025 Census Bureau estimate)"
+    },
+    {
+      "label": "County",
+      "value": "Cook County, Illinois"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Derivatives trading, banking, insurance, manufacturing, food, logistics, professional services"
+    },
+    {
+      "label": "Markets",
+      "value": "Global centre for futures and options exchanges"
+    },
+    {
+      "label": "Transport hub",
+      "value": "Major airport, rail freight and inland distribution centre"
+    },
+    {
+      "label": "Commercial court",
+      "value": "Commercial Calendars, Law Division, Circuit Court of Cook County"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Chicago, UTC-6 (UTC-5 in summer)"
+    },
+    {
+      "label": "Language of business",
+      "value": "English"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Trading firm and counterparty diligence",
+      "text": "Proprietary trading firms, introducing brokers and commodity advisers in Chicago often operate through affiliated entities. We review regulatory registrations and disciplinary history, litigation and corporate filings to identify the people in control, prior enforcement and undisclosed related parties before onboarding or investment."
+    },
+    {
+      "title": "Real estate behind land trusts",
+      "text": "Chicago property has long been held through Illinois land trusts and limited liability companies that keep beneficiaries out of public view. We work from recorded documents, entity filings, litigation and tax records to identify likely beneficial owners and the strength of each attribution."
+    },
+    {
+      "title": "Supply chain and logistics partners",
+      "text": "Distributors, carriers and warehouse operators around Chicago move goods for national and international clients. We examine ownership, related companies, regulatory and litigation history and reputational issues to test whether a partner is what it claims to be and whether it carries undisclosed risk."
+    },
+    {
+      "title": "Cook County commercial litigation support",
+      "text": "Disputes on the Commercial Calendars and in the Chancery Division often depend on facts the other side has not produced. We support counsel with witness backgrounds, corporate history and document trail reconstruction, scoped to Illinois discovery rules and the court's case management orders."
+    },
+    {
+      "title": "Asset research for judgment enforcement",
+      "text": "Creditors enforcing judgments against Chicago-based debtors need to know what property, business interests and connected entities exist. We map these from public records so counsel can plan citations to discover assets, liens and other enforcement steps available under Illinois procedure."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Circuit Court of Cook County",
+      "text": "The Circuit Court of Cook County is one of the largest unified trial courts in the United States. Its Law Division hears civil damages claims, mostly at the Richard J. Daley Center in the Loop, and includes the Commercial Calendars, a group of judges who hear business disputes and form one of the oldest specialised business court programmes in the country. The Chancery Division hears equitable matters regardless of amount, including injunctions, class actions and corporate and partnership dissolutions."
+    },
+    {
+      "title": "Federal court in Chicago",
+      "text": "The United States District Court for the Northern District of Illinois sits in Chicago and hears securities, commodities, trade secret, fraud and other commercial cases with interstate or international elements, and the US Attorney's office for the district prosecutes white-collar crime. Federal dockets are available through PACER. For matters involving derivatives markets, federal regulators' enforcement actions are an important parallel source alongside the court record."
+    },
+    {
+      "title": "Illinois private detective licensing",
+      "text": "Illinois requires anyone who acts as or provides the functions of a private detective to be licensed under the Private Detective, Private Alarm, Private Security, Fingerprint Vendor, and Locksmith Act of 2004 (225 ILCS 447), administered by the Department of Financial and Professional Regulation. Agencies and each branch office need their own licences, and applicants must pass an examination. Attorneys licensed in Illinois are exempt while practising law. TDSC coordinates Illinois-licensed professionals for any fieldwork."
+    },
+    {
+      "title": "Recording and biometric rules",
+      "text": "Illinois treats recording of conversations strictly. Under the eavesdropping provisions of the Criminal Code (720 ILCS 5/14-2), a person who knowingly and surreptitiously records a private conversation, even as a participant, commits an offence unless all parties consent. Illinois also has a Biometric Information Privacy Act that restricts collecting biometric identifiers without written consent and has generated extensive litigation. Both affect how interviews, covert enquiries and evidence collection are planned in Chicago."
+    },
+    {
+      "title": "Records and registries",
+      "text": "Business entities are registered with the Illinois Secretary of State, whose public search shows status, registered agent and, for corporations, officers in annual reports, but not owners of limited liability companies. Real property documents for Chicago are recorded with Cook County, which also publishes assessment and tax data by parcel. Court records for the Circuit Court are searchable online for many case types, though access to filed documents varies."
+    }
+  ],
+  "tdsc_approach": "TDSC has no office in Chicago and works on Chicago matters from Nashville. We agree the purpose with the client's counsel first, whether Cook County or federal litigation, judgment enforcement, a trading or acquisition relationship, or an internal review, and scope the research to it. Sources include Cook County court and property records, the Illinois Secretary of State, Northern District dockets, and regulatory registers relevant to trading and financial firms. Any fieldwork in Illinois is carried out by Illinois-licensed private detectives, planned around the all-party consent rule for recording and the restrictions on biometric data. Reports identify sources and confidence levels so counsel can use them in Illinois proceedings.",
+  "faqs": [
+    {
+      "q": "Can conversations be recorded during a Chicago investigation?",
+      "a": "Illinois law makes it an offence to surreptitiously record a private conversation without the consent of all parties, including when the person recording takes part in it. Any interview or meeting that may be recorded is planned with counsel so that consent is obtained or recording is not used. We do not undertake covert recording of private conversations in Illinois."
+    },
+    {
+      "q": "Does an investigator need an Illinois licence to work in Chicago?",
+      "a": "Generally yes. Illinois requires a private detective licence from the Department of Financial and Professional Regulation for anyone acting as or providing the functions of a private detective, with separate agency and branch licences. Illinois attorneys practising law are exempt. TDSC does not hold an Illinois licence and uses licensed Illinois professionals for local work."
+    },
+    {
+      "q": "How can we identify who owns a Chicago property held in a land trust?",
+      "a": "Recorded documents usually name the trustee, often a bank or trust company, rather than the beneficiary. We look for connected records such as mortgages, tax bills, building violations, permits, litigation and entity filings that may reveal the people behind the trust. Where public sources are insufficient, counsel may be able to compel disclosure through legal process."
+    },
+    {
+      "q": "Where are business disputes heard in Chicago?",
+      "a": "State business disputes seeking damages are commonly heard on the Commercial Calendars of the Law Division of the Circuit Court of Cook County, while equitable claims go to the Chancery Division. Federal cases are heard in the Northern District of Illinois. Counsel decides the forum; we tailor research to that court's discovery and evidence rules."
+    },
+    {
+      "q": "What checks suit a Chicago trading or brokerage counterparty?",
+      "a": "We review federal regulatory registrations and disciplinary histories for futures and securities firms and their principals, Illinois entity records, Cook County and federal litigation, and media and reputational sources. We also examine affiliates in other states or offshore. The aim is to confirm who controls the firm and whether prior enforcement or disputes were disclosed."
+    }
+  ],
+  "sources": [
+    {
+      "title": "FOX 32 Chicago: Chicago population grew in 2025, per Census estimate (16 May 2026)",
+      "url": "https://www.fox32chicago.com/news/chicago-population-grew-2025-census-estimate"
+    },
+    {
+      "title": "Circuit Court of Cook County (Wikipedia overview)",
+      "url": "https://en.wikipedia.org/wiki/Circuit_Court_of_Cook_County"
+    },
+    {
+      "title": "225 ILCS 447, Article 10 (Justia, 2017 Illinois Compiled Statutes)",
+      "url": "https://law.justia.com/codes/illinois/2017/chapter-225/act-225-ilcs-447/article-10/"
+    },
+    {
+      "title": "Illinois General Assembly: 720 ILCS 5/14-2 Eavesdropping",
+      "url": "https://www.ilga.gov/Documents/legislation/ilcs/documents/072000050K14-2.htm"
+    },
+    {
+      "title": "Kroll: IDFPR position on PI licence for computer forensic examinations",
+      "url": "https://www.kroll.com/en/client-alerts/client-alert-illinois-department-of-financial-and-professional-regulations-reverses-its-position-on-requiring-a-pi-license-when-conducting-computer-forensic-examinations"
+    }
+  ],
+  "review_flags": [
+    "Population figure (2,731,585) is from a FOX 32 news report citing Census Bureau Vintage 2025 data, not the Census site directly; the article contains an internal inconsistency. Verify against census.gov.",
+    "225 ILCS 447 text consulted is the 2017 Justia version, which marks sections for repeal on 1 January 2024; the Act's sunset is understood to have been extended, but the current version was not fetched. Confirm the Act is in force and its current title.",
+    "Cook County court description relies on Wikipedia (Commercial Calendars, Daley Center, Chancery Division). Official cookcountycourt.org pages could not be fetched.",
+    "Stated from background knowledge, not fetched: CME Group/futures exchange role (kept generic), Federal Reserve Bank of Chicago, Northern District of Illinois, Biometric Information Privacy Act, Illinois land trusts, Cook County recording (Recorder functions merged into the Cook County Clerk) and Illinois Secretary of State search content."
+  ],
+  "researched": "2026-11-04"
+}

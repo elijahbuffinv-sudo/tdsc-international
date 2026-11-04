@@ -1,0 +1,127 @@
+{
+  "slug": "amsterdam-nl",
+  "name": "Amsterdam",
+  "cc": "NL",
+  "meta_description": "TDSC investigative consulting in matters touching Amsterdam: holding structures, trading counterparties and litigation support in the Dutch financial centre.",
+  "eyebrow": "North Holland, Netherlands",
+  "hero_lede": "Amsterdam combines Europe's largest equity trading venue, a dense cluster of holding companies and headquarters, a major port and Schiphol airport. TDSC scopes investigative consulting for matters touching the city, from Nashville, coordinating licensed Dutch agencies and counsel where local work is required.",
+  "intro": [
+    "Amsterdam is the financial and business capital of the Netherlands. Its stock exchange, founded in 1602 and now part of Euronext, is described as the oldest in the world and overtook London as Europe's largest equity trading venue after Brexit. The Zuidas district hosts the country's largest law firms, accounting and consulting practices and the World Trade Centre, and companies such as ING, ABN AMRO, Heineken, AkzoNobel, Booking.com and Philips are based in the city, alongside the European headquarters of many US technology groups. The Port of Amsterdam is the fourth-largest in Europe by cargo tonnage, and Schiphol is among Europe's busiest airports.",
+    "Organisations commission investigative work connected to Amsterdam because so much international ownership and money passes through Dutch entities managed from the city, even when the underlying business is elsewhere in Europe, Africa, Asia or the Americas. Typical engagements include tracing ownership through Amsterdam holding and financing companies, diligence on trading houses and fintech or payments businesses, internal investigations at European headquarters, and evidence and asset work supporting proceedings before the Amsterdam courts, including the English-language Netherlands Commercial Court and the Enterprise Chamber, whose corporate inquiry proceedings are distinctive to Dutch law."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "941,873 in the city (1 January 2026)"
+    },
+    {
+      "label": "Metro area",
+      "value": "About 2.48 million in the metropolitan area"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Finance, legal and professional services, technology, logistics, tourism, creative industries"
+    },
+    {
+      "label": "Exchange",
+      "value": "Euronext Amsterdam"
+    },
+    {
+      "label": "Port and airport",
+      "value": "Port of Amsterdam; Schiphol, a KLM hub"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Amsterdam, UTC+01:00 (UTC+02:00 in summer)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Dutch and English; NCC proceedings in English"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Tracing through Dutch holding companies",
+      "text": "Groups from many countries hold operating subsidiaries and intellectual property through Amsterdam holding and financing companies. Engagements reconstruct ownership chains from KVK filings, deposited accounts, foreign registries and litigation, particularly now that public access to beneficial ownership data has been restricted."
+    },
+    {
+      "title": "Enterprise Chamber inquiry support",
+      "text": "Shareholders and other parties in governance disputes may ask the Enterprise Chamber to order an inquiry into a company's policy and affairs. Investigative work helps assemble the factual basis for such requests, including board conduct, related-party dealings and the movement of assets within a group."
+    },
+    {
+      "title": "Trading and commodity counterparties",
+      "text": "The Port of Amsterdam and the city's trading community handle fuels, agricultural commodities and other bulk goods. Diligence on trading counterparties covers ownership, vessel and cargo history where available, disputes, and links to jurisdictions subject to sanctions or export controls."
+    },
+    {
+      "title": "Payments, fintech and platform businesses",
+      "text": "Amsterdam is a base for payments firms, online platforms and the European operations of technology groups. Investors and partners review regulatory history, ownership, management backgrounds and complaints before onboarding, lending or acquisition, and investigate suspected merchant or affiliate fraud."
+    },
+    {
+      "title": "Pre-judgment attachment and asset research",
+      "text": "Dutch procedure allows ex parte attachment of shares, bank accounts, real property, ships and other assets before judgment. Creditors pursuing debtors with Amsterdam connections commission asset research so that counsel can identify attachable assets and act quickly."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Netherlands Commercial Court",
+      "text": "The Netherlands Commercial Court (NCC), opened in 2019, sits as chambers of the Amsterdam District Court and the Amsterdam Court of Appeal, a short walk from Central Station. Proceedings and judgments are in English. A case can be brought where the Amsterdam courts have jurisdiction, the parties have agreed in writing to NCC proceedings, the matter is civil or commercial within the parties' autonomy, and the dispute is international. Filing is electronic through Dutch counsel."
+    },
+    {
+      "title": "Enterprise Chamber of the Court of Appeal",
+      "text": "The Enterprise Chamber (Ondernemingskamer) of the Amsterdam Court of Appeal hears shareholder and governance disputes nationwide, including inquiry proceedings, with a panel of three judges and two lay experts. It can suspend directors, appoint interim directors or transfer shares to a nominee. Since 1 January 2025 it also hears forced exit and buy-out claims in a single instance. Appeals go only to the Supreme Court."
+    },
+    {
+      "title": "Amsterdam District Court",
+      "text": "The Amsterdam District Court is one of eleven Dutch district courts and the first-instance court for civil cases in its area. Its provisional relief judges grant leave for pre-judgment attachments, which can also target evidence, and may require security. For bank accounts in other EU states, a European Account Preservation Order is an alternative route. Judgments of the Amsterdam courts are often published in anonymised form, which limits name searches."
+    },
+    {
+      "title": "Financial regulators in the city",
+      "text": "Both the Dutch Authority for the Financial Markets (AFM), which supervises conduct on financial markets including Euronext Amsterdam, and De Nederlandsche Bank (DNB), the prudential supervisor, are based in Amsterdam. Their public registers, enforcement decisions and warnings are useful sources when assessing a financial counterparty's licensing claims and history. Unlicensed firms claiming Dutch authorisation can often be identified this way."
+    }
+  ],
+  "tdsc_approach": "For Amsterdam matters TDSC first establishes what the Dutch entity actually is: an operating business, a regional headquarters, or a holding or financing company with few staff and decisions taken elsewhere. Research then combines KVK filings and deposited accounts, Amsterdam court judgments, AFM and DNB registers, Euronext disclosures and Dutch and English-language media, with foreign registry work where ownership leads abroad. Because investigation agencies in the Netherlands require a licence and work under a privacy code of conduct, any surveillance, interviews or local inquiries are carried out by licensed Dutch agencies that TDSC coordinates, under the direction of the client's Dutch counsel, with data processing limited to the agreed purpose.",
+  "faqs": [
+    {
+      "q": "Why do so many international structures include an Amsterdam company?",
+      "a": "Amsterdam combines a deep pool of corporate, tax and legal advisers, a major exchange and an established framework for holding and financing companies. As a result, groups from many countries hold subsidiaries, intellectual property or financing through Amsterdam entities, which then become a natural starting point for ownership and asset tracing."
+    },
+    {
+      "q": "Can a dispute be litigated in English in Amsterdam?",
+      "a": "Yes, before the Netherlands Commercial Court, which sits within the Amsterdam District Court and Court of Appeal. The dispute must be international and civil or commercial, the Amsterdam courts must have jurisdiction, and the parties must have agreed in writing to NCC proceedings. Proceedings and judgments are in English."
+    },
+    {
+      "q": "What is an Enterprise Chamber inquiry?",
+      "a": "Shareholders and certain other parties can ask the Enterprise Chamber of the Amsterdam Court of Appeal to order an inquiry into a Dutch company's policy and affairs where there are well-founded reasons to doubt sound management. The Chamber can also grant immediate measures, such as suspending directors or appointing interim directors, while the inquiry proceeds."
+    },
+    {
+      "q": "Can assets be frozen before judgment in Amsterdam?",
+      "a": "Dutch procedure allows creditors to seek leave for pre-judgment attachment of shares, bank accounts, real property, ships and other assets, usually ex parte, and the court may require security. Asset research before the application helps counsel identify what can be attached and where it is held."
+    },
+    {
+      "q": "Does TDSC have an office in Amsterdam?",
+      "a": "No. TDSC is based in Nashville, Tennessee and has no office or staff in the Netherlands. Engagements touching Amsterdam are scoped and managed from Nashville, and where local work is required TDSC coordinates licensed Dutch investigation agencies and works with the client's Dutch counsel. Field work is never presented as TDSC's own."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikipedia: Amsterdam (population, economy, port, Schiphol, Zuidas)",
+      "url": "https://en.wikipedia.org/wiki/Amsterdam"
+    },
+    {
+      "title": "De Rechtspraak: Netherlands Commercial Court (NCC)",
+      "url": "https://rechtspraak.nl/english/ncc"
+    },
+    {
+      "title": "Chambers and Partners: Litigation 2026, Netherlands",
+      "url": "https://practiceguides.chambers.com/practice-guides/litigation-2026/netherlands"
+    }
+  ],
+  "review_flags": [
+    "Only 3 sources opened (brief asks 5-10); CBS, KVK, AFM, DNB and Port of Amsterdam sites not fetched due to budget and fetch restrictions.",
+    "Population (941,873 at 1 Jan 2026) and metro figure from Wikipedia, not CBS directly.",
+    "AFM and DNB headquarters in Amsterdam, and AFM's supervisory role, stated from general knowledge without an opened source.",
+    "Netherlands Arbitration Institute deliberately not placed in Amsterdam (it is based in Rotterdam per general knowledge); no Amsterdam-specific arbitration centre named.",
+    "Licensing and privacy code reference relies on the NL country page, whose Wpbr details are themselves flagged as unverified."
+  ],
+  "researched": "2026-11-04"
+}

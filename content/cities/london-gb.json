@@ -1,0 +1,147 @@
+{
+  "slug": "london-gb",
+  "name": "London",
+  "cc": "GB",
+  "meta_description": "TDSC investigative consulting in matters touching London: due diligence, asset tracing and litigation support tied to the City, its courts and markets.",
+  "eyebrow": "Greater London, United Kingdom",
+  "hero_lede": "London concentrates international finance, commercial litigation, arbitration and high-value property in one city. TDSC scopes investigative consulting from Nashville for matters touching London, working from public records and, where fieldwork is required, through licensed local professionals and the client's English counsel.",
+  "intro": [
+    "London is one of the world's principal financial centres and the seat of the United Kingdom's government, regulators and senior courts. The Square Mile and Canary Wharf house banks, insurers, asset managers, the Lloyd's market and the advisers who serve them, while the wider city hosts headquarters of listed companies, law firms, technology businesses and international organisations. The Financial Conduct Authority, which regulates the conduct of about 35,500 firms, has its head office in Stratford. English law is the chosen law of a large share of international contracts, and London's courts and arbitral institutions handle disputes in which neither party is English.",
+    "Organisations commission investigative work connected to London because so many cross-border transactions, disputes and assets pass through it. A counterparty may be incorporated elsewhere but managed, financed or advised from London; a judgment debtor may hold property in Kensington through an overseas company; a commercial dispute may be litigated in the Rolls Building or arbitrated under London-seated rules. Investors want to know who stands behind a fund or acquisition target, claimants need evidence for freezing orders, and compliance teams need assurance on third parties that trade or bank through the City. The work typically combines English public records with enquiries in the other jurisdictions involved."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "8.95 million (Greater London, mid-2023 ONS estimate)"
+    },
+    {
+      "label": "Area",
+      "value": "Greater London, 32 boroughs and the City of London"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Banking, insurance, asset management, legal and professional services, technology, real estate"
+    },
+    {
+      "label": "Financial regulator",
+      "value": "Financial Conduct Authority, head office in London"
+    },
+    {
+      "label": "Exchange",
+      "value": "London Stock Exchange (Main Market and AIM)"
+    },
+    {
+      "label": "Courts",
+      "value": "Business and Property Courts, Rolls Building"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/London, UTC+0 (UTC+1 in summer)"
+    },
+    {
+      "label": "Language of business",
+      "value": "English"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Freezing order and asset evidence",
+      "text": "Claimants seeking worldwide freezing orders in the Commercial Court or Chancery Division need credible evidence of assets and risk of dissipation. We map companies, property and associates linked to a respondent so that counsel can assess what is realistically recoverable and where."
+    },
+    {
+      "title": "Prime property behind overseas companies",
+      "text": "High-value London residential and commercial property is often held through companies incorporated abroad. We work from HM Land Registry title information and the Register of Overseas Entities to identify registered owners, declared beneficial owners and the gaps between them."
+    },
+    {
+      "title": "Fund and financial sector counterparties",
+      "text": "Investors and allocators want to understand the people behind London-based managers, brokers and advisers. We review FCA register entries, Companies House filings, litigation history and reputational record to identify undisclosed interests, past regulatory action or inconsistent career claims."
+    },
+    {
+      "title": "Arbitration and litigation support",
+      "text": "London-seated arbitrations and High Court proceedings frequently involve parties from other jurisdictions. We support counsel with witness background research, corporate history, document trail reconstruction and enquiries in the counterparty's home country, all within what English procedural rules and privilege permit."
+    },
+    {
+      "title": "Fraud and economic crime exposure",
+      "text": "Organisations defrauded through London-registered vehicles or advisers need facts before deciding between civil recovery and a criminal report. We assemble chronologies, entity maps and source documents that counsel can use with Report Fraud, the police or in private proceedings."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Business and Property Courts",
+      "text": "The Business and Property Courts of England and Wales sit principally in London at the Rolls Building. They include the Chancery Division, the Commercial Court, the Technology and Construction Court and the cross-jurisdictional Financial List. The Commercial Court decides significant commercial disputes, many with an international element, and supports arbitrations seated in England and Wales. The judiciary describes the London centre as the largest court centre for specialist financial, business and property cases in the world. Investigative evidence prepared for these courts must withstand disclosure and cross-examination."
+    },
+    {
+      "title": "Arbitration in London",
+      "text": "London is a leading seat for international arbitration. The London Court of International Arbitration (LCIA) administers arbitration and other dispute resolution, and reports that more than 80 percent of parties in its pending cases are not of English nationality. Many other institutional and ad hoc arbitrations, including maritime and commodity disputes, are seated in London under the Arbitration Act 1996 as amended. Investigative support in arbitration is shaped by the tribunal's procedural orders and confidentiality obligations, which counsel must confirm at the outset."
+    },
+    {
+      "title": "Registries for London matters",
+      "text": "Companies House, HM Land Registry and the Register of Overseas Entities are national, but London is where their records matter most for high-value transactions. Land Registry title registers identify registered proprietors and charges for a fee, and the overseas entities register records declared beneficial owners of foreign companies holding UK land. The FCA's Financial Services Register lists authorised firms and approved individuals, and is a standard first check for any London financial counterparty."
+    },
+    {
+      "title": "Fraud policing and enforcement",
+      "text": "The City of London Police is the National Lead Force for Fraud and Cyber Crime and oversees the Report Fraud reporting service. The National Crime Agency leads the wider response to serious and organised economic crime; a January 2026 police reform White Paper proposes moving it into a new National Police Service, which the City says does not immediately change its fraud role. The Serious Fraud Office handles the most serious and complex fraud and bribery cases."
+    },
+    {
+      "title": "Financial Conduct Authority",
+      "text": "The FCA regulates the conduct of about 35,500 firms and prudentially supervises about 34,000, from its head office in London. Its objectives include protecting consumers and the integrity of the UK financial system. For investigative purposes its register, final notices and published enforcement outcomes are important public sources. Regulated firms under investigation also have reporting obligations to the FCA, which counsel should consider before private enquiries begin."
+    }
+  ],
+  "tdsc_approach": "TDSC has no office in London and works on London matters from Nashville. We start by confirming with the client's English solicitors what the evidence is for: a freezing order application, an arbitration, a transaction or an internal review, because the procedural context decides what may be gathered and how it must be recorded. Public research uses Companies House, the Land Registry, the overseas entities register, the FCA register, court records and published judgments. Where interviews, process-related enquiries or observation are needed in London, we coordinate qualified local professionals working under English law, including data protection and harassment constraints. Findings are reported with sources so that they can be relied on in proceedings.",
+  "faqs": [
+    {
+      "q": "Can TDSC help support a freezing order application in London?",
+      "a": "Yes, in a supporting role to the client's solicitors. We assemble evidence of assets, corporate structures and connected persons from lawful public sources so counsel can assess the application. The decision to apply, the drafting of evidence and the duty of full and frank disclosure remain with the legal team, who must be satisfied the material is accurate and fairly presented."
+    },
+    {
+      "q": "How can we find out who really owns a London property held by an offshore company?",
+      "a": "The Land Registry title shows the registered proprietor, and if that is an overseas entity, the Register of Overseas Entities should show its declared beneficial owners or managing officers. Declarations can be incomplete or rely on trusts and nominees. We compare filings with other records, such as foreign registries and litigation, to test whether the declared position is credible."
+    },
+    {
+      "q": "Does a London arbitration limit what investigative work can be done?",
+      "a": "It can. Tribunals issue procedural orders on evidence and many institutional rules impose confidentiality on the arbitration itself. Investigative work must not breach those obligations or approach witnesses improperly. We agree the scope with counsel before starting and keep records of sources so that material can be disclosed or relied on if the tribunal requires it."
+    },
+    {
+      "q": "Is checking the FCA register enough for a London financial counterparty?",
+      "a": "It is a necessary first step, not a complete review. The register confirms authorisation status, permissions and approved individuals, and links to some enforcement history. It does not show unregulated affiliates, related offshore entities, private litigation or reputational issues. We combine it with Companies House, court and media research and, where relevant, enquiries in other jurisdictions where the counterparty operates."
+    },
+    {
+      "q": "Should a fraud connected to London be reported to the police before investigating?",
+      "a": "That depends on the facts and on advice from counsel. Reports go through Report Fraud, overseen by the City of London Police, and serious matters may involve the Serious Fraud Office or National Crime Agency. Private investigation can run alongside, but care is needed not to prejudice a criminal case. We structure work so that material can be shared with authorities if the client decides to."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Courts and Tribunals Judiciary: Business and Property Courts",
+      "url": "https://www.judiciary.uk/courts-and-tribunals/business-and-property-courts/"
+    },
+    {
+      "title": "London Court of International Arbitration",
+      "url": "https://www.lcia.org/"
+    },
+    {
+      "title": "Financial Conduct Authority: About the FCA",
+      "url": "https://www.fca.org.uk/about/what-we-do/the-fca"
+    },
+    {
+      "title": "London Datastore: Demography",
+      "url": "https://data.london.gov.uk/demography"
+    },
+    {
+      "title": "City of London Corporation: Economic crime police authority role",
+      "url": "https://www.cityoflondon.gov.uk/about-us/about-the-city-of-london-corporation/police-authority/economic-crime-police-authority-role"
+    },
+    {
+      "title": "City of London Corporation: Response to Police Reform White Paper (26 January 2026)",
+      "url": "https://news.cityoflondon.gov.uk/city-of-london-responds-to-police-reform-white-paper/"
+    }
+  ],
+  "review_flags": [
+    "Population uses the mid-2023 figure (8.95 million) from the London Datastore; ONS mid-2024 estimates have been published but the London figure was not extracted. Update if desired.",
+    "Rolls Building as the London home of the Business and Property Courts, the London Stock Exchange markets (Main Market, AIM), the Serious Fraud Office role, Lloyd's, Canary Wharf and Stratford as FCA location (address 12 Endeavour Square E20 confirmed via FCA page) are partly from background knowledge; the GOV.UK Rolls Building and LSE pages could not be fetched.",
+    "LCIA founding year and London headquarters not confirmed from the fetched page; copy avoids stating them.",
+    "Police reform White Paper (January 2026) proposes moving the NCA into a National Police Service; fraud policing arrangements may change. Recheck before publishing.",
+    "Report Fraud (successor to Action Fraud) is named per the City of London Corporation page; confirm the public-facing name is current."
+  ],
+  "researched": "2026-11-04"
+}

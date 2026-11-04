@@ -1,0 +1,159 @@
+{
+  "slug": "seoul-kr",
+  "name": "Seoul",
+  "cc": "KR",
+  "meta_description": "TDSC investigative consulting in matters touching Seoul: chaebol group diligence, technology leakage, insolvency court records and Seoul-seated arbitration.",
+  "eyebrow": "Seoul, Republic of Korea",
+  "hero_lede": "Investigative consulting for matters touching Seoul, scoped from Nashville: research on Korean conglomerates and their affiliates, technology and trade secret disputes, insolvency and litigation history from Seoul's courts, and factual support for counsel in arbitration seated in the Korean capital.",
+  "intro": [
+    "Seoul is the capital and commercial core of South Korea. The city had 9.39 million registered residents at the end of 2023, and the wider capital area of Seoul, Incheon and Gyeonggi Province held 26.1 million, just over half the national population. Samsung, LG, Hyundai and SK are headquartered in Seoul, and the city has three main business districts: the historic downtown around Gwanghwamun, Gangnam with its technology and services firms, and Yeouido, the centre of securities and asset management. The Korea Exchange is headquartered in Busan but keeps a Seoul office for its cash markets and market oversight, and the national courts and financial regulators are based in the capital.",
+    "Organisations commission investigative work connected to Seoul because Korean business is dominated by large family-controlled groups whose affiliates, cross-holdings and related-party dealings shape every transaction. Suppliers, licensors and investors need to understand where a Seoul counterparty sits within such a group and who ultimately decides. Korea's strength in semiconductors, batteries, displays and shipbuilding makes technology leakage and departing-engineer disputes a recurring concern. Restructurings and insolvencies of major companies run through the Seoul Bankruptcy Court, and disputes with Korean partners are often arbitrated in Seoul. Each of these calls for facts drawn carefully from Korean-language records within Korea's strict limits on private investigation."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "9.39 million registered residents (December 2023)"
+    },
+    {
+      "label": "Capital area",
+      "value": "26.1 million in Seoul, Incheon and Gyeonggi (50.7% of national population, 2023)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Conglomerate headquarters, finance, information technology, electronics, professional services"
+    },
+    {
+      "label": "Business districts",
+      "value": "Downtown (Jongno and Jung), Gangnam, Yeouido"
+    },
+    {
+      "label": "Exchange",
+      "value": "Korea Exchange (headquartered in Busan; Seoul office for cash markets and market oversight)"
+    },
+    {
+      "label": "Airport",
+      "value": "Incheon International Airport, on Yeongjong Island in Incheon"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Seoul (UTC+9, no daylight saving)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Korean; English in finance and large exporting groups"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Chaebol affiliate and control mapping",
+      "text": "Placing a Seoul counterparty within its business group, using DART disclosures, Fair Trade Commission group filings, registry extracts and Korean press, to identify the controlling family, key affiliates, cross-shareholdings and related-party transactions that may affect a supply, licensing or investment decision."
+    },
+    {
+      "title": "Technology leakage and departing engineers",
+      "text": "Fact-finding for counsel where a company suspects that engineers or partners have moved semiconductor, battery, display or other proprietary technology to a competitor, focusing on corporate links, new employers, patent filings and public records rather than any covert tracing of individuals."
+    },
+    {
+      "title": "Pre-investment and acquisition diligence",
+      "text": "Research on Seoul-based targets and their management ahead of minority investments, acquisitions or joint ventures, covering corporate history, litigation in Seoul courts, regulatory sanctions, insolvency records and media coverage in Korean and English, with findings framed for the investment committee."
+    },
+    {
+      "title": "Distributor and partner disputes",
+      "text": "Supporting counsel in disputes with Seoul distributors, agents or joint venture partners by researching their related companies, competing businesses, prior disputes and publicly recorded assets, to inform negotiation, arbitration strategy and the prospects of enforcing an award in Korea."
+    },
+    {
+      "title": "Insolvency and restructuring research",
+      "text": "Reviewing Seoul Bankruptcy Court rehabilitation and bankruptcy filings involving a counterparty, its affiliates or guarantors, for creditors, buyers of distressed assets and trade partners who need to understand claims, timelines and the parties now controlling the business."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Seoul's central civil courts",
+      "text": "Most significant commercial litigation involving Seoul companies is heard at first instance in the Seoul Central District Court, with appeals to the Seoul High Court and then the Supreme Court, which also sits in Seoul. Judgments are not comprehensively published, and access to case records is generally through counsel and the parties. Litigation history research therefore combines available published decisions, corporate disclosures of material litigation and Korean press coverage."
+    },
+    {
+      "title": "Seoul Bankruptcy Court",
+      "text": "Korea's first bankruptcy court opened on 2 March 2017, taking over the bankruptcy division of the Seoul Central District Court. Large debtors, originally defined as those with debt of KRW 50 billion or more and 300 or more creditors, could file there even if not based in Seoul. The court has adopted UNCITRAL-based cross-border insolvency rules and Judicial Insolvency Network guidelines, and signed cooperation memoranda with the US Bankruptcy Court for the Southern District of New York and Singapore's Supreme Court in 2018."
+    },
+    {
+      "title": "KCAB International in Seoul",
+      "text": "The Korean Commercial Arbitration Board's international division, KCAB International, administers international arbitration from Seoul. In November 2025 it was reported to have revised its rules and created an independent court to oversee procedural decisions in its cases. Many contracts with Seoul counterparties name KCAB International or another institution with Seoul as the seat. Investigative support is limited to factual research for counsel."
+    },
+    {
+      "title": "Registries and disclosure systems",
+      "text": "Company and real estate registers maintained by the court registry system can be searched online and show officers, capital, purpose and registered title, though not shareholders of stock companies. The Financial Supervisory Service's DART system publishes annual reports, audit reports and large shareholding filings. For Seoul's large business groups, these disclosures are often richer than registry data and are central to mapping affiliates and related-party dealings."
+    },
+    {
+      "title": "Seoul-based financial regulators",
+      "text": "The Financial Services Commission and the Financial Supervisory Service, Korea's financial policy and supervisory authorities, are based in Seoul, as is the Fair Trade Commission's group disclosure regime for large business groups. Their published sanctions, inspection results and disclosure decisions are useful public records on Seoul banks, securities firms, asset managers and listed companies. Non-public supervisory information is not accessible."
+    }
+  ],
+  "tdsc_approach": "For matters touching Seoul, TDSC begins with the commercial decision and the group context of the counterparty, because in Korea the affiliate structure often matters as much as the entity itself. Research is conducted from Nashville using DART filings, registry extracts, court and insolvency records available through lawful channels, regulator publications and Korean-language media, reviewed by qualified translators where needed. Korean law sharply limits locating individuals and investigating private lives, so TDSC does not attempt either; where on-the-ground enquiries are justified it coordinates with appropriately qualified Korean professionals and the client's Korean counsel. Personal information is minimised and handled consistently with the Personal Information Protection Act.",
+  "faqs": [
+    {
+      "q": "How do you map a Seoul company's place in a chaebol group?",
+      "a": "We start with DART disclosures and Fair Trade Commission large business group filings, which identify affiliates, the controlling shareholder and cross-holdings, and combine them with registry extracts and Korean press. The result shows who controls the counterparty, which affiliates it trades with and where related-party dealings might affect the client's transaction."
+    },
+    {
+      "q": "Can you trace a former employee who has moved to a competitor in Seoul?",
+      "a": "Not in the sense of locating or monitoring the individual; Korean law restricts that kind of tracing and research into private life. What we can do is research corporate links, the competitor's public filings, patent applications and media reporting, and give counsel a factual basis for deciding whether to seek preservation or injunctive relief through the Korean courts."
+    },
+    {
+      "q": "What can Seoul Bankruptcy Court records tell us?",
+      "a": "Rehabilitation and bankruptcy proceedings show which companies in a group are under court supervision, who the administrator or management in possession is, the treatment of creditors and key milestones. For buyers of distressed assets and trade creditors, this clarifies who can bind the debtor and when. Access to detailed filings typically runs through Korean counsel."
+    },
+    {
+      "q": "Is arbitration in Seoul common for disputes with Korean partners?",
+      "a": "Yes. Many cross-border contracts with Seoul counterparties choose arbitration seated in Seoul, often under KCAB International. We support counsel in such cases with research into the opposing party's group, related companies, prior disputes and publicly recorded assets, which helps with strategy and with assessing whether an award can realistically be enforced in Korea."
+    },
+    {
+      "q": "Does TDSC have an office in Seoul?",
+      "a": "No. TDSC is based in Nashville and has no office, staff or licence in Korea. Most Seoul research is desk-based using lawful public sources. Where a matter needs local document retrieval or interviews, we coordinate with appropriately qualified Korean professionals working alongside the client's Korean counsel, and decline tasks Korean law does not permit."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Asia News Network: Over half of population resides in Seoul metropolitan area",
+      "url": "https://asianews.network/over-half-of-population-resides-in-seoul-metropolitan-area-data"
+    },
+    {
+      "title": "Seoul Solution: The Statistic of Seoul",
+      "url": "https://seoulsolution.kr/en/node/2113"
+    },
+    {
+      "title": "Korea JoongAng Daily: First court of bankruptcy has opening ceremony",
+      "url": "https://www.koreajoongangdaily.com/korea/first-court-of-bankruptcy-has-opening-ceremony/10035681"
+    },
+    {
+      "title": "Legal 500 (Yulchon): Introduction of Seoul Bankruptcy Court",
+      "url": "https://www.legal500.com/intelligence/south-korea/insolvency-bankruptcy-re-structuring/introduction-of-seoul-bankruptcy-court"
+    },
+    {
+      "title": "Seoul Bankruptcy Court: Cross-border insolvency",
+      "url": "https://slb.scourt.go.kr/rel/guide/cross/index_e.jsp"
+    },
+    {
+      "title": "Global Arbitration Review: KCAB International creates new court in rule overhaul",
+      "url": "https://globalarbitrationreview.com/article/kcab-international-creates-new-court-in-rule-overhaul"
+    },
+    {
+      "title": "Wikipedia: Korea Exchange",
+      "url": "https://en.wikipedia.org/wiki/KRX"
+    },
+    {
+      "title": "Wikipedia: Seoul",
+      "url": "https://en.wikipedia.org/wiki/Seoul"
+    },
+    {
+      "title": "DART electronic disclosure system (Financial Supervisory Service)",
+      "url": "https://dart.fss.or.kr/"
+    }
+  ],
+  "review_flags": [
+    "Seoul Metropolitan Government English site blocked fetching; population uses a news report of December 2023 resident registration data (9.39 million). The Seoul Solution page gives 9,635,445 for Q1 2024, likely including foreign residents - pick one basis.",
+    "KCAB International rule revision and new court reported by GAR (5 November 2025) without effective date; KCAB International site could not be fetched - confirm details and effective date.",
+    "Seoul Bankruptcy Court large-case threshold (KRW 50bn debt and 300 creditors) is from a 2017 article; may have changed and later regional bankruptcy courts may have opened - verify.",
+    "Seoul Central District Court / Seoul High Court as main commercial venues, Supreme Court location, FSC/FSS/KFTC being in Seoul, and limited judgment publication are from general knowledge - verify.",
+    "Restrictions on locating individuals rely on the KR country page, which itself flags the Credit Information Act provision as unverified."
+  ],
+  "researched": "2026-11-04"
+}

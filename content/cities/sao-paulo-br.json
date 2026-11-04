@@ -1,0 +1,135 @@
+{
+  "slug": "sao-paulo-br",
+  "name": "São Paulo",
+  "cc": "BR",
+  "meta_description": "TDSC investigative consulting in matters touching São Paulo: due diligence, asset tracing and litigation support in Brazil's financial and corporate centre.",
+  "eyebrow": "São Paulo State, Brazil",
+  "hero_lede": "São Paulo concentrates Brazil's banks, listed companies, law firms and arbitration practice. TDSC scopes investigative consulting for matters that run through the city, from Nashville, working with licensed Brazilian professionals and counsel where local inquiries or court filings are required.",
+  "intro": [
+    "São Paulo is the largest urban economy in Latin America and accounts for roughly a tenth of Brazil's gross domestic product. Manufacturing has largely moved out of the old industrial districts, and the city's economy now rests on services: banking, asset management, insurance, law, consulting, media and corporate headquarters. Its financial districts run along Avenida Paulista, Avenida Brigadeiro Faria Lima and Avenida Engenheiro Luís Carlos Berrini. The city is home to B3, Brasil, Bolsa, Balcão, the region's largest exchange by market capitalisation, and the surrounding state is Brazil's most industrialised, linked by highway and rail to the Port of Santos on the coast.",
+    "Because so many Brazilian groups, foreign subsidiaries and investment vehicles are run from São Paulo, a large share of cross-border matters touching Brazil lead back to the city even when the operating assets sit elsewhere. Organisations commission investigative work connected to São Paulo before acquisitions and minority investments, when a distributor or joint venture partner is suspected of diverting value, when a judgment debtor or arbitral award debtor needs to be located, and when an internal allegation reaches a Brazilian subsidiary's management. The city's specialised business courts and its arbitration institutions also generate demand for evidence gathering and witness identification in support of proceedings."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "11.45 million in the municipality (2022 census)"
+    },
+    {
+      "label": "Metro area",
+      "value": "About 21.5 million in Greater São Paulo (2025 estimate)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Finance, professional services, corporate headquarters, retail, media, technology"
+    },
+    {
+      "label": "Exchange",
+      "value": "B3, Brasil, Bolsa, Balcão, headquartered in the city"
+    },
+    {
+      "label": "Trade links",
+      "value": "Port of Santos, about 70 km away via the Anchieta and Imigrantes highways"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Sao_Paulo, UTC-03:00"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Portuguese; English common in finance and law firms"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Target diligence before Brazilian acquisitions",
+      "text": "Many acquisition targets, holding companies and private equity portfolio businesses are administered from São Paulo. Diligence reviews registry filings, litigation in São Paulo and other state courts, labour and tax disputes, related-party links and media coverage to test what management representations leave out."
+    },
+    {
+      "title": "Judicial recovery and creditor matters",
+      "text": "São Paulo's specialised bankruptcy and judicial recovery courts handle some of the country's largest restructurings. Creditors and investors commission work on asset transfers before filing, connected companies, controlling shareholders' other interests and the conduct of management during the proceedings."
+    },
+    {
+      "title": "Award enforcement and asset location",
+      "text": "Arbitral awards from São Paulo institutions and foreign tribunals often need to be enforced against groups headquartered in the city. Asset research focuses on corporate interests, real estate registered at local offices, vehicles, receivables and the holding structures that sit between a debtor and its assets."
+    },
+    {
+      "title": "Financial sector and fintech counterparties",
+      "text": "The concentration of banks, asset managers and fintech businesses in the Faria Lima and Paulista districts creates exposure to counterparties whose ownership, licensing claims and track record need independent checking before onboarding, lending or co-investment."
+    },
+    {
+      "title": "Distributor and channel fraud",
+      "text": "Foreign manufacturers frequently run Brazilian distribution from São Paulo. Engagements examine parallel trading, inflated rebates, undisclosed interests of local managers in distributors, and diversion of goods moved through the state's logistics corridors and the Port of Santos."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Specialised business courts",
+      "text": "The São Paulo State Court of Justice (TJSP) has specialised in business law since 2005, when it created bankruptcy and judicial recovery courts. Two business courts that also hear arbitration-related matters were installed in the capital in 2017, and in December 2019 two regional business and arbitration courts opened at the Fórum João Mendes Júnior for the rest of Greater São Paulo. On appeal, the Grupo de Câmaras Reservadas de Direito Empresarial hears business law cases. Filing is electronic."
+    },
+    {
+      "title": "Arbitration in São Paulo",
+      "text": "São Paulo is Brazil's main arbitral seat. The Centro de Arbitragem e Mediação da Câmara de Comércio Brasil-Canadá (CAM-CCBC), founded in 1979, describes itself as the largest Brazilian chamber in its field and administers arbitration, mediation and dispute boards. Its 2025 Arbitration Rules took effect on 3 November 2025, and separate rules cover pre-arbitral evidence production, which can matter when evidence must be secured before a tribunal is constituted."
+    },
+    {
+      "title": "State commercial registry",
+      "text": "Companies seated in the state file their acts with the Junta Comercial do Estado de São Paulo (JUCESP), which holds articles, amendments, administrator appointments and partner changes for the very large number of companies registered in the state. Federal tax registration (CNPJ) data supplements JUCESP filings. Where a group spreads across states, filings must be checked at each state's Junta Comercial, not only in São Paulo."
+    },
+    {
+      "title": "Property records and notaries",
+      "text": "Real estate in the city is recorded at numbered Registros de Imóveis, each responsible for a defined area, so property research begins by identifying the correct office for an address. Notarial offices (tabelionatos) hold deeds and powers of attorney. Protest offices record unpaid instruments, which can be an early indicator of financial stress in a São Paulo counterparty. Each of these records sits with a separate office, so requests are planned office by office."
+    }
+  ],
+  "tdsc_approach": "For São Paulo matters TDSC starts by establishing where the relevant entities, people and assets actually sit: the city, elsewhere in the state, or in another Brazilian state with its own registry and courts. Research covers JUCESP and federal registration data, TJSP and other court dockets, property and protest records obtained through lawful channels, and Portuguese-language media and regulatory sources. Where work requires field inquiries, certified documents or filings before the São Paulo business courts or an arbitral tribunal, TDSC coordinates licensed Brazilian professionals and works under the direction of the client's Brazilian counsel. Reporting distinguishes documented facts from inference, and personal data is limited to what the agreed purpose requires.",
+  "faqs": [
+    {
+      "q": "Why do so many Brazilian matters lead to São Paulo?",
+      "a": "The city hosts B3, most large banks and asset managers, many corporate headquarters and the country's leading law firms and arbitration institutions. Even when factories, farms or mines are elsewhere, contracts, boards, holding companies and bank relationships are often managed from São Paulo, so records and decision-makers frequently sit in the city."
+    },
+    {
+      "q": "Which courts in São Paulo hear business disputes?",
+      "a": "The São Paulo State Court of Justice has specialised first-instance business and bankruptcy courts in the capital, plus regional business and arbitration courts for Greater São Paulo created in 2019. Appeals in business law go to a reserved group of business law chambers. Federal matters and labour claims go to separate court systems."
+    },
+    {
+      "q": "Is São Paulo a common seat for arbitration?",
+      "a": "Yes. São Paulo is the most frequently chosen seat in Brazil, and CAM-CCBC, founded in 1979, is among the institutions based there. The state courts' business and arbitration courts handle supporting and annulment measures. Investigative work in arbitration usually focuses on witness identification, document tracing and assets available for enforcement."
+    },
+    {
+      "q": "Where are company records for a São Paulo business kept?",
+      "a": "Companies seated in the state register with JUCESP, the state commercial registry, and with the federal tax authority under a CNPJ number. A group may also have entities registered in other states. A complete picture combines registry filings with court, property, protest and media research rather than relying on one source."
+    },
+    {
+      "q": "Does TDSC have an office in São Paulo?",
+      "a": "No. TDSC is based in Nashville, Tennessee and has no office or staff in Brazil. Engagements touching São Paulo are scoped and managed from Nashville, and where local work requires it, TDSC coordinates appropriately licensed Brazilian professionals and works alongside the client's Brazilian counsel. Field work is never presented as TDSC's own."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikipedia: São Paulo (population, economy, financial districts)",
+      "url": "https://en.wikipedia.org/wiki/São_Paulo"
+    },
+    {
+      "title": "CAM-CCBC: Centro de Arbitragem e Mediação",
+      "url": "https://ccbc.org.br/cam-ccbc-centro-arbitragem-mediacao/"
+    },
+    {
+      "title": "TJSP: TJSP é modelo de especialização em Direito Empresarial, Falências e Recuperação Judicial",
+      "url": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=61822"
+    },
+    {
+      "title": "AASP: TJSP instala Varas Empresariais Regionais da 1ª RAJ",
+      "url": "https://www.aasp.org.br/?p=41503"
+    },
+    {
+      "title": "Tribunal de Justiça do Estado de São Paulo",
+      "url": "https://www.tjsp.jus.br"
+    }
+  ],
+  "review_flags": [
+    "Population (11,451,245, 2022 census) and metro figure (about 21.5 million, 2025) taken from Wikipedia; IBGE page could not be fetched. Confirm against IBGE.",
+    "B3 headquarters in São Paulo taken from Wikipedia; B3's own site returned an error.",
+    "JUCESP site blocked fetching; JUCESP role described from general knowledge consistent with the BR country page. Registros de Imóveis, tabelionatos and protest offices also described from general knowledge without an opened source.",
+    "CAM-CCBC page shows placeholder address text; city location of CAM-CCBC (São Paulo) is from general knowledge.",
+    "Guarulhos airport intentionally omitted (not verified)."
+  ],
+  "researched": "2026-11-04"
+}

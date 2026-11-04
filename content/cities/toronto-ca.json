@@ -1,0 +1,138 @@
+{
+  "slug": "toronto-ca",
+  "name": "Toronto",
+  "cc": "CA",
+  "meta_description": "TDSC investigative consulting in matters touching Toronto: due diligence, insolvency and asset research tied to Canada's capital markets and Commercial List.",
+  "eyebrow": "Toronto, Ontario, Canada",
+  "hero_lede": "Toronto is the centre of Canadian banking, capital markets and mining finance, and of the country's busiest commercial court. TDSC scopes investigative consulting from Nashville for matters touching the city, using public records and coordinating Ontario-licensed investigators and the client's Ontario counsel where local work is required.",
+  "intro": [
+    "Toronto is Canada's largest city and principal business centre. Its census metropolitan area reached 7,106,379 residents on 1 July 2024, according to Statistics Canada, after a record single-year gain driven largely by immigration and non-permanent residents. The Bay Street financial district hosts the headquarters of major Canadian banks, insurers, pension funds and asset managers, together with the country's main stock exchange and its provincial securities regulator. Toronto is also a centre for mining finance, technology, life sciences, film and media, and for the national law and accounting firms that advise on cross-border transactions with the United States and beyond.",
+    "Organisations commission investigative work connected to Toronto because Canadian capital raising, restructurings and cross-border disputes concentrate there. A resource company with assets in Latin America or Africa may be listed and financed in Toronto; an insolvent group may be restructuring under supervision of the Commercial List; a counterparty may operate through Ontario and federal corporations whose owners are not apparent. Investors, lenders, monitors, trustees and litigators need to know who controls these entities, where value has moved and what history lies behind management. The work usually combines Ontario and federal records with research in the jurisdictions where operations or assets sit."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "7,106,379 (Toronto CMA, 1 July 2024, Statistics Canada)"
+    },
+    {
+      "label": "Province",
+      "value": "Ontario"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Banking, insurance, pensions, asset management, mining finance, technology, life sciences, media"
+    },
+    {
+      "label": "Exchange and regulator",
+      "value": "Toronto Stock Exchange; Ontario Securities Commission"
+    },
+    {
+      "label": "Commercial court",
+      "value": "Commercial List, Ontario Superior Court of Justice"
+    },
+    {
+      "label": "Arbitration law",
+      "value": "International Commercial Arbitration Act, 2017 (Ontario)"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Toronto, UTC-5 (UTC-4 in summer)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "English; French in some federal and Quebec-facing work"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Insolvency and restructuring investigations",
+      "text": "Monitors, receivers, trustees and creditors in Commercial List proceedings need to understand pre-filing transactions, related-party transfers and where value went. We reconstruct corporate histories and asset movements from public records so counsel can assess preference, oppression or recovery claims."
+    },
+    {
+      "title": "Mining and resource issuer diligence",
+      "text": "Toronto-listed resource companies often hold assets in other countries through layered subsidiaries. We research management, controlling shareholders, local partners and the project jurisdiction's record to identify political exposure, undisclosed interests and reputational risk before investment or financing."
+    },
+    {
+      "title": "Cross-border asset tracing",
+      "text": "Debtors with ties to both Canada and the United States may hold property, companies or accounts on either side of the border. We map Ontario and federal corporate interests, real property and litigation alongside US records, helping counsel decide where recognition or enforcement steps are worthwhile."
+    },
+    {
+      "title": "Capital markets and fund counterparties",
+      "text": "Investors and dealers assessing Toronto-based issuers, fund managers or promoters need to know about prior securities enforcement, cease trade orders and litigation. We review regulatory decisions, corporate filings and court records to surface history that offering documents may not disclose."
+    },
+    {
+      "title": "Commercial litigation and arbitration support",
+      "text": "Disputes in the Superior Court or in Toronto-seated arbitrations often turn on facts outside the productions. We support counsel with witness background research, corporate history and document trail reconstruction, scoped to Ontario's discovery rules and any tribunal procedural orders."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "The Commercial List",
+      "text": "The Commercial List of the Ontario Superior Court of Justice was established in 1991 and sits in Toronto. It hears applications, motions and actions under statutes such as the Bankruptcy and Insolvency Act, the Companies' Creditors Arrangement Act, the Ontario Business Corporations Act, the Canada Business Corporations Act and the Personal Property Security Act, and other sufficiently commercial matters with leave. Its judges are experienced in complex commercial and insolvency work, and it can manage urgent matters in close to real time under its own practice direction."
+    },
+    {
+      "title": "Toronto as an arbitration seat",
+      "text": "International commercial arbitrations seated in Toronto are governed by Ontario's International Commercial Arbitration Act, 2017, which adopts the UNCITRAL Model Law as amended in 2006 and gives effect to the New York Convention. Domestic arbitrations fall under Ontario's Arbitration Act, 1991. The Superior Court of Justice and the Court of Appeal for Ontario provide supervisory support. Investigative work in arbitration must respect confidentiality undertakings and the tribunal's procedural orders, which counsel confirms at the outset."
+    },
+    {
+      "title": "Ontario licensing and privacy limits",
+      "text": "Investigators working in Toronto must be licensed under Ontario's Private Security and Investigative Services Act, 2005, as described on the Canada page. In practice, Toronto fieldwork such as surveillance, attendance at addresses or witness contact is carried out by Ontario-licensed investigators. Ontario courts recognise a tort of intrusion upon seclusion, so surveillance and record gathering must be proportionate and lawful, and evidence obtained improperly can be challenged in civil proceedings."
+    },
+    {
+      "title": "Ontario Securities Commission",
+      "text": "The Ontario Securities Commission regulates Ontario's capital markets, the largest in Canada, and is based in Toronto. Its tribunal decisions, settlements and cease trade orders are public and are a standard source when assessing issuers, registrants and promoters. Market participants dealing with Toronto issuers should also consider national filings on SEDAR+ and registration records, which identify registered firms and individuals and some disciplinary history."
+    },
+    {
+      "title": "Land and corporate records",
+      "text": "Ontario operates an electronic land registration system covering Toronto, through which parcel registers, transfers and charges can be searched for a fee, identifying registered owners and mortgagees. Corporate searches use Ontario's Public Business Registry for provincial companies and Corporations Canada for federal ones. Neither register shows beneficial ownership comprehensively, so attributions usually require connecting land, corporate, court and securities records."
+    }
+  ],
+  "tdsc_approach": "TDSC has no office in Toronto and works on Toronto matters from Nashville. We first confirm with the client's Ontario counsel whether the work supports a Commercial List proceeding, other litigation, an arbitration, a financing or acquisition, or an internal review, since that determines what may be gathered and how it is documented. Research draws on Ontario and federal corporate registries, Ontario land records, court decisions, securities regulatory decisions and filings, and records in the other countries where the subject operates. Fieldwork in Toronto is carried out by investigators licensed under Ontario's Private Security and Investigative Services Act, 2005. Personal information is handled under Canadian privacy requirements, and reports cite sources for use in proceedings.",
+  "faqs": [
+    {
+      "q": "Can TDSC support a monitor or trustee in a Toronto insolvency?",
+      "a": "Yes, through counsel or the court officer. We research related-party transactions, transfers before filing, connected entities and the backgrounds of insiders using public records in Canada and abroad. Findings are reported with sources so the monitor, trustee or creditor's counsel can decide whether to seek further information or court orders on the Commercial List."
+    },
+    {
+      "q": "Which court in Toronto hears complex commercial cases?",
+      "a": "The Commercial List of the Ontario Superior Court of Justice in Toronto hears insolvency and restructuring matters, corporate statute applications, secured lending disputes and other commercial matters admitted with leave. Other commercial actions proceed on the regular civil list. Federal Court jurisdiction is narrower. Counsel chooses the forum; we shape research to its procedures."
+    },
+    {
+      "q": "Is Toronto a practical seat for international arbitration?",
+      "a": "Toronto is used as a seat for international commercial arbitration under Ontario's International Commercial Arbitration Act, 2017, based on the UNCITRAL Model Law, with Ontario courts in a supervisory role. For investigative support, the main constraints come from confidentiality obligations and procedural orders. We agree scope with counsel so that work is consistent with the arbitration's rules."
+    },
+    {
+      "q": "How do we check a Toronto-listed company's management?",
+      "a": "We review continuous disclosure filings, Ontario Securities Commission decisions and cease trade orders, corporate registry records, court records in Canada and other relevant countries, and media sources in local languages where the company operates. This often reveals prior failed issuers, regulatory proceedings or related-party arrangements that are not prominent in current disclosure."
+    },
+    {
+      "q": "Can a US investigator carry out surveillance in Toronto?",
+      "a": "Not without an Ontario licence. Investigative work in Ontario, including surveillance and witness enquiries, requires licensing under the Private Security and Investigative Services Act, 2005. TDSC coordinates Ontario-licensed investigators for this work and plans it with counsel so that it respects Ontario privacy law and the tort of intrusion upon seclusion."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Statistics Canada, The Daily: Canada's population estimates, subprovincial areas, July 1, 2024",
+      "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250116/dq250116b-eng.htm"
+    },
+    {
+      "title": "Ontario Superior Court of Justice: Consolidated Practice Direction, Toronto Region",
+      "url": "https://www.ontariocourts.ca/scj/practice_directions/consolidated-practice-direction-toronto-region/"
+    },
+    {
+      "title": "Lerners LLP: Toronto's Commercial List",
+      "url": "https://lerners.ca/lernx/torontos-commercial-list"
+    },
+    {
+      "title": "McCarthy Tetrault: Six-one, Toronto as a seat for international arbitration",
+      "url": "https://www.mccarthy.ca/en/insights/blogs/international-arbitration-blog/six-one-toronto-seat-international-arbitration"
+    }
+  ],
+  "review_flags": [
+    "Population is for the Toronto CMA (July 2024); the City of Toronto figure was not obtained. A 2025 StatCan update may exist.",
+    "Commercial List eligible statutes taken from a 2013 Lerners article; the current Toronto practice direction section G.2 was not read (page truncated). Confirm the list is unchanged.",
+    "Stated from background knowledge, not fetched this session: Ontario Securities Commission role and Toronto location, TSX, SEDAR+, Bay Street bank headquarters, mining-finance concentration, Arbitration Act 1991, intrusion upon seclusion tort, Ontario electronic land registration.",
+    "No named Toronto arbitral institution included; none verified."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,150 @@
+{
+  "slug": "shanghai-cn",
+  "name": "Shanghai",
+  "cc": "CN",
+  "meta_description": "TDSC investigative consulting in matters touching Shanghai: trade and supplier diligence, financial court disputes, free trade zone entities and assets.",
+  "eyebrow": "Shanghai Municipality, China",
+  "hero_lede": "Investigative consulting for matters touching Shanghai, scoped from Nashville: supplier and trading-company verification around the world's busiest container port, research on regional headquarters and free trade zone entities, and factual support for counsel before Shanghai's financial court and arbitration institutions.",
+  "intro": [
+    "Shanghai is mainland China's largest economy by city and its main gateway for trade and finance. Its regional GDP reached 5.39 trillion yuan in 2024, its permanent population stood at 24.8 million, and its port handled more than 51.5 million TEU, the world's highest container throughput for the fifteenth consecutive year. The city records more multinational regional headquarters than anywhere else on the mainland, 1,016 in 2024, and the Shanghai Stock Exchange, including its STAR Market for technology companies, anchors the domestic capital market. The China (Shanghai) Pilot Free Trade Zone and its Lin-gang Special Area host a large population of trading, logistics and holding entities.",
+    "Organisations commission investigative work connected to Shanghai because so much of China's cross-border commerce passes through it. Buyers need to know whether a Shanghai trading company is a real operator or an intermediary layered over unseen factories. Lenders and trade-finance providers face document and inventory fraud risks typical of a port economy. Multinationals with regional headquarters in the city deal with internal misconduct, distributor disputes and departing employees carrying data. Financial disputes increasingly reach the Shanghai Financial Court or the city's arbitration bodies, where counsel need well-sourced facts about counterparties, their related companies and their assets."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "24.80 million permanent residents (end 2024)"
+    },
+    {
+      "label": "Regional GDP",
+      "value": "5.39 trillion yuan (2024), largest of any Chinese city"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Finance, shipping and logistics, trade, advanced manufacturing, technology, regional headquarters"
+    },
+    {
+      "label": "Exchange",
+      "value": "Shanghai Stock Exchange (Main Board and STAR Market)"
+    },
+    {
+      "label": "Port",
+      "value": "Shanghai Port, over 51.5 million TEU in 2024, world's largest container port"
+    },
+    {
+      "label": "Free trade zone",
+      "value": "China (Shanghai) Pilot Free Trade Zone, including Lin-gang Special Area (2019)"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Shanghai (UTC+8, no daylight saving)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Mandarin Chinese; English widely used in multinational and financial settings"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Trading company and supplier verification",
+      "text": "Testing whether a Shanghai trading company actually manufactures, holds inventory or simply brokers orders to unnamed factories, using registration data, customs-related public information, site and address checks through qualified local professionals, and trade reporting, so buyers understand who really makes their goods and where quality and compliance risk sits."
+    },
+    {
+      "title": "Trade finance and documentary fraud",
+      "text": "Fact-finding for lenders, insurers and commodity traders where bills of lading, warehouse receipts or invoices connected to Shanghai shipments appear inconsistent, including research into the parties, related companies and prior disputes, to support counsel in recovery actions and claims."
+    },
+    {
+      "title": "Regional headquarters internal investigations",
+      "text": "Support to counsel investigating suspected kickbacks, conflicts of interest or expense fraud at a Shanghai regional headquarters or subsidiary, focusing on background research into vendors and intermediaries and on structuring the inquiry to respect PIPL and data export rules."
+    },
+    {
+      "title": "Free trade zone entity research",
+      "text": "Mapping the ownership, management and activity of holding, trading and logistics entities registered in the Shanghai Pilot Free Trade Zone or Lin-gang Special Area, where registered addresses may not reflect operations and group structures can extend offshore through Hong Kong or other jurisdictions."
+    },
+    {
+      "title": "Financial dispute and asset research",
+      "text": "Assembling factual records for counsel in securities, lending, guarantee and other finance-related disputes before the Shanghai Financial Court or arbitration seated in Shanghai, including counterparties' related companies, prior judgments and publicly disclosed assets relevant to enforcement."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Shanghai Financial Court",
+      "text": "China's first financial court was formally established on 20 August 2018. It hears first-instance financial civil and commercial cases at intermediate level, financial administrative cases, and certain cases involving Shanghai-based financial market infrastructure, as well as appeals from district courts, judicial review of arbitration in financial disputes, and recognition of foreign judgments in financial matters. Its judgments are a key public record on Shanghai lenders, borrowers, guarantors and securities issuers."
+    },
+    {
+      "title": "Other specialised Shanghai courts",
+      "text": "Alongside the ordinary people's courts, Shanghai has a dedicated Intellectual Property Court and the Shanghai Maritime Court, which handles shipping, cargo and related disputes central to the port economy. Specialised financial tribunals have operated in the Pudong New Area People's Court since 2008. Identifying which of these courts has dealt with a counterparty is often the quickest way to understand its dispute history."
+    },
+    {
+      "title": "Shanghai arbitration institutions",
+      "text": "Two arbitration bodies are based in the city: the Shanghai International Economic and Trade Arbitration Commission, also known as the Shanghai International Arbitration Center (SHIAC), and the Shanghai Arbitration Commission. Financial disputes have been SHIAC's largest case category, and its 2014 Free Trade Zone Arbitration Rules introduced mediation before the tribunal is constituted. Investigative support is confined to factual research for counsel and the parties."
+    },
+    {
+      "title": "Free Trade Zone and Lin-gang",
+      "text": "The China (Shanghai) Pilot Free Trade Zone expanded in 2014 from 28 to 120 square kilometres within Pudong, and in August 2019 added the Lin-gang Special Area, a startup area of 119.5 square kilometres with its own pilot policies. Zone registration can bring particular customs, foreign exchange or licensing arrangements, so diligence should confirm which permissions an entity actually holds."
+    },
+    {
+      "title": "Port and shipping records",
+      "text": "Shanghai Port, which includes the Yangshan deep-water terminals offshore, handled more than 51.5 million TEU in 2024. Port activity, vessel movements and published shipping data can corroborate or contradict a counterparty's claimed trade volumes, routes and customers. Restricted customs declarations, carrier booking systems and logistics platforms are not accessed; research relies on lawfully available commercial and public sources, with any deeper enquiry handled through counsel and proper legal process."
+    }
+  ],
+  "tdsc_approach": "For matters touching Shanghai, TDSC begins by defining the commercial question, whether that is who really supplies goods, whether trade documents are genuine or what a counterparty owns, and then identifies which Shanghai records and courts are relevant. Research is conducted from Nashville using registration data, exchange disclosures, published judgments, shipping information and Chinese-language open sources. Where address checks, document retrieval or interviews are justified, TDSC coordinates with qualified local professionals and the client's Chinese counsel rather than acting directly. Personal information is collected only as the purpose requires, and any transfer of data out of China is reviewed with counsel before it happens.",
+  "faqs": [
+    {
+      "q": "How can we tell whether a Shanghai supplier is a factory or a trader?",
+      "a": "Registration records show business scope, registered capital and shareholders, but not where production happens. We compare those records with the company's own claims, trade reporting, litigation history and, where justified, a site check arranged through qualified local professionals. Many Shanghai firms are legitimate traders; the aim is to identify who actually manufactures so that quality, labour and export-control risks can be assessed."
+    },
+    {
+      "q": "Can you help with suspected bill of lading or warehouse receipt fraud?",
+      "a": "We support counsel and claims teams by researching the parties, their related companies and their dispute histories, and by checking whether shipping and corporate details in the documents are consistent with lawfully available information. We do not access carriers' or customs systems, and conclusions about forgery are left to document experts and the proceedings."
+    },
+    {
+      "q": "What can Shanghai Financial Court judgments tell us about a counterparty?",
+      "a": "Published judgments can reveal defaults, guarantees given for related companies, securities misstatement claims and enforcement against assets. They help show how a counterparty behaves under financial pressure. Publication of judgments in China has narrowed in recent years, so absence of a record is not proof that no dispute exists, and we say so in our reporting."
+    },
+    {
+      "q": "Does an entity's registration in the Shanghai Free Trade Zone change the diligence?",
+      "a": "It can. Zone entities may hold special customs, foreign exchange or licensing arrangements, and some are thinly staffed holding or trading vehicles whose operations are elsewhere. We confirm what the entity is permitted to do, who controls it, and whether its registered address reflects real activity, then trace any offshore parents through Hong Kong or other registries."
+    },
+    {
+      "q": "Does TDSC operate in Shanghai?",
+      "a": "No. TDSC is based in Nashville and has no office or staff in Shanghai or elsewhere in China. Most work is desk-based research. Where on-the-ground steps are needed, we coordinate with qualified local professionals acting lawfully and alongside the client's Chinese counsel, and we decline requests that would involve restricted records or covert methods."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Shanghai Municipal Government: Shanghai's global economic rankings (2024)",
+      "url": "https://english.shanghai.gov.cn/en-ShanghaiinNumbers/20250123/6657789ce70f4deba6d4d2bc6bfeb5d4.html"
+    },
+    {
+      "title": "Shanghai Municipal Government: World's No 1 container port",
+      "url": "https://english.shanghai.gov.cn/en-ShanghaiinNumbers/20250521/80264501f1f14b8d87a472ce826d992e.html"
+    },
+    {
+      "title": "Shanghai Municipal Government Information Office: 2024 statistical publication (PDF)",
+      "url": "https://www.shio.gov.cn/TrueCMS/shxwbgs/upload/9432dca3-2e55-468c-93a5-3f99f66845cb.pdf"
+    },
+    {
+      "title": "Wikipedia: Shanghai Financial Court",
+      "url": "https://en.wikipedia.org/wiki/Shanghai_Financial_Court"
+    },
+    {
+      "title": "Kluwer Arbitration Blog: Developments in financial services arbitrations in Shanghai",
+      "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/developments-in-financial-services-arbitrations-in-shanghai"
+    },
+    {
+      "title": "China Daily: Lin-gang Special Area launched in Shanghai",
+      "url": "https://regional.chinadaily.com.cn/shftz/2019-08/21/c_398183.htm"
+    },
+    {
+      "title": "Shanghai Stock Exchange (English site)",
+      "url": "https://english.sse.com.cn/"
+    }
+  ],
+  "review_flags": [
+    "SHIAC (shiac.org) and Shanghai Financial Court official sites returned no readable content; court details rely on Wikipedia and SHIAC details on a 2019 Kluwer blog - verify, including whether financial disputes remain SHIAC's largest category.",
+    "Shanghai FTZ launch year (2013) is not stated in the source opened, so the text cites only the 2014 expansion and 2019 Lin-gang addition; STAR Market launch date (July 2019) seen only in search snippets and omitted.",
+    "Yangshan described as part of Shanghai Port from general knowledge; no Yangshan-specific statistic used.",
+    "Shanghai IP Court and Shanghai Maritime Court named from the Wikipedia page's references only; Pudong financial tribunal since 2008 from same page."
+  ],
+  "researched": "2026-11-04"
+}
