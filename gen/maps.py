@@ -44,12 +44,17 @@ def plate(rings, W=560, H=420, pad=34, markers=(), cap=None):
     d = []
     for r in rings:
         pts = [P(x, y) for x, y in r]
-        # skip rings entirely off-plate
-        if all(px < -W or px > 2 * W or py < -H or py > 2 * H for px, py in pts):
+        xs_ = [q[0] for q in pts]; ys_ = [q[1] for q in pts]
+        if max(xs_) < 0 or min(xs_) > W or max(ys_) < 0 or min(ys_) > H:
             continue
-        step = max(1, len(pts) // 900)
-        pts = pts[::step] + [pts[-1]]
-        d.append('M' + 'L'.join(f'{x:.1f},{y:.1f}' for x, y in pts) + 'Z')
+        if (max(xs_) - min(xs_)) < 1.6 and (max(ys_) - min(ys_)) < 1.6:
+            continue  # sub-pixel islet
+        keep = [pts[0]]
+        for q in pts[1:]:
+            if abs(q[0] - keep[-1][0]) + abs(q[1] - keep[-1][1]) >= 1.8:
+                keep.append(q)
+        if len(keep) < 3: continue
+        d.append('M' + 'L'.join(f'{x:.0f},{y:.0f}' for x, y in keep) + 'Z')
     return ''.join(d), P, (minx, maxx, miny, maxy)
 
 def graticule(P, bbox, W, H, every=None):

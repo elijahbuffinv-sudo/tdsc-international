@@ -12,8 +12,15 @@ from zoneinfo import ZoneInfo
 
 ROOT = os.path.dirname(HERE)
 DATA = os.path.join(ROOT, 'data'); CONTENT = os.path.join(ROOT, 'content')
-OUT = os.environ.get('TDSC_OUT', os.path.join(ROOT, 'site'))
-INTL = 'https://intl.thieldetectiveagency.com'
+OUT = os.environ.get('TDSC_OUT', os.path.join(ROOT, 'sq'))
+INTL = SITE  # pages live on the main Squarespace site under /international
+M = ''  # prefix for main-site links (relative on Squarespace)
+IDX_URL = os.environ.get('TDSC_IDX_URL', 'https://cdn.jsdelivr.net/gh/elijahbuffinv-sudo/tdsc-international@main/sq/assets/search-index.json')
+def jur_url(slug): return f'/international/{slug}'
+def slugify(x):
+    x = unicodedata.normalize('NFKD', x).encode('ascii', 'ignore').decode().lower()
+    return re.sub(r'[^a-z0-9]+', '-', x).strip('-')
+
 BUILD_DATE = os.environ.get('TDSC_DATE', datetime.date.today().isoformat())
 MIN_SOURCES = 5
 e = lambda s: html.escape(str(s), quote=True)
@@ -24,6 +31,7 @@ CCA3 = {j['cca3']: j['cc'] for j in JUR.values()}
 G = json.load(open(os.path.join(CONTENT, 'global', 'global.json')))
 HUBS = json.load(open(os.path.join(DATA, 'hubs300.json')))
 SIDX = json.load(open(os.path.join(DATA, 'search-index.json')))
+HUB_BY_SLUG = None
 OUTLINES = maps.load_outlines(os.path.join(DATA, 'countries.geojson'))
 TERR = {'GF': 'FR', 'GP': 'FR', 'MQ': 'FR', 'RE': 'FR', 'YT': 'FR', 'NC': 'FR', 'PF': 'FR', 'VI': 'US', 'GU': 'US', 'CW': 'NL', 'AW': 'NL', 'SX': 'NL', 'GI': 'GB', 'JE': 'GB', 'GG': 'GB', 'IM': 'GB', 'BM': 'GB', 'VG': 'GB'}
 COMPREHENSIVE = {'CU', 'IR', 'KP', 'SY'}
@@ -71,22 +79,22 @@ def search_box(sid, big=False):
 
 def header():
     return f'''<header class="tdsc-hdr tdsc-chrome" id="tdsc-hdr"><div class="tdsc-hdr__in">
-<a class="tdsc-brand" href="{SITE}/" aria-label="Thiel Detective Service Company — home">{monogram_svg('', 'TDSC')}<span class="tdsc-brand__t"><span class="tdsc-brand__n">THIEL DETECTIVE SERVICE CO.</span><span class="tdsc-brand__s">INVESTIGATIONS SINCE 1873</span></span></a>
+<a class="tdsc-brand" href="{M}/" aria-label="Thiel Detective Service Company — home">{monogram_svg('', 'TDSC')}<span class="tdsc-brand__t"><span class="tdsc-brand__n">THIEL DETECTIVE SERVICE CO.</span><span class="tdsc-brand__s">INVESTIGATIONS SINCE 1873</span></span></a>
 <nav class="tdsc-nav" aria-label="Primary">
-<a href="{SITE}/about" class="tdsc-nav__hide-md">About TDSC</a>
-<a href="{SITE}/consulting">Consulting</a>
+<a href="{M}/about" class="tdsc-nav__hide-md">About TDSC</a>
+<a href="{M}/consulting">Consulting</a>
 <a href="/">International</a>
-<a href="{SITE}/contact">Contact</a>
+<a href="{M}/contact">Contact</a>
 </nav>
 <div class="v-hdr-search">{search_box('tdsc-q')}</div>
-<a class="tdsc-btn tdsc-btn--brass" href="{SITE}/contact">Discuss an Engagement</a>
+<a class="tdsc-btn tdsc-btn--brass" href="{M}/contact">Discuss an Engagement</a>
 <button class="tdsc-burger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="tdsc-mob"><span></span></button>
 </div>
 <nav class="tdsc-mob" id="tdsc-mob" aria-label="Mobile">
 {search_box('tdsc-qm')}
-<a href="{SITE}/">Home</a><a href="{SITE}/about">About TDSC</a><a href="{SITE}/consulting">Consulting Disciplines</a>
-<a href="/">International Directory</a><a href="{SITE}/contact">Contact</a>
-<a class="tdsc-btn tdsc-btn--brass" href="{SITE}/contact">Discuss an Engagement</a>
+<a href="{M}/">Home</a><a href="{M}/about">About TDSC</a><a href="{M}/consulting">Consulting Disciplines</a>
+<a href="/international">International Directory</a><a href="{M}/contact">Contact</a>
+<a class="tdsc-btn tdsc-btn--brass" href="{M}/contact">Discuss an Engagement</a>
 </nav></header>'''
 
 DISCLOSURE = ('Thiel Detective Service Company (TDSC) traces its historical origins to 1873. The original business was subsequently dissolved, '
@@ -98,15 +106,15 @@ def footer():
     return f'''<footer class="tdsc-ftr tdsc-chrome" id="tdsc-ftr"><div class="tdsc-wrap">
 <div class="tdsc-ftr__top">
 <div class="tdsc-ftr__brand">{seal_svg('tdsc-ftr__seal', label='Thiel Detective Service Company seal')}<p>Thiel Detective Service Company</p><span class="tdsc-brand__s">INVESTIGATIONS SINCE 1873 · A NEW ERA OF INTELLIGENCE</span></div>
-<div><h2>International</h2><ul><li><a href="/">Jurisdiction Directory</a></li><li><a href="/#hubs">Major Business Hubs</a></li><li><a href="{SITE}/consulting/international-investigative-strategy-consulting">International Strategy</a></li><li><a href="{SITE}/consulting/due-diligence-consulting">Cross-Border Due Diligence</a></li></ul></div>
-<div><h2>Consulting</h2><ul><li><a href="{SITE}/consulting">All Disciplines</a></li><li><a href="{SITE}/consulting/corporate-investigative-consulting">Corporate Investigations</a></li><li><a href="{SITE}/consulting/fraud-investigation-consulting">Fraud Investigation</a></li><li><a href="{SITE}/consulting/asset-intelligence-recovery-consulting">Asset Intelligence</a></li><li><a href="{SITE}/consulting/corporate-compliance-consulting">Corporate Compliance</a></li></ul></div>
+<div><h2>International</h2><ul><li><a href="/international">Jurisdiction Directory</a></li><li><a href="/international#hubs">Major Business Hubs</a></li><li><a href="{M}/consulting/international-investigative-strategy-consulting">International Strategy</a></li><li><a href="{M}/consulting/due-diligence-consulting">Cross-Border Due Diligence</a></li></ul></div>
+<div><h2>Consulting</h2><ul><li><a href="{M}/consulting">All Disciplines</a></li><li><a href="{M}/consulting/corporate-investigative-consulting">Corporate Investigations</a></li><li><a href="{M}/consulting/fraud-investigation-consulting">Fraud Investigation</a></li><li><a href="{M}/consulting/asset-intelligence-recovery-consulting">Asset Intelligence</a></li><li><a href="{M}/consulting/corporate-compliance-consulting">Corporate Compliance</a></li></ul></div>
 <div><h2>Headquarters</h2><address>Nashville, Tennessee, USA<br><a href="tel:{PHONE_TEL}">{PHONE_DISPLAY}</a><br><a href="mailto:{EMAIL}">{EMAIL}</a></address>
-<h2 style="margin-top:26px">Company</h2><ul><li><a href="{SITE}/about">About TDSC</a></li><li><a href="{DELATOR}" rel="noopener">Delator Group</a></li></ul></div>
+<h2 style="margin-top:26px">Company</h2><ul><li><a href="{M}/about">About TDSC</a></li><li><a href="{DELATOR}" rel="noopener">Delator Group</a></li></ul></div>
 </div>
-<section class="tdsc-disc" aria-labelledby="tdsc-disc-h">{icon('document','')}<div><h2 id="tdsc-disc-h">Historical and Corporate Disclosure</h2><p>{e(DISCLOSURE)} <a href="{SITE}/about">Read the TDSC history</a> · <a href="{DELATOR}" rel="noopener">Visit Delator Group</a></p>
+<section class="tdsc-disc" aria-labelledby="tdsc-disc-h">{icon('document','')}<div><h2 id="tdsc-disc-h">Historical and Corporate Disclosure</h2><p>{e(DISCLOSURE)} <a href="{M}/about">Read the TDSC history</a> · <a href="{DELATOR}" rel="noopener">Visit Delator Group</a></p>
 <p style="margin-top:12px">TDSC operates from Nashville, Tennessee and maintains no offices outside the United States. International engagements are scoped from headquarters and, where local work requires it, coordinated with appropriately licensed local professionals. Jurisdiction pages are general information, not legal advice. City data: <a href="https://www.geonames.org/" rel="noopener">GeoNames</a> (CC BY 4.0). Country outlines: Natural Earth (public domain).</p></div></section>
 <div class="tdsc-ftr__base"><span>© <span data-tdsc-year>2026</span> Thiel Detective Service Company, a DBA of Delator Group. All rights reserved.</span>
-<nav aria-label="Legal"><a href="{SITE}/privacy-policy">Privacy Policy</a><a href="{SITE}/terms-of-use">Terms of Use</a><a href="{SITE}/contact">Contact</a></nav></div>
+<nav aria-label="Legal"><a href="{M}/privacy-policy">Privacy Policy</a><a href="{M}/terms-of-use">Terms of Use</a><a href="{M}/contact">Contact</a></nav></div>
 </div></footer>'''
 
 def cta(title, text):
@@ -114,7 +122,7 @@ def cta(title, text):
 {seal_svg('tdsc-cta__seal', label='TDSC seal')}
 <p class="tdsc-eyebrow">Thiel Detective Service Company</p>
 <h2 id="tdsc-cta-h">{e(title)}</h2><p class="tdsc-lede">{e(text)}</p>
-<div class="tdsc-btns"><a class="tdsc-btn tdsc-btn--brass" href="{SITE}/contact">Request a Consultation {ARROW}</a><a class="tdsc-btn tdsc-btn--ghost" href="{SITE}/consulting">Explore Our Capabilities</a></div>
+<div class="tdsc-btns"><a class="tdsc-btn tdsc-btn--brass" href="{M}/contact">Request a Consultation {ARROW}</a><a class="tdsc-btn tdsc-btn--ghost" href="{M}/consulting">Explore Our Capabilities</a></div>
 <div class="tdsc-cta__contact"><span>Headquarters: Nashville, Tennessee</span><a href="tel:{PHONE_TEL}">{PHONE_DISPLAY}</a><a href="mailto:{EMAIL}">{EMAIL}</a></div>
 </div></section>'''
 
@@ -128,27 +136,13 @@ def crumbs_ld(items):
     return {'@type': 'BreadcrumbList', 'itemListElement': [
         {'@type': 'ListItem', 'position': i + 1, 'name': n, 'item': (u if u.startswith('http') else INTL + u)} for i, (n, u) in enumerate(items)]}
 
-def doc(path, title, desc, body, schema, accent='brass', og_type='website'):
-    url = INTL + path
-    return f'''<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{e(title)}</title><meta name="description" content="{e(desc)}">
-<link rel="canonical" href="{url}"><meta name="robots" content="index,follow,max-image-preview:large">
-<meta property="og:type" content="{og_type}"><meta property="og:site_name" content="Thiel Detective Service Company"><meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><meta property="og:url" content="{url}">
-<meta name="twitter:card" content="summary"><meta name="theme-color" content="#0B1422">
-<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap">
-<link rel="stylesheet" href="/assets/site.css?v={ASSET_V}">
-{ld(schema)}
-</head><body>
-{header()}
-<main id="page"><div class="tdsc-page" data-accent="{accent}">
-{body}
-</div></main>
-{footer()}
-<script src="/assets/site.js?v={ASSET_V}" defer></script>
-</body></html>'''
+PAGES = []  # manifest rows for the Squarespace loader
+def doc(path, title, desc, body, schema, accent='brass', og_type='website', nav=None):
+    key = 'intl' + (path.replace('/international', '').replace('/', '-') or '-index')
+    frag = (f'<!-- TDSC PAGE: {key} | generated by TDSC international build — edit source, not this block -->\n'
+            f'<div class="tdsc-page tdsc-intl" data-tdsc-page="{key}" data-accent="{accent}">\n{body}\n</div>\n{ld(schema)}\n')
+    PAGES.append({'key': key, 'path': path, 'title': title, 'desc': desc, 'nav': nav or title, 'bytes': len(frag.encode())})
+    return frag
 
 # ---------------------------------------------------------------- pieces
 def fmt_pop(n):
@@ -263,9 +257,15 @@ def hub_slug(h):
     s = unicodedata.normalize('NFKD', h['name']).encode('ascii', 'ignore').decode().lower()
     return re.sub(r'[^a-z0-9]+', '-', s).strip('-') + '-' + h['cc'].lower()
 
+def city_url(h):
+    cc = h['cc']; j = JUR.get(cc) or JUR.get(TERR.get(cc, ''))
+    return f"/international/{j['slug'] if j else cc.lower()}/{slugify(h['name'])}"
+def city_url_by_slug(hs):
+    return city_url(HUB_BY_SLUG[hs])
+
 def render_jurisdiction(cc, d, published, hub_pages):
     jur = JUR[cc]; name = jur['name']; slug = jur['slug']
-    path = f'/jurisdictions/{slug}/'
+    path = jur_url(slug)
     accent = ACCENTS[seed(cc, 5, 'acc')]
     hero_v = ['', ' v-hero--right', ' v-hero--split'][seed(cc, 3, 'hero')]
     topic_v = ['cards', 'ledger', 'tabs'][seed(cc, 3, 'topic')]
@@ -283,13 +283,13 @@ def render_jurisdiction(cc, d, published, hub_pages):
     plate = map_plate(cc, jur, markers, parch=parch)
     title = title_for(name)
     desc = d['meta_description']
-    cr = [('TDSC', SITE + '/'), ('International', '/'), (name, path)]
+    cr = [('TDSC', '/'), ('International', '/international'), (name, path)]
 
     # --- hero
     meta = [('Capital', jur.get('capital') or '—'), ('Region', jur.get('subregion') or jur.get('region')), ('HQ', 'Nashville, Tennessee')]
     hero = f'''<section class="tdsc-hero v-hero{hero_v}" aria-labelledby="tdsc-h1"><div class="tdsc-glassgrid"></div><div class="tdsc-wrap"><div class="tdsc-hero__in">
 <div>{crumbs(cr)}<p class="tdsc-eyebrow">{e(d["eyebrow"])}</p><h1 id="tdsc-h1">{e(h1)}</h1><p class="tdsc-lede">{e(d["hero_lede"])}</p>
-<div class="tdsc-btns"><a class="tdsc-btn tdsc-btn--brass" href="{SITE}/contact">Discuss a Matter {ARROW}</a><a class="tdsc-btn tdsc-btn--ghost" href="#framework">Review the Framework</a></div>
+<div class="tdsc-btns"><a class="tdsc-btn tdsc-btn--brass" href="{M}/contact">Discuss a Matter {ARROW}</a><a class="tdsc-btn tdsc-btn--ghost" href="#framework">Review the Framework</a></div>
 <div class="tdsc-hero-meta">{''.join(f'<span><b>{e(k)}</b> {e(v)}</span>' for k, v in meta)}</div></div>
 <div class="tdsc-hero__art">{plate}</div>
 </div></div></section>'''
@@ -332,14 +332,14 @@ def render_jurisdiction(cc, d, published, hub_pages):
     approach = f'''<section class="tdsc-sec tdsc-sec--parchment" aria-labelledby="ap-h"><div class="tdsc-wrap"><div class="tdsc-notice tdsc-rv">
 <span class="tdsc-notice__label">Engagement Standard</span><h2 id="ap-h">How TDSC Scopes Matters Touching {e(name)}</h2><p>{e(d["tdsc_approach"])}</p>
 <p>TDSC has no office in {e(name)}. Engagements are directed from Nashville, Tennessee; where work on the ground is needed, it is performed by appropriately licensed local professionals under a written scope. TDSC does not provide legal advice.</p>
-<div class="tdsc-btns" style="margin-top:22px"><a class="tdsc-btn tdsc-btn--navy" href="{SITE}/consulting/international-investigative-strategy-consulting">International Investigative Strategy {ARROW}</a><a class="tdsc-btn tdsc-btn--line" href="{SITE}/consulting/due-diligence-consulting">Cross-Border Due Diligence</a></div>
+<div class="tdsc-btns" style="margin-top:22px"><a class="tdsc-btn tdsc-btn--navy" href="{M}/consulting/international-investigative-strategy-consulting">International Investigative Strategy {ARROW}</a><a class="tdsc-btn tdsc-btn--line" href="{M}/consulting/due-diligence-consulting">Cross-Border Due Diligence</a></div>
 </div></div></section>'''
 
     # --- cities
     tc = top_cities(cc)
     def city_link(c):
         hs = c[4]
-        if hs and hs in hub_pages: return f'<a href="/cities/{hs}/">{e(c[0])}</a>'
+        if hs and hs in hub_pages: return f'<a href="{city_url_by_slug(hs)}">{e(c[0])}</a>'
         return f'<span>{e(c[0])}</span>'
     city_rows = ''.join(f'<li>{city_link(c)} <small>{e(fmt_pop(c[3]))}</small></li>' for c in tc)
     hub_line = ''
@@ -354,7 +354,7 @@ def render_jurisdiction(cc, d, published, hub_pages):
 
     # --- neighbours
     nb = [CCA3[b] for b in jur.get('borders', []) if b in CCA3]
-    nbl = ''.join((f'<a class="tdsc-chip" href="/jurisdictions/{JUR[n]["slug"]}/">{e(JUR[n]["name"])}</a>' if n in published else f'<span class="tdsc-chip">{e(JUR[n]["name"])}</span>') for n in nb)
+    nbl = ''.join((f'<a class="tdsc-chip" href="{jur_url(JUR[n]["slug"])}">{e(JUR[n]["name"])}</a>' if n in published else f'<span class="tdsc-chip">{e(JUR[n]["name"])}</span>') for n in nb)
     neighbours = f'<div class="tdsc-rv" style="margin-top:34px"><p class="tdsc-eyebrow">Neighbouring jurisdictions</p><div class="tdsc-chips">{nbl}</div></div>' if nb else ''
 
     faq = f'''<section class="tdsc-sec tdsc-sec--ivory" aria-labelledby="fq-h"><div class="tdsc-wrap tdsc-narrow">
@@ -381,18 +381,18 @@ def render_jurisdiction(cc, d, published, hub_pages):
          'provider': {'@type': 'Organization', '@id': ORG_ID, 'name': 'Thiel Detective Service Company', 'url': SITE + '/'},
          'areaServed': {'@type': 'Country', 'name': name}, 'description': d['hero_lede']},
         {'@type': 'FAQPage', '@id': INTL + path + '#faq', 'mainEntity': [{'@type': 'Question', 'name': f['q'], 'acceptedAnswer': {'@type': 'Answer', 'text': f['a']}} for f in d['faqs']]}]
-    return path, doc(path, title, desc, body, schema, accent)
+    return path, doc(path, title, desc, body, schema, accent, nav=name)
 
 # ---------------------------------------------------------------- hub city page
 def render_city(h, d, published):
     cc = h['cc']; jur = JUR.get(cc) or JUR.get(TERR.get(cc, ''), {})
-    slug = hub_slug(h); path = f'/cities/{slug}/'
+    slug = hub_slug(h); path = city_url(h)
     name = d.get('name', h['name']); cname = jur.get('name', cc)
     accent = ACCENTS[seed(slug, 5, 'acc')]
     title = title_for(name)
     desc = d['meta_description']
-    cr = [('TDSC', SITE + '/'), ('International', '/')]
-    if cc in published: cr.append((cname, f'/jurisdictions/{jur["slug"]}/'))
+    cr = [('TDSC', '/'), ('International', '/international')]
+    if cc in published: cr.append((cname, jur_url(jur['slug'])))
     cr.append((name, path))
     # local plate: country outline with this hub
     markers = [(name, h['lat'], h['lng'], 'capital' if (CAPS.get(cc) and CAPS[cc][0] == h['gname']) else 'hub')]
@@ -401,7 +401,7 @@ def render_city(h, d, published):
     meta = [('Country', cname), ('GaWC 2024', h['tier']), ('Local time', offset_vs_nashville(tz) or '—')]
     hero = f'''<section class="tdsc-hero v-hero{["", " v-hero--right", " v-hero--split"][seed(slug, 3, "hero")]}" aria-labelledby="tdsc-h1"><div class="tdsc-glassgrid"></div><div class="tdsc-wrap"><div class="tdsc-hero__in">
 <div>{crumbs(cr)}<p class="tdsc-eyebrow">{e(d["eyebrow"])}</p><h1 id="tdsc-h1">{e(d.get("h1") or f"Investigative Consulting Involving {name}")}</h1><p class="tdsc-lede">{e(d["hero_lede"])}</p>
-<div class="tdsc-btns"><a class="tdsc-btn tdsc-btn--brass" href="{SITE}/contact">Discuss a Matter {ARROW}</a>{f'<a class="tdsc-btn tdsc-btn--ghost" href="/jurisdictions/{jur["slug"]}/">{e(cname)} Framework</a>' if cc in published else ''}</div>
+<div class="tdsc-btns"><a class="tdsc-btn tdsc-btn--brass" href="{M}/contact">Discuss a Matter {ARROW}</a>{f'<a class="tdsc-btn tdsc-btn--ghost" href="{jur_url(jur["slug"])}">{e(cname)} Framework</a>' if cc in published else ''}</div>
 <div class="tdsc-hero-meta">{''.join(f'<span><b>{e(k)}</b> {e(v)}</span>' for k, v in meta)}</div></div>
 <div class="tdsc-hero__art">{plate}</div></div></div></section>'''
     secs = []
@@ -425,7 +425,7 @@ def render_city(h, d, published):
               {'@type': 'Service', 'name': f'Investigative consulting involving {name}', 'serviceType': 'Investigative consulting',
                'provider': {'@type': 'Organization', '@id': ORG_ID, 'name': 'Thiel Detective Service Company', 'url': SITE + '/'}, 'areaServed': {'@type': 'City', 'name': name}},
               {'@type': 'FAQPage', 'mainEntity': [{'@type': 'Question', 'name': f['q'], 'acceptedAnswer': {'@type': 'Answer', 'text': f['a']}} for f in d['faqs']]}]
-    return path, doc(path, title, desc, body, schema, accent)
+    return path, doc(path, title, desc, body, schema, accent, nav=name)
 
 # ---------------------------------------------------------------- index page
 def render_index(published, hub_pages):
@@ -434,13 +434,13 @@ def render_index(published, hub_pages):
         regions.setdefault(j['region'] or 'Other', []).append(cc)
     dir_html = ''
     for r in sorted(regions):
-        items = ''.join((f'<a href="/jurisdictions/{JUR[c]["slug"]}/">{e(JUR[c]["name"])}</a>' if c in published else f'<span class="v-pending">{e(JUR[c]["name"])}</span>') for c in regions[r])
+        items = ''.join((f'<a href="{jur_url(JUR[c]["slug"])}">{e(JUR[c]["name"])}</a>' if c in published else f'<span class="v-pending">{e(JUR[c]["name"])}</span>') for c in regions[r])
         dir_html += f'<h3>{e(r)}</h3>{items}'
-    hubs = ''.join(f'<a href="/cities/{hub_slug(h)}/">{e(h["name"])}</a>' for h in HUBS if hub_slug(h) in hub_pages)
+    hubs = ''.join(f'<a href="{city_url(h)}">{e(h["name"])}</a>' for h in HUBS if hub_slug(h) in hub_pages)
     hub_sec = ''
     if hubs:
         hub_sec = f'''<section class="tdsc-sec tdsc-sec--paper" id="hubs" aria-labelledby="hb-h"><div class="tdsc-wrap"><div class="tdsc-head tdsc-rv"><p class="tdsc-eyebrow">Business Hubs</p><h2 id="hb-h">Major International Business Hubs</h2></div><div class="v-dir">{hubs}</div></div></section>'''
-    path = '/'
+    path = '/international'
     title = 'International Investigative Consulting | TDSC · Since 1873'
     desc = 'Investigative consulting across 200 jurisdictions from Thiel Detective Service Company: legal frameworks, records, data protection and how TDSC scopes cross-border work.'
     body = f'''<div class="v-citybar" data-citybar hidden><div class="tdsc-wrap"></div></div>
@@ -457,35 +457,35 @@ def render_index(published, hub_pages):
     schema = [{'@type': 'WebSite', '@id': INTL + '/#website', 'url': INTL + '/', 'name': 'TDSC International', 'publisher': {'@id': ORG_ID}, 'inLanguage': 'en'},
               {'@type': 'CollectionPage', '@id': INTL + '/#webpage', 'url': INTL + '/', 'name': title, 'description': desc, 'isPartOf': {'@id': INTL + '/#website'},
                'publisher': {'@type': 'Organization', '@id': ORG_ID, 'name': 'Thiel Detective Service Company', 'url': SITE + '/'}}]
-    return path, doc(path, title, desc, body, schema, 'brass')
+    return path, doc(path, title, desc, body, schema, 'brass', nav='International')
 
 # ---------------------------------------------------------------- assets
-JS = r'''/* TDSC International — header, menus, reveal, city search. No dependencies. */
+JS = r'''<script>
+/* TDSC International city search + city banner (v1). Index: GeoNames cities >= 50k (CC BY 4.0). */
 (function(){
-var d=document,html=d.documentElement;
+var d=document,IDX=null,loading=null,URL_IDX='__IDX__';
 function ready(f){d.readyState!=='loading'?f():d.addEventListener('DOMContentLoaded',f)}
-var IDX=null,loading=null;
-function norm(s){return (s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().replace(/[^a-z0-9 ]+/g,' ').replace(/\s+/g,' ').trim()}
+function norm(s){return (s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9 ]+/g,' ').replace(/\s+/g,' ').trim()}
 function load(){if(IDX)return Promise.resolve(IDX);if(loading)return loading;
- loading=fetch('/assets/search-index.json?v=__V__').then(function(r){return r.json()}).then(function(j){
+ loading=fetch(URL_IDX).then(function(r){return r.json()}).then(function(j){
   j.n=j.t.map(function(c){return [norm(c[0]),norm(c[1])]});j.cn={};for(var k in j.c){j.cn[k]=norm(j.c[k][0])}
   IDX=j;return j});return loading}
-function target(c,j){var cc=c[2],hub=c[4];
- if(hub&&j.h.indexOf(hub)>-1)return '/cities/'+hub+'/';
- var p=j.t2[cc]||cc;var cj=j.c[p];
- if(cj&&cj[2])return '/jurisdictions/'+cj[1]+'/?city='+encodeURIComponent(c[0]);
- return '/?city='+encodeURIComponent(c[0])+'&cc='+cc}
+function target(c,j){var hub=c[4];
+ if(hub&&j.h[hub])return j.h[hub];
+ var cj=j.c[j.t2[c[2]]||c[2]];
+ if(cj&&cj[1])return cj[1]+'?city='+encodeURIComponent(c[0]);
+ return '/international?city='+encodeURIComponent(c[0])}
 function search(q,j){q=norm(q);if(q.length<2)return [];var out=[],i,n;
- for(var k in j.c){if(j.cn[k].indexOf(q)===0&&j.c[k][2])out.push({s:3e9,label:j.c[k][0],sub:'Jurisdiction',href:'/jurisdictions/'+j.c[k][1]+'/',hub:1})}
+ for(var k in j.c){if(j.c[k][1]&&j.cn[k].indexOf(q)===0)out.push({s:3e9,label:j.c[k][0],sub:'Jurisdiction',href:j.c[k][1],hub:1})}
  for(i=0;i<j.t.length;i++){n=j.n[i];var c=j.t[i],sc=-1;
-  if(n[0]===q||n[1]===q)sc=2e9;else if(n[0].indexOf(q)===0||n[1].indexOf(q)===0)sc=1e9;else if(q.length>3&&(n[0].indexOf(' '+q)>-1))sc=0;
-  if(sc>-1)out.push({s:sc+c[3],label:c[0],sub:(j.c[c[2]]?j.c[c[2]][0]:c[2]),href:target(c,j),hub:!!(c[4]&&j.h.indexOf(c[4])>-1)})}
+  if(n[0]===q||n[1]===q)sc=2e9;else if(n[0].indexOf(q)===0||n[1].indexOf(q)===0)sc=1e9;else if(q.length>3&&n[0].indexOf(' '+q)>-1)sc=0;
+  if(sc>-1)out.push({s:sc+c[3],label:c[0],sub:(j.c[c[2]]?j.c[c[2]][0]:c[2]),href:target(c,j),hub:!!(c[4]&&j.h[c[4]])})}
  out.sort(function(a,b){return b.s-a.s});return out.slice(0,9)}
 function wire(box){var inp=box.querySelector('input'),ul=box.querySelector('.v-results'),sel=-1,res=[];
  function close(){ul.hidden=true;inp.setAttribute('aria-expanded','false');sel=-1}
  function draw(){ul.innerHTML='';res.forEach(function(r,i){var li=d.createElement('li'),a=d.createElement('a');a.href=r.href;a.setAttribute('role','option');a.id=inp.id+'-o'+i;
    if(r.hub)a.className='v-hub';a.appendChild(d.createTextNode(r.label));var s=d.createElement('span');s.textContent=r.sub;a.appendChild(s);li.appendChild(a);ul.appendChild(li)});
-  if(!res.length&&inp.value.trim().length>1){var li=d.createElement('li'),a=d.createElement('a');a.href='/';a.textContent='No city of 50,000+ found — browse jurisdictions';li.appendChild(a);ul.appendChild(li)}
+  if(!res.length&&inp.value.trim().length>1){var li=d.createElement('li'),a=d.createElement('a');a.href='/international';a.textContent='No city of 50,000+ found \u2014 browse jurisdictions';li.appendChild(a);ul.appendChild(li)}
   ul.hidden=!ul.children.length;inp.setAttribute('aria-expanded',ul.hidden?'false':'true')}
  function mark(){[].forEach.call(ul.querySelectorAll('a'),function(a,i){a.setAttribute('aria-selected',i===sel?'true':'false')});if(sel>-1)inp.setAttribute('aria-activedescendant',inp.id+'-o'+sel)}
  inp.addEventListener('focus',load);
@@ -496,26 +496,15 @@ function wire(box){var inp=box.querySelector('input'),ul=box.querySelector('.v-r
   else if(ev.key==='Escape'){close()}});
  d.addEventListener('click',function(ev){if(!box.contains(ev.target))close()})}
 ready(function(){
- var hdr=d.getElementById('tdsc-hdr');
- var onS=function(){hdr&&hdr.classList.toggle('tdsc-scrolled',window.scrollY>12)};window.addEventListener('scroll',onS,{passive:true});onS();
- var bg=d.querySelector('.tdsc-burger');
- function setM(o){html.classList.toggle('tdsc-menu-open',o);bg.setAttribute('aria-expanded',o?'true':'false');bg.setAttribute('aria-label',o?'Close menu':'Open menu');d.body.style.overflow=o?'hidden':''}
- if(bg)bg.addEventListener('click',function(){setM(!html.classList.contains('tdsc-menu-open'))});
- d.addEventListener('keydown',function(ev){if(ev.key==='Escape'&&bg)setM(false)});
- d.querySelectorAll('[data-tdsc-year]').forEach(function(n){n.textContent=new Date().getFullYear()});
  d.querySelectorAll('[data-search]').forEach(wire);
- // city banner
  var qs=new URLSearchParams(location.search),city=qs.get('city'),bar=d.querySelector('[data-citybar]');
- if(city&&bar){city=city.slice(0,80);var w=bar.firstElementChild,h1=d.getElementById('tdsc-h1');
-  var b=d.createElement('b');b.textContent=city;w.appendChild(d.createTextNode('Matters involving '));w.appendChild(b);
-  w.appendChild(d.createTextNode(location.pathname==='/'?': this jurisdiction profile is in research. Contact TDSC to discuss the matter directly.':' are scoped under the jurisdictional framework set out on this page.'));
+ if(city&&bar){city=city.slice(0,80);var w=bar.firstElementChild,b=d.createElement('b');b.textContent=city;
+  w.appendChild(d.createTextNode('Matters involving '));w.appendChild(b);
+  w.appendChild(d.createTextNode(/^\/international\/?$/.test(location.pathname)?': a dedicated profile for this jurisdiction is in research. Contact TDSC to discuss the matter directly.':' are scoped under the jurisdictional framework set out on this page.'));
   bar.hidden=false}
- var els=d.querySelectorAll('.tdsc-rv');
- if('IntersectionObserver' in window){html.classList.add('tdsc-js');
-  var io=new IntersectionObserver(function(es){es.forEach(function(x){if(x.isIntersecting){x.target.classList.add('tdsc-in');io.unobserve(x.target)}})},{rootMargin:'0px 0px -8% 0px',threshold:.06});
-  els.forEach(function(el){io.observe(el)})}
 });
-})();'''
+})();
+</script>'''
 
 EXTRA_CSS = '''
 .v-citylist{list-style:none;margin:26px 0 18px;padding:0;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0 28px}
@@ -540,50 +529,39 @@ FAVICON = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect wid
 
 def write(path, text):
     full = os.path.join(OUT, path.lstrip('/'))
-    if full.endswith('/'): full += 'index.html'
     os.makedirs(os.path.dirname(full), exist_ok=True)
     open(full, 'w', encoding='utf-8').write(text)
 
-ASSET_V = ''
 def main():
-    global ASSET_V
-    css = minify_css(open(os.path.join(HERE, 'brand', 'base.css')).read() + open(os.path.join(HERE, 'brand', 'intl.css')).read() + EXTRA_CSS)
-    ASSET_V = hashlib.sha1((css + JS).encode()).hexdigest()[:8]
+    global HUB_BY_SLUG
+    css = minify_css(open(os.path.join(HERE, 'brand', 'intl.css')).read() + EXTRA_CSS)
     countries = load_countries()
     published = {cc for cc, x in countries.items() if cc in JUR and publishable(x)}
     held = sorted(set(countries) - published)
-    cdir = os.path.join(CONTENT, 'cities')
-    cities = {}
+    cdir = os.path.join(CONTENT, 'cities'); cities = {}
     if os.path.isdir(cdir):
         for f in os.listdir(cdir):
             if f.endswith('.json'):
                 x = json.load(open(os.path.join(cdir, f)))
                 if len(x.get('sources', [])) >= MIN_SOURCES: cities[x['slug']] = x
-    hub_by_slug = {hub_slug(h): h for h in HUBS}
-    hub_pages = {s for s in cities if s in hub_by_slug}
-    os.makedirs(OUT, exist_ok=True)
-    urls = []
-    p, t = render_index(published, hub_pages); write(p, t); urls.append((p, BUILD_DATE))
+    HUB_BY_SLUG = {hub_slug(h): h for h in HUBS}
+    hub_pages = {s for s in cities if s in HUB_BY_SLUG}
+    PAGES.clear()
+    def emit(path, frag):
+        write('pages/' + PAGES[-1]['key'] + '.html', frag)
+    emit(*render_index(published, hub_pages))
     for cc in sorted(published):
-        p, t = render_jurisdiction(cc, countries[cc], published, hub_pages); write(p, t); urls.append((p, countries[cc].get('researched', BUILD_DATE)))
-    for s in sorted(hub_pages):
-        p, t = render_city(hub_by_slug[s], cities[s], published); write(p, t); urls.append((p, cities[s].get('researched', BUILD_DATE)))
-    # assets
-    write('/assets/site.css', css)
-    write('/assets/site.js', JS.replace('__V__', ASSET_V))
-    write('/assets/favicon.svg', FAVICON)
-    idx = {'c': {cc: [v[0], v[1], 1 if cc in published else 0] for cc, v in SIDX['countries'].items()},
-           't': SIDX['cities'], 'h': sorted(hub_pages), 't2': TERR}
-    write('/assets/search-index.json', json.dumps(idx, ensure_ascii=False, separators=(',', ':')))
-    # 404
-    write('/404.html', doc('/404', 'Page Not Found | TDSC · Since 1873', 'The page you requested could not be found.',
-          f'<section class="tdsc-hero"><div class="tdsc-glassgrid"></div><div class="tdsc-wrap"><div class="tdsc-hero__in"><div><p class="tdsc-eyebrow">Not Found</p><h1 id="tdsc-h1">This Page Is Not on File</h1><p class="tdsc-lede">Search by city or return to the jurisdiction directory.</p><div class="v-big-search">{search_box("tdsc-q404", True)}</div><div class="tdsc-btns" style="margin-top:26px"><a class="tdsc-btn tdsc-btn--brass" href="/">Jurisdiction Directory</a></div></div></div></div></section>',
-          [{'@type': 'WebPage', 'name': 'Not found'}]).replace('<meta name="robots" content="index,follow,max-image-preview:large">', '<meta name="robots" content="noindex">'))
-    sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + ''.join(f'<url><loc>{INTL}{u}</loc><lastmod>{m}</lastmod></url>\n' for u, m in urls) + '</urlset>\n'
-    write('/sitemap.xml', sm)
-    write('/robots.txt', f'User-agent: *\nAllow: /\nSitemap: {INTL}/sitemap.xml\n')
-    write('/_headers', '/assets/*\n  Cache-Control: public, max-age=31536000, immutable\n/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n  X-Frame-Options: SAMEORIGIN\n')
-    print(f'built {len(urls)} pages → {OUT}; jurisdictions {len(published)}, held back {held}, hubs {len(hub_pages)}')
+        emit(*render_jurisdiction(cc, countries[cc], published, hub_pages))
+    for s_ in sorted(hub_pages):
+        emit(*render_city(HUB_BY_SLUG[s_], cities[s_], published))
+    write('assets/intl.css', css)
+    write('assets/search.js', JS.replace('__IDX__', IDX_URL))
+    idx = {'c': {}, 't': SIDX['cities'], 'h': {s_: city_url(HUB_BY_SLUG[s_]) for s_ in sorted(hub_pages)}, 't2': TERR}
+    for cc, v in SIDX['countries'].items():
+        idx['c'][cc] = [v[0], jur_url(v[1]) if cc in published else '']
+    write('assets/search-index.json', json.dumps(idx, ensure_ascii=False, separators=(',', ':')))
+    write('manifest.json', json.dumps(PAGES, ensure_ascii=False, indent=1))
+    print(f'built {len(PAGES)} fragments -> {OUT}; jurisdictions {len(published)}, held back {held}, hubs {len(hub_pages)}; max fragment {max(p["bytes"] for p in PAGES)//1024} KB')
 
 if __name__ == '__main__':
     main()
