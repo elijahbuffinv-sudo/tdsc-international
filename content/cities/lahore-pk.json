@@ -4,145 +4,57 @@
   "cc": "PK",
   "meta_description": "TDSC investigative consulting in matters touching Lahore: supplier verification, family group diligence and litigation support in Punjab's capital city.",
   "eyebrow": "Lahore, Punjab, Pakistan",
-  "hero_lede": "Lahore is Punjab's capital and Pakistan's second-largest city, a centre of textiles, manufacturing, trade and real estate, and the seat of the Lahore High Court. TDSC scopes investigative consulting from Nashville for matters touching the city, coordinating appropriately authorised local professionals and Pakistani counsel where local work is needed.",
+  "hero_lede": "Lahore, capital of Punjab and home to about 13 million people, is a centre of textiles, manufacturing, trade and property development, and the seat of the Lahore High Court. TDSC scopes investigative consulting from Nashville for matters touching the city, coordinating authorised local professionals and Pakistani counsel where needed.",
   "intro": [
-    "Lahore is the capital of Punjab, Pakistan's most populous province, and the country's second-largest city. The 2023 census counted more than 13 million people in Lahore district. The provincial government, the Lahore High Court and the head offices of many Punjabi business groups are based in the city, and it is a major centre for textiles and apparel, food processing, pharmaceuticals, automotive parts, construction materials, retail and wholesale trade. Information technology and business services have grown alongside education and healthcare, and large private housing schemes and commercial developments have transformed the city's edges. Lahore is also the hub for the manufacturing and export towns of central Punjab, including Faisalabad, Sialkot and Gujranwala, whose companies frequently bank, litigate and maintain offices in the city.",
-    "Organisations commission investigative work connected to Lahore because so much Punjabi commerce and capital passes through it. International brands and buyers need to verify textile, apparel and other suppliers and their subcontractors. Investors and lenders need to understand family-controlled groups whose interests span manufacturing, sugar, real estate and finance, and whose relationships with politics and government can be significant. Real estate projects and housing schemes raise questions about land title, approvals and the people behind developers. Provincial procurement attracts integrity reviews. Litigants and creditors need asset, witness and corporate history research for proceedings before the Lahore High Court and Punjab's lower courts, often against a background of parallel regulatory and criminal inquiries."
+    "Lahore is the capital of Punjab, Pakistan's most populous province, and one of the country's main centres of commerce and industry. The urban localities of Lahore district counted about 13.0 million people at the 2023 census, up from about 11.1 million in 2017. The provincial government, the Lahore High Court and the head offices of many Punjabi business groups are based in the city. A 2025 labour market assessment cited by the EU Agency for Asylum describes Lahore as a central economic hub leading Punjab in workforce demand, driven by manufacturing, services and trade, with strong demand for skilled workers in textiles and manufacturing and for housing-society and public infrastructure projects. Garment production, brick kilns and other labour-intensive industries ring the city.",
+    "Organisations commission investigative work connected to Lahore because so much Punjabi commerce and capital passes through it. International brands and buyers need to verify textile, apparel and other suppliers and their subcontractors, and increasingly to evidence labour conditions in their supply chains. Investors and lenders need to understand family-controlled groups whose interests span manufacturing, sugar, real estate and finance. Housing societies and commercial developments raise questions about land title, approvals and the people behind developers. Provincial procurement attracts integrity reviews. Litigants and creditors need asset, witness and corporate history research for proceedings before the Lahore High Court and Punjab's lower courts, including disputes over company shareholdings and membership records."
   ],
   "economy": [
-    {
-      "label": "Population",
-      "value": "More than 13 million, Lahore district (2023 census, Pakistan Bureau of Statistics)"
-    },
-    {
-      "label": "Province",
-      "value": "Capital of Punjab, Pakistan's most populous province"
-    },
-    {
-      "label": "Key sectors",
-      "value": "Textiles and apparel, food processing, pharmaceuticals, automotive parts, retail and trade, IT and business services, real estate"
-    },
-    {
-      "label": "Courts",
-      "value": "Principal seat of the Lahore High Court"
-    },
-    {
-      "label": "Regional role",
-      "value": "Business hub for central Punjab manufacturing towns such as Faisalabad, Sialkot and Gujranwala"
-    },
-    {
-      "label": "Airport",
-      "value": "Allama Iqbal International Airport"
-    },
-    {
-      "label": "Time zone",
-      "value": "Asia/Karachi, UTC+5 (no daylight saving)"
-    },
-    {
-      "label": "Languages of business",
-      "value": "English and Urdu; Punjabi widely spoken"
-    }
+    {"label": "Population", "value": "About 13.0 million, Lahore district urban localities (2023 census, Pakistan Bureau of Statistics)"},
+    {"label": "Province", "value": "Capital of Punjab, Pakistan's most populous province"},
+    {"label": "Workforce", "value": "About 3.9 million employed in Lahore district (2023 census)"},
+    {"label": "Key sectors", "value": "Textiles and garments, manufacturing, trade, services, construction and housing development"},
+    {"label": "Courts", "value": "Principal seat of the Lahore High Court"},
+    {"label": "Regional role", "value": "Business hub for central Punjab's manufacturing and export towns"},
+    {"label": "Time zone", "value": "Asia/Karachi, UTC+5 (no daylight saving)"},
+    {"label": "Languages of business", "value": "English and Urdu; Punjabi widely spoken"}
   ],
   "matters": [
-    {
-      "title": "Textile and apparel supplier verification",
-      "text": "Buyers sourcing from Lahore and central Punjab ask us to verify that suppliers exist as described, identify owners and related companies, review export history and adverse information, and look for undisclosed subcontracting, supporting sourcing decisions, audit follow-up and responses to labour or quality concerns."
-    },
-    {
-      "title": "Family business group diligence",
-      "text": "Many Lahore companies belong to family groups spanning textiles, sugar, real estate and finance, sometimes with political connections. Before investment, lending or partnership, we map group entities, directors, shareholders, related parties and litigation and regulatory history, so clients understand control and exposure."
-    },
-    {
-      "title": "Real estate and housing scheme checks",
-      "text": "Housing schemes and commercial projects around Lahore attract domestic and overseas Pakistani investment. We research developers and their principals, approval status reported in public sources, litigation and complaints, and work with counsel on land record checks, helping investors identify title and regulatory risk."
-    },
-    {
-      "title": "Provincial procurement integrity",
-      "text": "Punjab government departments and authorities based in Lahore award substantial works and supply contracts. We research bidders, joint venture partners and agents for ownership links, prior disputes, blacklisting reports and connections to public officials, giving compliance teams a sourced basis for decisions."
-    },
-    {
-      "title": "Asset research for Lahore litigation",
-      "text": "Creditors and claimants pursuing Punjabi parties need to know what assets exist and how they are held. We research company interests, property information obtained through counsel, related entities and transfers, giving counsel a sourced picture before recovery or enforcement steps in the Lahore courts."
-    }
+    {"title": "Textile and apparel supplier verification", "text": "Buyers sourcing from Lahore and central Punjab ask us to verify that suppliers exist as described, identify owners and related companies, review adverse media and litigation, and look for undisclosed subcontracting to smaller units, supporting sourcing decisions, audit follow-up and responses to labour or quality concerns."},
+    {"title": "Family business group diligence", "text": "Many Lahore companies belong to family groups spanning textiles, sugar, real estate and finance, sometimes with political connections. Before investment, lending or partnership, we map group entities, directors, shareholders, related parties and litigation and regulatory history, so clients understand who controls what and where exposure lies."},
+    {"title": "Housing scheme and developer checks", "text": "Housing societies and commercial projects around Lahore attract domestic and overseas Pakistani investment. We research developers and their principals, approval status reported in public sources, litigation and complaints, and work with counsel on land record checks, helping investors identify title and regulatory risk before they commit funds."},
+    {"title": "Shareholding and membership disputes", "text": "Disputes over who owns a Lahore company often turn on the register of members and transfers recorded with the SECP. We reconstruct filing histories, shareholder and director changes, related entities and court records, giving counsel a sourced chronology for rectification petitions or commercial claims before the Lahore High Court."},
+    {"title": "Asset research for Lahore litigation", "text": "Creditors and claimants pursuing Punjabi parties need to know what assets exist and how they are held. We research company interests, property information obtained through counsel, related entities and transfers, giving counsel a sourced picture before recovery or enforcement steps in the Lahore courts."}
   ],
   "local_context": [
-    {
-      "title": "Lahore High Court",
-      "text": "The Lahore High Court has its principal seat in Lahore and is the superior court for Punjab. Beyond appeals and constitutional petitions, it hears significant company and corporate matters and frequently reviews actions by regulators and investigating agencies. In 2020, for example, it struck down a Securities and Exchange Commission of Pakistan reference to the Federal Investigation Agency in a sugar mills inquiry. Its judgments are an important source when researching Punjabi companies and their principals."
-    },
-    {
-      "title": "Company records and SECP oversight",
-      "text": "Companies are registered nationally with the Securities and Exchange Commission of Pakistan, described on the Pakistan page, which maintains a company registration office in Lahore. The Lahore High Court has been asked to direct the regulator to act against thousands of companies, reflecting concerns about non-compliant and dormant entities. For investigators this means registry information on Punjabi companies can be incomplete or outdated, and should be tested against court records, media and other sources."
-    },
-    {
-      "title": "Overlapping inquiries and agencies",
-      "text": "Business disputes in Lahore often run alongside inquiries by federal and provincial bodies, including the Federal Investigation Agency, anti-corruption authorities and regulators, and challenges to those inquiries in the High Court. Investigative research for a civil or commercial matter must therefore be planned with counsel so that it does not interfere with, or appear to interfere with, ongoing official proceedings, and so that published findings are handled carefully."
-    },
-    {
-      "title": "Punjab land and property records",
-      "text": "Land in Punjab is recorded under a provincial revenue system that has been progressively computerised, while urban plots in Lahore are also managed by development authorities and housing societies with their own allotment records. Records may be in Urdu and may not reflect informal transfers. Property research in Lahore is therefore carried out with Pakistani counsel and, where needed, authorised local professionals who can obtain and interpret records lawfully."
-    },
-    {
-      "title": "Provincial security licensing",
-      "text": "Punjab regulates private security companies through provincial licensing administered by its home department, alongside federal security clearance. We have not identified a dedicated Punjab licensing regime for private investigators, and the status of firms offering investigative services is not clearly defined. Any enquiries on the ground in Lahore are scoped with counsel and kept to lawful open-source and interview methods, without pretexting or access to restricted records."
-    }
+    {"title": "Lahore High Court", "text": "The Lahore High Court has its principal seat in Lahore and is the superior court for Punjab. Beyond appeals and constitutional petitions, it hears company matters and frequently examines the actions of regulators. In 2026 it asked the Securities and Exchange Commission of Pakistan to explain how membership records are created, maintained, altered and rectified under the Companies Act 2017, in pending petitions over registers of members. Its judgments are an important source when researching Punjabi companies and their principals."},
+    {"title": "Company records and SECP oversight", "text": "Companies are registered nationally with the SECP, described on the Pakistan page. Court activity in Lahore shows the limits of the record: in 2015 the Lahore High Court directed the SECP to act against 8,444 companies that had not appointed legal advisers, and in 2026 pending petitions questioned how membership records are maintained and rectified. Registry information on Punjabi companies should therefore be tested against court records, media and other sources rather than taken at face value."},
+    {"title": "Punjab security company licensing", "text": "Private security companies in Punjab are governed by the Punjab Private Security Regulation and Control Ordinance 2002 and Rules of 2003. Companies register with the SECP, obtain a Ministry of Interior no-objection certificate and then apply to the provincial government for a three-year licence. In 2026 the Punjab Home Department also made registration of security companies and guards through the Safe City system mandatory. We have not identified a Punjab licensing regime specific to private investigators."},
+    {"title": "Land and housing society records", "text": "Property research in Lahore involves provincial revenue records for land and, for urban plots, the allotment and transfer records of development authorities and private housing societies. Records may be in Urdu, may sit with different bodies for the same area, and may not reflect informal transfers. Property research is therefore carried out with Pakistani counsel and, where needed, authorised local professionals who can obtain and interpret records lawfully."}
   ],
   "tdsc_approach": "TDSC has no office in Lahore and handles Lahore matters from Nashville. We start by confirming with the client and its Pakistani counsel the purpose of the work, whether supplier verification, an investment, a property acquisition, procurement due diligence or litigation in the Lahore High Court, and whether parallel official inquiries exist. Research draws on SECP records, Lahore High Court and other judgments, regulatory announcements, property information obtained through counsel, and English and Urdu media. Where site visits or local enquiries are needed, we coordinate appropriately authorised local professionals and agree methods with counsel in advance. We do not seek bank, telecom or national identity records, and handle personal data within PECA and applicable rules.",
   "faqs": [
-    {
-      "q": "Can TDSC verify a textile supplier in Lahore?",
-      "a": "Yes. We check the supplier's registration, owners and directors, related companies, export history indicators, litigation and media coverage, and look for signs of undisclosed subcontracting. Where a site visit is needed, we coordinate appropriately authorised local professionals. Findings are sourced so sourcing, compliance and audit teams can act on them."
-    },
-    {
-      "q": "Which court hears major commercial disputes in Lahore?",
-      "a": "The Lahore High Court, with its principal seat in Lahore, is the superior court for Punjab and hears significant company matters, constitutional petitions and appeals. Many civil claims start in the district courts. Counsel determines the forum and procedure, and we shape research and reporting to the requirements of the chosen court."
-    },
-    {
-      "q": "How reliable are company records for Lahore businesses?",
-      "a": "SECP records give registration details, directors and filed returns, but filings may be late, incomplete or outdated, and the Lahore High Court has been asked to direct action against thousands of non-compliant companies. We therefore test registry information against court judgments, regulatory announcements, media and other sources before drawing conclusions."
-    },
-    {
-      "q": "Can you check a housing scheme or developer in Lahore?",
-      "a": "Yes. We research the developer and its principals, reported approval status, litigation, complaints and media coverage, and work with Pakistani counsel on land record and title checks. Developer structures can involve several related companies and individuals, so the research focuses on identifying who controls the project and any disputes affecting it."
-    },
-    {
-      "q": "Are private investigators licensed in Lahore?",
-      "a": "We have not identified a dedicated licensing statute for private investigators in Punjab or Pakistan. Private security companies are licensed provincially and cleared federally. TDSC therefore keeps local work to lawful methods agreed with counsel, coordinates appropriately authorised professionals, and does not use pretexting or seek restricted government, bank or telecom records."
-    }
+    {"q": "Can TDSC verify a textile supplier in Lahore?", "a": "Yes. We check the supplier's registration, owners and directors, related companies, litigation and media coverage, and look for signs of undisclosed subcontracting. Where a site visit is needed, we coordinate appropriately authorised local professionals. Findings are sourced so sourcing, compliance and audit teams can act on them and follow up with the supplier."},
+    {"q": "Which court hears major commercial disputes in Lahore?", "a": "The Lahore High Court, with its principal seat in Lahore, is the superior court for Punjab and hears company matters, constitutional petitions and appeals. Many civil claims start in the district courts. Counsel determines the forum and procedure, and we shape research and reporting to the requirements of the chosen court."},
+    {"q": "How reliable are company records for Lahore businesses?", "a": "SECP records give registration details, directors and filed returns, but filings may be late, incomplete or disputed, and the Lahore High Court has examined how the SECP maintains and rectifies membership records. We therefore test registry information against court judgments, regulatory announcements, media and other sources before drawing conclusions about ownership or control."},
+    {"q": "Can you check a housing scheme or developer in Lahore?", "a": "Yes. We research the developer and its principals, reported approval status, litigation, complaints and media coverage, and work with Pakistani counsel on land record and title checks. Developer structures can involve several related companies and individuals, so the research focuses on identifying who controls the project and any disputes affecting it."},
+    {"q": "Are private investigators licensed in Lahore?", "a": "We have not identified a dedicated licensing statute for private investigators in Punjab. Private security companies are licensed by the provincial government under a 2002 ordinance after SECP registration and Ministry of Interior clearance. TDSC keeps local work to lawful methods agreed with counsel and does not use pretexting or seek restricted government, bank or telecom records."}
   ],
   "sources": [
-    {
-      "title": "European Union Agency for Asylum: Pakistan country focus, key socio-economic indicators, focus on Lahore",
-      "url": "https://www.euaa.europa.eu/pakistan-country-focus/73-key-socio-economic-indicators-focus-lahore"
-    },
-    {
-      "title": "Pakistan Bureau of Statistics: 2023 Census, Table 2 (national)",
-      "url": "https://www.pbs.gov.pk/sites/default/files/population/2023/tables/table_2_national.pdf"
-    },
-    {
-      "title": "City Population: Lahore district (Punjab, Pakistan)",
-      "url": "https://www.citypopulation.de/en/pakistan/admin/punjab/716__lahore/"
-    },
-    {
-      "title": "Dawn: LHC strikes down SECP reference to FIA in sugar mills case",
-      "url": "https://dawn.com/news/1590102/lhc-strikes-down-secp-reference-to-fia-in-sugar-mills-case"
-    },
-    {
-      "title": "Customs Today: LHC orders SECP to take action against 8,444 companies",
-      "url": "https://customstoday.media/lhc-orders-secp-to-take-action-against-8444-companies/"
-    },
-    {
-      "title": "SECP: Punjab Judicial Academy symposium on role and jurisdiction of courts under laws governing corporate sector",
-      "url": "https://www.secp.gov.pk/wp-content/uploads/2016/05/Punjab-Judicial-Academy-organized-Symposium-on-�Role-and-Jurisdiction-of-Courts-under-laws-Governing-Corporate-Sector�.pdf"
-    }
+    {"title": "Pakistan Bureau of Statistics: 2023 Census, Table 2, Punjab province (urban localities)", "url": "https://www.pbs.gov.pk/sites/default/files/population/2023/tables/table_2_punjab_province.pdf"},
+    {"title": "City Population: Lahore district (Punjab, Pakistan)", "url": "https://www.citypopulation.de/en/pakistan/admin/punjab/716__lahore/"},
+    {"title": "European Union Agency for Asylum: Pakistan country focus, 7.3.2 Employment, formal and informal", "url": "https://www.euaa.europa.eu/pakistan-country-focus/732-employment-formal-and-informal"},
+    {"title": "EBSCO Research Starters: Lahore, Pakistan", "url": "https://www.ebsco.com/research-starters/history/lahore-pakistan"},
+    {"title": "SCC Online blog: Lahore High Court seeks SECP report on membership records (June 2026), tag listing", "url": "https://www.scconline.com/blog/post/tag/securities-and-exchange-commission-of-pakistan/"},
+    {"title": "Customs Today: LHC orders SECP to take action against 8,444 companies (29 July 2015)", "url": "https://customstoday.media/?p=288659"},
+    {"title": "Kakakhel Law: Security services company setup (Punjab ordinance 2002 and rules 2003)", "url": "https://www.kakakhellaw.com/security-services-company-setup"},
+    {"title": "ProPakistani: Punjab makes security guard registration mandatory (April 2026)", "url": "https://propakistani.pk/2026/04/23/punjab-makes-security-guard-registration-mandatory/"}
   ],
   "review_flags": [
-    "HELD: written from search-result titles only; re-verify before publishing",
-    "WebFetch hourly limit was hit before any Lahore page could be opened; all six sources are from search result titles only, and snippets carried no body text. Lahore page needs a full verification pass.",
-    "Population 'more than 13 million, Lahore district, 2023 census' is from background knowledge (about 13.0 million); PBS and citypopulation.de results appeared but were not opened. Verify.",
-    "LHC/SECP items rely on headlines: 2020 sugar mills ruling (Dawn) and order on 8,444 companies (Customs Today, date unknown; copy says the court 'has been asked to direct', which may understate or misstate it). Verify.",
-    "Stated from background knowledge, not verified this session: sector list, SECP company registration office in Lahore, Allama Iqbal International Airport, Punjab land record computerisation and development authority/housing society records, Punjab home department licensing of security companies, overlapping FIA and anti-corruption inquiries."
+    "Re-verified 2026-11-04: eight pages opened. Corrected: the 8,444-companies LHC order (2015) concerned companies without legal advisers, not dormant entities; unverified 2020 sugar mills ruling, Allama Iqbal airport row, SECP Lahore office, and FIA/anti-corruption overlap paragraph removed.",
+    "Population 13.0 million is the sum of Lahore district urban localities in PBS Table 2 (citypopulation.de gives 13,004,135 for the district, citing PBS); the district total including any rural areas was not seen in an official table.",
+    "Punjab security licensing law name comes from a law firm page; the 2026 Safe City registration requirement from a news report without effective date. Confirm with Pakistani counsel.",
+    "Land records paragraph (provincial revenue records, development authority and housing society records) is general and not tied to an opened source."
   ],
-  "researched": "2026-11-04",
-  "hold": true
+  "researched": "2026-11-04"
 }

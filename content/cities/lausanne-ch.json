@@ -1,0 +1,142 @@
+{
+  "slug": "lausanne-ch",
+  "name": "Lausanne",
+  "cc": "CH",
+  "meta_description": "TDSC investigative consulting in matters touching Lausanne: sports governance inquiries, CAS case support, Vaud company due diligence and asset research.",
+  "eyebrow": "Canton of Vaud, Switzerland",
+  "hero_lede": "Investigative consulting for matters connected to Lausanne: integrity and governance inquiries involving international sports organisations, support to counsel in Court of Arbitration for Sport proceedings and appeals to the Federal Supreme Court, and due diligence on Vaud companies and multinational headquarters. Scoped from Nashville with qualified Swiss professionals.",
+  "intro": [
+    "Lausanne, on the north shore of Lake Geneva, is the capital and largest city of the Canton of Vaud, with about 144,900 residents at the end of 2024 according to the Federal Statistical Office and an agglomeration of around 420,000. It forms part of the Lake Geneva metropolitan region of more than 1.3 million people. The economy is dominated by services, education and research, with EPFL, the University of Lausanne, IMD and the CHUV university hospital among the main institutions. Companies headquartered in the city or its metropolitan area include Philip Morris International, Nespresso, Logitech, Bobst, Kudelski and Vaudoise Assurances. Since 1994 the International Olympic Committee has recognised Lausanne as the Olympic Capital.",
+    "Lausanne's distinctive role for investigators is as the administrative centre of world sport and the seat of Switzerland's highest court. The IOC, the Court of Arbitration for Sport and dozens of international sports federations and organisations are based in the city and canton, and the Federal Supreme Court hears appeals against CAS awards and Swiss international arbitration awards. Organisations commission investigative work connected to Lausanne for governance and integrity inquiries into sports bodies, background research for counsel in CAS cases on eligibility, doping, transfers and sponsorship, due diligence on partners of federations and event organisers, and corporate research on Vaud companies, multinational subsidiaries and their principals."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 144,900, city (31 December 2024, Federal Statistical Office)"
+    },
+    {
+      "label": "Agglomeration",
+      "value": "About 420,000 (2019); Lake Geneva metropolitan region over 1.3 million"
+    },
+    {
+      "label": "Key sectors",
+      "value": "International sport administration, higher education and research, health care, tobacco and consumer goods, technology, insurance"
+    },
+    {
+      "label": "Sport sector",
+      "value": "IOC, CAS and more than 40 international sports organisations; about CHF 250 million annual impact in the Lausanne region (2013 study)"
+    },
+    {
+      "label": "Courts",
+      "value": "Federal Supreme Court of Switzerland; cantonal courts of Vaud"
+    },
+    {
+      "label": "Airport",
+      "value": "Served mainly by Geneva Airport"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Zurich, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Language of business",
+      "value": "French; English widely used in sport and multinationals"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Sports governance and integrity inquiries",
+      "text": "Fact-finding for sports organisations, their counsel and stakeholders on suspected misconduct, conflicts of interest, misuse of development funds or improper influence in elections and host selection, built from documents, open sources and interviews conducted lawfully under Swiss data protection rules."
+    },
+    {
+      "title": "CAS proceedings support",
+      "text": "Background research on parties, agents, witnesses and experts, and documentary fact development for counsel in Court of Arbitration for Sport cases on eligibility, doping, transfers, disciplinary sanctions and commercial disputes, prepared to the tight timetables of appeals and ad hoc divisions."
+    },
+    {
+      "title": "Sponsorship and commercial partner checks",
+      "text": "Due diligence on sponsors, broadcasters, intermediaries and event organisers contracting with Lausanne-based federations, covering ownership, politically exposed persons, sanctions exposure, litigation and adverse media, to support integrity programmes and contract decisions. Findings are documented for the client's compliance function."
+    },
+    {
+      "title": "Vaud company due diligence",
+      "text": "Research into companies registered in Vaud and their officers, signatories and related entities using commercial register extracts, official gazette notices, court decisions and media, supporting acquisitions, investments and partnerships with Lausanne-area businesses, start-ups and multinational subsidiaries."
+    },
+    {
+      "title": "Asset research and enforcement",
+      "text": "Identification of companies, real estate interests and business holdings connected to a debtor in Lausanne and the Lake Geneva region, from lawful public records and open sources, so Swiss counsel can assess attachment, debt enforcement and recognition proceedings in Vaud."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Federal Supreme Court",
+      "text": "Switzerland's Federal Supreme Court convenes in Lausanne, although the city is not the federal capital. It is the final instance for civil, criminal and public law appeals from the cantons and hears applications to set aside international arbitration awards seated in Switzerland, including CAS awards, on limited grounds. For investigative work this matters mainly for timing and for the narrow review the court applies, which places the weight of fact-finding on the earlier arbitral or cantonal stage."
+    },
+    {
+      "title": "Court of Arbitration for Sport",
+      "text": "The Court of Arbitration for Sport is based in Lausanne and registers more than 400 cases a year. It hears ordinary commercial sports disputes and appeals against decisions of sports bodies, and operates ad hoc divisions at major events such as the Olympic Games. Its awards are subject to limited review by the Federal Supreme Court. CAS cases often involve parties, evidence and witnesses in many countries, with short procedural deadlines, particularly in eligibility and selection matters."
+    },
+    {
+      "title": "Olympic Capital and federations",
+      "text": "The IOC directs the Olympic Movement from Lausanne, and the city hosts more than 40 international sports organisations, including federations for gymnastics, cycling, archery, rowing, fencing and skating, plus the European office of the World Anti-Doping Agency. A study commissioned by Lausanne, the Canton of Vaud and the IOC estimated the sector's 2013 impact at about CHF 1.07 billion a year nationally, around CHF 250 million in the Lausanne region, and about 2,150 jobs."
+    },
+    {
+      "title": "Vaud courts and registers",
+      "text": "Civil, commercial and criminal cases arising in Lausanne are heard by the cantonal courts of Vaud, which sit in Lausanne, under the federal Civil Procedure Code. Vaud is not among the cantons with a specialised commercial court. Company information comes from the Vaud commercial register, searchable nationally through Zefix, and the Swiss Official Gazette of Commerce. Land register and debt enforcement records are kept at cantonal and district level and are accessible to third parties only where an interest is shown."
+    }
+  ],
+  "tdsc_approach": "For matters touching Lausanne, TDSC first clarifies the forum and the decision: an internal inquiry by a sports body, a CAS appeal or ordinary arbitration, a set-aside application before the Federal Supreme Court, a transaction with a Vaud company, or enforcement in the canton. Sports matters often require reviewing governance rules, statutes and decisions alongside open sources in several languages and countries. Research is conducted with attention to the Federal Act on Data Protection and Swiss Criminal Code limits on recording and covert inquiry. Register extracts, debt enforcement records and court steps are obtained through Swiss counsel, and any interviews or field inquiries are coordinated with appropriately authorised Swiss professionals. TDSC has no office in Lausanne.",
+  "faqs": [
+    {
+      "q": "Can TDSC support counsel in a CAS appeal?",
+      "a": "Yes. TDSC acts as a consultant to counsel, researching parties, agents, witnesses and experts and developing documentary evidence on timetables that fit CAS procedures, including expedited appeals. Counsel decides how findings are used. Because the Federal Supreme Court's review of CAS awards is narrow, thorough fact-finding at the arbitral stage is particularly important."
+    },
+    {
+      "q": "Does TDSC conduct governance inquiries for sports federations?",
+      "a": "Yes, where scope and authority are clearly defined. TDSC can investigate suspected misconduct, conflicts of interest or misuse of funds for a federation's governing body, ethics function or external counsel, reviewing documents and open sources and conducting interviews lawfully. Findings are reported to the commissioning body; TDSC does not make disciplinary decisions."
+    },
+    {
+      "q": "Can TDSC check sponsors and intermediaries dealing with Lausanne federations?",
+      "a": "Yes. TDSC reviews sponsors, agents, broadcasters and event organisers for ownership, politically exposed persons, sanctions exposure, litigation and adverse media. This supports integrity and compliance programmes of federations and their commercial partners, and helps identify relationships that may need disclosure or further review under the organisation's own rules."
+    },
+    {
+      "q": "What can be learned from the Vaud commercial register?",
+      "a": "Register entries show a company's name, seat, purpose, capital, governing bodies, auditors and authorised signatories, and changes are published in the Swiss Official Gazette of Commerce. Shareholders of a public limited company are not entered. TDSC combines register material with court decisions, media and other lawful sources and flags where ownership cannot be confirmed."
+    },
+    {
+      "q": "Does TDSC have an office or staff in Lausanne?",
+      "a": "No. TDSC has no office, staff or address in Lausanne or elsewhere in Switzerland. Engagements are managed from Nashville. Where a matter needs local inquiries, TDSC coordinates appropriately authorised Swiss professionals and works with the client's Swiss counsel under a written scope that addresses data protection and the limits of lawful inquiry."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Lausanne (Wikipedia, citing Federal Statistical Office)",
+      "url": "https://en.wikipedia.org/wiki/Lausanne"
+    },
+    {
+      "title": "Ville de Lausanne, Des acteurs majeurs du sport",
+      "url": "https://www.lausanne.ch/en/portrait/capitale-olympique/siege-du-cio/federations-sportives-internationales/des-acteurs-majeurs-du-sport.html"
+    },
+    {
+      "title": "Canton de Vaud, Forte progression des retombees economiques (AISTS study, April 2015)",
+      "url": "https://www.vd.ch/typo3temp/assets/pdfs/forte-progression-des-retombees-economiques-1428597398.pdf"
+    },
+    {
+      "title": "Court of Arbitration for Sport, Fact Sheet",
+      "url": "https://www.tas-cas.org/fileadmin/user_upload/Fact_Sheet_EN.pdf"
+    },
+    {
+      "title": "LawInSport, Inauguration of the new headquarters of the Court of Arbitration for Sport (search result)",
+      "url": "https://lawinsport.com/topics/news/item/inauguration-of-the-new-headquarters-of-the-court-of-arbitration-for-sport"
+    },
+    {
+      "title": "citypopulation.de, District de Lausanne (search result)",
+      "url": "https://citypopulation.de/en/switzerland/vaud/B2225__district_de_lausanne/"
+    }
+  ],
+  "review_flags": [
+    "Population 144,873 (31 Dec 2024) is the Wikipedia infobox citing SFSO; no BFS page opened.",
+    "Vaud cantonal courts sitting in Lausanne, absence of a Vaud commercial court, Federal Supreme Court's set-aside role for CAS/international awards, and land/debt enforcement access rules are from general knowledge and the CH country file, not a source opened this session.",
+    "Sports-sector economic figures date from a 2013 study (published 2015); counts of federations vary on the city page (25 vs 'more than 40').",
+    "Commodity trading in the Lake Geneva region deliberately not mentioned (not sourced)."
+  ],
+  "researched": "2026-11-04"
+}

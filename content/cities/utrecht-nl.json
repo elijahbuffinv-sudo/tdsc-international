@@ -1,0 +1,142 @@
+{
+  "slug": "utrecht-nl",
+  "name": "Utrecht",
+  "cc": "NL",
+  "meta_description": "TDSC investigative consulting in matters touching Utrecht: Midden-Nederland court records, financial sector counterparties, insolvency and vendor research.",
+  "eyebrow": "Utrecht, the Netherlands",
+  "hero_lede": "Investigative consulting for matters touching Utrecht, scoped from Nashville: research on Dutch companies and principals in the country's central business region, review of filings and judgments from the Midden-Nederland district court, and factual support for counsel in insolvency, procurement and financial sector matters.",
+  "intro": [
+    "Utrecht is the fourth-largest city in the Netherlands and the capital of the province of the same name. Statistics Netherlands put its population at 374,238 on 1 January 2024, after growth of more than ten percent since 2016, and the government business portal records 378,121 residents and 64,365 businesses at the start of 2026, with 357,700 jobs at the end of 2024. Rabobank, one of the country's largest banks, is headquartered in the city. Municipal economic policy prioritises ICT, healthcare, education, and construction and technology, with Utrecht Science Park presented as the heart of a regional health and life sciences cluster. The city expects around 100,000 more residents by 2040, and business premises are scarce and rising in price.",
+    "Organisations commission investigative work connected to Utrecht because it combines financial services, a large public and knowledge sector and a dense population of small and medium-sized businesses in the centre of the Randstad. Lenders, acquirers and partners want reliable background on Dutch counterparties and the people behind them. Healthcare, education and construction attract public money and procurement, which brings conflict-of-interest and vendor integrity questions. Insolvency remains a live exposure: 312 bankruptcies were recorded in the Utrecht region in 2025, up from 2024, leaving creditors and trustees to examine what happened to assets. Rising property values and scarce commercial space also generate real estate and lease disputes that need sourced facts."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "378,121 (1 January 2026, municipality)"
+    },
+    {
+      "label": "Jobs",
+      "value": "357,700 (end of 2024)"
+    },
+    {
+      "label": "Businesses",
+      "value": "64,365 (start of 2026)"
+    },
+    {
+      "label": "Priority sectors",
+      "value": "ICT, healthcare and life sciences, education, construction and technology"
+    },
+    {
+      "label": "Major headquarters",
+      "value": "Rabobank"
+    },
+    {
+      "label": "Courts",
+      "value": "Rechtbank Midden-Nederland; appeals to Gerechtshof Arnhem-Leeuwarden"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Amsterdam (UTC+1, UTC+2 in summer)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Dutch; English widely used"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Counterparty and partner background",
+      "text": "Background research on Dutch companies, holding structures and directors ahead of investments, acquisitions or partnerships in the Utrecht region, drawing on business register extracts, filed accounts, published judgments and Dutch-language media to identify related parties, prior insolvencies and reputational issues."
+    },
+    {
+      "title": "Insolvency and trustee support",
+      "text": "Factual research for creditors, trustees and counsel after a Utrecht-area bankruptcy, including the debtor's directors, their other companies, transfers to related parties shortly before insolvency and public property records, to inform decisions on director liability claims or recovery actions."
+    },
+    {
+      "title": "Healthcare and education vendor integrity",
+      "text": "Due diligence on suppliers, consultants and subcontractors to hospitals, care providers, universities and research institutions, testing ownership, track record and connections to staff where procurement decisions or research partnerships raise conflict-of-interest concerns. Findings are reported with their sources."
+    },
+    {
+      "title": "Financial sector third-party diligence",
+      "text": "Research supporting banks, insurers and payment firms in their third-party and customer due diligence where standard checks leave questions, such as unclear ownership chains, foreign parent companies or adverse media, presented in a sourced form suitable for compliance files."
+    },
+    {
+      "title": "Real estate and lease disputes",
+      "text": "Background on property investors, landlords, developers and tenants in a market where commercial space is scarce and prices are rising, covering corporate vehicles, ultimate controllers where publicly ascertainable, litigation history and links between parties, to support counsel in disputes or transactions."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Rechtbank Midden-Nederland",
+      "text": "Utrecht is a seat of the Rechtbank Midden-Nederland, the district court that also sits in Amersfoort, Almere and Lelystad. Its district covers the Utrecht region of 18 municipalities, plus Amersfoort, Gooi en Vechtstreek, Almere and Lelystad. It hears civil and commercial cases, cantonal matters including employment and rent, criminal and administrative cases, and supervises bankruptcies, so insolvencies of Utrecht companies and many commercial disputes run through it."
+    },
+    {
+      "title": "Appeals in Arnhem-Leeuwarden",
+      "text": "Appeals from the Midden-Nederland court in civil and criminal matters go to the Gerechtshof Arnhem-Leeuwarden, whose permanent locations are in Arnhem, Leeuwarden and Zwolle, rather than to a court in Utrecht itself. Social security and civil service appeals go to the Centrale Raad van Beroep and most other administrative appeals to the Raad van State. Researching a Utrecht dispute therefore often means tracing decisions across several courts."
+    },
+    {
+      "title": "Financial institutions in Utrecht",
+      "text": "Rabobank's headquarters in Utrecht makes the city an important location for Dutch banking, alongside other financial and insurance businesses. Prudential and conduct supervision is national, sitting with De Nederlandsche Bank and the Dutch Authority for the Financial Markets rather than with any Utrecht body. Published enforcement decisions from these supervisors are useful sources when assessing financial counterparties. Supervisory decisions are checked alongside court records and media coverage."
+    },
+    {
+      "title": "Utrecht Science Park cluster",
+      "text": "Utrecht Science Park, which the municipality describes as the beating heart of the region, brings together the university, university medical centre and life sciences and health businesses. The city's ambition is to be a health metropolis nationally and internationally. Research partnerships, spin-out companies and grant-funded projects here can raise questions about ownership of intellectual property, conflicts of interest and the backgrounds of investors and partners."
+    }
+  ],
+  "tdsc_approach": "For matters touching Utrecht, TDSC starts by setting out the decision the client faces and which Dutch records bear on it: KVK business register extracts and filed accounts, published judgments from the Midden-Nederland court and the Arnhem-Leeuwarden appeal court, insolvency publications and Dutch-language open sources. Research is conducted from Nashville. Because private investigation in the Netherlands is a licensed activity and personal data processing is governed by the GDPR, any interviews, observation or other work in the country that requires a licence is carried out by appropriately licensed Dutch agencies coordinated by TDSC, with the client's Dutch counsel advising on lawful basis and proportionality. Findings are reported with sources and stated limits.",
+  "faqs": [
+    {
+      "q": "Which court handles a bankruptcy of a Utrecht company?",
+      "a": "Bankruptcies of companies seated in the Utrecht region are handled by the Rechtbank Midden-Nederland, which supervises insolvency proceedings in its district. We research published insolvency information, the debtor's directors and related companies, and judgments involving them, to give creditors and trustees a factual basis for recovery or liability decisions taken with counsel."
+    },
+    {
+      "q": "Can you research a Dutch company's ultimate owners?",
+      "a": "We combine business register extracts, filed accounts, group structures disclosed in filings, judgments and media coverage to identify who controls a company. Access to beneficial ownership information in the Netherlands is restricted, so where public records do not answer the question we say so and identify steps counsel or the client's compliance function can take."
+    },
+    {
+      "q": "How do you support conflict-of-interest reviews at Utrecht institutions?",
+      "a": "We research suppliers, consultants and research partners, their owners and directors, and any public links to the institution's staff or board, using lawful sources. The result is a sourced map of relationships. Decisions on whether policies were breached, and any interviews with staff, remain with the institution and its counsel."
+    },
+    {
+      "q": "Does TDSC conduct surveillance in the Netherlands?",
+      "a": "No. Private investigation in the Netherlands is a licensed activity and TDSC does not hold a Dutch licence. Where observation or interviews are lawful and proportionate, they are carried out by appropriately licensed Dutch agencies whom TDSC coordinates, with the client's Dutch counsel advising. Many matters are resolved through public-record and open-source research alone."
+    },
+    {
+      "q": "Does TDSC have an office in Utrecht?",
+      "a": "No. TDSC is based in Nashville, Tennessee, and has no office or staff in Utrecht or elsewhere in the Netherlands. Engagements touching the city are scoped and managed from Nashville, with licensed Dutch professionals and the client's local counsel engaged where field work or legal advice is needed."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rechtspraak: Werk- en rechtsgebied rechtbank Midden-Nederland",
+      "url": "https://www.rechtspraak.nl/organisatie-en-contact/organisatie/rechtbanken/rechtbank-midden-nederland/werk-en-rechtsgebied"
+    },
+    {
+      "title": "Rechtspraak: Ressort Arnhem-Leeuwarden",
+      "url": "https://www.rechtspraak.nl/organisatie-en-contact/organisatie/gerechtshoven/gerechtshof-arnhem-leeuwarden/werk-en-rechtsgebied"
+    },
+    {
+      "title": "DUIC: Utrecht is een van snelst groeiende gemeenten van Nederland (CBS figures)",
+      "url": "https://www.duic.nl/algemeen/utrecht-is-een-van-snelst-groeiende-gemeenten-van-nederland/"
+    },
+    {
+      "title": "Business.gov.nl: Facts and figures, Utrecht",
+      "url": "https://business.gov.nl/facts-and-figures/utrecht/utrecht/"
+    },
+    {
+      "title": "Gemeente Utrecht: Economisch beleid",
+      "url": "https://www.utrecht.nl/bestuur-en-organisatie/beleid/economisch-beleid"
+    },
+    {
+      "title": "Munich Startup: Rabobank company profile",
+      "url": "https://insights.munich-startup.de/companies/rabobank"
+    }
+  ],
+  "review_flags": [
+    "Rabobank headquarters in Utrecht sourced only from a third-party company profile; confirm with Rabobank.",
+    "DNB and AFM as national supervisors, KVK register and restricted UBO access are background/country-page knowledge, not reopened this session.",
+    "No arbitration institution in Utrecht identified (NAI is in Rotterdam); arbitration omitted from local_context.",
+    "Metro-area population and Utrecht Centraal rail hub status not verified; omitted."
+  ],
+  "researched": "2026-11-04"
+}

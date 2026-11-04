@@ -1,0 +1,150 @@
+{
+  "slug": "lille-fr",
+  "name": "Lille",
+  "cc": "FR",
+  "meta_description": "TDSC investigative consulting in matters touching Lille: retail and e-commerce diligence, cross-border Franco-Belgian research, insolvency and asset tracing.",
+  "eyebrow": "Hauts-de-France, France",
+  "hero_lede": "Investigative consulting for matters that touch Lille, the capital of Hauts-de-France and a crossroads between Paris, London and Brussels. Engagements are scoped from Nashville and address retail, distance-selling, logistics, finance and cross-border counterparties in the Lille metropolitan area and its Belgian neighbours.",
+  "intro": [
+    "Lille is the centre of the Metropole Europeenne de Lille (MEL), a grouping of 95 communes including Roubaix, Tourcoing and Villeneuve-d'Ascq, with about 1.2 million inhabitants, and of a wider cross-border Eurometropolis with Kortrijk, Mouscron and Tournai in Belgium. The local attractiveness agency counts more than 100,000 active establishments and over 70 head offices with more than 500 employees. Lille presents itself as France's second financial centre after Paris, and the Euralille business district sits beside two TGV stations linking the city to Paris in about an hour, Brussels in 35 minutes and London in under 90 minutes. Retail groups such as Auchan, Decathlon and Leroy Merlin, and distance sellers La Redoute and 3 Suisses, are rooted in the area.",
+    "Organisations commission investigative work connected to Lille because the metropolis combines large retail and e-commerce groups, a dense logistics and inland-port network, a growing digital and cybersecurity cluster around EuraTechnologies and a border that companies, goods and people cross daily. Typical questions concern the ownership and track record of suppliers and logistics partners, the background of acquisition targets among Lille's mid-sized family firms and start-ups, the conduct of former managers in disputes over competition or misuse of company assets, and assets and corporate links held on the Belgian side of the border. Insolvency and restructuring proceedings in the local courts also generate research needs for creditors and buyers."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 1.2 million in the Metropole Europeenne de Lille (INSEE census data, 2022); 234,475 in Lille proper (2019)"
+    },
+    {
+      "label": "Metro area",
+      "value": "95 communes in the MEL; Eurometropolis Lille-Kortrijk-Tournai over 2 million"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Retail and distance selling, banking and insurance, logistics, digital and cybersecurity, health, textiles"
+    },
+    {
+      "label": "Financial role",
+      "value": "Presented as France's second financial centre; Banque de France regional delegation; 69 credit institutions"
+    },
+    {
+      "label": "Transport hubs",
+      "value": "Lille-Flandres and Lille-Europe stations; Lille-Lesquin airport (1.7 million passengers, 2025); Port of Lille inland network"
+    },
+    {
+      "label": "Business districts",
+      "value": "Euralille; EuraTechnologies (Lille and Roubaix sites)"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Paris, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "French; Dutch and English common in cross-border dealings"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Retail and e-commerce supplier diligence",
+      "text": "Background research on suppliers, marketplace sellers, logistics providers and franchisees connected to Lille's retail and distance-selling groups, testing ownership, trading history, insolvency records and reported disputes before contracts, onboarding or the renewal of significant supply relationships."
+    },
+    {
+      "title": "Cross-border Franco-Belgian counterparty research",
+      "text": "Mapping companies, directors and assets that straddle the border between the Lille metropolis and Belgian Flanders and Wallonia, combining French registry filings with Belgian public records to identify related entities, common management and transfers between the two jurisdictions."
+    },
+    {
+      "title": "Technology and start-up acquisition diligence",
+      "text": "Pre-investment research on founders, shareholders and intellectual property claims of companies in the EuraTechnologies digital and cybersecurity ecosystem, checking corporate history, prior ventures, litigation and media coverage so investors can assess representations made during a funding round or acquisition."
+    },
+    {
+      "title": "Former manager and employee disputes",
+      "text": "Lawful factual research supporting counsel in disputes with departing executives or staff of Lille companies, such as suspected breaches of non-compete clauses, diversion of customers to new entities or misuse of company assets, drawing on registry, court and open-source records."
+    },
+    {
+      "title": "Insolvency and asset tracing",
+      "text": "Research for creditors and buyers in collective proceedings before the Lille commercial courts, identifying the debtor's group structure, related entities, real estate and changes in management or shareholding before insolvency, including assets that may have moved across the Belgian border."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Courts sitting in Lille",
+      "text": "Lille hosts a tribunal judiciaire, the general first-instance court for civil and criminal matters, and a commercial court for the Lille metropolitan area, staffed by elected business judges, which hears commercial disputes and collective insolvency proceedings. Appeals go to the cour d'appel de Douai, whose territory includes the Lille jurisdiction. Identifying which Lille court has handled a counterparty's disputes is a practical starting point for litigation history."
+    },
+    {
+      "title": "Commercial court registry records",
+      "text": "The registry (greffe) of the Lille commercial court keeps the trade and companies register for businesses in its area, with extracts, statutes, officer appointments and, where not kept confidential, annual accounts distributed nationally through Infogreffe. Insolvency judgments concerning Lille companies are published, which helps reconstruct the history of a debtor and of managers who have run previously failed businesses. Officer histories can be compared across filings."
+    },
+    {
+      "title": "The Eurometropolis and the border",
+      "text": "The Eurometropolis Lille-Kortrijk-Tournai, created in 2008, links the French metropolis with Belgian neighbours in both Flanders and Wallonia. For investigative purposes the border means two legal systems, two sets of registries and, on the Belgian side, Dutch- or French-language records. Research touching individuals or firms on both sides must respect French and Belgian rules, including those on private investigation. Language and registry differences need early planning."
+    },
+    {
+      "title": "Finance and regional institutions",
+      "text": "Lille hosts a regional delegation of the Banque de France, numerous regional head offices of French banks and insurers and some 18,000 jobs in legal and accounting services, according to the local attractiveness agency. The density of financial institutions makes Lille a frequent setting for credit, guarantee and fraud disputes involving regional businesses and their lenders. Lender files themselves are not publicly accessible."
+    },
+    {
+      "title": "Logistics and inland port network",
+      "text": "The Port of Lille handled about 8.6 million tonnes of goods and 260,000 containers in 2025 across a network of multimodal sites on the regional waterways, and Lille-Lesquin airport serves more than 50 destinations. These flows link Lille to the North Sea ports and support logistics and distribution activity where cargo, warehousing and subcontracting arrangements can become disputed. Shipping and warehouse records are usually obtained only through the parties or court process."
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Lille matters from Nashville and first establishes which parts of the question are French, which are Belgian and which concern personal data under the GDPR. Desk research draws on Infogreffe and national registry filings, published insolvency judgments, Belgian public records where the matter crosses the border, and French and Belgian media. Where enquiries in the Lille area go beyond desk research, TDSC coordinates investigators holding current CNAPS authorisations, and on the Belgian side professionals licensed under Belgian rules, working with the client's counsel. TDSC has no office in Lille and does not seek access to non-public records.",
+  "faqs": [
+    {
+      "q": "Does TDSC have an office in Lille?",
+      "a": "No. TDSC is based in Nashville and has no office, staff or address in Lille or elsewhere in France. Engagements touching Lille are scoped and managed from Nashville. Where work in the metropolis requires a local presence, TDSC coordinates appropriately licensed French professionals and works alongside the client's French counsel."
+    },
+    {
+      "q": "Can TDSC research a company operating on both sides of the Belgian border?",
+      "a": "Yes, within lawful limits. Many Lille-area businesses have related entities, directors or property in Belgium. TDSC combines French registry and court records with Belgian public company and publication records, then reconciles names, addresses and officers across the two jurisdictions. Any fieldwork is carried out by professionals licensed in the country where it takes place."
+    },
+    {
+      "q": "Where are disputes involving Lille companies heard?",
+      "a": "Commercial disputes and insolvency proceedings for companies in the Lille area generally go to the commercial court for the Lille metropolis, while general civil and criminal matters go to the tribunal judiciaire de Lille. Appeals are heard by the cour d'appel de Douai. Larger international disputes may be litigated in Paris or resolved by arbitration."
+    },
+    {
+      "q": "What can be learned from Lille company filings?",
+      "a": "Extracts from the trade and companies register show a company's legal form, registered office, officers and share capital, and filed documents include statutes and, unless small companies opt for confidentiality, annual accounts. Insolvency judgments are also published. Access to beneficial ownership information is restricted to authorities, obliged entities and persons with a legitimate interest."
+    },
+    {
+      "q": "Does TDSC work on matters involving EuraTechnologies start-ups?",
+      "a": "TDSC can support investors, acquirers and counsel with background research on start-ups and founders in the Lille digital ecosystem, covering corporate history, prior companies, litigation, insolvency and published coverage. The work relies on public and commercial sources and is scoped so that personal data is processed on a documented lawful basis under the GDPR."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hello Lille, Les Chiffres 2026 (key figures, English edition)",
+      "url": "https://hellolille.eu/app/uploads/lille-attractivite/2026/01/Hello-Les-Chiffres-2026-EN-1.pdf"
+    },
+    {
+      "title": "Hello Lille, Key sectors: upper tertiary",
+      "url": "https://en.hellolille.eu/im-setting-up/key-sectors/upper-tertiary"
+    },
+    {
+      "title": "Wikipedia, Metropole Europeenne de Lille",
+      "url": "https://en.wikipedia.org/wiki/Lille_Metropole"
+    },
+    {
+      "title": "Cour d'appel de Douai, Presentation du ressort de Lille (search result; page under maintenance when opened)",
+      "url": "https://www.cours-appel.justice.fr/douai/presentation-du-ressort-de-lille"
+    },
+    {
+      "title": "Cour d'appel de Douai, Les tribunaux (search result)",
+      "url": "https://www.cours-appel.justice.fr/douai/les-tribunaux"
+    },
+    {
+      "title": "Le Monde Informatique, Lille Metropole inaugure son pole economique EuraTechnologies (search result)",
+      "url": "https://www.lemondeinformatique.fr/actualites/lireamp-lille-metropole-inaugure-son-pole-economique-euratechnologies-consacre-aux-tic-28338.html"
+    },
+    {
+      "title": "Metropole Europeenne de Lille EU Office, Innovation and digital transition (search result)",
+      "url": "https://euoffice.lillemetropole.fr/our-priorities/innovation-digital-transition"
+    }
+  ],
+  "review_flags": [
+    "Courts not verified from an opened page: the Cour d'appel de Douai page was under maintenance. Search results confirm Lille is a ressort of the Douai court of appeal; the existence/exact name of the Lille commercial court ('Tribunal de commerce de Lille Metropole') and whether it is now a Tribunal des activites economiques pilot were not confirmed. Copy uses generic 'commercial court for the Lille metropolitan area'. No arbitration centre in Lille was verified, so none is named.",
+    "Population: MEL ~1.2 million per Hello Lille citing INSEE RP2022 (not an INSEE page directly); Lille proper 234,475 (2019) from Wikipedia. No World Bank/INSEE result opened.",
+    "'France's second financial centre' is the local attractiveness agency's own claim (Hello Lille); attributed as 'presents itself'.",
+    "Hello Lille gives Euralille as both 2nd (2026 figures) and 3rd (sector page) largest business district outside Paris; copy avoids a ranking."
+  ],
+  "researched": "2026-11-04"
+}

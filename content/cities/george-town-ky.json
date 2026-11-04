@@ -1,0 +1,137 @@
+{
+  "slug": "george-town-ky",
+  "name": "George Town (Cayman Islands)",
+  "cc": "KY",
+  "meta_description": "TDSC investigative consulting in matters touching George Town: fund and fiduciary disputes, asset tracing support and offshore counterparty research.",
+  "eyebrow": "George Town, Grand Cayman",
+  "hero_lede": "Investigative consulting for matters that run through George Town, Grand Cayman: investment funds and their managers, liquidations and restructurings before the Financial Services Division, trusts and offshore holding companies, and fraud claims that need facts gathered across several jurisdictions. Scoped from Nashville with Cayman counsel and qualified professionals.",
+  "intro": [
+    "George Town is the capital of the Cayman Islands and the territory's business centre, home to its Parliament, the Government Administration Building and the main Law Courts. The district held about 51 percent of the islands' residents at the 2010 census, and the city's population is reported at about 47,000 in 2025, making it the largest city in the British Overseas Territories. Downtown George Town concentrates the banks, law firms, fiduciaries, fund administrators and accounting firms that serve the islands' role as a domicile for hedge funds, private equity vehicles, captive insurers and structured finance entities. Tourism, cruise visits through George Town Harbour and air links via Owen Roberts International Airport make up much of the rest of the local economy.",
+    "Organisations commission investigative work connected to George Town because so many international investment structures are formed, administered or litigated there, while the people and assets behind them are usually elsewhere. Investors need background research on fund managers and sponsors before committing capital. Official liquidators and their counsel need facts about directors, related parties and asset transfers to support claims in the Financial Services Division. Shareholders in Cayman-incorporated holding companies, including many listed groups with operations in Asia and Latin America, need research on controlling parties in appraisal, winding-up and fraud claims. The work is typically about connecting a Cayman entity to people, assets and records in other countries."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 47,000 (2025, reported); George Town district 28,089 at the 2010 census, 51% of residents"
+    },
+    {
+      "label": "Role",
+      "value": "Capital of the Cayman Islands and seat of Parliament, Government Administration Building and Law Courts"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Investment funds, banking, insurance and captives, legal and fiduciary services, tourism"
+    },
+    {
+      "label": "Financial centre",
+      "value": "Downtown cluster of banks, law firms, fund administrators and accounting firms; GaWC Beta city (2020)"
+    },
+    {
+      "label": "Port and airport",
+      "value": "George Town Harbour cruise tender port; Owen Roberts International Airport"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Cayman, UTC-5 (no daylight saving)"
+    },
+    {
+      "label": "Business language",
+      "value": "English"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Fund manager and sponsor background checks",
+      "text": "Pre-investment research on the principals, managers and service providers behind Cayman-domiciled funds administered from George Town, covering regulatory history, litigation, prior fund performance claims, related-party arrangements and media, across the countries where the principals actually live and operate."
+    },
+    {
+      "title": "Support to official liquidators",
+      "text": "Fact-finding for liquidators and their counsel in Financial Services Division liquidations, tracing directors, investment managers, counterparties and transfers out of the company, and identifying where assets and records sit so that counsel can plan recognition, discovery and recovery steps abroad."
+    },
+    {
+      "title": "Fraud and fraudulent disposition claims",
+      "text": "Research supporting Cayman counsel in claims for breach of fiduciary duty, dishonest assistance or dispositions made to defraud creditors, assembling public record, corporate and open-source evidence on the people and entities involved, for use in applications such as freezing or disclosure orders."
+    },
+    {
+      "title": "Holding company shareholder disputes",
+      "text": "Background and ownership research on controlling shareholders and management of Cayman-incorporated holding companies, many with operations in Asia or Latin America, supporting appraisal, just and equitable winding-up and minority shareholder proceedings before the Grand Court."
+    },
+    {
+      "title": "Trust and family wealth inquiries",
+      "text": "Discreet research in contested trust and family wealth matters involving George Town trustees and holding vehicles, mapping related companies, property and business interests in other jurisdictions, scoped with counsel to respect confidentiality, data protection and trust law constraints."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Financial Services Division",
+      "text": "The Financial Services Division of the Grand Court was established in 2009 to hear complex civil cases arising from the financial sector, including fund, winding-up and related disputes. It has six judges: the Chief Justice, two other full-time Grand Court judges and three part-time judges. Its procedures allow urgent action and protection of sensitive business information from early disclosure, and video conferencing is widely used. Its judgments are published, including through BAILII."
+    },
+    {
+      "title": "Asset tracing and recovery tools",
+      "text": "Cayman counsel can seek Norwich Pharmacal orders against innocent third parties, often with sealing and gagging orders to avoid tipping off, Bankers Trust orders against banks, worldwide freezing and proprietary injunctions, and receivers under section 11 of the Grand Court Act. Dispositions made with intent to defraud at an undervalue can be challenged under the Fraudulent Dispositions Act within six years. Investigative work feeds the evidence these applications require."
+    },
+    {
+      "title": "Cross-border insolvency assistance",
+      "text": "Under section 242 of the Companies Act, the Grand Court can order examination of persons and production of documents to assist a foreign representative in foreign bankruptcy proceedings. Cayman provisional and official liquidators frequently need recognition abroad in turn. Many George Town matters therefore run in parallel with proceedings in the United States, Hong Kong, mainland China or elsewhere, and research must be coordinated across those forums."
+    },
+    {
+      "title": "Government and professional cluster",
+      "text": "Parliament, the Government Administration Building and the main courthouse are in George Town, alongside the offices of major law firms, fund administrators and the large accounting firms that commonly act as auditors and liquidators. Corporate registry, beneficial ownership access and data protection rules are territory-wide and covered on the Cayman Islands country page; the practical point locally is that key records and witnesses often sit with these service providers."
+    }
+  ],
+  "tdsc_approach": "For matters touching George Town, TDSC works alongside Cayman counsel, who decide which court applications, disclosure orders or liquidator powers will be used. TDSC's role is to build the factual picture outside the court process: lawful research on fund principals, directors, related parties and assets in the countries where they operate, using corporate registries, court records, regulatory sources, property records and open sources. Findings are prepared so counsel can rely on them in Grand Court applications, with sources and confidence levels stated. Any inquiries on Grand Cayman are handled through appropriately qualified local professionals after counsel confirms licensing and data protection requirements. TDSC does not use pretexting or obtain confidential records improperly, and has no office in the Cayman Islands.",
+  "faqs": [
+    {
+      "q": "How does TDSC help official liquidators of a Cayman fund?",
+      "a": "TDSC researches directors, managers, counterparties and transfers out of the company, mainly in the jurisdictions where those people and assets are located. The results help liquidators and counsel decide where to seek recognition, disclosure or freezing relief. TDSC does not exercise liquidator powers and works under the direction of the liquidators and their counsel."
+    },
+    {
+      "q": "What is the Financial Services Division?",
+      "a": "It is a division of the Grand Court of the Cayman Islands, established in 2009 to hear complex financial sector cases such as fund, winding-up and related disputes. It has six judges, including part-time judges, can act urgently and can protect sensitive information early in a case. Its judgments are published and are a useful research source."
+    },
+    {
+      "q": "Can TDSC find out who is behind a George Town company?",
+      "a": "Often, but rarely from Cayman records alone. Public Cayman filings are limited and access to beneficial ownership information is restricted to qualifying applicants. TDSC links the entity to people and assets through records and open sources in other countries, and counsel can consider Norwich Pharmacal or other disclosure orders where facts justify them."
+    },
+    {
+      "q": "Do Cayman disputes involve research in other countries?",
+      "a": "Almost always. Many Cayman entities are holding companies for businesses in Asia, Latin America, the United States or Europe, and George Town proceedings often run alongside foreign insolvency or fraud cases. TDSC scopes research across those jurisdictions, applying each one's data protection and investigator rules, and coordinates qualified local professionals where needed."
+    },
+    {
+      "q": "Does TDSC have an office in George Town?",
+      "a": "No. TDSC has no office, staff or address in George Town or elsewhere in the Cayman Islands. Engagements are run from Nashville. Where inquiries on Grand Cayman are lawful and necessary, TDSC coordinates appropriately qualified local professionals and works within an agreed written scope with the client's Cayman counsel."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikipedia, George Town, Cayman Islands",
+      "url": "https://en.wikipedia.org/wiki/George_Town,_Cayman_Islands"
+    },
+    {
+      "title": "Cayman Islands Economics and Statistics Office, 2010 Census population structure by district",
+      "url": "https://www.eso.ky/UserFiles/File/1_2 Population Structure by District status and sex(3).pdf"
+    },
+    {
+      "title": "Cayman Compass, Census shows George Town still king",
+      "url": "https://www.caymancompass.com/?p=364478"
+    },
+    {
+      "title": "Judicial Administration of the Cayman Islands, Financial Services Division",
+      "url": "https://judicial.ky/?p=299"
+    },
+    {
+      "title": "BAILII, Grand Court of the Cayman Islands, Financial Services Division judgments",
+      "url": "https://www.bailii.org/ky/cases/GCCI/FSD"
+    },
+    {
+      "title": "Legal 500 / Asset Tracing and Recovery Review, Cayman Islands chapter (2024)",
+      "url": "https://legal500.com/profiles/wp-content/uploads/sites/13/2024/05/Cayman-Islands-chapter-for-The-Asset-Tracing-and-Recovery-Review.pdf"
+    }
+  ],
+  "review_flags": [
+    "2025 city population (about 47,000) is from Wikipedia, not ESO; only official district figure found is the 2010 census (28,089). Replace with ESO 2021 census or latest district estimate.",
+    "CIMA headquarters, Cayman Islands Stock Exchange and current fund counts not verified within search budget and therefore omitted.",
+    "Listed holding companies with Asian/Latin American operations described generally, not from a specific opened source."
+  ],
+  "researched": "2026-11-04"
+}

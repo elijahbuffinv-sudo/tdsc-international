@@ -1,0 +1,147 @@
+{
+  "slug": "toulouse-fr",
+  "name": "Toulouse",
+  "cc": "FR",
+  "meta_description": "TDSC investigative consulting in matters touching Toulouse: aerospace supply chain diligence, subcontractor research and support in technical disputes.",
+  "eyebrow": "Haute-Garonne, Occitanie, France",
+  "hero_lede": "Investigative consulting for matters touching Toulouse, scoped from Nashville: research on aerospace and space subcontractors, suppliers and technology companies, factual support for counsel in supply chain, insolvency and departing-employee disputes, and ownership research using the Toulouse commercial court registry and French public sources.",
+  "intro": [
+    "Toulouse is France's fourth-largest city, with about 515,000 inhabitants in the 2023 census, and the centre of a metropolitan area of roughly 1.3 million. It is Europe's leading aerospace and space centre: Airbus designs, assembles and tests aircraft at Blagnac, Airbus Defence and Space and the French space agency CNES sit in the Rangueil-Montaudran technopole, and Thales Alenia Space has a major presence. According to CNES, the Toulouse area holds 59 percent of France's 146,000 aeronautics jobs, with subcontractors accounting for about half of firms and nearly 38,000 employees. Engineering schools such as ISAE-SUPAERO and ENAC, around 120,000 students and more than 22,000 researchers support a growing digital, health and robotics base.",
+    "Organisations commission investigative work connected to Toulouse because of its deep aerospace supply chain. Prime contractors, investors and lenders need to understand the ownership, financial condition and integrity of the many subcontractors, engineering firms and component makers that serve Airbus, space programmes and defence work, some of which are small and family-controlled. Export controls, defence sensitivities and foreign investment screening add questions about who ultimately controls a supplier. Technical know-how is concentrated in a skilled workforce, so disputes over departing engineers and competing ventures are common. When suppliers come under strain from production rate changes, creditors and buyers need sourced facts about related companies, assets and management histories."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 514,800 in the city of Toulouse (INSEE 2023 census, per Toulouse Métropole)"
+    },
+    {
+      "label": "Metropolitan area",
+      "value": "About 1.3 million in the urban area, fourth in France (per CNES)"
+    },
+    {
+      "label": "Aerospace",
+      "value": "Airbus (Blagnac), Airbus Defence and Space, Thales Alenia Space; 59 percent of France's 146,000 aeronautics jobs"
+    },
+    {
+      "label": "Space",
+      "value": "CNES Toulouse Space Centre, more than 1,700 staff, in the Rangueil-Montaudran technopole"
+    },
+    {
+      "label": "Other sectors",
+      "value": "Digital and IT services, health and life sciences, robotics, future transport, tourism"
+    },
+    {
+      "label": "Research and education",
+      "value": "About 120,000 students, more than 22,000 researchers, around 400 research units"
+    },
+    {
+      "label": "Airport",
+      "value": "Toulouse-Blagnac, France's fifth-busiest airport; about 26,000 employees in the airport area"
+    },
+    {
+      "label": "Time zone and language",
+      "value": "Europe/Paris (UTC+1, UTC+2 in summer); French is the language of business and the courts"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Aerospace subcontractor ownership and stability",
+      "text": "Research on the ownership, management, related companies, published accounts, litigation and insolvency history of Toulouse-area aerospace subcontractors, so that prime contractors, investors and lenders understand who they depend on and whether a supplier is financially exposed to changes in production rates."
+    },
+    {
+      "title": "Ultimate control of sensitive suppliers",
+      "text": "Tracing holding structures and investors behind engineering, electronics and space-sector companies in Toulouse where defence, export control or foreign investment questions arise, combining register filings, published accounts, press and records in other jurisdictions to identify ultimate controllers and connected parties."
+    },
+    {
+      "title": "Departing engineers and competing ventures",
+      "text": "Supporting counsel where engineers or managers leave Toulouse aerospace, space or software employers for competitors or start-ups, through lawful research into the new businesses, their founders, funding and commercial activity, without covert methods or access to personal communications."
+    },
+    {
+      "title": "Supplier insolvency and creditor research",
+      "text": "Research for creditors, buyers and insolvency professionals on Toulouse companies in safeguard, receivership or liquidation proceedings, including management histories, transfers of business or assets to related entities, and the background of prospective acquirers of distressed industrial businesses."
+    },
+    {
+      "title": "Technology and start-up investment diligence",
+      "text": "Background research on founders, shareholders and key staff of Toulouse digital, robotics, health and new-space ventures before investment or partnership, covering corporate history, prior ventures, litigation, regulatory issues and reputation, and checking that claimed partnerships and contracts are corroborated by public information."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Toulouse commercial court and registry",
+      "text": "The commercial court of Toulouse sits at Place de la Bourse in the city centre. Its registry (greffe) keeps the trade and companies register (RCS) for businesses in its area, together with the register of commercial agents and the register of security interests and pledges, and stores annual accounts and insolvency documents. Extracts, filings and published accounts are available through Infogreffe, and the national RNE operated by INPI also gives free access to company information."
+    },
+    {
+      "title": "Higher courts in Toulouse",
+      "text": "Toulouse is the seat of a cour d'appel, which hears appeals from the commercial court and from the tribunal judiciaire de Toulouse, the general first-instance court for civil matters and for criminal cases, including economic and financial offences prosecuted locally. Identifying which Toulouse court has dealt with a counterparty's disputes or insolvency helps reconstruct its litigation history, and published insolvency judgments provide a public record."
+    },
+    {
+      "title": "Insolvency court reforms",
+      "text": "Since 2025 France has been piloting tribunaux des activités économiques, which extend commercial courts' remit to insolvency proceedings for non-commercial debtors such as associations and liberal professions, during a four-year experiment. Whether a given matter in the Toulouse area falls under the commercial court or a pilot court, and which court holds which records, should be confirmed with French counsel at the outset of any research involving distressed counterparties."
+    },
+    {
+      "title": "Aerospace cluster and technopoles",
+      "text": "Aerospace activity is concentrated in Blagnac and the Andromède development around the airport, where Airbus assembly sites and about 26,000 airport-area jobs are located, and in the Rangueil-Montaudran technopole, home to CNES and Airbus Defence and Space. Mapping where a supplier operates and whom it serves helps assess its dependence on particular programmes and its exposure to rate changes or programme cancellations."
+    },
+    {
+      "title": "Defence and export-control sensitivity",
+      "text": "Many Toulouse suppliers work on defence or dual-use programmes, which brings French and European export control and foreign investment screening rules into play. These regimes are legal matters for counsel. TDSC's role is limited to lawful research into ownership, management and connections, and it does not seek classified, restricted or non-public government information about programmes, contracts or personnel. Matters are screened for sanctions and export issues."
+    }
+  ],
+  "tdsc_approach": "For matters touching Toulouse, TDSC first defines the commercial question, such as who controls an aerospace subcontractor, whether a supplier can withstand programme changes, or what a former engineer's new venture is doing. Research is conducted from Nashville using the RCS and Infogreffe filings held by the Toulouse commercial court registry, the RNE, published accounts and insolvency notices, French-language press and aerospace trade sources. Where document retrieval, site visits or interviews are justified, TDSC coordinates with appropriately authorised French professionals and the client's counsel. Personal data is handled under the GDPR with a defined purpose and minimised collection, and findings separate documented facts from inference for use by counsel and decision-makers.",
+  "faqs": [
+    {
+      "q": "Can you research a small aerospace subcontractor near Toulouse?",
+      "a": "Yes. We use register extracts, filed accounts where they are not kept confidential, insolvency notices, court information, press and trade sources to describe ownership, management, financial signals and dependencies. Where filed accounts are confidential or out of date, we say so and suggest what disclosure to request from the supplier."
+    },
+    {
+      "q": "Can you identify foreign investors behind a Toulouse technology company?",
+      "a": "We trace shareholders and holding companies through French filings and corporate records in other jurisdictions, and combine them with funding announcements and press. Access to the French beneficial ownership register has been restricted, so we explain what is documented and what is inferred. Foreign investment screening analysis itself is a matter for French counsel."
+    },
+    {
+      "q": "Can you help when an engineer leaves for a competitor?",
+      "a": "We support counsel by researching the new employer or venture, its founders, funding, registered activities and public statements, using lawful sources. We do not monitor individuals covertly, access personal communications or use pretexting. The legal analysis of confidentiality, non-compete or trade secret claims remains with French counsel."
+    },
+    {
+      "q": "Does working on aerospace or defence matters raise special constraints?",
+      "a": "Yes. Some Toulouse suppliers handle defence or dual-use work. We restrict ourselves to public and lawfully available commercial information, do not seek classified or restricted material, and screen matters for US export control and sanctions concerns. Questions about authorisations, export licences or investment screening are referred to the client's counsel."
+    },
+    {
+      "q": "Does TDSC have an office in Toulouse?",
+      "a": "No. TDSC is based in Nashville and has no office or staff in Toulouse or elsewhere in France. Most work is desk-based research in French and English. Where local steps are needed, we coordinate with appropriately authorised French professionals and the client's counsel, and we decline requests involving pretexting, covert recording or access to restricted records."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Toulouse Métropole: Découvrir Toulouse",
+      "url": "https://metropole.toulouse.fr/institutions-et-territoires/toulouse/decouvrir-toulouse"
+    },
+    {
+      "title": "CNES GeoImage: Toulouse, French and European capital of aeronautics and aerospace",
+      "url": "https://cnes.fr/geoimage/toulouse-capitale-francaise-et-europeenne-de-laeronautique-et-de-laerospatiale"
+    },
+    {
+      "title": "Wikipedia: Economy of Toulouse",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Toulouse"
+    },
+    {
+      "title": "Legalnest: Greffe du tribunal de commerce de Toulouse",
+      "url": "https://www.legalnest.fr/greffe-tc/toulouse"
+    },
+    {
+      "title": "Le Blog du Dirigeant: Différence entre tribunal de commerce et TAE",
+      "url": "https://www.leblogdudirigeant.com/la-difference-entre-tribunal-de-commerce-et-tae/"
+    },
+    {
+      "title": "INSEE: regional publication on Toulouse employment (lm_ina_159)",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/8348898/lm_ina_159.pdf"
+    }
+  ],
+  "review_flags": [
+    "Toulouse is not confirmed as one of the twelve TAE pilot courts (Infogreffe list page failed to load; blog did not list courts). Copy refers to the commercial court and asks counsel to confirm; verify and update.",
+    "Cour d'appel de Toulouse and tribunal judiciaire descriptions are from general knowledge; the cours-appel.justice.fr page was under maintenance.",
+    "Metro population (1.3 million) is from an undated CNES GeoImage page and may be dated; replace with current INSEE aire d'attraction figure. INSEE PDF was seen in search results but not opened.",
+    "Commercial court address (26 Place de la Bourse) from Legalnest, which also contained an address inconsistency; confirm via Infogreffe.",
+    "ISAE-SUPAERO and ENAC named from general knowledge and Wikipedia's 'Sup'Aéro, ENAC'; Thales Alenia Space presence and the 59 percent of 146,000 aeronautics jobs figure come from undated sources."
+  ],
+  "researched": "2026-11-04"
+}

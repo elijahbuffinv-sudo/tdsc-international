@@ -2,148 +2,59 @@
   "slug": "tunis-tn",
   "name": "Tunis",
   "cc": "TN",
-  "meta_description": "TDSC investigative consulting in matters touching Tunis: nearshore supplier diligence, banking counterparties, Tunis court and CCAT arbitration support.",
+  "meta_description": "TDSC investigative consulting in matters touching Tunis: supplier diligence, group ownership mapping, and support for Tunis disputes and CCAT arbitration.",
   "eyebrow": "Tunis, Republic of Tunisia",
-  "hero_lede": "Tunis is Tunisia's capital and business centre, home to the central bank, the stock exchange, most bank headquarters and many offshore service and manufacturing firms supplying Europe. TDSC scopes investigative consulting from Nashville for Tunis matters, working with Tunisian counsel and conservative data handling.",
+  "hero_lede": "Tunis is Tunisia's capital and largest economic centre, home to the government, the stock exchange and major company headquarters. TDSC scopes investigative consulting on Tunis matters from Nashville, working with Tunisian counsel, bilingual Arabic and French sources and careful handling of personal data.",
   "intro": [
-    "Tunis is the capital of Tunisia and the centre of the Greater Tunis region, which spans the governorates of Tunis, Ariana, Ben Arous and Manouba. It hosts the government, the Central Bank of Tunisia, the Bourse de Tunis and its market regulator, the Conseil du Marché Financier, and the head offices of most Tunisian banks, insurers and professional firms. The Berges du Lac district concentrates corporate offices and foreign representations. The region's economy combines public administration and financial services with IT outsourcing, call centres serving French-speaking markets, textiles, pharmaceuticals and component manufacturing in industrial zones around the city, while the port of Radès and Tunis-Carthage airport connect it to Europe.",
-    "Organisations commission investigative work connected to Tunis because it is where Tunisian groups are controlled and financed. A European manufacturer may source from a wholly exporting company in Ben Arous whose shareholders and related parties are not obvious; a technology client may outsource development or customer service to a Tunis provider; a lender may deal with family-controlled conglomerates spanning banking, distribution and real estate. Political and institutional changes since 2021, including the suspension of the anti-corruption authority, have increased the importance of independent checks on politically exposed persons and procurement relationships. Disputes are heard in Tunis courts or arbitrations seated in the city."
+    "Tunis is the capital of Tunisia and the core of Greater Tunis, which takes in the governorates of Tunis, Ariana, Ben Arous and Manouba. According to reporting on Institut National de la Statistique (INS) figures, about 2.9 million people, roughly a quarter of the national population, live in Greater Tunis, and the 2024 census counted 1,075,306 residents in Tunis Governorate alone. The governorate hosts government offices, the stock exchange and the head offices of major businesses, and it is described as the country's largest industrial centre. Tunis-Carthage International Airport, a port with ferry links to Italy and France, and the country's main railway stations make the capital Tunisia's trade and transport hub.",
+    "Organisations commission investigative work connected to Tunis because it is where Tunisian groups are headquartered, financed and litigated. A European manufacturer may rely on a supplier in the Greater Tunis industrial belt whose owners and related parties are not obvious from its correspondence. A lender or investor may deal with family-controlled groups spanning industry, distribution, finance and property. Counterparties in public contracts and regulated sectors often have links to officials in the capital, which raises questions of political exposure. When relationships fail, claims are pursued in the Tunis courts or through arbitration seated in the city, and counsel needs well-documented facts about the other side."
   ],
   "economy": [
-    {
-      "label": "Population",
-      "value": "Greater Tunis about 2.6 million (2014 census); later census figures not verified for this page"
-    },
-    {
-      "label": "Metro area",
-      "value": "Governorates of Tunis, Ariana, Ben Arous and Manouba"
-    },
-    {
-      "label": "Key sectors",
-      "value": "Banking and insurance, public administration, IT and business process outsourcing, textiles, pharmaceuticals, components manufacturing, distribution"
-    },
-    {
-      "label": "Exchange and regulators",
-      "value": "Bourse de Tunis; Conseil du Marché Financier; Central Bank of Tunisia"
-    },
-    {
-      "label": "Transport hub",
-      "value": "Port of Radès; Tunis-Carthage International Airport"
-    },
-    {
-      "label": "Business districts",
-      "value": "Berges du Lac, city centre, industrial zones in Ben Arous and Ariana"
-    },
-    {
-      "label": "Time zone",
-      "value": "Africa/Tunis, UTC+1 (no daylight saving)"
-    },
-    {
-      "label": "Languages of business",
-      "value": "Arabic and French; English in technology and export firms"
-    }
+    {"label": "Population", "value": "1,075,306, Tunis Governorate (INS census, 2024); about 2.9 million in Greater Tunis (INS estimate, 1 January 2024)"},
+    {"label": "Metro area", "value": "Greater Tunis: Tunis, Ariana, Ben Arous and Manouba governorates"},
+    {"label": "Economic role", "value": "National capital; largest industrial centre; government offices and major business headquarters"},
+    {"label": "Exchange", "value": "Bourse de Tunis (stock exchange)"},
+    {"label": "Transport hub", "value": "Tunis-Carthage International Airport; port with ferry links to Italy and France; main rail stations"},
+    {"label": "Arbitration", "value": "Centre de Conciliation et d'Arbitrage de Tunis (CCAT), founded 1996"},
+    {"label": "Time zone", "value": "Africa/Tunis, UTC+1 (no daylight saving)"},
+    {"label": "Languages of business", "value": "Arabic and French; English in export and technology firms"}
   ],
   "matters": [
-    {
-      "title": "Nearshore supplier ownership checks",
-      "text": "Wholly exporting manufacturers and service firms around Tunis supply European customers. We review Registre National des Entreprises extracts, published legal notices, litigation and Arabic and French media to establish who owns and manages a supplier, and identify related parties, distress or reputational concerns before contracts or acquisitions."
-    },
-    {
-      "title": "IT and call centre outsourcing diligence",
-      "text": "Tunis hosts many software development and customer contact providers serving French-speaking markets. We verify the provider's legal identity, owners, group structure and history of disputes, and test claims about clients and capacity, helping clients assess data transfer, continuity and integrity risks before outsourcing."
-    },
-    {
-      "title": "Family group and conglomerate mapping",
-      "text": "Major Tunisian business groups based in the capital combine banking, distribution, industry and real estate. We map shareholdings and directorships across group companies using registry data, exchange disclosures and media, showing how control is exercised and where related-party or politically exposed connections may arise."
-    },
-    {
-      "title": "Banking and financial counterparty reviews",
-      "text": "Tunis is the base of the Central Bank, most commercial banks and the Bourse de Tunis. We support compliance teams reviewing banks, leasing firms and intermediaries by examining ownership, regulatory decisions, published financial disclosures and adverse media, alongside the principals' backgrounds."
-    },
-    {
-      "title": "Litigation and asset research support",
-      "text": "Creditors and litigants pursuing Tunisian parties need to know what assets exist and how they are held. We assemble corporate interests, property information obtained through local counsel and media records, supporting proceedings in Tunis courts or arbitration, with enforcement steps taken by Tunisian lawyers."
-    }
+    {"title": "Supplier ownership and integrity checks", "text": "Manufacturers and service providers across the Greater Tunis industrial belt supply European customers. We review registry extracts, published legal notices, litigation and Arabic and French media to establish who owns and manages a supplier, and to identify related parties, financial distress or reputational issues before contracts or acquisitions."},
+    {"title": "Family group and conglomerate mapping", "text": "Large Tunisian business groups headquartered in the capital combine industry, distribution, finance and property. We map shareholdings and directorships across group companies using registry data, stock exchange disclosures and media, showing how control is exercised and where related-party or politically exposed connections may arise."},
+    {"title": "Listed company and financial counterparties", "text": "Issuers on the Bourse de Tunis publish disclosures that are a valuable public source. We support compliance and investment teams reviewing listed companies, banks, leasing firms and intermediaries by examining ownership, published financial information, regulatory announcements and adverse media, together with the backgrounds of principals."},
+    {"title": "Public contract and PEP screening", "text": "Contracts and licences are awarded by ministries and public bodies in the capital. We research bidders, contractors and their owners for links to officials, prior awards, disputes and adverse media, distinguishing allegations from established findings, so clients can document enhanced due diligence on Tunis counterparties."},
+    {"title": "Litigation and arbitration fact support", "text": "Creditors and litigants in disputes with Tunis parties need to know what assets and related companies exist. We assemble corporate interests, media records and information obtained through Tunisian counsel to support proceedings in the Tunis courts or before the CCAT, with enforcement steps taken by local lawyers."}
   ],
   "local_context": [
-    {
-      "title": "Courts sitting in Tunis",
-      "text": "Tunis is the seat of the Court of Cassation and of the Tunis Court of Appeal, and its courts of first instance include commercial chambers that hear company and trading disputes. Proceedings are conducted in Arabic, and French-language documents generally need certified Arabic translation. Court decisions are not systematically published, so litigation history research relies on counsel, parties' disclosures and press reporting rather than open online dockets."
-    },
-    {
-      "title": "Arbitration and mediation in Tunis",
-      "text": "The Centre de Conciliation et d'Arbitrage de Tunis (CCAT) is the city's established institution for commercial arbitration and conciliation, operating under the Tunisian Arbitration Code. The Chambre de Commerce et d'Industrie de Tunis has also been reported as preparing its own mediation and arbitration centre. Investigative support for proceedings seated in Tunis is planned around the tribunal's procedural rules and confidentiality."
-    },
-    {
-      "title": "Registry and beneficial ownership",
-      "text": "Companies register with the Registre National des Entreprises, created by Law 2018-52 and operated from Tunis, which records legal form, capital, registered office, managers and published legal notices. Beneficial ownership declarations are filed with the registry under Decree 2019-54, with access governed by a 2026 ministerial order. Property title is handled by the Conservation de la Propriété Foncière, and searches are best made through Tunisian counsel."
-    },
-    {
-      "title": "Financial supervision and data rules",
-      "text": "The Central Bank of Tunisia supervises banks, and the Conseil du Marché Financier oversees the Bourse de Tunis and listed issuers, whose disclosures are a useful public source. Personal data handling is governed by Organic Law 2004-63, administered by the INPDP, which restricts transfers of personal data abroad. Investigative plans for Tunis therefore limit the personal data collected and agree transfer arrangements with counsel."
-    }
+    {"title": "Courts and award enforcement", "text": "Commercial disputes with Tunis companies are heard by the ordinary courts sitting in the capital. Tunisia does not have a separate commercial court, and business commentators have called for one, along with a mediation law, citing slow contract enforcement. Arbitral awards are enforced through the Court of Appeal, sometimes with certification by a first-instance judge, and enforcement can be refused on public order grounds or for serious procedural defects."},
+    {"title": "CCAT arbitration in Tunis", "text": "The Centre de Conciliation et d'Arbitrage de Tunis, founded in 1996, is described as the main arbitration institution in Tunisia. It administers conciliation and arbitration, provides hearing rooms and a library, and trains practitioners. Tunisia's Arbitration Code is based on the UNCITRAL Model Law. Investigative support for proceedings seated in Tunis is planned around the tribunal's procedural rules, confidentiality and the evidential standard counsel needs."},
+    {"title": "A planned CCI Tunis centre", "text": "In July 2026 the Chambre de Commerce et d'Industrie de Tunis launched a tender for an expert to design a conciliation, mediation and arbitration centre, relying on Law 2006-75 on chambers of commerce, with bids due on 7 August 2026. The project was at a preparatory stage when reported. Clients should check whether contracts with Tunis counterparties refer to this centre or to the CCAT."},
+    {"title": "Registry and records practice", "text": "Company information comes from the national Registre National des Entreprises, described on our Tunisia page, together with published legal notices and stock exchange disclosures for listed issuers. Because Tunis concentrates group headquarters, a single ownership question often spans companies registered across all four Greater Tunis governorates. Property and court searches are best made through Tunisian counsel, and certified Arabic translations are usually needed for court use."}
   ],
-  "tdsc_approach": "TDSC has no office in Tunis and works on Tunis matters from Nashville. We start by agreeing the purpose with the client and Tunisian counsel, whether supplier onboarding, an outsourcing decision, a counterparty review or support for litigation or CCAT arbitration. Research uses RNE extracts and legal notices, Bourse de Tunis and regulator disclosures, and Arabic and French media, supplemented by information obtained through counsel. Because we have not identified a licensing regime for private investigators in Tunisia, any local inquiries are carried out by appropriate professionals engaged through counsel. Personal data is minimised and handled with Organic Law 2004-63 in mind, including its restrictions on transfers abroad.",
+  "tdsc_approach": "TDSC has no office in Tunis and works on Tunis matters from Nashville. We start by agreeing the purpose with the client and Tunisian counsel, whether supplier onboarding, a group ownership question, a listed or financial counterparty review, or support for litigation or CCAT arbitration. Research draws on registry extracts and legal notices, Bourse de Tunis disclosures, and Arabic and French media, supplemented by information obtained through counsel. We have not identified a licensing regime for private investigators in Tunisia, so any local inquiries are carried out by appropriate professionals engaged through counsel. Personal data is minimised and handled with Tunisia's data protection rules on transfers abroad in mind.",
   "faqs": [
-    {
-      "q": "Can you identify the owners of a company registered in Tunis?",
-      "a": "The Registre National des Entreprises shows legal form, capital, registered office and managers, and legal notices record changes. Beneficial ownership declarations are filed with the registry but are not openly searchable. We combine registry data, exchange disclosures, media and information obtained through Tunisian counsel to build an evidence-based view of control."
-    },
-    {
-      "q": "How do you check an IT outsourcing provider in Tunis?",
-      "a": "We confirm the provider's legal identity and group structure through the RNE, research the owners and managers, review disputes and media, and test claims about clients, staff numbers and facilities through public information. We also flag data protection points, since Tunisian law restricts transfers of personal data abroad without authorisation and consent."
-    },
-    {
-      "q": "Where are commercial disputes with Tunis companies resolved?",
-      "a": "Many disputes go to the commercial chambers of the Tunis courts of first instance, with appeals to the Tunis Court of Appeal and review by the Court of Cassation, all sitting in the capital. Commercial contracts may instead provide for arbitration, often through the Centre de Conciliation et d'Arbitrage de Tunis. Counsel chooses the route."
-    },
-    {
-      "q": "Are private investigators licensed in Tunisia?",
-      "a": "We have not identified a statute licensing private investigators or detective agencies in Tunisia, and we do not assume that the activity is authorised as a profession. Covert surveillance and recording are constrained by data protection law. TDSC therefore scopes any local inquiries for Tunis matters with Tunisian counsel and engages appropriate professionals through them."
-    },
-    {
-      "q": "Do you work in Arabic and French for Tunis matters?",
-      "a": "Yes. Registry notices, court documents and much of the press in Tunis are in Arabic, while business correspondence and many corporate documents are in French. We review sources in both languages and arrange certified translation through counsel where documents are needed for Tunisian courts or arbitral proceedings."
-    }
+    {"q": "Can you identify the owners of a company based in Tunis?", "a": "Usually in large part. Registry extracts show legal form, capital, registered office and managers, and published legal notices record changes. Listed issuers publish further disclosures. Beneficial ownership data is not openly searchable, so we combine registry records, exchange filings, media and information obtained through Tunisian counsel, and we state clearly where control cannot be confirmed."},
+    {"q": "Is there a commercial court in Tunis?", "a": "Tunisia does not have a separate commercial court; commercial disputes go to the ordinary courts in the capital, and commentators have argued for a specialised court and a mediation law. Many commercial contracts instead provide for arbitration, often before the Centre de Conciliation et d'Arbitrage de Tunis. Counsel chooses the route; we supply the facts."},
+    {"q": "How are arbitral awards involving Tunis parties enforced?", "a": "Enforcement in Tunisia runs through the Court of Appeal, in some cases with certification by a first-instance judge, and may be refused for breach of public order or serious procedural errors. We help counsel prepare by identifying the debtor's companies, related parties and documented assets, so that enforcement steps can be targeted from the outset."},
+    {"q": "Are private investigators licensed in Tunisia?", "a": "We have not identified a statute licensing private investigators or detective agencies in Tunisia, and we do not assume that the activity is authorised as a profession. Covert surveillance and recording are constrained by data protection law. TDSC therefore scopes any local inquiries on Tunis matters with Tunisian counsel and engages appropriate professionals through them."},
+    {"q": "Do you work in Arabic and French for Tunis matters?", "a": "Yes. Registry notices, court documents and much of the press are in Arabic, while business correspondence and many corporate documents are in French. We review sources in both languages, report in English, and arrange certified translation through counsel where documents are needed for Tunisian courts or arbitral proceedings."}
   ],
   "sources": [
-    {
-      "title": "Global Arbitration Review: Centre de Conciliation et d'Arbitrage de Tunis (CCAT)",
-      "url": "https://globalarbitrationreview.com/survey/the-guide-regional-arbitration/2015/article/centre-de-conciliation-et-darbitrage-de-tunis-ccat"
-    },
-    {
-      "title": "Tunisie Numérique: La Chambre de Commerce et d'Industrie de Tunis prépare la création d'un centre de médiation et d'arbitrage",
-      "url": "https://www.tunisienumerique.com/la-chambre-de-commerce-et-dindustrie-de-tunis-prepare-la-creation-dun-centre-de-mediation-et-darbitrage/"
-    },
-    {
-      "title": "Africarrières: Starting a business in Tunisia",
-      "url": "https://africarrieres.com/tunisia/en/guide/employeur-entreprise/starting-business"
-    },
-    {
-      "title": "Economy of Tunisia (Wikipedia)",
-      "url": "https://Www.Wikipedia.org/wiki/Economy_of_Tunisia"
-    },
-    {
-      "title": "Cafébabel: Tunis, capital of call centres",
-      "url": "https://cafebabel.com/en/article/tunis-capital-of-call-centres-609946d6f723b31cd2286b95"
-    },
-    {
-      "title": "Legavox: Registre de commerce en Tunisie",
-      "url": "https://www.legavox.fr/blog/mannai-avocats-conseils/registre-commerce-tunisie-20036.htm"
-    },
-    {
-      "title": "Tunisie Numérique: Entreprises tunisiennes, bénéficiaire effectif",
-      "url": "https://www.tunisienumerique.com/entreprises-tunisiennes-beneficiaire-effectif-le-dirigeant-en-premiere-ligne-de-la-transparence/"
-    }
+    {"title": "City Population: Tunis Governorate, census results 2014 and 2024 (INS)", "url": "https://citypopulation.de/en/tunisia/admin/11__tunis/"},
+    {"title": "Tunisie Numérique: Nearly 25% of Tunisians live in Grand Tunis", "url": "https://news-tunisia.tunisienumerique.com/nearly-25-of-tunisians-live-in-grand-tunis/"},
+    {"title": "Wikipedia: Tunis Governorate", "url": "https://en.wikipedia.org/wiki/Tunis_Governorate"},
+    {"title": "Brest Regional CCI: International commercial arbitration in Egypt and Tunisia", "url": "https://brest.cci.by/en/byulleten-merkuryy/publikatsii/avtoritetnoe-mnenie/mezhdunarodnyy-kommercheskiy-arbitrazh-v-egipte-i-turise/"},
+    {"title": "Global Arbitration Review: Centre de Conciliation et d'Arbitrage de Tunis (CCAT)", "url": "https://globalarbitrationreview.com/survey/the-guide-regional-arbitration/2015/article/centre-de-conciliation-et-darbitrage-de-tunis-ccat"},
+    {"title": "Tunisie Numérique: La CCI de Tunis prépare la création d'un centre de médiation et d'arbitrage (July 2026)", "url": "https://www.tunisienumerique.com/la-chambre-de-commerce-et-dindustrie-de-tunis-prepare-la-creation-dun-centre-de-mediation-et-darbitrage/"},
+    {"title": "Kapitalis: Tunisie, vers la mise en place de mécanismes de résolution des conflits commerciaux (2021)", "url": "https://kapitalis.com/tunisie/?p=345544"}
   ],
   "review_flags": [
-    "HELD: written from search-result titles only; re-verify before publishing",
-    "WebFetch hourly limit was reached during Tunis research: no page was opened for this city. All sources are search-result titles (plus RNE/beneficial ownership/data protection facts carried over from the TN country page). Treat the whole page as needing verification.",
-    "Population (Greater Tunis ~2.6 million, 2014 census) is from general knowledge with no source; replace with an INS 2024 census figure.",
-    "Stated from general knowledge: Bourse de Tunis, CMF and Central Bank seats; Berges du Lac; port of Radès; Court of Cassation and Tunis Court of Appeal seats; commercial chambers; CCAT operating under the 1993 Arbitration Code; Conservation de la Propriété Foncière.",
-    "CCI Tunis mediation/arbitration centre: only the article title was seen; date and current status unknown.",
+    "Greater Tunis figure (2,912,818) is an INS estimate at 1 January 2024 as reported by Tunisie Numérique, not a 2024 census result; Tunis Governorate figure is the 2024 census.",
+    "No separate commercial court rests on a 2021 Kapitalis opinion piece; confirm with Tunisian counsel that this is still the case.",
+    "CCI Tunis arbitration centre was at tender stage (bids due 7 August 2026); recheck status before publishing.",
+    "CCAT founding year (1996) and UNCITRAL basis from a Belarusian chamber article; GAR profile is paywalled.",
     "Private investigator licensing not identified (see TN country page); lawfulness of the activity should be confirmed with Tunisian counsel."
   ],
-  "researched": "2026-11-04",
-  "hold": true
+  "researched": "2026-11-04"
 }

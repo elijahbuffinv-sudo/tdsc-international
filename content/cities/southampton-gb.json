@@ -1,0 +1,141 @@
+{
+  "slug": "southampton-gb",
+  "name": "Southampton",
+  "cc": "GB",
+  "meta_description": "TDSC investigative consulting in matters touching Southampton: port and cruise supply chain diligence, cargo and trade fraud, Solent Freeport counterparties.",
+  "eyebrow": "Southampton, Hampshire, England",
+  "hero_lede": "Southampton is the United Kingdom's leading cruise port and a maritime, logistics, research and services centre on the Solent. TDSC scopes Southampton matters around cargo and trade fraud, diligence on port, logistics and Freeport counterparties, and research for disputes heard at the city's Courts of Justice.",
+  "intro": [
+    "Southampton is a port city and unitary authority on the south coast of England with an estimated resident population of 259,424 in 2024, according to Office for National Statistics mid-year estimates published by the city's data observatory. Its economy generated about 10 billion pounds of gross value added in 2023. Transportation and storage account for around 12 percent of that output, four times the share for England, and manufacturing for more than 16 percent. The Port of Southampton is the country's number one cruise port, handling about two million cruise passengers in an average year, and the city council estimates maritime and logistics contribute 2.5 billion pounds to the UK economy. Ordnance Survey, the National Oceanography Centre, the Maritime and Coastguard Agency and two universities are based in the city.",
+    "Organisations commission investigative work connected to Southampton mainly because of what moves through its docks. Containers, vehicles and cruise supplies pass through a chain of shipping lines, terminal operators, freight forwarders, hauliers and warehouses, and losses, misdeclared cargo or documents used to obtain trade finance can involve parties in several countries. The Solent Freeport, one of eight freeports announced in the March 2021 Budget, brings new investors and tenants whose ownership and backgrounds need checking. Maritime technology, geospatial and financial services firms raise intellectual property, employee misconduct and counterparty questions, and regional businesses litigate insolvency, property and commercial disputes at the Southampton Courts of Justice."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "259,424, Southampton (2024 mid-year estimate, Office for National Statistics)"
+    },
+    {
+      "label": "Economic output",
+      "value": "Gross value added about 10 billion pounds (2023)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Maritime and logistics, manufacturing, health and research, higher education, financial and professional services, geospatial technology"
+    },
+    {
+      "label": "Port",
+      "value": "Port of Southampton, the UK's leading cruise port, about two million cruise passengers a year"
+    },
+    {
+      "label": "Freeport",
+      "value": "Solent Freeport, covering Southampton, Portsmouth and sites on Southampton Water (announced 2021)"
+    },
+    {
+      "label": "National bodies in the city",
+      "value": "Ordnance Survey, National Oceanography Centre, Maritime and Coastguard Agency, UK Ship Register"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/London, UTC+0 (GMT), UTC+1 during summer time (BST)"
+    },
+    {
+      "label": "Language of business",
+      "value": "English"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Cargo loss and trade fraud",
+      "text": "Researching the freight forwarders, hauliers, warehouses, consignees and buyers involved when containers or vehicles moving through Southampton are lost, misdeclared or financed on false documents, including company histories, links between parties and prior insolvencies, so counsel and insurers can assess liability and recovery."
+    },
+    {
+      "title": "Solent Freeport counterparty diligence",
+      "text": "Checking the ownership, directors, persons with significant control, sanctions exposure, litigation and adverse media of investors, tenants and contractors connected to Freeport sites, so developers, lenders and public partners can make decisions with documented evidence."
+    },
+    {
+      "title": "Cruise and maritime supply chains",
+      "text": "Vetting suppliers, agents and service providers to cruise lines, shipowners and port businesses for undisclosed ownership, conflicts of interest, bribery risk and financial weakness, using Companies House filings, insolvency notices and open-source research. Findings help procurement and compliance teams decide whether to approve, monitor or exit."
+    },
+    {
+      "title": "Asset tracing for regional judgments",
+      "text": "Supporting creditors and their solicitors with lawful research into property, companies and other assets held by debtors in Southampton and wider Hampshire, using HM Land Registry titles, Companies House records and court and insolvency records to inform enforcement strategy."
+    },
+    {
+      "title": "Technology and intellectual property leakage",
+      "text": "Assisting maritime technology, geospatial and research-linked firms where confidential data or designs may have left with departing staff, by researching new employers, related companies and business links lawfully, with any interviews or forensic work coordinated through appropriate UK professionals."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Southampton Courts of Justice",
+      "text": "The Southampton Combined Court Centre sits at the Courts of Justice on London Road. According to HM Courts and Tribunals Service, it deals with general civil and money claims, business and property disputes, insolvency and bankruptcy, housing, family and employment matters, criminal cases in the Crown Court, and High Court civil and criminal cases. Many commercial disputes from Hampshire and the Isle of Wight are therefore heard locally, while larger matters may be issued in London or another regional centre."
+    },
+    {
+      "title": "Port of Southampton",
+      "text": "The port handles cruise, container, vehicle and bulk traffic on Southampton Water and is the United Kingdom's busiest cruise port by passenger numbers. Its customers include international shipping lines, terminal operators and logistics companies, so cargo claims and fraud inquiries frequently involve parties outside the United Kingdom, foreign documentation and several sets of records that must be reconciled. Establishing the chain of custody often means matching bills of lading, terminal records and haulage documents."
+    },
+    {
+      "title": "Solent Freeport",
+      "text": "The Solent Freeport was one of eight freeports announced in the March 2021 Budget and covers the ports of Southampton and Portsmouth and sites along the western side of Southampton Water. Southampton City Council expects it to attract about one billion pounds of investment and 16,000 jobs. Freeport incentives can attract unfamiliar investors and complex structures, which makes ownership verification more important. Diligence on Freeport counterparties should look through layered holding companies to the individuals in control."
+    },
+    {
+      "title": "Maritime and research institutions",
+      "text": "Southampton is home to the National Oceanography Centre, the Maritime and Coastguard Agency, the UK Ship Register, Ordnance Survey and the University of Southampton, with Solent University's Warsash Maritime School nearby. This concentration of maritime regulators, data and expertise is relevant to vessel, crew and incident research, and to intellectual property matters in research-led businesses. Several of these bodies also publish registers and data that support lawful research."
+    }
+  ],
+  "tdsc_approach": "TDSC handles Southampton matters from Nashville and has no office or staff in the United Kingdom. Engagements begin with the decision or dispute at issue and then map lawful sources: Companies House filings and persons with significant control, HM Land Registry titles, insolvency notices, court records, vessel and shipping information, sanctions lists and local media. For cargo and trade matters TDSC reconciles documents and counterparties across jurisdictions. Where interviews, site visits or observation at the port or elsewhere in Hampshire are needed, TDSC coordinates experienced UK investigators and agrees methods with the client's solicitors, within UK data protection, interception and harassment law. Reports distinguish documented fact from inference.",
+  "faqs": [
+    {
+      "q": "Can you investigate cargo that went missing at the Port of Southampton?",
+      "a": "TDSC researches the parties around the loss: freight forwarders, hauliers, warehouses, consignees and buyers, their ownership, links between them, prior claims and insolvency history. This helps counsel and insurers understand what happened and who may be liable. Physical inspection, survey or interview work is coordinated with appropriate UK professionals under a written scope."
+    },
+    {
+      "q": "Where are commercial disputes in Southampton heard?",
+      "a": "The Southampton Combined Court Centre at the Courts of Justice on London Road handles civil, business and property, insolvency and High Court work, as well as criminal and family cases. Larger or specialist commercial claims may be issued in London or another regional centre. Where to issue is a matter for the client's solicitors; TDSC supports either route with factual research."
+    },
+    {
+      "q": "How do you check a Solent Freeport investor or tenant?",
+      "a": "By reviewing Companies House filings, persons with significant control and overseas ownership, sanctions and adverse media, litigation and insolvency records, and the backgrounds of the individuals behind the company. Where structures run through other jurisdictions, TDSC traces them through the available foreign registries and notes where ownership cannot be confirmed."
+    },
+    {
+      "q": "Does TDSC have investigators in Southampton?",
+      "a": "No. TDSC has no UK office or staff. Public-record and open-source research is carried out from Nashville. Where fieldwork in Southampton or Hampshire is needed, TDSC coordinates experienced UK investigators, chosen for their record and methods, working under a written scope and in line with UK data protection and other applicable law."
+    },
+    {
+      "q": "Can you research suppliers to cruise lines operating from Southampton?",
+      "a": "Yes. TDSC reviews ownership, directors, financial health, litigation, adverse media and conflicts of interest for victualling, technical and port service suppliers and agents, including links to employees of the client. The aim is to give procurement and compliance teams evidence on which to approve, monitor or exit a relationship."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Southampton Data Observatory: Population size and structure",
+      "url": "https://data.southampton.gov.uk/population/population-size-and-structure"
+    },
+    {
+      "title": "Southampton Data Observatory: Economic assessment",
+      "url": "https://data.southampton.gov.uk/economy/economic-assessment/"
+    },
+    {
+      "title": "Southampton City Council: Key sectors",
+      "url": "https://southampton.gov.uk/grow/invest/why-southampton/key-sectors"
+    },
+    {
+      "title": "HM Courts and Tribunals Service: Southampton Combined Court Centre",
+      "url": "https://www.find-court-tribunal.service.gov.uk/courts/southampton-combined-court-centre"
+    },
+    {
+      "title": "EG: How the Solent Freeport is reinforcing the area as a hub for global trade",
+      "url": "https://egi.co.uk/news/how-the-solent-freeport-is-reinforcing-the-area-as-a-hub-for-global-trade"
+    },
+    {
+      "title": "Wikipedia: Southampton Courts of Justice",
+      "url": "https://en.wikipedia.org/wiki/Southampton_Courts_of_Justice"
+    }
+  ],
+  "review_flags": [
+    "Southampton is not a named regional Business and Property Courts centre; the court finder lists 'business and property disputes' at the Combined Court Centre. Copy avoids claiming a BPC centre or Admiralty jurisdiction in Southampton.",
+    "Port operator (ABP), container/vehicle volumes and Carnival UK HQ not verified and not named; Freeport investment and jobs figures are council projections.",
+    "Wikipedia Courts of Justice page cited from search results, not opened."
+  ],
+  "researched": "2026-11-04"
+}

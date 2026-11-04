@@ -1,0 +1,142 @@
+{
+  "slug": "santa-cruz-de-la-sierra-bo",
+  "name": "Santa Cruz de la Sierra",
+  "cc": "BO",
+  "meta_description": "TDSC investigative consulting in matters touching Santa Cruz de la Sierra: agribusiness and export counterparties, land research and dispute support.",
+  "eyebrow": "Santa Cruz Department, Bolivia",
+  "hero_lede": "Santa Cruz de la Sierra is the commercial centre of Bolivia's most populous and productive department, built on soy, cattle, hydrocarbons and trade. TDSC scopes investigative consulting from Nashville for matters touching the city and coordinates qualified Bolivian professionals where local work is needed.",
+  "intro": [
+    "Santa Cruz de la Sierra is the capital of the Department of Santa Cruz, which the 2024 national census counted at about 3.12 million people, more than any other Bolivian department, with roughly 83 percent living in urban areas. Figures compiled from National Statistics Institute data by the Bolivian Institute of Foreign Trade put the department at about 31.5 percent of national GDP in 2023 and 30.2 percent in 2024. Agriculture is its largest sector, followed by manufacturing, much of it food processing, along with financial services, transport and trade. The department grows most of Bolivia's soybeans, exports soy cake and oil, beef, sugar and natural gas, and is served by Viru Viru, the country's busiest airport.",
+    "Organisations commission investigative work connected to Santa Cruz because much of Bolivia's private-sector capital and export trade is concentrated there. Buyers, lenders and investors deal with agro-industrial groups, cattle ranchers, grain traders, distributors and contractors whose ownership often runs through families and closely held companies. Large rural landholdings raise questions about title, land use and environmental compliance. Exports fell sharply after 2022, from a record 4.51 billion dollars to 2.53 billion in 2024, and economic strain tends to bring payment defaults, asset transfers and disputes. Litigants also have to deal with a departmental judiciary whose integrity has been under public scrutiny."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "Santa Cruz Department about 3.12 million (2024 census, INE); municipal figure contested"
+    },
+    {
+      "label": "Economic weight",
+      "value": "About 30 percent of Bolivian GDP (2024, INE data via IBCE)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Agriculture (soy, cattle, sugar), food manufacturing, trade, financial services, transport, natural gas"
+    },
+    {
+      "label": "Main exports",
+      "value": "Natural gas, soy cake and oil, beef, sunflower oil, sugar, jewellery"
+    },
+    {
+      "label": "Air hub",
+      "value": "Viru Viru International Airport, Bolivia's busiest (about 4.1 million passengers in 2023)"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/La_Paz, UTC-4, no daylight saving"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Spanish; Portuguese useful for Brazilian trade"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Soy and grain counterparty diligence",
+      "text": "Santa Cruz grows most of Bolivia's soybeans and processes them into cake and oil for export. Before supply, financing or offtake agreements we research crushers, traders and producer groups, including ownership, related companies, litigation, tax and payment history, and media, so clients understand who stands behind the contract."
+    },
+    {
+      "title": "Rural land and title questions",
+      "text": "Ranches and farms around Santa Cruz can be large, and their title history may involve agrarian reform processes, transfers and competing claims. We help counsel assemble the documentary record available through Bolivian registries and coordinate qualified local professionals to review land files, recognising that records can be incomplete."
+    },
+    {
+      "title": "Asset tracing after payment defaults",
+      "text": "Falling exports since 2022 have strained agribusiness and trading companies. When a debtor defaults we research companies, vehicles, property and business interests linked to it and its owners in Bolivia and neighbouring countries, identifying transfers that may matter to enforcement, through lawful sources and local counsel."
+    },
+    {
+      "title": "Cross-border trade with Brazil",
+      "text": "Santa Cruz trades heavily with Brazil and Argentina by road and rail. We review counterparties on both sides of the border, compare declared trade activity with corporate records and media, and look for sanctions, customs or contraband exposure that could affect a distribution, logistics or supply relationship."
+    },
+    {
+      "title": "Litigation and judicial integrity support",
+      "text": "Commercial disputes in Santa Cruz go through the departmental judiciary, where disciplinary proceedings against judges have been widely reported. We support counsel with witness and party backgrounds, procedural history and public reporting, helping them understand the forum and the people involved without making any improper contact."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Departmental Court of Justice",
+      "text": "The Tribunal Departamental de Justicia de Santa Cruz heads the ordinary courts in the department and hears appeals, while first-instance civil, commercial and criminal courts sit in the capital and provincial towns. In January 2026 the Council of the Magistracy reported 147 disciplinary proceedings against judges in the department, which has about 250 judges, and prosecutors questioned how high-profile cases were assigned. These are allegations under review, but counsel should factor them into forum and evidence planning."
+    },
+    {
+      "title": "Chamber of Industry and Commerce",
+      "text": "The Cámara de Industria, Comercio, Servicios y Turismo de Santa Cruz (CAINCO) is the city's main business chamber and a frequent voice on regional economic policy. Bolivian chambers in the main cities run conciliation and arbitration centres, and parties to Santa Cruz commercial contracts often choose institutional arbitration. Counsel confirms which centre a clause names and its current rules before a dispute is filed."
+    },
+    {
+      "title": "Departmental statistics and government",
+      "text": "The Gobernación of Santa Cruz publishes departmental statistics through its Instituto Cruceño de Estadística, including production, agriculture and hydrocarbons data. Its 2024 estimates of the department's population, about 4.0 million, differ sharply from the national census figure of about 3.12 million, which local institutions disputed. We note which source a figure comes from when this matters to a client's analysis."
+    },
+    {
+      "title": "Registries and land records",
+      "text": "Companies in Santa Cruz register with the national commercial registry, SEPREC, which has offices in the city. Real estate is recorded in the Derechos Reales registry held by the judiciary in each department, and rural land titling involves the national agrarian reform institute. Access to complete files often requires a local lawyer, and we coordinate licensed Bolivian professionals for any in-person searches."
+    }
+  ],
+  "tdsc_approach": "TDSC has no office in Santa Cruz de la Sierra and works on matters there from Nashville. We start by agreeing the decision the client faces, such as an agribusiness supply or financing relationship, a land-related transaction, a recovery after default or a dispute in the departmental courts. We then identify the companies, families and assets involved and use lawful sources: SEPREC company records, Derechos Reales and agrarian records obtained through local counsel, court information, trade and customs data, Brazilian and Argentine registries where links cross the border, and Spanish-language media. Where in-person searches or interviews are needed we coordinate qualified Bolivian professionals. Reports separate verified facts from local reporting and note gaps in the record.",
+  "faqs": [
+    {
+      "q": "Why is Santa Cruz central to due diligence in Bolivia?",
+      "a": "The department produced about 30 percent of Bolivian GDP in 2024 and accounts for most of the country's soy and much of its beef and food manufacturing, according to INE data compiled by IBCE. Many of Bolivia's private agribusiness, trading and distribution groups are based in or around the city, so counterparty reviews in Bolivia frequently lead there."
+    },
+    {
+      "q": "What is Santa Cruz's population?",
+      "a": "The 2024 national census counted about 3.12 million people in the Department of Santa Cruz. The departmental government's statistics institute published an estimate of about 4.0 million, and civic groups rejected the census results. Because figures differ, we cite the source for any population number we use and do not rely on a single disputed estimate."
+    },
+    {
+      "q": "Can you verify ownership of a rural property near Santa Cruz?",
+      "a": "We can help counsel assemble the available record. Urban and rural property is recorded in Derechos Reales, and rural titles may also involve agrarian reform files. Searches are normally made through a Bolivian lawyer or notary, and records can be incomplete or contested, so we present findings with their sources and any gaps."
+    },
+    {
+      "q": "How do concerns about the local judiciary affect a dispute?",
+      "a": "In January 2026 the Council of the Magistracy reported disciplinary proceedings against many Santa Cruz judges and prosecutors questioned case allocation. These are allegations, not findings. For counsel, they argue for careful documentation, attention to procedural history and, where contracts allow, considering arbitration. We support counsel with factual research and never approach judges or court staff."
+    },
+    {
+      "q": "Does TDSC have investigators based in Santa Cruz?",
+      "a": "No. TDSC has no office or staff in Bolivia. We scope and manage engagements from Nashville and, where in-person work is required, coordinate qualified Bolivian professionals and work alongside the client's Bolivian counsel. We do not claim official powers or access to restricted government records."
+    }
+  ],
+  "sources": [
+    {
+      "title": "INE Censo 2024: ocho de cada 10 cruceños viven en áreas urbanas del departamento de Santa Cruz",
+      "url": "https://cpv2024.ine.gob.bo/index.php/censo-2024-ocho-de-cada-10-crucenos-viven-en-areas-urbanas-del-departamento-de-santa-cruz/?pdf=30391"
+    },
+    {
+      "title": "Instituto Cruceño de Estadística: Santa Cruz Estadístico 2024",
+      "url": "https://ice.santacruz.gob.bo/uploads/SANTA_CRUZ_ESTADISTICO_2024_a8a96110b3.pdf"
+    },
+    {
+      "title": "eju.tv: Santa Cruz es líder en exportaciones no tradicionales y en los dos últimos años aportó al PIB más del 30%",
+      "url": "https://eju.tv/?p=4763499"
+    },
+    {
+      "title": "Wikipedia: Viru Viru International Airport",
+      "url": "https://en.wikipedia.org/wiki/Viru_Viru_International_Airport"
+    },
+    {
+      "title": "Bolivian Thoughts (El Deber): Jueces bajo la lupa en Santa Cruz (January 2026)",
+      "url": "https://bolivianthoughts.com/2026/01/18/jueces-bajo-la-lupa-en-santa-cruz"
+    },
+    {
+      "title": "Bolivian Thoughts (Brújula Digital): Santa Cruz civic assembly rejects census results",
+      "url": "https://bolivianthoughts.com/2024/09/04/santa-cruzs-civic-assembly-rejects-census-results-and-calls-for-a-departmental-strike-this-friday-asamblea-de-la-crucenidad-rechaza-resultados-del-censo-y-convoca-a-paro-departamental-este-viernes"
+    },
+    {
+      "title": "eju.tv: Santa Cruz no alcanzó los 4 millones de habitantes",
+      "url": "https://eju.tv/?p=4314753"
+    }
+  ],
+  "review_flags": [
+    "Municipal population of Santa Cruz de la Sierra not given: INE census page opened gives only the department (3,122,605); ICE estimate for the municipality (2.25 million) conflicts with the census. Add INE municipal census figure if wanted.",
+    "CAINCO arbitration centre name/rules, SEPREC Santa Cruz office, Derechos Reales and INRA arrangements, and Tribunal Departamental structure are from general knowledge/country page, not opened this session.",
+    "Brazil/Argentina trade emphasis and road/rail links are general knowledge; the census-rejection and 4-million articles are cited from search results, not fetched.",
+    "Judicial integrity content relies on allegations reported January 2026; keep wording as allegations and refresh."
+  ],
+  "researched": "2026-11-04"
+}

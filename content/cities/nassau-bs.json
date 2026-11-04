@@ -1,0 +1,146 @@
+{
+  "slug": "nassau-bs",
+  "name": "Nassau",
+  "cc": "BS",
+  "meta_description": "TDSC investigative consulting in matters touching Nassau: offshore entity and trust research, fund and digital asset diligence, and asset tracing support.",
+  "eyebrow": "New Providence, The Bahamas",
+  "hero_lede": "Investigative consulting for matters touching Nassau, scoped from Nashville: research on Bahamian companies, funds and trust structures administered in the capital, diligence on regulated financial and digital asset businesses, and factual support for counsel in insolvency, fraud and asset recovery proceedings before the Supreme Court of The Bahamas.",
+  "intro": [
+    "Nassau is the capital and financial centre of The Bahamas. It sits on the northern coast of New Providence, an island of about 21 miles that is home to most of the country's people: preliminary results of the 2022 census put New Providence at roughly 296,500 residents. Tourism is the largest industry, with cruise ships berthing at Prince George Wharf and resort and casino developments on Cable Beach and Paradise Island. Financial services are the second pillar, built on offshore banking, trust administration, investment funds and international business companies, and supervised from Nassau by the Central Bank of The Bahamas and the Securities Commission of The Bahamas.",
+    "Organisations commission investigative work connected to Nassau because a significant share of the world's private wealth structures, funds and holding companies are administered there by banks, trust companies and corporate service providers. Counterparties and beneficiaries often appear only as entities whose members and directors are held by registered agents rather than published. Lenders, investors and litigants therefore need careful research into who stands behind a Bahamian company or fund. The collapse of FTX, whose Bahamian subsidiary was placed into provisional liquidation by the Supreme Court in Nassau in November 2022, also showed how quickly Nassau can become the centre of a cross-border insolvency and asset recovery effort."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 296,500 on New Providence (preliminary 2022 census results, reported 2023)"
+    },
+    {
+      "label": "National context",
+      "value": "The Bahamas had about 358,500 residents (2023 estimate); New Providence holds most of them"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Tourism, cruise and resort operations, offshore banking, trust and fund administration, corporate services"
+    },
+    {
+      "label": "Financial regulators",
+      "value": "Central Bank of The Bahamas; Securities Commission of The Bahamas (Poinciana House, East Bay Street); Compliance Commission"
+    },
+    {
+      "label": "Market infrastructure",
+      "value": "Bahamas International Securities Exchange (BISX) and Bahamas Central Securities Depository"
+    },
+    {
+      "label": "Transport hubs",
+      "value": "Lynden Pindling International Airport, about 10 miles west of the city; Prince George Wharf cruise port"
+    },
+    {
+      "label": "Currency",
+      "value": "Bahamian dollar, pegged one-to-one to the US dollar"
+    },
+    {
+      "label": "Time zone and language",
+      "value": "America/Nassau (UTC-5, UTC-4 in summer); English is the language of business and the courts"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Bahamian company and IBC ownership research",
+      "text": "Tracing the people behind international business companies and other Bahamian entities administered in Nassau, using filed corporate documents, litigation, regulatory notices, press and linked entities elsewhere, while being clear where ownership is documented and where it can only be inferred."
+    },
+    {
+      "title": "Fund manager and administrator diligence",
+      "text": "Background research on investment fund managers, administrators and securities firms licensed in Nassau, covering regulatory status with the Securities Commission, public enforcement notices, principals' track records, litigation and reputation, before an allocation, partnership or acquisition."
+    },
+    {
+      "title": "Digital asset business diligence",
+      "text": "Research on firms registered or seeking registration under the Digital Assets and Registered Exchanges Act, including their principals, corporate links, regulatory history and public statements, informed by lessons from the FTX Digital Markets liquidation in Nassau."
+    },
+    {
+      "title": "Trust and private wealth disputes",
+      "text": "Factual support for counsel in disputes over trusts and family wealth structures administered in Nassau, including documented background on trustees, protectors and connected companies, and research into how assets moved between related entities and jurisdictions."
+    },
+    {
+      "title": "Resort and real estate counterparties",
+      "text": "Diligence on developers, investors, operators and contractors in Nassau and Paradise Island hospitality and residential projects, where foreign capital, layered ownership and slow land title processes make it important to verify who controls a project and its financing."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Supreme Court in Nassau",
+      "text": "The Supreme Court of The Bahamas, which sits in Nassau, hears the substantial civil, commercial, trust and insolvency matters, including winding-up and provisional liquidation petitions. In November 2022 the Securities Commission petitioned it to place FTX Digital Markets Ltd into provisional liquidation and later sought orders moving digital assets into wallets under the Commission's control. Appeals go to the Court of Appeal, with final appeal to the Privy Council in London. Court records and published judgments are a key source for litigation history."
+    },
+    {
+      "title": "Securities Commission of The Bahamas",
+      "text": "Headquartered at Poinciana House on East Bay Street, the Securities Commission supervises securities firms, public issuers, investment funds and administrators, financial and corporate service providers, and digital asset businesses. Its remit rests on the Securities Industry Act 2011, the Investment Funds Act, the Financial and Corporate Service Providers Act and the DARE Act, updated in 2024. It publishes lists of registrants and licensees and investor alerts, which help confirm whether a Nassau firm is authorised."
+    },
+    {
+      "title": "Central Bank and banking sector",
+      "text": "The Central Bank of The Bahamas, based in Nassau, licenses and supervises banks and trust companies, many of which serve international clients from offices in the capital. Licensing status and public regulatory statements can be checked, but client and account information is protected by Bahamian confidentiality rules, and TDSC does not seek or use non-public banking information. Bank records are obtained only through lawful court process by counsel."
+    },
+    {
+      "title": "Registrar General and agent-held records",
+      "text": "Companies and international business companies are registered with the Registrar General's Department in Nassau, which also records mortgages and certain property instruments. Basic entity details and filed documents can be obtained, usually through local agents, but registers of members and directors of many offshore entities are kept by registered agents. Beneficial ownership information is held in a secure system available to authorities, not to the public."
+    },
+    {
+      "title": "Exchange and capital market",
+      "text": "BISX, the Bahamas International Securities Exchange, lists the shares of domestic companies such as banks, insurers and utilities, along with funds and debt securities, and works with the Bahamas Central Securities Depository. Disclosures by listed issuers provide audited accounts, directors and significant shareholders, offering a more transparent starting point than the records of privately held Bahamian entities. Listing documents and announcements are also useful dated records."
+    }
+  ],
+  "tdsc_approach": "For matters touching Nassau, TDSC first identifies which Bahamian entities, funds, trusts or licensed firms are involved and what the client needs to know about them. Research is conducted from Nashville using Registrar General filings obtained through appropriate channels, Securities Commission and Central Bank publications, BISX disclosures, Supreme Court judgments, press and corporate records in other jurisdictions where structures connect. TDSC does not seek confidential banking information or beneficial ownership data held by the authorities. Where local document retrieval, court searches or interviews are justified, TDSC coordinates with appropriately licensed Bahamian professionals and the client's counsel, and reports separate verified facts from reasoned inference.",
+  "faqs": [
+    {
+      "q": "Can you find out who owns a Bahamian international business company?",
+      "a": "Sometimes, but not from a single public register. The beneficial ownership register is available to authorities only, and member and director registers are usually kept by registered agents. We build a picture from filed documents, litigation, regulatory notices, press and linked entities in other jurisdictions, and we say clearly which conclusions are documented and which are inferred."
+    },
+    {
+      "q": "Can you check whether a Nassau fund manager or digital asset firm is licensed?",
+      "a": "Yes. The Securities Commission of The Bahamas publishes lists of registrants and licensees, investor alerts and enforcement information, and the Central Bank publishes information on licensed banks and trust companies. We combine regulatory status with research into principals, related companies and litigation to give a fuller view than a licence check alone."
+    },
+    {
+      "q": "What did the FTX case show about Nassau?",
+      "a": "It showed that the Securities Commission can act quickly through the Supreme Court, which placed FTX Digital Markets into provisional liquidation in November 2022. It also showed that Bahamian proceedings often run alongside US and other insolvencies. For clients, that means research on Nassau entities should consider parallel proceedings, court filings and liquidators' reports in several jurisdictions."
+    },
+    {
+      "q": "Can you support asset recovery involving assets held through Nassau?",
+      "a": "We support counsel by researching entities, trustees, related parties and asset movements using lawful public and commercial sources, and by organising findings for use in Bahamian or foreign proceedings. Freezing orders, disclosure against banks or agents and enforcement are matters for Bahamian counsel and the courts; we do not obtain bank or agent records outside court process."
+    },
+    {
+      "q": "Does TDSC have an office in Nassau?",
+      "a": "No. TDSC is based in Nashville and has no office, staff or address in Nassau or elsewhere in The Bahamas. Most work is desk-based research. Where local steps are needed, we coordinate with appropriately licensed Bahamian professionals and the client's counsel, and we decline requests involving pretexting, covert recording or access to confidential records."
+    }
+  ],
+  "sources": [
+    {
+      "title": "EBSCO Research Starters: Nassau, Bahamas",
+      "url": "https://ebsco.com/research-starters/geography-and-cartography/nassau-bahamas"
+    },
+    {
+      "title": "Wikipedia: Economy of the Bahamas",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_the_Bahamas"
+    },
+    {
+      "title": "Wikipedia: Securities Commission of the Bahamas",
+      "url": "https://en.wikipedia.org/wiki/Securities_Commission_of_the_Bahamas"
+    },
+    {
+      "title": "Securities Commission of The Bahamas: Invest In (regulatory framework and linked institutions)",
+      "url": "https://www.scb.gov.bs/investin"
+    },
+    {
+      "title": "Securities Commission of The Bahamas: Statement on Transfer Motion (FTX Digital Markets), November 2022",
+      "url": "https://www.scb.gov.bs/wp-content/uploads/2022/11/SCB-Issues-Statement-on-Transfer-Motion.pdf"
+    },
+    {
+      "title": "The Bahamas Investor: financial services overview (2010)",
+      "url": "https://www.thebahamasinvestor.com/?p=638"
+    }
+  ],
+  "review_flags": [
+    "Population is from EBSCO citing preliminary 2022 census results for New Providence (296,522), not a Bahamas National Statistical Institute or World Bank page; replace with official census figure. National 2023 estimate (358,508) is a CIA World Factbook figure via EBSCO.",
+    "BISX description (listed domestic banks, insurers, utilities, funds, debt) is from general knowledge; sources opened only confirm BISX exists and links to the Bahamas Central Securities Depository.",
+    "Supreme Court sitting in Nassau, Registrar General's Department location in Nassau and Central Bank licensing of banks and trust companies are from general knowledge and the BS country page, not opened city-specific sources.",
+    "DARE Act 2024 described as an update based on Wikipedia; confirm enactment status."
+  ],
+  "researched": "2026-11-04"
+}

@@ -2,151 +2,60 @@
   "slug": "fuzhou-cn",
   "name": "Fuzhou",
   "cc": "CN",
-  "meta_description": "TDSC investigative consulting in matters touching Fuzhou: Fujian manufacturers, free trade zone counterparties, cross-Strait trade and dispute support.",
+  "meta_description": "TDSC investigative consulting in matters touching Fuzhou: Fujian manufacturer checks, free trade zone and Taiwan-linked counterparties, dispute support.",
   "eyebrow": "Fuzhou, Fujian Province, China",
-  "hero_lede": "Fuzhou is the capital of Fujian Province, a manufacturing and port city facing Taiwan with a Fujian Free Trade Zone area and close ties to Chinese communities overseas. TDSC scopes investigative consulting from Nashville for Fuzhou matters, relying on lawful public sources and Chinese counsel.",
+  "hero_lede": "Fuzhou is the capital of Fujian Province, a manufacturing city on the Min River and the mainland provincial capital nearest to Taiwan. TDSC scopes investigative consulting on Fuzhou matters from Nashville, relying on lawful public sources and the advice of Chinese counsel.",
   "intro": [
-    "Fuzhou is the provincial capital of Fujian, on the Min River estuary opposite Taiwan, and the seat of the provincial government, the Fujian Higher People's Court and provincial regulators. The municipality includes urban districts and county-level cities such as Fuqing and Changle. Its economy combines manufacturing, including textiles and chemical fibres, electronics, glass and automotive components, metallurgy and food processing, with port logistics through the Port of Fuzhou at Mawei and Jiangyin. The Fuzhou area of the Fujian Free-Trade Zone, established in 2015, and the Fuzhou Economic and Technological Development Zone host foreign-invested and export firms, while the nearby Pingtan zone is designed to deepen economic links with Taiwan.",
-    "Organisations commission investigative work connected to Fuzhou because it sits within supply chains, trade routes and family networks that extend abroad. Buyers of textiles, apparel, building materials and components need to confirm which factory actually produces their goods and who owns it. Investors in free trade zone businesses need to understand related companies and government ties. Fuzhou is also the origin of large overseas Chinese communities, particularly in the United States, so litigants and creditors sometimes need to understand business and asset connections between Fuzhou and other countries. China's rules on personal information, data export and business investigation shape how all such work can be done."
+    "Fuzhou is the provincial capital of Fujian, on the banks of the Min River and across the strait from Taiwan. The provincial government reports 8.521 million permanent residents at the end of 2025 and describes the city as one of China's most competitive manufacturing centres, with industrial, high-tech and services sectors and a role as a hub of the 21st Century Maritime Silk Road. Its economic zones include the Fuzhou Economic and Technical Development Zone, the Fuzhou Hi-Tech Park, the Fuzhou Taiwan Merchant Investment Area and the Fuzhou Area of the China (Fujian) Pilot Free Trade Zone. The free trade zone's bonded port, in Fuqing, handles shipping, logistics, vehicle imports and processing trade.",
+    "Organisations commission investigative work connected to Fuzhou because it sits within supply chains, trade routes and ownership networks that reach abroad. Buyers need to confirm which factory actually makes their goods and who owns it. Investors in free trade zone and Taiwan-invested businesses need to understand related companies, holding structures and links to state bodies. Lenders and creditors pursuing Fuzhou parties face a court system that has built specialised mechanisms for financial disputes and enforcement. China's rules on personal information, data export and the collection of non-public information shape how all such work can be done, so the scope of any inquiry is settled with counsel before work begins."
   ],
   "economy": [
-    {
-      "label": "Population",
-      "value": "About 8.5 million permanent residents in the municipality (municipal estimate, 2024)"
-    },
-    {
-      "label": "Administrative area",
-      "value": "Urban districts plus county-level cities including Fuqing, and the Changle district"
-    },
-    {
-      "label": "Key sectors",
-      "value": "Textiles and chemical fibres, electronics and displays, glass and auto parts, metallurgy, food processing, port logistics, digital economy"
-    },
-    {
-      "label": "Zones",
-      "value": "Fuzhou area of the Fujian Free-Trade Zone (2015); Fuzhou Economic and Technological Development Zone; Fuzhou Bonded Zone"
-    },
-    {
-      "label": "Transport hub",
-      "value": "Port of Fuzhou (Mawei and Jiangyin); Fuzhou Changle International Airport"
-    },
-    {
-      "label": "Cross-Strait links",
-      "value": "Faces Taiwan; Pingtan comprehensive experimental zone within the Fujian Free-Trade Zone"
-    },
-    {
-      "label": "Time zone",
-      "value": "Asia/Shanghai, UTC+8 (no daylight saving)"
-    },
-    {
-      "label": "Languages of business",
-      "value": "Mandarin Chinese; Fuzhou dialect widely spoken locally"
-    }
+    {"label": "Population", "value": "8.521 million permanent residents (end of 2025, Fujian provincial government)"},
+    {"label": "Administrative area", "value": "Prefecture-level provincial capital including the county-level city of Fuqing"},
+    {"label": "Key sectors", "value": "Manufacturing, high-tech industry, services, port logistics and shipping"},
+    {"label": "Zones", "value": "Fuzhou Area of the China (Fujian) Pilot FTZ; Economic and Technical Development Zone; Hi-Tech Park; Taiwan Merchant Investment Area"},
+    {"label": "Bonded port", "value": "Fuzhou Bonded Port, Fuqing: 9.26 sq km in Xincuo and Jiangyin blocks, opened 2014"},
+    {"label": "Cross-Strait position", "value": "Mainland provincial capital nearest to Taiwan"},
+    {"label": "Time zone", "value": "Asia/Shanghai, UTC+8 (no daylight saving)"},
+    {"label": "Languages of business", "value": "Mandarin Chinese; Fuzhou Min dialect widely spoken locally"}
   ],
   "matters": [
-    {
-      "title": "Factory and supplier verification",
-      "text": "Fuzhou and Fuqing manufacturers supply textiles, apparel, building materials and components worldwide. We review public registration data, shareholders, administrative penalties, litigation and media to confirm a supplier's identity and ownership and identify subcontracting, trading-company intermediaries or compliance issues before orders or audits."
-    },
-    {
-      "title": "Free trade zone counterparty diligence",
-      "text": "Companies in the Fuzhou area of the Fujian Free-Trade Zone often act in trade, logistics and cross-border services. We map shareholders, affiliates and key personnel using public records and Chinese-language sources, identifying state ownership, related-party trading and adverse history relevant to a partnership or investment."
-    },
-    {
-      "title": "Cross-Strait and Taiwan-linked businesses",
-      "text": "Fuzhou's proximity to Taiwan supports Taiwan-invested companies and cross-Strait trade. We research ownership chains that run through Taiwan, Hong Kong or other jurisdictions, using public registries on each side where available, so clients understand who controls a business and where legal or political risks lie."
-    },
-    {
-      "title": "Overseas Fuzhou community asset matters",
-      "text": "Many businesses abroad are owned by people with roots in Fuzhou. In litigation or recovery matters outside China we identify, through lawful public sources, Fuzhou companies and interests connected to parties, helping counsel decide whether enforcement or evidence gathering in China is worth pursuing."
-    },
-    {
-      "title": "Export controls and sanctions screening",
-      "text": "Fuzhou electronics, chemical and logistics firms trade with many markets. We screen counterparties and their owners against relevant restricted party lists and examine shipping patterns and corporate links that may indicate diversion or transshipment risk, supporting compliance decisions without any access to non-public Chinese data."
-    }
+    {"title": "Factory and supplier verification", "text": "Fuzhou manufacturers supply customers worldwide, often through trading intermediaries. We review public registration data, shareholders, administrative penalties, litigation and Chinese-language media to confirm a supplier's identity and ownership, and to identify subcontracting, trading-company fronts or compliance issues before orders, audits or price negotiations."},
+    {"title": "Bonded port and FTZ counterparties", "text": "Companies in the Fuzhou free trade zone and its Fuqing bonded port work in shipping, logistics, vehicle imports, leasing and processing trade. We map shareholders, affiliates and key personnel from public records, identifying state ownership, related-party trading and adverse history relevant to a partnership, financing or investment."},
+    {"title": "Taiwan-linked ownership research", "text": "Fuzhou hosts a dedicated Taiwan Merchant Investment Area, and many local businesses have shareholders in Taiwan, Hong Kong or elsewhere. We trace ownership chains using the public registries available on each side and media in traditional and simplified Chinese, so clients understand who controls a business and where legal or political risks lie."},
+    {"title": "Financial dispute and enforcement support", "text": "Fuzhou courts have built specialised mechanisms for financial disputes, from mediation through enforcement and bankruptcy. For creditors and counsel, we identify a debtor's companies, shareholdings and related parties through public registration data and published judgments, helping decide whether proceedings or enforcement in Fuzhou are worth pursuing."},
+    {"title": "Export controls and sanctions screening", "text": "Fuzhou manufacturers, traders and logistics firms ship to many markets. We screen counterparties and their owners against relevant restricted party lists and examine corporate links and trade patterns that may indicate diversion or transshipment risk, supporting compliance decisions without any access to non-public Chinese data."}
   ],
   "local_context": [
-    {
-      "title": "Courts in Fuzhou",
-      "text": "Fuzhou is the seat of the Fujian Higher People's Court, which hears appeals and major cases across the province, and the Fuzhou Intermediate People's Court, which handles significant commercial and foreign-related cases for the municipality. Maritime cases in Fujian fall under the Xiamen Maritime Court, which has reported thousands of maritime and commercial cases accepted since 2023 across Fujian's two levels of maritime adjudication. Published judgments are a lawful but incomplete source."
-    },
-    {
-      "title": "Arbitration in Fuzhou",
-      "text": "The Fuzhou Arbitration Commission administers domestic and foreign-related commercial arbitration in the city and has expanded its online arbitration information system. Larger international disputes involving Fujian parties may instead be referred to national institutions or to bodies in Xiamen, which hosts an international commercial court and a cross-Strait maritime dispute resolution centre. Investigative support is structured to the chosen institution's rules."
-    },
-    {
-      "title": "Registration and zone administration",
-      "text": "Companies in Fuzhou register with the local administration for market regulation, and core registration data, shareholders, administrative penalties and annual reports appear on the national enterprise credit information publicity system. Free trade zone and development zone authorities publish investment and policy notices. Beneficial ownership information collected by the authorities is not public, so ownership work relies on registered shareholders and corroborating sources."
-    },
-    {
-      "title": "Legal limits on investigation",
-      "text": "Mainland China has no licensing regime for private investigators, and obtaining or selling personal information without authorisation can be a criminal offence. The Personal Information Protection Law and data export rules restrict transfers of personal data outside China, and authorities have taken action against firms conducting business investigations. Work touching Fuzhou is therefore limited to lawful public sources and advice from Chinese counsel."
-    }
+    {"title": "Courts in Fuzhou", "text": "As the provincial capital, Fuzhou is the seat of the Fujian High People's Court, which oversees adjudication across the province, and of the Fuzhou Intermediate People's Court, which hears significant commercial cases for the municipality. Maritime cases in Fujian run through a two-level system of specialised maritime adjudication that, the High Court reported in August 2025, had accepted 7,045 maritime and commercial cases since 2023, involving more than 40 countries and regions. Published judgments are a lawful but incomplete source."},
+    {"title": "Financial justice and mediation", "text": "In 2025 the provincial authorities promoted several Fuzhou practices province-wide. They include a chamber of commerce dispute mediation alliance, Harmony in Fuzhou, led by the Fuzhou Intermediate People's Court, and a chain-based mechanism for financial disputes covering mediation, trial, enforcement and bankruptcy, supported by a Digital Finance Trial and Enforcement Center. Creditors should expect mediation to be encouraged before and during proceedings against Fuzhou businesses."},
+    {"title": "Arbitration in Fuzhou", "text": "The Fuzhou Arbitration Commission administers commercial arbitration in the city and has developed an online arbitration information system with remote hearings, online case enquiries and online mediation. Larger international disputes involving Fujian parties are often referred to national institutions instead, and Xiamen hosts an international commercial court within its intermediate court. Investigative support is structured to the chosen institution's rules and to the evidence counsel needs."},
+    {"title": "Registration and zone records", "text": "Companies in Fuzhou register with the local market regulation authorities, and core registration details appear in the national enterprise credit publicity system described on our China page. Free trade zone and development zone authorities publish investment notices and lists of leading enterprises. Beneficial ownership information held by authorities is not public, so ownership work relies on registered shareholders and corroborating sources, with gaps stated plainly."}
   ],
-  "tdsc_approach": "TDSC has no office in Fuzhou and handles Fuzhou matters from Nashville. We first confirm the purpose, such as supplier verification, a free trade zone investment, a cross-Strait ownership question or asset research for proceedings abroad, and screen the matter for export control and sanctions issues. Research is limited to lawful public sources: registration and credit publicity data, published judgments, zone notices, regulatory announcements and Chinese-language media. We do not obtain non-public personal information, use pretexting or conduct covert local inquiries. Where on-the-ground steps such as a factory visit are needed, they are arranged through the client, auditors or Chinese counsel, and personal data handling is reviewed against Chinese data export rules.",
+  "tdsc_approach": "TDSC has no office in Fuzhou and handles Fuzhou matters from Nashville. We first confirm the purpose, such as supplier verification, a free trade zone investment, a Taiwan-linked ownership question or support for a financial dispute, and screen the matter for export control and sanctions issues. Research is limited to lawful public sources: registration and credit publicity data, published judgments, zone notices, regulatory announcements and Chinese-language media. We do not obtain non-public personal information, use pretexting or conduct covert local inquiries. Where steps such as a factory visit are needed, they are arranged through the client, its auditors or Chinese counsel, and personal data handling is reviewed against Chinese data export rules.",
   "faqs": [
-    {
-      "q": "Can you confirm that a Fuzhou factory is who it claims to be?",
-      "a": "We compare the supplier's stated identity with its public registration record, check shareholders, scope of business, penalties, litigation and media, and look for signs that a trading company is presenting itself as a manufacturer. Physical verification, if needed, is arranged through the client's auditors or appropriate professionals advised by Chinese counsel."
-    },
-    {
-      "q": "Which courts hear disputes involving Fuzhou companies?",
-      "a": "Commercial cases are generally heard by the district courts and the Fuzhou Intermediate People's Court, with appeals to the Fujian Higher People's Court, both in Fuzhou. Maritime disputes go to the Xiamen Maritime Court system. Contracts may also provide for arbitration with the Fuzhou Arbitration Commission or another institution. Chinese counsel advises on forum."
-    },
-    {
-      "q": "Do you research Taiwan-invested businesses in Fuzhou?",
-      "a": "Yes. Many Fuzhou companies have shareholders in Taiwan, Hong Kong or elsewhere. We trace ownership through the public records available in each jurisdiction and Chinese-language media to show who ultimately controls a business, while noting gaps where offshore holding companies limit what can be confirmed."
-    },
-    {
-      "q": "Can you find assets in Fuzhou for a case in the United States?",
-      "a": "We can identify, through public registration data and published judgments, companies and shareholdings in Fuzhou connected to a party, which helps counsel judge whether recognition or evidence-taking in China is worthwhile. We cannot access bank, property or personal records that are not public, and any action in China is for Chinese lawyers."
-    },
-    {
-      "q": "Are there legal risks in commissioning due diligence on Fuzhou companies?",
-      "a": "Yes. China restricts collection of personal information and data transfers abroad, has no licensing regime for investigators, and has taken enforcement action against business investigation firms. We limit work to lawful public sources, avoid collecting unnecessary personal data and recommend that clients take Chinese legal advice before any inquiry involving people in China."
-    }
+    {"q": "Can you confirm that a Fuzhou factory is who it claims to be?", "a": "We compare the supplier's stated identity with its public registration record, check shareholders, business scope, penalties, litigation and media, and look for signs that a trading company is presenting itself as a manufacturer. Physical verification, if needed, is arranged through the client's auditors or appropriate professionals advised by Chinese counsel."},
+    {"q": "Which courts hear disputes involving Fuzhou companies?", "a": "Commercial cases are generally heard by the district courts and the Fuzhou Intermediate People's Court, with appeals to the Fujian High People's Court, both sitting in Fuzhou. Maritime disputes go through Fujian's specialised maritime courts. Contracts may instead provide for arbitration with the Fuzhou Arbitration Commission or another institution. Chinese counsel advises on forum."},
+    {"q": "Do you research Taiwan-invested businesses in Fuzhou?", "a": "Yes. Fuzhou has a Taiwan Merchant Investment Area, and many local companies have shareholders in Taiwan, Hong Kong or elsewhere. We trace ownership through the public records available in each jurisdiction and Chinese-language media, and we note where offshore holding companies limit what can be confirmed."},
+    {"q": "Should creditors expect mediation in Fuzhou proceedings?", "a": "Often, yes. The Fuzhou Intermediate People's Court leads a chamber of commerce mediation alliance, and the city's mechanism for financial disputes runs from mediation through trial, enforcement and bankruptcy. We help counsel prepare by documenting the debtor's corporate interests and related parties from public sources, which informs both negotiation and enforcement strategy."},
+    {"q": "Are there legal risks in commissioning due diligence on Fuzhou companies?", "a": "Yes. China restricts the collection of personal information and data transfers abroad, and we have not identified a licensing regime for private investigators. We limit work to lawful public sources, avoid collecting unnecessary personal data and recommend that clients take Chinese legal advice before any inquiry involving people in China."}
   ],
   "sources": [
-    {
-      "title": "Fujian Free-Trade Zone (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Fujian_Free-Trade_Zone"
-    },
-    {
-      "title": "Fujian Department of Commerce: Fuzhou Economic and Technological Development Zone",
-      "url": "https://fdi.swt.fujian.gov.cn/en/show-3462.html"
-    },
-    {
-      "title": "Fujian Department of Commerce: Fuzhou Bonded Zone",
-      "url": "https://fdi.swt.fujian.gov.cn/en/show-3476.html"
-    },
-    {
-      "title": "Fujian Department of Commerce: Several new functions added to the Fuzhou Arbitration Information System",
-      "url": "https://fdi.swt.fujian.gov.cn/en/show-12925.html"
-    },
-    {
-      "title": "World Ports: Since 2023 the two-level courts of Fujian maritime adjudication have accepted 7,045 maritime and commercial cases",
-      "url": "https://www.worldports.org/since-2023-the-two-level-courts-of-fujian-maritime-adjudication-have-accepted-7-045-various-types-of-maritime-and-commercial-cases"
-    },
-    {
-      "title": "China Justice Observer: Xiamen International Commercial Court holds its first hearing",
-      "url": "https://chinajusticeobserver.com/a/xiamen-international-commercial-court-holds-its-first-hearing"
-    },
-    {
-      "title": "China Services Info: China's first cross-Strait maritime dispute resolution center established in Xiamen (2023)",
-      "url": "https://chinaservicesinfo.com/s/202311/13/WS66b33bc1498ed2d7b7eb6206/chinas-first-cross-strait-maritime-dispute-resolution-center-established-in-xiamen.html"
-    },
-    {
-      "title": "Fujian Provincial Government: This is Fujian, regions (Fuzhou)",
-      "url": "https://fj.gov.cn/english/thisisfujian/regions/202501/t20250113_6699965.htm"
-    }
+    {"title": "Fujian Provincial Government: This is Fujian, regions (Fuzhou), May 2026", "url": "https://fj.gov.cn/english/thisisfujian/regions/202605/t20260509_7146071.htm"},
+    {"title": "China Daily Government: Fuzhou overview", "url": "https://govt.chinadaily.com.cn/s/202501/22/WS679055f0498eec7e1f72de85/fuzhou.html"},
+    {"title": "Fujian Department of Commerce: Fuzhou Bonded Area, Fuzhou Area of China (Fujian) Pilot Free Trade Zone", "url": "https://fdi.swt.fujian.gov.cn/en/show-3458.html"},
+    {"title": "China Daily Invest in China: Fuzhou Pilot Free Trade Zone (bonded port)", "url": "https://investinchina.chinadaily.com.cn/s/201812/20/WS5c7cda83498e27e338039793/fuzhou-pilot-free-trade-zone.html"},
+    {"title": "Fujian Department of Commerce: Fuzhou's 3 practices for business environment go provincewide (2025)", "url": "https://fdi.swt.fujian.gov.cn/en/show-28123.html"},
+    {"title": "Fujian Department of Commerce: Several new functions added to the Fuzhou Arbitration Information System (2022)", "url": "https://fdi.swt.fujian.gov.cn/en/show-12925.html"},
+    {"title": "World Ports: Since 2023 the two-level courts of Fujian maritime adjudication have accepted 7,045 cases", "url": "https://www.worldports.org/since-2023-the-two-level-courts-of-fujian-maritime-adjudication-have-accepted-7-045-various-types-of-maritime-and-commercial-cases"},
+    {"title": "Supreme People's Court Monitor: Summary chart on local international commercial tribunals (2026)", "url": "https://supremepeoplescourtmonitor.com/wp-content/uploads/2026/01/summary-chart-on-local-ic-tribunals-1.pdf"}
   ],
   "review_flags": [
-    "HELD: written from search-result titles only; re-verify before publishing",
-    "WebFetch hourly limit was reached before Fuzhou research: no page was opened. Sources are search-result titles only; all facts need verification.",
-    "Population (~8.5 million, 2024) is from general knowledge with no opened source; replace with a Fuzhou or Fujian statistics bureau figure. GDP deliberately omitted.",
-    "Stated from general knowledge: Fujian Higher People's Court and Fuzhou Intermediate People's Court seats; Xiamen Maritime Court jurisdiction over Fuzhou; Port of Fuzhou terminals (Mawei, Jiangyin); Changle airport; Fuqing/Changle administrative status; sectoral list; Pingtan's place in the FTZ; 2015 FTZ date (Wikipedia title only).",
-    "Statement that authorities have taken action against business investigation firms mirrors the CN country page flag (unsourced); verify or soften."
+    "Fujian High People's Court seat in Fuzhou is inferred (provincial capital; High Court officials reported from Fuzhou) rather than stated in an opened source.",
+    "Which maritime court covers Fuzhou (Xiamen Maritime Court and any Fuzhou tribunal) not confirmed; the Kluwer blog on the Xiamen Maritime Court was blocked, so the page refers only to Fujian's two-level maritime system.",
+    "GDP omitted: provincial pages give 1.23 trillion yuan (2023) and 1.51 trillion yuan (2025), a jump that 2024-25 growth rates do not explain; check before adding.",
+    "Airport, Mawei port area, Pingtan zone and overseas Chinese community links removed as unverified; FTZ launch year not confirmed (bonded port opened April 2014).",
+    "Fuzhou Arbitration Commission source dates from 2022; check current services."
   ],
-  "researched": "2026-11-04",
-  "hold": true
+  "researched": "2026-11-04"
 }

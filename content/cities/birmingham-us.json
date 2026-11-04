@@ -1,0 +1,57 @@
+{
+  "slug": "birmingham-us",
+  "name": "Birmingham (Alabama)",
+  "cc": "US",
+  "meta_description": "TDSC investigative consulting in matters touching Birmingham, Alabama: banking and insurance diligence, healthcare fraud research, industrial and asset work.",
+  "eyebrow": "Birmingham, Alabama, United States",
+  "hero_lede": "Birmingham is Alabama's main financial and medical centre, home to Regions Financial, a large university health system and a long industrial base. TDSC scopes investigative consulting from Nashville for Birmingham matters, using public records and coordinating Alabama-licensed investigators and counsel where local work is required.",
+  "intro": [
+    "Birmingham had about 198,000 residents in 2024, according to Census-based figures published by Data USA, and anchors a seven-county metropolitan area of about 1.12 million people. The region's economy is the most diversified in Alabama. Financial services are a leading employer, with Regions Financial headquartered in the city and Blue Cross Blue Shield of Alabama and Protective Life also significant. The University of Alabama at Birmingham, with roughly 20,000 employees, is the state's largest employer and directly supports about 5 percent of the local workforce. Heavy industry, utilities, materials, distribution and retail add to a base that grew from iron and steel production.",
+    "Organisations commission investigative work connected to Birmingham because regional banking, insurance, healthcare and industrial businesses concentrate there. Lenders and acquirers need to understand privately held manufacturers, contractors and family groups; insurers need claims and provider investigations; healthcare organisations and their counsel need research on billing, referral and vendor relationships around a large academic medical system. Industrial and environmental disputes, construction claims and creditor recoveries also generate demand for corporate, litigation and asset research. Alabama licenses private investigators through a state board, and records are held county by county, so work must be scoped with these constraints in mind."
+  ],
+  "economy": [
+    {"label": "Population", "value": "About 198,173 in the city (2024, Data USA from Census data)"},
+    {"label": "Metro area", "value": "About 1.12 million (2023, Regions Economic Update); seven counties including Jefferson and Shelby"},
+    {"label": "Key sectors", "value": "Banking and insurance, healthcare and medical research, heavy industry, utilities, retail and distribution"},
+    {"label": "Major institutions", "value": "Regions Financial (headquarters), UAB, Blue Cross Blue Shield of Alabama, Protective Life, Alabama Power"},
+    {"label": "Largest employer", "value": "University of Alabama at Birmingham, about 20,000 employees"},
+    {"label": "Principal county", "value": "Jefferson County"},
+    {"label": "Time zone", "value": "America/Chicago, UTC-6 (UTC-5 in summer)"},
+    {"label": "Language of business", "value": "English"}
+  ],
+  "matters": [
+    {"title": "Banking and lending counterparty research", "text": "Birmingham is a regional banking centre. We help lenders and their counsel examine borrowers, guarantors and related companies across Alabama and neighbouring states, reviewing entity records, judgments, liens, bankruptcies and litigation to test disclosures before credit decisions or workouts."},
+    {"title": "Healthcare provider and billing investigations", "text": "Birmingham's large medical sector brings questions about provider ownership, referral relationships, vendors and billing practices. We support counsel and compliance teams with corporate, licensing, litigation and exclusion-list research on practices, clinics and suppliers, within federal and state privacy constraints."},
+    {"title": "Insurance claims and provider checks", "text": "Insurers headquartered or active in Birmingham handle life, health and property claims across the Southeast. We provide background, corporate and asset research on claimants, providers and intermediaries, coordinating Alabama-licensed investigators where interviews or local inquiries are needed."},
+    {"title": "Industrial and construction disputes", "text": "Manufacturing, materials and construction remain important in the Birmingham region. We assist counsel in contract, environmental and construction disputes with corporate histories, prior litigation, regulatory actions and witness backgrounds, focusing on the companies and individuals the case turns on."},
+    {"title": "Asset research for judgment enforcement", "text": "Creditors pursuing debtors in the Birmingham area need to identify property, business interests and transfers. We work from county property and court records, entity filings and UCC records to map likely assets and connected entities, giving counsel a basis for enforcement steps."}
+  ],
+  "local_context": [
+    {"title": "Courts serving Birmingham", "text": "Federal civil and criminal cases arising in Birmingham are heard in the US District Court for the Northern District of Alabama, which sits in the city. State civil claims are heard in the Jefferson County Circuit Court. Appeals from federal court go to the Eleventh Circuit in Atlanta. Counsel decides the forum, and TDSC tailors research on parties, witnesses and corporate histories to the procedures involved."},
+    {"title": "Alabama investigator licensing", "text": "Alabama regulates private investigators under Chapter 25B of Title 34 of the Code of Alabama, administered by the Alabama Private Investigation Board. Applicants undergo state and FBI fingerprint checks. 2024 amendments extended the definition of an agency to firms using independent contractors, allowed administrative fines of up to $1,000 per day for unlicensed activity, and required licence numbers on advertising and invoices. TDSC coordinates Alabama-licensed investigators for any local work."},
+    {"title": "County records and property", "text": "Real property, court and many lien records in Alabama are maintained at county level, so Birmingham research usually covers Jefferson County and often Shelby County and other metro counties where people and companies hold assets. Business entities are registered with the Alabama Secretary of State. Coverage and online access vary by county and record type, so we confirm what is available before committing to timelines."},
+    {"title": "Financial and medical institutions", "text": "Regions Financial's headquarters and the presence of Blue Cross Blue Shield of Alabama and Protective Life make Birmingham the state's main financial-services centre. The University of Alabama at Birmingham is both the largest employer and a major research and clinical institution, with new genomic medicine facilities planned. These institutions shape much of the demand for compliance, vendor and employment-related investigations in the city."}
+  ],
+  "tdsc_approach": "TDSC has no office in Birmingham and works on Birmingham matters from Nashville. We first agree the purpose with the client's counsel, whether federal litigation in the Northern District of Alabama, a Jefferson County dispute, a loan workout, a healthcare compliance review or judgment enforcement, and scope the research to it. Sources include Alabama Secretary of State entity records, Jefferson and Shelby County property and court records, federal dockets, bankruptcy filings, regulatory actions and records in other states where the parties operate. Any fieldwork, surveillance or interviews in Alabama are carried out by investigators licensed by the Alabama Private Investigation Board, within the scope we set.",
+  "faqs": [
+    {"q": "Does an investigator need an Alabama licence to work in Birmingham?", "a": "Yes. Alabama licenses private investigators under Chapter 25B of Title 34 of the Code of Alabama, through the Alabama Private Investigation Board, and 2024 amendments increased penalties for unlicensed activity. TDSC does not hold an Alabama licence and coordinates Alabama-licensed investigators for any local work, with counsel confirming requirements."},
+    {"q": "Which county records matter for Birmingham research?", "a": "Birmingham lies mainly in Jefferson County, and many residents and businesses are in Shelby County and other metro counties. Property, court and lien records are maintained county by county, so we identify the counties connected to the person or business and search those, rather than relying on a single statewide index."},
+    {"q": "Can you help with healthcare compliance matters in Birmingham?", "a": "We support counsel and compliance teams with research on the ownership of practices and suppliers, licensing and disciplinary history, litigation, exclusion lists and media. We do not access patient records or protected health information outside lawful channels, and we agree the scope with counsel so that privacy rules are respected."},
+    {"q": "Can you research borrowers for a Birmingham lender?", "a": "Yes. We review entity filings, related companies, judgments, liens, UCC filings, bankruptcies and litigation in Alabama and other states where a borrower or guarantor operates. The aim is to test what the borrower disclosed and identify related parties or assets that matter to credit decisions, workouts or enforcement."},
+    {"q": "Where are federal cases from Birmingham heard?", "a": "Federal cases arising in Birmingham are heard by the US District Court for the Northern District of Alabama, with appeals to the Eleventh Circuit. We assist counsel with research on parties, witnesses and corporate histories, and with reviewing related federal dockets and bankruptcy filings across districts."}
+  ],
+  "sources": [
+    {"title": "Data USA: Birmingham, AL", "url": "https://datausa.io/profile/geo/16000US0107000"},
+    {"title": "Regions: Birmingham AL Metro Area Economic Update (Q3 2024)", "url": "https://www-b.regions.com/-/media/pdfs/about-regions/economic-update/metro-area-updates/Alabama-Birmingham.pdf"},
+    {"title": "Birmingham metropolitan area, Alabama (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Birmingham_metropolitan_area,_Alabama"},
+    {"title": "Alabama Private Investigation Board: Legislative Change 2024 (PDF)", "url": "https://www.apib.alabama.gov/PDF/2024/LegislativeChange.pdf"},
+    {"title": "Justia: Code of Alabama 34-25B-13 (2022)", "url": "https://law.justia.com/codes/alabama/2022/title-34/chapter-25b/section-34-25b-13/"}
+  ],
+  "review_flags": [
+    "City population (198,173, 2024) is via Data USA, not the Census QuickFacts page (which failed to load); metro population 1.12 million (2023) is from a Regions Bank economic update.",
+    "Board name 'Alabama Private Investigation Board' inferred from the apib.alabama.gov domain; the fetched pages did not state it in full.",
+    "Not verified from fetched sources (background knowledge): Northern District of Alabama sitting in Birmingham, Jefferson County Circuit Court, Alabama Secretary of State entity registration, county-level property and lien records.",
+    "UAB employee count (about 20,000) from Wikipedia; may be outdated."
+  ],
+  "researched": "2026-11-04"
+}

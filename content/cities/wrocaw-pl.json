@@ -1,0 +1,60 @@
+{
+  "slug": "wrocaw-pl",
+  "name": "Wrocław",
+  "cc": "PL",
+  "meta_description": "TDSC investigative consulting in matters touching Wrocław: battery and electronics supply chains, service centres, KRS records and Lower Silesia risk.",
+  "eyebrow": "Wrocław, Lower Silesia, Poland",
+  "hero_lede": "Investigative consulting for matters touching Wrocław, scoped from Nashville: research on suppliers and partners in Lower Silesia's battery, automotive and electronics supply chains, integrity issues in business services centres, and lawful fact-finding for counsel using Wrocław's commercial courts and registers.",
+  "intro": [
+    "Wrocław is the capital of Lower Silesia and one of Poland's leading business centres, with a population of about 893,500 and an agglomeration of around 1.2 million. Knight Frank, citing ABSL, reports some 71,100 people employed in business services in 2026, including 13,400 in research and development centres, and 1.35 million square metres of modern office space, the third-largest stock in Poland. Around the city, manufacturing has grown rapidly: LG Energy Solution's plant near Wrocław is described by the city's investor office as the largest electric vehicle battery plant in Europe, and ZF, Mercedes-Benz at Jawor and many electronics suppliers operate in the region.",
+    "Organisations commission investigative work connected to Wrocław because the region links global manufacturers to dense local supplier networks and large shared service operations. Buyers and integrators in battery, automotive and electronics supply chains need to know who owns and manages Polish suppliers, subcontractors and labour providers. Multinationals running finance, IT and procurement centres in the city face internal fraud, conflict-of-interest and data misuse risks. Korean, German and other foreign investors entering joint ventures or acquiring local businesses want reliable background on partners. Disputes arising from these relationships are frequently litigated in Wrocław's commercial courts, where company and insolvency records are also kept."
+  ],
+  "economy": [
+    {"label": "Population", "value": "About 893,500 (2024, as cited by Knight Frank); agglomeration about 1.2 million (2025)"},
+    {"label": "Business services", "value": "71,100 employed, including 13,400 in R&D centres (ABSL, 2026)"},
+    {"label": "Key sectors", "value": "Business services and IT, EV batteries, automotive, electronics, R&D"},
+    {"label": "Major investors", "value": "LG Energy Solution, ZF, Mercedes-Benz (Jawor), Diehl Controls"},
+    {"label": "Special economic zone", "value": "Legnica SEZ subzones near the city, including Środa Śląska and Miękinia"},
+    {"label": "Airport", "value": "Wrocław Airport, about 4.9 million passengers in 2025"},
+    {"label": "Time zone", "value": "Europe/Warsaw (UTC+1, UTC+2 in summer)"},
+    {"label": "Languages of business", "value": "Polish; English widely used in business services; Korean and German in investor networks"}
+  ],
+  "matters": [
+    {"title": "Battery and automotive supplier diligence", "text": "Background research on Lower Silesian suppliers, subcontractors and logistics providers serving battery and automotive plants, covering KRS records, ownership changes, related companies, insolvency history, litigation and media, so manufacturers can qualify suppliers and address supply chain due diligence obligations."},
+    {"title": "Labour provider and contractor checks", "text": "Research into temporary work agencies and labour contractors supplying large plants around Wrocław, including ownership, prior insolvencies, regulatory issues and reported labour complaints, supporting clients who must assess recruitment practices and forced-labour risk among their suppliers."},
+    {"title": "Business services centre internal investigations", "text": "Support to counsel and compliance teams investigating suspected procurement fraud, vendor collusion or misuse of data in Wrocław shared service and IT centres, focused on lawful research into vendors, their owners and links to employees, with findings documented for legal review."},
+    {"title": "Joint venture and acquisition background", "text": "Research on Polish partners, founders and target companies before foreign investors commit capital, examining corporate history, shareholders and board members, pledges, related entities, litigation and reputation in Polish-language sources, so investors understand exposure before signing."},
+    {"title": "Insolvency and creditor asset research", "text": "Assembling factual records for creditors and counsel when a Lower Silesian counterparty enters restructuring or bankruptcy, including KRS filings, the Register of Pledges, related companies, directors' other interests and publicly visible transfers that may justify further legal steps."}
+  ],
+  "local_context": [
+    {"title": "Commercial courts in Wrocław", "text": "Commercial cases in Wrocław are heard by economic divisions of the city's courts. The District Court for Wrocław-Fabryczna (Sąd Rejonowy dla Wrocławia-Fabrycznej) has economic divisions IV, V and XV, a bankruptcy and restructuring division (VIII), and higher-value disputes go to the Regional Court in Wrocław (Sąd Okręgowy we Wrocławiu), with appeals to the Court of Appeal in Wrocław. Insolvency and restructuring files for local debtors are a key source in creditor matters."},
+    {"title": "KRS and Register of Pledges", "text": "The District Court for Wrocław-Fabryczna houses two economic divisions of the National Court Register (VI and IX) and a division for the Register of Pledges (VII), which serves the appeal-court area. Company entries are searchable nationally online, but the local registry court files hold documents such as resolutions and applications. Registered pledges over shares, equipment and receivables can reveal financing relationships and encumbered assets."},
+    {"title": "Special economic zones", "text": "Much of the manufacturing around Wrocław sits in special economic zone subzones that offered tax incentives to investors. The Legnica SEZ's Środa Śląska and Miękinia subzone, about 10 kilometres from the city, covers 503 hectares; Intel's withdrawn plant site at Miękinia is now offered to other investors. Zone status and incentive conditions can be relevant when assessing an investor's commitments, employment pledges and local supplier relationships."},
+    {"title": "Foreign investor networks", "text": "Lower Silesia hosts about half of the roughly 550 Korean-capital companies in Poland, according to the City of Wrocław in 2025, many clustered around LG Energy Solution's battery plant. German automotive and electronics groups have an equally long presence. These networks create tiers of foreign-owned and Polish suppliers whose ownership, financing and labour arrangements can be hard to see from outside without Polish and foreign-language research."}
+  ],
+  "tdsc_approach": "For matters touching Wrocław, TDSC starts by placing the counterparty in its supply chain or corporate structure: which plant, centre or investor it serves and which Polish entities sit behind it. Research is conducted from Nashville using the National Court Register, the Register of Pledges, insolvency and court records, special economic zone and investor information, and Polish, English, German and Korean-language media where relevant. Poland licenses detective services, so any interviews, site visits or field enquiries in Lower Silesia are carried out by appropriately licensed Polish professionals coordinated with the client's Polish counsel. Personal data, including employee data in internal investigations, is handled in line with the GDPR and Polish law.",
+  "faqs": [
+    {"q": "Can you check a supplier to a battery plant near Wrocław?", "a": "Yes. We research its KRS history, shareholders and management, related companies, registered pledges, insolvency and court records, and Polish-language media. Where the supplier is part of a foreign group, we trace the parent and its principals. Technical audits, customs and export-control questions sit with the client's compliance team and specialists."},
+    {"q": "Where are Wrocław companies' registry files kept?", "a": "National Court Register entries can be searched online nationally, but the registry divisions for Wrocław sit in the District Court for Wrocław-Fabryczna, which also keeps the Register of Pledges for its appeal area. Documents filed with the registry court, such as resolutions, can add detail not shown in the online extract."},
+    {"q": "Can you help with an internal investigation at our Wrocław service centre?", "a": "We support counsel and compliance teams with lawful background research into vendors, their owners and their links to employees, and with organising findings for legal review. Monitoring or interviewing employees in Poland raises GDPR and labour law questions, so those steps are planned with Polish counsel and carried out by appropriate professionals."},
+    {"q": "Our Polish counterparty has entered restructuring. What can you find?", "a": "Restructuring and bankruptcy files at the Wrocław courts, KRS filings, the Register of Pledges and land and mortgage registers can show proceedings, secured creditors and encumbered assets. We combine these with research on directors' other companies and recent transfers, so counsel can decide whether further steps are warranted."},
+    {"q": "Does TDSC have an office in Wrocław?", "a": "No. TDSC is based in Nashville, Tennessee, and has no office or staff in Wrocław or elsewhere in Poland. Engagements touching Wrocław are scoped and managed from Nashville, with licensed Polish detective services and the client's Polish counsel engaged where local work or legal advice is needed."}
+  ],
+  "sources": [
+    {"title": "Knight Frank: Wrocław city attractiveness and office market H1 2026", "url": "https://content.knightfrank.com/research/2295/documents/en/wroclaw-city-attractiveness-and-office-market-h1-2026-13015.pdf"},
+    {"title": "Invest in Wrocław: Wrocław Electronic Industry Centre 2025", "url": "https://invest-in-wroclaw.pl/files/dokumenty/897851/WROC%C5%81AW%20ELECTRONIC%20INDUSTRY%20CENTRE%202025.pdf"},
+    {"title": "City of Wrocław: President leads economic mission to Korea (September 2025)", "url": "https://www.wroclaw.pl/przedsiebiorczy-wroclaw/prezydent-wroclawia-na-czele-misji-gospodarczej-do-republiki-korei-12-19-wrzesnia"},
+    {"title": "dlaJurysty: Sąd Rejonowy dla Wrocławia-Fabrycznej (divisions)", "url": "https://dlajurysty.pl/sady/sad/sr-dla-wroclawia-fabrycznej-we-wroclawiu"},
+    {"title": "Wikipedia: Common court (Poland)", "url": "https://en.wikipedia.org/wiki/Common_court_(Poland)"},
+    {"title": "Punkt Informacyjny KRK przy Sądzie Okręgowym we Wrocławiu", "url": "https://jakiwniosek.pl/instytucje/krajowy-rejestr-karny-krk/wroclaw/11282-punkt-informacyjny-krajowego-rejestru-karnego-przy-sadzie-okregowym-we-wroclawiu"}
+  ],
+  "review_flags": [
+    "Population 893,500 is cited by Knight Frank to the University of Wrocław (2024), not GUS; replace with a GUS figure if one is available.",
+    "Court of Appeal in Wrocław and the Regional Court's role for higher-value commercial cases stated from background knowledge; Wikipedia confirms only 11 appeal courts without naming them. Court division list is from dlajurysty.pl (updated April 2023) and may have changed.",
+    "Register of Pledges division VII at Wrocław-Fabryczna serving the appeal area is inferred from the division list plus Wikipedia's general statement; confirm.",
+    "Invest in Wrocław report gives conflicting LG Energy Solution employment and location figures (6,200 vs 7,000+; Kobierzyce vs Biskupice Podgórne); page avoids specific headcount.",
+    "Detective licensing reference relies on PL country page (flagged there as based on a 2020 consolidated text). Land and mortgage registers mentioned in an FAQ from background knowledge.",
+    "No arbitration centre in Wrocław verified; none named."
+  ],
+  "researched": "2026-11-04"
+}

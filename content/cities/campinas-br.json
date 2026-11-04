@@ -1,0 +1,59 @@
+{
+  "slug": "campinas-br",
+  "name": "Campinas",
+  "cc": "BR",
+  "meta_description": "TDSC investigative consulting in matters touching Campinas: technology and industrial counterparties, Viracopos logistics, labour court and asset research.",
+  "eyebrow": "Campinas, São Paulo, Brazil",
+  "hero_lede": "Investigative consulting for matters touching Campinas, scoped from Nashville: background research on technology, pharmaceutical and industrial counterparties in São Paulo's interior, supply chain questions around Viracopos airport, and factual support for counsel in labour, commercial and recovery matters.",
+  "intro": [
+    "Campinas is one of Brazil's largest economies outside the state capitals. Its population was 1,139,047 in the 2022 census and is estimated at about 1.19 million in 2024, and it anchors a metropolitan region of twenty municipalities. Reporting on IBGE's municipal GDP series puts the city's GDP at about 97.5 billion reais in 2023, eleventh in Brazil and ahead of many state capitals. The city hosts more than 50,000 companies, multinationals such as Bosch, IBM, Dell and Honda, and a research base that includes Unicamp, the CPqD telecommunications centre and CNPEM. Neighbouring Paulínia is a petrochemical hub, and Viracopos International Airport is one of the country's main air cargo terminals.",
+    "Organisations commission investigative work connected to Campinas because it is where much of Brazil's technology manufacturing, pharmaceuticals, automotive supply and high-value air freight is concentrated. Multinationals need to vet distributors, contract manufacturers and service providers, and to investigate fraud or conflicts of interest inside local subsidiaries. Air cargo flows through Viracopos bring exposure to cargo theft, misdeclared shipments and intermediaries whose ownership is unclear. Brazil's labour courts are active, and Campinas is the seat of a regional labour court covering much of São Paulo state, so employers often need facts about former employees, contractors and claimants. Creditors also need sourced asset research on debtors with interests across the interior of São Paulo."
+  ],
+  "economy": [
+    {"label": "Population", "value": "1,139,047 (IBGE Census 2022); about 1.19 million estimated (2024)"},
+    {"label": "Metro area", "value": "Região Metropolitana de Campinas, 20 municipalities"},
+    {"label": "Economic output", "value": "GDP about R$97.5 billion (2023, IBGE municipal GDP as reported)"},
+    {"label": "Key sectors", "value": "Technology, pharmaceuticals, automotive, metalworking, agro-industry, petrochemicals (Paulínia), logistics"},
+    {"label": "Airport", "value": "Viracopos International, major air cargo hub"},
+    {"label": "Research base", "value": "Unicamp, CPqD, CNPEM"},
+    {"label": "Time zone", "value": "America/Sao_Paulo (UTC-3, no daylight saving)"},
+    {"label": "Language of business", "value": "Portuguese"}
+  ],
+  "matters": [
+    {"title": "Technology and pharmaceutical partner vetting", "text": "Background research on distributors, contract manufacturers and service providers in the Campinas region before agreements are signed, covering corporate registration, partners and administrators, related companies, litigation, labour claims and Portuguese-language media, so clients understand who they are dealing with and any reputational issues."},
+    {"title": "Air cargo and logistics intermediaries", "text": "Research into freight forwarders, customs brokers, bonded warehouses and transport companies linked to shipments through Viracopos, testing ownership, operating history and links to prior cargo theft, smuggling or fraud cases, to support supply chain security reviews and insurance or loss investigations."},
+    {"title": "Subsidiary fraud and conflicts", "text": "Support to internal investigations at Campinas operations where kickbacks, ghost vendors or undisclosed conflicts of interest are suspected, through lawful research into suppliers, their partners and their connections with employees, coordinated with Brazilian counsel on evidence handling and labour-law constraints."},
+    {"title": "Labour claim fact-finding", "text": "Factual research supporting employers and counsel in labour proceedings before the regional labour court seated in Campinas, such as checking a claimant's other business activities, company interests or prior claims in public records, where relevant and proportionate to the defence."},
+    {"title": "Asset research for recovery", "text": "Assembling public-record information on debtors and their principals across Campinas and the São Paulo interior, including company holdings filed with the state commercial registry, litigation and judgments, and indications of transfers to related parties, before counsel pursues enforcement in Brazilian courts."}
+  ],
+  "local_context": [
+    {"title": "Regional labour court seat", "text": "Campinas is the seat of the Tribunal Regional do Trabalho da 15ª Região, headquartered on Rua Barão de Jaguara in the city centre. The court covers 153 labour courts (varas do trabalho) organised in eight districts across the São Paulo interior, has 70 appellate judge positions and more than 3,000 staff, and the Campinas labour forum alone houses twelve varas. Labour judgments are an important public source on companies operating in the region."},
+    {"title": "State courts and registry", "text": "Civil and commercial disputes in Campinas are heard by the São Paulo state courts in the Comarca de Campinas, with appeals to the Tribunal de Justiça de São Paulo. Companies seated in the city file their acts with the Junta Comercial do Estado de São Paulo, where articles, amendments and changes of partners and administrators are recorded. Combining state court searches with commercial registry filings gives a fuller picture of a counterparty."},
+    {"title": "Innovation and research institutions", "text": "Unicamp, with more than 33,000 students, is reported to produce about 15 percent of Brazil's scientific output and to lead public institutions in patents, and it operates a science park hosting startups and incubated companies. CPqD and CNPEM, home of the Sirius synchrotron, complete the research base. Partnerships, spin-outs and licensing arrangements here can raise questions about ownership of technology and the backgrounds of investors."},
+    {"title": "Viracopos and the logistics corridor", "text": "Viracopos International Airport, about 17 kilometres from the city centre, handles a large share of Brazil's air cargo, and the city sits on the Anhanguera, Bandeirantes, Dom Pedro I and Santos Dumont highways. Municipal planning documents identify logistics, science and technology, business tourism and defence as growth pillars. High-value freight and dense trucking routes make cargo security and intermediary vetting recurring concerns for companies with regional supply chains."}
+  ],
+  "tdsc_approach": "For matters touching Campinas, TDSC first defines the decision the client faces, whether a partnership, a supply chain concern, a labour dispute or a recovery, and identifies the Brazilian records that bear on it. Research is conducted from Nashville using federal tax registration data, São Paulo commercial registry filings, state court and regional labour court records, and Portuguese-language open sources. Brazil regulates private detectives under Law 13.432 of 2017, and the LGPD governs personal data, so any interviews, site visits or field enquiries in the region are carried out by qualified local professionals coordinated by TDSC with the client's Brazilian counsel, who advise on lawful basis and evidential use. Findings are reported with their sources.",
+  "faqs": [
+    {"q": "Can you research a Campinas distributor before we appoint it?", "a": "Yes. We review the distributor's registration, partners and administrators, related companies, litigation in São Paulo state courts, claims in the regional labour court and media coverage. Where partners have links to other businesses or to public officials, we map those connections. Contractual and compliance conclusions remain with the client and its Brazilian counsel."},
+    {"q": "Why do labour court records matter for Campinas companies?", "a": "Campinas is the seat of the regional labour court covering much of the São Paulo interior, and labour claims are frequent in Brazil. Judgments and filings can reveal a company's real operations, its treatment of workers, use of intermediaries and links to other entities. We research these records as part of counterparty and investigative work."},
+    {"q": "How do you support a cargo loss involving Viracopos?", "a": "We research the forwarders, brokers, warehouses and carriers involved, their ownership and history, and any public links to prior thefts or fraud cases. That helps insurers, owners and counsel decide where to focus. Physical inspections, interviews and police liaison are handled by qualified local professionals and counsel."},
+    {"q": "What can public records show about a debtor in the São Paulo interior?", "a": "Commercial registry filings show company holdings and roles, and court records show claims and judgments against the debtor and related companies. Property and bank information generally requires steps through counsel and the courts. We combine available records and open sources into a sourced report and state clearly what could not be established."},
+    {"q": "Does TDSC have an office in Campinas?", "a": "No. TDSC is based in Nashville, Tennessee, and has no office or staff in Campinas or elsewhere in Brazil. Engagements touching the city are scoped and managed from Nashville, with qualified Brazilian professionals and the client's local counsel engaged where field work or legal advice is needed."}
+  ],
+  "sources": [
+    {"title": "Click Petróleo e Gás: Campinas, more than 50,000 companies and one of Brazil's largest industrial hubs", "url": "https://clickpetroleoegas.com.br/voce-sabia-cidade-do-interior-de-sp-acumula-mais-de-50-mil-empresas-incluindo-gigantes-globais-e-se-consolida-como-um-dos-maiores-polos-industriais-do-brasil-afch/"},
+    {"title": "O Antagonista: A cidade do interior que produz mais riqueza que 19 capitais (IBGE PIB dos Municípios)", "url": "https://oantagonista.com.br/ladooa/turismo/a-cidade-do-interior-que-produz-mais-riqueza-que-19-capitais-brasileiras-juntas/"},
+    {"title": "TRT da 15ª Região: Informações das sedes", "url": "https://trt15.jus.br/contato/informacoes-das-sedes"},
+    {"title": "TRT da 15ª Região: Nossas unidades", "url": "https://trt15.jus.br/institucional/estrutura-do-tribunal/nossas-unidades"},
+    {"title": "Prefeitura de Campinas, Plano Diretor: DESEC economic report", "url": "https://planodiretor.campinas.sp.gov.br/timeline/timeline/24_materiais_recebidos_leitura_cidade/desec_relatorio_plano_diretor.pdf"}
+  ],
+  "review_flags": [
+    "Population and GDP figures come from secondary press articles citing IBGE (no IBGE page opened); verify against IBGE Cidades before publication.",
+    "Metro region of 20 municipalities seen only in a search-result title (gazetasp.com.br page failed to load).",
+    "Viracopos cargo share figures in sources vary and are undated (one source says ~18% of national air cargo, older city report says largest cargo airport in Latin America); text kept general.",
+    "TJSP/Comarca de Campinas, JUCESP filing, and any regional business court for the Campinas region not verified this session; no arbitration chamber in Campinas verified.",
+    "City planning PDF (Prefeitura SMDETI Plano Diretor Estratégico) blocked by permission timeout and not used.",
+    "Only 5 sources; two are secondary press."
+  ],
+  "researched": "2026-11-04"
+}

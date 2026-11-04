@@ -1,0 +1,139 @@
+{
+  "slug": "ciudad-juarez-mx",
+  "name": "Ciudad Juárez",
+  "cc": "MX",
+  "meta_description": "TDSC investigative consulting in matters touching Ciudad Juárez: maquiladora supplier diligence, IMMEX and trade compliance, cross-border fraud research.",
+  "eyebrow": "Ciudad Juárez, Chihuahua, Mexico",
+  "hero_lede": "Ciudad Juárez is one of Mexico's largest export manufacturing centres, with more than 330 IMMEX plants facing El Paso across the border. TDSC scopes investigative consulting from Nashville for Juárez matters, using lawful public sources and coordinating authorised local professionals and Mexican counsel where work on the ground is required.",
+  "intro": [
+    "Ciudad Juárez forms, with El Paso and Las Cruces, a cross-border region of about 2.7 million people. Its economy is dominated by export manufacturing under Mexico's IMMEX programme: industry sources counted 334 IMMEX establishments in October 2025, and manufacturing accounts for over 60 percent of formal employment. The Federal Reserve Bank of Dallas reports that maquiladora employment fell from about 317,000 in August 2023 to 259,500 in August 2025 as labour-intensive vehicle wire harness work moved elsewhere and electronics, server and medical device production grew. Juárez and Chihuahua accounted for almost two-thirds of Mexico's exports of automatic data processing machines in 2024. Several commercial crossings link the city to Texas and New Mexico.",
+    "Organisations commission investigative work connected to Juárez because North American supply chains depend on its plants, shelter operators, suppliers and logistics providers. Manufacturers moving production to the city need to understand landlords, contractors and local partners; buyers and auditors need assurance about tier-two suppliers, labour practices and customs compliance as IMMEX audits and US tariff rules tighten. Cross-border freight creates exposure to cargo theft, diversion and trade fraud. Rapid workforce changes bring employment disputes and internal investigations. Security conditions in the city also mean that any fieldwork must be planned carefully and handled through properly authorised local professionals."
+  ],
+  "economy": [
+    {
+      "label": "Regional population",
+      "value": "About 2.7 million in the El Paso-Juárez-Las Cruces region (Borderplex figure via American Industries Group)"
+    },
+    {
+      "label": "IMMEX plants",
+      "value": "334 establishments (October 2025, INEGI data via American Industries Group)"
+    },
+    {
+      "label": "Maquiladora employment",
+      "value": "About 259,500 (August 2025), down from 317,000 in August 2023 (Dallas Fed)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Electronics and servers, medical devices, automotive components, logistics"
+    },
+    {
+      "label": "Border trade",
+      "value": "About 837,000 northbound commercial vehicle crossings (2024); bridges to El Paso and Santa Teresa"
+    },
+    {
+      "label": "Industrial base",
+      "value": "40+ industrial parks; firms include Foxconn, Wistron, Medline, Becton Dickinson, ZF"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Ciudad_Juarez, UTC-7 (UTC-6 in summer, aligned with El Paso)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Spanish; English common in plant management and cross-border trade"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Maquiladora supplier and partner diligence",
+      "text": "Companies sourcing from or establishing operations in Juárez rely on local suppliers, contractors and landlords. We review ownership, commercial register entries, litigation, tax-related public lists and adverse media to identify undisclosed related parties, financial distress or reputational issues before contracts or leases are signed."
+    },
+    {
+      "title": "IMMEX and trade compliance research",
+      "text": "Stricter IMMEX audits and US tariff rules on non-USMCA inputs increase scrutiny of suppliers and origin claims. We support counsel and compliance teams with research on counterparties, related entities and public enforcement records, helping test supply chain documentation and supplier representations."
+    },
+    {
+      "title": "Cargo theft and cross-border diversion",
+      "text": "Freight moving through the Juárez-El Paso crossings is exposed to theft, diversion and fraudulent carriers. We investigate carriers, brokers and warehouse operators on both sides of the border, examining ownership, licensing, prior incidents and links to other parties, and coordinate authorised professionals for local inquiries."
+    },
+    {
+      "title": "Workforce and internal investigations",
+      "text": "Rapid shifts in plant employment bring disputes, misconduct allegations and procurement irregularities inside manufacturing operations. We support counsel with document review, background research on vendors and employees within Mexican data protection rules, and interviews conducted by authorised local professionals where appropriate."
+    },
+    {
+      "title": "Shelter, landlord and real estate checks",
+      "text": "Industrial park owners, shelter operators and developers play a central role in Juárez expansion. We research the companies and individuals behind them, related entities, property-related litigation and any public enforcement history, so investors and manufacturers understand who they are dealing with."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Chihuahua private security law",
+      "text": "Chihuahua's Ley de Seguridad Privada para el Estado de Chihuahua (2012, reformed 2018) covers services to obtain reports on the background, solvency, location or activities of persons, and states that authorisation does not permit providers to investigate criminal matters. The published law names the State Attorney General's Office as the authority; 2026 reporting describes the State Public Security Secretariat registering 520 companies, 230 operating in Juárez."
+    },
+    {
+      "title": "Courts and judicial district",
+      "text": "Ciudad Juárez is the seat of state courts serving northern Chihuahua and of federal courts that hear commercial, amparo and federal criminal matters. Commercial disputes may be brought in state or federal courts depending on the claim. Mexican counsel determines forum and procedure; TDSC supports counsel with factual research on parties, assets and corporate histories. Court files are generally available only to parties and their lawyers, which limits what public research can show."
+    },
+    {
+      "title": "Property and commerce registry",
+      "text": "Chihuahua operates a state Public Registry of Property under its own Ley del Registro Público de la Propiedad del Estado de Chihuahua, with a regional office serving Juárez. Commercial company records are also accessible through the federal SIGER system described on our Mexico page. Registry entries may lag behind actual changes, so we corroborate with other sources. Certified copies are requested through counsel or authorised agents where needed."
+    },
+    {
+      "title": "Border and trade institutions",
+      "text": "Juárez's trade depends on customs facilities at its international bridges and on the IMMEX programme, which allows temporary import of inputs for export manufacturing subject to federal audits. US tariff policy and the 2026 USMCA review are reshaping the city's sector mix, according to the Federal Reserve Bank of Dallas. Cross-border matters often require coordinated research in Chihuahua, Texas and New Mexico."
+    }
+  ],
+  "tdsc_approach": "TDSC has no office in Ciudad Juárez and works on Juárez matters from Nashville. We first agree the purpose with the client and its Mexican counsel, whether supplier onboarding, an IMMEX or customs question, a cargo loss, an internal investigation or a commercial dispute, and scope the research to it. Sources include the federal SIGER commercial registry, Chihuahua property registry information where obtainable, published court and enforcement records, Mexican and US media, and records in Texas and New Mexico. Every matter is screened for sanctions and designated-party exposure. Any local inquiries are carried out by professionals authorised under Chihuahua's private security law, with security planning agreed in advance.",
+  "faqs": [
+    {
+      "q": "Do investigators need authorisation to work in Ciudad Juárez?",
+      "a": "Chihuahua's private security law covers services that obtain reports on the background, solvency, location or activities of persons, and providers need state authorisation. Reporting in 2026 describes 520 registered companies, 230 in Juárez. TDSC is not authorised in Mexico and coordinates authorised local professionals, with Mexican counsel confirming requirements."
+    },
+    {
+      "q": "Can you vet a maquiladora supplier or shelter operator in Juárez?",
+      "a": "Yes. We review commercial registry entries, shareholders and officers where recorded, related companies, litigation, public tax and enforcement lists and Spanish and English media. Because registry updates can lag, we corroborate ownership and management with other sources and state the confidence level of each finding."
+    },
+    {
+      "q": "How do you handle cargo theft involving the Juárez-El Paso crossings?",
+      "a": "We research the carriers, brokers and warehouse operators involved on both sides of the border, including ownership, licensing, prior incidents and links between companies. Findings support the client's counsel, insurer and any law enforcement reporting. Local inquiries in Juárez are handled by authorised professionals under agreed security arrangements."
+    },
+    {
+      "q": "Does TDSC send its own staff to Ciudad Juárez?",
+      "a": "No. TDSC works from Nashville and has no staff in Mexico. Where interviews, site visits or other local work are needed, we coordinate appropriately authorised Mexican professionals, agree security arrangements in advance and keep their work within the scope set with the client and counsel."
+    },
+    {
+      "q": "Why do IMMEX audits matter for due diligence?",
+      "a": "IMMEX allows temporary imports of inputs for export manufacturing, and tighter Mexican audits and US tariff rules on non-USMCA inputs have increased scrutiny of supply chains. Research on suppliers and related parties helps counsel test origin and compliance representations. We do not give customs or legal advice; counsel interprets the findings."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Federal Reserve Bank of Dallas: Southwest Economy 2026 (Juárez manufacturing)",
+      "url": "https://www.dallasfed.org/research/swe/2026/swe2607"
+    },
+    {
+      "title": "American Industries Group: Ciudad Juárez, Heart of Mexico's Maquila Industry",
+      "url": "https://hub.americanindustriesgroup.com/insights/ciudad-juarez-heart-mexico-maquila-industry/"
+    },
+    {
+      "title": "Justia México: Ley de Seguridad Privada para el Estado de Chihuahua",
+      "url": "https://mexico.justia.com/estatales/chihuahua/leyes/ley-de-seguridad-privada-para-el-estado-de-chihuahua"
+    },
+    {
+      "title": "N+ Chihuahua: Chihuahua cuenta con 520 empresas de seguridad privada registradas ante la SSPE (2026)",
+      "url": "https://www.nmas.com.mx/chihuahua/seguridad/chihuahua-cuenta-con-520-empresas-de-seguridad-privada-registradas-ante-la-sspe/"
+    },
+    {
+      "title": "Justia México: Ley del Registro Público de la Propiedad del Estado de Chihuahua",
+      "url": "https://mexico.justia.com/estatales/chihuahua/leyes/ley-del-registro-publico-de-la-propiedad-del-estado-de-chihuahua/"
+    }
+  ],
+  "review_flags": [
+    "No INEGI or World Bank population figure for Juárez was found; only a 2.7 million cross-border regional figure (Borderplex via an industrial real estate firm). Add the INEGI 2020 census figure before publishing.",
+    "Authority conflict: the 2012 Chihuahua private security law (last reform shown 2018) names the Fiscalía General del Estado, while October 2026 reporting says the SSPE registers and supervises companies. Confirm the current competent authority.",
+    "Registry law link appeared in search results but was not opened; Juárez regional registry office and the courts in Juárez (state district and federal courts) are stated from background knowledge, kept generic.",
+    "IMMEX counts, employment and company list come from an industrial park operator (American Industries Group), not directly from INEGI.",
+    "Time zone: Juárez uses America/Ciudad_Juarez aligned with US Mountain Time since 2022 (background knowledge); verify."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,141 @@
+{
+  "slug": "nagoya-jp",
+  "name": "Nagoya",
+  "cc": "JP",
+  "meta_description": "TDSC investigative consulting in matters touching Nagoya: automotive supply chain diligence, technology leakage and supplier integrity in Aichi.",
+  "eyebrow": "Aichi Prefecture, Japan",
+  "hero_lede": "Nagoya is the capital of Aichi Prefecture and the commercial centre of Japan's leading manufacturing region, built around automotive, aerospace, machinery and ceramics groups. TDSC scopes Nagoya matters around supply chain diligence, technology and know-how leakage, supplier integrity and research for disputes before the region's courts.",
+  "intro": [
+    "Nagoya is the capital of Aichi Prefecture and the largest city of the Chubu region, with about 2.28 million residents in a prefecture of about 7.5 million. Aichi ranks first of Japan's 47 prefectures by value of manufacturing shipments, about 52.4 trillion yen in 2023, and first by manufacturing employment. The automotive cluster around Toyota Motor, Denso and Aisin dominates, supported by thousands of specialised small and mid-sized suppliers, while Nagoya itself hosts companies such as NGK Insulators, Brother Industries, Daido Steel and Kagome. The Port of Nagoya handles the largest total cargo volume in Japan, Chubu Centrair International Airport operates around the clock, and the Nagoya Stock Exchange is the country's second exchange.",
+    "Organisations commission investigative work connected to Nagoya because the region's value lies in precision manufacturing, deep supplier tiers and engineering know-how. Foreign buyers, investors and customers need to understand who owns and controls mid-sized suppliers, many of them family businesses with long relationships to a single carmaker. Technology, drawings and process knowledge can leave with employees or through overseas joint ventures. Global sourcing exposes Aichi manufacturers to counterparties in China, Southeast Asia and North America whose integrity and export-control compliance must be checked. Warranty, quality and supply disputes, insolvencies in lower supplier tiers and distribution conflicts all call for careful factual research in Japanese and English."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "2,277,351 city (1 November 2014, JETRO); Aichi Prefecture 7,542,415 (2020 Census)"
+    },
+    {
+      "label": "Manufacturing",
+      "value": "Aichi first in Japan by manufacturing shipments, about 52.4 trillion yen (2023)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Automotive and parts, machinery, aerospace, steel, ceramics and insulators, wholesale and retail"
+    },
+    {
+      "label": "Major companies",
+      "value": "Toyota Motor, Denso and Aisin in Aichi; NGK Insulators, Brother Industries, Daido Steel and Kagome in Nagoya"
+    },
+    {
+      "label": "Exchange",
+      "value": "Nagoya Stock Exchange, Japan's second exchange after Tokyo"
+    },
+    {
+      "label": "Port and airport",
+      "value": "Port of Nagoya, Japan's largest by total cargo volume; Chubu Centrair International Airport (24-hour)"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Tokyo, UTC+9 (JST), no daylight saving time"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Japanese; English used in larger exporters, less so in lower supplier tiers"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Automotive supplier acquisition diligence",
+      "text": "Researching Aichi parts and machinery suppliers before acquisition, investment or a strategic supply contract, covering ownership and family control, cross-shareholdings, customer concentration, related-party companies, litigation and insolvency history and adverse media, using commercial registry extracts and Japanese-language sources."
+    },
+    {
+      "title": "Technology and know-how leakage",
+      "text": "Supporting counsel where drawings, process data or tooling designs from a Nagoya-area manufacturer appear at a competitor or overseas supplier, by researching departing engineers, new ventures and corporate links, and coordinating forensic specialists so findings can support claims under Japan's unfair competition rules."
+    },
+    {
+      "title": "Overseas joint venture and partner checks",
+      "text": "Reviewing joint venture partners, distributors and contract manufacturers of Aichi companies in China, Southeast Asia, India and the Americas for beneficial ownership, government links, export-control and sanctions exposure, and past disputes, before agreements are signed or renewed."
+    },
+    {
+      "title": "Supplier integrity and procurement fraud",
+      "text": "Investigating suspected kickbacks, undisclosed interests and inflated pricing in the purchasing functions of manufacturers in the Chubu region, mapping links between suppliers and employees through corporate records and open sources, and supporting internal investigations led by the client's legal team."
+    },
+    {
+      "title": "Quality and supply dispute support",
+      "text": "Assisting counsel in warranty, recall and supply interruption disputes involving Nagoya-area manufacturers, with research on the parties' corporate histories, asset positions, related companies and prior disputes, for litigation before the Nagoya courts or arbitration. Findings are reported with sources so counsel can test them."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Nagoya District and High Courts",
+      "text": "Nagoya is the seat of the Nagoya District Court, the court of first instance for most civil and commercial cases in Aichi, and of the Nagoya High Court, one of Japan's eight regional high courts, which hears appeals from district courts in central Japan. Specialist commercial, insolvency and intellectual property divisions on the Tokyo model are concentrated in the capital, so some patent matters arising in Aichi are litigated in Tokyo."
+    },
+    {
+      "title": "Nagoya Stock Exchange",
+      "text": "The Nagoya Stock Exchange traces its origins to 1886, was reorganised as a member corporation in 1949 and demutualised in 2002. It is Japan's second exchange, and several regional companies hold listings there alongside or instead of Tokyo, although trading concentrates in Tokyo. Its listings and disclosures are a useful source on Chubu companies that receive little national or international coverage."
+    },
+    {
+      "title": "Chubu Bureau of METI",
+      "text": "The Chubu Bureau of Economy, Trade and Industry, the regional branch of the Ministry of Economy, Trade and Industry, is based in Nagoya. It implements national industrial and trade policy for Aichi, Gifu, Mie, Toyama and Ishikawa, and covers a wider area for electricity and gas. Its regional data and programmes, including on supply chains and smaller manufacturers, are relevant background for diligence on the region's companies."
+    },
+    {
+      "title": "Registries and business bodies",
+      "text": "Company and real property registrations for Aichi are handled by the Nagoya Legal Affairs Bureau and its branches under the Ministry of Justice, with registry extracts also available online through the national system. The Nagoya Chamber of Commerce and Industry and industry associations publish member and sector information. Credit research reports from Japanese providers are widely used for suppliers that publish limited accounts."
+    }
+  ],
+  "tdsc_approach": "TDSC handles Nagoya matters from Nashville and has no office or staff in Japan. Engagements start with the business question, such as who controls a second-tier supplier or how a design reached a competitor, and then map lawful sources: commercial and real property registry extracts, Nagoya Stock Exchange and other disclosures, court records where accessible, Japanese credit reports, trade and industry publications, and Japanese-language media. Where enquiries or interviews are needed in Aichi, TDSC coordinates detective businesses that have filed the notification required under Japanese law, and agrees methods with the client's Japanese counsel. Personal information is handled under the Act on the Protection of Personal Information, and reports distinguish verified facts from inference.",
+  "faqs": [
+    {
+      "q": "Can TDSC identify who owns a mid-sized Aichi supplier?",
+      "a": "Often in part. Commercial registry extracts show directors, representative directors, capital and registered address, but not shareholders of unlisted companies. Ownership is therefore built from disclosures, credit reports, customer and group publications, media and family or cross-shareholding links, and reports state clearly which owners are confirmed and which are inferred."
+    },
+    {
+      "q": "Where are commercial disputes involving Nagoya companies heard?",
+      "a": "Most civil and commercial cases go first to the Nagoya District Court, with appeals to the Nagoya High Court. Some patent and specialist commercial matters are brought in Tokyo, and many international supply contracts provide for arbitration. TDSC supports the client's counsel with factual research in whichever forum is chosen."
+    },
+    {
+      "q": "Can you help when know-how leaves with an engineer?",
+      "a": "TDSC can research the engineer's new employer or venture, corporate links to competitors or overseas suppliers, patent filings and public statements, and coordinate digital forensic specialists to examine company devices with proper authority. The work is scoped with Japanese counsel so evidence can support unfair competition or contractual claims."
+    },
+    {
+      "q": "Does TDSC carry out interviews or observation in Nagoya?",
+      "a": "Not directly. TDSC has no Japanese presence. Registry and open-source work is done from Nashville, and any local enquiries, interviews or observation are carried out by Japanese detective businesses operating under the national notification regime, to a written scope agreed with the client and its counsel and consistent with Japanese privacy rules."
+    },
+    {
+      "q": "Is research in Japanese essential for Nagoya matters?",
+      "a": "Yes. Many Aichi suppliers publish little in English, and registry extracts, local press, industry directories and court information are in Japanese. TDSC works with Japanese-language researchers and translators, notes the original wording where it matters, and flags where English translations of company or personal names may vary."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Aichi Prefecture: Why Aichi",
+      "url": "https://www.pref.aichi.jp/ricchitsusho/en/why_aichi"
+    },
+    {
+      "title": "JETRO: Local Report, Nagoya City, Aichi Prefecture (December 2014)",
+      "url": "https://www.jetro.go.jp/ext_images/usa/pdf/industry/141222_jetro_localreport_nagoya2.pdf"
+    },
+    {
+      "title": "Wikipedia: Nagoya Stock Exchange",
+      "url": "https://en.wikipedia.org/wiki/Nagoya_Stock_Exchange"
+    },
+    {
+      "title": "Nagoya Stock Exchange: links",
+      "url": "https://www.nse.or.jp/e/syokai/e-link/"
+    },
+    {
+      "title": "METI Chubu Bureau of Economy, Trade and Industry: About",
+      "url": "https://www.chubu.meti.go.jp/english/about/index.html"
+    },
+    {
+      "title": "Wikipedia: Judiciary of Japan",
+      "url": "https://en.wikipedia.org/wiki/Judiciary_of_Japan"
+    }
+  ],
+  "review_flags": [
+    "City population is the JETRO figure for 1 November 2014 (2,277,351); no current official Nagoya city figure was found within the search budget. Update from Nagoya City or the Statistics Bureau.",
+    "Nagoya Legal Affairs Bureau, Nagoya Chamber of Commerce and Industry, the Nagoya High Court's geographic coverage, and the statement that some Aichi patent cases go to Tokyo are general knowledge, not verified against an opened source.",
+    "Toyota, Denso and Aisin are located in Aichi (Toyota City, Kariya), not Nagoya city; copy says 'in Aichi' accordingly. No Nagoya-specific arbitration centre was verified, so none is named."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "yangon-mm",
+  "name": "Yangon",
+  "cc": "MM",
+  "meta_description": "TDSC investigative consulting in matters touching Yangon: sanctions-screened due diligence, military-link research, supply chain and divestment risk advisory.",
+  "eyebrow": "Yangon Region, Myanmar",
+  "hero_lede": "Investigative consulting for matters that touch Yangon, Myanmar's largest city, main port and commercial centre. Every engagement is screened first for US and other applicable sanctions and is scoped from Nashville, mostly as lawful due diligence and risk advisory for clients outside Myanmar.",
+  "intro": [
+    "Yangon is Myanmar's largest city, its financial centre and its main trade and logistics hub, and was the seat of government until the capital moved to Naypyitaw. A Singapore government city profile, citing Myanmar's 2019 inter-censal survey, puts Yangon Region's population at about 7.8 million, some 15 percent of the national total, and estimated the region's output at about 23 percent of national GDP in the late 2010s. The country's main seaport and international airport are here, along with the Thilawa Special Economic Zone on the Yangon River, opened in 2015 and focused on manufacturing. The Yangon Stock Exchange began trading in 2016. Most foreign-invested enterprises in the country have been concentrated in Yangon.",
+    "Organisations commission investigative work connected to Yangon because, since the military seized power in February 2021, commercial relationships with Myanmar carry sanctions, human rights and reputational risks that require careful research. Clients outside Myanmar need to know whether a Yangon supplier, distributor, landlord, logistics provider or joint venture partner is owned or controlled by the military, by state enterprises subject to sanctions measures, or by designated individuals and their associates. Garment and manufacturing buyers need supply chain assurance, investors and lenders need support for divestment or exit decisions, and compliance teams need to understand how ownership has shifted since 2021. Most of this work is done from outside the country."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 7.8 million, Yangon Region (Ministry of Labour, Immigration and Population, 2019 inter-censal survey, as reported)"
+    },
+    {
+      "label": "Economic weight",
+      "value": "About 23 percent of national GDP (2016-17 estimate, as reported)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Manufacturing and garments, trade and logistics, real estate and construction, banking, services"
+    },
+    {
+      "label": "Special economic zone",
+      "value": "Thilawa SEZ on the Yangon River, about 25 km south of the city (Zone A opened 2015)"
+    },
+    {
+      "label": "Stock exchange",
+      "value": "Yangon Stock Exchange (trading began 2016)"
+    },
+    {
+      "label": "Port and airport",
+      "value": "Myanmar's main seaport and main international airport"
+    },
+    {
+      "label": "US sanctions",
+      "value": "Burma program under Executive Order 14014; list-based designations and directives"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Yangon, UTC+6:30 (no daylight saving)"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Sanctions-focused counterparty due diligence",
+      "text": "Research on Yangon companies, intermediaries and partners to establish ownership and control, links to the military, to state enterprises such as Myanma Oil and Gas Enterprise or Myanma Gems Enterprise, or to designated individuals, so the client's sanctions counsel can assess whether a dealing is permissible."
+    },
+    {
+      "title": "Garment and manufacturing supply chains",
+      "text": "Supply chain research for buyers sourcing from factories in Yangon's industrial zones and Thilawa, examining ownership, links to military-controlled conglomerates, reported labour rights concerns and subcontracting arrangements, using registry data, published investigations and interviews conducted outside Myanmar."
+    },
+    {
+      "title": "Divestment and exit diligence",
+      "text": "Research supporting investors and multinationals reviewing or exiting Yangon operations, identifying prospective buyers and their beneficial owners, possible connections to the military or designated persons, and the reputational record of parties proposed to take over assets, licences or joint venture interests."
+    },
+    {
+      "title": "Military-linked ownership mapping",
+      "text": "Mapping corporate networks around Yangon businesses using Myanmar Companies Online records, leaked registry data analysed by researchers, sanctions designations and civil society datasets, recognising that nominee shareholders are common and declared ownership often differs from actual control."
+    },
+    {
+      "title": "Reputational and human rights risk review",
+      "text": "Background research on Yangon business figures, landlords, logistics providers and service companies for clients assessing human rights due diligence obligations, drawing on sanctions lists, United Nations and NGO reporting, court records outside Myanmar and international media coverage."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "The sanctions perimeter",
+      "text": "The US Burma program rests on Executive Order 14014 of February 2021 and is list-based rather than a full embargo. OFAC designated Myanma Gems Enterprise in April 2021 and, in October 2023, issued a directive prohibiting US persons from providing financial services to Myanma Oil and Gas Enterprise from December 2023, alongside further designations of military suppliers and officials. The EU, UK and Canada maintain their own measures. Designations change, so each matter is checked against current lists."
+    },
+    {
+      "title": "Thilawa Special Economic Zone",
+      "text": "Thilawa, about 25 km south of central Yangon on the Yangon River, was Myanmar's first special economic zone. Zone A opened in September 2015, and by early 2019 the zone had attracted more than 100 investors from 18 countries, largely in manufacturing. Ownership of zone developers, tenants and service providers, and any state or military participation, are recurring questions for clients reviewing existing or proposed relationships there."
+    },
+    {
+      "title": "Company records from Yangon",
+      "text": "Myanmar's company register is maintained electronically through Myanmar Companies Online, so basic records of Yangon companies can be searched without visiting a registry office. Extracts identify directors and registered details but not necessarily the persons who control a business. Court, land and municipal records in Yangon generally require local retrieval through counsel, which is undertaken only where sanctions counsel confirms it is permitted and it is safe for those involved."
+    },
+    {
+      "title": "Urban development and property",
+      "text": "Yangon Region borders Bago, Ayeyarwady, Kayin and Mon. Large urban projects such as New Yangon City, a government-owned development west of the centre with a planned industrial estate, and longstanding property and joint venture arrangements in the city raise questions about who ultimately owns land and buildings, particularly where state or military-linked entities are partners. Title and municipal records are not reliably accessible from abroad."
+    }
+  ],
+  "tdsc_approach": "As a US company, TDSC screens every matter touching Yangon for sanctions compliance before work begins, identifying each party, its owners and any relationship to the military, sanctioned state enterprises or designated persons. TDSC does not accept engagements that would violate US or other applicable sanctions, does not provide services to blocked persons and does not advise on avoiding sanctions. Most work is therefore lawful due diligence and risk advisory for clients outside Myanmar, using official sanctions lists, Myanmar Companies Online records, published investigations and interviews conducted outside the country. Any in-country retrieval in Yangon is considered only with counsel and with explicit attention to the safety of local professionals and sources. TDSC has no office in Yangon.",
+  "faqs": [
+    {
+      "q": "Can TDSC work on a matter involving a Yangon company?",
+      "a": "Possibly, after sanctions screening. TDSC first identifies the parties, their owners and any links to the military, sanctioned state enterprises or designated persons, and asks the client's sanctions counsel to confirm the work is permitted. TDSC declines engagements that would violate US or other applicable sanctions or that would benefit blocked persons."
+    },
+    {
+      "q": "Are all dealings with Myanmar prohibited by US sanctions?",
+      "a": "The US Burma program under Executive Order 14014 is list-based rather than a comprehensive embargo, so prohibitions attach to designated persons, entities they own and specific directives such as the financial services restriction on Myanma Oil and Gas Enterprise. The EU, UK and Canada have their own measures. Each transaction needs legal assessment against current lists."
+    },
+    {
+      "q": "How does TDSC identify military links in Yangon businesses?",
+      "a": "By combining Myanmar Companies Online records, sanctions designations, leaked registry data analysed by researchers, civil society datasets, court records outside Myanmar and international reporting. Because nominee shareholders are common, findings are presented with an assessment of confidence and with the gaps identified, rather than as definitive conclusions about control."
+    },
+    {
+      "q": "Does TDSC send investigators to Yangon?",
+      "a": "TDSC has no office or staff in Myanmar and does not send its own personnel. Most research is carried out from outside the country. Where a permitted matter requires local document retrieval, it is considered only with counsel, after sanctions screening, and with attention to the safety of local professionals and sources, who are never asked to take personal risks."
+    },
+    {
+      "q": "Can TDSC support a supplier review at Thilawa or in Yangon's industrial zones?",
+      "a": "Yes, for clients outside Myanmar and within sanctions limits. TDSC can research the ownership of factories and their parent companies, links to military conglomerates or designated persons, reported labour concerns and subcontracting chains, using public records and interviews conducted outside the country, to support the client's responsible sourcing decisions."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Singapore Ministry of Trade and Industry (Eye on Asia), Yangon: a city profile",
+      "url": "https://www.eyeonasia.gov.sg/asean-countries/know/overview-of-asean-countries/yangon-a-city-profile"
+    },
+    {
+      "title": "US Treasury, press release on designation of Myanma Gems Enterprise (April 2021)",
+      "url": "https://home.treasury.gov/news/press-releases/jy0115"
+    },
+    {
+      "title": "US Treasury, press release on MOGE financial services prohibition and designations (October 2023)",
+      "url": "https://home.treasury.gov/news/press-releases/jy1856"
+    },
+    {
+      "title": "DVB, US sanctions MOGE and other entities (November 2023)",
+      "url": "https://english.dvb.no/us-sanctions-moge-and-other-entities/"
+    },
+    {
+      "title": "Baker McKenzie Sanctions News, US, UK and Canada impose further coordinated sanctions against Myanmar (search result)",
+      "url": "https://sanctionsnews.bakermckenzie.com/us-uk-and-canada-impose-further-coordinated-sanctions-against-myanmar/"
+    },
+    {
+      "title": "CNBC, Myanmar stock exchange begins trade (March 2016, search result)",
+      "url": "https://www.cnbc.com/2016/03/25/myanmar-stock-exchange-begins-trade-fmi-closes-limit-up.html"
+    },
+    {
+      "title": "The Irrawaddy, Thilawa SEZ shares sold following strong demand (search result)",
+      "url": "https://www.irrawaddy.com/business/thilawa-sez-shares-sold-following-strong-demand.html"
+    }
+  ],
+  "review_flags": [
+    "SANCTIONS: newest sources opened are from October-November 2023 (MOGE directive, effective 15 Dec 2023). No 2024-2026 OFAC Burma actions, delistings or post-election changes were found within the search budget. Re-check OFAC's Burma page and EU/UK/Canada measures before publishing.",
+    "Population: 7.83 million from the Singapore Eye on Asia profile citing Myanmar's 2019 inter-censal survey; the same page also dates it to 2014. No World Bank result for Yangon. GDP share (2016-17) is dated.",
+    "Not verified from an opened source: courts sitting in Yangon (no court named), DICA office location, Yangon Stock Exchange current status (only 2016 launch from a search-result title), airport name, current Yangon Region administration. Political context limited to the February 2021 military takeover; 2025-26 elections and government formation not addressed.",
+    "Eye on Asia profile is dated (about 2019) and names a mayor who is likely no longer in office; copy names no officials."
+  ],
+  "researched": "2026-11-04"
+}

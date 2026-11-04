@@ -1,0 +1,57 @@
+{
+  "slug": "yerevan-am",
+  "name": "Yerevan",
+  "cc": "AM",
+  "meta_description": "TDSC investigative consulting in matters touching Yerevan: technology partner diligence, trade counterparties, real estate research and court record review.",
+  "eyebrow": "Yerevan, Republic of Armenia",
+  "hero_lede": "Yerevan generates about two-thirds of Armenia's output and hosts its government, banks, courts, technology companies and diaspora-backed investment. TDSC scopes investigative consulting from Nashville for matters touching the city, coordinating qualified Armenian professionals and counsel where local work is required.",
+  "intro": [
+    "Yerevan is Armenia's capital and its economic centre, with about 1,134,000 residents in mid-2024 according to the National Statistical Committee, more than a third of the country's population. By regional GDP data for 2023 the city produced roughly two-thirds of Armenia's output, with GDP per capita almost double the national average. Government, banking and finance, retail, construction and real estate are concentrated here, along with most of the country's information technology sector, which passed one trillion drams in turnover in 2025 across more than 10,000 high-tech companies. The Meridian free economic zone focuses on jewellery, watch-making and diamond cutting, and Zvartnots International Airport is the main gateway to the country.",
+    "Organisations commission investigative work connected to Yerevan because growth has been fast and ownership is often informal. Foreign technology firms acquiring or partnering with Yerevan development studios need assurance about founders, intellectual property and related-party arrangements. Trading companies based in the city have played a large role in regional commerce since 2022, raising questions about counterparties, end users and diversion. Rising apartment prices and new construction attract diaspora and foreign investors who need to know who stands behind developers. Most litigation, insolvency and anti-corruption proceedings with commercial consequences are heard in courts sitting in the capital, so case research usually starts there."
+  ],
+  "economy": [
+    {"label": "Population", "value": "About 1,134,000 (1 July 2024, National Statistical Committee via ARKA)"},
+    {"label": "Share of economy", "value": "About two-thirds of regional GDP (2023)"},
+    {"label": "Key sectors", "value": "Information technology, banking and finance, trade, construction and real estate, retail, jewellery and diamond processing"},
+    {"label": "Free zone", "value": "Meridian free economic zone (jewellery, watch-making, diamond cutting)"},
+    {"label": "Airport", "value": "Zvartnots International Airport"},
+    {"label": "Time zone", "value": "Asia/Yerevan, UTC+4, no daylight saving time"},
+    {"label": "Languages of business", "value": "Armenian; Russian and English widely used in commerce and technology"}
+  ],
+  "matters": [
+    {"title": "Software studio and founder diligence", "text": "Foreign companies outsource development to, invest in or acquire Yerevan technology firms. We verify founders and managers, map ownership and related companies, review court decisions and disputes over intellectual property or employees, and check adverse media in Armenian, Russian and English before commitments are made."},
+    {"title": "Trading company counterparty reviews", "text": "Yerevan-registered trading and logistics companies handle goods moving across the region. We test ownership, management, registration dates, addresses and connected companies, and flag indicators of shell structures, recent formation or sanctions-related and export-control exposure for compliance teams and counsel."},
+    {"title": "Developer and property investment checks", "text": "New residential and commercial construction in the capital draws diaspora and foreign buyers. We research developers, their owners and financing partners, litigation with buyers or contractors, insolvency history and publicly reported permit disputes, helping investors understand who controls a project before they commit funds."},
+    {"title": "Jewellery and precious stones supply chains", "text": "Diamond cutting and jewellery manufacturing in Yerevan, including in the Meridian zone, involve high-value imports and exports. We research processors, traders and their owners for disputes, enforcement actions and adverse media, supporting buyers and lenders concerned with provenance and money laundering risk."},
+    {"title": "Litigation and insolvency research", "text": "Counsel pursuing or defending Yerevan-based parties need a clear view of existing cases. We search published decisions, identify proceedings in the specialised Bankruptcy and Anti-Corruption courts, and map related companies and individuals to support claims, enforcement and settlement strategy."}
+  ],
+  "local_context": [
+    {"title": "Courts sitting in Yerevan", "text": "Armenia's first-instance courts include courts of general jurisdiction and specialised courts, notably a Bankruptcy Court with exclusive insolvency jurisdiction and an Anti-Corruption Court. Appeals go to the Civil Court of Appeal or the Anti-Corruption Court of Appeal, and then to the Court of Cassation, which has civil and anti-corruption chambers. These higher courts sit in Yerevan, so most significant commercial and corruption-related proceedings pass through the capital."},
+    {"title": "Published court decisions", "text": "Court hearings are public in principle, and final judgments and some interim decisions are published on the judiciary's datalex.am database, with personal or sensitive data sometimes redacted. Closed hearings remain possible to protect privacy or trade secrets, but verdicts are announced publicly. Datalex is therefore a central source for litigation research on Yerevan companies and individuals, read in Armenian."},
+    {"title": "Arbitration institutions", "text": "Commercial arbitration in Armenia follows a law modelled on the UNCITRAL Model Law. Institutions in Yerevan include the Arbitration and Mediation Center of Armenia and the arbitration institution at the Chamber of Commerce and Industry of Armenia, while larger foreign investments often choose ICC or LCIA arbitration. Arbitral proceedings are confidential, so public records will rarely show them unless a court is asked to enforce or set aside an award."},
+    {"title": "Financial and consumer bodies", "text": "Banks, insurers and other financial institutions serving Yerevan are supervised by the Central Bank of Armenia, and consumer disputes with financial institutions can go to the Financial System Mediator, whose decisions can be binding. Licence lists and published regulatory actions help confirm whether a Yerevan financial counterparty is authorised and whether it has a supervisory history."}
+  ],
+  "tdsc_approach": "TDSC has no office in Yerevan and works on Yerevan matters from Nashville. We start by defining the question with the client and counsel, whether a technology partnership, a trading counterparty, a property investment or support for proceedings before the Yerevan courts. We then identify which registers, published court decisions, regulatory sources and media apply, working in Armenian, Russian and English. Where local inquiries or certified extracts are needed, we coordinate qualified Armenian professionals. Every matter is screened for sanctions and export-control exposure, given the city's role in regional trade. We do not use pretexting or access restricted databases, and reports separate verified facts from indications.",
+  "faqs": [
+    {"q": "Where can court decisions involving Yerevan parties be found?", "a": "Final judgments and many interim decisions of Armenian courts are published on datalex.am, the judiciary's database, though personal data may be redacted. Because most specialised and appellate courts sit in Yerevan, it is the main source for litigation history. We search it in Armenian and summarise relevant cases in English for clients and counsel."},
+    {"q": "Which court handles insolvency of a Yerevan company?", "a": "Armenia has a specialised Bankruptcy Court with exclusive jurisdiction over insolvency cases, and appeals go to the Civil Court of Appeal and then the Court of Cassation. We review published insolvency decisions and related cases to identify creditors, administrators and connected parties when assessing a counterparty or pursuing recovery."},
+    {"q": "Can you vet a Yerevan software company before we partner with it?", "a": "Yes. We confirm registration and ownership, identify founders and related entities, review published court decisions for disputes over employees, contracts or intellectual property, and search adverse media in several languages. Employment and contractor arrangements are often less formal than clients expect, so we note what should be verified contractually."},
+    {"q": "Are arbitral awards involving Yerevan companies public?", "a": "Generally not. Arbitration in Armenia is confidential and awards are not published without the parties' consent. Awards may become visible when a court is asked to enforce them or set them aside, so we check court records for such applications and advise counsel where further information depends on the parties themselves."},
+    {"q": "Does TDSC have an office in Yerevan?", "a": "No. TDSC is headquartered in Nashville and has no office, staff or address in Yerevan or elsewhere in Armenia. We handle Yerevan matters through scoped consulting engagements, coordinating qualified Armenian professionals and working alongside the client's counsel where local work is required. We do not provide legal advice."}
+  ],
+  "sources": [
+    {"title": "ARKA: Armenia's population reaches 3.06 million (National Statistical Committee data, August 2024)", "url": "https://www.arka.am/en/news/society/armenia_s_population_reaches_3_06_million"},
+    {"title": "Wikipedia: Economy of Armenia", "url": "https://en.wikipedia.org/wiki/Economy_of_Armenia"},
+    {"title": "ARKA Telecom: IT turnover in Armenia in 2025 exceeded 1 trillion drams", "url": "https://www.arkatelecom.am/en/news/telecom/it-turnover-in-armenia-in-2025-exceeded-1-trillion-drams/"},
+    {"title": "Chambers and Partners: Dispute Resolution 2026, Armenia", "url": "https://practiceguides.chambers.com/practice-guides/dispute-resolution-2026/armenia"},
+    {"title": "BM.GE: Armenian cities show significant population growth", "url": "https://bm.ge/en/news/armenian-cities-show-significant-population-growth"},
+    {"title": "Kluwer Arbitration Blog: Arbitration in Armenia, recent developments", "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/arbitration-in-armenia-recent-developments/"}
+  ],
+  "review_flags": [
+    "Two-thirds GDP share is a calculation from 2023 regional GDP figures on Wikipedia (Economy of Armenia), not an official statement; the table's dram total appeared inconsistent. Consider citing Armstat directly.",
+    "Population 1,134,000 is National Statistical Committee data reported by ARKA, not an Armstat page.",
+    "Kluwer arbitration blog appeared in search results but was not opened.",
+    "Stated from background knowledge, not verified in fetched sources: that appellate courts and the Bankruptcy Court sit in Yerevan, Central Bank of Armenia supervisory role, regional trading role since 2022 (deliberately described generally), Asia/Yerevan time zone without DST."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "brasilia-br",
+  "name": "Brasília",
+  "cc": "BR",
+  "meta_description": "TDSC investigative consulting in matters touching Brasília: federal procurement risk, government contractor diligence and research for regulatory matters.",
+  "eyebrow": "Distrito Federal, Brazil",
+  "hero_lede": "Investigative consulting for matters touching Brasília, scoped from Nashville: integrity research on federal and Distrito Federal contractors, background work on intermediaries and lobbying-adjacent consultants, research into companies named in public enforcement operations, and factual support for counsel in disputes heard by courts sitting in the capital.",
+  "intro": [
+    "Brasília is Brazil's federal capital and, with the rest of the Distrito Federal, home to about 2.8 million people. Its economy is built around government. Public administration accounts for roughly 45 percent of value added in the Distrito Federal, and services make up nearly all of the rest. In 2022 the Distrito Federal had GDP of about R$329 billion and the highest GDP per capita of any Brazilian federative unit, about 2.4 times the national level. The private economy serves that public demand: IBGE's 2024 services survey counted some 42,400 service companies employing about 436,000 people, with information and communication firms generating about a quarter of services revenue.",
+    "Organisations commission investigative work connected to Brasília because it is where federal ministries, regulators, state-owned companies and the higher courts make decisions that affect business across Brazil. Companies bidding for federal or Distrito Federal contracts, investors in regulated sectors and multinationals working with local intermediaries need to know whom they are dealing with. Enforcement activity is frequent: in February 2025 the Federal Police, supported by the CGU and the Receita Federal, executed 26 warrants in the Distrito Federal in an operation over alleged rigging of outsourcing tenders using straw partners, and in June 2026 Distrito Federal prosecutors searched targets including the state-owned bank BRB over alleged payroll loan irregularities."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 2.8 million in the Distrito Federal (2022 census, as reported)"
+    },
+    {
+      "label": "Economic size",
+      "value": "Distrito Federal GDP about R$328.8 billion (2022), highest GDP per capita in Brazil"
+    },
+    {
+      "label": "Structure",
+      "value": "Public administration about 45 percent of value added; services about half; industry about 4 percent"
+    },
+    {
+      "label": "Private services",
+      "value": "About 42,400 service companies and 436,000 employees; R$87 billion services revenue (IBGE, 2024)"
+    },
+    {
+      "label": "Key institutions",
+      "value": "Federal ministries, regulatory agencies, Congress, higher federal courts, TCU, CGU, Banco de Brasília (BRB)"
+    },
+    {
+      "label": "Leading private sectors",
+      "value": "Information and communication, professional and administrative services, outsourcing, construction"
+    },
+    {
+      "label": "Time zone and language",
+      "value": "America/Sao_Paulo (UTC-3, no daylight saving); Portuguese is the language of business and the courts"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Federal contractor integrity research",
+      "text": "Researching the shareholders, directors, related companies, sanctions listings, enforcement history and public contract records of companies bidding for or holding federal and Distrito Federal contracts, to identify straw partners, undisclosed links between competing bidders and connections to officials before a teaming agreement or acquisition."
+    },
+    {
+      "title": "Intermediary and consultant due diligence",
+      "text": "Background research on consultants, law and advisory firms and other intermediaries engaged to deal with ministries, regulators or state-owned companies in Brasília, covering ownership, past engagements, links to public officials and adverse media, to support Clean Company Act and FCPA compliance programmes."
+    },
+    {
+      "title": "Companies named in enforcement operations",
+      "text": "Organising public information about Federal Police, CGU, prosecutors' and court actions involving a counterparty, separating allegations from charges and outcomes, so that clients can assess whether to continue a relationship, what further diligence is needed and how matters have developed over time."
+    },
+    {
+      "title": "Regulated sector investment diligence",
+      "text": "Research supporting investors in sectors whose regulators sit in Brasília, such as telecoms, energy, health and transport, on target companies, management and the public record of regulatory proceedings, fines and disputes that may affect valuation or licence continuity."
+    },
+    {
+      "title": "Distrito Federal bank and payroll exposures",
+      "text": "Research for counterparties of Banco de Brasília, payroll lenders and financial technology firms dealing with Distrito Federal public servants, drawing on court records, prosecutors' announcements and press to understand ongoing investigations and the parties and executives involved."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Courts sitting in Brasília",
+      "text": "The Federal Supreme Court and the Superior Court of Justice sit in Brasília, along with the other higher federal courts. Local matters go to the Tribunal de Justiça do Distrito Federal e Territórios (TJDFT), whose special council issued the warrants in the 2026 payroll loan investigation. The federal judicial section for the Distrito Federal sits within the federal regional court for the first region. Decisions and docket information from these courts are important sources when researching Brasília counterparties."
+    },
+    {
+      "title": "Federal oversight bodies",
+      "text": "Brasília hosts the federal Comptroller General (CGU), which supports Federal Police operations on procurement fraud and administers corporate leniency and debarment, and the Federal Court of Accounts (TCU), which audits federal spending and contracts. The Distrito Federal also has its own court of accounts and public prosecutors. Published audit findings, debarment lists and enforcement announcements are lawful sources that TDSC uses when assessing government contractors."
+    },
+    {
+      "title": "Distrito Federal prosecutors and police",
+      "text": "The Ministério Público do Distrito Federal e Territórios is a branch of the federal prosecution service that acts on local matters, including corruption and fraud involving the Distrito Federal government and its entities. In June 2026 it led an operation with 50 warrants in Brasília, Curitiba and São Paulo. TDSC relies only on published announcements, court records and press about such cases and never seeks access to investigation files."
+    },
+    {
+      "title": "Company and property records",
+      "text": "Companies seated in Brasília register with the Distrito Federal's commercial registry, which holds articles of association, amendments and administrator appointments, while CNPJ data from the Receita Federal identifies registered companies and partners. Property records are kept by the Distrito Federal's real estate registry offices, and certificates are normally obtained through local counsel or authorised service providers. Records should be cross-checked against court and contract data."
+    },
+    {
+      "title": "Public procurement records",
+      "text": "Federal and Distrito Federal contracts and bidding procedures are published through official portals and gazettes, which allow research into a company's contract history, consortium partners and disputes over tenders. The February 2025 outsourcing tender case showed how family, corporate and employment links between nominally competing bidders can surface when contract records are compared with company registration data. Such comparisons are central to contractor research."
+    }
+  ],
+  "tdsc_approach": "For matters touching Brasília, TDSC first identifies which public bodies, contracts or regulatory processes are involved and what decision the client faces. Research is conducted from Nashville in Portuguese and English, using commercial registry filings, CNPJ data, procurement portals, the official gazettes, published decisions of the TJDFT and federal courts, CGU and TCU publications, prosecutors' announcements and Brazilian press. TDSC does not contact officials, seek non-public government information or act as an intermediary with public bodies. Where certified records, court file reviews or interviews are needed, TDSC coordinates with Brazilian counsel and professionals operating lawfully under Brazil's private detective law, and handles personal data under the LGPD.",
+  "faqs": [
+    {
+      "q": "Can you check whether a Brasília government contractor is using straw partners?",
+      "a": "We compare commercial registry and CNPJ data, contract records, consortium arrangements, addresses, family and employment links and press coverage to identify signs that companies are fronts for undisclosed owners. Findings indicate risk based on documented links; confirming hidden ownership legally may require court process or regulatory action, which is a matter for counsel."
+    },
+    {
+      "q": "Can you tell us whether a company named in a Federal Police operation was charged?",
+      "a": "We research court records, prosecutors' and police announcements and press to show what has been alleged, whether charges, settlements or leniency agreements followed and what courts have decided. Operations often name many parties, and being a target is not proof of wrongdoing, so we report the status carefully and date each finding."
+    },
+    {
+      "q": "Do you research consultants who deal with ministries in Brasília?",
+      "a": "Yes. Before a client engages a consultant or intermediary to deal with federal bodies, we research ownership, track record, public sector links, related companies and any enforcement history, using lawful sources. We do not contact officials or act as intermediaries ourselves, and we flag findings that call for review by compliance teams or counsel."
+    },
+    {
+      "q": "Which courts in Brasília matter most for research?",
+      "a": "For local disputes and Distrito Federal matters, the TJDFT is central. Federal matters in the capital go to the federal judicial section within the first region, and the higher courts, including the STF and STJ, sit in Brasília. Which records matter depends on whether a counterparty's disputes are local, federal or have reached the higher courts."
+    },
+    {
+      "q": "Does TDSC have an office in Brasília?",
+      "a": "No. TDSC is based in Nashville and has no office, staff or address in Brasília or elsewhere in Brazil. Most work is desk-based research in Portuguese and English. Where local steps are needed, we coordinate with Brazilian counsel and lawfully operating local professionals, and we decline requests involving pretexting, covert recording or access to restricted government records."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Jornal de Brasília: Distrito Federal tem o maior PIB per capita do Brasil (15 November 2024)",
+      "url": "https://jornaldebrasilia.com.br/brasilia/distrito-federal-tem-o-maior-pib-per-capita-do-brasil/"
+    },
+    {
+      "title": "Jornal de Brasília: Serviços movimentam R$ 87 bilhões e consolidam força da economia do DF (27 August 2026)",
+      "url": "https://jornaldebrasilia.com.br/brasilia/servicos-movimentam-r-87-bilhoes-e-consolidam-forca-da-economia-do-df/"
+    },
+    {
+      "title": "Caravela: Brasília (DF) municipal data",
+      "url": "https://www.caravela.info/municipios/df/brasilia-df"
+    },
+    {
+      "title": "SBT News: Polícia Federal cumpre mandados no DF em operação contra fraudes em licitações de terceirização (February 2025)",
+      "url": "https://sbtnews.sbt.com.br/noticia/policia/policia-federal-cumpre-mandados-no-df-em-operacao-contra-fraudes-em-licitacoes-de-terceirizacao"
+    },
+    {
+      "title": "Diario de Pernambuco: PicPay e BRB são alvos de ação contra suposta fraude em folha do DF (June 2026)",
+      "url": "https://www.diariodepernambuco.com.br/brasil/2026/06/11716971-picpay-e-brb-sao-alvos-de-acao-contra-suposta-fraude-em-folha-do-df.html"
+    },
+    {
+      "title": "IBGE Cidades e Estados: Brasília",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/df/brasilia.html"
+    }
+  ],
+  "review_flags": [
+    "Population: IBGE Cidades page failed to load. 'About 2.8 million (2022 census)' comes from Caravela, which also shows '3 mi' and does not clearly label the year. Confirm against IBGE (general knowledge: 2,817,381 in 2022).",
+    "Public administration share (45.4 percent of value added) is from Caravela with no reference year. Jornal de Brasília gives services 95.6 percent of 2022 GDP without a public administration split.",
+    "Names and structure of the Distrito Federal commercial registry, real estate registry offices, TCDF, the TRF1 federal judicial section and higher courts are from general knowledge, not sources opened. The commercial registry is not named for that reason.",
+    "Payroll loan case (BRB, PicPay, June 2026) and Operation Dissímulo (February 2025) are allegations under investigation. Keep the copy neutral, and consider dropping the named entities in the intro if legal review prefers.",
+    "Sector examples for regulators in Brasília (telecoms, energy, health, transport) are from general knowledge."
+  ],
+  "researched": "2026-11-04"
+}

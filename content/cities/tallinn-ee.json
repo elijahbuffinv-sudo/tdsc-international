@@ -1,0 +1,146 @@
+{
+  "slug": "tallinn-ee",
+  "name": "Tallinn",
+  "cc": "EE",
+  "meta_description": "TDSC investigative consulting in matters touching Tallinn: fintech and crypto counterparty checks, startup due diligence and Baltic asset tracing support.",
+  "eyebrow": "Tallinn, Harju County, Estonia",
+  "hero_lede": "Investigative consulting for matters that run through Tallinn: technology and fintech companies, e-resident and holding company structures, port and transit trade, and civil claims before the Harju County Court. Scoped from Nashville with Estonian counsel and qualified local professionals, within EU data protection rules.",
+  "intro": [
+    "Tallinn is Estonia's capital and the main engine of its economy, concentrating the country's financial services, technology companies, government institutions and foreign investment. Investment promotion bodies list ICT, cybersecurity, fintech, real estate and automated manufacturing among its leading sectors. Estonia counts more than 1,600 startups and ten unicorns, the most per capita in the EU, and most of the ecosystem is based in the capital. The Port of Tallinn is the country's largest port authority, with Muuga Harbour east of the city its largest cargo port, and ferry links to Helsinki tie the city closely to Finland. Tallinn also hosts the NATO Cooperative Cyber Defence Centre of Excellence and the EU agency eu-LISA.",
+    "Organisations commission investigative work connected to Tallinn because the city is home to a large number of internationally owned and managed companies, many formed remotely. More than 41,800 Estonian companies had been established by e-residents by mid-2026, and fintech, payments and crypto-asset businesses registered in Tallinn often serve customers far from Estonia. That creates questions about who actually controls a company, where its money goes and whether its licences are current. Investors in Tallinn startups need founder and cap table research. Port, transit and logistics companies raise sanctions and trade compliance exposure given the Baltic location. Corporate misconduct cases, such as the long-running Port of Tallinn bribery matter, also generate civil recovery work."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 456,000 urban area (UN World Population Prospects via Macrotrends, 2024)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "ICT and cybersecurity, fintech and financial services, real estate, logistics, automated manufacturing"
+    },
+    {
+      "label": "Startup ecosystem",
+      "value": "Estonia: 1,600+ startups, 10 unicorns, 16,600 tech employees (2026 figures)"
+    },
+    {
+      "label": "Port",
+      "value": "Port of Tallinn, Estonia's largest port authority; Muuga Harbour largest cargo port"
+    },
+    {
+      "label": "International bodies",
+      "value": "NATO Cooperative Cyber Defence Centre of Excellence; eu-LISA"
+    },
+    {
+      "label": "E-residency",
+      "value": "41,800+ companies set up by e-residents (Q2 2026)"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Tallinn, UTC+2 (UTC+3 in summer)"
+    },
+    {
+      "label": "Business languages",
+      "value": "Estonian, English; Russian and Finnish also used"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Fintech and crypto counterparty checks",
+      "text": "Background research on Tallinn-registered payment, lending and crypto-asset businesses before partnership, onboarding or investment, testing registered ownership and management, licence history, regulatory actions, litigation and connections to other companies, and whether real operations match the Estonian registration."
+    },
+    {
+      "title": "Control of e-resident companies",
+      "text": "Research into who actually controls an Estonian company formed by non-residents, linking registered officers and shareholders to their activity in other countries through corporate, court and open sources, to support counterparty screening, fraud claims and enforcement planning."
+    },
+    {
+      "title": "Startup and technology due diligence",
+      "text": "Pre-investment research on founders, executives and major shareholders of Tallinn technology companies, covering prior ventures, insolvencies, litigation, related companies and reputational issues in Estonia and the other countries where the founders have worked. Findings are documented with sources for counsel."
+    },
+    {
+      "title": "Port, transit and sanctions exposure",
+      "text": "Ownership and trade research on Tallinn logistics, freight forwarding and port service companies, identifying beneficial owners, related entities and trading patterns that may raise sanctions, export control or reputational concerns for clients handling Baltic transit."
+    },
+    {
+      "title": "Civil recovery and asset research",
+      "text": "Asset and background research supporting Estonian counsel in civil claims against former managers or counterparties, including claims following criminal proceedings, mapping companies, property and assets in Estonia and abroad to inform claim security applications and enforcement."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Harju County Court",
+      "text": "The Harju County Court sits in Tallinn and hears first-instance civil and criminal cases for the capital region, so most commercial litigation involving Tallinn companies starts there. Appeals go to the Tallinn Circuit Court. In the Port of Tallinn case, for example, the county court ruled in June 2024 and the circuit court in June 2025, after which the Supreme Court declined a cassation appeal in February 2026."
+    },
+    {
+      "title": "Civil claims after criminal cases",
+      "text": "Estonian practice allows victims to bring civil damages claims after criminal proceedings end. Following the Port of Tallinn bribery case, which became public in 2015, the port company and its subsidiary filed claims in 2026 against former board members and related companies seeking about 4.7 million euros in damages plus interest, with requests to secure the claims partly granted. Such cases often need asset research to support security and enforcement."
+    },
+    {
+      "title": "Registers kept in Tartu",
+      "text": "Although most companies are based in Tallinn, the commercial register and land register are maintained by the registry departments of Tartu County Court, not a Tallinn office. Searches are made through national electronic systems described on the Estonia country page. For Tallinn matters this means company and property research is largely remote and electronic, with court files obtained through counsel."
+    },
+    {
+      "title": "Private investigation rules",
+      "text": "Estonia's government proposed legislation in 2002 to license private detectives, with requirements including citizenship, age, education and a licensing test, and no access to police databases. We have not confirmed from an official source the regime currently in force. Fieldwork in Tallinn, including interviews and observation, is therefore scoped with Estonian counsel before any local professional is instructed. Estonian counsel also advises on data protection limits for any observation."
+    },
+    {
+      "title": "Cyber and EU institutions",
+      "text": "Tallinn hosts the NATO Cooperative Cyber Defence Centre of Excellence and eu-LISA, the EU agency that manages large-scale IT systems, reflecting the city's strength in cybersecurity. The concentration of cyber talent and digital services companies is relevant to technology due diligence and to incident-related investigations involving Estonian providers. Technology suppliers based in the city frequently appear in cross-border vendor and incident reviews, where facts about ownership and personnel are needed quickly."
+    }
+  ],
+  "tdsc_approach": "For matters touching Tallinn, TDSC starts with a review of the GDPR and Estonian law with the client's Estonian counsel, confirming the lawful basis for processing personal data and what local fieldwork is permitted. Research relies on the electronic commercial and land registers, published court decisions, regulatory notices, insolvency announcements and open sources, combined with research in the countries where an Estonian company's owners and managers actually operate. This cross-border step is often decisive for e-resident and fintech structures. Any interviews or site visits in Tallinn are carried out by qualified local professionals under counsel's direction. TDSC minimises personal data in reports, does not use pretexting or access restricted databases, and has no office in Tallinn or elsewhere in Estonia.",
+  "faqs": [
+    {
+      "q": "Can TDSC find out who really runs a Tallinn fintech or crypto company?",
+      "a": "Often. Estonian registers show registered officers and shareholders, and TDSC links them to licences, court records, related companies and activity in other countries. For companies formed remotely, the key evidence usually lies outside Estonia. Findings are reported with confidence levels, and counsel decides whether court disclosure is needed."
+    },
+    {
+      "q": "Which court hears commercial disputes involving Tallinn companies?",
+      "a": "Most first-instance civil cases for the capital region are heard by the Harju County Court in Tallinn, with appeals to the Tallinn Circuit Court and then, if accepted, the Supreme Court in Tartu. Estonia has no separate commercial court. TDSC supports counsel with facts and asset research; it does not give legal advice."
+    },
+    {
+      "q": "Are company records for Tallinn businesses kept in Tallinn?",
+      "a": "No. The commercial register and land register are kept by the registry departments of Tartu County Court and accessed electronically. Location makes little practical difference, since most searches are online, but court files and some historical documents may need to be obtained through Estonian counsel."
+    },
+    {
+      "q": "Can TDSC help recover losses after a criminal case in Estonia?",
+      "a": "TDSC can research the assets, companies and connections of former managers or counterparties to support counsel bringing civil damages claims, which Estonian practice allows after criminal proceedings. The Port of Tallinn claims filed in 2026 illustrate this route. Security and enforcement steps are decided by counsel and the courts."
+    },
+    {
+      "q": "Does TDSC have an office in Tallinn?",
+      "a": "No. TDSC has no office, staff or address in Tallinn or anywhere in Estonia. Engagements are run from Nashville. Where local inquiries are lawful and necessary, TDSC coordinates qualified Estonian professionals within an agreed written scope and works with the client's Estonian counsel. Each engagement is scoped in writing."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Invest in Estonia, Business in Estonia 2026",
+      "url": "https://investinestonia.com/wp-content/uploads/businessinestonia-2026-final.pdf"
+    },
+    {
+      "title": "Visit Tallinn, Why Tallinn for business",
+      "url": "https://visittallinn.ee/eng/business/business/your-business-in-tallinn/why-tallinn-for-business"
+    },
+    {
+      "title": "European e-Justice Portal, National ordinary courts: Estonia",
+      "url": "https://e-justice.europa.eu/topics/taking-legal-action/legal-systems-eu-and-national/national-ordinary-courts/ee_en"
+    },
+    {
+      "title": "Tallinna Sadam stock exchange release, claims for damages against former board members (2026)",
+      "url": "https://www.inderes.dk/en/releases/tallinna-sadam-and-ts-laevad-filed-claims-for-damages-against-former-board-members-in-civil-court-proceedings"
+    },
+    {
+      "title": "The Baltic Times, Estonia to legalize its private detectives (2002)",
+      "url": "https://www.baltictimes.com/news/articles/6546/"
+    },
+    {
+      "title": "Macrotrends, Tallinn metro area population (UN World Population Prospects)",
+      "url": "https://www.macrotrends.net/global-metrics/cities/20932/tallinn/population"
+    }
+  ],
+  "review_flags": [
+    "Population (about 456,000, 2024) is a UN WPP urban-area figure via Macrotrends, not Statistics Estonia; replace with Statistics Estonia or Tallinn city figure.",
+    "Private detective regime: only a 2002 bill found; current law and licensing authority not verified (consistent with EE country page flag).",
+    "Startup, unicorn and e-residency figures are national, not Tallinn-specific.",
+    "Financial Supervision Authority (Finantsinspektsioon) and Nasdaq Tallinn not verified within search budget and omitted. Port of Tallinn bribery case names individuals in the source; page names only the companies."
+  ],
+  "researched": "2026-11-04"
+}
