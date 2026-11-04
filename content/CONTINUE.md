@@ -17,3 +17,6 @@ If the browser is still unreachable, do the research and build/push anyway, then
 
 ## Status note (2026-11-04 ~20:10 UTC) — PUBLISH ONLY REMAINING
 All research is done (295 hubs; quito-ec and urumqi-cn on hold). Build pinned to e0e35e495661 and pushed. Squarespace is behind: round 2 publish unverified, round 3 not published. When Chrome is reachable: load gen/sq_loader.js in the Squarespace tab, upload all fragments changed since 4d679fb277e4 (git diff --name-only 4d679fb277e4 HEAD -- sq/pages) in ≤10 MB chunks + sq/manifest.json + /home/claude/upload/gf.html (rebuild gf.html from build/out/global-footer.html + sq/assets/search.js first), set footer CodeMirror to gf.html, Save, TDSC.run(null,'6aeb5f688d0897495b544ea9'), then verify all 497 manifest paths at ~1/sec.
+
+## Status (2026-11-04 ~20:45 UTC) — COMPLETE
+All 498 /international pages published and verified live (200 + correct page key), footer pinned to c43442900177. Only urumqi-cn remains held (no official population figure). About page now includes Scott Sullivan's photo.
