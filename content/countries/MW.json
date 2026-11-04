@@ -1,0 +1,142 @@
+{
+  "cc": "MW",
+  "name": "Malawi",
+  "meta_description": "TDSC investigative consulting on Malawi: due diligence, beneficial ownership checks and asset tracing, run lawfully from Nashville with local professionals.",
+  "eyebrow": "Republic of Malawi",
+  "hero_lede": "Investigative consulting for matters touching Malawi involves a common law jurisdiction with a public beneficial ownership regime, a data protection law in force since 2024, and commercial risk concentrated in agriculture, public procurement, extractives and donor-funded programmes.",
+  "intro": [
+    "Malawi is a small, landlocked, largely agricultural economy with an English common law heritage and English as the language of the courts and official business. Its legal infrastructure is comparatively well documented: legislation is published through MalawiLII, the Companies (Beneficial Ownership) Regulations 2022 treat beneficial ownership information as public, and the Data Protection Act 2024 came into force in June 2024 with the Malawi Communications Regulatory Authority as regulator. Company registry functions have been in transition, reportedly passing from the Department of the Registrar General to a new Companies, Registrations and Intellectual Property Centre in 2026, so record access should be confirmed at the start of each matter.",
+    "Organisations commission investigative work involving Malawi for several reasons. Tobacco, tea, sugar and other agricultural buyers need supplier, labour and land-related checks. Development finance institutions, donors and NGOs require integrity due diligence on implementing partners and contractors, given repeated public procurement scandals. Mining and energy investors want clarity on who stands behind licence holders and local partners. Banks and payment providers need counterparty and source-of-funds review as mobile money expands, and litigants pursue assets and verify individuals whose business or employment history runs through Lilongwe or Blantyre. Cross-border work often extends to Zambia, Mozambique, Tanzania and South Africa."
+  ],
+  "population": {
+    "value": "approximately 21.7 million",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Malawi has a common law system derived from English law, operating under the 1994 Constitution alongside customary law in certain personal matters. The superior courts are the High Court and the Supreme Court of Appeal. Commercial disputes of significance are heard in the Commercial Division of the High Court, which sits in Blantyre and Lilongwe, with subordinate magistrates' courts handling lower-value claims. Proceedings are in English, and a growing body of judgments is published through MalawiLII. Arbitration is available under domestic arbitration legislation, typically on an ad hoc basis.",
+  "data_protection": {
+    "law": "Data Protection Act 2024 (in force 3 June 2024)",
+    "regulator": "Malawi Communications Regulatory Authority (MACRA), as Data Protection Authority",
+    "summary": "The Act requires a lawful basis for processing, including consent, contract, legal obligation, vital interests, public interest and legitimate interests, and sets stricter conditions and safeguards for sensitive personal data. Transfers outside Malawi are restricted unless the destination offers adequate protection or a recognised mechanism such as binding corporate rules or contractual clauses applies. Data controllers and processors of significance, including those handling data on more than 10,000 people, must register with MACRA. Investigative work involving Malawian personal data, including employee investigations, should document its lawful basis, minimise data collected and address transfer requirements before material leaves the country."
+  },
+  "investigator_regulation": "We have not identified a dedicated statutory licensing regime for private investigators in Malawi. Private security services operate in the market, and investigative activity is constrained by general law: the Data Protection Act 2024, criminal provisions on unlawful interception and electronic communications, defamation, and constitutional privacy rights. Access to police, immigration, tax and national registration records is reserved to the authorities, and covert recording or surveillance carries legal and reputational risk. Work requiring presence in Malawi is therefore scoped with Malawian legal practitioners and appropriately qualified local professionals, and restricted to lawful, open enquiries.",
+  "corporate_records": "Companies have been registered through the Department of the Registrar General using the online Malawi Business Registration System; a third-party guide reports that a new Companies, Registrations and Intellectual Property Centre took over these functions from April 2026. Under the Companies (Beneficial Ownership) Regulations 2022, in force from 23 December 2022, companies must disclose natural persons holding or controlling more than 5 percent, and this information is treated as public. Open Ownership lists Malawi as having a live, economy-wide register. Practical search access, fees and data completeness vary, and filings should be requested formally where online access is limited.",
+  "anti_corruption": "The Corrupt Practices Act (1995, as amended) criminalises public and private sector bribery and related offences and established the Anti-Corruption Bureau, which investigates and, with consent from the Director of Public Prosecutions where required, prosecutes corruption. The Financial Crimes Act 2017 is the principal anti-money laundering and counter-terrorist financing statute, administered by the Financial Intelligence Authority, which receives suspicious transaction reports and issues guidance to reporting institutions.",
+  "matters": [
+    {
+      "title": "Agricultural supply chain checks",
+      "text": "Ownership, related-party and labour-compliance review of tobacco, tea, sugar, macadamia and legumes suppliers and estates, including identification of intermediaries, land-use disputes and adverse media that could affect buyers, traders or financiers sourcing from Malawi. Results are documented for buyer compliance files."
+    },
+    {
+      "title": "Implementing partner integrity reviews",
+      "text": "Due diligence for donors, development finance institutions and NGOs on contractors and implementing partners, using the public beneficial ownership regime, procurement records and media to identify conflicts of interest, politically exposed persons and prior misconduct. Each finding is referenced to its source."
+    },
+    {
+      "title": "Mining and energy counterparties",
+      "text": "Background and ownership research on licence holders, joint venture partners and service providers in Malawi's developing mining and energy sectors, focusing on concealed interests, political connections and litigation history before investment or offtake commitments. Findings are framed for investment and credit committees."
+    },
+    {
+      "title": "Procurement fraud support",
+      "text": "Assistance to counsel and internal audit teams examining suspected procurement fraud or diversion of funds, mapping company relationships, directors and beneficial owners across supplier networks and preparing source-referenced findings suitable for legal review. Gaps in the record are reported as such."
+    },
+    {
+      "title": "Asset tracing and verification",
+      "text": "Lawful identification of companies, property interests and business links connected to debtors or defendants with a Malawian footprint, and verification of the education, employment and directorship history of individuals before appointment or transaction. Unverifiable claims are identified plainly."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "English; Chichewa widely spoken"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Blantyre, UTC+2, no daylight saving time"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Malawian kwacha (MWK)"
+    },
+    {
+      "label": "Courts language",
+      "value": "English"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Lilongwe, Blantyre, Mzuzu, Zomba"
+    },
+    {
+      "label": "Business culture",
+      "value": "Formal and relationship-based; introductions and courtesy calls matter"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Malawi-related engagements from Nashville, starting with a jurisdictional review of the Data Protection Act 2024, MACRA guidance on transfers, and sanctions and PEP screening relevant to the parties. Research draws on lawful sources: the companies and beneficial ownership registers, MalawiLII judgments and legislation, Gazette notices, procurement publications, and English and Chichewa media. Because registry functions have been in transition, we confirm the current access route and treat incomplete filings as a finding in their own right. Where enquiries in Malawi are needed, TDSC coordinates appropriately qualified local professionals working with Malawian legal practitioners, under written instructions that exclude pretexting and access to restricted government records. Personal data is minimised and transferred only on a documented basis.",
+  "faqs": [
+    {
+      "q": "Is beneficial ownership information public in Malawi?",
+      "a": "The Companies (Beneficial Ownership) Regulations 2022 require disclosure of natural persons holding or controlling more than 5 percent and treat that information as public. In practice, search access and data quality vary, and older companies may not yet have complete filings. We use the register as a starting point and corroborate it with filings, media and litigation records."
+    },
+    {
+      "q": "What does the Data Protection Act 2024 mean for an internal investigation in Malawi?",
+      "a": "Processing must rest on a lawful basis such as legal obligation or legitimate interests, be limited to what is necessary and kept secure. Sensitive data needs explicit consent or another listed condition. Moving employee data out of Malawi requires adequate protection or a recognised mechanism. We help counsel document these points before evidence is collected or exported."
+    },
+    {
+      "q": "Are private investigators licensed in Malawi?",
+      "a": "We have not identified a dedicated licensing statute for private investigators. Investigative activity is nonetheless limited by data protection law, criminal provisions on interception and communications, and privacy rights. TDSC holds no Malawian licence and coordinates any local work through qualified professionals working with Malawian legal practitioners."
+    },
+    {
+      "q": "Where are commercial disputes heard in Malawi?",
+      "a": "Significant commercial claims go to the Commercial Division of the High Court, which sits in Blantyre and Lilongwe, with appeals to the Supreme Court of Appeal. Many judgments are published on MalawiLII, which helps when checking a counterparty's litigation history, although coverage of lower courts is limited and some files must be inspected locally. Searches should cover both registries where relevant."
+    },
+    {
+      "q": "Which bodies handle corruption and money laundering in Malawi?",
+      "a": "The Anti-Corruption Bureau investigates offences under the Corrupt Practices Act, and the Financial Intelligence Authority administers the Financial Crimes Act 2017, receiving suspicious transaction reports. Public reports, prosecutions and media coverage from these bodies are useful screening sources when assessing partners in procurement-heavy sectors. Their findings are cross-checked against court records."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Data Protection Act 2024 (text, CDH Malawi)",
+      "url": "https://cdh-malawi.com/wp-content/uploads/2025/09/Data-Protection-Act-2024.pdf"
+    },
+    {
+      "title": "CIPIT: Review of the Malawi Data Protection Act 2024",
+      "url": "https://cipit.strathmore.edu/review-of-the-malawi-data-protection-act-2024/"
+    },
+    {
+      "title": "IT Law Co: Malawi's Data Protection Act 2024, an overview",
+      "url": "https://itlawco.com/focus-areas/data-protection-and-privacy/malawis-data-protection-act-2024-an-overview/"
+    },
+    {
+      "title": "Lex Africa: Compliance with beneficial ownership regulations (2024)",
+      "url": "https://lexafrica.com/2024/07/compliance-beneficial-ownership-regulations/"
+    },
+    {
+      "title": "Open Ownership: Malawi",
+      "url": "https://www.openownership.org/en/map/country/malawi/"
+    },
+    {
+      "title": "Business Data Guide: Malawi company search guide",
+      "url": "https://businessdataguide.com/blog/jurisdictions/malawi-company-search-guide"
+    },
+    {
+      "title": "MalawiLII: Corrupt Practices Act (Act 18 of 1995)",
+      "url": "https://malawilii.org/akn/mw/act/1995/18/eng@2014-12-31"
+    },
+    {
+      "title": "Financial Intelligence Authority: Beneficial ownership regulation",
+      "url": "https://www.fia.gov.mw/publications/beneficial-ownership-regulation.pdf"
+    }
+  ],
+  "review_flags": [
+    "Registry transition: a third-party guide (businessdataguide.com) reports CRIPC replaced the Registrar General's Department from 1 April 2026; confirm on official sources and update registry name/URL.",
+    "Population (approx. 21.7 million, 2024) from general knowledge; World Bank URL not retrieved in this session. Verify.",
+    "No PI licensing regime identified; not confirmed by a source.",
+    "Financial Crimes Act 2017, High Court Commercial Division and arbitration details are from general knowledge, not opened sources; verify.",
+    "Data Protection Act 2024 details come from secondary law-firm/academic summaries, not the primary text."
+  ],
+  "researched": "2026-11-04"
+}

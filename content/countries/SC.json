@@ -1,0 +1,147 @@
+{
+  "cc": "SC",
+  "name": "Seychelles",
+  "meta_description": "TDSC investigative consulting on Seychelles: IBC ownership tracing, tourism and fisheries due diligence and asset research under the Data Protection Act 2023.",
+  "eyebrow": "Republic of Seychelles",
+  "hero_lede": "Investigative consulting for matters touching Seychelles often turns on international business companies whose registers sit with licensed registered agents, a non-public beneficial ownership database held by the Financial Intelligence Unit, a Data Protection Act in force since December 2023, and coordination with Seychelles counsel.",
+  "intro": [
+    "Seychelles combines a small domestic economy built on tourism and fisheries with a large offshore financial services sector supervised by the Financial Services Authority (FSA). International business companies (IBCs) incorporated under the International Business Companies Act 2016 must use an FSA-licensed registered agent, which holds their registers of directors, members and beneficial owners; these are not filed on a public register. Since August 2020 beneficial ownership information has been reported to a central database maintained by the Financial Intelligence Unit, which is not open to the public. A modern Data Protection Act came into force on 22 December 2023, replacing an earlier 2003 Act that was never implemented.",
+    "Organisations commission investigative work involving Seychelles most often because a Seychelles IBC appears somewhere in a chain of ownership, payment or contract: in fraud and asset recovery matters, shareholder disputes, sanctions and AML reviews, or due diligence on counterparties elsewhere in Africa, the Middle East, South Asia and Europe. Within the country, foreign investment in resort hotels, real estate, the blue economy and tuna fishing and processing around Port Victoria brings its own questions about local partners, land rights and government approvals. Typical exposures include nominee directors, opaque ownership chains and assets moved between offshore centres."
+  ],
+  "population": {
+    "value": "approximately 120,000",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Seychelles has a mixed legal system. Civil law of French origin governs areas such as obligations, property and family, through the Civil Code of Seychelles, while English common law principles shape company law, commercial law, evidence and criminal procedure. Commercial disputes are heard by the Supreme Court, which has a commercial list, with appeals to the Seychelles Court of Appeal. Arbitration clauses in offshore structures usually point to foreign seats. Court proceedings are conducted mainly in English, and judgments are published through the Seychelles Legal Information Institute (SeyLII).",
+  "data_protection": {
+    "law": "Data Protection Act 2023 (Act 24 of 2023, in force 22 December 2023, repealing the Data Protection Act 2003)",
+    "regulator": "Information Commission of Seychelles",
+    "summary": "The 2023 Act follows the principles of lawfulness, fairness, transparency and purpose limitation, and sensitive data can be processed only on narrow grounds such as explicit consent or legal claims. Organisations were given an 18-month transition period from December 2023. Controllers must keep records of processing, carry out impact assessments for high-risk processing, report breaches and appoint a data protection officer where required; there is no general registration duty. Transfers outside Seychelles are restricted to destinations with an adequate or comparable level of protection or to transfers under appropriate safeguards, so transfers to the United States need a documented mechanism. The Information Commission can audit, investigate and impose fines."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators in Seychelles in the sources reviewed for this page, and we have not verified whether private security legislation extends to investigative services. Engagements are therefore scoped with Seychelles counsel before any enquiries are made on the ground. Investigative work must comply with the Data Protection Act 2023 and the criminal law. Registers of IBCs held by registered agents and the FIU beneficial ownership database are confidential, and TDSC does not seek access to them other than through lawful process directed by counsel, such as court orders in proceedings.",
+  "corporate_records": "Domestic companies and IBCs are incorporated through the Financial Services Authority, which acts as registrar for corporate and offshore entities. Domestic companies are subject to more conventional disclosure, while IBCs have no public filing obligation for financial statements and keep their registers of directors and shareholders at the registered agent's office. Under the Beneficial Ownership Act 2020, in force since 28 August 2020, registered agents report beneficial owners to the FIU's central database, which is accessible only to authorities. As of 2025, the government has proposed extending access to banks and other service providers for customer due diligence, with no plan for public access.",
+  "anti_corruption": "The Anti-Corruption Act 2016 established the Anti-Corruption Commission Seychelles, which investigates corruption offences, with prosecutions brought by the Attorney General. The Anti-Money Laundering and Countering the Financing of Terrorism Act 2020 took effect in August 2020 alongside the Beneficial Ownership Act 2020. The Financial Intelligence Unit has overall AML oversight and supervises designated non-financial businesses and professions, while the Central Bank of Seychelles and the Financial Services Authority supervise the institutions they regulate.",
+  "matters": [
+    {
+      "title": "Tracing ownership behind Seychelles IBCs",
+      "text": "Establishing who stands behind a Seychelles IBC when its registers are held privately by a registered agent, by connecting the company to directors, bank relationships, litigation, trade data and related entities in other jurisdictions, and identifying what counsel may obtain through disclosure orders."
+    },
+    {
+      "title": "Fraud and cross-border asset recovery",
+      "text": "Supporting lawyers pursuing funds that have passed through Seychelles companies, including mapping corporate chains across the UAE, Mauritius, Hong Kong, Cyprus and Europe, and preparing the factual basis for applications to the Seychelles Supreme Court for freezing or disclosure relief."
+    },
+    {
+      "title": "Tourism and real estate investment",
+      "text": "Background research on developers, hotel operators and local partners in resort and residential projects on Mahé, Praslin and La Digue, including prior disputes, government approvals, land-related litigation and the track record of foreign investors involved."
+    },
+    {
+      "title": "Fisheries and blue economy partners",
+      "text": "Reviewing vessel operators, agents, processors and suppliers connected to the Indian Ocean tuna industry based at Port Victoria, where buyers and financiers need to understand ownership, licensing and compliance history, and connections between companies and officials."
+    },
+    {
+      "title": "Sanctions and AML counterparty screening",
+      "text": "Assessing Seychelles-registered counterparties that appear in trade, shipping, crypto-asset or payment flows, with attention to nominee arrangements, links to restricted parties and adverse findings in other jurisdictions, for clients with their own AML and sanctions obligations."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official languages",
+      "value": "Seychellois Creole, English and French"
+    },
+    {
+      "label": "Time zone",
+      "value": "Indian/Mahe, UTC+4 (no daylight saving)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Seychelles rupee (SCR)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Victoria (Mahé), Providence, Praslin"
+    },
+    {
+      "label": "Key regulators",
+      "value": "Financial Services Authority; Financial Intelligence Unit; Central Bank of Seychelles"
+    },
+    {
+      "label": "Courts language",
+      "value": "Mainly English; judgments published on SeyLII"
+    },
+    {
+      "label": "Business culture",
+      "value": "Small, closely connected community; introductions through counsel and service providers"
+    }
+  ],
+  "tdsc_approach": "Engagements touching Seychelles are scoped from Nashville around a clear distinction between what is public and what is confidential by law. IBC registers held by registered agents and the FIU beneficial ownership database are not public, so TDSC builds the picture from lawful sources: FSA information on licensed entities, published judgments on SeyLII, foreign corporate and court records, trade and shipping data, and open sources in English and French. Where confidential information is needed for litigation, TDSC prepares the evidential groundwork for Seychelles counsel to seek it through the courts. Any enquiries in Seychelles are carried out by qualified local professionals under counsel's direction. Personal data is handled in line with the Data Protection Act 2023, and TDSC does not use pretexting or approach registered agents under false pretences.",
+  "faqs": [
+    {
+      "q": "Can we find out who owns a Seychelles IBC?",
+      "a": "Not from a public register. Under the Beneficial Ownership Act 2020, registered agents hold each company's register of beneficial owners and report it to the Financial Intelligence Unit, whose database is open only to authorities. Ownership can often be inferred from other lawful sources, and in litigation Seychelles counsel may seek disclosure through the Supreme Court."
+    },
+    {
+      "q": "Will Seychelles open its beneficial ownership database to the public?",
+      "a": "There are no announced plans for public access. In December 2024 the government proposed extending access to banks, corporate service providers and certain financial institutions for customer due diligence purposes, with penalties for unlawful access. Commentators expected any change to take effect no earlier than 2026, so its status should be checked at the start of each engagement."
+    },
+    {
+      "q": "What does the Data Protection Act 2023 mean for investigations?",
+      "a": "It applies to personal data processed in or from Seychelles and is enforced by the Information Commission. Processing needs a lawful basis, sensitive data is tightly restricted, and transfers abroad require adequate protection or appropriate safeguards. For TDSC this means minimising personal data, documenting the basis for each collection and transferring material to the United States under a recorded mechanism."
+    },
+    {
+      "q": "Which court handles commercial and asset recovery cases?",
+      "a": "The Supreme Court of Seychelles hears commercial claims, including applications connected to companies and assets, with appeals to the Court of Appeal. Many offshore structures also contain foreign arbitration or jurisdiction clauses. TDSC does not advise on forum or remedies; we provide factual research to the lawyers who do."
+    },
+    {
+      "q": "Does TDSC have an office or licence in Seychelles?",
+      "a": "No. TDSC works from Nashville through scoped consulting engagements and has no office, staff or licence in Seychelles. Where enquiries in Seychelles are necessary, we coordinate qualified local professionals and work under the direction of Seychelles counsel, after confirming any licensing or regulatory requirements that apply to the proposed work."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Seychelles",
+      "url": "https://www.dlapiperdataprotection.com/?c=SC&t=law"
+    },
+    {
+      "title": "Appleby: Data Protection Law now in force in Seychelles",
+      "url": "https://applebyglobal.com/publications/data-protection-law-now-in-force-in-seychelles"
+    },
+    {
+      "title": "Seychelles Government Gazette: Data Protection Act 2023 (Act 24 of 2023)",
+      "url": "https://www.gazette.sc/sites/default/files/2023-12/Act 24 - 2023 - Data Protection Act 2023.pdf"
+    },
+    {
+      "title": "Techhive Advisory: Review of Seychelles DPA",
+      "url": "https://www.techhiveadvisory.africa/insights/review-of-seychelles-dpa"
+    },
+    {
+      "title": "SeyLII: Beneficial Ownership Act, 2020",
+      "url": "https://seylii.org/akn/sc/act/2020/4/eng@2020-03-06"
+    },
+    {
+      "title": "Uniwide: Seychelles expands access to beneficial ownership information (January 2025)",
+      "url": "https://www.uniwide.com/seychelles-expands-access-to-beneficial-ownership-information/"
+    },
+    {
+      "title": "Seychelles Nation: Anti-money laundering and countering the financing of terrorism (August 2020)",
+      "url": "https://www.nation.sc/articles/5923/anti-money-laundering-and-countering-the-financing-of-terrorism"
+    },
+    {
+      "title": "Vove ID: KYB compliance in Seychelles, 2026 guide to entity verification, UBO and IBC structures",
+      "url": "https://blog.voveid.com/kyb-compliance-in-seychelles-a-2026-guide-to-entity-verification-ubo-and-ibc-structures/"
+    }
+  ],
+  "review_flags": [
+    "Population (approx. 120,000, 2024) is NOT sourced: no World Bank or NBS page appeared within the search budget. source_url is empty; add a citation before publishing.",
+    "No PI licensing regime identified; whether private security legislation covers investigative services was not verified. Confirm with Seychelles counsel.",
+    "Anti-Corruption Act 2016 and Anti-Corruption Commission Seychelles are from general knowledge, not a source opened in this research.",
+    "Legal system description (mixed civil/common law, Civil Code, Supreme Court commercial list, Court of Appeal) is general knowledge; not verified on official pages.",
+    "Proposed widening of access to the FIU beneficial ownership database (announced December 2024, expected no earlier than 2026) may have been adopted; check current status.",
+    "Gazette URL for the DPA 2023 contains spaces as shown in search results; confirm it resolves or replace with an encoded link."
+  ],
+  "researched": "2026-11-04"
+}

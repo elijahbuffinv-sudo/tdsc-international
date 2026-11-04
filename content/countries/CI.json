@@ -1,0 +1,142 @@
+{
+  "cc": "CI",
+  "name": "Ivory Coast (Côte d'Ivoire)",
+  "meta_description": "TDSC investigative consulting on Côte d'Ivoire: RCCM company records, ARTCI data rules, cocoa and cashew supply chains and checks on Abidjan counterparties.",
+  "eyebrow": "Republic of Côte d'Ivoire",
+  "hero_lede": "Matters involving Côte d'Ivoire often concern cocoa and cashew supply chains, mining and offshore energy partners, and Abidjan holding companies with regional reach. TDSC scopes counterparty research, integrity due diligence and asset inquiries from Nashville, coordinating qualified Ivorian professionals and counsel where local work is required.",
+  "intro": [
+    "Côte d'Ivoire is a French-speaking civil-law state and a member of OHADA, the regional organisation whose uniform acts govern company law, commercial registration, securities and arbitration across much of West and Central Africa; OHADA's Common Court of Justice and Arbitration sits in Abidjan. The country is also part of the West African Economic and Monetary Union and uses the CFA franc. Personal data is governed by Law No. 2013-450 of 19 June 2013, enforced by ARTCI, which requires prior declaration or authorisation for many kinds of processing. In practice, investigative work combines registry and court research in Abidjan with discreet inquiry, since much commercial information circulates through networks rather than public filings.",
+    "Organisations commission work involving Côte d'Ivoire because it is the world's leading cocoa producer and a major exporter of raw cashew nuts, rubber and palm oil, and because Abidjan has become a regional base for banks, traders and multinationals in francophone West Africa. Gold mining has expanded and offshore oil and gas development has attracted international investment. Typical exposures include supply-chain traceability and child-labour or deforestation risk in cocoa, intermediary and partner vetting on mining and energy projects, public procurement and infrastructure contracting, trade finance fraud through commodity exporters, and recovery of funds from failed regional ventures."
+  ],
+  "population": {
+    "value": "29.4 million (2021 census)",
+    "year": "2021",
+    "source_url": ""
+  },
+  "legal_system": "Côte d'Ivoire has a civil-law system derived from the French tradition, with national codes alongside the OHADA uniform acts on commercial companies, general commercial law, securities, insolvency and arbitration. The Cour de cassation is the highest ordinary court, and the Commercial Court of Abidjan hears most business disputes in the economic capital. For matters governed by OHADA law, final appeals go to the Common Court of Justice and Arbitration (CCJA) in Abidjan, which also administers institutional arbitration. Domestic arbitration is offered by the Cour d'Arbitrage de Côte d'Ivoire (CACI).",
+  "data_protection": {
+    "law": "Law No. 2013-450 of 19 June 2013 on the protection of personal data, with Decree No. 2015-79 (2015) on filing procedures",
+    "regulator": "Autorité de Régulation des Télécommunications/TIC de Côte d'Ivoire (ARTCI)",
+    "summary": "Law 2013-450 requires a prior declaration to ARTCI for most processing, and prior authorisation for higher-risk processing, including data on criminal offences, national identification numbers, biometric data, file interconnection and transfers to third countries. Transfers abroad are permitted only to countries offering equivalent or higher protection, and still require ARTCI authorisation on an application from an Ivorian entity. Consent is the general basis, with exceptions such as contract performance. Investigative work that collects personal data in Côte d'Ivoire, for example in background or employee inquiries, should be designed so that the local party handling data is compliant and transfers to the client are lawfully structured."
+  },
+  "investigator_regulation": "We have not identified, from sources verified for this page, a dedicated statutory licensing regime for private investigators in Côte d'Ivoire, and the position should be confirmed with Ivorian counsel before local inquiries begin. Several limits apply regardless. Processing of personal data falls under Law 2013-450, and data on criminal offences or national identification numbers requires ARTCI authorisation. Cybercrime legislation, Law No. 2013-451, penalises unauthorised access to computer systems and data. Police, tax, telecommunications and banking information is not available to private inquirers. Recording or surveillance that intrudes on private life can expose investigators and clients to criminal and civil liability.",
+  "corporate_records": "Companies are registered in the Registre du Commerce et du Crédit Mobilier (RCCM) under the OHADA Uniform Act on General Commercial Law, maintained by the registry of the competent commercial court, chiefly in Abidjan; company formation is usually handled through the investment promotion centre, CEPICI. RCCM extracts identify the company, registered capital, managers and principal changes, and can be ordered, though online access is limited. Beneficial ownership disclosure has been introduced under anti-money laundering and extractive-sector transparency rules, but we have not confirmed whether a central register is publicly accessible. Land title and court records generally require in-person searches.",
+  "anti_corruption": "The principal statute is Ordinance No. 2013-660 of 2013 on the prevention of and fight against corruption and related offences, which also introduced foreign bribery into the Penal Code. It created the High Authority for Good Governance (HABG), operating since 2014, which develops anti-corruption policy and investigates corrupt practices for referral to prosecutors. CENTIF, the national financial intelligence unit, receives suspicious transaction reports under AML legislation based on the WAEMU uniform law. The procurement regulator ANRMP audits compliance with public procurement rules.",
+  "matters": [
+    {
+      "title": "Cocoa and cashew supply chains",
+      "text": "Research into cooperatives, exporters and intermediaries in cocoa and cashew chains, covering ownership, licensing, trading history and adverse reporting on labour or deforestation, for buyers, financiers and brands that must evidence traceability and responsible sourcing from Ivorian producing regions."
+    },
+    {
+      "title": "Mining and energy partner vetting",
+      "text": "Background research on local partners, service providers and intermediaries around gold permits and offshore oil and gas projects, examining ownership, links to officials, permit history and disputes before joint ventures, contracts or acquisitions are concluded in Côte d'Ivoire."
+    },
+    {
+      "title": "Procurement and infrastructure integrity",
+      "text": "Integrity due diligence on agents, consultants and contractors involved in public tenders and infrastructure programmes, mapping beneficial ownership and conflicts of interest relevant to Ordinance 2013-660, procurement rules overseen by ANRMP and the foreign anti-bribery laws that bind the client."
+    },
+    {
+      "title": "Trade finance and exporter fraud",
+      "text": "Verification of commodity exporters and trading companies in Abidjan and San-Pédro, testing corporate identity, warehouse and shipping claims, and litigation history, for banks, insurers and buyers exposed to prepayment, collateral or documentary fraud in Ivorian trade flows."
+    },
+    {
+      "title": "Regional asset research",
+      "text": "Identification of companies, real property indicators and business interests linked to a debtor or former partner in Côte d'Ivoire and neighbouring WAEMU states, coordinated with Ivorian counsel so that enforcement under OHADA procedures proceeds through lawful channels."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "French; Dioula widely used in commerce"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Abidjan, UTC+0, no daylight saving time"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Courts language",
+      "value": "French"
+    },
+    {
+      "label": "Currency",
+      "value": "West African CFA franc (XOF)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Abidjan, San-Pédro, Bouaké, Yamoussoukro (political capital)"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Foreign documents generally need legalisation and certified French translation; notarised deeds are standard"
+    },
+    {
+      "label": "Business culture",
+      "value": "Formal and hierarchical; introductions and in-person meetings carry weight"
+    }
+  ],
+  "tdsc_approach": "TDSC opens each Côte d'Ivoire matter by establishing its purpose, the parties and how findings may be used, including before Ivorian courts, the CCJA or arbitral tribunals. Desk research draws on RCCM records, the official journal, procurement notices, court reporting and French-language press in Abidjan. Because Law 2013-450 requires ARTCI declaration or authorisation for many forms of processing and for transfers abroad, TDSC limits personal data to what the matter requires and agrees with the client's Ivorian counsel how any locally gathered data is handled and transferred. Where RCCM extracts, court or land searches, or field inquiries in producing regions are needed, TDSC coordinates qualified Ivorian professionals. It does not seek police, tax, telecommunications or bank data informally.",
+  "faqs": [
+    {
+      "q": "Can we obtain official records on an Ivorian company?",
+      "a": "Usually. Companies are registered in the RCCM under OHADA law, and extracts showing the company's identity, capital, managers and recorded changes can be requested from the commercial court registry. Online access is limited, so retrieval is often done locally. Ownership above the registered shareholders is then tested against press, litigation and inquiry."
+    },
+    {
+      "q": "Do we need ARTCI approval to collect personal data in Côte d'Ivoire?",
+      "a": "Possibly. Law 2013-450 requires a prior declaration to ARTCI for most processing and prior authorisation for sensitive categories, including criminal-offence data and national ID numbers, and for transfers to third countries. Whether an investigative workstream triggers these duties depends on who processes the data and where, which should be confirmed with Ivorian counsel."
+    },
+    {
+      "q": "What due diligence is common for cocoa sourcing from Côte d'Ivoire?",
+      "a": "Buyers and financiers typically verify cooperatives and exporters, their licences and ownership, trading and payment history, and any reporting on child labour, deforestation or diversion of beans. Desk research is combined, where needed, with inquiries by qualified local professionals in producing regions such as the west and south-west."
+    },
+    {
+      "q": "Which Ivorian bodies handle corruption matters?",
+      "a": "The High Authority for Good Governance, created by Ordinance 2013-660, develops anti-corruption policy and investigates corrupt practices. CENTIF receives suspicious transaction reports, and the ANRMP oversees public procurement. Prosecution rests with the judicial authorities. Whether and how a client reports a concern is a decision taken with Ivorian counsel."
+    },
+    {
+      "q": "Why does OHADA law matter for an investigation in Côte d'Ivoire?",
+      "a": "OHADA uniform acts govern Ivorian companies, the commercial register, securities and debt recovery, and appeals on those matters go to the CCJA in Abidjan. Findings intended to support enforcement or arbitration are therefore gathered and documented with OHADA procedures and evidential expectations in mind, in coordination with counsel."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Côte d'Ivoire",
+      "url": "https://www.dlapiperdataprotection.com/?c=CI&t=law"
+    },
+    {
+      "title": "Data Protection Africa: Côte d'Ivoire factsheet",
+      "url": "https://dataprotection.africa/?p=3968"
+    },
+    {
+      "title": "Ropes & Gray: Enforcement Spotlight, Côte d'Ivoire",
+      "url": "https://www.ropesgray.com/en/insights/alerts/2020/12/enforcement-spotlight-cote-divoire"
+    },
+    {
+      "title": "Ordonnance n° 2013-660 (CIVLII / Laws.Africa)",
+      "url": "https://civlii.laws.africa/en/akn/ci/act/ord/2013/660/fra@2024-01-17/source"
+    },
+    {
+      "title": "Open Government Partnership: Côte d'Ivoire commitment CI0028 (HABG anti-corruption strategy)",
+      "url": "https://www.opengovpartnership.org/members/cote-divoire/commitments/CI0028/"
+    },
+    {
+      "title": "Corruption in Côte d'Ivoire (overview)",
+      "url": "https://en.wikipedia.org/wiki/Corruption_in_C%C3%B4te_d%27Ivoire"
+    },
+    {
+      "title": "Institut National de la Statistique (INS) Côte d'Ivoire",
+      "url": "https://www.ins.ci/"
+    }
+  ],
+  "review_flags": [
+    "Population NOT verified this session: 29.4 million (2021 census) is from general knowledge; INS URL cited unfetched. The only figure seen (26.4 million, Data Protection Africa) is undated and outdated. Verify against INS/World Bank.",
+    "Private investigator licensing not verified; text says so.",
+    "Corporate records paragraph (RCCM at commercial court registry, CEPICI, beneficial ownership disclosure) and legal-system details (Commercial Court of Abidjan, CACI) are from general knowledge, not fetched sources. Public status of any beneficial ownership register unconfirmed.",
+    "AML law not named (WAEMU-based law, believed to be Law No. 2016-992) and Pôle Pénal Économique et Financier not mentioned because unverified; ordinance 2013-660 exact enactment date not confirmed (publication cited as 25 September 2013).",
+    "Law No. 2024-532 on electronic communications listed by DLA Piper as part of the data regime; effect on Law 2013-450 not reviewed. Law 2013-451 (cybercrime) cited from DLA Piper."
+  ],
+  "researched": "2026-11-04"
+}

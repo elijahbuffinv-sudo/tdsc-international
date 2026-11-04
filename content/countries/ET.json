@@ -1,0 +1,100 @@
+{
+  "cc": "ET",
+  "name": "Ethiopia",
+  "meta_description": "TDSC investigative consulting on Ethiopia: partner due diligence, asset and dispute research, and data handling under Proclamation No. 1321/2024.",
+  "eyebrow": "Federal Democratic Republic of Ethiopia",
+  "hero_lede": "Investigative consulting for matters touching Ethiopia means working with a liberalising economy, a 2021 Commercial Code, a 2024 data protection proclamation with localisation and transfer controls, limited online corporate records and regional security conditions, coordinated with Ethiopian counsel and qualified local professionals.",
+  "intro": [
+    "Ethiopia is opening sectors that were long reserved to the state or to domestic investors, while modernising its commercial law. The Commercial Code (Proclamation No. 1243/2021) replaced the 1960 code, and registration and licensing follow Proclamation No. 980/2016 and Directive No. 935/2022, administered federally by the trade ministry and regionally by trade bureaus. Corporate information is not published in a searchable public register comparable to those in many other jurisdictions, so investigators depend on certified extracts, local enquiries and court files. The Personal Data Protection Proclamation No. 1321/2024, in force since 24 July 2024, adds registration, localisation and transfer requirements that affect how research on individuals is conducted.",
+    "Organisations commission investigative work involving Ethiopia because foreign capital is entering banking, telecommunications, logistics, manufacturing, agriculture and energy, often through joint ventures with local partners whose ownership and connections are not easy to verify from public sources. Coffee, horticulture and other agricultural exports bring buyers into contact with traders and cooperatives. Development finance and large infrastructure projects raise procurement integrity questions. Currency reform since 2024 and past foreign exchange shortages have shaped payment disputes and informal arrangements. Conflict and insecurity in parts of the country also mean that any field activity must be assessed carefully for safety and access."
+  ],
+  "population": {
+    "value": "about 130 million",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Ethiopia has a civil law system based on codified legislation, including the Civil Code of 1960 and the Commercial Code of 2021. Federal courts comprise the Federal First Instance Court, the Federal High Court and the Federal Supreme Court, whose cassation division issues interpretations binding on lower courts; regional states have parallel court systems. Commercial disputes involving foreign investors commonly reach the Federal High Court. Arbitration is governed by the Arbitration and Conciliation Working Procedure Proclamation No. 1237/2021, and the Addis Ababa Chamber of Commerce and Sectoral Associations runs an arbitration institute. Federal proceedings are in Amharic.",
+  "data_protection": {
+    "law": "Personal Data Protection Proclamation No. 1321/2024 (adopted 4 April 2024, in force 24 July 2024)",
+    "regulator": "Ethiopian Communications Authority",
+    "summary": "The proclamation recognises lawful bases including consent, contract, legal obligation, public authority mandate and legitimate interest, so investigative processing needs a documented basis and balancing. Sensitive data, which includes criminal offences and communications data, is generally prohibited except under listed conditions. Controllers and processors must register with the Authority, and data collected in Ethiopia is subject to local storage requirements, with the Authority able to designate categories that must be processed domestically. Transfers abroad rely on an adequacy decision, explicit consent or necessity grounds such as legal claims, and sensitive data transfers need prior authorisation. Practice under the new regime is still developing."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators or detective agencies in Ethiopia. Investigative powers, including surveillance and interception of communications, are exercised by state bodies under law, and the 2024 data protection proclamation restricts collection of personal and communications data. Field enquiries can also be affected by security conditions and by sensitivity around questioning that touches government or security matters. Engagements are therefore scoped with Ethiopian counsel, relying on certified registry extracts, court records, open sources in Amharic and English, and lawful interviews conducted by qualified local professionals.",
+  "corporate_records": "Companies are registered and licensed under Proclamation No. 980/2016 by the federal trade ministry, with regional trade bureaus registering sole proprietorships, partnerships and regionally scoped businesses. Registration files contain memoranda and articles of association, founders' minutes, general manager details and capital information, but we have not identified a free, searchable public online register; extracts are typically obtained through the registering authority or local counsel. We have not identified a public beneficial ownership register. Investment licences for foreign investors are issued by the Ethiopian Investment Commission. Land is generally held under state leasehold, and property and court records are not consistently available online.",
+  "anti_corruption": "Corruption offences are set out in the Corruption Crimes Proclamation No. 881/2015 alongside the Criminal Code. The Federal Ethics and Anti-Corruption Commission leads prevention and asset registration of officials, while investigation and prosecution involve the Federal Police and the federal prosecution service. Anti-money laundering obligations arise under the Prevention and Suppression of Money Laundering and Financing of Terrorism Proclamation No. 780/2013, with the Financial Intelligence Service acting as the financial intelligence unit.",
+  "matters": [
+    {
+      "title": "Joint venture partner vetting",
+      "text": "Researching Ethiopian partners in manufacturing, agriculture, logistics and newly opened service sectors, covering registration files, shareholders and general managers, related companies, litigation in federal and regional courts, political exposure and reputation, where public records alone rarely reveal who controls a business."
+    },
+    {
+      "title": "Banking and telecoms market entry",
+      "text": "Supporting investors assessing opportunities created by the opening of banking and telecommunications to foreign participation, with background research on prospective local shareholders, distributors and agents, and review of regulatory, media and litigation history relevant to licensing and reputational risk."
+    },
+    {
+      "title": "Agricultural export supply chains",
+      "text": "Verifying coffee, oilseed, horticulture and livestock exporters, traders and cooperatives for buyers who need assurance on ownership, trading history, export licence status, prior contract defaults and supply chain practices, including labour and land use concerns raised in media or by civil society."
+    },
+    {
+      "title": "Procurement and project integrity",
+      "text": "Reviewing contractors, subcontractors and consultants on infrastructure, energy and development-funded projects for undisclosed relationships, debarment or prior performance problems, and allegations of irregular payments, to support lenders, contractors and compliance teams responding to concerns raised during tender or delivery."
+    },
+    {
+      "title": "Payment disputes and asset research",
+      "text": "Assisting counsel in disputes arising from unpaid supplies, foreign exchange constraints or failed ventures, by identifying business interests, vehicles and leasehold property linked to an Ethiopian debtor, with enforcement steps before the Ethiopian courts handled by local lawyers."
+    }
+  ],
+  "practical": [
+    {"label": "Business languages", "value": "Amharic; English widely used in business and law firms; Afaan Oromo and other regional languages"},
+    {"label": "Time zone", "value": "Africa/Addis_Ababa, UTC+3 (no daylight saving)"},
+    {"label": "Calendar and clock", "value": "Ethiopian calendar and local 12-hour clock are common; confirm dates and times in writing"},
+    {"label": "Working week", "value": "Monday to Friday, with Saturday morning work in some businesses"},
+    {"label": "Currency", "value": "Ethiopian birr (ETB)"},
+    {"label": "Main business centres", "value": "Addis Ababa, Dire Dawa, Hawassa, Bahir Dar, Adama"},
+    {"label": "Courts language", "value": "Amharic in federal courts; foreign documents need authentication and translation"},
+    {"label": "Field conditions", "value": "Security varies by region; travel is assessed matter by matter"}
+  ],
+  "tdsc_approach": "Engagements touching Ethiopia are scoped from Nashville, beginning with what can lawfully be established and how. Because corporate records are not widely searchable online, certified registration files and court records are obtained through qualified local professionals and Ethiopian counsel, and tested against investment licences, media archives and open sources in Amharic and English. The 2024 data protection proclamation requires a documented lawful basis, restricts sensitive data and controls transfers abroad, so personal data is minimised and any transfer to the United States is agreed with counsel in advance. Any field activity is preceded by a security assessment for the region concerned. Every matter is screened for sanctions exposure. TDSC does not use pretexting or seek restricted government records.",
+  "faqs": [
+    {
+      "q": "Is there an online company register for Ethiopia?",
+      "a": "Not one comparable to searchable public registers elsewhere. Companies register with the federal trade ministry or regional trade bureaus under Proclamation No. 980/2016, and the files hold articles of association, founders' minutes and manager details. Extracts are generally obtained through the registering authority or local counsel, and ownership should be checked against other sources."
+    },
+    {
+      "q": "What changed with Ethiopia's 2024 data protection law?",
+      "a": "Proclamation No. 1321/2024, in force since 24 July 2024, introduced lawful bases for processing, special rules for sensitive data, registration of controllers and processors with the Ethiopian Communications Authority, local storage requirements and controls on transfers abroad. Investigative work involving Ethiopian individuals now needs a documented basis and a planned route for any cross-border transfer."
+    },
+    {
+      "q": "Are private investigators licensed in Ethiopia?",
+      "a": "We have not identified a dedicated licensing regime for private investigators in Ethiopia. Surveillance and interception are matters for state bodies, and personal and communications data are protected by the 2024 proclamation. TDSC therefore relies on certified records, court files, open sources and lawful interviews by qualified local professionals working with Ethiopian counsel."
+    },
+    {
+      "q": "Can you carry out enquiries outside Addis Ababa?",
+      "a": "Sometimes, depending on the region and the purpose. Security conditions differ across Ethiopia and change over time, so any travel or local enquiry is assessed for safety, access and legal sensitivity before it is commissioned. Where field work is not prudent, we rely on records, open sources and interviews that can be conducted remotely."
+    },
+    {
+      "q": "Can dates in Ethiopian documents be misread?",
+      "a": "Yes. Ethiopian documents often use the Ethiopian calendar, which runs roughly seven to eight years behind the Gregorian calendar and begins its year in September, and local time is often counted from 6 a.m. We convert and confirm dates in registry extracts, contracts and court records so that chronologies prepared for counsel are reliable."
+    }
+  ],
+  "sources": [
+    {"title": "Digital Policy Alert: Ethiopia adopted Personal Data Protection Proclamation No. 1321/2024", "url": "https://digitalpolicyalert.org/event/24927-adopted-personal-data-protection-proclamation-proclamation-no-13212024-including-data-protection-authority-governance"},
+    {"title": "Techhive Advisory: Review of Ethiopia's Data Protection Act", "url": "https://www.techhiveadvisory.africa/insights/review-of-ethiopias-data-protection-act"},
+    {"title": "Ethiopian Federal Laws: Personal Data Protection Proclamation No. 1321/2024 (text)", "url": "https://www.metaappz.com/References/ethiopian_laws/federal/pr_1321_2024/en/txt"},
+    {"title": "Cliffe Dekker Hofmeyr: Legislation governing companies in Ethiopia", "url": "https://www.cliffedekkerhofmeyr.com/guides/africa-corporate/ethiopia/entity-setup/what-is-the-legislation-that-governs-companies-in-your-jurisdiction.html"},
+    {"title": "Mondaq: Registering a business in Ethiopia, what you need to know (2026)", "url": "https://www.mondaq.com/contracts-and-commercial-law/1778414/registering-a-business-in-ethiopia-what-you-need-to-know"},
+    {"title": "Simmons & Simmons: The new Commercial Registration and Business Licensing Proclamation", "url": "https://www.simmons-simmons.com/en/publications/ck0amiwj3digk0b59306i5953/05-the-new-commercial-registration-and-business-licensing-4fr1ca"},
+    {"title": "Ethiopian Federal Laws: Commercial Registration and Business Licensing Proclamation No. 980/2016", "url": "https://www.metaappz.com/References/ethiopian_laws/federal/pr_980_2016/en/pdf"},
+    {"title": "CIPIT: Ethiopia's Personal Data Protection Proclamation of 2024 and its digital identity regime", "url": "https://cipit.strathmore.edu/?p=4868"}
+  ],
+  "review_flags": [
+    "Population not sourced: no World Bank or national statistics result appeared within the search budget. 'About 130 million' is from general knowledge; add a source before publishing.",
+    "Anti-corruption and AML laws and bodies (Proclamation 881/2015, Proclamation 780/2013, FEACC, Financial Intelligence Service) are from general knowledge and were not verified in this pass.",
+    "Name of the federal trade ministry is uncertain (Ministry of Trade and Regional Integration vs. 'Ministry of Trade and Industry' used by a 2026 Mondaq article); page uses 'federal trade ministry'. Confirm current name.",
+    "Court structure, Arbitration Proclamation No. 1237/2021 and the AACCSA arbitration institute are from general knowledge, not verified.",
+    "Data localisation requirement is reported by Techhive Advisory; confirm scope against the proclamation text and any Ethiopian Communications Authority directives.",
+    "No private investigator licensing regime and no public beneficial ownership register identified; confirm with Ethiopian counsel.",
+    "Regional security conditions (conflict in parts of the country) change quickly; review before publishing."
+  ],
+  "researched": "2026-11-04"
+}

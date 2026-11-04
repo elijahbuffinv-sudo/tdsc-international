@@ -1,0 +1,146 @@
+{
+  "cc": "UZ",
+  "name": "Uzbekistan",
+  "meta_description": "TDSC investigative consulting on Uzbekistan: partner due diligence, privatisation and procurement risk, and research within personal data localisation rules.",
+  "eyebrow": "Republic of Uzbekistan, Central Asia",
+  "hero_lede": "Investigative consulting for matters touching Uzbekistan works within a fast-reforming economy, a 2019 personal data law with strict localisation and consent rules, an Anti-Corruption Agency created in 2020, and coordination with Uzbek counsel and qualified local professionals for any work in the country.",
+  "intro": [
+    "Since 2017 Uzbekistan has moved from a largely closed, state-directed economy toward liberalisation: currency convertibility, privatisation of state enterprises and banks, simplified company registration and an active drive for foreign investment. Reform has been rapid but uneven, and the state, state-owned enterprises and politically connected business groups remain central in many sectors. For investigators, this means public information is improving but still patchy, corporate histories may involve recent privatisations or restructurings, and records exist in Uzbek, in Latin and Cyrillic scripts, and in Russian. The Law on Personal Data of 2019, with a localisation requirement in force since April 2021, shapes how information about Uzbek citizens can be handled.",
+    "Organisations commission investigative work involving Uzbekistan because of investment in mining and metals, energy, including gas, solar and wind, chemicals, textiles and cotton processing, agriculture, banking, telecommunications, automotive and construction. International financial institutions fund large infrastructure and privatisation programmes, and trade links run to Russia, China, Kazakhstan, Turkey, South Korea and the Gulf. Typical exposures include the true ownership of privatised assets, connections between counterparties and officials, procurement integrity, labour and supply-chain concerns in cotton and textiles, and the risk that trading partners divert controlled goods through Central Asian routes."
+  ],
+  "population": {
+    "value": "approximately 37 million",
+    "year": "2025",
+    "source_url": ""
+  },
+  "legal_system": "Uzbekistan has a civil law system rooted in the Soviet legal tradition and codified in the Civil Code, the Economic Procedure Code and related statutes. Following the 2017 judicial reform, the Supreme Court sits at the top of a unified system that includes specialised economic courts at regional level for commercial disputes, alongside civil, criminal and administrative courts. The Tashkent International Arbitration Centre (TIAC) is the principal institutional forum for international commercial arbitration. Proceedings are conducted in Uzbek, with Russian widely used in practice.",
+  "data_protection": {
+    "law": "Law of the Republic of Uzbekistan No. ZRU-547 On Personal Data (2 July 2019, in force 1 October 2019; localisation requirement in force 16 April 2021)",
+    "regulator": "Personalization Agency under the Ministry of Justice (State Register of Personal Databases), with oversight by the State Inspection for Informatization and Telecommunications",
+    "summary": "The law recognises several grounds for processing, including consent, contract, legal obligation, legitimate interests and data taken from public sources, but in practice explicit consent with prescribed content is the main basis relied upon. Personal data of Uzbek citizens processed using information technology must be collected and stored on servers physically located in Uzbekistan, in databases registered in the State Register. Transfers abroad are allowed to countries with adequate protection, but no adequacy list has been adopted, so explicit consent or a treaty basis is usually needed. Violations carry administrative fines, criminal liability for repeat offences and possible website blocking."
+  },
+  "investigator_regulation": "We have not identified a law regulating private detective or investigative activity in Uzbekistan, and the sources reviewed for this page do not describe a licensing regime for investigators. Operational-search activity, surveillance and interception are reserved to state bodies. The personal data law's consent, localisation and transfer rules apply to anyone collecting information about Uzbek citizens, and unlawful collection or dissemination of personal data can attract criminal liability. Engagements are therefore scoped with Uzbek counsel, and any enquiries in the country are limited to public records, open sources and lawful interviews conducted by qualified local professionals.",
+  "corporate_records": "Companies are registered through the state one-stop registration system operated under the Public Services Agency, and basic information on legal entities, including registration details, directors and founders, is available through official online services and the state statistics register of enterprises. Financial statements of joint-stock companies and banks are disclosed more fully through the capital markets disclosure portal. Beneficial ownership identification has developed through anti-money laundering rules and the 2021 Law on Public Procurement, but we have not identified a public beneficial ownership register. Real estate and cadastral records are held by state cadastre bodies with limited remote access.",
+  "anti_corruption": "The Law on Combating Corruption (No. ZRU-419, 3 January 2017) is the core framework, supplemented by the Criminal Code's bribery and abuse of office offences, a civil service law (2022) and a Law on Conflict of Interest (No. ZRU-931, June 2024). The Anti-Corruption Agency, established in 2020, reports to the President and is accountable to Parliament; the General Prosecutor's Office leads criminal enforcement. Anti-money laundering obligations derive from the 2004 law on countering the legalisation of proceeds of crime, with the Department for Combating Economic Crimes under the General Prosecutor's Office acting as financial intelligence unit.",
+  "matters": [
+    {
+      "title": "Privatisation and acquisition due diligence",
+      "text": "Researching the history of state enterprises, banks and assets offered for privatisation or sold to private buyers, including prior ownership changes, connections between bidders and officials, litigation, regulatory findings and media reporting in Uzbek and Russian."
+    },
+    {
+      "title": "Local partner and distributor vetting",
+      "text": "Assessing proposed joint-venture partners, distributors and agents for foreign companies entering the Uzbek market, where business groups may be connected to regional administrations or state enterprises and formal records do not show the full extent of influence."
+    },
+    {
+      "title": "Mining, energy and infrastructure projects",
+      "text": "Background research on contractors, suppliers and local partners in gold, copper and uranium mining, gas, renewable energy and infrastructure programmes, frequently financed by development banks with their own integrity, sanctions-screening and procurement requirements that counterparties must satisfy."
+    },
+    {
+      "title": "Supply-chain and labour compliance",
+      "text": "Supporting buyers in cotton, textiles and agriculture with research into suppliers, cluster operators and subcontractors, focusing on ownership, compliance history and public reporting on labour practices, as part of the client's own human rights due diligence."
+    },
+    {
+      "title": "Trade intermediaries and export controls",
+      "text": "Reviewing trading companies and freight forwarders handling goods that pass through Uzbekistan to neighbouring markets, where clients need assurance that intermediaries are not connected to restricted parties or involved in diversion of controlled items, and that stated end users are genuine."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Uzbek (Latin and Cyrillic scripts); Russian widely used; English growing"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Tashkent, UTC+5 (no daylight saving)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; some offices open Saturday"
+    },
+    {
+      "label": "Currency",
+      "value": "Uzbek som (UZS)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Tashkent, Samarkand, Bukhara, Navoi, Andijan, Fergana, Namangan"
+    },
+    {
+      "label": "Data handling",
+      "value": "Citizens' personal data subject to in-country storage and registration rules"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Foreign documents generally need notarised Uzbek or Russian translation"
+    },
+    {
+      "label": "Business culture",
+      "value": "Hierarchical; senior relationships and in-person meetings carry weight"
+    }
+  ],
+  "tdsc_approach": "Engagements touching Uzbekistan are scoped from Nashville with particular attention to the personal data law. Before any information about Uzbek citizens is collected, TDSC reviews with Uzbek counsel whether consent, localisation and registration requirements apply and how findings can lawfully be transferred to the client. Research relies on official registration and disclosure services, court decisions where published, procurement records, foreign registries in Kazakhstan, Russia, Turkey, the UAE and elsewhere, and open sources in Uzbek, Russian and English, with names checked across Latin and Cyrillic spellings. Any enquiries in the country are carried out by qualified local professionals under counsel's direction. Every matter is screened for sanctions and export-control exposure. TDSC does not use pretexting or seek access to state databases.",
+  "faqs": [
+    {
+      "q": "Does Uzbekistan require personal data to be stored locally?",
+      "a": "Yes. Since 16 April 2021, personal data of Uzbek citizens processed using information technology must be collected and stored on servers physically located in Uzbekistan, in databases registered in the State Register of Personal Databases. This affects how an investigation that involves Uzbek individuals is structured, and TDSC reviews the position with Uzbek counsel before collecting personal data."
+    },
+    {
+      "q": "Can findings about Uzbek individuals be transferred to the United States?",
+      "a": "Transfers are allowed to countries with adequate protection, but Uzbekistan has not published an adequacy list. In practice, transfers usually rely on the data subject's explicit consent or another basis provided by law or treaty, which is often impractical in investigations. TDSC therefore limits personal data, favours analysis of public and corporate records, and agrees the handling approach with counsel."
+    },
+    {
+      "q": "Who enforces anti-corruption law in Uzbekistan?",
+      "a": "The Anti-Corruption Agency, established in 2020 under the 2017 Law on Combating Corruption, develops prevention policy and coordinates anti-corruption work. Criminal investigation and prosecution are led by the General Prosecutor's Office and other law enforcement bodies. A Law on Conflict of Interest was adopted in 2024, and asset declaration legislation for officials has been in development."
+    },
+    {
+      "q": "Is there a public beneficial ownership register in Uzbekistan?",
+      "a": "We have not identified one. Beneficial ownership information is collected under anti-money laundering rules and, since the 2021 Law on Public Procurement, in procurement processes, but it is not published as a searchable register. Ownership is established from registration data, disclosure filings for joint-stock companies and foreign corporate records."
+    },
+    {
+      "q": "Are private investigators licensed in Uzbekistan?",
+      "a": "We have not identified a law that licenses private detective activity in Uzbekistan. Surveillance and operational-search measures are reserved to state bodies. TDSC does not hold an Uzbek licence; where local enquiries are needed, we coordinate qualified professionals working within the general law and under the direction of Uzbek counsel."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Uzbekistan",
+      "url": "https://www.dlapiperdataprotection.com/?c=UZ&t=law"
+    },
+    {
+      "title": "Legal 500: Personal data compliance in Uzbekistan",
+      "url": "https://www.legal500.com/developments/thought-leadership/personal-data-compliance-in-uzbekistan/"
+    },
+    {
+      "title": "Kun.uz: Uzbekistan's data localization law hinders entry of Apple Pay and Google Pay (December 2024)",
+      "url": "https://kun.uz/en/news/2024/12/26/uzbekistans-data-localization-law-hinders-entry-of-apple-pay-and-google-pay"
+    },
+    {
+      "title": "HSE University Anti-Corruption Portal: Uzbekistan",
+      "url": "https://anticor.hse.ru/en/main/country/Uzbekistan"
+    },
+    {
+      "title": "Daryo: Uzbekistan governance and anti-corruption efforts, IMF report (July 2024)",
+      "url": "https://daryo.uz/en/2024/07/12/uzbekistan-governance-and-anti-corruption-efforts-imf-report"
+    },
+    {
+      "title": "Embassy of Uzbekistan in Austria: Uzbekistan's evolving anti-corruption model",
+      "url": "https://usbekistan.at/?p=3940"
+    },
+    {
+      "title": "National Bank of Uzbekistan: Law ZRU-419 On Combating Corruption (3 January 2017), English text",
+      "url": "https://nbu.uz/assets/zru-419-03.01.2017-ing.pdf"
+    },
+    {
+      "title": "OSCE: Statement by the Director of the Anti-Corruption Agency of Uzbekistan (September 2020)",
+      "url": "https://www2.osce.org/files/f/documents/5/d/463521.pdf"
+    }
+  ],
+  "review_flags": [
+    "Population (approx. 37 million, 2025) is NOT sourced: no World Bank or national statistics page appeared within the search budget. source_url is empty; add a citation before publishing.",
+    "No private detective licensing law identified; based on absence in research. Confirm with Uzbek counsel (draft laws have been discussed in the past).",
+    "Regulator naming is inconsistent across sources: DLA Piper says the State Personalization Centre became the Personalization Agency under the Ministry of Justice from 1 January 2023; Legal 500 still refers to the State Personalization Center under the Cabinet of Ministers. Confirm current name.",
+    "AML framework (2004 law, Department for Combating Economic Crimes under the General Prosecutor's Office as FIU), company registration via Public Services Agency, capital markets disclosure portal, economic courts after the 2017 reform and TIAC are from general knowledge, not verified sources.",
+    "Asset declaration law for officials was in development per IMF (2024); check whether it has since been adopted."
+  ],
+  "researched": "2026-11-04"
+}

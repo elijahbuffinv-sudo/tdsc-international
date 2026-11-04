@@ -1,0 +1,147 @@
+{
+  "cc": "SN",
+  "name": "Senegal",
+  "meta_description": "TDSC investigative consulting on Senegal: RCCM and beneficial ownership records, CDP data rules, OFNAC reforms and counterparty checks in oil, gas and mining.",
+  "eyebrow": "Republic of Senegal",
+  "hero_lede": "Matters touching Senegal increasingly involve oil and gas development, mining, infrastructure around Dakar and a strengthened anti-corruption agenda. TDSC scopes counterparty research, integrity due diligence and asset inquiries from Nashville, coordinating qualified Senegalese professionals and counsel where work in the country is required.",
+  "intro": [
+    "Senegal is a French-speaking civil-law republic with a long record of stable institutions, a member of OHADA and of the West African Economic and Monetary Union. Company law and commercial registration follow the OHADA uniform acts, with companies entered in the RCCM, and since 2020 a register of beneficial owners has been housed within it; a decree of August 2025 widened free access to key data. Personal data has been regulated since 2008 and supervised by the Commission de Protection des Données Personnelles. Anti-corruption institutions were reinforced in 2024 and 2025, and economic crime cases now go to the Financial Judicial Pool. Investigative work combines these records with discreet inquiry in Dakar and the regions.",
+    "Organisations commission work involving Senegal because of its emergence as an oil and gas producer, its phosphate, gold and zircon mining, its fisheries and agriculture, and Dakar's role as a regional hub for finance, logistics and international organisations. Typical exposures include vetting of local content partners and service companies in the energy sector, mining permit ownership and intermediaries, public procurement and infrastructure contracting, and counterparties in regional trade. Audits and contract reviews pursued by public authorities have also increased scrutiny of past transactions, leading investors and lenders to examine counterparties' histories and the provenance of assets more closely before committing capital."
+  ],
+  "population": {
+    "value": "18.0 million (2023 census)",
+    "year": "2023",
+    "source_url": ""
+  },
+  "legal_system": "Senegal has a civil-law system derived from the French tradition, with national codes alongside the OHADA uniform acts on companies, commercial registration, securities, insolvency and arbitration. The Supreme Court heads the ordinary courts and the Constitutional Council reviews constitutionality. Commercial disputes go to dedicated commercial courts, including the Commercial Court of Dakar, and on OHADA matters final appeals lie to the Common Court of Justice and Arbitration in Abidjan. Institutional arbitration and mediation are offered by the arbitration centre of the Dakar Chamber of Commerce.",
+  "data_protection": {
+    "law": "Law No. 2008-12 of 25 January 2008 on the protection of personal data, with Decree No. 2008-721 of 30 June 2008",
+    "regulator": "Commission de Protection des Données Personnelles (CDP)",
+    "summary": "Most processing of personal data in Senegal must be notified to the CDP, and prior approval is required for sensitive processing, including criminal-offence data, genetic or biometric data, national identification numbers and interconnection of files. Transfers abroad are generally barred unless the destination provides sufficient protection; countries in the African association of data protection authorities are treated as adequate, others are assessed case by case, and the controller must inform the CDP beforehand. The CDP publishes a directory of declared processing. A replacement law creating a new authority has been under discussion since 2019. Investigative work collecting data on Senegalese individuals should be reviewed with Senegalese counsel."
+  },
+  "investigator_regulation": "We have not identified, from sources verified for this page, a dedicated statutory licensing regime for private investigators in Senegal, and the position should be confirmed with Senegalese counsel before local inquiries begin. Several limits apply regardless. Processing personal data is subject to Law 2008-12, and criminal-offence data and national ID numbers require CDP approval. Criminal code amendments of 2016 and 2021 address offences involving computer systems and personal data. Police, tax, telecommunications and banking records are not available to private inquirers, and investigators have no official powers. Covert recording or surveillance can breach privacy protections and expose both investigator and client to liability.",
+  "corporate_records": "Companies are registered in the Registre du Commerce et du Crédit Mobilier (RCCM) under the OHADA Uniform Act on General Commercial Law, kept by the commercial court registries, with Dakar holding most entries. Extracts show identity, capital, managers and recorded changes. A Register of Beneficial Owners, organised by Decree No. 2020-791 of 19 March 2020, sits within the RCCM; access was initially limited to persons with a legitimate interest, but a decree of 27 August 2025 opened free access to certain key data. EITI Senegal reports beneficial ownership in the extractive sector. Land and court records usually require local searches.",
+  "anti_corruption": "The National Office for the Fight against Fraud and Corruption (OFNAC), created by Law No. 2012-30, was strengthened by Law No. 2024-06, which extended limitation periods and investigative powers; Law No. 2024-07 widened asset declaration duties. A 2025 bill to re-establish OFNAC and a whistleblower protection bill followed. The Financial Judicial Pool, created by a 2023 law and inaugurated in 2024, replaced the Court for the Repression of Illicit Enrichment. CENTIF receives suspicious transaction reports under AML legislation.",
+  "matters": [
+    {
+      "title": "Energy sector partner vetting",
+      "text": "Background research on local content partners, service companies and intermediaries around Senegal's offshore oil and gas projects, examining ownership, links to officials, contracting history and disputes before joint ventures, subcontracts or acquisitions are concluded, and testing claims of local capability and experience."
+    },
+    {
+      "title": "Mining permit and ownership research",
+      "text": "Research into holders of gold, phosphate and mineral sands permits, their shareholders and beneficial owners as disclosed in the RCCM register or EITI reporting, and their record with regulators and communities, for investors, offtakers and lenders considering Senegalese mining assets."
+    },
+    {
+      "title": "Procurement and infrastructure integrity",
+      "text": "Integrity due diligence on agents, consultants and contractors engaged on public tenders and infrastructure programmes around Dakar and Diamniadio, mapping ownership and conflicts of interest relevant to Senegalese anti-corruption law and the foreign bribery laws that bind the client."
+    },
+    {
+      "title": "Legacy transaction review",
+      "text": "Research supporting clients whose earlier contracts, concessions or partners in Senegal are subject to public audits or contract reviews, establishing what records and reporting show about the transaction, the counterparties involved and any proceedings before the Financial Judicial Pool or other bodies."
+    },
+    {
+      "title": "Asset research and recovery support",
+      "text": "Identification of companies, real property indicators and business interests linked to a debtor or former partner in Senegal and neighbouring WAEMU states, coordinated with Senegalese counsel so that enforcement under OHADA procedures proceeds through lawful court channels."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "French; Wolof widely spoken in commerce"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Dakar, UTC+0, no daylight saving time"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; Friday afternoons often shortened for prayers"
+    },
+    {
+      "label": "Courts language",
+      "value": "French"
+    },
+    {
+      "label": "Currency",
+      "value": "West African CFA franc (XOF)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Dakar, Diamniadio, Thiès, Touba, Saint-Louis"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Notarised deeds are standard; foreign documents generally need legalisation and certified French translation"
+    },
+    {
+      "label": "Business culture",
+      "value": "Courteous and relationship-based; the concept of teranga (hospitality) shapes first meetings"
+    }
+  ],
+  "tdsc_approach": "TDSC opens each Senegal matter by defining its purpose, the parties and the intended use of findings, including whether they may be placed before Senegalese courts, the CCJA or arbitral tribunals. Desk research draws on RCCM and beneficial ownership records to the extent accessible, EITI Senegal disclosures, the official journal, procurement notices, court reporting and French- and Wolof-language media. Because Law 2008-12 requires CDP notification or approval for many types of processing and for transfers abroad, TDSC limits personal data to what the matter needs and agrees handling with the client's Senegalese counsel. Where certified extracts, land or court searches, or inquiries in Dakar and the regions are required, TDSC coordinates qualified Senegalese professionals. It does not seek police, tax, telecommunications or bank data informally.",
+  "faqs": [
+    {
+      "q": "Is Senegal's beneficial ownership register open to the public?",
+      "a": "Partly, and more so than before. The register sits within the RCCM under Decree No. 2020-791. Access was first limited to those with a legitimate interest, but an August 2025 decree opened free access to certain key data. Coverage is still developing, so entries are tested against RCCM extracts, EITI reporting and other sources."
+    },
+    {
+      "q": "What does the CDP require for investigations involving personal data?",
+      "a": "Under Law 2008-12, most processing must be notified to the Commission de Protection des Données Personnelles, and sensitive processing, such as criminal-offence data or national ID numbers, requires prior approval. Transfers abroad are restricted. Whether a given workstream triggers these duties depends on who handles data and where, which should be confirmed with counsel."
+    },
+    {
+      "q": "What changed in Senegal's anti-corruption framework in 2024 and 2025?",
+      "a": "Law No. 2024-06 strengthened OFNAC's powers and extended limitation periods, and Law No. 2024-07 widened asset declarations. The Financial Judicial Pool replaced the former illicit enrichment court in 2024. In 2025 the government introduced bills to re-establish OFNAC and protect whistleblowers. Their final status should be confirmed when an engagement is scoped."
+    },
+    {
+      "q": "How do you vet local content partners in Senegal's energy sector?",
+      "a": "We establish the company's registration, shareholders and beneficial owners, managers' backgrounds, contracting record and any disputes or adverse reporting, and look for undisclosed links to officials. Claims about capacity and prior work are tested against public records and, where appropriate, inquiries through qualified local professionals working within agreed limits."
+    },
+    {
+      "q": "Can findings be used in OHADA proceedings or arbitration?",
+      "a": "They can inform them. Senegalese companies and debt recovery are governed by OHADA uniform acts, and OHADA appeals go to the CCJA in Abidjan. Findings are documented with sources and collection methods so that counsel can decide how to use them, and any evidence for court is obtained through procedures counsel directs."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Senegal",
+      "url": "https://www.dlapiperdataprotection.com/?c=SN&t=law"
+    },
+    {
+      "title": "Osiris: Senegal to revise its personal data protection law (2020)",
+      "url": "https://osiris.sn/le-senegal-va-reviser-la-loi-sur-la-protection-des-donnees-personnelles.html"
+    },
+    {
+      "title": "Anticor: Senegal amends its anticorruption legislation (Laws 2024-06 and 2024-07)",
+      "url": "https://anticor.world/main/news_page/senegal_amends_its_anticorruption_legislation"
+    },
+    {
+      "title": "Seneweb: 628 companies declared in the register of beneficial owners",
+      "url": "https://www.seneweb.com/en/news/Economie/2024-fiscal-year-628-companies-declared-in-the-register-of-beneficial-owners-a-turning-point-for-extractive-transparency_n_479078.html"
+    },
+    {
+      "title": "AllAfrica: Senegal launches specialised court to address economic crimes",
+      "url": "https://allafrica.com/stories/202409200665.html"
+    },
+    {
+      "title": "AllAfrica: Lutte contre la corruption, l'État muscle son arsenal (July 2025)",
+      "url": "https://fr.allafrica.com/stories/202507310438.html"
+    },
+    {
+      "title": "Vie Publique Sénégal: Commission report on bill No. 12/2025 creating OFNAC",
+      "url": "https://www.vie-publique.sn/documents/6102/le-rapport-de-la-commission-des-lois-relatif-au-projet-de-loi-n122025-portant-creation-de-loffice-na"
+    },
+    {
+      "title": "Agence Nationale de la Statistique et de la Démographie (ANSD)",
+      "url": "https://www.ansd.sn/"
+    }
+  ],
+  "review_flags": [
+    "Population NOT verified this session: 18.0 million (2023 RGPH-5 census) is from general knowledge; ANSD URL cited unfetched. Verify.",
+    "Private investigator licensing not verified; text says so.",
+    "Status of 2025 OFNAC re-establishment bill (No. 12/2025, committee-approved 25 Aug 2025) and whistleblower bill not confirmed as enacted; text describes them as bills.",
+    "Beneficial ownership access decree number given inconsistently in source (2025-1354 vs 2025-2354); text omits the number.",
+    "Legal-system details (commercial courts, Dakar chamber arbitration centre) and CENTIF/AML framing are from general knowledge; AML law number not cited.",
+    "A replacement data protection law (creating an APDP) has been discussed since 2019; DLA Piper (updated March 2026) still lists Law 2008-12 as in force."
+  ],
+  "researched": "2026-11-04"
+}

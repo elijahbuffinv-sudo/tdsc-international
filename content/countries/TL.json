@@ -1,0 +1,143 @@
+{
+  "cc": "TL",
+  "name": "Timor-Leste",
+  "meta_description": "TDSC investigative consulting on Timor-Leste: partner vetting, ownership research and integrity checks for petroleum, infrastructure and trade from Nashville.",
+  "eyebrow": "Democratic Republic of Timor-Leste",
+  "hero_lede": "Investigative consulting on Timor-Leste usually involves vetting partners and contractors in a small, state-led economy shaped by petroleum revenue, public procurement and donor-funded projects. TDSC scopes each matter from Nashville, working from lawful sources and, where needed, licensed local professionals and Timorese counsel.",
+  "intro": [
+    "Timor-Leste is a young civil law jurisdiction whose legal system draws heavily on Portuguese models, with Portuguese and Tetum as official languages and the US dollar as currency. Public spending financed by petroleum revenue dominates the economy, so government contracts, concessions and state-linked enterprises feature in many commercial relationships. Companies register with SERVE, the business registration agency created in 2017, and the Commercial Companies Law of 2017 introduced beneficial ownership disclosure. Public records are thinner and less digitised than in larger markets: SERVE publishes lists of registered entities rather than a searchable register. Investigators therefore combine registry documents, the official gazette, court information, media in several languages and local enquiry.",
+    "Organisations commission work involving Timor-Leste for a limited but significant set of reasons. Petroleum, gas and mining participants, including those connected with offshore fields and onshore infrastructure, need to understand local partners, subcontractors and service providers. Construction and engineering firms bidding on roads, ports, power and water projects, many financed by multilateral lenders, need integrity checks on joint-venture partners and agents. Coffee exporters, telecoms and banking groups vet distributors and counterparties. Development agencies and lenders review contractors for conflicts of interest, and law firms seek factual support in contract and procurement disputes involving Timorese parties."
+  ],
+  "population": {
+    "value": "approximately 1.34 million",
+    "year": "2022",
+    "source_url": "https://inetl-ip.gov.tl/wp-content/uploads/2023/05/Final-Main-Report_TLPHC-Census_18052023.pdf"
+  },
+  "legal_system": "Timor-Leste has a civil law system modelled largely on Portuguese law, operating under the 2002 Constitution and codes including a Civil Code and a Penal Code. Commercial disputes are heard in district courts, with appeals to the Court of Appeal, which also exercises the functions of the Supreme Court of Justice pending that court's establishment. Proceedings are conducted mainly in Portuguese and Tetum. Specialised commercial courts and a domestic arbitration centre are not established to our knowledge, so cross-border contracts commonly provide for arbitration seated abroad.",
+  "data_protection": {
+    "law": "No comprehensive data protection statute verified as of 2026; constitutional protection of personal data and privacy under the 2002 Constitution",
+    "regulator": "No dedicated data protection authority verified",
+    "summary": "Our research did not confirm a general data protection law in force; sources conflict on this point, and it must be checked with Timorese counsel. The Constitution protects privacy and limits the processing of personal data, and the Penal Code and sectoral rules address confidentiality of communications and professional secrecy. No statutory cross-border transfer or localisation regime has been verified. In practice we treat personal data from Timor-Leste with GDPR-style discipline: a defined purpose, minimal collection, no sensitive data unless essential, and secure handling under the client's own legal obligations."
+  },
+  "investigator_regulation": "We have not identified, as of 2026, a licensing regime for private investigators in Timor-Leste or an authority responsible for the activity, and this should be confirmed with Timorese counsel before any local enquiry. Private security activity may be regulated separately. Investigators remain bound by constitutional privacy guarantees, criminal law on interception and confidentiality, and banking and professional secrecy rules. In a small society where officials, businesses and families are closely connected, approaches to individuals require care. TDSC does not conduct surveillance or covert recording and does not seek confidential government, banking or telecom information.",
+  "corporate_records": "Companies are registered with SERVE (Serviço de Registo e Verificação Empresarial, I.P.), created by Decree-Law 7/2017. The Commercial Companies Law (Law 10/2017) requires disclosure of beneficial owners to the registry. SERVE publishes lists of registered entities by legal form as downloadable documents, but no interactive public search or public beneficial ownership register has been identified; certified extracts and constitutional documents are obtained through the registry or counsel. Laws and decrees appear in the Jornal da República. Land title remains complex because of competing historical claims, and court records are not systematically published.",
+  "anti_corruption": "Law 17/2011 on preventing money laundering and terrorist financing, amended in 2013, created the Financial Information Unit within the Central Bank of Timor-Leste, which began operating in September 2014 and refers suspicions to the Public Prosecutor's Office. The Anti-Corruption Commission (CAC) investigates corruption, and the Anti-Corruption Law passed in 2020 added corruption-related offences and gave the CAC a system of asset and interest declarations. Foreign companies remain subject to home-country laws such as the US FCPA.",
+  "matters": [
+    {
+      "title": "Petroleum and resources partner vetting",
+      "text": "Background research on local partners, logistics providers and subcontractors serving offshore petroleum, onshore infrastructure and mining interests, focusing on ownership, links to officials or state companies, prior contract performance and reputation in Dili's small business community."
+    },
+    {
+      "title": "Public procurement and contractor integrity",
+      "text": "Integrity checks on construction and engineering contractors, joint-venture partners and agents bidding for state and multilaterally funded projects, looking for conflicts of interest, undisclosed relationships and adverse history relevant to lender integrity rules. Findings are sourced for lender review."
+    },
+    {
+      "title": "Ownership research with limited registries",
+      "text": "Assembling ownership and control information from SERVE documents, the official gazette, Indonesian, Australian, Portuguese and Singaporean registries where parent companies sit, and media, given that Timor-Leste has no public searchable beneficial ownership register. Gaps are stated plainly."
+    },
+    {
+      "title": "Agent and distributor due diligence",
+      "text": "Reviews of commercial agents, importers and distributors in fuel, telecoms, construction materials and consumer goods, assessing who benefits from commissions and whether arrangements create bribery exposure under the 2020 Anti-Corruption Law and home-country statutes. Findings are sourced."
+    },
+    {
+      "title": "Dispute and fraud fact-finding",
+      "text": "Factual support for counsel in contract, procurement and payment disputes, including identification of related parties and assets in Timor-Leste and neighbouring jurisdictions, coordinated with licensed local professionals where documents must be obtained in person. Limits are stated plainly."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official languages",
+      "value": "Portuguese and Tetum; Indonesian and English widely used in business"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Dili, UTC+9 (no daylight saving)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "US dollar (USD)"
+    },
+    {
+      "label": "Courts language",
+      "value": "Portuguese and Tetum; translation of foreign documents expected"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Notarised and translated documents commonly required for registry filings"
+    },
+    {
+      "label": "Main business centre",
+      "value": "Dili; secondary centres Baucau and Suai"
+    }
+  ],
+  "tdsc_approach": "TDSC handles matters touching Timor-Leste from Nashville. We begin by confirming the client's purpose and the legal constraints that apply, including constitutional privacy protection, secrecy rules and the client's own anti-corruption obligations, and we verify the current data protection position with Timorese counsel because published sources disagree. Research draws on SERVE documents, the Jornal da República, procurement notices, multilateral debarment lists, foreign registries where parents are incorporated, and media in Portuguese, Tetum, Indonesian and English. Because Dili's business and political circles are small, we plan any enquiry so that it does not compromise the client or the people approached. Local document retrieval or interviews are carried out by qualified professionals coordinated through counsel.",
+  "faqs": [
+    {
+      "q": "Can you search the Timorese company register online?",
+      "a": "SERVE publishes lists of registered entities by legal form, but we have not identified an interactive public search or a public beneficial ownership register. Certified extracts and constitutional documents are usually obtained through the registry with local assistance. We supplement them with foreign registries, procurement records and media to build a fuller picture."
+    },
+    {
+      "q": "Do companies in Timor-Leste have to disclose beneficial owners?",
+      "a": "The Commercial Companies Law of 2017 introduced beneficial ownership disclosure to the registry, reflecting international AML standards. That information is not, as far as we have identified, openly published. Our reports explain which ownership details come from official documents and which are inferred from other sources."
+    },
+    {
+      "q": "Is there a data protection law that applies to research on individuals?",
+      "a": "Sources disagree on whether a comprehensive data protection law is in force, so we verify the position with Timorese counsel for each engagement. Constitutional privacy protections and secrecy rules apply regardless. We limit collection to what the client's purpose requires and avoid sensitive personal information."
+    },
+    {
+      "q": "Which languages are your sources in?",
+      "a": "Legislation and court material are mainly in Portuguese, public discussion often in Tetum, and much business and regional reporting in Indonesian and English. We coordinate qualified linguists and local researchers where needed and record in our reports which sources were reviewed in which language. Source languages are noted in every report."
+    },
+    {
+      "q": "How does the Anti-Corruption Commission affect due diligence?",
+      "a": "The Anti-Corruption Commission investigates corruption, and the 2020 Anti-Corruption Law added offences and an asset declaration system for officials. For clients, this raises the importance of identifying links between partners and public office holders. We map such links from public sources so that compliance teams and counsel can assess the risk."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Pacific PSDI: New Companies Law approved in Timor-Leste (2017)",
+      "url": "https://pacificpsdi.org/news-and-insights/news/read/new-companies-law-approved-in-timor-leste-meets-global-best-practice-and-will-reduce-cost-of-doing-business"
+    },
+    {
+      "title": "Central Bank of Timor-Leste: About the Financial Information Unit",
+      "url": "https://www.bancocentral.tl/en/go/about-financial-information-unit---fiu"
+    },
+    {
+      "title": "UNODC: Corruption in Timor-Leste (Anti-Corruption Law 2020)",
+      "url": "https://unodc.org/roseap/en/what-we-do/anti-corruption/topics/2021/04-corruption-timor-leste.html"
+    },
+    {
+      "title": "Business Data Guide: Timor-Leste company search guide",
+      "url": "https://businessdataguide.com/blog/jurisdictions/timor-leste-company-search-guide"
+    },
+    {
+      "title": "INETL: Timor-Leste Population and Housing Census 2022, Main Report",
+      "url": "https://inetl-ip.gov.tl/wp-content/uploads/2023/05/Final-Main-Report_TLPHC-Census_18052023.pdf"
+    },
+    {
+      "title": "UNFPA Timor-Leste: Population and Housing Census 2022",
+      "url": "https://timor-leste.unfpa.org/en/publications/timor-leste-population-and-housing-census-2022"
+    },
+    {
+      "title": "VdA: Timor-Leste Privacy Overview (2025)",
+      "url": "https://www.vda.pt/en/media/news-and-media/timor-leste-privacy-overview/27861/"
+    },
+    {
+      "title": "UNODC: Implementation of Beneficial Ownership Transparency in ASEAN Member States and Timor-Leste (2024)",
+      "url": "https://unodc.org/roseap/uploads/documents/Publications/2024/Implementation_of_Beneficial_Ownership_Transparency_in_ASEAN_Member_States_and_Timor-Leste.pdf"
+    }
+  ],
+  "review_flags": [
+    "Data protection: sources conflict - one secondary site claims a Law on Personal Data Protection with a National Data Protection Authority; DLA/VdA detail not accessible. Page states no comprehensive law verified; confirm with counsel before publication.",
+    "Population figure (about 1.34 million, 2022 census) cites the INETL census report, but the exact figure could not be extracted from it - verify.",
+    "No source found on private investigator licensing; text says none identified.",
+    "Court structure (Court of Appeal acting as Supreme Court, district courts) and Constitution privacy provisions stated from general knowledge, not fetched sources - verify.",
+    "Law 17/2011 amending law number is inconsistent on the Central Bank page (05/2013/III vs 3/2013/III); page avoids citing it.",
+    "Law establishing the Anti-Corruption Commission not verified; UNODC 2024 BO report seen in search results but not opened."
+  ],
+  "researched": "2026-11-04"
+}

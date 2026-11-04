@@ -1,0 +1,142 @@
+{
+  "cc": "MT",
+  "name": "Malta",
+  "meta_description": "TDSC investigative consulting on Malta: due diligence on gaming and financial services counterparties, beneficial ownership and asset research under GDPR.",
+  "eyebrow": "Republic of Malta",
+  "hero_lede": "Investigative consulting on matters touching Malta means working within the GDPR and Malta's Data Protection Act, a restricted beneficial ownership register, and a compact economy built around financial services, remote gaming, shipping and corporate structuring that often links to counterparties far beyond the islands.",
+  "intro": [
+    "Malta is a small EU and euro area member state whose economy punches above its size in regulated services. Its legal system blends civil law codification with English-influenced commercial, company and tax law, and English is an official language alongside Maltese, which makes documents and filings relatively accessible to international counsel. The Malta Business Registry offers online company searches, but access to beneficial ownership information has been restricted since the November 2022 judgment of the Court of Justice of the European Union. Personal data handling is governed by the GDPR and the Data Protection Act (Cap. 586), supervised by an active Information and Data Protection Commissioner.",
+    "Organisations commission work involving Malta because Maltese entities frequently sit inside international structures. Remote gaming operators, payment and electronic money institutions, fund managers, crypto-asset businesses and holding companies are licensed or registered in Malta while their owners, customers and assets are elsewhere. The Malta flag is one of the largest ship registers in the world, so vessel ownership and charter disputes often involve Maltese companies. Clients use investigative research to verify ultimate owners, understand regulatory history, trace assets for litigation, assess individuals who obtained Maltese residence or citizenship through investor programmes, and test the substance behind entities used in cross-border transactions."
+  ],
+  "population": {
+    "value": "approximately 0.56 million (unverified)",
+    "year": "2023",
+    "source_url": ""
+  },
+  "legal_system": "Malta has a mixed legal system. Private law is codified in the Civil Code (Cap. 16) in the continental civil law tradition, while commercial, company, maritime, tax and public law draw heavily on English common law concepts, and EU law applies directly. Commercial disputes are heard in the Civil Court, which has a Commercial Section, with appeals to the Court of Appeal. Malta also has a Constitutional Court and specialised tribunals for financial services and data protection appeals. The Malta Arbitration Centre administers domestic and international arbitration under the Arbitration Act (Cap. 387).",
+  "data_protection": {
+    "law": "General Data Protection Regulation (EU) 2016/679 and Data Protection Act (Cap. 586, 2018) with subsidiary legislation",
+    "regulator": "Office of the Information and Data Protection Commissioner (IDPC)",
+    "summary": "Investigative work involving personal data of individuals in Malta requires a lawful basis under the GDPR, typically legitimate interests or the establishment and defence of legal claims, supported by a documented balancing test. The Data Protection Act (Cap. 586) replaced the 2001 Act in 2018 and permits processing of identity documents only where clearly justified. Subsidiary Legislation 586.09 allows some restrictions on data subject rights for the prevention and detection of offences. Malta has no specific statutory rules on employee data, so workplace investigations follow the GDPR directly. Transfers outside the European Economic Area require an adequacy decision or appropriate safeguards."
+  },
+  "investigator_regulation": "We have not verified a dedicated statute or licensing authority for private investigators in Malta as of 2026, nor whether existing private security licensing administered by the police extends to investigative work. Engagements requiring local enquiries are therefore scoped with Maltese counsel first. In any case, investigators handling personal data are controllers or processors under the GDPR, covert recording and surveillance raise privacy and criminal law issues, and access to police, tax and identity records is limited to competent authorities. In a jurisdiction where communities are small and well connected, discretion in any field enquiry is especially important.",
+  "corporate_records": "The Malta Business Registry maintains the register of companies and makes basic company information available online, including registered office, directors, company secretary, shareholders and filed documents such as memoranda and annual returns, typically for a fee. Following the CJEU judgment of 22 November 2022 on the Anti-Money Laundering Directive, the Registry withdrew general public access to the Register of Beneficial Owners and limited it to competent authorities and subject persons. According to a Daphne Caruana Galizia Foundation report of April 2026, journalists have since regained access. Court judgments are published online through the courts' services, and the Public Registry records property and civil status deeds.",
+  "anti_corruption": "Bribery and trading in influence are offences under the Criminal Code (Cap. 9). The Permanent Commission Against Corruption Act (Cap. 326) establishes a commission to investigate alleged corrupt practices, and the Commissioner for Standards in Public Life oversees the conduct of ministers and members of parliament. Money laundering is addressed in the Prevention of Money Laundering Act (Cap. 373) and associated regulations, with the Financial Intelligence Analysis Unit (FIAU) as the national supervisory and intelligence agency. Prosecutions are brought by the police and the Office of the Attorney General.",
+  "matters": [
+    {
+      "title": "Gaming and payments counterparty review",
+      "text": "Background research on remote gaming operators, B2B suppliers, payment service providers and their owners licensed or registered in Malta, including regulatory history, adverse media in several languages and links to unlicensed operations in other markets."
+    },
+    {
+      "title": "Beneficial ownership verification",
+      "text": "Mapping of Maltese companies, trusts and foundations within wider structures, corroborating stated ultimate owners against filings in other jurisdictions, litigation records and published reporting where Maltese beneficial ownership data is not available to the client."
+    },
+    {
+      "title": "Shipping and yacht ownership research",
+      "text": "Identification of owners, managers and financiers behind Malta-flagged vessels and yachts for charter disputes, arrest proceedings, insurance claims and sanctions screening, using registry, classification and maritime tracking data."
+    },
+    {
+      "title": "Investor programme subject vetting",
+      "text": "Enhanced background research on individuals who obtained Maltese residence or citizenship through investor programmes, for banks, counterparties and acquirers assessing source of wealth, prior jurisdictions and reputational exposure."
+    },
+    {
+      "title": "Litigation and asset tracing support",
+      "text": "Research supporting Maltese and foreign counsel in commercial disputes, insolvency and enforcement, including identification of Maltese holding companies, property interests and related parties relevant to warrants of seizure or recognition proceedings."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official languages",
+      "value": "Maltese and English"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Malta, UTC+01:00 (UTC+02:00 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (EUR)"
+    },
+    {
+      "label": "Court languages",
+      "value": "Maltese, with English used in some proceedings"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Valletta, Sliema, St Julian's, Birkirkara"
+    },
+    {
+      "label": "Company records",
+      "value": "Malta Business Registry online search"
+    },
+    {
+      "label": "Business culture",
+      "value": "Small, interconnected professional community; discretion valued"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes matters touching Malta from Nashville, starting with a jurisdictional review of the objective, the GDPR lawful basis and whether the client is a subject person with its own access to beneficial ownership data. Research draws on lawful sources: Malta Business Registry filings, published court judgments, regulator notices from the gaming and financial services authorities, ship registry and maritime data, records in connected jurisdictions and Maltese and English-language media. Where local enquiries, document retrieval or witness approaches are justified, TDSC coordinates appropriately qualified Maltese professionals and works alongside Maltese counsel. Personal data is minimised, retained only for the engagement and transferred under appropriate safeguards. TDSC does not hold a licence in Malta, does not access government systems and does not provide legal advice.",
+  "faqs": [
+    {
+      "q": "Can the beneficial owners of a Maltese company be identified?",
+      "a": "General public access to Malta's Register of Beneficial Owners was withdrawn after the CJEU judgment of November 2022. Access is available to competent authorities and subject persons such as banks and other regulated firms, and journalists reportedly regained access in 2026. Others rely on shareholder filings, foreign records, litigation and published reporting to build and test an ownership picture."
+    },
+    {
+      "q": "What company information is publicly available in Malta?",
+      "a": "The Malta Business Registry provides online access to core company data, including directors, company secretary, shareholders, registered office and filed documents such as memoranda of association and annual returns, usually for a fee. Financial statements filed with the Registry can also be obtained. Nominee and trustee shareholdings mean that registered shareholders are not always the ultimate owners."
+    },
+    {
+      "q": "Does Maltese law allow background checks on prospective employees?",
+      "a": "Background checks are permitted where they have a lawful basis under the GDPR and are proportionate to the role. Malta has not adopted specific statutory rules on employee data, so general GDPR principles apply, together with the Data Protection Act's restriction on processing identity documents. Criminal record information is tightly controlled and is normally provided by the candidate rather than obtained by third parties."
+    },
+    {
+      "q": "Are Maltese court records accessible for litigation research?",
+      "a": "Judgments of the Maltese courts are published online and searchable, which supports research into litigation history of companies and individuals. Pleadings and case files are less accessible and may require involvement of a party or Maltese lawyer. Many judgments are in Maltese, so translation and careful reading are part of the research process."
+    },
+    {
+      "q": "How does TDSC approach Malta-flagged vessel ownership questions?",
+      "a": "Vessel research combines Malta ship registry information with classification society records, maritime tracking data, corporate filings for owning and managing companies, and records in the jurisdictions of financiers and managers. Single-ship owning companies are common, so tracing control usually requires following management and financing relationships rather than relying on the registered owner alone."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Legal 500: Beyond GDPR, new Data Protection Act and subsidiary laws (Malta)",
+      "url": "https://www.legal500.com/intelligence/malta/privacy/beyond-gdpr-%E2%80%93-new-data-protection-act-and-subsidiary-laws"
+    },
+    {
+      "title": "Malta Police Force: Data Protection",
+      "url": "https://pulizija.gov.mt/en/data-protection/"
+    },
+    {
+      "title": "FIAU: CJEU Judgment, Public Access to BO Information",
+      "url": "https://fiaumalta.org/news/cjeu-judgment-public-access-to-bo-information"
+    },
+    {
+      "title": "Mamo TCV: Malta Business Registry updates public access to beneficial ownership information",
+      "url": "https://www.mamotcv.com/insights/malta-business-registry-updates-public-access-to-beneficial-ownership-information/"
+    },
+    {
+      "title": "Daphne Caruana Galizia Foundation: Journalists regain access to Malta's beneficial ownership register (2026)",
+      "url": "https://www.daphne.foundation/en/2026/04/22/malta-beneficial-ownership-registry-access"
+    },
+    {
+      "title": "Office of the Ombudsman: Alleged lack of legitimate interest to access Register of Beneficial Owners",
+      "url": "https://ombudsman.org.mt/case-work/case-study-alleged-lack-of-legitimate-interest-to-access-register-of-beneficial-owners/"
+    },
+    {
+      "title": "DataGuidance: Malta data protection overview",
+      "url": "https://www.dataguidance.com/notes/malta-data-protection-overview"
+    }
+  ],
+  "review_flags": [
+    "Population not found in search results: 0.56 million (2023) is unverified and source_url is empty; add NSO Malta or World Bank figure before publishing.",
+    "Private investigator licensing in Malta not verified (possible coverage under private security legislation administered by the police); confirm with Maltese counsel.",
+    "Anti-corruption paragraph (Criminal Code Cap. 9, Permanent Commission Against Corruption Act Cap. 326, Commissioner for Standards in Public Life, Prevention of Money Laundering Act Cap. 373) and legal system details (Civil Code Cap. 16, Arbitration Act Cap. 387, Commercial Section, Malta Arbitration Centre) were not confirmed from an opened source; verify.",
+    "Beneficial ownership access is in flux: journalists' restored access (April 2026) is reported only by the Daphne Caruana Galizia Foundation; EU AML Regulation/AMLD6 legitimate-interest access rules may change the position.",
+    "Reference to investor citizenship programmes is general; the EU Court of Justice ruled against Malta's citizenship-by-investment scheme in 2025 (not cited in copy or sources)."
+  ],
+  "researched": "2026-11-04"
+}

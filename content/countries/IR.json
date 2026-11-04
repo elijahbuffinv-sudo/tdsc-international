@@ -1,0 +1,100 @@
+{
+  "cc": "IR",
+  "name": "Iran",
+  "meta_description": "Sanctions-screened TDSC consulting on matters touching Iran: lawful due diligence and risk advisory for clients outside Iran, conducted from Nashville.",
+  "eyebrow": "Islamic Republic of Iran",
+  "hero_lede": "Matters touching Iran are dominated by sanctions risk. TDSC's work is limited to lawful, sanctions-screened due diligence and risk advisory for clients outside Iran: identifying hidden Iranian links in counterparties, shipping and supply chains, and supporting compliance and dispute work through public sources.",
+  "intro": [
+    "Iran has a large, state-heavy economy in which foundations (bonyads), entities linked to the Islamic Revolutionary Guard Corps and other state-affiliated groups hold significant commercial positions alongside private business. Its legal system combines a codified civil-law structure with Shia Islamic jurisprudence, and courts sit within a judiciary that is constitutionally separate but closely tied to the state's ideological framework. For investigators outside the country, the decisive feature is the sanctions environment: United States sanctions prohibit most dealings by US persons, and on 27 to 28 September 2025 United Nations sanctions were reimposed through the snapback mechanism, followed by renewed EU and UK measures. Direct enquiries inside Iran are not part of TDSC's work.",
+    "Organisations commission work touching Iran mainly to find out whether it is present where it should not be. Banks, traders, insurers, shipowners and manufacturers outside Iran need to know whether a counterparty, vessel, cargo or ultimate owner has undisclosed Iranian ownership or control, particularly in oil, petrochemicals, metals, shipping, aviation parts and dual-use goods. Front companies and intermediaries in third countries are a recurring exposure. Other matters include litigation and arbitration in which an Iranian connection must be established or disproved, export-control and sanctions investigations by compliance teams, and asset-tracing questions where judgments or awards involve Iranian parties. All of this work is carried out from outside Iran, using lawful sources."
+  ],
+  "population": {
+    "value": "approximately 91.6 million",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Iran's legal system is based on the 1979 Constitution (amended 1989) and codified laws that must conform to Shia Islamic principles, as reviewed by the Guardian Council. Core statutes include the Civil Code, the Commercial Code and the Islamic Penal Code, with civil and criminal procedure codes. Commercial disputes are heard in the general public courts, with appeals to provincial courts of appeal and the Supreme Court. Revolutionary courts handle security and certain economic offences. Domestic arbitration exists, but enforcement of foreign awards against Iranian parties raises sanctions and practical questions outside the scope of this page.",
+  "data_protection": {
+    "law": "No comprehensive data protection law; relevant provisions in the Electronic Commerce Law (2004), the Computer Crimes Law (2009) and the Law on Publishing and Access to Data (2010); a draft personal data protection bill (2018) remains pending",
+    "regulator": "No national data protection authority; the Ministry of Communication and Information Technology sponsors the draft bill and the Cyber Police (FATA) enforce computer crime provisions",
+    "summary": "Iran has no comprehensive data protection statute or independent regulator. The Electronic Commerce Law requires consent, specified purposes, data minimisation and access and correction rights for personal data in electronic transactions, and cross-border transfers require consent and adequate security. The Computer Crimes Law criminalises theft of data and publication of private information without consent. A draft personal data protection law announced by the communications ministry in 2018 had not been enacted in sources we reviewed. For TDSC, the governing constraint is in any event sanctions law: no personal data is obtained from sources inside Iran, and research relies on information lawfully available outside it."
+  },
+  "investigator_regulation": "We have not identified a licensing regime that would permit foreign or private investigators to operate in Iran, and the security environment makes private enquiries inside the country hazardous for the people involved. Iranian law criminalises unauthorised access to data and disclosure of private information, and investigative activity can attract security charges. TDSC does not conduct, commission or coordinate any fieldwork, interviews, record requests or surveillance inside Iran, and does not engage persons located in Iran. Work is confined to sanctions-screened research from outside the country using lawful public and commercial sources.",
+  "corporate_records": "Iranian companies are registered under the Commercial Code with the companies registration office of the judiciary's deeds and property registration organisation, and registration notices, including changes of directors and capital, are published in the Official Gazette. These notices can sometimes be reviewed through published gazette material, but TDSC does not obtain records from Iranian sources where doing so would involve a prohibited dealing. Iran has no public beneficial ownership register. In practice, Iranian ownership is most often traced through foreign registries, sanctions designation records, vessel and trade data, court filings abroad and published reporting.",
+  "anti_corruption": "Iran's Anti-Money Laundering Law (2008), amended with Expediency Council approval reported in January 2019, imposes customer identification, record-keeping and suspicious transaction reporting obligations under an Anti-Money Laundering High Council chaired by the Minister of Economic Affairs and Finance. Bribery and embezzlement are criminalised under the Islamic Penal Code and related legislation. Enforcement is conducted through the judiciary and its inspection bodies. Outside Iran, the more relevant controls for clients are their own anti-bribery, AML and sanctions laws.",
+  "matters": [
+    {
+      "title": "Hidden Iranian ownership in counterparties",
+      "text": "Banks, traders and manufacturers ask whether a supplier, customer or intermediary in a third country is owned, controlled or acting for Iranian parties. Research uses foreign registries, designation lists, trade data and reporting to test the ownership chain and identify front-company indicators."
+    },
+    {
+      "title": "Shipping, vessels and cargo origin",
+      "text": "Following the 2025 UN snapback and renewed EU and UK measures on Iranian shipping and oil, charterers, insurers and buyers need assurance about vessel histories, ownership changes, flag hopping and cargo origin. TDSC reviews open maritime and corporate data to identify Iran-linked risk."
+    },
+    {
+      "title": "Dual-use and export-control investigations",
+      "text": "Compliance teams investigating possible diversion of components, aviation parts or controlled technology to Iran need a factual reconstruction of distributors, freight forwarders and end users outside Iran, prepared to support counsel's advice and any voluntary disclosure decision."
+    },
+    {
+      "title": "Disputes involving alleged Iranian links",
+      "text": "In litigation and arbitration outside Iran, one party may allege that a counterparty is an Iranian front, or rely on sanctions to excuse performance. TDSC assembles documented, source-cited evidence on ownership and control for counsel, without contact with persons or institutions in Iran."
+    },
+    {
+      "title": "Sanctions screening of complex structures",
+      "text": "Where screening returns ambiguous or partial matches, such as transliterated Persian names, shared addresses or layered holdings in the Gulf, Turkey or Asia, TDSC resolves the identity question through lawful research and documents the reasoning for the client's compliance file."
+    }
+  ],
+  "practical": [
+    {"label": "Scope", "value": "Sanctions-screened research from outside Iran only; no in-country work"},
+    {"label": "Languages", "value": "Persian (Farsi) for records and media; transliteration varies widely"},
+    {"label": "Calendar", "value": "Solar Hijri calendar on official documents; dates require conversion"},
+    {"label": "Time zone", "value": "Asia/Tehran, UTC+03:30"},
+    {"label": "Weekly rest day", "value": "Friday"},
+    {"label": "Currency", "value": "Iranian rial (IRR); prices often quoted in tomans (10 rials)"},
+    {"label": "Main business centres", "value": "Tehran, Isfahan, Mashhad, Tabriz, Bandar Abbas"},
+    {"label": "Key risk", "value": "US, UN, EU and UK sanctions; frequent new designations"}
+  ],
+  "tdsc_approach": "TDSC, as a US company, screens every matter touching Iran for sanctions compliance before accepting it and does not accept engagements that would violate US or other applicable sanctions. Engagements are therefore limited to lawful due diligence and risk advisory for clients outside Iran. TDSC does not travel to Iran, engage or pay persons or entities in Iran, request records from Iranian institutions, or provide services to Iranian parties. Research relies on sanctions and designation lists, foreign corporate registries, court records outside Iran, maritime and trade data and published reporting, with Persian-language sources reviewed where lawfully available. Findings are documented with sources and stated limits. Questions about licences, exemptions or the legality of a client's proposed activity are referred to the client's sanctions counsel.",
+  "faqs": [
+    {
+      "q": "Can TDSC carry out enquiries inside Iran?",
+      "a": "No. TDSC does not conduct fieldwork, interviews or record requests in Iran, does not engage local agents there and does not deal with Iranian institutions. Engagements are limited to sanctions-screened research from outside the country for clients outside Iran. Where a question can only be answered from inside Iran, we say so and record it as a limitation."
+    },
+    {
+      "q": "What changed after the UN snapback in September 2025?",
+      "a": "UN sanctions lifted under the 2015 nuclear agreement were reimposed on 27 to 28 September 2025, restoring asset freezes, travel bans and arms, missile and nuclear-related restrictions, with measures aimed at Iranian shipping. The EU reinstated broad financial, energy and trade restrictions and the UK added designations. For many non-US clients this widened the circle of exposure that screening must cover."
+    },
+    {
+      "q": "How does TDSC identify a hidden Iranian connection?",
+      "a": "We follow the ownership and control chain through foreign company registries, designation records, vessel and trade data, litigation abroad and published reporting, and compare names across Persian and Latin transliterations. Indicators such as shared addresses, nominee directors or recent re-flagging are tested rather than assumed, and each conclusion states its evidential basis and confidence."
+    },
+    {
+      "q": "Will TDSC work for an Iranian individual or company?",
+      "a": "No. TDSC does not provide services to persons or entities in Iran or to parties acting on their behalf. Matters involving Iranian-origin individuals resident outside Iran are screened case by case, and are declined if the engagement would involve a prohibited dealing or benefit a sanctioned party. Licence questions belong with the client's sanctions counsel."
+    },
+    {
+      "q": "Does Iran have data protection law that affects this research?",
+      "a": "Iran has no comprehensive data protection statute; personal data rules appear in the Electronic Commerce Law and the Computer Crimes Law, and a 2018 draft bill had not been enacted in sources we reviewed. Because TDSC does not obtain information from inside Iran, the practical constraints are the sanctions laws and the data protection laws of the client's own jurisdiction."
+    }
+  ],
+  "sources": [
+    {"title": "CRS: Iran's Nuclear Program and 2025 UN Sanctions Reimposition (October 2026)", "url": "https://www.everycrsreport.com/files/2026-10-13_IF11583_566d687f3b907d9274c2ac3be54f8b5f3cd54984.html"},
+    {"title": "DLA Piper: Snapback sanctions on Iran, understanding the impact on your business", "url": "https://www.dlapiper.com/insights/publications/2025/10/snapback-sanctions-on-iran-understanding-the-impact-on-your-business"},
+    {"title": "DLA Piper Data Protection Laws of the World: Iran", "url": "https://www.dlapiperdataprotection.com/?c=IR&t=law"},
+    {"title": "Mondaq: E-commerce law and cybersecurity in Iran", "url": "https://webiis08.mondaq.com/privacy-protection/1291984/e-commerce-law-and-cybersecurity-in-iran"},
+    {"title": "Farama Law: Iran Anti-Money Laundering Law (translation)", "url": "https://faramalaw.com/laws16.html"},
+    {"title": "Iran Watch: Iran approves anti-money laundering bill", "url": "https://www.iranwatch.org/node/9146"},
+    {"title": "Article 19: Iran Personal Data Protection and Safeguarding Draft Act", "url": "https://www.article19.org/blog/resources/iran-data-protection-draft-act/"}
+  ],
+  "review_flags": [
+    "Sanctions position changes frequently (UN snapback Sept 2025; EU/UK measures; IAEA Board referral Sept 2026); re-verify US, UN, EU and UK status before publishing.",
+    "Population (approx. 91.6 million, 2024) not confirmed from a World Bank or national statistics result within the search budget; source_url left empty for central fill.",
+    "Company registry body, Official Gazette publication and absence of a BO register stated from general knowledge, not a fetched source; verify.",
+    "Computer Crimes Law year differs between sources (2009 per Mondaq, 2011 per DLA Piper); used 2009.",
+    "AML Law 2019 amendment content not confirmed; FIU structure not verified.",
+    "Data protection draft bill status (2018) may be outdated; Article 19 page could not be fetched.",
+    "Legal-system and court-structure description (Revolutionary courts, Guardian Council review, 1989 amendment) from general knowledge; verify.",
+    "Working-week arrangements in Iran have been under legislative change; only Friday rest day stated."
+  ],
+  "researched": "2026-11-04"
+}

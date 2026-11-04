@@ -1,0 +1,142 @@
+{
+  "cc": "BZ",
+  "name": "Belize",
+  "meta_description": "TDSC investigative consulting on Belize: company and beneficial ownership research, offshore structure tracing, asset inquiries and due diligence.",
+  "eyebrow": "Belize, Central America",
+  "hero_lede": "Investigative consulting for matters touching Belize usually centres on offshore and domestic company structures, land and tourism investments, and assets moved through Belizean vehicles. TDSC scopes this work from Nashville and coordinates licensed local professionals where on-the-ground inquiries are needed.",
+  "intro": [
+    "Belize is a small, English-speaking common law jurisdiction with a population of roughly 400,000 and an economy closely tied to the United States through tourism, trade and a currency pegged to the US dollar. It has long been used as an incorporation centre for international business companies, which shapes much of the investigative work connected to it. Since 2022 the Belize Companies Act and its 2023 amendment have required companies to file beneficial ownership information through the Online Business Registry System, part of a broader effort to strengthen anti-money laundering controls after the 2021 Pandora Papers disclosures. Records are improving, but access remains uneven and much depends on what registered agents hold.",
+    "Organisations commission work involving Belize for several recurring reasons. Litigants and creditors pursuing judgment enforcement often need to understand whether assets or interests sit in Belizean companies or trusts. Investors in coastal real estate, resort development and agriculture, including sugar, citrus and bananas, want to confirm who they are dealing with and whether title and permits are sound. Compliance teams screening counterparties encounter Belizean entities in ownership chains that lead elsewhere. Family offices and estate practitioners also see Belize in cross-border inheritance and divorce matters, where the question is usually what exists, who controls it, and what can lawfully be shown in evidence."
+  ],
+  "population": {
+    "value": "approximately 400,000",
+    "year": "2023",
+    "source_url": "https://www.tradefinanceglobal.com/posts/belize-leads-the-way-for-financial-transparency-in-latin-america/"
+  },
+  "legal_system": "Belize has an English-derived common law system, with statute supplementing the common law. Civil and commercial disputes are heard in the Supreme Court of Belize, with appeals to the Court of Appeal and, since 2010, to the Caribbean Court of Justice as the final appellate court. There is no separate commercial court; commercial matters proceed in the Supreme Court's civil jurisdiction. Proceedings are conducted in English, and English case law remains persuasive. Arbitration is available, and parties to Belize-linked contracts frequently choose foreign seats.",
+  "data_protection": {
+    "law": "Data Protection Act, 2021 (Act No. 45 of 2021)",
+    "regulator": "Data protection authority under the Act; as of 2025 reported as not yet fully established, with the Ministry responsible for digital transformation overseeing implementation",
+    "summary": "Belize enacted a comprehensive Data Protection Act in 2021, published in the Gazette in November 2021. It sets principles for processing personal data, gives individuals rights of access, rectification, erasure, objection and portability, and adds safeguards for sensitive personal data. Transfers of personal data outside Belize are restricted to recipients providing adequate protection. Third-party summaries indicate the supervisory authority has been slow to become operational, so enforcement practice is limited. For investigative work, this means collection of personal data should be proportionate, documented and tied to a defined purpose, and any onward transfer of Belizean personal data to the United States should be considered against the Act's transfer rules."
+  },
+  "investigator_regulation": "Private investigators in Belize are licensed under the Private Security and Investigation Services (Control) Act (No. 37 of 2002, Cap. 138.01), amended in 2024. Applications go to the Commissioner of Police, who may attach conditions, renew and suspend licences, while the Minister sets eligibility criteria by regulation. Acting as a private investigator without a licence, or holding oneself out as licensed, is an offence. Licensed firms may not employ unlicensed investigators, and investigators must carry and produce their licence while working. Attorneys acting in their practice are exempt. TDSC does not hold a Belizean licence and coordinates licensed local investigators for any field work in Belize.",
+  "corporate_records": "Companies are registered with the Belize Companies Registry through the Online Business Registry System (OBRS), operated under the Belize Companies Act 2022. Since July 2023 companies must provide beneficial ownership information, covering natural persons holding or controlling 10 percent or more, through their registered agent; the Financial Services Commission acts as custodian. Detailed beneficial ownership data is not open to the general public; law firm commentary states access is limited to registered agents and competent authorities, while other reporting refers to a short public extract. Basic company details can be searched, but shareholder and officer information for international companies is often limited. Land and court records generally require local requests.",
+  "anti_corruption": "Belize's principal anti-money laundering statute is the Money Laundering and Terrorism (Prevention) Act, revised to align more closely with FATF standards. The Financial Intelligence Unit receives and analyses suspicious transaction reports and works with the Customs and Excise Department and the Tax Department; the Financial Services Commission supervises the international financial services sector and holds the beneficial ownership register. Belize also has legislation on the prevention of corruption in public life, overseen by an Integrity Commission. Enforcement capacity is modest relative to the volume of offshore business historically registered.",
+  "matters": [
+    {
+      "title": "Offshore company ownership tracing",
+      "text": "Mapping who stands behind Belizean international business companies and foundations, using Companies Registry data, registered agent disclosures obtained through proper legal process, and records in other jurisdictions, to support litigation, recovery or counterparty decisions where the Belizean entity is one link in a longer chain."
+    },
+    {
+      "title": "Coastal real estate due diligence",
+      "text": "Checking sellers, developers and title history for resort, island and coastal property in Ambergris Caye, Placencia and the Cayo District, including encumbrances, planning approvals and past disputes, before investors commit funds to projects marketed largely to North American buyers."
+    },
+    {
+      "title": "Judgment enforcement and asset inquiries",
+      "text": "Identifying assets, bank relationships and corporate interests connected to Belize for creditors holding foreign judgments or arbitral awards, and coordinating with Belizean counsel on registration, disclosure orders and the evidential use of findings in the Supreme Court."
+    },
+    {
+      "title": "Agricultural and tourism counterparties",
+      "text": "Background and reputation research on Belizean sugar, citrus, banana, aquaculture and tourism operators, covering ownership, litigation, regulatory history and links to politically exposed persons, for buyers, lenders and joint-venture partners."
+    },
+    {
+      "title": "Cross-border family and estate matters",
+      "text": "Locating Belize-held trusts, companies and property in divorce, inheritance and estate disputes, and assessing what can lawfully be documented for proceedings in the United States or elsewhere without breaching Belizean data protection rules."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "English (official); Spanish and Belizean Kriol widely spoken"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Belize, UTC-6, no daylight saving time"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Belize dollar, pegged at BZD 2 to USD 1"
+    },
+    {
+      "label": "Courts language",
+      "value": "English"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Belize City, Belmopan (capital), San Pedro, Orange Walk"
+    },
+    {
+      "label": "Business culture note",
+      "value": "Small, relationship-based market; introductions and discretion matter"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Belize engagements from Nashville, starting with what the client needs to prove and where that evidence is likely to sit, since Belizean entities often hold little substance locally. We review the Belizean legal position on data protection and investigator licensing before any inquiry, and work from lawful sources: registry searches, published court material, land records obtainable through proper requests, media and open sources, and records in connected jurisdictions. Where field inquiries or interviews in Belize are needed, we coordinate investigators licensed under the Private Security and Investigation Services (Control) Act and, for disclosure or enforcement steps, Belizean counsel. Personal data is minimised, held securely and transferred only as the Data Protection Act permits. We do not claim access to the restricted beneficial ownership register.",
+  "faqs": [
+    {
+      "q": "Can the Belize beneficial ownership register be searched directly?",
+      "a": "Generally not. Since July 2023 beneficial ownership information is filed through registered agents into the Online Business Registry System, and detailed records are reserved for competent authorities and the filing agent. Reports differ on whether a short public extract is available. In practice, ownership is usually established through other lawful records, connected jurisdictions, or a court order sought by Belizean counsel."
+    },
+    {
+      "q": "Do private investigators need a licence in Belize?",
+      "a": "Yes. The Private Security and Investigation Services (Control) Act requires anyone acting as a private investigator, or running an investigation business, to hold a licence issued through the Commissioner of Police. TDSC does not hold a Belizean licence and does not conduct field work there itself; it coordinates licensed Belizean investigators when local inquiries are required."
+    },
+    {
+      "q": "Is Belize still useful for hiding assets?",
+      "a": "It is less opaque than it was. Beneficial ownership filing, stronger AML legislation and the striking off of non-compliant companies in 2024 have changed the picture. Belizean companies still appear in layered structures, though, so tracing usually requires combining Belizean records with information from banks, registries and courts in other countries, obtained lawfully."
+    },
+    {
+      "q": "Can findings about Belizean assets be used in a US case?",
+      "a": "Often, provided the information was gathered lawfully and its provenance is documented. Public registry and court material is easier to use than information obtained informally. Where Belizean bank or agent records are needed, disclosure usually requires a court process in Belize or the recognition of a foreign order, which Belizean counsel should handle."
+    },
+    {
+      "q": "How does the Data Protection Act 2021 affect due diligence?",
+      "a": "It requires personal data to be processed for a defined purpose, proportionately, and with attention to individuals' rights and to restrictions on transfers abroad. Because the supervisory authority has been slow to become operational, enforcement guidance is limited, so TDSC takes a conservative approach: collecting only what the matter needs and documenting the purpose."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Private Security and Investigation Services (Control) Act, Cap. 138.01 (Belize Judiciary, Revised Edition 2011)",
+      "url": "https://belizejudiciary.org/download/Laws-of-Belize-Update-2011/VOLUME%207/Cap%20138.01%20Private%20Security%20and%20Investigation%20Services%20(Control)%20Act.pdf"
+    },
+    {
+      "title": "Act No. 4 of 2024, Private Security and Investigation Services Control (Amendment) Act 2024 (National Assembly of Belize)",
+      "url": "https://www.nationalassembly.gov.bz/wp-content/uploads/2024/02/Act-No.-4-of-2024-Private-Security-and-Investigation-Services-Control-Amendment-Act-2024.pdf"
+    },
+    {
+      "title": "Act No. 45 of 2021, Data Protection Act (National Assembly of Belize)",
+      "url": "https://www.nationalassembly.gov.bz/wp-content/uploads/2021/12/Act-No-45-of-2021-Data-Protection-Act.pdf"
+    },
+    {
+      "title": "Morrison Foerster Privacy Library: Belize",
+      "url": "https://mofo.com/privacy-library/belize"
+    },
+    {
+      "title": "Clym: Data Protection Act 2021 Belize",
+      "url": "https://www.clym.io/regulations/data-protection-act-2021-belize"
+    },
+    {
+      "title": "Chambers: Belize Ultimate Beneficial Ownership (UBO) Information",
+      "url": "https://chambers.com/articles/belize-ultimate-beneficial-ownership-ubo-information"
+    },
+    {
+      "title": "Global Financial Integrity: Belize's Fourth Round Mutual Evaluation",
+      "url": "https://gfintegrity.org/belizes-fourth-round-mutual-evaluation-progress-challenges-and-the-road-ahead/"
+    },
+    {
+      "title": "Trade Finance Global: Belize leads the way for financial transparency in Latin America",
+      "url": "https://www.tradefinanceglobal.com/posts/belize-leads-the-way-for-financial-transparency-in-latin-america/"
+    }
+  ],
+  "review_flags": [
+    "Population cites a trade publication ('just under 400,000'), not World Bank or the Statistical Institute of Belize; replace with an official figure (2022 census or World Bank).",
+    "Data protection authority status: MoFo lists it as 'not yet established'; confirm whether a Commissioner/authority has since been appointed.",
+    "Public access to the beneficial ownership register is reported inconsistently (Chambers: not public; Trade Finance Global: short public extract online). Confirm with Belizean counsel.",
+    "The 2024 amendment to the Private Security and Investigation Services (Control) Act could not be opened (National Assembly site suspended); its changes to licensing are not reflected.",
+    "Legal system details (CCJ as final court since 2010, no commercial court) and the Prevention of Corruption/Integrity Commission reference rest on general knowledge, not a source opened in this session; MLTPA enactment year not confirmed."
+  ],
+  "researched": "2026-11-04"
+}

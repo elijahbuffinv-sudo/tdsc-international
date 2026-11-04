@@ -1,0 +1,151 @@
+{
+  "cc": "KI",
+  "name": "Kiribati",
+  "meta_description": "TDSC investigative consulting on Kiribati: counterparty checks, fisheries and aid-project due diligence under the Data Protection Act and 2021 company laws.",
+  "eyebrow": "Republic of Kiribati, Central Pacific",
+  "hero_lede": "Investigative consulting for matters touching Kiribati works within a small, close-knit jurisdiction spread across three island groups, with paper-based registries modernised by 2021 company laws, a first data protection law passed in 2025, and enquiries scoped with local counsel and, where needed, qualified local professionals.",
+  "intro": [
+    "Kiribati is one of the smallest economies in the world by population, but its 33 atolls and islands, grouped into the Gilbert, Phoenix and Line Islands, span an ocean area of several million square kilometres. Government and the public sector dominate economic activity, much of it centred on South Tarawa. For investigators this means that public records are limited and often not online, that personal and family networks are close, and that discretion matters. The legal framework for business was updated in 2021 with new Companies, Company Insolvency and Business Names Acts, and the country's first Data Protection Act followed in 2025.",
+    "Organisations commission investigative work involving Kiribati mainly because of its fisheries: licence fees from foreign fishing fleets in its exclusive economic zone are a principal source of government revenue, and the sector attracts vessel operators, agents and processors from Asia, the Pacific and beyond. Large aid-funded infrastructure, energy, telecommunications and climate-adaptation projects bring contractors and intermediaries who need vetting. Remittances from seafarers and workers on Australian and New Zealand labour mobility schemes, and growing strategic interest from several governments, add further reasons for clients to understand who they are dealing with."
+  ],
+  "population": {
+    "value": "approximately 134,000",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Kiribati has a common law system derived from English law, applied alongside its own statutes and customary law, under the 1979 Constitution. Courts include Magistrates' Courts across the islands, the High Court, which hears significant civil and commercial claims, and the Court of Appeal. There is no specialised commercial court or local arbitration centre of note, and complex cross-border commercial disputes are frequently resolved under foreign law or arbitration clauses. Proceedings are conducted in English, with Gilbertese used in lower courts and for many witnesses.",
+  "data_protection": {
+    "law": "Data Protection Act 2025 (Kiribati's first general data protection law; bill first read in Parliament in April 2025)",
+    "regulator": "Digital Transformation Office (DTO), Government of Kiribati",
+    "summary": "Before 2025 Kiribati had no law specifically protecting personal data. The Data Protection Act 2025 limits processing to specified grounds, including consent, contract, legal obligation, emergencies and legitimate interests, and gives individuals rights over their data. The Digital Transformation Office enforces the Act and can investigate, issue orders and impose fines. Transfers out of Kiribati are allowed where the destination offers adequate protection or another legal basis such as consent or contractual necessity applies. We have not identified a data localisation requirement. As the regime is new, implementing regulations and guidance should be checked before any project involving personal data."
+  },
+  "investigator_regulation": "We have not identified any licensing regime for private investigators or detective agencies in Kiribati, and the country does not appear to have a local private investigation industry. Any enquiries on the ground are therefore scoped with Kiribati counsel to confirm that they fall within general law, including the criminal law, the Data Protection Act 2025 and rules on trespass and privacy. Covert surveillance, interception and access to police, immigration or civil registration records are matters for the authorities. In a small community, the risk that enquiries become known to the subject is high and is planned for from the outset.",
+  "corporate_records": "Companies and business names are registered by the Registrar of Companies, who also acts as Registrar of Business Names under the Business Names Act 2021. The Companies Act 2021 replaced the Companies Ordinance 1979 and allows for electronic filing, though registry services remain largely manual. The register of business names is a public record that members of the public may search for a fee. Kiribati is developing beneficial ownership requirements, but we have not identified a public beneficial ownership register. Land on most islands is held under customary tenure, and land records are not generally accessible remotely.",
+  "anti_corruption": "Bribery and abuse of office are offences under the Penal Code. Kiribati launched its first National Anti-Corruption Strategy in September 2017, and an anti-corruption unit within the Public Service Office has investigated complaints against senior officials, though outside assessments describe enforcement as limited. Anti-money laundering measures rest on the Proceeds of Crime Act 2003, amended in 2005, which provides for a Financial Intelligence Unit. The Kiribati Financial Supervisory Authority, the Revenue Authority, Police and Customs also form part of the AML framework.",
+  "matters": [
+    {
+      "title": "Fisheries counterparties and vessel operators",
+      "text": "Background research on foreign fishing companies, vessel owners, agents and local joint-venture partners operating in Kiribati waters, including ownership behind flag-state registrations, prior licence breaches, enforcement history in other Pacific states and connections to officials involved in licensing."
+    },
+    {
+      "title": "Aid-funded project integrity",
+      "text": "Vetting contractors, subcontractors and suppliers on donor-funded infrastructure, airport, port, energy and coastal protection projects, where clients and funders require assurance on beneficial ownership, previous debarment, performance on similar Pacific projects and potential conflicts of interest."
+    },
+    {
+      "title": "Market entry and local partners",
+      "text": "Assessing proposed local partners, landlords and agents for companies entering telecommunications, retail, construction or tourism, given the small number of established businesses, family connections between companies and the public sector, and the limited availability of filed accounts."
+    },
+    {
+      "title": "Cross-border fraud and asset tracing",
+      "text": "Supporting counsel where funds, vessels or goods connected to Kiribati have moved through Fiji, Australia, New Zealand or Asian financial centres, by tracing companies, assets and individuals in those jurisdictions and identifying records that local counsel may obtain through the courts."
+    },
+    {
+      "title": "Labour mobility and recruitment checks",
+      "text": "Reviewing recruitment agents and intermediaries involved in placing I-Kiribati seafarers and seasonal workers overseas, where employers and programme managers need to identify unlicensed fee-charging, misrepresentation, previous complaints or links to agents already excluded from Australian or New Zealand schemes before contracting."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "English and Gilbertese (te taetae ni Kiribati)"
+    },
+    {
+      "label": "Time zones",
+      "value": "Pacific/Tarawa UTC+12; Pacific/Kanton UTC+13; Pacific/Kiritimati UTC+14"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Australian dollar (AUD), alongside Kiribati coinage"
+    },
+    {
+      "label": "Main business centres",
+      "value": "South Tarawa (Betio, Bairiki, Bikenibeu); Kiritimati"
+    },
+    {
+      "label": "Key registry",
+      "value": "Registrar of Companies and Business Names"
+    },
+    {
+      "label": "Business culture",
+      "value": "Consensus, respect for elders and maneaba customs; relationships built in person"
+    },
+    {
+      "label": "Logistics",
+      "value": "Limited flights; records and interviews often require in-person access on Tarawa"
+    }
+  ],
+  "tdsc_approach": "Engagements touching Kiribati are scoped from Nashville with realistic expectations about what records exist and how they can be reached. Much of the useful information sits outside the country: vessel and company registries in flag and home states, court records in Fiji, Australia and New Zealand, donor procurement and debarment lists, and regional media. Within Kiribati, TDSC works with local counsel to obtain public register entries and to judge whether discreet enquiries are appropriate, since in a small population they are rarely invisible. Where work on the ground is needed, it is carried out by qualified local professionals under counsel's direction. Personal data is handled under the Data Protection Act 2025 and transferred on a documented legal basis. TDSC does not use pretexting or seek official records.",
+  "faqs": [
+    {
+      "q": "Does Kiribati have a data protection law?",
+      "a": "Yes. The Data Protection Act 2025 is Kiribati's first general data protection law; before it, there was no law specifically protecting personal data. It is enforced by the Digital Transformation Office and permits processing on grounds including consent, contract and legitimate interests. Because the regime is new, we check current guidance before collecting or transferring personal data."
+    },
+    {
+      "q": "Can Kiribati company records be searched remotely?",
+      "a": "Only to a limited extent. The 2021 Companies Act and Business Names Act allow for electronic filing, and the register of business names is a public record, but searches are generally made through the Registrar's office in Tarawa. Filed accounts are often limited, so ownership and financial information is supplemented from foreign registries and other lawful sources."
+    },
+    {
+      "q": "Are there licensed private investigators in Kiribati?",
+      "a": "We have not identified a licensing regime or an established private investigation industry in Kiribati. Enquiries on the ground are scoped with Kiribati counsel and, where needed, carried out by qualified local professionals within the general law. Surveillance and access to official records are not part of TDSC's work."
+    },
+    {
+      "q": "Why is fisheries due diligence common for Kiribati matters?",
+      "a": "Fishing licence revenue is one of the government's main income sources, and many foreign companies operate in Kiribati's exclusive economic zone through agents and joint ventures. Outside assessments have identified fisheries as a corruption-prone area. Buyers, financiers and partners therefore commonly ask for checks on vessel ownership, licence history and links between operators and officials."
+    },
+    {
+      "q": "What time zone should we use when working with Kiribati?",
+      "a": "Kiribati spans three time zones: UTC+12 in the Gilbert Islands, including Tarawa, UTC+13 in the Phoenix Islands and UTC+14 in the Line Islands, the earliest in the world. Most government and business contacts are on Tarawa, which is a day ahead of Nashville, so overlap in working hours is short and scheduling needs care."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Digital Watch Observatory: The Data Protection Act 2025 of Kiribati",
+      "url": "https://dig.watch/?p=220679"
+    },
+    {
+      "title": "RNZ: Kiribati's first-of-its-kind data protection bill passes first reading (April 2025)",
+      "url": "https://www.rnz.co.nz/news/pacific/556942/kiribati-s-first-of-its-kind-data-protection-bill-passes-first-reading"
+    },
+    {
+      "title": "Pacific PSDI: New PSDI-supported laws make it easier to start, operate and grow businesses in Kiribati",
+      "url": "https://pacificpsdi.org/news-and-insights/news/read/new-psdi-supported-laws-make-it-easier-to-start-operate-and-grow-businesses-in-kiribati"
+    },
+    {
+      "title": "PacLII: Business Names Act 2021 (Kiribati)",
+      "url": "https://pacliirms.austlii.edu.au/ki/legis/num_act/bna2021168.pdf"
+    },
+    {
+      "title": "PacLII: Proceeds of Crime (Amendment) Act 2005 (Kiribati)",
+      "url": "https://paclii.org/ki/legis/num_act/poca20054249"
+    },
+    {
+      "title": "RNZ: Kiribati launches anti-corruption strategy (September 2017)",
+      "url": "https://www.rnz.co.nz/international/pacific-news/339729/kiribati-launches-anti-corruption-strategy"
+    },
+    {
+      "title": "Transparency International Knowledge Hub: Corruption and anti-corruption in Kiribati (2013)",
+      "url": "https://knowledgehub.transparency.org/helpdesk/corruption-and-anti-corruption-in-kiribati"
+    },
+    {
+      "title": "Know Your Country: Kiribati",
+      "url": "https://knowyourcountry.com/kiribati"
+    },
+    {
+      "title": "Wikipedia: Corruption in Kiribati",
+      "url": "https://en.wikipedia.org/wiki/Corruption_in_Kiribati"
+    }
+  ],
+  "review_flags": [
+    "Population (approx. 134,000, 2024) is NOT sourced: no World Bank or KNSO page appeared within the search budget. source_url is empty; add a citation before publishing.",
+    "Data Protection Act 2025: passage and commencement dates not confirmed (sources show first reading April 2025 and an Act titled 2025 enforced by the Digital Transformation Office). Confirm commencement and any regulations.",
+    "No private investigator licensing regime identified; based on absence in research. Confirm with Kiribati counsel.",
+    "Legal system and court structure (common law, Magistrates' Courts, High Court, Court of Appeal, 1979 Constitution) and customary land tenure are from general knowledge, not verified sources.",
+    "Beneficial ownership: Know Your Country says UBO requirements are being developed; status of any register unknown. AML framework beyond the Proceeds of Crime Act 2003/2005 (e.g. any newer AML statute) not verified.",
+    "Anti-corruption sources are dated (TI 2013, RNZ 2017); check for any Anti-Corruption Act or Leadership Code legislation not captured here."
+  ],
+  "researched": "2026-11-04"
+}

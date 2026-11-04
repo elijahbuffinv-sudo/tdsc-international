@@ -1,0 +1,146 @@
+{
+  "cc": "KG",
+  "name": "Kyrgyzstan",
+  "meta_description": "TDSC investigative consulting on Kyrgyzstan: counterparty due diligence, sanctions-sensitive trade checks and beneficial ownership research under 2026 rules.",
+  "eyebrow": "Kyrgyz Republic, Central Asia",
+  "hero_lede": "Investigative consulting for matters touching Kyrgyzstan involves Ministry of Justice registration records, new beneficial ownership disclosure requirements, a personal data law supervised by a dedicated state agency, heightened attention to trade with Russia, and coordination with qualified local professionals and Kyrgyz counsel.",
+  "intro": [
+    "Kyrgyzstan is a member of the Eurasian Economic Union with a post-Soviet civil law system, a mixed Kyrgyz and Russian-language business environment and comparatively accessible company formation. Legal entities are registered by the Ministry of Justice through its territorial bodies, and a new registration regulation approved in April 2026 requires companies to disclose their beneficial owners, building on an electronic beneficial ownership database established in late 2025. Personal data is governed by the Law on Personal Information of 2008, now supervised by the State Agency for Personal Data Protection. Legislation and institutions have been reorganised frequently in recent years, so current versions of rules must be checked for each matter.",
+    "Organisations commission investigative work involving Kyrgyzstan because of its mining sector, led by gold, its role as a trade and re-export hub between China, Russia, Kazakhstan and the wider region, and a fast-growing banking, payments and cryptocurrency sector. Since 2022 the country's trade with Russia has drawn scrutiny from Western regulators, and several Kyrgyz financial institutions and trading companies have faced sanctions designations. Typical exposures include the true ownership of trading and logistics companies, diversion of dual-use goods, mining licence and partner disputes, the integrity of local intermediaries, and asset tracing in commercial and shareholder disputes."
+  ],
+  "population": {
+    "value": "7.34 million",
+    "year": "2025",
+    "source_url": "https://fred.stlouisfed.org/series/POPTOTKGA647NWDB"
+  },
+  "legal_system": "Kyrgyzstan has a civil law system based on codified legislation, including the Civil Code and statutes on business entities, with strong influence from the Soviet and Russian legal tradition. Commercial disputes are heard by the general state courts, comprising local district and inter-district courts, regional courts and the Bishkek City Court on appeal, and the Supreme Court as the highest instance; a Constitutional Court sits separately. Arbitration is used in commercial and investment contracts, and the International Court of Arbitration at the Chamber of Commerce and Industry of the Kyrgyz Republic is the best-known domestic institution. Proceedings are conducted in Kyrgyz or Russian.",
+  "data_protection": {
+    "law": "Law of the Kyrgyz Republic No. 58 'On Personal Information' (14 April 2008, as amended, including 2017, 2021 and 2022)",
+    "regulator": "State Agency for Personal Data Protection under the Cabinet of Ministers of the Kyrgyz Republic",
+    "summary": "Processing requires a lawful basis such as consent, the legitimate interests of the data holder where these do not override the individual's rights, or protection of the individual's interests. The 2017 amendments require consent in writing or by e-signed electronic document. Holders of personal data arrays are required to register with the State Agency, although the registration system has been oriented towards local entities. Transfers abroad are permitted to countries with adequate protection under international treaty, or with consent; transfers to other countries require consent or another narrow ground, which affects reports sent to the United States. We have not identified a general localisation requirement."
+  },
+  "investigator_regulation": "We have not identified a law in force that licenses or regulates private investigators or detective agencies in Kyrgyzstan. Private security services operate under separate rules and do not confer investigative powers. Operational-search activity, including covert surveillance and interception of communications, is reserved to state bodies under the law on operational-search activity, and unlawful collection or disclosure of information about private life is an offence. Processing personal data without a lawful basis also breaches the personal information law. Engagements are therefore scoped with Kyrgyz counsel and rely on registry and court records, open sources and lawful interviews by qualified local professionals.",
+  "corporate_records": "The Ministry of Justice and its territorial bodies register legal entities, branches and representative offices and maintain the Unified State Register, which records names, addresses, founders, heads and, since the 2026 regulation, beneficial owner information; basic register data is publicly searchable. Under Cabinet of Ministers Resolution No. 257 of 17 April 2026, companies must state their beneficial owners at registration and report changes, and entities registered before 1 March 2026 were required to file this information by 1 August 2026. An electronic database of ultimate beneficial owners was approved by Resolution No. 739 of 14 November 2025. We have not confirmed how much beneficial ownership data is publicly visible.",
+  "anti_corruption": "Bribery and abuse of office are criminal offences under the Criminal Code of the Kyrgyz Republic, supported by dedicated anti-corruption legislation and investigated principally by the Anti-Corruption Service within the State Committee for National Security, with the Prosecutor General's Office overseeing enforcement. Anti-money laundering obligations arise under Law No. 87 of 6 August 2018 on combating the financing of criminal activity and the legalisation (laundering) of criminal proceeds, with the State Financial Intelligence Service acting as the financial intelligence unit.",
+  "matters": [
+    {
+      "title": "Sanctions-sensitive trade counterparties",
+      "text": "Assessing Kyrgyz traders, freight forwarders and payment intermediaries involved in goods moving to Russia or onwards through the Eurasian Economic Union, including links to designated persons, recent incorporation or ownership changes, and signs that a company is a conduit for restricted or dual-use goods."
+    },
+    {
+      "title": "Mining partners and licence history",
+      "text": "Background research on local partners, contractors and licence holders in gold, coal and other mining projects, reviewing ownership changes, disputes with the state, prior licence revocations and the political exposure of shareholders, given the history of contested mining assets in the country."
+    },
+    {
+      "title": "Banking, fintech and crypto counterparties",
+      "text": "Due diligence on Kyrgyz banks, payment providers, exchange offices and virtual asset businesses before correspondent, partnership or investment relationships, covering beneficial ownership, regulatory history, adverse media in Russian and Kyrgyz and exposure to sanctioned financial flows."
+    },
+    {
+      "title": "Ownership tracing behind new disclosures",
+      "text": "Testing the beneficial ownership information that Kyrgyz companies now file under the 2026 registration regulation against foreign registries, court records, media archives and the counterparty's own statements, particularly where nominee directors or holding companies in Kazakhstan, Russia, the UAE or Cyprus are involved."
+    },
+    {
+      "title": "Asset research for disputes",
+      "text": "Helping counsel identify real estate, company interests and vehicles linked to a Kyrgyz debtor or former business partner ahead of litigation, arbitration or enforcement in Bishkek or abroad, with procedural steps and recognition of foreign awards handled by Kyrgyz lawyers."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Kyrgyz and Russian; English in international firms"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Bishkek, UTC+6 (no daylight saving)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Kyrgyz som (KGS)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Bishkek, Osh"
+    },
+    {
+      "label": "Courts language",
+      "value": "Kyrgyz or Russian; foreign documents need notarised translation"
+    },
+    {
+      "label": "Key registry",
+      "value": "Unified State Register of legal entities, Ministry of Justice"
+    },
+    {
+      "label": "Business culture",
+      "value": "Personal and regional networks matter; verify authority to sign"
+    }
+  ],
+  "tdsc_approach": "Engagements touching Kyrgyzstan are scoped from Nashville, beginning with a check of the current legislation and institutions relevant to the question, since registration rules, beneficial ownership disclosure and agency structures changed in 2025 and 2026. Research draws on Ministry of Justice registry data, court decisions, procurement and licensing information, foreign registries and Russian- and Kyrgyz-language open sources. Because no investigator licensing regime has been identified and operational-search methods are reserved to the state, any local enquiries are carried out by qualified professionals under the direction of Kyrgyz counsel, without covert recording. Every matter is screened for US and other sanctions exposure, and work that would breach sanctions is declined. Personal data is minimised and transferred on a documented basis. TDSC does not use pretexting.",
+  "faqs": [
+    {
+      "q": "Can we see who owns a Kyrgyz company?",
+      "a": "The Ministry of Justice register shows founders and heads, and since 2026 companies must also file beneficial owner information at registration and report changes, with existing companies required to file by 1 August 2026. How much of this is publicly visible is not yet clear, so we combine registry data with foreign registries, court records and media sources."
+    },
+    {
+      "q": "Why do Kyrgyz counterparties receive extra sanctions scrutiny?",
+      "a": "Trade between Kyrgyzstan and Russia has grown sharply since 2022, and Western authorities have designated a number of Kyrgyz banks and trading companies for facilitating sanctions evasion. Kyrgyzstan itself is not under comprehensive US sanctions, but TDSC screens every matter and focuses due diligence on ownership, trade flows and links to restricted parties."
+    },
+    {
+      "q": "Who regulates personal data in Kyrgyzstan?",
+      "a": "The State Agency for Personal Data Protection under the Cabinet of Ministers, created by presidential decree in September 2021 and registered in January 2022, supervises the Law on Personal Information of 2008. The law requires a lawful basis for processing, registration of data holders and adequate protection or consent for transfers abroad. Enforcement practice is still developing."
+    },
+    {
+      "q": "Are private detectives licensed in Kyrgyzstan?",
+      "a": "We have not identified a law in force establishing a licensing regime for private investigators. Covert surveillance and interception are reserved to state bodies conducting operational-search activity. We therefore scope Kyrgyz enquiries with local counsel and limit them to public records, open sources and lawful interviews conducted by qualified local professionals."
+    },
+    {
+      "q": "In which languages are Kyrgyz records and media searched?",
+      "a": "Official records and court decisions appear in Kyrgyz and Russian, and much business media and many company documents are in Russian. Names often appear in several transliterations, including Cyrillic and Latin forms. We search across these variants and record which spelling and identifiers each finding relies on, so that counsel can assess matches with confidence."
+    }
+  ],
+  "sources": [
+    {
+      "title": "FRED (World Bank data): Population, Total for Kyrgyzstan",
+      "url": "https://fred.stlouisfed.org/series/POPTOTKGA647NWDB"
+    },
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Kyrgyzstan",
+      "url": "https://www.dlapiperdataprotection.com/?c=KG&t=law"
+    },
+    {
+      "title": "State Agency for Personal Data Protection: About the Agency",
+      "url": "https://dpa.gov.kg/en/about"
+    },
+    {
+      "title": "IBC: Changes to the Law of the Kyrgyz Republic on Personal Information (2017)",
+      "url": "https://www.ibc.kg/en/analysis/articles/2779_changes_to_the_law_of_the_kyrgyz_republic_on_personal_information"
+    },
+    {
+      "title": "GRATA International: The Register of Ultimate Beneficial Owners in the Kyrgyz Republic (2026)",
+      "url": "https://gratanet.com/publications/the-register-of-ultimate-beneficial-owners-in-the-kyrgyz-republic-its-purpose-and-how-it-works-in-practice"
+    },
+    {
+      "title": "ICNL: Overview of the regulation on the registration of legal entities (August 2026)",
+      "url": "https://www.icnl.org/wp-content/uploads/Overview-of-the-regulation-on-the-registration-of-legal-entities_August-27-2026_EN_final.pdf"
+    },
+    {
+      "title": "Open Ownership: Implementing beneficial ownership transparency in the Kyrgyz Republic extractives sector",
+      "url": "https://www.openownership.org/en/publications/implementing-beneficial-ownership-transparency-in-the-kyrgyz-republic-extractives-sector-findings-and-recommendations/executive-summary/"
+    },
+    {
+      "title": "Council of Europe: Kyrgyz authorities improve transparency of beneficial owners of legal entities",
+      "url": "https://pjp-eu.coe.int/en/web/central-asia/-/kyrgyz-authorities-enhance-capacity-in-fighting-money-laundering-by-improving-the-transparency-of-beneficial-owners-of-legal-entities"
+    }
+  ],
+  "review_flags": [
+    "Statement that several Kyrgyz banks and trading companies have been sanctioned for Russia-related evasion is from general knowledge, not a source opened here; verify against current OFAC/EU/UK lists.",
+    "No private investigator licensing law identified; confirm with Kyrgyz counsel (draft laws have been discussed in the past).",
+    "Public visibility of beneficial ownership data under Resolutions 739 (2025) and 257 (2026) not confirmed.",
+    "Anti-corruption: Anti-Corruption Service of the GKNB, State Financial Intelligence Service as FIU, court structure and the ICA at the Chamber of Commerce and Industry are from general knowledge, not verified on official pages. Dedicated anti-corruption statute deliberately not named.",
+    "Personal data law: DLA Piper (Feb 2025) lists amendments to 2022; check for 2025-2026 amendments or a new law and any penalties regime."
+  ],
+  "researched": "2026-11-04"
+}

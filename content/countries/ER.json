@@ -13,7 +13,7 @@
     "year": "2025",
     "source_url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ER"
   },
-  "legal_system": "Eritrea's commercial code derives from the Ethiopian code in force at independence, with later amendments. An overhaul of the major codes in 2015 has not been implemented in practice, according to the US State Department. The judiciary is not fully independent of the executive, and judges are themselves national service employees. A Special Court operates alongside the ordinary courts, and its processes are criticised as lacking transparency. There is no functioning national legislature. International commercial contracts, including mining agreements, generally provide for arbitration seated abroad.",
+  "legal_system": "Eritrea's commercial code derives from the Ethiopian code in force at independence, with later amendments. An overhaul of the major codes in 2015 has not been implemented in practice, according to the US State Department. The judiciary is not fully independent of the executive, and judges are themselves national service employees. A Special Court, created in 1996 for corruption cases, sits outside the ordinary courts; it is reported to hold trials in secret, with judges drawn largely from the military. There is no functioning national legislature. International commercial contracts, including mining agreements, generally provide for arbitration seated abroad.",
   "data_protection": {
     "law": "No comprehensive data protection law identified",
     "regulator": "No data protection authority identified",
@@ -111,14 +111,23 @@
       "url": "https://ofac.treasury.gov/recent-actions/20211112"
     },
     {
-      "title": "Wikipedia: Eritrea",
-      "url": "https://en.wikipedia.org/wiki/Eritrea"
+      "title": "UK Foreign and Commonwealth Office: Eritrea, Country of Concern (Human Rights and Democracy Report 2014)",
+      "url": "https://www.gov.uk/government/publications/eritrea-country-of-concern--2/eritrea-country-of-concern"
+    },
+    {
+      "title": "International Institute for Justice and Development: Eritrea's Not So Special Court (2021)",
+      "url": "https://www.iijd.org/2021/06/01/eritreas-not-so-special-court/"
+    },
+    {
+      "title": "UNCTAD Investment Policy Hub: Eritrea investment laws",
+      "url": "https://investmentpolicy.unctad.org/investment-laws/laws/255/print/3"
     }
   ],
   "review_flags": [
     "Sanctions: OFAC Ethiopia-related designations (Nov 2021) should be rechecked for current status before publication.",
     "Data protection: no law identified (State Dept ICS mentions none); absence not confirmed by a legal database.",
-    "Specific mine names (Bisha, Zara, Colluli) deliberately omitted; Danakil potash reference removed from intro.",
+    "Special Court description now sourced to IIJD (advocacy NGO, 2021) and UK FCO 2014 report; both dated. Wikipedia general article removed as a source; UNCTAD investment-law page listed from search results but not opened.",
+    "Commercial code origin and 'six government offices' registration rest on the 2024 State Dept ICS only.",
     "No PI licensing framework identified."
   ],
   "researched": "2026-11-04"

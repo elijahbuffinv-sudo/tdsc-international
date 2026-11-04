@@ -1,0 +1,98 @@
+{
+  "cc": "BJ",
+  "name": "Benin",
+  "meta_description": "TDSC investigative consulting on Benin: OHADA company records, Digital Code data rules, Cotonou port and trade exposure, and coordinated local fieldwork.",
+  "eyebrow": "Republic of Benin",
+  "hero_lede": "Investigative consulting for matters touching Benin means working through paper-based OHADA company records, a Digital Code that tightly governs personal data, and a trade economy built around the Port of Cotonou and the border with Nigeria, with local work coordinated through licensed professionals.",
+  "intro": [
+    "Benin is a French-speaking West African state with a civil law system and membership of OHADA, the regional body whose Uniform Acts govern company law, commercial transactions and arbitration across its member states. Company records sit in the Registre du Commerce et du Credit Mobilier, which in practice is consulted through extracts obtained at the commercial court rather than through an open online search. The country uses the CFA franc, has a dedicated commercial court created in 2016, and has invested in specialised criminal and economic crime institutions. For investigators, the practical consequences are that documentary verification often depends on in-person retrieval, and that personal data handling is governed by one of the more detailed data protection codes in the region.",
+    "Organisations commission work involving Benin most often because of trade. Cotonou is a major gateway for goods moving to Nigeria, Niger, Burkina Faso and other inland markets, and that re-export and transit trade creates counterparty, customs and diversion risks. Cotton and cashew exports, agricultural processing, port logistics, construction and public infrastructure contracts draw foreign buyers, lenders and contractors. Typical exposures include verifying that a local distributor or supplier is what it claims to be, understanding who stands behind a company when no public beneficial ownership register is yet available, tracing goods or funds that pass through the port, and assessing the reputation of partners before entering a joint venture or public contract."
+  ],
+  "population": {
+    "value": "about 13.8 million",
+    "year": "not stated in source",
+    "source_url": "https://www.addleshawgoddard.com/en/doing-business-in-africa/africa-countries-a-z-list/benin/"
+  },
+  "legal_system": "Benin has a civil law system modelled largely on French law, with customary law remaining relevant in some personal and land matters. As an OHADA member, its company, commercial and arbitration law follows the OHADA Uniform Acts, and the Common Court of Justice and Arbitration (CCJA) sits at the apex for questions of OHADA law. Law 2016-15 of 28 July 2016 created a dedicated commercial court for business disputes. Arbitration is available through CAMEC, the arbitration, mediation and conciliation centre attached to the Chamber of Commerce and Industry in Cotonou.",
+  "data_protection": {
+    "law": "Digital Code (Law No. 2017-20 of 20 April 2018, amended by Law No. 2020-35 of 6 January 2021), alongside Law No. 2009-09 of 22 May 2009 on the protection of personally identifiable information",
+    "regulator": "Autorite de Protection des Donnees a caractere Personnel (APDP)",
+    "summary": "Benin has a comprehensive data protection regime set out in the Digital Code. Processing generally requires a prior declaration to the APDP or an entry in the register held by the controller's designated data protection officer, and controllers must keep a record of processing activities. Data relating to criminal or administrative proceedings and penalties is a sensitive category subject to specific conditions, which directly affects litigation and background work. Transfers outside Benin are permitted to countries with adequate protection; otherwise APDP approval backed by contractual or internal safeguards may be needed. The APDP can impose fines of up to XOF 50 million for a first breach, higher for repeat breaches."
+  },
+  "investigator_regulation": "We have not identified, from the sources reviewed, a dedicated statute or licensing authority for private investigators or detective agencies in Benin, nor published guidance on how investigative activity is supervised. That should not be read as an absence of regulation: surveillance, recording, access to official records and the handling of personal data are constrained by the Digital Code, criminal law and the APDP's powers. TDSC therefore treats any local fieldwork as a matter to be confirmed with Beninese counsel before it begins, and works only with local professionals whose standing and authority for the specific task have been checked.",
+  "corporate_records": "Companies are registered in the Registre du Commerce et du Credit Mobilier (RCCM), the OHADA-standard register maintained by the Tribunal de Commerce de Cotonou for Cotonou entities and by other first-instance courts elsewhere. Certified RCCM extracts typically show the company name, registration number, legal form, registered office, incorporation date, activity, share capital and directors, but are generally obtained in person or through a local agent rather than through an online search. As of 2025, no public beneficial ownership register has been confirmed; Benin has committed under an ECOWAS directive to establish central beneficial ownership registers by 1 January 2027. Court and land records are not readily searchable remotely.",
+  "anti_corruption": "Benin's principal anti-corruption statute is Law No. 2011-20 on the fight against corruption and related offences, which addresses bribery, asset declarations, conflicts of interest and whistleblower protection. Serious economic and financial offences are prosecuted before the Cour de Repression des Infractions Economiques et du Terrorisme (CRIET). Anti-money laundering obligations follow the regional AML/CFT framework applicable in WAEMU states, with CENTIF acting as the financial intelligence unit. Benin has ratified the UN Convention against Corruption and the African Union convention on corruption.",
+  "matters": [
+    {
+      "title": "Transit trade and goods diversion",
+      "text": "Goods landed at Cotonou are frequently re-exported to Nigeria and the Sahel. We help clients trace shipments, test whether declared end-users are genuine and identify where products are being diverted into grey markets or informal cross-border channels."
+    },
+    {
+      "title": "Distributor and supplier verification",
+      "text": "Before appointing a Beninese distributor or agent, clients need to know the company exists as described. We obtain RCCM extracts through local channels, compare them with trading history and identify directors and related parties who also appear in other entities."
+    },
+    {
+      "title": "Agricultural export counterparties",
+      "text": "Cotton, cashew and other agricultural exports involve aggregators, processors and trading houses whose capacity and ownership are not always transparent. We assess track record, ownership indicators, litigation and reputational signals before buyers or lenders commit."
+    },
+    {
+      "title": "Public contract partner reviews",
+      "text": "Infrastructure and public works programmes attract foreign contractors that must select local partners. We review partners for politically exposed connections, prior procurement disputes and adverse media, supporting anti-corruption compliance under home-country and Beninese law."
+    },
+    {
+      "title": "Asset and judgment enforcement support",
+      "text": "Where a creditor holds an award or judgment against a Beninese party, we map known business interests, registered companies and visible assets from lawful sources, giving counsel a factual basis for enforcement steps under OHADA procedures."
+    }
+  ],
+  "practical": [
+    {"label": "Business language", "value": "French; Fon and Yoruba widely spoken in the south"},
+    {"label": "Time zone", "value": "Africa/Porto-Novo, UTC+1, no daylight saving"},
+    {"label": "Currency", "value": "West African CFA franc (XOF), pegged to the euro"},
+    {"label": "Capital and business centre", "value": "Porto-Novo is the official capital; Cotonou is the commercial centre"},
+    {"label": "Working week", "value": "Monday to Friday"},
+    {"label": "Company records", "value": "RCCM extracts, usually obtained in person or via a local agent"},
+    {"label": "Court language", "value": "French"},
+    {"label": "Regional framework", "value": "OHADA, WAEMU and ECOWAS member"}
+  ],
+  "tdsc_approach": "Engagements touching Benin are scoped from Nashville. We begin with a jurisdictional review: what the client needs to know, which questions can be answered from lawful open sources, and which require documents that exist only on paper in Cotonou or at regional courts. Because RCCM extracts and court files are rarely available online, we coordinate retrieval through qualified local professionals and, where questions of permissibility arise, Beninese counsel. Personal data is collected only where necessary, with attention to the Digital Code's treatment of criminal and sensitive data and its transfer rules. We work in French where sources require it, report in English and identify clearly which findings are documented and which rest on local inquiry.",
+  "faqs": [
+    {
+      "q": "Can Beninese company records be searched online?",
+      "a": "Not reliably. The RCCM is held by the commercial court in Cotonou and other first-instance courts, and certified extracts are generally obtained in person or through a local agent. We arrange retrieval through vetted local channels and verify the extract against other lawful sources, such as trade data and published notices, before relying on it."
+    },
+    {
+      "q": "Is there a beneficial ownership register in Benin?",
+      "a": "As of 2025 we have not confirmed a public beneficial ownership register. Benin has committed, under an ECOWAS directive, to establish central registers by 1 January 2027. Until then, ownership is assessed from RCCM shareholder and director details, related company appointments, media and other lawful indicators, and our reports state the limits of that analysis."
+    },
+    {
+      "q": "Does the Digital Code affect background checks on individuals?",
+      "a": "Yes. The Digital Code treats data on criminal and administrative proceedings as sensitive and subjects it to specific conditions, and transfers of personal data out of Benin are regulated. We limit collection to what the matter needs, confirm the lawful basis with the client and, where necessary, local counsel, and avoid requesting official records we are not entitled to obtain."
+    },
+    {
+      "q": "Can you investigate counterparties involved in Nigeria transit trade?",
+      "a": "Often, yes. Many Benin matters involve goods or payments that move onward to Nigeria or Sahel markets. We scope such work across both jurisdictions, using lawful trade, corporate and media sources, and coordinate with licensed professionals in each country where on-the-ground inquiry is required. Sanctions and export control screening is part of the scoping."
+    },
+    {
+      "q": "Which courts handle commercial disputes in Benin?",
+      "a": "A dedicated commercial court created by Law 2016-15 hears business disputes, and questions of OHADA law can reach the Common Court of Justice and Arbitration in Abidjan. Arbitration is available through CAMEC in Cotonou. TDSC does not give legal advice; we support counsel with factual research on parties, assets and history."
+    }
+  ],
+  "sources": [
+    {"title": "DLA Piper Data Protection Laws of the World: Benin", "url": "https://www.dlapiperdataprotection.com/?c=BJ&t=law"},
+    {"title": "Republic of Benin: Law No. 2017-20 on the Digital Code (SGG)", "url": "https://sgg.gouv.bj/doc/loi-2017-20/download"},
+    {"title": "Open Ownership: Benin country page", "url": "https://www.openownership.org/en/map/country/benin/"},
+    {"title": "Business Data Guide: Benin company search guide", "url": "https://businessdataguide.com/blog/jurisdictions/benin-company-search-guide"},
+    {"title": "Addleshaw Goddard: Doing business in Africa, Benin", "url": "https://www.addleshawgoddard.com/en/doing-business-in-africa/africa-countries-a-z-list/benin/"},
+    {"title": "Know Your Country: Benin", "url": "https://knowyourcountry.com/benin"},
+    {"title": "IMF Country Report: Benin (2023)", "url": "https://www.imf.org/-/media/files/publications/cr/2023/english/1benea2023002.pdf.md"}
+  ],
+  "review_flags": [
+    "Population (about 13.8 million) is from an Addleshaw Goddard guide with no stated year, not World Bank; replace with a current World Bank figure.",
+    "No dedicated private investigator licensing regime identified; confirm with Beninese counsel.",
+    "AML law cited generically (WAEMU AML/CFT framework); specific Beninese AML/CFT statute number and year not verified.",
+    "CRIET full name and jurisdiction taken from general knowledge consistent with secondary sources; confirm against official text.",
+    "Beneficial ownership register status (ECOWAS 1 January 2027 deadline) likely to change.",
+    "IMF report listed in sources appeared in search results but was not opened."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,146 @@
+{
+  "cc": "TN",
+  "name": "Tunisia",
+  "meta_description": "TDSC investigative consulting on Tunisia: supplier and partner due diligence, RNE ownership research and asset inquiries under strict data transfer rules.",
+  "eyebrow": "Republic of Tunisia",
+  "hero_lede": "Investigative consulting for matters touching Tunisia usually involves verifying export-sector suppliers and partners, establishing ownership through the national business register, and handling personal data under one of the region's strictest transfer regimes. TDSC scopes the work from Nashville and coordinates qualified Tunisian professionals and counsel where local inquiries are needed.",
+  "intro": [
+    "Tunisia is a civil law jurisdiction with French-influenced codes, a commercial companies code and a centralised Registre National des Entreprises (RNE) created by Law 2018-52, which also holds beneficial ownership declarations. Personal data has been protected since Organic Law 2004-63, administered by the INPDP, and transfers of personal data abroad require the authority's prior authorisation and the data subject's explicit consent. The institutional environment has shifted since the exceptional measures of 2021 and the 2022 constitution: the national anti-corruption authority's activities were frozen in August 2021 and judicial independence has been a subject of concern. Investigative work therefore needs careful legal scoping and conservative data handling.",
+    "Organisations commission work involving Tunisia because of its role as a nearshore manufacturing and services base for Europe. Automotive wiring and components, aeronautics, textiles and apparel, and IT outsourcing firms, many established as wholly exporting companies, supply European and North American customers who need supplier ownership and compliance checks. Olive oil, dates, phosphates and energy attract buyers and investors. Lenders, litigants and family offices seek assets and interests in Tunisia, while compliance teams assess money laundering and corruption exposure in a jurisdiction that has strengthened its AML framework after being placed under increased monitoring in 2018."
+  ],
+  "population": {
+    "value": "approximately 12 million (estimate)",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Tunisia has a civil law system shaped by French law, codified in the Code of Obligations and Contracts, the Commercial Code and the Code des sociétés commerciales, under the 2022 Constitution. Commercial disputes are heard by courts of first instance, which have commercial chambers, with appeals to the courts of appeal and review on points of law by the Court of Cassation. Arbitration is governed by the Arbitration Code of 1993, and Tunis hosts institutional arbitration and mediation services. Proceedings are conducted in Arabic, and French-language documents generally require certified Arabic translation for court use.",
+  "data_protection": {
+    "law": "Organic Law No. 2004-63 of 27 July 2004 on the protection of personal data, with Decrees 2007-3003 and 2007-3004",
+    "regulator": "Instance Nationale de Protection des Données à Caractère Personnel (INPDP)",
+    "summary": "All processing of personal data must be declared to the INPDP in advance, and sensitive data, including criminal history, health, religion and political opinion, requires authorisation or is prohibited. Processing generally requires the data subject's express written consent. Transfers abroad are prohibited where the destination lacks adequate protection or Tunisia's vital interests are at stake; otherwise each transfer needs INPDP authorisation and explicit consent, and unauthorised transfer is a criminal offence. Video surveillance is subject to INPDP conditions. Tunisia has acceded to Council of Europe Convention 108, and a GDPR-style draft law introduced in 2018 had not passed as of 2025. Investigators should avoid exporting Tunisian personal data without a lawful basis."
+  },
+  "investigator_regulation": "We have not identified a statute licensing private investigators or detective agencies in Tunisia in the sources reviewed for this page, and we do not assume that private investigation is authorised as a profession. Covert surveillance, recording and installation of cameras are constrained by Organic Law 2004-63 and INPDP rules, and interception of communications is reserved to authorities with judicial approval under Decree-Law 2022-54. Access to criminal, tax, civil status and banking records is restricted. Work in Tunisia is therefore limited to lawful records research and inquiries through Tunisian counsel or other appropriately qualified professionals, and the legal position is confirmed for each matter before any local step is taken.",
+  "corporate_records": "Companies register with the Registre National des Entreprises under Law 2018-52, operated by the Centre National du Registre des Entreprises. The RNE records legal form, capital, registered office, managers and directors, and published legal notices, and extracts can be obtained. Under Decree 2019-54, companies must declare their beneficial owners, identified in order as holders of a significant share of capital or voting rights, persons exercising de facto control, or, failing these, the principal manager. A ministerial order of 13 January 2026 governs access to beneficial ownership data; full details are not openly searchable. Land registration is handled by the Conservation de la Propriété Foncière, and court records are generally not published.",
+  "anti_corruption": "Organic Law 2015-26 on combating terrorism and money laundering, as amended, sets AML duties for financial institutions and designated professions, with the Commission Tunisienne des Analyses Financières (CTAF), hosted by the Central Bank, as financial intelligence unit. Tunisia has a 2017 whistleblower protection law and asset declaration duties for public officials. The Instance Nationale de Lutte Contre la Corruption (INLUCC), created in 2011, had its activities frozen in August 2021, leaving prosecution to the courts and audit to the Court of Auditors.",
+  "matters": [
+    {
+      "title": "Export-sector supplier verification",
+      "text": "Confirming ownership, management, litigation and labour history of wholly exporting Tunisian suppliers in automotive wiring, aeronautics, textiles and electronics, for European and North American manufacturers managing supply chain due diligence and reputational exposure."
+    },
+    {
+      "title": "Partner and acquisition due diligence",
+      "text": "Background research on Tunisian joint-venture partners, distributors and acquisition targets, including RNE filings, published legal notices, press coverage and links to politically exposed persons or figures named in asset-recovery and corruption proceedings since 2011."
+    },
+    {
+      "title": "Agrifood and commodity counterparties",
+      "text": "Verifying olive oil, date and seafood exporters and their supply chains, including ownership, trading history and quality or fraud disputes, for importers and traders in Europe and the United States who rely on certificates of origin and quality claims."
+    },
+    {
+      "title": "Asset inquiries for recovery",
+      "text": "Identifying companies, real estate and business interests connected to Tunisian debtors through RNE and land registry records, and coordinating with Tunisian counsel on precautionary seizures and exequatur of foreign judgments or arbitral awards."
+    },
+    {
+      "title": "Data-compliant employee investigations",
+      "text": "Supporting multinationals with misconduct or fraud inquiries involving Tunisian staff or subsidiaries, structured so that personal data stays in Tunisia unless INPDP authorisation and consent allow transfer, and interviews follow local labour and data protection rules."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Arabic (official) and French; English growing in tech and export sectors"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Tunis, UTC+1, no daylight saving time"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; shorter single-session public hours in summer and Ramadan"
+    },
+    {
+      "label": "Currency",
+      "value": "Tunisian dinar (TND), not freely convertible"
+    },
+    {
+      "label": "Courts language",
+      "value": "Arabic; certified translation required"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Tunis, Sfax, Sousse, Monastir, Bizerte, Nabeul"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Legalised or apostilled foreign documents; Arabic translation for courts"
+    },
+    {
+      "label": "Business culture note",
+      "value": "Formal, French-influenced business etiquette; trust built through introductions"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Tunisia engagements from Nashville, beginning with a review of what Organic Law 2004-63 permits, because declaration, consent and transfer rules shape how any personal data can be gathered and where it can be held. Where possible, analysis is designed so that identifying data about Tunisian individuals is not exported without INPDP authorisation. We rely on lawful sources: RNE extracts and legal notices, land registry information obtainable through proper channels, published judgments, procurement records, French and Arabic media, and records in connected jurisdictions in Europe and elsewhere. We do not claim access to restricted beneficial ownership or state databases. Where interviews or record retrieval in Tunisia are needed, we work through Tunisian counsel and appropriately qualified local professionals, after confirming the legal position.",
+  "faqs": [
+    {
+      "q": "Can personal data gathered in Tunisia be sent to the United States?",
+      "a": "Only with care. Organic Law 2004-63 requires INPDP authorisation for each transfer abroad and the data subject's explicit consent, and transfers to destinations without adequate protection are prohibited. Unauthorised transfer is a criminal offence. TDSC structures Tunisian work to minimise identifying data leaving the country and seeks counsel's advice where a transfer is unavoidable."
+    },
+    {
+      "q": "What does the Tunisian RNE show about a company?",
+      "a": "The Registre National des Entreprises records legal form, capital, registered office, managers and directors, and legal notices, and extracts can be ordered. Companies must also declare beneficial owners under Decree 2019-54, with access to that information governed by a January 2026 ministerial order rather than open public search. Ownership analysis often combines RNE data with other records."
+    },
+    {
+      "q": "Are private investigators licensed in Tunisia?",
+      "a": "We have not identified a licensing regime for private investigators in Tunisia, and TDSC does not treat private investigation as an authorised profession there. Surveillance and recording are constrained by data protection rules, and interception is reserved to authorities. Local steps are limited to lawful records research and inquiries through Tunisian counsel or qualified professionals."
+    },
+    {
+      "q": "How has the 2021 political change affected corruption-related diligence?",
+      "a": "The national anti-corruption authority's activities were frozen in August 2021, and the judiciary has undergone significant changes. For diligence, this means fewer institutional outputs to rely on and greater weight on court records, Court of Auditors reports, credible media and records in other jurisdictions when assessing political exposure or past allegations."
+    },
+    {
+      "q": "Why do so many diligence requests involve wholly exporting companies?",
+      "a": "Tunisia's investment framework has long encouraged companies producing entirely for export, particularly in automotive components, textiles and aeronautics supplying Europe. These firms are often foreign-linked and sit within group structures, so buyers and investors need to confirm ultimate ownership, related-party arrangements, labour practices and dispute history before relying on them."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Tunisia",
+      "url": "https://www.dlapiperdataprotection.com/index.html?t=law&c=TN"
+    },
+    {
+      "title": "Loi organique n° 2004-63 du 27 juillet 2004 (legislation-securite.tn)",
+      "url": "https://legislation-securite.tn/wp-content/uploads/sites/5/2023/11/Loi-n°-2004-63-du-27-Juillet-2004-Fr.pdf"
+    },
+    {
+      "title": "Invest in Tunisia: Protection of Personal Data in Tunisia",
+      "url": "https://investintunisia.tn/en/?p=3152"
+    },
+    {
+      "title": "Tunisie Numérique: Entreprises tunisiennes, bénéficiaire effectif",
+      "url": "https://www.tunisienumerique.com/entreprises-tunisiennes-beneficiaire-effectif-le-dirigeant-en-premiere-ligne-de-la-transparence/"
+    },
+    {
+      "title": "UNCAC Coalition: UNCAC parallel report Tunisia",
+      "url": "https://uncaccoalition.org/uncacparallelreporttunisia/"
+    },
+    {
+      "title": "Kapitalis: Registre national des entreprises, instrument de lutte contre la corruption",
+      "url": "https://kapitalis.com/tunisie/?p=167078"
+    },
+    {
+      "title": "Décision de la Commission Tunisienne des Analyses Financières n° 2017-03",
+      "url": "https://legislation-securite.tn/wp-content/uploads/sites/5/2023/11/Decision-de-la-Commission-Tunisienne-des-Analyses-Financieres-n°-2017-03-du-2-mars-2017.pdf"
+    },
+    {
+      "title": "Devex: National Business Register Center (RNE) Tunisia",
+      "url": "https://www.devex.com/organizations/national-business-register-center-registre-national-des-entreprises-rne-tunisia-191738"
+    }
+  ],
+  "review_flags": [
+    "Population has no source URL; ~12 million is an estimate. Replace with an INS (2024 census) or World Bank citation.",
+    "Private investigator regulation: no licensing regime identified; whether private investigation is lawful as a profession in Tunisia should be confirmed with Tunisian counsel.",
+    "Beneficial ownership access is governed by a 13 January 2026 ministerial order whose content was paywalled; public/restricted status not confirmed.",
+    "Data protection: DLA Piper notes a GDPR-style draft pending since 2018; confirm no new law has been adopted. INLUCC status (frozen since August 2021) should be rechecked.",
+    "Legal system details (1993 Arbitration Code, commercial chambers, Arabic court language), land registry name and the CTAF's placement at the Central Bank rest on general knowledge not verified in an opened source; Kapitalis, CTAF decision and Devex links came from search results and were not opened."
+  ],
+  "researched": "2026-11-04"
+}

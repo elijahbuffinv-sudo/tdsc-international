@@ -1,0 +1,100 @@
+{
+  "cc": "AO",
+  "name": "Angola",
+  "meta_description": "TDSC investigative consulting on Angola: commercial registry research, beneficial ownership under Law 7/26, APD data rules and licensed local coordination.",
+  "eyebrow": "Republic of Angola",
+  "hero_lede": "Investigative consulting on Angola means working in Portuguese with commercial registry extracts, a beneficial ownership regime that is still being implemented, prior-notice data protection rules overseen by the APD, and counterparties shaped by oil, diamonds, infrastructure finance and state-linked enterprise.",
+  "intro": [
+    "Angola is a Portuguese-speaking civil law jurisdiction whose economy remains heavily tied to oil and gas, with diamonds, construction and state-owned or state-linked enterprises prominent among counterparties. For investigative purposes the starting points are the commercial register, which publishes company constitutions, shareholders and directors through the Guiché Único da Empresa online publication service, and the documentary record held by courts and public bodies, much of it still paper-based outside Luanda. Personal data is governed by Law no. 22/11, which relies on prior notice to or authorisation from the data protection agency. Beneficial ownership rules were overhauled in August 2026 by Law no. 7/26, and the implementing register was not yet operational at the time of writing.",
+    "Organisations commission work touching Angola for several recurring reasons. Oil service contractors, mining and diamond buyers, lenders and trade financiers need to understand who stands behind local partners, agents and suppliers, particularly where politically exposed persons or their relatives may hold interests. Asset recovery and enforcement matters often trace funds and holdings moved between Angola, Portugal and other financial centres. Increased international monitoring of Angola's anti-money laundering framework has also raised expectations of banks and corporates that deal with Angolan counterparties, making documented, source-backed due diligence on ownership, reputation and litigation history a routine part of onboarding and transaction review."
+  ],
+  "population": {
+    "value": "25.8 million (2014 census; current estimates are substantially higher)",
+    "year": "2014",
+    "source_url": "https://dataprotection.africa/?p=1985"
+  },
+  "legal_system": "Angola has a civil law system derived from Portuguese law, codified and organised under the 2010 Constitution, with the commercial register and notarial deeds central to corporate formalities. Commercial disputes are heard in the ordinary court system, and parties in investment and energy contracts frequently provide for arbitration. We have not verified the current structure of specialised commercial chambers or the operating arbitration centres for this page; court and arbitration strategy for any matter should be confirmed with Angolan counsel.",
+  "data_protection": {
+    "law": "Data Protection Law (Law no. 22/11 of 17 June 2011)",
+    "regulator": "Agência de Proteção de Dados (APD)",
+    "summary": "Law 22/11 generally requires the data subject's express consent and prior notice to the APD before personal data is processed; sensitive data such as health, religion or political views normally requires prior APD authorisation. Video surveillance and other electronic monitoring are subject to specific rules. Transfers abroad to countries the APD considers adequate require prior notification, and transfers to other countries require prior authorisation. For investigative work this means collection of personal data in Angola, and its export to the United States, must be planned around notice and authorisation requirements rather than assumed to be permitted."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators or detective agencies in Angola in the sources reviewed. That does not mean investigative activity is unregulated: surveillance, recording and the collection of personal data fall under the Data Protection Law and its rules on electronic monitoring, and access to many official records is restricted to parties with a legal interest. Any field enquiries in Angola are therefore scoped with Angolan counsel, who confirm which activities, if any, require a licence or authorisation and which local professionals can lawfully carry them out.",
+  "corporate_records": "Companies are registered with the Registo Comercial, maintained by the commercial registry offices under the Ministry of Justice and Human Rights and operated in practice through the Guiché Único da Empresa (GUE). The GUE online publication service gives free access to registry acts, including company name, tax number, seat, object, capital, quota-holders or shareholders, directors and auditors, and searches can be run by partner name. Annual accounts are not filed with the commercial register. Law no. 7/26 of 19 August 2026 provides for a Beneficial Ownership Registration Centre (CRBE); as of late 2026 its regulations and portal were not yet in operation, and public access has not been confirmed.",
+  "anti_corruption": "Angola's anti-money laundering framework rests on Law no. 5/20 of 27 January 2020 on preventing and combating money laundering, terrorist financing and proliferation financing, amended in August 2026 by Law no. 8/26, alongside Law no. 3/14, which expanded predicate offences to include corruption and influence peddling. The Banco Nacional de Angola supervises banks and payment institutions, the Unidade de Informação Financeira (UIF) receives suspicious transaction reports, and the CMC and ARSEG supervise capital markets and insurance.",
+  "matters": [
+    {
+      "title": "Oil and gas counterparty diligence",
+      "text": "Background research on local content partners, service subcontractors and agents in the upstream and downstream oil sector, focusing on registry-documented ownership, links to politically exposed persons, litigation and media history, and consistency between declared capabilities and the company's actual record."
+    },
+    {
+      "title": "Diamond and mining supply chains",
+      "text": "Ownership and reputational research on mining concession holders, traders and intermediaries, assessing provenance claims, connections to state-linked entities and exposure to sanctions or corruption allegations before purchase, financing or investment decisions."
+    },
+    {
+      "title": "Asset tracing across Lusophone links",
+      "text": "Tracing companies, property and holdings connected to Angolan individuals or groups across Angola, Portugal and other jurisdictions, using commercial registry extracts and foreign public records to support enforcement, recovery or settlement strategy prepared by counsel."
+    },
+    {
+      "title": "Beneficial ownership transition checks",
+      "text": "Because the Law 7/26 register is still being implemented, ownership verification relies on commercial registry shareholder data, corporate documents and corroborating sources, with clear statements of what can and cannot yet be confirmed about ultimate owners."
+    },
+    {
+      "title": "Infrastructure and public contract reviews",
+      "text": "Integrity research on contractors, consortium partners and consultants in construction, energy and infrastructure projects, including prior contract performance, ownership changes around award dates and any public allegations of irregular procurement or inflated pricing."
+    }
+  ],
+  "practical": [
+    {"label": "Business language", "value": "Portuguese; English common in the oil sector"},
+    {"label": "Time zone", "value": "Africa/Luanda, UTC+1 (no daylight saving)"},
+    {"label": "Working week", "value": "Monday to Friday"},
+    {"label": "Currency", "value": "Angolan kwanza (AOA)"},
+    {"label": "Courts language", "value": "Portuguese"},
+    {"label": "Document formalities", "value": "Certified Portuguese translations generally required"},
+    {"label": "Main business centres", "value": "Luanda, Lobito, Benguela, Cabinda"},
+    {"label": "Business culture", "value": "Relationship-led; formal titles and in-person meetings valued"}
+  ],
+  "tdsc_approach": "TDSC scopes Angolan matters from Nashville, beginning with the question the client must answer and the jurisdictions where evidence is likely to sit, which frequently include Portugal as well as Angola. Open-source and registry work uses the GUE online publication service, foreign registries and Portuguese-language media, and we state plainly where beneficial ownership cannot yet be confirmed under the new Law 7/26 regime. Where enquiries in Angola itself are justified, we coordinate with appropriately qualified local professionals and Angolan counsel, who confirm what is lawful. Because Law 22/11 imposes notice and authorisation requirements on processing and cross-border transfers, personal data is minimised, collected only where a lawful route has been confirmed, and handled under a documented retention plan.",
+  "faqs": [
+    {
+      "q": "Can shareholders of an Angolan company be identified from public records?",
+      "a": "Often, yes. The commercial register, accessible through the Guiché Único da Empresa online publication service, records quota-holders or shareholders, directors and changes to capital. Registered shareholders may not be the ultimate owners, however, and the beneficial ownership register created by Law 7/26 was not yet operational in late 2026, so corroboration from other sources is usually needed."
+    },
+    {
+      "q": "Are company financial statements available from the Angolan registry?",
+      "a": "Annual accounts are not filed with or published by the commercial register; they are submitted to the tax administration, which does not make them publicly available. Financial information on an Angolan company therefore usually comes from the company itself, from lenders or counterparties, from regulated-sector disclosures, or from filings by foreign parent companies and affiliates."
+    },
+    {
+      "q": "Does Angola license private investigators?",
+      "a": "We have not identified a dedicated licensing regime for private investigators in the sources reviewed for this page. Activities such as surveillance, recording and personal data collection are nonetheless regulated, so TDSC confirms with Angolan counsel which tasks may be performed and by whom before any local enquiry is commissioned."
+    },
+    {
+      "q": "How does Angolan data protection law affect sending research results abroad?",
+      "a": "Law 22/11 requires prior notification to the APD for transfers to countries it considers adequate and prior authorisation for transfers to other countries. Engagements are designed so that personal data is limited to what the matter requires and transfers follow a route confirmed with local counsel, rather than treating cross-border delivery as automatic."
+    },
+    {
+      "q": "Can TDSC help with matters that also involve Portugal?",
+      "a": "Yes. Many Angolan matters have Portuguese dimensions, including holding companies, real estate, bank relationships and litigation. TDSC scopes the work across both jurisdictions from the outset, using public registries and court information in each, and coordinates with licensed professionals and counsel in each country where local steps are needed."
+    }
+  ],
+  "sources": [
+    {"title": "DLA Piper Data Protection Laws of the World: Angola", "url": "https://www.dlapiperdataprotection.com/?c=AO&t=law"},
+    {"title": "Lei n.º 22/11, de 17 de Junho (lex.ao)", "url": "https://lex.ao/docs/assembleia-nacional/2011/lei-n-o-22-11-de-17-de-junho/"},
+    {"title": "Decreto Presidencial n.º 214/16 (lex.ao)", "url": "https://lex.ao/docs/presidente-da-republica/2016/decreto-presidencial-n-o-214-16-de-10-de-outubro/"},
+    {"title": "Afriwise: New Regime of Beneficial Owner in Angola, Law No. 7/26 of 19 August", "url": "https://www.afriwise.com/blog/new-regime-of-beneficial-owner-in-angola-law-no-7-26-of-19-august"},
+    {"title": "Infoproff: Business register in Angola", "url": "https://www.infoproff.com/en/open-data/angola/222/business-register-in-angola"},
+    {"title": "VOVE ID: AML Compliance in Angola", "url": "https://blog.voveid.com/aml-compliance-in-angola-2025-guide-for-fintechs-and-regulated-businesses/"},
+    {"title": "ESAAMLG: Angola post-evaluation progress report", "url": "https://www.esaamlg.org/reports/Angola R.pdf"},
+    {"title": "Data Protection Africa: Angola", "url": "https://dataprotection.africa/?p=1985"},
+    {"title": "PLMJ: Beneficial ownership in Angola", "url": "https://www.plmj.com/xms/files/03_Novidades_legislativas/2026/Beneficial_ownership_in_Angola.pdf"}
+  ],
+  "review_flags": [
+    "Population uses the 2014 census figure (25.8 million) because no World Bank result appeared within the search budget; replace with a current World Bank estimate (likely above 37 million).",
+    "No dedicated private investigator licensing regime identified; confirm with Angolan counsel.",
+    "Law 7/26 (beneficial ownership) and Law 8/26 (AML amendment) are from August 2026; CRBE register not yet operational and public access unknown. Recheck.",
+    "DLA Piper Angola page last reviewed 2021; check for any new or amended data protection law and APD practice since.",
+    "Legal_system paragraph is deliberately general: court structure, commercial chambers and arbitration centres were not verified. Named anti-corruption statutes (e.g., public probity law, 2020 Penal Code) were not verified and are omitted.",
+    "PLMJ beneficial ownership PDF appeared in search results but was not opened."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,144 @@
+{
+  "cc": "BF",
+  "name": "Burkina Faso",
+  "meta_description": "TDSC investigative consulting on Burkina Faso: OHADA company records, gold sector counterparty checks and data handling under Law 001-2021 and the CIL.",
+  "eyebrow": "Burkina Faso, West Africa",
+  "hero_lede": "Investigative consulting for matters touching Burkina Faso works within the OHADA commercial framework and the RCCM trade register, a data protection regime supervised by the Commission de l'Informatique et des Libertés, a demanding security environment, and close coordination with qualified local professionals and Burkinabè counsel.",
+  "intro": [
+    "Burkina Faso is a landlocked, French-speaking member of the West African Economic and Monetary Union (UEMOA) and of OHADA, so its company law, commercial registration and securities rules follow the OHADA Uniform Acts shared across much of francophone Africa. Commercial information is held in the Registre du Commerce et du Crédit Mobilier (RCCM), and personal data processing is governed by Law No. 001-2021 of 30 March 2021, overseen by the Commission de l'Informatique et des Libertés (CIL). The country has been under military-led transitional government since 2022, and armed insurgency affects large parts of the territory, which limits field access and makes careful scoping essential.",
+    "Organisations commission investigative work involving Burkina Faso chiefly because of gold, which dominates exports and attracts international mining companies, contractors, traders and refiners, alongside a substantial artisanal sector. Cotton, agribusiness, telecommunications, construction and donor-funded development programmes are other common settings. Typical exposures include the ownership and integrity of mining service providers and local partners, gold supply chain provenance, procurement and diversion risk in aid-funded projects, payments to intermediaries, and the reliability of counterparties whose records are partly paper-based or held regionally. Changing government policy towards foreign mining interests since 2023 adds a further layer of political and contractual risk."
+  ],
+  "population": {
+    "value": "24.1 million",
+    "year": "2025",
+    "source_url": "https://fred.stlouisfed.org/data/POPTOTBFA647NWDB"
+  },
+  "legal_system": "Burkina Faso has a civil law system derived from French law. Commercial matters are governed largely by the OHADA Uniform Acts on general commercial law, commercial companies, securities and arbitration, with the Common Court of Justice and Arbitration (CCJA) in Abidjan as the final court for questions of OHADA law. Commercial disputes are heard at first instance by the commercial courts (tribunaux de commerce), notably in Ouagadougou and Bobo-Dioulasso, with appeals to the courts of appeal and the Court of Cassation on non-OHADA questions. Institutional arbitration is available through the Centre d'Arbitrage, de Médiation et de Conciliation de Ouagadougou (CAMC-O). Proceedings are in French.",
+  "data_protection": {
+    "law": "Law No. 001-2021/AN of 30 March 2021 on the protection of persons with regard to the processing of personal data, updating Law No. 010-2004/AN",
+    "regulator": "Commission de l'Informatique et des Libertés (CIL)",
+    "summary": "The 2021 law applies to controllers established in Burkina Faso and to foreign controllers processing data from its territory. Consent is the default basis, with exceptions for contract, legal obligation, vital interests and the establishment or defence of legal rights where data has been made public by the individual. Processing generally requires a prior formality with the CIL, such as a declaration, simplified declaration or authorisation. Transfers abroad require CIL authorisation, contractual confidentiality and reversibility clauses and an adequate level of protection in the recipient country, which is directly relevant when findings are sent to clients in the United States. Fines can reach XOF 100 million, although enforcement has been limited by resources."
+  },
+  "investigator_regulation": "We have not identified a dedicated statute or licensing authority for private investigators or detective agencies in Burkina Faso. Private security services are regulated separately by the state, but that regime concerns guarding rather than investigation. Interception of communications and covert surveillance are matters for state authorities, and collecting personal data without a lawful basis or the required CIL formality can breach the 2021 data protection law. The security situation also restricts movement in many regions. Engagements are therefore scoped with Burkinabè counsel and rely on registry records, court documents, open sources and lawful interviews conducted by qualified local professionals.",
+  "corporate_records": "Companies and traders are registered in the Registre du Commerce et du Crédit Mobilier (RCCM), kept by the registries of the commercial courts under the OHADA Uniform Act on General Commercial Law, with formation formalities handled through the Centre de Formalités des Entreprises (CEFORE) of the Maison de l'Entreprise. An RCCM extract is the standard record of a company's existence, legal form, managers and registered capital, and the RCCM also records security interests over movable property. We have not confirmed whether a central beneficial ownership register is operational or publicly accessible; banks and other obliged entities identify beneficial owners under UEMOA-derived anti-money laundering rules. Court and land records are generally consulted locally rather than online.",
+  "anti_corruption": "Law No. 004-2015/CNT of 3 March 2015 on the prevention and repression of corruption is the principal anti-corruption statute, and the Autorité Supérieure de Contrôle d'Etat et de Lutte contre la Corruption (ASCE-LC) is the main audit and anti-corruption body, including for asset declarations. Anti-money laundering and terrorist financing obligations derive from the uniform UEMOA framework, transposed by national law, with the Cellule Nationale de Traitement des Informations Financières (CENTIF) acting as the financial intelligence unit.",
+  "matters": [
+    {
+      "title": "Mining contractor and partner checks",
+      "text": "Background research on Burkinabè and regional companies supplying drilling, haulage, security, catering and equipment to gold mines, testing RCCM records, management histories, related-party links to officials, litigation and adverse media in French before contracts are awarded or renewed."
+    },
+    {
+      "title": "Gold supply chain provenance",
+      "text": "Assisting refiners, traders and buyers in assessing the origin of gold and the integrity of exporters and aggregators, given the scale of artisanal production and the risk that metal from insecure or conflict-affected areas enters formal trade channels through neighbouring countries."
+    },
+    {
+      "title": "Development programme integrity",
+      "text": "Supporting donors, implementing partners and contractors with reviews of local suppliers and sub-grantees, procurement irregularities and diversion allegations in humanitarian and development programmes, where remote verification often replaces site visits because of the security situation."
+    },
+    {
+      "title": "Agribusiness and trade counterparties",
+      "text": "Due diligence on cotton, sesame, cashew and livestock traders, transporters and processors, including verification of registration and ownership, prior payment disputes and links to the corridors running to ports in Côte d'Ivoire, Ghana and Togo."
+    },
+    {
+      "title": "Asset research for disputes",
+      "text": "Helping counsel identify companies, registered security interests and other assets connected to a Burkinabè debtor ahead of recognition and enforcement of a judgment or arbitral award under OHADA rules, with enforcement steps handled by local lawyers and court officers."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "French; Mooré, Dioula and Fulfulde widely spoken"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Ouagadougou, UTC+0 (no daylight saving)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "West African CFA franc (XOF)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Ouagadougou, Bobo-Dioulasso"
+    },
+    {
+      "label": "Courts language",
+      "value": "French; English documents need certified translation"
+    },
+    {
+      "label": "Key registry",
+      "value": "RCCM, kept at the commercial court registries"
+    },
+    {
+      "label": "Business culture",
+      "value": "Formal courtesy and in-person relationships matter; many records remain paper-based"
+    }
+  ],
+  "tdsc_approach": "Engagements touching Burkina Faso are scoped from Nashville, starting with a review of the client's objective, the security conditions in the regions concerned and what can lawfully be obtained. Research draws on RCCM extracts, OHADA and court materials, procurement and mining-sector publications, regional registries and French-language open sources. Because no dedicated investigator licensing regime has been identified and field access is restricted, any enquiries on the ground are carried out by qualified local professionals working with Burkinabè counsel, without covert surveillance and with personal safety placed ahead of information. Personal data is minimised, and transfers to the client are structured with regard to the CIL's authorisation requirements. Every matter is screened for sanctions exposure. TDSC does not use pretexting or seek restricted government records.",
+  "faqs": [
+    {
+      "q": "What does an RCCM extract show for a Burkinabè company?",
+      "a": "An RCCM extract confirms the company's registration number, legal form, registered office, capital, managers and registered activity, and the register also records security interests over movable property. It does not necessarily identify ultimate beneficial owners, so where shareholders are foreign companies we trace ownership through the relevant foreign registries and other lawful sources."
+    },
+    {
+      "q": "Do we need CIL approval to send findings to the United States?",
+      "a": "Law No. 001-2021 subjects transfers of personal data abroad to authorisation by the Commission de l'Informatique et des Libertés and to contractual and security safeguards, and the recipient country must offer adequate protection. How this applies depends on who controls the data and where it is processed. We minimise personal data in reports and confirm the transfer position with Burkinabè counsel."
+    },
+    {
+      "q": "Can investigators travel within Burkina Faso?",
+      "a": "Movement is restricted in many regions because of armed insurgency, and conditions change quickly. We do not ask anyone to take risks to obtain information. Most matters are handled through records, open sources and interviews in Ouagadougou or Bobo-Dioulasso, and any field activity is assessed by qualified local professionals against current security advice."
+    },
+    {
+      "q": "How is gold provenance checked when supply chains pass through several countries?",
+      "a": "We combine registry and licensing information on exporters and aggregators, trade and shipment data where lawfully available, adverse media, and documented supply chain disclosures, and we compare them with the counterparty's own account. Gaps between declared origins and known production areas or transit routes are reported to the client as questions for further due diligence rather than conclusions."
+    },
+    {
+      "q": "Where are commercial disputes involving Burkinabè parties resolved?",
+      "a": "Disputes go to the commercial courts in Ouagadougou or Bobo-Dioulasso, or to arbitration, frequently at the CAMC-O or the CCJA in Abidjan. On questions of OHADA law the CCJA is the court of final appeal. TDSC supports counsel with fact-finding and asset research; procedural strategy and enforcement remain with the client's lawyers."
+    }
+  ],
+  "sources": [
+    {
+      "title": "FRED (World Bank data): Population, Total for Burkina Faso",
+      "url": "https://fred.stlouisfed.org/data/POPTOTBFA647NWDB"
+    },
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Burkina Faso",
+      "url": "https://www.dlapiperdataprotection.com/?c=BF&t=law"
+    },
+    {
+      "title": "Data Protection Africa: Burkina Faso",
+      "url": "https://dataprotection.africa/burkina-faso/"
+    },
+    {
+      "title": "Chambers Doing Business In 2025: Burkina Faso",
+      "url": "https://gpg-pdf.chambers.com/doing-business-in-2025/107"
+    },
+    {
+      "title": "CMS: Burkina Faso, bill organising the anti-corruption institution (2015)",
+      "url": "https://cms.law/en/fra/legal-updates/burkina-faso-projet-de-loi-organisant-l-institution-de-lutte-contre-la-corruption"
+    },
+    {
+      "title": "UNCTAD: Illicit financial flows, Burkina Faso session (2021)",
+      "url": "https://unctad.org/system/files/non-official-document/20210616-17_IFFs_online_FR_3_Session_1_Burkina_Faso.pdf"
+    },
+    {
+      "title": "Vove ID: KYB in Burkina Faso, regulatory overview",
+      "url": "https://blog.voveid.com/kyb-in-burkina-faso-regulatory-overview"
+    }
+  ],
+  "review_flags": [
+    "Military-led transition since 2022 and armed insurgency: political and security context is from general knowledge and changes rapidly; confirm before publication. Burkina Faso's withdrawal from ECOWAS (2025) and the Alliance of Sahel States were deliberately not detailed.",
+    "No dedicated private investigator licensing regime identified; confirm with Burkinabè counsel.",
+    "Beneficial ownership register status not confirmed; text says so.",
+    "AML law cited generically (UEMOA framework transposed nationally); the national law number (believed Law No. 016-2016/AN) could not be opened and is not named. CENTIF and ASCE-LC confirmed only via UNCTAD 2021 and CMS 2015; confirm current ASCE-LC structure and whether Law 004-2015/CNT has been amended.",
+    "Court structure (tribunaux de commerce in Ouagadougou and Bobo-Dioulasso), CAMC-O, CEFORE / Maison de l'Entreprise are from general knowledge, not verified on official pages.",
+    "DLA Piper lists Law 010-2004 alongside Law 001-2021 without confirming repeal; text describes 2021 law as updating the 2004 law.",
+    "Population from FRED series of World Bank data (2025: 24,074,580)."
+  ],
+  "researched": "2026-11-04"
+}

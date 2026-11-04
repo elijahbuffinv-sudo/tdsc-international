@@ -1,0 +1,97 @@
+{
+  "cc": "CV",
+  "name": "Cape Verde (Cabo Verde)",
+  "meta_description": "TDSC investigative consulting on Cape Verde: due diligence, CNPD-aware data handling, commercial register checks and coordination with local counsel.",
+  "eyebrow": "Republic of Cabo Verde",
+  "hero_lede": "Investigative consulting for matters touching Cabo Verde means working with a small, island-based record environment, a data protection law that requires prior notification or authorisation for many processing operations, and a commercial register that is accessed through certified extracts rather than open online search.",
+  "intro": [
+    "Cabo Verde is a Portuguese-speaking archipelago of ten islands off the West African coast, with a population of roughly half a million and a large diaspora in the United States and Western Europe. Its legal and administrative traditions are Portuguese in origin, and commercial life is concentrated in Praia on Santiago and Mindelo on São Vicente, with tourism centred on Sal and Boa Vista. Personal data processing has been regulated since Law 133/V/2001, supervised by an independent national commission. Company information is held in the Registo Comercial, but there is no public online company search as of 2026, so verification usually depends on certified extracts obtained in person or through a local agent.",
+    "Organisations commission investigative work involving Cabo Verde most often in connection with tourism and real estate development, hospitality investment, maritime and port services, financial services and remittance flows, and transactions involving diaspora-owned businesses. Typical exposures include unclear ownership of island property and hotel projects, counterparties whose beneficial owners sit in Portugal, Angola, the United States or elsewhere, informal family-held structures, and asset tracing where funds move between Cabo Verde and Europe. Because the market is small and relationships are close, discreet, well-sourced inquiries and careful handling of personal data matter as much as speed."
+  ],
+  "population": {
+    "value": "approximately 0.5 million",
+    "year": "2026",
+    "source_url": "https://businessdataguide.com/blog/jurisdictions/cape-verde-company-search-guide"
+  },
+  "legal_system": "Cabo Verde has a civil law system derived from the Portuguese tradition, organised around a written constitution and codified civil, commercial and procedural law. The Constitution itself guarantees citizens access to computerised data concerning them and a right of habeas data. Commercial disputes are heard in the ordinary courts, with appeals rising to the higher courts in Praia. We have not confirmed details of any specialised commercial court or institutional arbitration centre for this page, so forum questions in a given matter are reviewed with Cabo Verdean counsel.",
+  "data_protection": {
+    "law": "Data Protection Law, Law 133/V/2001, as amended by Law 41/VIII/2013 and Law 121/IX/2021; Law 132/V/2001 (electronic communications)",
+    "regulator": "Comissão Nacional de Proteção de Dados (CNPD)",
+    "summary": "Processing of personal data requires one of the statutory grounds, including consent, contract, legal duty, vital interests, public interest or legitimate interests. The law covers both automated and manual files and reaches some controllers established outside Cabo Verde that use equipment in the country. Prior registration with or authorisation from the CNPD is generally required, and specific authorisation applies to sensitive data, creditworthiness data, interconnection of data and use for new purposes. Transfers abroad are permitted to countries the CNPD treats as adequate; otherwise they generally require consent or a narrow exception. Video surveillance and call recording attract specific security requirements, which bears directly on any surveillance-related work."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators or detective agencies in Cabo Verde in the sources reviewed for this page, and we do not assume that one is absent. Any locally performed activity, such as site visits, interviews or observation, is therefore scoped with Cabo Verdean counsel before it starts. Independently of licensing, the data protection law constrains investigative work: processing personal data needs a lawful ground, may require CNPD notification or authorisation, and video surveillance and recording are subject to specific rules. TDSC does not conduct covert recording or pretexting in Cabo Verde or anywhere else.",
+  "corporate_records": "Company information is recorded in the Registo Comercial. As of 2026 there is no public online company search, and the citizen services portal does not yet offer one. For verification purposes, a certified extract (certidão de registo comercial) is requested in person at Casa do Cidadão offices, including those in Praia and Mindelo, or through a local agent or law firm; fees and turnaround times are not published. Cabo Verde does not have a publicly accessible beneficial ownership register as of mid-2026. As an ECOWAS member it has committed to establish central beneficial ownership registers by 1 January 2027, but implementation had not been recorded as of July 2026.",
+  "anti_corruption": "Cabo Verde maintains an AML/CFT framework applied to banks and other obliged entities under the supervision of the Banco de Cabo Verde, and its regime was assessed by GIABA in a 2019 mutual evaluation. The financial intelligence unit is the Unidade de Informação Financeira. Anti-corruption functions are shared among the Conselho de Prevenção da Corrupção, the Tribunal de Contas, the Public Prosecutor's Office and the Polícia Judiciária. Specific statute numbers should be confirmed with local counsel for any matter that turns on them.",
+  "matters": [
+    {
+      "title": "Tourism and hotel project due diligence",
+      "text": "Background and ownership checks on developers, operators and landholders behind resort and hotel projects on Sal, Boa Vista and Santiago, including review of certified commercial register extracts, litigation exposure, and the foreign shareholders and financiers who often stand behind island developments."
+    },
+    {
+      "title": "Diaspora business and family structures",
+      "text": "Clarifying who controls family-held companies with members in Cabo Verde, the United States and Portugal, where informal arrangements, nominee holdings and remittance-funded investments can obscure decision-making and the true source of capital in a transaction."
+    },
+    {
+      "title": "Counterparty and beneficial ownership checks",
+      "text": "Because no public beneficial ownership register exists as of 2026, establishing ownership relies on certified extracts, counterparty declarations, open-source research and records in the jurisdictions where shareholders sit, with gaps documented clearly for the client."
+    },
+    {
+      "title": "Maritime, port and fisheries counterparties",
+      "text": "Reputational and ownership research on shipping agents, port service providers, bunkering and fisheries operators linked to Mindelo and Praia, where vessel ownership chains and flag arrangements frequently lead to companies registered in other jurisdictions and to beneficial owners outside the archipelago."
+    },
+    {
+      "title": "Cross-border asset tracing support",
+      "text": "Supporting counsel in identifying assets and corporate interests connected to Cabo Verde in fraud, insolvency or judgment-enforcement matters, coordinated with Portuguese and other foreign-law research and with Cabo Verdean counsel on lawful routes to local records."
+    }
+  ],
+  "practical": [
+    {"label": "Business languages", "value": "Portuguese (official); Cape Verdean Creole widely spoken"},
+    {"label": "Time zone", "value": "Atlantic/Cape_Verde, UTC-1"},
+    {"label": "Working week", "value": "Monday to Friday"},
+    {"label": "Main business centres", "value": "Praia (Santiago), Mindelo (São Vicente), Sal"},
+    {"label": "Company records", "value": "Certified extracts from the Registo Comercial; no public online search as of 2026"},
+    {"label": "Courts language", "value": "Portuguese"},
+    {"label": "Document formalities", "value": "Foreign documents typically need certified Portuguese translation; confirm legalisation with counsel"},
+    {"label": "Business culture", "value": "Small, relationship-based market; formal written communication in Portuguese is valued"}
+  ],
+  "tdsc_approach": "TDSC handles Cabo Verde matters from Nashville as scoped consulting engagements. Each matter begins with a jurisdictional review covering what records exist, how they are lawfully obtained, and whether the planned work involves personal data processing that engages Law 133/V/2001 and CNPD notification or authorisation. Where certified commercial register extracts, court inquiries or site visits are needed, TDSC coordinates qualified local professionals and works alongside the client's Cabo Verdean counsel rather than acting locally itself. Open-source and foreign-registry research in Portugal, the United States and other relevant jurisdictions fills gaps left by the absence of a public beneficial ownership register. Personal data is minimised, transfers are documented against the adequacy and consent rules, and reports separate verified facts from unconfirmed information.",
+  "faqs": [
+    {
+      "q": "Can a Cabo Verde company be checked online?",
+      "a": "Not in a reliable way as of 2026. The Registo Comercial has no public online search, and the citizen services portal has not launched one. Verification normally relies on a certified extract obtained in person at a Casa do Cidadão office, such as in Praia or Mindelo, or through a local agent or law firm. TDSC coordinates this through appropriately qualified local professionals."
+    },
+    {
+      "q": "Is there a beneficial ownership register in Cabo Verde?",
+      "a": "Not a publicly accessible one as of mid-2026. Cabo Verde has committed, through an ECOWAS directive, to establish central beneficial ownership registers by 1 January 2027, but implementation had not been recorded at the time of writing. Ownership is therefore established from counterparty disclosures, register extracts and records in the shareholders' home jurisdictions."
+    },
+    {
+      "q": "Does Cabo Verdean data protection law affect due diligence?",
+      "a": "Yes. Law 133/V/2001, as amended in 2013 and 2021, requires a lawful ground for processing and generally prior registration with or authorisation from the CNPD, with specific authorisation for sensitive data and creditworthiness data. Transfers abroad depend on adequacy or consent and narrow exceptions. TDSC scopes collection and reporting with these rules in view."
+    },
+    {
+      "q": "Are private investigators licensed in Cabo Verde?",
+      "a": "We have not identified a dedicated licensing regime for private investigators in the sources reviewed, and we do not treat that as permission to act freely. TDSC does not claim any licence in Cabo Verde. Local activity is planned with Cabo Verdean counsel and carried out, where appropriate, by qualified local professionals within data protection limits."
+    },
+    {
+      "q": "What languages are records and proceedings in?",
+      "a": "Official records, register extracts and court proceedings are in Portuguese, although Cape Verdean Creole is the everyday spoken language. Clients should budget for certified translation of key documents and for counsel's review of how foreign documents must be legalised before they can be relied on in local proceedings or filings."
+    }
+  ],
+  "sources": [
+    {"title": "DLA Piper Data Protection Laws of the World: Cape Verde", "url": "https://www.dlapiperdataprotection.com/?c=CV&t=law"},
+    {"title": "Law 133/V/2001 of 22 January 2001 (AFAPDP copy)", "url": "https://www.afapdp.org/wp-content/uploads/2018/05/Cap-vert-Lei-n°133-V-2001-do-22-janeiro-2001.pdf"},
+    {"title": "Chambers Doing Business In 2026: Cape Verde", "url": "https://gpg-pdf.chambers.com/Doing-Business-In-2026/140/"},
+    {"title": "Open Ownership: Cabo Verde", "url": "https://www.openownership.org/en/map/country/cabo-verde/"},
+    {"title": "Cape Verde company search guide (Business Data Guide)", "url": "https://businessdataguide.com/blog/jurisdictions/cape-verde-company-search-guide"},
+    {"title": "KnowYourCountry: Cape Verde", "url": "https://knowyourcountry.com/cape-verde"},
+    {"title": "GIABA Mutual Evaluation Report: Cabo Verde (2019)", "url": "https://www.slideshare.net/slideshow/giaba-mutual-evaluation-report-cabo-verde-2019-ratings/162599240"}
+  ],
+  "review_flags": [
+    "Population is an approximate figure from a secondary source (Business Data Guide, '500,000+'); no World Bank or INE Cabo Verde result surfaced. Replace with the official figure.",
+    "No dedicated private investigator licensing regime was identified; confirm with Cabo Verdean counsel.",
+    "AML and anti-corruption statute numbers were not verified; the page names institutions only.",
+    "Legal system/court structure and arbitration centre details were not verified from sources; text kept general.",
+    "ECOWAS beneficial ownership register deadline is 1 January 2027; status likely to change soon."
+  ],
+  "researched": "2026-11-04"
+}

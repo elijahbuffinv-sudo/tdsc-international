@@ -1,0 +1,151 @@
+{
+  "cc": "SY",
+  "name": "Syria",
+  "meta_description": "TDSC investigative consulting on Syria: sanctions-screened due diligence, ownership research and partner vetting as US measures shift to targeted lists.",
+  "eyebrow": "Syrian Arab Republic",
+  "hero_lede": "Investigative consulting on matters touching Syria now operates in a transitional setting. US comprehensive sanctions ended in 2025 and the state sponsor of terrorism designation was rescinded in 2026, but targeted designations remain, records are fragmented and legacy networks persist, so every matter begins with sanctions screening and careful source assessment.",
+  "intro": [
+    "Syria is in a political and legal transition following the fall of the Assad government in December 2024. A Constitutional Declaration signed on 13 March 2025 sets a five-year transitional framework, with an interim People's Assembly, a presidential system and Islamic jurisprudence named as the main source of legislation. Much of the pre-existing legislation, including the Companies Law (Legislative Decree 29/2011) and the 2024 electronic personal data law, remains on the books while institutions are reorganised. For investigators, the practical constraints are significant: records were damaged or displaced by conflict, provincial registries are largely paper-based, and ownership of key businesses was shaped for years by sanctions evasion, front companies and politically connected intermediaries.",
+    "Interest in Syria has grown since the United States terminated its comprehensive sanctions programme in 2025 and repealed the Caesar Act. Investors, contractors and lenders are assessing reconstruction, energy, telecommunications, construction materials, agriculture and banking, often through partners in Turkey, the Gulf, Jordan, Lebanon and Europe. Development agencies and humanitarian organisations continue to vet implementing partners and suppliers. Each of these needs the same core work: confirming who actually owns and controls a counterparty, identifying links to persons still designated by the United States, EU or UK, including Assad-era figures and Captagon trafficking networks, and documenting that review for compliance and lenders."
+  ],
+  "population": {
+    "value": "approximately 24 million (unverified)",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Syria has a civil law system modelled on French and Egyptian codification, with a Civil Code and Commercial Code, and Islamic jurisprudence governs personal status matters through sharia courts. Under the 2025 Constitutional Declaration, Islamic jurisprudence is the main source of legislation, and the judiciary includes the Supreme Judicial Council and the Supreme Constitutional Court, whose judges are appointed by the President. Commercial disputes are heard by the ordinary civil and commercial courts, with appeals to the courts of appeal and the Court of Cassation. Arbitration is recognised, and international contracts commonly provide for arbitration seated outside Syria.",
+  "data_protection": {
+    "law": "Law No. 12 of 2024 on the protection of electronic personal data",
+    "regulator": "Personal Data Protection Authority (as listed in published directories; operational status in the transition not confirmed)",
+    "summary": "Syria adopted Law No. 12 of 2024 on the protection of electronic personal data shortly before the change of government, and published directories list a Personal Data Protection Authority as the responsible body. We have not confirmed how the law is being applied or enforced during the transitional period, or the detail of its rules on consent, sensitive data and cross-border transfers. In practice, investigative work involving Syrian individuals should assume that consent or a clear legitimate purpose is required, that data about officials, security matters and criminal records is especially sensitive, and that the client's home-jurisdiction rules, such as the GDPR, will also apply."
+  },
+  "investigator_regulation": "We have not identified a statute or licensing authority governing private investigators or detective agencies in Syria, before or since the transition. Under the former government, information gathering was dominated by state security services, and independent enquiries carried serious personal risk. Conditions have changed but remain unsettled, with security varying by region. TDSC therefore treats any proposed field enquiry, interview or document retrieval inside Syria as exceptional: it is assessed with Syrian counsel for legality and personal safety, and conducted, if at all, only by appropriately qualified local professionals. Approaches to officials, covert recording and attempts to obtain security or criminal records are excluded.",
+  "corporate_records": "Companies are governed by the Companies Law (Legislative Decree 29/2011) and registered in the Commercial Registry of the province of incorporation, historically under the Companies Directorate of the Ministry of Internal Trade and Consumer Protection; 2026 reporting describes new registry regulations issued by the Ministry of Economy and Industry. Foreign company branches are registered with the Foreign Companies Department, and registrations are published in the Official Gazette. We have not identified a public online company search or a beneficial ownership register. Extracts are obtained through Syrian lawyers, and land and court records are paper-based and in places incomplete because of the conflict.",
+  "anti_corruption": "Syria's Penal Code criminalises bribery and related offences, and money laundering and terrorist financing are addressed by dedicated legislation administered with a financial intelligence commission at the Central Bank of Syria. Public audit functions sit with state financial control bodies. The transitional authorities have announced reviews of assets and businesses linked to the former government, but the legal basis and procedures are still evolving. For international companies, the US Foreign Corrupt Practices Act, the UK Bribery Act and sanctions regimes remain the principal external standards.",
+  "matters": [
+    {
+      "title": "Sanctions exposure screening",
+      "text": "Ownership and control research on Syrian counterparties to identify links to persons still designated under US, EU or UK measures, including Assad-era associates, human rights abusers, Captagon traffickers and terrorism-listed groups, with documented methodology for compliance files."
+    },
+    {
+      "title": "Reconstruction partner due diligence",
+      "text": "Background research on contractors, suppliers and joint venture partners in construction, energy, cement, telecommunications and logistics, testing claimed experience, ownership and political connections, and identifying front companies created during the sanctions years."
+    },
+    {
+      "title": "Legacy asset and ownership research",
+      "text": "Research into businesses and property associated with former regime figures and their intermediaries, including holdings in Lebanon, the Gulf and Europe, to support lenders, acquirers and counsel assessing title risk and potential claims."
+    },
+    {
+      "title": "Implementing partner vetting",
+      "text": "Integrity checks on local non-governmental organisations, transport companies, money transfer providers and landlords used by humanitarian and development programmes, focusing on diversion risk, conflicts of interest and links to designated persons."
+    },
+    {
+      "title": "Diaspora and regional counterparties",
+      "text": "Research on Syrian-owned businesses and investors based in Turkey, Jordan, Lebanon, the Gulf and Europe that are re-entering the Syrian market, using records in those jurisdictions to verify identity, track record and source of funds."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official language",
+      "value": "Arabic"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Damascus, UTC+03:00 year-round"
+    },
+    {
+      "label": "Working week",
+      "value": "Sunday to Thursday"
+    },
+    {
+      "label": "Currency",
+      "value": "Syrian pound (SYP)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Damascus, Aleppo, Homs, Latakia"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Foreign documents legalised and attested by Syrian consulate"
+    },
+    {
+      "label": "US sanctions status",
+      "value": "Comprehensive programme ended 2025; targeted designations remain"
+    },
+    {
+      "label": "Company records",
+      "value": "Provincial Commercial Registry, obtained via counsel"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes matters touching Syria from Nashville. As a US company, TDSC screens every matter for sanctions compliance before acceptance, including the parties, beneficial owners, intermediaries and payment routes, against current US lists under the Promoting Accountability for Assad and Regional Stabilization Sanctions programme and terrorism authorities, and against EU and UK measures where relevant. TDSC does not accept engagements that would violate US or other applicable sanctions or export controls. Research relies on lawful sources: sanctions and enforcement records, corporate and court records in connected jurisdictions, Official Gazette notices and Arabic-language media. Any local document retrieval is coordinated through qualified Syrian counsel. TDSC does not hold a licence in Syria, does not access government systems and does not provide legal advice.",
+  "faqs": [
+    {
+      "q": "Are US sanctions on Syria still in force?",
+      "a": "The United States ended its comprehensive Syria sanctions programme with Executive Order 14312, effective July 2025, repealed the Caesar Act in December 2025 and rescinded Syria's state sponsor of terrorism designation in August 2026. Targeted, list-based sanctions remain on Assad, his associates, human rights abusers, Captagon traffickers and terrorism-listed persons, and some export licensing requirements may still apply."
+    },
+    {
+      "q": "Why is ownership research on Syrian companies difficult?",
+      "a": "Provincial commercial registries are largely paper-based and not searchable online, and we have not identified a beneficial ownership register. During the sanctions years, many businesses were held through relatives, nominees and front companies, some registered abroad. Reliable conclusions usually require combining Syrian extracts obtained through counsel with records in Lebanon, the Gulf, Turkey or Europe and with published investigative reporting."
+    },
+    {
+      "q": "Does TDSC accept engagements involving Syria?",
+      "a": "TDSC considers engagements involving Syria after sanctions screening of all parties, owners and intermediaries. Typical work is due diligence, ownership and reputation research, and partner vetting for lawful transactions and programmes. TDSC declines matters involving designated persons or transactions that would breach US, EU, UK or other applicable sanctions, and does not suggest structures to avoid them."
+    },
+    {
+      "q": "Does Syria have a data protection law?",
+      "a": "Yes. Law No. 12 of 2024 addresses the protection of electronic personal data, and published directories name a Personal Data Protection Authority. How the law is applied during the transition is not yet clear. TDSC treats data on Syrian individuals as requiring a defined purpose and minimisation, and applies the client's own data protection obligations, such as the GDPR."
+    },
+    {
+      "q": "Can field enquiries be carried out inside Syria?",
+      "a": "Only exceptionally. Security conditions vary by region and can change quickly, and there is no identified licensing regime for private investigators. Any proposed enquiry is reviewed with Syrian counsel for legality and personal safety, carried out by appropriately qualified local professionals, and excludes approaches to officials, covert recording and attempts to obtain security or criminal records."
+    }
+  ],
+  "sources": [
+    {
+      "title": "OFAC: Promoting Accountability for Assad and Regional Stabilization Sanctions (PAARSS)",
+      "url": "https://ofac.treasury.gov/sanctions-programs-and-country-information/paarss"
+    },
+    {
+      "title": "US Department of State: Syria Sanctions",
+      "url": "https://www.state.gov/syria-sanctions"
+    },
+    {
+      "title": "Cleary Trade Watch: U.S. Government Removes Syria From List of State Sponsors of Terrorism (2026)",
+      "url": "https://www.clearytradewatch.com/2026/07/u-s-government-removes-syria-from-list-of-state-sponsors-of-terrorism/"
+    },
+    {
+      "title": "Curtis: U.S. Repeals the Caesar Act in Latest Move to Ease Syria Sanctions",
+      "url": "https://www.curtis.com/our-firm/news/u-s-repeals-the-caesar-act-in-latest-move-to-ease-syria-sanctions"
+    },
+    {
+      "title": "Morrison Foerster Privacy Library: Syria",
+      "url": "https://www.mofo.com/privacy-library/syria"
+    },
+    {
+      "title": "Syria.law: Incorporating a Limited Liability Company in Syria",
+      "url": "https://syria.law/?p=1199"
+    },
+    {
+      "title": "Mondaq: Registering a Foreign Company in Syria, Key Requirements (2025)",
+      "url": "https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1674152/registering-a-foreign-company-in-syria-key-requirements"
+    },
+    {
+      "title": "MENA Startup Digest: Syria Overhauls Corporate Registry Rules (2026)",
+      "url": "https://menastartupdigest.com/?p=34687"
+    },
+    {
+      "title": "Constitutional Declaration of the Syrian Arab Republic (2025), encyclopedia summary",
+      "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/2025_Interim_Constitution_of_Syria"
+    }
+  ],
+  "review_flags": [
+    "Sanctions status verified as of 2026-11-04 from OFAC PAARSS page: comprehensive US sanctions ended (EO 14312, June 30 2025; national emergency terminated July 1 2025), Caesar Act repealed Dec 18 2025 (FY2026 NDAA), SST designation rescinded and HTS removed as SDGT Aug 24 2026; targeted PAARSS/terrorism designations remain. Page therefore does NOT apply the 'comprehensively sanctioned' limitation, but tdsc_approach keeps mandatory sanctions screening. Recheck before publishing and reconcile with the centrally compiled sanctions data.",
+    "Residual US export controls after SST rescission (EAR licensing for non-EAR99 items, License Exception SPP) and Sept 24 2026 regulatory amendments not fully verified; copy says only that some export licensing 'may still apply'.",
+    "Population not found in search results: approximately 24 million (2024) is unverified and source_url is empty.",
+    "Anti-corruption and AML paragraph is general and unverified (no law names/numbers confirmed; the Central Bank financial intelligence commission and state financial control bodies not sourced).",
+    "Law No. 12 of 2024 regulator and enforcement status during the transition unconfirmed (only a MoFo directory entry).",
+    "Ministry responsible for the Commercial Registry has changed in the transition (Internal Trade vs Economy and Industry); confirm. Legal system details (Civil/Commercial Code, sharia courts, Court of Cassation, arbitration) not sourced from an opened page."
+  ],
+  "researched": "2026-11-04"
+}

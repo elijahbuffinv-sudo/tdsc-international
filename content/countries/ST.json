@@ -1,0 +1,97 @@
+{
+  "cc": "ST",
+  "name": "São Tomé and Príncipe",
+  "meta_description": "TDSC investigative consulting on São Tomé and Príncipe: Guiché Único company records, Law 03/2016 data rules, Portuguese-language research and local counsel.",
+  "eyebrow": "Democratic Republic of São Tomé and Príncipe",
+  "hero_lede": "Investigative consulting on São Tomé and Príncipe means research in Portuguese within a small, donor-dependent economy, confirming companies through the Guiché Único and commercial registry, respecting a data protection law built on notification and registration, and recognising that courts and arbitration move slowly.",
+  "intro": [
+    "São Tomé and Príncipe is a two-island Portuguese-speaking state in the Gulf of Guinea with a civil law system that closely follows Portuguese law. Companies are formed through a one-stop shop, the Guiché Único, and recorded with the commercial registry services under a Commercial Register Code adopted in 2018. The domestic market is small, donors finance most public investment, and the justice system has been described by the US government as slow-moving, while the arbitration centre attached to the Chamber of Commerce was reported as not yet operational. Personal data processing is governed by Law 03/2016, which imposes notification and registration requirements that extend to transfers abroad, including within corporate groups.",
+    "Organisations commission work touching São Tomé and Príncipe for a limited but recurring set of reasons. Development finance institutions, contractors and consultants on donor-funded projects need integrity checks on local partners and suppliers. Investors in tourism, port, fisheries and agriculture projects want to understand who owns land-holding or concession companies and how they relate to public officials. Interest in the country's offshore hydrocarbon prospects brings due diligence on local intermediaries and service providers. Matters involving Portuguese, Angolan or other Lusophone parties may also require tracing companies or assets connected to the islands, where records are largely held locally and must be obtained through counsel."
+  ],
+  "population": {
+    "value": "215,048 (World Bank estimate)",
+    "year": "2019",
+    "source_url": "https://www.trade.gov/country-commercial-guides/sao-tome-and-principe-investment-climate-statement"
+  },
+  "legal_system": "São Tomé and Príncipe has a civil law system that is, in practical terms, closely modelled on Portuguese law. The courts comprise the Constitutional Court, the Supreme Court of Justice and the courts of first instance, with specialised sections for labour, family and children's matters; commercial disputes are heard in the ordinary courts. The Voluntary Arbitration Law No. 9/2006 governs arbitration, and Decree-Law No. 26/2020 sets out the by-laws of an arbitration centre under the Chamber of Commerce, Industry, Agriculture and Services, reported as not yet operational.",
+  "data_protection": {
+    "law": "Personal Data Protection Law (Law 03/2016, published 10 May 2016)",
+    "regulator": "Agência Nacional de Protecção de Dados Pessoais (National Data Protection Agency)",
+    "summary": "Law 03/2016 regulates the collection, use and transfer of personal data and imposes strict notification and registration requirements with the national data protection agency, which apply to cross-border transfers as well as domestic processing, including transfers between companies in the same group. Non-compliance can lead to civil and criminal liability and administrative fines reported at USD 1,250 to 50,000. For investigative work this means any collection of personal data in the country, and its delivery to clients abroad, is planned with local counsel so that notification and registration obligations are addressed before data moves."
+  },
+  "investigator_regulation": "We have not identified a licensing regime specific to private investigators or detective agencies in São Tomé and Príncipe in the sources reviewed. Investigative activity remains subject to Law 03/2016 on personal data, including its notification and registration requirements, and to general criminal and civil law protecting privacy. Given the small size of the country, discretion is a practical as well as legal concern. Any local enquiry is scoped with São Toméan counsel, who confirm which activities are lawful and which professionals may carry them out.",
+  "corporate_records": "Companies, including sociedades anónimas, limited liability quota companies and sole shareholder companies, are incorporated through the Guiché Único and recorded with the Commercial Registry Services under the Commercial Register Code of 2018; quotas in limited companies are registered there. Notarial acts are governed by a separate Notary Code. We have not identified a public online search of the commercial register or a public beneficial ownership register, so registry extracts are normally obtained in person or through local counsel. Foreign investments of EUR 50,000 or more fall under the Investment Law No. 19/2016.",
+  "anti_corruption": "São Tomé and Príncipe adopted an anti-money laundering and counter-terrorist financing law in 2013 and an anti-corruption law in 2012, and has ratified the UN Convention against Corruption; sources reviewed indicate there is no dedicated anti-corruption agency. The Central Bank of São Tomé and Príncipe (Banco Central de São Tomé e Príncipe) regulates banks and financial institutions under Financial Institutions Law No. 9/1992. We have not verified the exact numbers of the 2012 and 2013 laws or the current financial intelligence unit structure.",
+  "matters": [
+    {
+      "title": "Donor-funded project integrity checks",
+      "text": "Background research on local contractors, suppliers and consultants bidding for or delivering donor-funded infrastructure, health or energy projects, examining registration, ownership, prior performance and links to public officials, to support the integrity requirements development lenders and implementing agencies apply."
+    },
+    {
+      "title": "Tourism and land holding research",
+      "text": "Ownership and history research on companies holding land, leases or concessions for hotel and tourism development, including registry extracts obtained through counsel, prior disputes and the relationships between local partners and foreign investors before acquisition or financing."
+    },
+    {
+      "title": "Hydrocarbon sector intermediaries",
+      "text": "Due diligence on local agents, logistics providers and service companies connected with offshore exploration interest, focusing on beneficial ownership, political exposure and reputation, where small company networks and personal relationships make conflicts of interest a central question."
+    },
+    {
+      "title": "Lusophone cross-border tracing",
+      "text": "Tracing companies, property and business relationships that connect São Tomé and Príncipe with Portugal, Angola, Gabon and other partners, combining foreign public registries and court records with local enquiries made through counsel."
+    },
+    {
+      "title": "Fisheries and port counterparties",
+      "text": "Research on fishing licence holders, vessel operators and port service companies, testing claimed ownership and authorisations against available records and identifying disputes, enforcement history or connections that bear on partnership, supply or financing decisions."
+    }
+  ],
+  "practical": [
+    {"label": "Business languages", "value": "Portuguese; Forro widely spoken"},
+    {"label": "Time zone", "value": "Africa/Sao_Tome, UTC+0 (no daylight saving)"},
+    {"label": "Currency", "value": "Dobra (STN)"},
+    {"label": "Courts language", "value": "Portuguese"},
+    {"label": "Main business centre", "value": "São Tomé city; Santo António on Príncipe"},
+    {"label": "Company formation", "value": "Guiché Único one-stop shop"},
+    {"label": "Document formalities", "value": "Portuguese originals or certified translations; notarial acts common"}
+  ],
+  "tdsc_approach": "TDSC scopes São Tomé and Príncipe matters from Nashville by first establishing what can be learned from foreign sources, including Portuguese and other Lusophone registries, donor and procurement disclosures, court records and Portuguese-language media, before any local step is considered. Because the commercial register is not publicly searchable online in our assessment, registry extracts and court information are obtained through São Toméan counsel or appropriately qualified local professionals working within a defined scope. Law 03/2016 requires notification and registration for processing and transfers abroad, so personal data collected locally is kept to the minimum the matter requires and its transfer is cleared with counsel. In a small community, enquiries are designed to avoid alerting subjects or exposing sources.",
+  "faqs": [
+    {
+      "q": "How can a São Toméan company be verified?",
+      "a": "Companies are formed through the Guiché Único and recorded with the Commercial Registry Services. We have not identified a public online search, so verification normally relies on a registry extract obtained through local counsel, compared against the company's constitutional documents, notarial records and any foreign filings of its shareholders or partners."
+    },
+    {
+      "q": "Does Law 03/2016 affect sending information to clients abroad?",
+      "a": "Yes. The law subjects cross-border transfers of personal data to notification and registration requirements with the national data protection agency, including transfers within a corporate group. TDSC limits the personal data collected in the country and confirms the transfer route with São Toméan counsel before research results containing personal data leave the jurisdiction."
+    },
+    {
+      "q": "Is arbitration available for commercial disputes in São Tomé and Príncipe?",
+      "a": "The Voluntary Arbitration Law No. 9/2006 permits it, and Decree-Law No. 26/2020 established by-laws for an arbitration centre under the Chamber of Commerce, which was reported as not yet operational. Many international contracts therefore provide for arbitration elsewhere, and investigative support is often directed to proceedings outside the country."
+    },
+    {
+      "q": "Are private investigators licensed in São Tomé and Príncipe?",
+      "a": "We have not identified a dedicated licensing regime in the sources reviewed for this page. That does not remove legal limits: data protection, privacy and criminal law still apply. TDSC confirms with local counsel what may lawfully be done before commissioning any enquiry in the country, and does not undertake covert local activity without that confirmation."
+    },
+    {
+      "q": "Why are matters involving São Tomé and Príncipe often researched abroad?",
+      "a": "Because many relevant records sit elsewhere. Shareholders and partners are frequently Portuguese, Angolan or other foreign entities, project financing is largely donor-led, and disputes may be heard outside the country. Starting with foreign registries, court records and disclosures often answers the core questions and narrows what must be sought locally."
+    }
+  ],
+  "sources": [
+    {"title": "Miranda Alliance: São Tomé and Príncipe new Data Protection Law enacted", "url": "https://www.mirandalawfirm.com/en/insights-knowledge/publications/alerts/new-data-protection-law-enacted"},
+    {"title": "AFAPDP: Loi de Protection des Données Personnelles 03/2016", "url": "https://www.afapdp.org/wp-content/uploads/2022/02/Loi-de-Protection-des-Donnes-Personnlles-03_2016.pdf"},
+    {"title": "Assembleia Nacional: Agência Nacional de Protecção de Dados Pessoais", "url": "https://www2.camara.leg.br/saotomeeprincipe/noticias/AGENCIA-NACIONAL-DE-PROTECCaO-DE-DADOS-PESSOAIS"},
+    {"title": "US International Trade Administration: São Tomé and Príncipe Investment Climate Statement", "url": "https://www.trade.gov/country-commercial-guides/sao-tome-and-principe-investment-climate-statement"},
+    {"title": "Addleshaw Goddard: Doing business in São Tomé and Príncipe", "url": "https://www.addleshawgoddard.com/en/doing-business-in-africa/africa-countries-a-z-list/sao-tome-and-principe/"},
+    {"title": "KnowYourCountry: São Tomé and Príncipe", "url": "https://knowyourcountry.com/saotome"},
+    {"title": "Morrison Foerster Privacy Library: São Tomé and Príncipe", "url": "https://www.mofo.com/privacy-library/sao-tome-and-principe"}
+  ],
+  "review_flags": [
+    "Population is the World Bank 2019 estimate (215,048) as quoted by trade.gov's 2022 statement; update to a current World Bank figure.",
+    "Data protection agency (ANPDP) operational status not confirmed; the Assembly news page appeared in search results but failed to load.",
+    "AML law (2013) and anti-corruption law (2012) numbers not verified; FIU not named in sources; KnowYourCountry says no dedicated anti-corruption agency.",
+    "Arbitration centre reported as not yet operational (Addleshaw Goddard, undated); recheck.",
+    "No PI licensing regime and no public online commercial register search identified.",
+    "Commercial Register Code (2018) cited from trade.gov; law number not verified."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,7 +1,7 @@
 {
   "cc": "RU",
   "name": "Russia",
-  "meta_description": "Sanctions-screened TDSC consulting on matters touching Russia: lawful due diligence, ownership and exposure research, and risk advisory for clients outside it.",
+  "meta_description": "Sanctions-screened TDSC consulting on matters touching Russia: lawful due diligence, ownership and exposure research and risk advisory for clients outside it.",
   "eyebrow": "Russian Federation",
   "hero_lede": "Investigative consulting on matters touching Russia is shaped first by sanctions. TDSC's work is limited to lawful due diligence, ownership and exposure research and risk advisory for clients outside Russia, screened against US and other applicable sanctions and conducted without services to persons located in Russia.",
   "intro": [
@@ -19,8 +19,8 @@
     "regulator": "Roskomnadzor (Federal Service for Supervision of Communications, Information Technology and Mass Media)",
     "summary": "Operators must generally notify Roskomnadzor before processing personal data and appoint a person responsible for data protection. Personal data of Russian citizens must be initially recorded and stored in databases located in Russia. Cross-border transfers require prior notification to Roskomnadzor, and transfers to countries not recognised as adequate require its approval. Consent is the usual legal basis and explicit written consent is required for sensitive data and certain employee data transfers. Breaches must be reported within 24 hours. Fines were substantially increased from 30 May 2025, including turnover-based fines for repeat leaks."
   },
-  "investigator_regulation": "Private detective activity in Russia is governed by Law No. 2487-1 of 11 March 1992 'On Private Detective and Security Activities in the Russian Federation', which requires detectives to be licensed and lists the services they may provide. Licensing is administered by the Federal Service of the National Guard Troops (Rosgvardia). The law prohibits detectives from, among other things, conducting operational-search activities reserved to the state and from covert recording that violates privacy. TDSC does not engage investigators or other service providers in Russia, so this regime is described for context only.",
-  "corporate_records": "Russian legal entities are recorded in the Unified State Register of Legal Entities (EGRUL), maintained by the Federal Tax Service, which has historically disclosed registered address, management, founders and participants of limited liability companies, and charter capital. Since 2022, Russian rules have permitted certain companies and persons, including those under foreign sanctions, to restrict disclosure of information in the register and in financial statements, so current records may be incomplete. Arbitrazh court case files are searchable through the courts' online card index. Historical registry data, foreign filings, trade data and international media are therefore central to ownership analysis.",
+  "investigator_regulation": "Private detective activity in Russia is governed by Law No. 2487-1 of 11 March 1992 'On Private Detective and Security Activity in the Russian Federation', which requires detectives to be licensed and limits the services they may provide. A new edition of the law takes effect on 1 September 2026 together with Government Decree No. 532 on state control of private detective activity, under which Rosgvardia (the Federal Service of the National Guard Troops) inspects detectives and may apply to court to suspend their activity or revoke a licence. TDSC does not engage investigators or other service providers in Russia, so this regime is described for context only.",
+  "corporate_records": "Russian legal entities are recorded in the Unified State Register of Legal Entities (EGRUL), maintained by the Federal Tax Service, which has historically disclosed registered address, management, founders and participants of limited liability companies, and charter capital. Government rules first adopted in 2018 and broadened since 2022 permit companies under foreign sanctions, and certain others, to restrict disclosure of owners and managers in the register and to limit published financial statements, so current records may be incomplete. Arbitrazh court case files are searchable online. Historical registry data, foreign filings, trade data and international media are therefore central to ownership analysis.",
   "anti_corruption": "Russia's principal anti-corruption statute is Federal Law No. 273-FZ of 25 December 2008 'On Combating Corruption', with bribery offences in the Criminal Code and corporate liability for illicit remuneration under the Code of Administrative Offences. Anti-money laundering obligations are set by Federal Law No. 115-FZ of 7 August 2001, with the Federal Financial Monitoring Service (Rosfinmonitoring) as the financial intelligence unit. The Prosecutor General's Office and the Investigative Committee lead enforcement.",
   "matters": [
     {
@@ -86,7 +86,7 @@
     },
     {
       "q": "Are Russian company records still reliable for ownership research?",
-      "a": "Less than before. Since 2022, some companies and individuals, including sanctioned persons, have been permitted to restrict disclosure in the state register and in financial statements. Current extracts may therefore be incomplete. TDSC compares historical registry data, foreign filings, trade records and media to reconstruct ownership and states its confidence explicitly."
+      "a": "Less than before. Government rules adopted in 2018 and broadened since 2022 allow sanctioned companies, and certain others, to restrict disclosure of owners and managers in the state register and in financial statements. Current extracts may therefore be incomplete. TDSC compares historical registry data, foreign filings, trade records and media to reconstruct ownership and states its confidence explicitly."
     },
     {
       "q": "How do you assess the 50 percent ownership rule for a Russian-linked counterparty?",
@@ -113,12 +113,29 @@
     {
       "title": "OFAC - Russia-related FAQs",
       "url": "https://ofac.treasury.gov/faqs/topic/6626"
+    },
+    {
+      "title": "Rossiyskaya Gazeta (14 May 2026) - rules for state control of private detective activity",
+      "url": "https://rg.ru/2026/05/14/po-anonimke-proverki-ne-budet.html"
+    },
+    {
+      "title": "Wikisource - Law of the Russian Federation of 11.03.1992 No. 2487-1",
+      "url": "https://ru.wikisource.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A0%D0%A4_%D0%BE%D1%82_11.03.1992_%E2%84%96_2487-1"
+    },
+    {
+      "title": "Kharon Brief - New Russian rules help companies conceal disclosures to blunt the effects of sanctions",
+      "url": "https://brief.kharon.com/updates/new-russian-rules-help-companies-conceal-disclosures-to-blunt-the-effects-of-sanctions"
+    },
+    {
+      "title": "PPT.ru - Sanctioned legal entities may restrict access to financial statements and EGRUL data",
+      "url": "https://ppt.ru/news/podderzhka/yurlitsa-pod-sanktsiyami-smogut-ogranichit-dostup-k-bukhotchetnosti-i-svedeniyam-iz-yegryul"
     }
   ],
   "review_flags": [
-    "SANCTIONS: verified from OFAC program page (Nov 2026) that the program remains in force with new measures through Oct 2026 (EO 14436) and targeted general licenses; no broad easing. Legal review of the tdsc_approach wording is recommended, especially the statement that TDSC provides no services to persons in Russia (EO 14071 management consulting / accounting determinations).",
-    "Search budget exhausted and Russian legal databases unreachable. NOT verified from an opened source (general knowledge): Law 2487-1 of 1992 and Rosgvardia licensing; EGRUL disclosure restrictions since 2022; arbitrazh court structure and APC Art. 248.1 (2020); ICAC at the CCI; Federal Law 273-FZ (2008), 115-FZ (2001), Rosfinmonitoring, Investigative Committee; time zone count.",
-    "Only 4 sources; brief asks for 5-12. Add official sources for the unverified items."
+    "SANCTIONS: OFAC program verified in force (Nov 2026) with new measures through Oct 2026 (EO 14436); no broad easing. Legal review of tdsc_approach recommended, esp. 'no services to persons in Russia' (EO 14071 determinations). Sanctions-screening wording retained.",
+    "UPDATED: PI regime now cites the new edition of Law 2487-1 and Government Decree No. 532 effective 1 September 2026 (Rosgvardia control), per Rossiyskaya Gazeta 14 May 2026; re-check after that date. Earlier claim about a covert-recording prohibition removed as unverified.",
+    "CORRECTED: EGRUL disclosure restrictions date from 2018 rules broadened since 2022 (previously stated as 'since 2022'); exact instruments not identified from an official source.",
+    "Still from general knowledge, not verified from an opened source: arbitrazh court structure and APC Art. 248.1 (2020); ICAC at the CCI; 152-FZ details incl. May 2025 fines; 273-FZ (2008), 115-FZ (2001), Rosfinmonitoring, Investigative Committee; time zone count; FTS as EGRUL keeper."
   ],
   "researched": "2026-11-04"
 }

@@ -5,7 +5,7 @@
   "title": "International Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting across 200 jurisdictions from Thiel Detective Service Company: legal frameworks, records, data protection and how TDSC scopes cross-border work.",
   "nav": "International",
-  "bytes": 31940
+  "bytes": 32558
  },
  {
   "key": "intl-andorra",
@@ -29,7 +29,15 @@
   "title": "Afghanistan Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Afghanistan: sanctions-screened due diligence, counterparty review and risk advisory, run from Nashville.",
   "nav": "Afghanistan",
-  "bytes": 43472
+  "bytes": 43576
+ },
+ {
+  "key": "intl-antigua-and-barbuda",
+  "path": "/international/antigua-and-barbuda",
+  "title": "Antigua and Barbuda Investigations | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Antigua and Barbuda: IBC and company records, CBI due diligence, asset tracing and lawful local inquiries from Nashville.",
+  "nav": "Antigua and Barbuda",
+  "bytes": 36987
  },
  {
   "key": "intl-albania",
@@ -37,7 +45,23 @@
   "title": "Albania Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Albania: QKB company and beneficial owner checks, asset tracing and GDPR-aligned due diligence from Nashville.",
   "nav": "Albania",
-  "bytes": 39919
+  "bytes": 39942
+ },
+ {
+  "key": "intl-armenia",
+  "path": "/international/armenia",
+  "title": "Armenia Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Armenia: counterparty checks, beneficial ownership research and dispute support under Armenia's 2015 personal data law.",
+  "nav": "Armenia",
+  "bytes": 40062
+ },
+ {
+  "key": "intl-angola",
+  "path": "/international/angola",
+  "title": "Angola Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Angola: commercial registry research, beneficial ownership under Law 7/26, APD data rules and licensed local coordination.",
+  "nav": "Angola",
+  "bytes": 42277
  },
  {
   "key": "intl-argentina",
@@ -45,7 +69,7 @@
   "title": "Argentina Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Argentina: IGJ and provincial registry research, Law 27,401 integrity reviews and asset tracing.",
   "nav": "Argentina",
-  "bytes": 43823
+  "bytes": 43872
  },
  {
   "key": "intl-austria",
@@ -53,7 +77,7 @@
   "title": "Austria Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters involving Austria: Firmenbuch records, restricted UBO register access, GDPR and works council rules, licensed detectives.",
   "nav": "Austria",
-  "bytes": 42980
+  "bytes": 42984
  },
  {
   "key": "intl-australia",
@@ -61,7 +85,31 @@
   "title": "Australia Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters involving Australia: ASIC company records, Privacy Act limits, state investigator licensing and foreign bribery exposure.",
   "nav": "Australia",
-  "bytes": 53180
+  "bytes": 53184
+ },
+ {
+  "key": "intl-azerbaijan",
+  "path": "/international/azerbaijan",
+  "title": "Azerbaijan Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Azerbaijan: due diligence, beneficial ownership tracing and dispute support, scoped from Nashville with local counsel.",
+  "nav": "Azerbaijan",
+  "bytes": 42638
+ },
+ {
+  "key": "intl-bosnia-and-herzegovina",
+  "path": "/international/bosnia-and-herzegovina",
+  "title": "Bosnia and Herzegovina Investigations | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Bosnia and Herzegovina: due diligence across FBiH, Republika Srpska and Brčko records under the 2025 data protection law.",
+  "nav": "Bosnia and Herzegovina",
+  "bytes": 41683
+ },
+ {
+  "key": "intl-barbados",
+  "path": "/international/barbados",
+  "title": "Barbados Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Barbados: due diligence on international business entities, asset tracing, data protection and beneficial ownership context.",
+  "nav": "Barbados",
+  "bytes": 35829
  },
  {
   "key": "intl-bangladesh",
@@ -69,7 +117,7 @@
   "title": "Bangladesh Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Bangladesh: RJSC company research, garment supply chain checks and data-aware due diligence with qualified local counsel.",
   "nav": "Bangladesh",
-  "bytes": 47081
+  "bytes": 47085
  },
  {
   "key": "intl-belgium",
@@ -78,6 +126,14 @@
   "desc": "Investigative consulting for matters touching Belgium: due diligence, asset tracing and internal inquiries under the 2024 Private Investigations Act and GDPR.",
   "nav": "Belgium",
   "bytes": 42342
+ },
+ {
+  "key": "intl-burkina-faso",
+  "path": "/international/burkina-faso",
+  "title": "Burkina Faso Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Burkina Faso: OHADA company records, gold sector counterparty checks and data handling under Law 001-2021 and the CIL.",
+  "nav": "Burkina Faso",
+  "bytes": 41974
  },
  {
   "key": "intl-bulgaria",
@@ -96,6 +152,22 @@
   "bytes": 39342
  },
  {
+  "key": "intl-burundi",
+  "path": "/international/burundi",
+  "title": "Burundi Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Burundi: counterparty due diligence, gold and coffee supply chain checks, and records research under the 2026 data law.",
+  "nav": "Burundi",
+  "bytes": 38799
+ },
+ {
+  "key": "intl-benin",
+  "path": "/international/benin",
+  "title": "Benin Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Benin: OHADA company records, Digital Code data rules, Cotonou port and trade exposure, and coordinated local fieldwork.",
+  "nav": "Benin",
+  "bytes": 38786
+ },
+ {
   "key": "intl-brunei",
   "path": "/international/brunei",
   "title": "Brunei Investigative Consulting | TDSC · Since 1873",
@@ -104,12 +176,20 @@
   "bytes": 38323
  },
  {
+  "key": "intl-bolivia",
+  "path": "/international/bolivia",
+  "title": "Bolivia Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Bolivia: SEPREC company records, beneficial ownership, Law 004 corruption risk and counterparty checks in mining and lithium.",
+  "nav": "Bolivia",
+  "bytes": 42713
+ },
+ {
   "key": "intl-brazil",
   "path": "/international/brazil",
   "title": "Brazil Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Brazil: Junta Comercial and CNPJ research, LGPD-aware due diligence, asset tracing and Clean Company Act risk.",
   "nav": "Brazil",
-  "bytes": 47710
+  "bytes": 47810
  },
  {
   "key": "intl-bahamas",
@@ -120,6 +200,38 @@
   "bytes": 42530
  },
  {
+  "key": "intl-bhutan",
+  "path": "/international/bhutan",
+  "title": "Bhutan Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Bhutan: counterparty, investor and hydropower due diligence from Nashville, using lawful public records and local counsel.",
+  "nav": "Bhutan",
+  "bytes": 38629
+ },
+ {
+  "key": "intl-botswana",
+  "path": "/international/botswana",
+  "title": "Botswana Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Botswana: diamond and mining due diligence, CIPA ownership research, Data Protection Act 2024 compliance, local coordination.",
+  "nav": "Botswana",
+  "bytes": 41223
+ },
+ {
+  "key": "intl-belarus",
+  "path": "/international/belarus",
+  "title": "Belarus Investigative Consulting | TDSC · Since 1873",
+  "desc": "Sanctions-screened TDSC consulting on matters touching Belarus: lawful due diligence, ownership research and risk advisory for clients outside the country.",
+  "nav": "Belarus",
+  "bytes": 42745
+ },
+ {
+  "key": "intl-belize",
+  "path": "/international/belize",
+  "title": "Belize Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Belize: company and beneficial ownership research, offshore structure tracing, asset inquiries and due diligence.",
+  "nav": "Belize",
+  "bytes": 39600
+ },
+ {
   "key": "intl-canada",
   "path": "/international/canada",
   "title": "Canada Investigative Consulting | TDSC · Since 1873",
@@ -128,12 +240,28 @@
   "bytes": 77497
  },
  {
+  "key": "intl-dr-congo",
+  "path": "/international/dr-congo",
+  "title": "DR Congo Investigative Consulting | TDSC · Since 1873",
+  "desc": "Investigative consulting for matters touching the DRC: mining partner due diligence, supply chain and integrity risk, scoped with Congolese counsel.",
+  "nav": "DR Congo",
+  "bytes": 42185
+ },
+ {
   "key": "intl-central-african-republic",
   "path": "/international/central-african-republic",
   "title": "Central African Republic Investigations | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching the Central African Republic: mining and diamond supply chains, OHADA records, sanctions-aware due diligence.",
   "nav": "Central African Republic",
-  "bytes": 43095
+  "bytes": 43238
+ },
+ {
+  "key": "intl-congo",
+  "path": "/international/congo",
+  "title": "Congo Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on the Republic of the Congo: oil-sector due diligence, RCCM company records, asset tracing and coordinated local inquiries.",
+  "nav": "Congo",
+  "bytes": 40954
  },
  {
   "key": "intl-switzerland",
@@ -144,12 +272,28 @@
   "bytes": 42125
  },
  {
+  "key": "intl-ivory-coast",
+  "path": "/international/ivory-coast",
+  "title": "Ivory Coast Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Côte d'Ivoire: RCCM company records, ARTCI data rules, cocoa and cashew supply chains and checks on Abidjan counterparties.",
+  "nav": "Ivory Coast",
+  "bytes": 42818
+ },
+ {
   "key": "intl-chile",
   "path": "/international/chile",
   "title": "Chile Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Chile: company and court records research, Law 21.719 data protection scoping, Law 20.393 integrity reviews, asset tracing.",
   "nav": "Chile",
-  "bytes": 48966
+  "bytes": 48990
+ },
+ {
+  "key": "intl-cameroon",
+  "path": "/international/cameroon",
+  "title": "Cameroon Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Cameroon: OHADA company checks, agent vetting, and data handling under Law No. 2024/017, scoped with local counsel.",
+  "nav": "Cameroon",
+  "bytes": 41624
  },
  {
   "key": "intl-china",
@@ -157,7 +301,7 @@
   "title": "China Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching mainland China: lawful due diligence, PIPL and data-transfer scoping, and coordination with PRC counsel.",
   "nav": "China",
-  "bytes": 51249
+  "bytes": 51392
  },
  {
   "key": "intl-colombia",
@@ -165,7 +309,7 @@
   "title": "Colombia Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Colombia: chamber of commerce records, Law 1581 data rules, transnational bribery and counterparty checks.",
   "nav": "Colombia",
-  "bytes": 44068
+  "bytes": 44094
  },
  {
   "key": "intl-costa-rica",
@@ -173,7 +317,7 @@
   "title": "Costa Rica Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Costa Rica: due diligence, asset tracing and litigation support scoped around Law 8968 and Law 8395 licensing.",
   "nav": "Costa Rica",
-  "bytes": 42167
+  "bytes": 42193
  },
  {
   "key": "intl-cuba",
@@ -182,6 +326,22 @@
   "desc": "Sanctions-screened investigative consulting on matters touching Cuba: lawful due diligence and risk advisory for clients outside Cuba, under US restrictions.",
   "nav": "Cuba",
   "bytes": 44281
+ },
+ {
+  "key": "intl-cape-verde",
+  "path": "/international/cape-verde",
+  "title": "Cape Verde Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Cape Verde: due diligence, CNPD-aware data handling, commercial register checks and coordination with local counsel.",
+  "nav": "Cape Verde",
+  "bytes": 38363
+ },
+ {
+  "key": "intl-cyprus",
+  "path": "/international/cyprus",
+  "title": "Cyprus Investigative Consulting | TDSC · Since 1873",
+  "desc": "Investigative consulting for matters touching Cyprus: holding company ownership, asset tracing and due diligence under Law 125(I)/2018 and Cypriot registries.",
+  "nav": "Cyprus",
+  "bytes": 38044
  },
  {
   "key": "intl-czechia",
@@ -197,7 +357,23 @@
   "title": "Germany Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Germany: GDPR and BDSG-aware due diligence, Handelsregister research, asset tracing and Mittelstand counterparty checks.",
   "nav": "Germany",
-  "bytes": 47801
+  "bytes": 47825
+ },
+ {
+  "key": "intl-djibouti",
+  "path": "/international/djibouti",
+  "title": "Djibouti Investigative Consulting | TDSC · Since 1873",
+  "desc": "Investigative consulting for matters touching Djibouti: port, logistics and trade counterparty due diligence, scoped with Djiboutian counsel.",
+  "nav": "Djibouti",
+  "bytes": 36658
+ },
+ {
+  "key": "intl-denmark",
+  "path": "/international/denmark",
+  "title": "Denmark Investigative Consulting | TDSC · Since 1873",
+  "desc": "Investigative consulting for matters touching Denmark: due diligence, fraud inquiries and asset tracing within the Danish Data Protection Act and CVR records.",
+  "nav": "Denmark",
+  "bytes": 47071
  },
  {
   "key": "intl-dominica",
@@ -221,7 +397,7 @@
   "title": "Algeria Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Algeria: CNRC company checks, partner and agent due diligence, and Law 18-07 compliant research from Nashville.",
   "nav": "Algeria",
-  "bytes": 41244
+  "bytes": 41316
  },
  {
   "key": "intl-ecuador",
@@ -237,7 +413,7 @@
   "title": "Estonia Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Estonia: e-Business Register research, fintech and e-residency counterparties, asset tracing and GDPR-compliant inquiries.",
   "nav": "Estonia",
-  "bytes": 42161
+  "bytes": 42184
  },
  {
   "key": "intl-egypt",
@@ -245,7 +421,15 @@
   "title": "Egypt Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Egypt: partner due diligence, SCZone and energy counterparties, asset tracing and data-law-aware research, from Nashville.",
   "nav": "Egypt",
-  "bytes": 41925
+  "bytes": 41947
+ },
+ {
+  "key": "intl-eritrea",
+  "path": "/international/eritrea",
+  "title": "Eritrea Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Eritrea: mining counterparties, state-linked entity exposure, sanctions screening and document-based research.",
+  "nav": "Eritrea",
+  "bytes": 39987
  },
  {
   "key": "intl-spain",
@@ -256,12 +440,28 @@
   "bytes": 46531
  },
  {
+  "key": "intl-ethiopia",
+  "path": "/international/ethiopia",
+  "title": "Ethiopia Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Ethiopia: partner due diligence, asset and dispute research, and data handling under Proclamation No. 1321/2024.",
+  "nav": "Ethiopia",
+  "bytes": 41895
+ },
+ {
   "key": "intl-finland",
   "path": "/international/finland",
   "title": "Finland Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Finland: due diligence, asset tracing and dispute support using PRH trade register data, GDPR and Working Life Act rules.",
   "nav": "Finland",
-  "bytes": 42787
+  "bytes": 42810
+ },
+ {
+  "key": "intl-fiji",
+  "path": "/international/fiji",
+  "title": "Fiji Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Fiji: company and ownership research, partner vetting and fraud support for tourism, trade and finance, scoped from Nashville",
+  "nav": "Fiji",
+  "bytes": 42666
  },
  {
   "key": "intl-micronesia",
@@ -278,6 +478,14 @@
   "desc": "Investigative consulting for matters touching France: due diligence, asset tracing and internal inquiries under CNAPS licensing, Sapin II and CNIL oversight.",
   "nav": "France",
   "bytes": 41246
+ },
+ {
+  "key": "intl-gabon",
+  "path": "/international/gabon",
+  "title": "Gabon Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Gabon: due diligence on oil, mining and timber counterparties, OHADA company records and personal data rules (Law 025/2023).",
+  "nav": "Gabon",
+  "bytes": 42530
  },
  {
   "key": "intl-united-kingdom",
@@ -301,7 +509,7 @@
   "title": "Georgia Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Georgia: due diligence, ownership checks and dispute support using NAPR registry records and the 2023 data protection law.",
   "nav": "Georgia",
-  "bytes": 40441
+  "bytes": 40515
  },
  {
   "key": "intl-ghana",
@@ -309,7 +517,15 @@
   "title": "Ghana Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Ghana: counterparty due diligence in gold, cocoa and energy, Companies Act 2019 records and Act 843 data handling.",
   "nav": "Ghana",
-  "bytes": 39411
+  "bytes": 39489
+ },
+ {
+  "key": "intl-gambia",
+  "path": "/international/gambia",
+  "title": "Gambia Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Gambia: company record checks in Banjul, asset tracing after the Janneh Commission, and diligence under the 2025 data law.",
+  "nav": "Gambia",
+  "bytes": 38957
  },
  {
   "key": "intl-guinea",
@@ -317,7 +533,7 @@
   "title": "Guinea Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Guinea: bauxite, iron ore and gold counterparty due diligence, OHADA-framework corporate research and integrity risk.",
   "nav": "Guinea",
-  "bytes": 42260
+  "bytes": 42362
  },
  {
   "key": "intl-equatorial-guinea",
@@ -325,7 +541,7 @@
   "title": "Equatorial Guinea Investigations | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Equatorial Guinea: oil and gas counterparties, PEP exposure, OHADA corporate records and asset tracing, from Nashville.",
   "nav": "Equatorial Guinea",
-  "bytes": 37881
+  "bytes": 37928
  },
  {
   "key": "intl-greece",
@@ -341,7 +557,7 @@
   "title": "Guatemala Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Guatemala: counterparty and procurement due diligence, Registro Mercantil research and litigation support.",
   "nav": "Guatemala",
-  "bytes": 38626
+  "bytes": 38674
  },
  {
   "key": "intl-guinea-bissau",
@@ -349,7 +565,7 @@
   "title": "Guinea-Bissau Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Guinea-Bissau: cashew and fisheries counterparty checks, integrity and illicit finance risk, and post-2025 political context.",
   "nav": "Guinea-Bissau",
-  "bytes": 43018
+  "bytes": 43042
  },
  {
   "key": "intl-guyana",
@@ -357,7 +573,7 @@
   "title": "Guyana Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Guyana: oil and gas local content partner vetting, Commercial Registry research and litigation support.",
   "nav": "Guyana",
-  "bytes": 38803
+  "bytes": 38854
  },
  {
   "key": "intl-hong-kong",
@@ -368,12 +584,20 @@
   "bytes": 40040
  },
  {
+  "key": "intl-honduras",
+  "path": "/international/honduras",
+  "title": "Honduras Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Honduras: counterparty due diligence, beneficial ownership research, supply chain and asset inquiries, coordinated lawfully.",
+  "nav": "Honduras",
+  "bytes": 43050
+ },
+ {
   "key": "intl-croatia",
   "path": "/international/croatia",
   "title": "Croatia Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Croatia: due diligence, asset tracing and dispute support using the court register, land books and GDPR rules.",
   "nav": "Croatia",
-  "bytes": 46964
+  "bytes": 47003
  },
  {
   "key": "intl-haiti",
@@ -397,7 +621,7 @@
   "title": "Indonesia Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for Indonesia matters: PDP Law-aware due diligence, beneficial ownership records, asset tracing and coordination with local counsel.",
   "nav": "Indonesia",
-  "bytes": 56557
+  "bytes": 56618
  },
  {
   "key": "intl-ireland",
@@ -413,7 +637,7 @@
   "title": "Israel Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Israel: technology and investment due diligence, IP and trade secret disputes, asset research under privacy law.",
   "nav": "Israel",
-  "bytes": 39553
+  "bytes": 39575
  },
  {
   "key": "intl-india",
@@ -421,7 +645,7 @@
   "title": "India Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching India: MCA company research, DPDP-aware due diligence, litigation support and vetted local coordination.",
   "nav": "India",
-  "bytes": 48926
+  "bytes": 48971
  },
  {
   "key": "intl-iraq",
@@ -429,7 +653,23 @@
   "title": "Iraq Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Iraq: counterparty due diligence, Baghdad and Kurdistan Region records, contract and asset questions, scoped lawfully.",
   "nav": "Iraq",
-  "bytes": 41634
+  "bytes": 41677
+ },
+ {
+  "key": "intl-iran",
+  "path": "/international/iran",
+  "title": "Iran Investigative Consulting | TDSC · Since 1873",
+  "desc": "Sanctions-screened TDSC consulting on matters touching Iran: lawful due diligence and risk advisory for clients outside Iran, conducted from Nashville.",
+  "nav": "Iran",
+  "bytes": 44068
+ },
+ {
+  "key": "intl-iceland",
+  "path": "/international/iceland",
+  "title": "Iceland Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Iceland: kennitala-linked company records, beneficial owner data, Act 90/2018 privacy limits and lawful due diligence.",
+  "nav": "Iceland",
+  "bytes": 48800
  },
  {
   "key": "intl-italy",
@@ -437,7 +677,7 @@
   "title": "Italy Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Italy: counterparty due diligence, asset tracing and internal inquiries under prefect licensing and the GDPR.",
   "nav": "Italy",
-  "bytes": 46234
+  "bytes": 46290
  },
  {
   "key": "intl-jamaica",
@@ -453,7 +693,7 @@
   "title": "Jordan Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Jordan: due diligence, asset research and counterparty screening scoped to Law No. 24 of 2023 on personal data protection.",
   "nav": "Jordan",
-  "bytes": 39616
+  "bytes": 39638
  },
  {
   "key": "intl-japan",
@@ -469,7 +709,47 @@
   "title": "Kenya Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Kenya: counterparty, procurement and land due diligence, fraud inquiries and asset tracing under Kenya's Data Protection Act.",
   "nav": "Kenya",
-  "bytes": 40957
+  "bytes": 41082
+ },
+ {
+  "key": "intl-kyrgyzstan",
+  "path": "/international/kyrgyzstan",
+  "title": "Kyrgyzstan Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Kyrgyzstan: counterparty due diligence, sanctions-sensitive trade checks and beneficial ownership research under 2026 rules.",
+  "nav": "Kyrgyzstan",
+  "bytes": 42676
+ },
+ {
+  "key": "intl-cambodia",
+  "path": "/international/cambodia",
+  "title": "Cambodia Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Cambodia: due diligence, asset tracing and AML-focused inquiries, scoped from Nashville with licensed local professionals.",
+  "nav": "Cambodia",
+  "bytes": 43154
+ },
+ {
+  "key": "intl-kiribati",
+  "path": "/international/kiribati",
+  "title": "Kiribati Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Kiribati: counterparty checks, fisheries and aid-project due diligence under the Data Protection Act and 2021 company laws.",
+  "nav": "Kiribati",
+  "bytes": 35578
+ },
+ {
+  "key": "intl-comoros",
+  "path": "/international/comoros",
+  "title": "Comoros Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Comoros: OHADA commercial register checks, Anjouan offshore licence verification, data rules and licensed local coordination.",
+  "nav": "Comoros",
+  "bytes": 36039
+ },
+ {
+  "key": "intl-saint-kitts-and-nevis",
+  "path": "/international/saint-kitts-and-nevis",
+  "title": "Saint Kitts and Nevis Investigations | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Saint Kitts and Nevis: Nevis entity research, citizenship by investment background checks and ECSC litigation support.",
+  "nav": "Saint Kitts and Nevis",
+  "bytes": 35955
  },
  {
   "key": "intl-north-korea",
@@ -477,7 +757,7 @@
   "title": "North Korea Investigative Consulting | TDSC · Since 1873",
   "desc": "Sanctions-aware risk advisory for matters touching North Korea: counterparty screening, IT worker and procurement red flags, and lawful due diligence only.",
   "nav": "North Korea",
-  "bytes": 42602
+  "bytes": 42625
  },
  {
   "key": "intl-south-korea",
@@ -509,7 +789,15 @@
   "title": "Kazakhstan Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Kazakhstan: corporate records, beneficial ownership, data localisation and AIFC disputes, scoped from Nashville.",
   "nav": "Kazakhstan",
-  "bytes": 46390
+  "bytes": 46496
+ },
+ {
+  "key": "intl-laos",
+  "path": "/international/laos",
+  "title": "Laos Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Laos: partner and concession due diligence, enterprise record checks and lawful research under the electronic data law.",
+  "nav": "Laos",
+  "bytes": 41792
  },
  {
   "key": "intl-lebanon",
@@ -517,7 +805,15 @@
   "title": "Lebanon Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Lebanon: commercial register research, asset tracing after the banking crisis, due diligence and disputes.",
   "nav": "Lebanon",
-  "bytes": 40270
+  "bytes": 40296
+ },
+ {
+  "key": "intl-saint-lucia",
+  "path": "/international/saint-lucia",
+  "title": "Saint Lucia Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Saint Lucia: company registry research, citizenship by investment background checks, real estate diligence.",
+  "nav": "Saint Lucia",
+  "bytes": 34920
  },
  {
   "key": "intl-liechtenstein",
@@ -525,7 +821,7 @@
   "title": "Liechtenstein Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Liechtenstein: foundation and trust structures, asset tracing, ownership research and support for counsel.",
   "nav": "Liechtenstein",
-  "bytes": 35659
+  "bytes": 35663
  },
  {
   "key": "intl-sri-lanka",
@@ -533,7 +829,7 @@
   "title": "Sri Lanka Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Sri Lanka: due diligence, asset research and dispute support under the Anti-Corruption Act 2023 and new ownership disclosure.",
   "nav": "Sri Lanka",
-  "bytes": 40888
+  "bytes": 40892
  },
  {
   "key": "intl-liberia",
@@ -541,7 +837,7 @@
   "title": "Liberia Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Liberia: non-resident and ship-owning entity research, concession due diligence, asset tracing and disputes.",
   "nav": "Liberia",
-  "bytes": 39636
+  "bytes": 39697
  },
  {
   "key": "intl-lesotho",
@@ -549,7 +845,7 @@
   "title": "Lesotho Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Lesotho: counterparty checks, textile and mining sector due diligence, corruption risk and court support.",
   "nav": "Lesotho",
-  "bytes": 37649
+  "bytes": 37653
  },
  {
   "key": "intl-lithuania",
@@ -557,7 +853,7 @@
   "title": "Lithuania Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Lithuania: company register research, fintech and logistics due diligence, asset tracing, GDPR-aware work.",
   "nav": "Lithuania",
-  "bytes": 39880
+  "bytes": 39931
  },
  {
   "key": "intl-luxembourg",
@@ -565,7 +861,7 @@
   "title": "Luxembourg Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Luxembourg: holding and fund structure research, asset tracing, GDPR-aware workplace inquiries, disputes.",
   "nav": "Luxembourg",
-  "bytes": 37577
+  "bytes": 37581
  },
  {
   "key": "intl-latvia",
@@ -573,7 +869,7 @@
   "title": "Latvia Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Latvia: due diligence, asset tracing and dispute support using the open Register of Enterprises and Latvian GDPR rules.",
   "nav": "Latvia",
-  "bytes": 40265
+  "bytes": 40316
  },
  {
   "key": "intl-libya",
@@ -581,7 +877,7 @@
   "title": "Libya Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Libya: agent and partner due diligence, sanctions-aware risk advisory, asset tracing and arbitration support.",
   "nav": "Libya",
-  "bytes": 39262
+  "bytes": 39333
  },
  {
   "key": "intl-morocco",
@@ -589,7 +885,7 @@
   "title": "Morocco Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for Morocco matters: OMPIC company records, commercial courts, Law 09-08 transfer authorisations and INPPLC anti-corruption context.",
   "nav": "Morocco",
-  "bytes": 39820
+  "bytes": 39824
  },
  {
   "key": "intl-monaco",
@@ -597,7 +893,7 @@
   "title": "Monaco Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for Monaco matters: private wealth and asset questions, Law 1.565 data protection, CCIN authorisations and AMSF oversight.",
   "nav": "Monaco",
-  "bytes": 34817
+  "bytes": 34821
  },
  {
   "key": "intl-moldova",
@@ -605,7 +901,7 @@
   "title": "Moldova Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for Moldova matters: company and ownership research, the new personal data law, justice reform and EU accession-era due diligence.",
   "nav": "Moldova",
-  "bytes": 39567
+  "bytes": 39571
  },
  {
   "key": "intl-montenegro",
@@ -613,7 +909,7 @@
   "title": "Montenegro Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for Montenegro matters: CRPS company records, coastal real estate diligence, data transfer approvals and anti-corruption bodies.",
   "nav": "Montenegro",
-  "bytes": 37899
+  "bytes": 37965
  },
  {
   "key": "intl-madagascar",
@@ -621,7 +917,15 @@
   "title": "Madagascar Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Madagascar: due diligence on mining, vanilla and textile counterparties, asset tracing and records review.",
   "nav": "Madagascar",
-  "bytes": 42030
+  "bytes": 42034
+ },
+ {
+  "key": "intl-marshall-islands",
+  "path": "/international/marshall-islands",
+  "title": "Marshall Islands Investigations | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on the Marshall Islands: non-resident entity research, vessel-owning company tracing, ownership limits and lawful sources.",
+  "nav": "Marshall Islands",
+  "bytes": 35796
  },
  {
   "key": "intl-north-macedonia",
@@ -629,7 +933,15 @@
   "title": "North Macedonia Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for North Macedonia: Central Registry and UBO checks, GDPR-aligned data rules, TIDZ supplier review and integrity due diligence.",
   "nav": "North Macedonia",
-  "bytes": 38565
+  "bytes": 38592
+ },
+ {
+  "key": "intl-mali",
+  "path": "/international/mali",
+  "title": "Mali Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Mali: OHADA RCCM company checks, APDP-aware data handling, mining and supply chain due diligence, and asset research.",
+  "nav": "Mali",
+  "bytes": 41923
  },
  {
   "key": "intl-myanmar",
@@ -637,7 +949,7 @@
   "title": "Myanmar Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Myanmar: sanctions-aware counterparty screening, ownership research via MyCO, and supply-chain risk review.",
   "nav": "Myanmar",
-  "bytes": 44937
+  "bytes": 44962
  },
  {
   "key": "intl-mongolia",
@@ -645,7 +957,7 @@
   "title": "Mongolia Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for Mongolia matters: mining sector diligence, State Registration and ownership records, data localisation and IAAC context.",
   "nav": "Mongolia",
-  "bytes": 40043
+  "bytes": 40070
  },
  {
   "key": "intl-macau",
@@ -653,7 +965,23 @@
   "title": "Macau Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Macau: gaming sector counterparties, ownership research, asset tracing and support for disputes in Macau.",
   "nav": "Macau",
-  "bytes": 35950
+  "bytes": 35954
+ },
+ {
+  "key": "intl-mauritania",
+  "path": "/international/mauritania",
+  "title": "Mauritania Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Mauritania: mining and fisheries due diligence, company records, asset tracing and coordinated local inquiries.",
+  "nav": "Mauritania",
+  "bytes": 40065
+ },
+ {
+  "key": "intl-malta",
+  "path": "/international/malta",
+  "title": "Malta Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Malta: due diligence on gaming and financial services counterparties, beneficial ownership and asset research under GDPR.",
+  "nav": "Malta",
+  "bytes": 35760
  },
  {
   "key": "intl-mauritius",
@@ -661,7 +989,23 @@
   "title": "Mauritius Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for Mauritius matters: global business structures, CBRD records, Data Protection Act 2017 and Financial Crimes Commission context.",
   "nav": "Mauritius",
-  "bytes": 37072
+  "bytes": 37076
+ },
+ {
+  "key": "intl-maldives",
+  "path": "/international/maldives",
+  "title": "Maldives Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Maldives: resort and tourism counterparty checks, Companies Act 7/2023 ownership research and integrity reviews.",
+  "nav": "Maldives",
+  "bytes": 35886
+ },
+ {
+  "key": "intl-malawi",
+  "path": "/international/malawi",
+  "title": "Malawi Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Malawi: due diligence, beneficial ownership checks and asset tracing, run lawfully from Nashville with local professionals.",
+  "nav": "Malawi",
+  "bytes": 39659
  },
  {
   "key": "intl-mexico",
@@ -669,7 +1013,7 @@
   "title": "Mexico Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for Mexico matters: SIGER commercial registry research, the 2025 data protection law, AML reforms and nearshoring due diligence.",
   "nav": "Mexico",
-  "bytes": 50120
+  "bytes": 50147
  },
  {
   "key": "intl-malaysia",
@@ -677,7 +1021,7 @@
   "title": "Malaysia Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Malaysia: Section 17A third-party reviews, SSM company records, PDPA-aware due diligence and licensed local coordination.",
   "nav": "Malaysia",
-  "bytes": 44655
+  "bytes": 44659
  },
  {
   "key": "intl-mozambique",
@@ -685,7 +1029,7 @@
   "title": "Mozambique Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Mozambique: CREL beneficial ownership checks, LNG and mining supply-chain diligence, and asset research.",
   "nav": "Mozambique",
-  "bytes": 42531
+  "bytes": 42631
  },
  {
   "key": "intl-namibia",
@@ -693,7 +1037,7 @@
   "title": "Namibia Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Namibia: BIPA ownership research, mining and fishing counterparty diligence, and Orange Basin partner checks.",
   "nav": "Namibia",
-  "bytes": 40236
+  "bytes": 40311
  },
  {
   "key": "intl-niger",
@@ -701,7 +1045,7 @@
   "title": "Niger Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for Niger: OHADA corporate records, uranium and extractives exposure, counterparty due diligence and Sahel political risk review.",
   "nav": "Niger",
-  "bytes": 41218
+  "bytes": 41315
  },
  {
   "key": "intl-nigeria",
@@ -709,7 +1053,15 @@
   "title": "Nigeria Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for Nigeria: CAC and PSC register checks, NDPA 2023 data compliance, fraud tracing, asset searches and counterparty review.",
   "nav": "Nigeria",
-  "bytes": 42264
+  "bytes": 42336
+ },
+ {
+  "key": "intl-nicaragua",
+  "path": "/international/nicaragua",
+  "title": "Nicaragua Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Nicaragua: sanctions-aware due diligence, ownership tracing and risk advisory for trade and investment, from Nashville.",
+  "nav": "Nicaragua",
+  "bytes": 41364
  },
  {
   "key": "intl-netherlands",
@@ -717,7 +1069,7 @@
   "title": "Netherlands Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters involving the Netherlands: KVK records, restricted UBO data, GDPR and UAVG limits, licensed agencies and Dutch counsel.",
   "nav": "Netherlands",
-  "bytes": 42601
+  "bytes": 42605
  },
  {
   "key": "intl-norway",
@@ -725,7 +1077,15 @@
   "title": "Norway Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for Norway: Brønnøysund registry and beneficial owner checks, GDPR-compliant workplace investigations, energy and maritime review.",
   "nav": "Norway",
-  "bytes": 49600
+  "bytes": 49627
+ },
+ {
+  "key": "intl-nepal",
+  "path": "/international/nepal",
+  "title": "Nepal Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Nepal: partner vetting, hydropower and remittance-linked due diligence, and research under the Individual Privacy Act 2018.",
+  "nav": "Nepal",
+  "bytes": 41240
  },
  {
   "key": "intl-nauru",
@@ -733,7 +1093,7 @@
   "title": "Nauru Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Nauru: counterparty and citizenship-holder checks, deep-sea mining and fisheries diligence, offshore structures.",
   "nav": "Nauru",
-  "bytes": 33787
+  "bytes": 33791
  },
  {
   "key": "intl-new-zealand",
@@ -741,7 +1101,7 @@
   "title": "New Zealand Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for New Zealand matters: Privacy Act 2020 and IPP 3A, Companies Office records, PPSR searches and PSPLA-licensed local coordination.",
   "nav": "New Zealand",
-  "bytes": 46407
+  "bytes": 46411
  },
  {
   "key": "intl-oman",
@@ -749,7 +1109,7 @@
   "title": "Oman Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Oman: counterparty due diligence, asset tracing and data-compliant research under the 2022 Personal Data Protection Law.",
   "nav": "Oman",
-  "bytes": 41105
+  "bytes": 41131
  },
  {
   "key": "intl-panama",
@@ -757,7 +1117,7 @@
   "title": "Panama Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Panama: ownership tracing behind sociedades and foundations, Colón Free Zone and maritime due diligence, and asset research.",
   "nav": "Panama",
-  "bytes": 46219
+  "bytes": 46223
  },
  {
   "key": "intl-peru",
@@ -765,7 +1125,15 @@
   "title": "Peru Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Peru: SUNARP registry research, Law 29733 data protection scoping, Law 30424 integrity reviews and mining due diligence.",
   "nav": "Peru",
-  "bytes": 42546
+  "bytes": 42574
+ },
+ {
+  "key": "intl-papua-new-guinea",
+  "path": "/international/papua-new-guinea",
+  "title": "Papua New Guinea Investigations | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Papua New Guinea: company and ownership research via the IPA registry, resource-sector partner checks and AML diligence.",
+  "nav": "Papua New Guinea",
+  "bytes": 50428
  },
  {
   "key": "intl-philippines",
@@ -773,7 +1141,7 @@
   "title": "Philippines Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on the Philippines: SEC records and beneficial ownership, Data Privacy Act-aware research and PNP-licensed local coordination.",
   "nav": "Philippines",
-  "bytes": 53035
+  "bytes": 53039
  },
  {
   "key": "intl-pakistan",
@@ -781,7 +1149,7 @@
   "title": "Pakistan Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Pakistan: SECP company and ownership research, PECA-aware due diligence and coordination with licensed local professionals.",
   "nav": "Pakistan",
-  "bytes": 44490
+  "bytes": 44515
  },
  {
   "key": "intl-poland",
@@ -789,7 +1157,7 @@
   "title": "Poland Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Poland: due diligence, fraud inquiries and asset tracing using KRS records within Polish GDPR and detective law.",
   "nav": "Poland",
-  "bytes": 42644
+  "bytes": 42695
  },
  {
   "key": "intl-puerto-rico",
@@ -816,6 +1184,22 @@
   "bytes": 41259
  },
  {
+  "key": "intl-palau",
+  "path": "/international/palau",
+  "title": "Palau Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Palau: due diligence on investors, tourism and infrastructure counterparties, corporate records and money laundering law.",
+  "nav": "Palau",
+  "bytes": 35100
+ },
+ {
+  "key": "intl-paraguay",
+  "path": "/international/paraguay",
+  "title": "Paraguay Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Paraguay: agribusiness and land due diligence, beneficial ownership research, tri-border trade risk and asset inquiries.",
+  "nav": "Paraguay",
+  "bytes": 42385
+ },
+ {
   "key": "intl-qatar",
   "path": "/international/qatar",
   "title": "Qatar Investigative Consulting | TDSC · Since 1873",
@@ -837,7 +1221,23 @@
   "title": "Serbia Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Serbia: due diligence, asset tracing and dispute support using APR company and beneficial owner records and the 2018 DP Law.",
   "nav": "Serbia",
-  "bytes": 42736
+  "bytes": 42798
+ },
+ {
+  "key": "intl-russia",
+  "path": "/international/russia",
+  "title": "Russia Investigative Consulting | TDSC · Since 1873",
+  "desc": "Sanctions-screened TDSC consulting on matters touching Russia: lawful due diligence, ownership and exposure research and risk advisory for clients outside it.",
+  "nav": "Russia",
+  "bytes": 60446
+ },
+ {
+  "key": "intl-rwanda",
+  "path": "/international/rwanda",
+  "title": "Rwanda Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Rwanda: RDB registry and beneficial ownership research, counterparty diligence, KIAC dispute support.",
+  "nav": "Rwanda",
+  "bytes": 38309
  },
  {
   "key": "intl-saudi-arabia",
@@ -845,7 +1245,31 @@
   "title": "Saudi Arabia Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Saudi Arabia: PDPL-aware due diligence, Vision 2030 counterparty research, disputes and integrity checks.",
   "nav": "Saudi Arabia",
-  "bytes": 43293
+  "bytes": 43315
+ },
+ {
+  "key": "intl-solomon-islands",
+  "path": "/international/solomon-islands",
+  "title": "Solomon Islands Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Solomon Islands: logging, mining and fisheries due diligence, company checks and integrity reviews scoped with local counsel.",
+  "nav": "Solomon Islands",
+  "bytes": 42842
+ },
+ {
+  "key": "intl-seychelles",
+  "path": "/international/seychelles",
+  "title": "Seychelles Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Seychelles: IBC ownership tracing, tourism and fisheries due diligence and asset research under the Data Protection Act 2023.",
+  "nav": "Seychelles",
+  "bytes": 35985
+ },
+ {
+  "key": "intl-sudan",
+  "path": "/international/sudan",
+  "title": "Sudan Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Sudan: sanctions-screened due diligence on counterparties, gold trade networks and SAF or RSF links, for clients abroad.",
+  "nav": "Sudan",
+  "bytes": 40956
  },
  {
   "key": "intl-sweden",
@@ -880,12 +1304,76 @@
   "bytes": 40846
  },
  {
+  "key": "intl-sierra-leone",
+  "path": "/international/sierra-leone",
+  "title": "Sierra Leone Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Sierra Leone: mining and minerals due diligence, Corporate Affairs Commission research, AML risk and local coordination.",
+  "nav": "Sierra Leone",
+  "bytes": 40999
+ },
+ {
+  "key": "intl-san-marino",
+  "path": "/international/san-marino",
+  "title": "San Marino Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on San Marino: ownership, banking and asset research linking Sammarinese companies to Italy, scoped with local counsel.",
+  "nav": "San Marino",
+  "bytes": 35159
+ },
+ {
+  "key": "intl-senegal",
+  "path": "/international/senegal",
+  "title": "Senegal Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Senegal: RCCM and beneficial ownership records, CDP data rules, OFNAC reforms and counterparty checks in oil, gas and mining.",
+  "nav": "Senegal",
+  "bytes": 43919
+ },
+ {
+  "key": "intl-somalia",
+  "path": "/international/somalia",
+  "title": "Somalia Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Somalia: remittance, telecom and trade counterparty checks, ownership research and data handling under the 2023 Act.",
+  "nav": "Somalia",
+  "bytes": 39921
+ },
+ {
+  "key": "intl-suriname",
+  "path": "/international/suriname",
+  "title": "Suriname Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Suriname: KKF trade register research, extractive sector due diligence, anti-corruption context and asset tracing.",
+  "nav": "Suriname",
+  "bytes": 39777
+ },
+ {
+  "key": "intl-south-sudan",
+  "path": "/international/south-sudan",
+  "title": "South Sudan Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on South Sudan: sanctions-aware due diligence, ownership mapping and risk advisory, scoped from Nashville with local counsel.",
+  "nav": "South Sudan",
+  "bytes": 40558
+ },
+ {
+  "key": "intl-sao-tome-and-principe",
+  "path": "/international/sao-tome-and-principe",
+  "title": "São Tomé and Príncipe Investigations | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on São Tomé and Príncipe: Guiché Único company records, Law 03/2016 data rules, Portuguese-language research and local counsel.",
+  "nav": "São Tomé and Príncipe",
+  "bytes": 36485
+ },
+ {
   "key": "intl-el-salvador",
   "path": "/international/el-salvador",
   "title": "El Salvador Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching El Salvador: nearshoring partner checks, digital asset counterparties, asset tracing and lawful records research.",
   "nav": "El Salvador",
-  "bytes": 38402
+  "bytes": 38427
+ },
+ {
+  "key": "intl-syria",
+  "path": "/international/syria",
+  "title": "Syria Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Syria: sanctions-screened due diligence, ownership research and partner vetting as US measures shift to targeted lists.",
+  "nav": "Syria",
+  "bytes": 40321
  },
  {
   "key": "intl-eswatini",
@@ -896,12 +1384,68 @@
   "bytes": 37134
  },
  {
+  "key": "intl-chad",
+  "path": "/international/chad",
+  "title": "Chad Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Chad: OHADA corporate research, ANSICE data protection compliance and partner due diligence for oil, mining and aid projects.",
+  "nav": "Chad",
+  "bytes": 39965
+ },
+ {
+  "key": "intl-togo",
+  "path": "/international/togo",
+  "title": "Togo Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Togo: due diligence on Lomé port, logistics and banking counterparties, OHADA records and Law 2019-014 on personal data.",
+  "nav": "Togo",
+  "bytes": 37843
+ },
+ {
   "key": "intl-thailand",
   "path": "/international/thailand",
   "title": "Thailand Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Thailand: PDPA-aware due diligence, DBD company records, nominee structure analysis and coordination with Thai counsel.",
   "nav": "Thailand",
-  "bytes": 44392
+  "bytes": 44438
+ },
+ {
+  "key": "intl-tajikistan",
+  "path": "/international/tajikistan",
+  "title": "Tajikistan Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Tajikistan: Tax Committee company records, mining and trade due diligence, sanctions diversion and asset tracing.",
+  "nav": "Tajikistan",
+  "bytes": 43131
+ },
+ {
+  "key": "intl-timor-leste",
+  "path": "/international/timor-leste",
+  "title": "Timor-Leste Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Timor-Leste: partner vetting, ownership research and integrity checks for petroleum, infrastructure and trade from Nashville.",
+  "nav": "Timor-Leste",
+  "bytes": 38142
+ },
+ {
+  "key": "intl-turkmenistan",
+  "path": "/international/turkmenistan",
+  "title": "Turkmenistan Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Turkmenistan: gas sector counterparties, state-linked ownership, data localisation law 519-V and lawful remote research.",
+  "nav": "Turkmenistan",
+  "bytes": 42711
+ },
+ {
+  "key": "intl-tunisia",
+  "path": "/international/tunisia",
+  "title": "Tunisia Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Tunisia: supplier and partner due diligence, RNE ownership research and asset inquiries under strict data transfer rules.",
+  "nav": "Tunisia",
+  "bytes": 40872
+ },
+ {
+  "key": "intl-tonga",
+  "path": "/international/tonga",
+  "title": "Tonga Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Tonga: company checks via the Business Registries Office, land and family-link research, and diligence under 2025 laws.",
+  "nav": "Tonga",
+  "bytes": 36424
  },
  {
   "key": "intl-turkiye",
@@ -909,7 +1453,7 @@
   "title": "Türkiye Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching Türkiye: due diligence, fraud inquiries and asset tracing under KVKK Law No. 6698 and Trade Registry records.",
   "nav": "Türkiye",
-  "bytes": 45169
+  "bytes": 45263
  },
  {
   "key": "intl-trinidad-and-tobago",
@@ -920,6 +1464,14 @@
   "bytes": 38215
  },
  {
+  "key": "intl-tuvalu",
+  "path": "/international/tuvalu",
+  "title": "Tuvalu Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Tuvalu: counterparty, licensing and corporate research on a small Pacific economy, with lawful sources and local counsel.",
+  "nav": "Tuvalu",
+  "bytes": 35319
+ },
+ {
   "key": "intl-taiwan",
   "path": "/international/taiwan",
   "title": "Taiwan Investigative Consulting | TDSC · Since 1873",
@@ -928,12 +1480,28 @@
   "bytes": 38527
  },
  {
+  "key": "intl-tanzania",
+  "path": "/international/tanzania",
+  "title": "Tanzania Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Tanzania: mining and partner due diligence, ownership checks and data transfers under the Personal Data Protection Act 2022.",
+  "nav": "Tanzania",
+  "bytes": 43225
+ },
+ {
   "key": "intl-ukraine",
   "path": "/international/ukraine",
   "title": "Ukraine Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Ukraine: counterparty and ownership checks, reconstruction due diligence and asset tracing under martial-law register limits.",
   "nav": "Ukraine",
-  "bytes": 45627
+  "bytes": 45674
+ },
+ {
+  "key": "intl-uganda",
+  "path": "/international/uganda",
+  "title": "Uganda Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Uganda: URSB company and beneficial ownership records, PDPO data rules and counterparty checks in oil, gold and coffee trade.",
+  "nav": "Uganda",
+  "bytes": 40258
  },
  {
   "key": "intl-united-states",
@@ -952,12 +1520,76 @@
   "bytes": 40322
  },
  {
+  "key": "intl-uzbekistan",
+  "path": "/international/uzbekistan",
+  "title": "Uzbekistan Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Uzbekistan: partner due diligence, privatisation and procurement risk, and research within personal data localisation rules.",
+  "nav": "Uzbekistan",
+  "bytes": 43485
+ },
+ {
+  "key": "intl-vatican-city",
+  "path": "/international/vatican-city",
+  "title": "Vatican City Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Vatican City and the Holy See: Church-related due diligence, donation integrity and fraud enquiries scoped with canonists.",
+  "nav": "Vatican City",
+  "bytes": 35733
+ },
+ {
+  "key": "intl-saint-vincent-and-the-grenadines",
+  "path": "/international/saint-vincent-and-the-grenadines",
+  "title": "Saint Vincent and the Grenadines Investigations | TDSC 1873",
+  "desc": "TDSC investigative consulting on Saint Vincent and the Grenadines: international company and trust research, asset tracing and ECSC litigation support.",
+  "nav": "Saint Vincent and the Grenadines",
+  "bytes": 35924
+ },
+ {
+  "key": "intl-venezuela",
+  "path": "/international/venezuela",
+  "title": "Venezuela Investigative Consulting | TDSC · Since 1873",
+  "desc": "Sanctions-screened TDSC consulting on matters touching Venezuela: counterparty due diligence and risk advisory as 2026 OFAC general licences evolve.",
+  "nav": "Venezuela",
+  "bytes": 46607
+ },
+ {
   "key": "intl-vietnam",
   "path": "/international/vietnam",
   "title": "Vietnam Investigative Consulting | TDSC · Since 1873",
   "desc": "TDSC investigative consulting on Vietnam: enterprise and beneficial ownership research, PDPL-aware due diligence and coordination with licensed local counsel.",
   "nav": "Vietnam",
-  "bytes": 45116
+  "bytes": 45162
+ },
+ {
+  "key": "intl-vanuatu",
+  "path": "/international/vanuatu",
+  "title": "Vanuatu Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Vanuatu: international company ownership research, investment citizenship due diligence, AML context and local coordination.",
+  "nav": "Vanuatu",
+  "bytes": 39657
+ },
+ {
+  "key": "intl-samoa",
+  "path": "/international/samoa",
+  "title": "Samoa Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Samoa: MCIL and SIFA company registries, international company structures, AML rules and discreet coordinated inquiry.",
+  "nav": "Samoa",
+  "bytes": 35698
+ },
+ {
+  "key": "intl-kosovo",
+  "path": "/international/kosovo",
+  "title": "Kosovo Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Kosovo: ARBK company research, beneficial ownership under Law 08/L-265, GDPR-aligned data rules and local coordination.",
+  "nav": "Kosovo",
+  "bytes": 36663
+ },
+ {
+  "key": "intl-yemen",
+  "path": "/international/yemen",
+  "title": "Yemen Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Yemen: sanctions-screened due diligence, counterparty and supply chain risk advisory, scoped from Nashville with counsel.",
+  "nav": "Yemen",
+  "bytes": 40542
  },
  {
   "key": "intl-south-africa",
@@ -965,7 +1597,23 @@
   "title": "South Africa Investigative Consulting | TDSC · Since 1873",
   "desc": "Investigative consulting for matters touching South Africa: POPIA-aware due diligence, CIPC records, asset tracing and PSIRA-registered local coordination.",
   "nav": "South Africa",
-  "bytes": 44016
+  "bytes": 44066
+ },
+ {
+  "key": "intl-zambia",
+  "path": "/international/zambia",
+  "title": "Zambia Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Zambia: mining and supplier due diligence, PACRA beneficial ownership research and data handling under the 2021 Act.",
+  "nav": "Zambia",
+  "bytes": 42095
+ },
+ {
+  "key": "intl-zimbabwe",
+  "path": "/international/zimbabwe",
+  "title": "Zimbabwe Investigative Consulting | TDSC · Since 1873",
+  "desc": "TDSC investigative consulting on Zimbabwe: beneficial ownership research, Cyber and Data Protection Act compliance, mining due diligence and asset tracing.",
+  "nav": "Zimbabwe",
+  "bytes": 40341
  },
  {
   "key": "intl-china-beijing",

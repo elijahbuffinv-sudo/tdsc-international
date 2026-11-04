@@ -1,0 +1,138 @@
+{
+  "cc": "AZ",
+  "name": "Azerbaijan",
+  "meta_description": "TDSC investigative consulting on Azerbaijan: due diligence, beneficial ownership tracing and dispute support, scoped from Nashville with local counsel.",
+  "eyebrow": "Republic of Azerbaijan",
+  "hero_lede": "Investigative consulting on Azerbaijan centres on counterparties in energy, construction, logistics and state-linked commerce, where ownership is often layered and records are partly confidential. TDSC scopes each matter from Nashville, relying on lawful sources and, where needed, licensed local professionals and Azerbaijani counsel.",
+  "intro": [
+    "Azerbaijan is a civil law jurisdiction whose economy has long been anchored by oil and gas, with Baku as its commercial and legal centre. The state remains a major actor through holding companies, funds and procurement, and many private businesses sit within family or political networks. Corporate information is held in the state register of legal entities, but founder, shareholding and beneficial ownership data is treated as a commercial secret, so public visibility is narrower than in many European registries. Personal data rules rely heavily on written consent. Investigators therefore combine registry extracts, court decisions, media, trade data and interviews, and treat any claim of easy access to restricted records with suspicion.",
+    "Organisations commission work involving Azerbaijan for several recurring reasons. Energy, petrochemicals, infrastructure and Middle Corridor transport projects draw foreign contractors, lenders and suppliers who need to understand local partners and their connections to public officials. Disputes under the 2023 Law on Arbitration and enforcement of foreign awards raise questions about where assets sit and who controls them. Compliance teams need politically exposed person and sanctions-exposure screening for counterparties that trade with neighbouring markets. Investors and insurers also commission background research on agents, distributors and joint-venture partners before committing capital, and law firms seek factual support in shareholder, contractual and fraud matters."
+  ],
+  "population": {
+    "value": "approximately 10.2 million",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Azerbaijan has a civil law system built on the Constitution and codified law, including the Civil Code and the Civil Procedural Code. Commercial disputes are heard in the ordinary court hierarchy, with the Supreme Court at the apex; it ruled on recognition of a foreign arbitral award in August 2025. A single Law on Arbitration (No 1077-VIQ, December 2023), based on the UNCITRAL Model Law, replaced the 1999 international arbitration law. The Baku Arbitration Centre issued institutional rules in October 2024. A Law on Private Enforcement Officers was adopted in July 2025.",
+  "data_protection": {
+    "law": "Law on Personal Data (No 998-IIIQ, 11 May 2010)",
+    "regulator": "Ministry of Digital Development and Transport, with supervisory roles also held by other state bodies including the State Security Service",
+    "summary": "The 2010 law distinguishes confidential from open personal data and sets a special category covering nationality, family life, religion, health and convictions. Collection and processing of confidential or special-category data generally require the subject's written consent unless a law provides otherwise, and cross-border transfer of non-open data also requires prior written consent. Personal data information systems must generally be registered. The Labour Code (1999) allows employers to disclose an employee's identity or work history to others only on written request and with consent. There is no single independent data protection authority, so investigative work involving individuals is planned around consent, open sources and counsel review."
+  },
+  "investigator_regulation": "We have not identified, as of 2025, a dedicated statute that licenses private investigators or detective agencies in Azerbaijan, and we have not verified any regulator for the activity. This should not be read as permission: the Law on Personal Data, consent requirements for collecting confidential information, commercial and tax secrecy rules, and criminal provisions on privacy and interception all constrain what an investigator may do. Interception of communications is reserved to state bodies. Surveillance, covert recording and any attempt to obtain non-public registry, banking or telecom data are outside what TDSC will undertake. Each engagement is scoped with Azerbaijani counsel.",
+  "corporate_records": "Legal entities are registered under the Law on State Registration and State Register of Legal Entities, with the register historically maintained by the tax authority (now the State Tax Service). Basic registration details can be checked, but founder, shareholding and beneficial ownership information is classified as a commercial secret under the Law on Commercial Secrecy (2001) and as tax secret. Amendments effective 15 May 2025 require entities to identify beneficial owners holding 10% or more, including PEP status, with phased deadlines running to December 2027; this data is non-public and shared with the Financial Monitoring Service. Court and property record access should be confirmed case by case.",
+  "anti_corruption": "Anti-money laundering obligations sit under the Law on Prevention of Legalisation of Criminally Obtained Assets and Financing of Terrorism, with the Financial Monitoring Service as the central AML/CFT authority. A Commission on Combating Corruption operates at presidential level, and bribery is criminalised in the Criminal Code. The 2025 beneficial ownership reforms tie registry disclosure to AML supervision. Foreign companies also remain exposed under their home laws, such as the US Foreign Corrupt Practices Act and UK Bribery Act.",
+  "matters": [
+    {
+      "title": "Energy and infrastructure partner vetting",
+      "text": "Background research on local partners, subcontractors and agents in oil, gas, petrochemical and transport corridor projects, focusing on ownership chains, links to state entities or officials, litigation history and reputation, built from lawful public and media sources and interviews."
+    },
+    {
+      "title": "Beneficial ownership and PEP mapping",
+      "text": "Because shareholder and beneficial ownership data is confidential in Azerbaijan, we map ownership through foreign registries, filings in Cyprus, the Netherlands, the UK and elsewhere, procurement records, media and corporate announcements, and record the confidence level of each link."
+    },
+    {
+      "title": "Arbitration and award enforcement support",
+      "text": "Factual research supporting counsel in arbitrations seated in Baku or abroad and in recognition proceedings before Azerbaijani courts, including identification of assets, affiliated entities and decision-makers relevant to enforcement strategy under the 2023 Law on Arbitration."
+    },
+    {
+      "title": "Procurement and distributor integrity",
+      "text": "Reviews of distributors, customs brokers and intermediaries in state procurement, construction and import trade, looking for undisclosed relationships, red flags on pricing or commissions, and exposure to officials, to support anti-bribery compliance programmes. Findings are documented so compliance teams can act on them."
+    },
+    {
+      "title": "Regional trade and sanctions exposure",
+      "text": "Screening of counterparties that trade through Azerbaijan toward Russia, Iran, Central Asia and Türkiye, examining shipping, ownership and trade data for transshipment or sanctions-evasion indicators that would concern a US or European client. Each finding is sourced and graded for confidence."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Azerbaijani; Russian and English widely used in business"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Baku, UTC+4 (no daylight saving)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Azerbaijani manat (AZN)"
+    },
+    {
+      "label": "Courts language",
+      "value": "Azerbaijani; translation of foreign documents required"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Baku, Sumgait, Ganja"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-driven; personal introductions and hierarchy matter"
+    }
+  ],
+  "tdsc_approach": "TDSC handles matters touching Azerbaijan from Nashville. We begin with a jurisdictional review covering the Law on Personal Data, commercial and tax secrecy, and the client's own compliance obligations, then define which questions can be answered lawfully. Because shareholder and beneficial ownership data is confidential, we build ownership pictures from foreign registries, court decisions, procurement and trade data, media in Azerbaijani, Russian and English, and discreet interviews, and we label findings by confidence. Where local enquiries or document retrieval are needed, we coordinate qualified Azerbaijani professionals and work under the direction of local counsel. We do not seek restricted government, banking or telecom data, do not use pretexting, and limit personal data transfers to what the engagement requires.",
+  "faqs": [
+    {
+      "q": "Can you obtain shareholder lists for an Azerbaijani company?",
+      "a": "Shareholder, founder and beneficial ownership information is treated as a commercial secret under Azerbaijani law and is not openly published. We do not attempt to obtain it improperly. Instead we reconstruct ownership through foreign parent registries, public announcements, procurement and court records, and interviews, and we tell you clearly where a link is confirmed and where it is inferred."
+    },
+    {
+      "q": "Does the 2025 beneficial ownership reform make ownership public?",
+      "a": "No. The amendments effective May 2025 require entities to identify beneficial owners and record PEP status, but the information remains non-public and is shared with the Financial Monitoring Service. It improves bank and regulator visibility, not open access, so private researchers still rely on indirect sources for ownership questions."
+    },
+    {
+      "q": "Is consent needed to research an individual in Azerbaijan?",
+      "a": "The Law on Personal Data generally requires written consent to collect and process confidential personal data, while open data can be used more freely. We therefore focus on public records, published media and corporate information, and design any interview or reference work with counsel so that it respects consent rules and the client's purpose."
+    },
+    {
+      "q": "Can you help enforce an arbitral award against an Azerbaijani party?",
+      "a": "We support counsel, not replace them. Our work identifies the counterparty's affiliates, assets and decision-makers inside and outside Azerbaijan so that counsel can assess recognition under the 2023 arbitration reforms and choose where enforcement is most practical. Enforcement steps themselves are taken by lawyers and authorised officers."
+    },
+    {
+      "q": "Do you work in Russian and Azerbaijani sources?",
+      "a": "Yes. Much useful material on Azerbaijani businesses appears in Azerbaijani and Russian media, court decisions and trade publications, alongside English-language sources. We coordinate qualified linguists and local researchers where needed and note in our reports which sources were reviewed in which language. Translations of key documents can be provided on request."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Azerbaijan",
+      "url": "https://www.dlapiperdataprotection.com/?c=AZ&t=law"
+    },
+    {
+      "title": "Mondaq / GRATA: Data Protection and Employee Privacy in Azerbaijan (2024)",
+      "url": "https://www.mondaq.com/data-protection/1520966/data-protection-and-employee-privacy-in-azerbaijan"
+    },
+    {
+      "title": "Az-Netwatch: personal data protection in Azerbaijan",
+      "url": "https://www.az-netwatch.org/?p=1378"
+    },
+    {
+      "title": "Caspian Legal Center: Beneficial ownership information reporting introduced in Azerbaijan",
+      "url": "https://www.caspianlegalcenter.az/news/more/beneficial-ownership"
+    },
+    {
+      "title": "KPMG Azerbaijan: Trends and developments in the Azerbaijani legal market (2026)",
+      "url": "https://kpmg.com/az/en/insights/in-focus-expert-interviews/2026/05/trends-and-developments-in-the-azerbaijani-legal-market.html"
+    },
+    {
+      "title": "Council of Europe: Towards an improved framework for transparency of beneficial ownership in Azerbaijan",
+      "url": "https://www.coe.int/en/web/baku/-/towards-an-improved-framework-for-transparency-of-beneficial-ownership-in-azerbaijan"
+    },
+    {
+      "title": "EITI: Beneficial ownership roadmap, Azerbaijan (2016)",
+      "url": "https://api.eiti.org/sites/default/files/attachments/beneficial_ownership_roadmap_-_azerbaijan.pdf"
+    }
+  ],
+  "review_flags": [
+    "Population figure (about 10.2 million, 2024) not verified from a World Bank or State Statistical Committee source within the search budget; source_url left empty - needs a citation.",
+    "No source found on private investigator licensing; text states no dedicated regime identified - confirm with local counsel.",
+    "Principal anti-corruption statute (Law on Combating Corruption) and the Anti-Corruption Directorate were not verified from sources and are not named; Commission on Combating Corruption naming based on EITI 2016 reference to a presidential anti-corruption commission.",
+    "Registry authority described as the State Tax Service based on CoE/EITI references; confirm current registering body and what extract data is publicly accessible.",
+    "DLA Piper Azerbaijan page last reviewed 2022; check for any newer data protection amendments or a dedicated regulator."
+  ],
+  "researched": "2026-11-04"
+}

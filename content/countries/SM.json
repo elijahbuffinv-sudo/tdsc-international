@@ -1,0 +1,135 @@
+{
+  "cc": "SM",
+  "name": "San Marino",
+  "meta_description": "TDSC investigative consulting on San Marino: ownership, banking and asset research linking Sammarinese companies to Italy, scoped with local counsel.",
+  "eyebrow": "Republic of San Marino",
+  "hero_lede": "Investigative consulting on San Marino usually concerns its banks, holding companies and manufacturers as they connect to Italy and the wider euro area. Work combines Sammarinese registry and beneficial ownership information with Italian sources, under a GDPR-modelled data protection law and with local counsel.",
+  "intro": [
+    "San Marino is a small, independent republic enclosed by Italy, using the euro and governed by its own institutions and courts. Over the past two decades it has moved away from a reputation for banking secrecy toward international transparency standards, transposing the EU's Fourth Anti-Money Laundering Directive into its AML law in 2017 and adopting a GDPR-modelled data protection statute in 2018. Its economy rests on manufacturing, financial services, trade and tourism, and many Sammarinese companies operate largely in or with Italy. For investigators, the defining features are a compact registry system, a beneficial ownership register with access controls, Italian-language records and a court system that is small enough for proceedings to be followed closely through local counsel.",
+    "Organisations commission work touching San Marino most often because a counterparty, holding company or bank account sits there while the underlying business is in Italy or elsewhere in Europe. Lenders and acquirers need to confirm who owns and controls Sammarinese companies, and whether historical banking or tax issues remain relevant. Litigants and insolvency practitioners trace assets moved through the republic, while compliance teams screen directors and shareholders for prior regulatory sanctions or criminal proceedings. Family-owned manufacturers and trading businesses bring succession and shareholder disputes. Because the business community is small and closely connected to neighbouring Emilia-Romagna and Marche, research routinely spans both San Marino and Italian sources."
+  ],
+  "population": {
+    "value": "approximately 33,600",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "San Marino has a civil-law system rooted in the ius commune tradition, with its own statutes and codes rather than direct application of Italian law, although Italian legal scholarship strongly influences practice. Its constitutional framework includes the Declaration of Citizens' Rights, and a Collegio Garante reviews the constitutionality of legislation. Commercial and civil disputes are heard by the single court of the republic (Tribunale Unico), with appeals to appellate judges. Many judges have historically been drawn from Italy. Arbitration is available, and cross-border disputes frequently also involve Italian courts.",
+  "data_protection": {
+    "law": "Law No. 171 of 21 December 2018 on the protection of natural persons with regard to the processing of personal data",
+    "regulator": "Autorità Garante per la protezione dei dati personali",
+    "summary": "San Marino's Law 171/2018 closely follows the structure and principles of the GDPR, including lawful basis, accountability, privacy by design and data subject rights, with fines of up to EUR 10 million or 4 percent of worldwide turnover for the most serious breaches. It applies to controllers outside San Marino that monitor people located there. San Marino is not an EU member, so transfers from the EU have depended on appropriate safeguards; an EU adequacy decision was pending in the sources we reviewed. Investigative processing of personal data needs a documented legitimate-interest assessment, proportionality and secure handling, and the Garante can suspend transfers to third countries."
+  },
+  "investigator_regulation": "We have not identified a published, dedicated licensing regime for private investigators specific to San Marino in the sources available to us, and the local market for such services is very small; work is often coordinated alongside Italian practice. Activities that intrude on private life, including covert recording, tracking and access to banking or police data, are constrained by the Criminal Code and by Law 171/2018, and the Garante has investigative and sanctioning powers. TDSC therefore scopes any San Marino field activity with Sammarinese counsel and relies only on appropriately qualified and authorised professionals.",
+  "corporate_records": "Companies are formed under the Companies Law (Law No. 47 of 2006) and recorded in the Register of Companies, which holds the registered office, directors and filings; the shareholder register is kept at the company's office, with transfers notified to the registry. Since the 2017 AML amendments, companies, associations and foundations file beneficial ownership information electronically with a register maintained by the Ufficio Industria, and trustees with the trust register. Access is not fully public: obliged entities may consult it for due diligence for a fee, and others need authorisation on showing a legitimate interest.",
+  "anti_corruption": "San Marino's principal anti-money laundering statute is Law No. 92 of 2008, amended by Decree-Law No. 116 of 2017 to transpose the EU Fourth Anti-Money Laundering Directive. The Agenzia di Informazione Finanziaria (AIF) is the financial intelligence unit and supervises compliance, can suspend authorisations and publishes sanctioned violations. Bribery and corruption offences are set out in the Criminal Code. Prosecutions are brought before the Tribunale Unico.",
+  "matters": [
+    {
+      "title": "Ownership of Sammarinese holding companies",
+      "text": "Italian and international businesses sometimes hold assets or contracts through San Marino companies. Engagements reconcile registry filings, beneficial ownership information obtained lawfully through authorised channels, and Italian records to establish who owns and controls the structure and whether nominees are involved."
+    },
+    {
+      "title": "Banking-sector and financial counterparties",
+      "text": "After years of restructuring and heightened supervision, the Sammarinese banking and fiduciary sector still prompts careful counterparty review. Research covers corporate history, regulatory sanctions published by the AIF, litigation and press coverage of directors and significant shareholders."
+    },
+    {
+      "title": "Cross-border asset tracing with Italy",
+      "text": "Assets and funds can move between San Marino and Italy within one business network. TDSC maps companies, property interests and court proceedings on both sides of the border and identifies where Sammarinese or Italian counsel must take formal steps to obtain records."
+    },
+    {
+      "title": "Manufacturing and family business disputes",
+      "text": "Family-owned manufacturers and traders generate shareholder, succession and partnership disputes. Investigative support establishes corporate timelines, related-party transactions, competing business interests of former partners and the standing of key individuals, with findings prepared for counsel in San Marino or Italy."
+    },
+    {
+      "title": "Residency and investor background checks",
+      "text": "Individuals seeking residency, directorships or business licences in San Marino, and investors approaching Sammarinese partners, may require background verification. Work tests identity, career history, litigation, regulatory and media records across the relevant jurisdictions, with proportionate handling of personal data."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Language",
+      "value": "Italian for business, records and courts"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/San_Marino, UTC+01:00 (UTC+02:00 in summer)"
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (EUR)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Serravalle, Dogana, Borgo Maggiore, City of San Marino"
+    },
+    {
+      "label": "Courts",
+      "value": "Tribunale Unico, City of San Marino"
+    },
+    {
+      "label": "Practical note",
+      "value": "Most matters also require Italian-side research"
+    }
+  ],
+  "tdsc_approach": "TDSC handles San Marino matters from Nashville and has no presence in the republic. Scoping starts by separating what can be obtained from the Register of Companies and public court information from what requires authorisation, such as beneficial ownership extracts available only to obliged entities or parties with a demonstrated legitimate interest. Where such access is needed, TDSC works through the client's Sammarinese counsel rather than seeking it independently. Because most structures extend into Italy, the Italian research is planned alongside the Sammarinese work under Italian rules. Personal data is processed on a documented legitimate-interest basis consistent with Law 171/2018 and the GDPR, limited to the question at hand and transferred under appropriate safeguards. Any field enquiries are carried out by qualified, authorised local professionals.",
+  "faqs": [
+    {
+      "q": "Is San Marino's beneficial ownership register public?",
+      "a": "Not fully. Since 2017 companies, associations and foundations have filed beneficial ownership data with the register kept by the Ufficio Industria, but access is reserved to obliged entities for due diligence and to others who obtain authorisation by showing a legitimate interest. TDSC does not bypass those rules; where access is justified, it is pursued through counsel."
+    },
+    {
+      "q": "Does the GDPR apply to investigations involving San Marino?",
+      "a": "San Marino is outside the EU, but its Law 171/2018 is closely modelled on the GDPR and is enforced by the Autorità Garante. Where the client or data subjects are in the EU, the GDPR may apply as well. TDSC documents the lawful basis, limits collection to what the question requires and uses appropriate safeguards for transfers to the United States."
+    },
+    {
+      "q": "Why does San Marino research usually involve Italy?",
+      "a": "San Marino is enclosed by Italy, shares its language, and many Sammarinese companies trade with, are owned from or hold assets in Italy, particularly in Emilia-Romagna and Marche. A review confined to San Marino records would often miss the operating business, property and litigation, so TDSC scopes Italian research alongside it from the outset."
+    },
+    {
+      "q": "Can TDSC check whether a Sammarinese financial firm has been sanctioned?",
+      "a": "Yes, within public sources. The Agenzia di Informazione Finanziaria publishes sanctioned violations of AML rules, including names of responsible individuals, and the Central Bank and courts publish other information. TDSC combines these with registry filings, media archives and Italian records, and notes where confidential supervisory information is not available."
+    },
+    {
+      "q": "How are court records in San Marino obtained?",
+      "a": "San Marino has a single court, the Tribunale Unico, and proceedings are conducted in Italian. Some decisions are published, but access to case files generally depends on the requester's standing. TDSC identifies relevant proceedings through public material and reporting and relies on Sammarinese counsel for formal searches and copies where the client has a legitimate interest."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cybersecurity360: San Marino data protection law after the GDPR (Law 171/2018)",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/legge-sammarinese-sulla-tutela-dei-dati-personali-post-gdpr-che-ce-da-sapere/"
+    },
+    {
+      "title": "Morrison Foerster Privacy Library: San Marino",
+      "url": "https://www.mofo.com/privacy-library/san-marino"
+    },
+    {
+      "title": "DataGuidance: San Marino",
+      "url": "https://www.dataguidance.com/jurisdiction/san-marino"
+    },
+    {
+      "title": "Diritto Bancario: Transposition of the Fourth AML Directive in San Marino",
+      "url": "https://www.dirittobancario.it/art/il-recepimento-della-quarta-direttiva-antiriciclaggio-nella-repubblica-di-san-marino/"
+    },
+    {
+      "title": "Expanship: Incorporation requirements in San Marino",
+      "url": "https://www.expanship.com/sm/blog/incorporation-requirements-in-san-marino"
+    },
+    {
+      "title": "OECD Global Forum: Enhanced monitoring report 2025, San Marino",
+      "url": "https://www.oecd.org/en/publications/enhanced-monitoring-report-on-the-implementation-of-the-standard-on-transparency-and-exchange-of-information-on-request-2025_4db1a02b-en/full-report/san-marino_b6f9d864.html"
+    }
+  ],
+  "review_flags": [
+    "Population (approx. 33,600, 2024) not confirmed from a World Bank or national statistics result within the search budget; source_url left empty for central fill.",
+    "No PI licensing regime identified for San Marino; confirm with Sammarinese counsel.",
+    "EU adequacy decision for San Marino was pending per source; check current status (and status of EU association agreement).",
+    "Beneficial ownership register keeper (Ufficio Industria) and access rules from a 2017 source; may have changed with later AML amendments.",
+    "Court structure (Tribunale Unico, Collegio Garante) and anti-corruption provisions in Criminal Code from general knowledge, not fetched sources; verify.",
+    "Register of Companies official name inconsistent across sources."
+  ],
+  "researched": "2026-11-04"
+}

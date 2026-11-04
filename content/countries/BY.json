@@ -1,0 +1,95 @@
+{
+  "cc": "BY",
+  "name": "Belarus",
+  "meta_description": "Sanctions-screened TDSC consulting on matters touching Belarus: lawful due diligence, ownership research and risk advisory for clients outside the country.",
+  "eyebrow": "Republic of Belarus",
+  "hero_lede": "Investigative consulting on matters touching Belarus begins with sanctions. US, EU and UK measures have diverged since late 2025, so every matter is screened first, and work is limited to lawful due diligence and risk advisory for clients outside Belarus, drawing on open and published sources.",
+  "intro": [
+    "Belarus has a state-led economy in which large state-owned enterprises dominate potash, petrochemicals, machinery, timber and agriculture, and the country is closely tied to Russia through the Union State and the Eurasian Economic Union. The legal environment is codified and centralised, and independent fact-finding inside the country carries real legal and personal risk. Personal data is governed by a modern statute, the Law on Personal Data Protection of 2021, supervised by the National Personal Data Protection Centre. For a US firm, the decisive framework is external: the Belarus Sanctions Regulations administered by OFAC, alongside EU and UK sanctions that in several respects remain stricter than the US position as of 2026.",
+    "Organisations outside Belarus commission work touching the country mainly to understand and contain exposure. Fertiliser buyers, traders and shippers need clarity on which potash entities remain listed in which jurisdiction after the US delistings of March 2026. Banks and payment providers screen counterparties for links to blocked Belarusian state enterprises and banks. Manufacturers and distributors in Poland, Lithuania and wider Europe test suppliers and intermediaries for transshipment of restricted goods toward Russia. Litigants and asset recovery teams trace Belarusian-linked holdings held through companies in third countries, where registries and courts are open to lawful research."
+  ],
+  "population": {
+    "value": "Not verified in this research pass",
+    "year": "",
+    "source_url": ""
+  },
+  "legal_system": "Belarus has a civil law system in the Romano-Germanic tradition, built on a Civil Code and other codes, under a constitution that concentrates power in the presidency. Commercial (economic) disputes are heard within the general court system headed by the Supreme Court, which absorbed the former economic court hierarchy in 2014. Domestic and international commercial arbitration is offered by the International Arbitration Court at the Belarusian Chamber of Commerce and Industry. Judicial independence from the executive is widely regarded as limited, which bears on how foreign parties assess enforcement and litigation risk.",
+  "data_protection": {
+    "law": "Law of the Republic of Belarus on Personal Data Protection of 7 May 2021 No. 99-Z (in force 15 November 2021)",
+    "regulator": "National Personal Data Protection Centre (NPDPC)",
+    "summary": "The 2021 law lists consent alongside other legal bases, including contract, statutory duty and formalising employment relationships; consent must be informed, provable and may be given electronically. Cross-border transfers are generally prohibited unless the destination offers adequate protection, which covers parties to Council of Europe Convention 108 and Eurasian Economic Union members; otherwise informed consent or an individual NPDPC permit is needed. Since 1 January 2024 certain information systems must be registered with the NPDPC, and breaches must be notified within three business days. Draft amendments were expected in 2026. TDSC does not collect personal data inside Belarus; desk research relies on lawful sources outside the country."
+  },
+  "investigator_regulation": "We have not verified, in this research pass, whether Belarus currently operates a dedicated licensing regime for private detective or investigation agencies, and we do not rely on one. In practice, information gathering inside the country is closely controlled by state security and law enforcement bodies, and unlicensed enquiries, covert recording or approaches to officials and records custodians could expose individuals to serious criminal liability. TDSC does not conduct or commission field enquiries, interviews, surveillance or record retrieval in Belarus. Any question that genuinely requires local legal input is referred to qualified counsel, and only where sanctions screening permits.",
+  "corporate_records": "Belarusian legal entities and individual entrepreneurs are recorded in the Unified State Register of Legal Entities and Individual Entrepreneurs maintained under the Ministry of Justice, which provides basic registration details. We have not verified, for this page, the current scope of public online access or whether a public beneficial ownership register exists, and access from outside the country can be unreliable. For most matters, the more dependable records are found elsewhere: sanctions lists of the US, EU and UK, registries in Cyprus, the Baltic states, the UAE and other jurisdictions used for holding structures, court records abroad, and trade and shipping data.",
+  "anti_corruption": "Belarus has a dedicated anti-corruption statute and a separate law on preventing money laundering and terrorist financing, with enforcement led by the Prosecutor General's Office and financial monitoring housed within the State Control Committee. We have not verified the current text and amendments in this research pass. For clients outside the country, the operative frameworks are usually their own anti-bribery laws, such as the US Foreign Corrupt Practices Act or the UK Bribery Act, together with the US, EU and UK sanctions regimes.",
+  "matters": [
+    {
+      "title": "Potash and fertiliser counterparty screening",
+      "text": "Mapping whether buyers, traders, logistics firms and ports connect to Belaruskali, the Belarusian Potash Company or other entities, given that the US delisted Belaruskali and BPC in March 2026 while EU and UK listings remain, so a lawful US transaction may still be prohibited for European parties."
+    },
+    {
+      "title": "Diversion and transshipment risk",
+      "text": "Desk research for European and Asian exporters and distributors into whether customers or intermediaries are re-exporting controlled machinery, electronics or dual-use goods through Belarus toward Russia, using trade data, registries and published enforcement actions outside Belarus."
+    },
+    {
+      "title": "Bank and financial sector links",
+      "text": "Screening of payment counterparties and correspondents for ownership by blocked Belarusian banks and their subsidiaries, and confirming the precise scope of US general licences such as GL 14 for Belinvestbank entities, which do not unblock other designated persons."
+    },
+    {
+      "title": "Offshore holding structure tracing",
+      "text": "Tracing Belarusian-linked assets held through companies in Cyprus, the Baltic states, the UAE or elsewhere for litigants and creditors, relying on foreign registries, court filings and property records that are lawfully accessible outside the country."
+    },
+    {
+      "title": "Third-country partner diligence",
+      "text": "Background checks on non-Belarusian companies with historic or current Belarusian operations, such as former IT outsourcing teams relocated to Poland, Lithuania or Georgia, testing ownership, sanctions history and reputational exposure before a relationship is formed."
+    }
+  ],
+  "practical": [
+    {"label": "Official languages", "value": "Belarusian and Russian; Russian predominates in business"},
+    {"label": "Time zone", "value": "Europe/Minsk, UTC+3, no daylight saving"},
+    {"label": "Main business centre", "value": "Minsk"},
+    {"label": "Economic blocs", "value": "Eurasian Economic Union; Union State with Russia"},
+    {"label": "US sanctions framework", "value": "Belarus Sanctions Regulations, 31 CFR Part 548; Directive 1 rescinded March 2026"},
+    {"label": "EU and UK position", "value": "Belaruskali, BPC and several banks remain listed as of April 2026"},
+    {"label": "Data transfer rule", "value": "Adequacy for Convention 108 parties and EAEU members; otherwise consent or NPDPC permit"}
+  ],
+  "tdsc_approach": "Every matter touching Belarus is screened for sanctions compliance before scoping, because TDSC, as a US company, does not accept engagements that would violate US or other applicable sanctions. That review covers the client, the subject, the purpose and any payment flow, and it tests the separate US, EU and UK positions, which diverged after the March 2026 US delistings. Accepted work is generally limited to lawful due diligence and risk advisory for clients outside Belarus, using sanctions lists, foreign registries, court records, trade data and published reporting. TDSC does not commission fieldwork, interviews or record retrieval inside Belarus, and it does not suggest structures for avoiding restrictions. Where a matter needs a legal view, the client's own sanctions counsel is involved from the outset.",
+  "faqs": [
+    {
+      "q": "Can TDSC carry out investigations inside Belarus?",
+      "a": "No. TDSC does not commission field enquiries, interviews, surveillance or record retrieval in Belarus. The legal and security environment makes such work high risk for anyone involved, and sanctions add a further layer. Engagements are limited to sanctions-screened desk research from lawful sources outside the country, such as foreign registries, sanctions lists, court records and trade data, for clients located outside Belarus."
+    },
+    {
+      "q": "The US delisted Belaruskali. Can we now trade Belarusian potash freely?",
+      "a": "Not necessarily. OFAC removed Belaruskali, the Belarusian Potash Company and Agrorozkvit from the SDN List in March 2026, but the EU and UK still listed Belaruskali and BPC as of April 2026, and other Belarusian persons remain blocked under US rules. Any transaction should be reviewed by sanctions counsel against every regime that applies to the parties, banks and shipping route."
+    },
+    {
+      "q": "How does the 2021 personal data law affect research on Belarusian individuals?",
+      "a": "The Law on Personal Data Protection requires a legal basis for processing and restricts transfers out of Belarus to countries without adequate protection. TDSC does not collect personal data inside Belarus or from Belarusian operators. Research on individuals relies on published information and records held outside the country, handled under the data protection rules of the client's and TDSC's own jurisdictions."
+    },
+    {
+      "q": "What can be verified about a Belarusian company from outside the country?",
+      "a": "Basic registration details may be available from the state register, though access from abroad can be inconsistent. More reliable evidence usually comes from sanctions designations and their published ownership notes, registries of holding companies in other jurisdictions, customs and shipping data, foreign court filings and reputable reporting. Findings are presented with their sources and with clear statements of what could not be verified."
+    },
+    {
+      "q": "Will TDSC help structure a deal to avoid Belarus sanctions?",
+      "a": "No. TDSC does not advise on or suggest ways around US, EU, UK or other sanctions and does not accept engagements that would breach them. Its role is to establish facts lawfully, such as ownership, control and links to listed persons, so that the client and its counsel can make compliant decisions. Legal interpretation of licences and prohibitions remains with qualified sanctions counsel."
+    }
+  ],
+  "sources": [
+    {"title": "OFAC lifts Belarus sovereign debt ban, eases sanctions on Belarusian potash sector (Cleary Trade Watch, April 2026)", "url": "https://www.clearytradewatch.com/2026/04/ofac-lifts-belarus-sovereign-debt-ban-eases-sanctions-on-belarusian-potash-sector/"},
+    {"title": "Federal Register notice on Belarus sanctions, 2 March 2026 (GovInfo)", "url": "https://www.govinfo.gov/content/pkg/FR-2026-03-02/pdf/2026-04092.pdf"},
+    {"title": "OFAC issues general license to ease US sanctions against Belarusian potash companies (Baker McKenzie Sanctions News)", "url": "https://sanctionsnews.bakermckenzie.com/ofac-issues-general-license-to-ease-us-sanctions-against-belarusian-potash-companies/"},
+    {"title": "Treasury authorizes transactions with Belarusian potash companies (Crowell & Moring Trade Law)", "url": "https://www.cmtradelaw.com/2025/12/treasury-authorizes-transactions-with-belarusian-potash-companies/"},
+    {"title": "Data Protection in Belarus (DLA Piper Data Protection Laws of the World)", "url": "https://www.dlapiperdataprotection.com/index.html?t=law&c=BY"},
+    {"title": "Belarus: Law of 7 May 2021 No. 99-Z on Personal Data Protection (DataGuidance)", "url": "https://dataguidance.com/jurisdictions/belarus"},
+    {"title": "Data Protection and Employee Privacy in Belarus (GRATA International)", "url": "https://gratanet.com/publications/data-protection-and-employee-privacy-in-belarus"}
+  ],
+  "review_flags": [
+    "Sanctions status changes quickly: US delistings of Belaruskali, BPC and Agrorozkvit, rescission of Directive 1 and GL 14 (all 26 March 2026) per Cleary; EU/UK listings stated as of April 2026. Re-check before publishing.",
+    "Population not verified: no World Bank or Belstat result appeared within the two-search budget; field left blank and must be filled before publishing.",
+    "Not verified from sources this pass: private detective licensing regime (if any), Unified State Register name and public access scope, beneficial ownership register, anti-corruption and AML law names, Supreme Court/economic court merger (2014), International Arbitration Court at BelCCI. Copy is written cautiously; confirm with local counsel or official sources.",
+    "DLA Piper notes draft amendments to the data protection law were expected to reach the Council of Ministers in August 2026."
+  ],
+  "researched": "2026-11-04"
+}

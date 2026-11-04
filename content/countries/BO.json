@@ -1,0 +1,147 @@
+{
+  "cc": "BO",
+  "name": "Bolivia",
+  "meta_description": "TDSC investigative consulting on Bolivia: SEPREC company records, beneficial ownership, Law 004 corruption risk and counterparty checks in mining and lithium.",
+  "eyebrow": "Plurinational State of Bolivia",
+  "hero_lede": "Matters touching Bolivia often involve mining cooperatives, hydrocarbons and lithium ventures, agribusiness in Santa Cruz and state-linked contracting. TDSC scopes counterparty research, integrity due diligence and asset inquiries from Nashville, coordinating qualified Bolivian professionals and counsel where work in the country is required.",
+  "intro": [
+    "Bolivia is a civil-law state organised under its 2009 Constitution, which created the Plurinational State and gave formal standing to indigenous languages, institutions and forms of justice. Commercial registration passed in 2021 from the private concessionaire FUNDEMPRESA to the state-run Servicio Plurinacional de Registro de Comercio (SEPREC), and companies have since been required to report their final beneficiaries to it. Bolivia has no comprehensive data protection statute, but the Constitution recognises a right to informational self-determination and an action to protect privacy. For investigators, the practical environment is defined by records that are partly digitised, regional differences between La Paz, Cochabamba and Santa Cruz, and a strong role for personal networks in business.",
+    "Organisations commission work involving Bolivia because of its natural gas, mining and lithium resources, and because Santa Cruz de la Sierra is one of South America's most active agribusiness centres, built on soy, cattle and related trade. Mining includes large silver, zinc and tin operations alongside cooperatives, including in gold. Lithium development in the salt flats of the Altiplano has drawn foreign technology partners into state-led projects. Typical exposures include partner and intermediary vetting for extractive projects, the origin of gold and other minerals, public contracting with state enterprises, cross-border trade with Brazil, Argentina, Chile and Peru, and recovery of funds from failed commercial relationships."
+  ],
+  "population": {
+    "value": "about 11.3 million (2024 census, as reported)",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Bolivia has a civil-law system rooted in codified law, with the 2009 Constitution at its apex and civil, commercial and criminal codes beneath it. The ordinary jurisdiction is headed by the Tribunal Supremo de Justicia in Sucre, the constitutional capital, with departmental courts of justice hearing appeals; the Tribunal Constitucional Plurinacional decides constitutional matters. The Constitution also recognises indigenous original campesino jurisdiction. Commercial disputes are heard by the ordinary courts, and arbitration and conciliation are available through chamber-of-commerce centres in the main cities.",
+  "data_protection": {
+    "law": "No comprehensive data protection law (as of 2025); Political Constitution of 2009 (privacy and the action for protection of privacy, Article 130), Law No. 164 and Supreme Decree No. 1793 (2013) for ICT and telecommunications, and sectoral financial rules",
+    "regulator": "No dedicated data protection authority; sector supervisors such as the Telecommunications and Transport Regulatory Authority (ATT) and the financial supervisor ASFI",
+    "summary": "Bolivia has not enacted a general data protection statute; draft bills have been pending before the Legislative Assembly since at least 2021. The Constitution protects privacy, honour and image and lets individuals challenge unlawful processing of their data in public or private files through the action for protection of privacy. In the ICT sector, Law 164 and Supreme Decree 1793 require prior, express and informed consent for processing and, typically, for transfers. Financial institutions keep strict confidentiality and consent records. Because rules are fragmented and the constitutional action is available against private holders of data, investigative work involving Bolivian individuals should be narrowly scoped and reviewed with Bolivian counsel."
+  },
+  "investigator_regulation": "We have not identified, from sources verified for this page, a dedicated statutory licensing regime for private investigators in Bolivia, and the position should be confirmed with Bolivian counsel before any local inquiry. Several limits are clear regardless. Investigators have no official powers. Banking information is confidential and supervised by ASFI, telecommunications data is protected under Law 164 and its regulations, and police, migration and tax records are not open to private inquiry. Unauthorised access to computer data is a criminal offence. Covert recording, surveillance or interviews that intrude on privacy can expose both the investigator and the client to constitutional and criminal claims.",
+  "corporate_records": "Companies and individual traders are registered with the Servicio Plurinacional de Registro de Comercio (SEPREC), created by Supreme Decree 4644 in 2021 to take over the registry previously operated by FUNDEMPRESA. Online searches return a company's name, registration number (matrícula) and legal form, while certified extracts, incorporation deeds and changes to capital or officers are generally obtained by formal request. Under Supreme Decree 5200 of August 2024, registered companies must report their final beneficiaries to SEPREC; this information does not appear to be publicly searchable. Financial statements are not generally public. Real property and court records are held locally and usually require in-person retrieval.",
+  "anti_corruption": "The principal statute is Law No. 004 of 31 March 2010, the Marcelo Quiroga Santa Cruz Law on the fight against corruption, illicit enrichment and investigation of fortunes, which also criminalises foreign bribery. Law No. 1390 of August 2021 introduced criminal liability for legal entities, with sanctions up to loss of corporate existence. Prosecutions are led by the Public Prosecutor's Office. AML rules are issued by supreme decree, including Supreme Decree 4904 of 2023, with the financial intelligence unit (UIF) receiving reports.",
+  "matters": [
+    {
+      "title": "Mining partner and mineral origin",
+      "text": "Research into mining companies, cooperatives and mineral traders, their ownership and political connections, and the documentary trail for gold, silver and other minerals, for buyers, refiners and investors who must show that material sourced from Bolivia was lawfully produced, traded and exported."
+    },
+    {
+      "title": "Lithium and energy project vetting",
+      "text": "Background research on local partners, consultants and intermediaries around lithium, natural gas and power projects involving Bolivian state enterprises, examining ownership, prior contracts, litigation and relationships with officials before agreements are signed or technology and capital are committed."
+    },
+    {
+      "title": "Santa Cruz agribusiness counterparties",
+      "text": "Verification of soy, cattle and grain traders, landholders and processors in the eastern lowlands around Santa Cruz, covering corporate identity, trading history, land and credit disputes, for buyers, lenders and input suppliers extending credit or prepayment to Bolivian companies."
+    },
+    {
+      "title": "Public contracting and agent integrity",
+      "text": "Integrity due diligence on agents, consultants and contractors engaged on tenders with ministries, municipalities or state enterprises, mapping beneficial ownership, family links and conflicts of interest relevant to Law 004, Law 1390 and the foreign anti-bribery laws that bind the client."
+    },
+    {
+      "title": "Asset research and recovery support",
+      "text": "Identification of companies, real property indicators, vehicles and business interests linked to a Bolivian debtor or former partner, coordinated with Bolivian counsel so that any enforcement or precautionary measures proceed through lawful court channels in the relevant department."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Spanish; Quechua, Aymara and Guarani widely spoken"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/La_Paz, UTC-4, no daylight saving time"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; some offices open Saturday mornings"
+    },
+    {
+      "label": "Courts language",
+      "value": "Spanish"
+    },
+    {
+      "label": "Currency",
+      "value": "Boliviano (BOB)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Santa Cruz de la Sierra, La Paz, El Alto, Cochabamba"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Notarised deeds and certified registry extracts are standard; foreign documents usually need legalisation and sworn Spanish translation"
+    },
+    {
+      "label": "Business culture",
+      "value": "Formal and relationship-driven; regional differences between the highlands and Santa Cruz are significant"
+    }
+  ],
+  "tdsc_approach": "TDSC begins each Bolivia matter by defining the question, the parties and the intended use of findings, including whether they may be used before Bolivian courts or in foreign proceedings. Desk research uses SEPREC records, the official gazette, court reporting, procurement notices and Spanish-language press in La Paz, Cochabamba and Santa Cruz. Because Bolivia lacks a general data protection law but recognises a constitutional privacy action, personal data is limited to what the matter requires and handled under the client's home-jurisdiction standard. Where certified extracts, property or court searches, or discreet field inquiries are needed, TDSC coordinates qualified Bolivian professionals and works alongside the client's Bolivian counsel. TDSC does not seek bank, telecommunications, migration or police data through informal channels.",
+  "faqs": [
+    {
+      "q": "Can we see who owns a Bolivian company?",
+      "a": "Partly. SEPREC records identify a company and its registration, and certified extracts and deeds can show partners or shareholders at incorporation and later changes. Since Supreme Decree 5200 of 2024, companies report final beneficiaries to SEPREC, but that information does not appear to be public. Ownership is therefore tested against deeds, press, litigation and local inquiry."
+    },
+    {
+      "q": "Is there a data protection authority in Bolivia?",
+      "a": "No. As of 2025 Bolivia had no comprehensive data protection law and no dedicated authority. Privacy is protected by the 2009 Constitution, including the action for protection of privacy, and by sector rules such as Law 164 and Supreme Decree 1793 for ICT services. Drafts have been pending in the Legislative Assembly, so the position should be checked at the outset."
+    },
+    {
+      "q": "What should a buyer check before sourcing gold from Bolivia?",
+      "a": "Common steps include confirming the seller's registration and mining rights, the identity and ownership of cooperatives or traders in the chain, export documentation, and any links to unauthorised areas or adverse reporting. Desk research is combined, where needed, with inquiries by qualified local professionals and review by Bolivian counsel."
+    },
+    {
+      "q": "Do Bolivian anti-corruption laws apply to companies?",
+      "a": "Yes. Law No. 1390 of 2021 introduced criminal liability for legal entities, with sanctions that include fines, suspension of state benefits and loss of corporate existence. It sits alongside Law No. 004 of 2010, which criminalises domestic and foreign bribery. Clients working with Bolivian agents or state enterprises should assess third-party risk accordingly."
+    },
+    {
+      "q": "How long do registry and court searches take in Bolivia?",
+      "a": "Online SEPREC searches give quick confirmation of basic identity, but certified extracts, notarial deeds, property records and court files are often held by departmental offices and may require in-person requests in La Paz, Cochabamba or Santa Cruz. Timeframes vary by office, so they are agreed when an engagement is scoped."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Bolivia",
+      "url": "https://www.dlapiperdataprotection.com/?c=BO&t=law"
+    },
+    {
+      "title": "Lex Mundi Global Data Privacy Guide: Bolivia",
+      "url": "https://www.lexmundi.com/guides/data-privacy-guide/jurisdictions/latin-america/bolivia/"
+    },
+    {
+      "title": "Lex Mundi Global Anti-Corruption Compliance Guide: Bolivia",
+      "url": "https://www.lexmundi.com/guides/anti-corruption-compliance-guide/jurisdictions/latin-america/bolivia/"
+    },
+    {
+      "title": "Ley No. 004 de 31 de marzo de 2010 (Lexivox)",
+      "url": "https://www.lexivox.org/norms/BO-L-N4.html"
+    },
+    {
+      "title": "Bolivia company search guide (SEPREC)",
+      "url": "https://businessdataguide.com/blog/jurisdictions/bolivia-company-search-guide"
+    },
+    {
+      "title": "Orbitax: Bolivia introduces final beneficiary reporting (Supreme Decree 5200)",
+      "url": "https://wpqa.orbitax.com/taxhub/news/country/article/Bolivia-Introduces-New-Final-B-56465"
+    },
+    {
+      "title": "Topograph: Bolivia registry coverage",
+      "url": "https://www.topograph.co/countries/bo.md"
+    },
+    {
+      "title": "Instituto Nacional de Estadística (INE) Bolivia",
+      "url": "https://www.ine.gob.bo/"
+    }
+  ],
+  "review_flags": [
+    "Population NOT verified in this session: no World Bank or INE result appeared within the search budget. Value (about 11.3 million, 2024 census) is from general knowledge and the INE homepage URL is cited unfetched. Verify against INE/World Bank before publishing.",
+    "Private investigator licensing in Bolivia not verified; text says so.",
+    "Legal system paragraph (court structure, Tribunal Supremo in Sucre, indigenous jurisdiction, chamber arbitration centres) and the UIF as AML body are from general knowledge, not a source fetched this session.",
+    "Data protection draft bills (e.g., No. 349/2020-2021) were pending as of July 2025; a new law may have passed. Lex Mundi is inconsistent on whether ATT enforces Law 164.",
+    "Whether SEPREC beneficial ownership data is public is unconfirmed (no public access found).",
+    "Law 164 enactment year (2011) deliberately omitted because not confirmed by a source."
+  ],
+  "researched": "2026-11-04"
+}

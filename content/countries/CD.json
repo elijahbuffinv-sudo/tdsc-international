@@ -8,48 +8,130 @@
     "The Democratic Republic of the Congo is a vast, French-speaking country whose economy is dominated by mining, particularly copper and cobalt in the former Katanga region and gold, tin, tantalum and tungsten in the east. It is a member of OHADA, the regional business law harmonisation organisation, so company law follows the OHADA Uniform Acts. Public records exist but are uneven in coverage and accessibility, much information is held on paper, and verification often requires in-person enquiries. Security conditions in parts of the eastern provinces affected by armed conflict add a further constraint on what can be done safely and lawfully.",
     "Organisations commission work involving the DRC because of its importance to global supply chains for battery metals and conflict-affected minerals. Mining companies, traders, refiners, battery and electronics manufacturers and their financiers need to understand who owns concessions and trading houses, whether partners are politically exposed, and whether minerals may be linked to armed groups or child labour. Infrastructure, telecommunications and development finance projects raise similar questions. Typical exposures include undisclosed beneficial owners, intermediaries with political connections, disputed mining rights, and allegations of corruption in licensing and procurement."
   ],
-  "population": {"value": "109.3 million", "year": "2024", "source_url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CD"},
-  "legal_system": "The DRC has a civil law system derived from Belgian law. As an OHADA member, its company, commercial and arbitration law follows the OHADA Uniform Acts, and the Common Court of Justice and Arbitration (CCJA) in Abidjan sits at the apex for questions of OHADA law. Commercial disputes are heard by commercial courts (tribunaux de commerce) in major cities, with appeals to the courts of appeal and, for national law, the Court of Cassation. Mining rights are governed by the Mining Code, revised in 2018. Court records and judgments are not systematically published.",
+  "population": {
+    "value": "109.3 million",
+    "year": "2024",
+    "source_url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CD"
+  },
+  "legal_system": "The DRC has a civil law system derived from Belgian law. It joined OHADA in July 2012, so its company, commercial, accounting and arbitration law follows the OHADA Uniform Acts, with Congolese law applying where they are silent, and the Common Court of Justice and Arbitration (CCJA) in Abidjan sits at the apex for questions of OHADA law. Commercial disputes are heard by commercial courts (tribunaux de commerce) in major cities. Mining rights are governed by the Mining Code, Law 007/2002 as amended by Law 18/001 of 9 March 2018, and its 2018 implementing regulation. Judgments are not systematically published.",
   "data_protection": {
-    "law": "Not verified for this page; see review notes",
-    "regulator": "Not verified for this page",
-    "summary": "We have not verified, from a source opened during this research, the current state of personal data protection legislation in the DRC or the identity of any supervisory authority. Until this is confirmed with Congolese counsel, TDSC treats personal data gathered in DRC matters under the strictest of the client's home-jurisdiction rules and international good practice: a documented legitimate purpose, minimisation, secure storage and controlled onward transfer. Particular care is taken with information about individuals in conflict-affected areas, where disclosure may expose sources or subjects to physical risk."
+    "law": "Digital Code (Law No. 23/010 of 13 March 2023 establishing the Digital Code)",
+    "regulator": "Autorité de Protection des Données (APD), not yet established as of 2026; functions provisionally assigned to the post and telecommunications regulator (ARPTC) by a contested 2024 ministerial decree",
+    "summary": "The Digital Code, published in April 2023, contains the DRC's first comprehensive personal data rules. Processing generally requires prior, explicit and provable consent; sensitive data is prohibited subject to exceptions; and transfers abroad are permitted only to countries or organisations offering protection at least equivalent to the Code. Declaration and authorisation regimes exist on paper, but the APD has not been created, so they are not applied in practice and enforcement is untested. TDSC nonetheless documents a purpose and consent position for each matter and takes particular care with information about individuals in conflict-affected areas."
   },
   "investigator_regulation": "We have not identified, from a source opened during this research, a dedicated licensing regime for private investigators in the DRC. Engagements are scoped with Congolese counsel to determine what activity is lawful and whether any authorisation is required. Any field work is undertaken only by vetted local professionals with appropriate standing, subject to a security assessment, and without impersonation, inducements to officials or access to restricted state records. In eastern provinces affected by conflict, field enquiries may be limited or not undertaken at all.",
-  "corporate_records": "Companies are registered in the Trade and Movable Property Credit Register (RCCM) established under OHADA law, maintained at commercial court registries. Extracts may show company name, legal form, registered office, managers and capital, but coverage, accuracy and remote accessibility are uneven, and in-person retrieval is often required. Mining titles are recorded by the Mining Cadastre (CAMI), and the DRC participates in the Extractive Industries Transparency Initiative, whose reports have included beneficial ownership disclosures for extractive companies. These sources should be verified against each other.",
-  "anti_corruption": "Corruption offences are set out in the Congolese Penal Code. Anti-money laundering is addressed through national legislation and a financial intelligence unit, CENAREF. The specific laws, years and current enforcement bodies have not been verified for this page and are being confirmed. International clients typically assess DRC risk against their own frameworks, such as the US Foreign Corrupt Practices Act and the UK Bribery Act.",
+  "corporate_records": "Companies are registered in the Trade and Movable Property Credit Register (RCCM) established under OHADA law, maintained at commercial court registries. Extracts may show company name, legal form, registered office, managers and capital, but coverage, accuracy and remote accessibility are uneven, and in-person retrieval is often required. Mining titles are recorded by the Mining Cadastre (CAMI), a public body that registers applications, grants and transfers. The DRC published beneficial owners of extractive companies through EITI from 2015, and the Ministry of Mines lists beneficial owners, but EITI's 2022 validation rated beneficial ownership only partly met.",
+  "anti_corruption": "Corruption offences are set out in the Congolese Penal Code. Anti-money laundering is addressed through national legislation and a financial intelligence unit, CENAREF. The specific laws, years and current enforcement bodies have not been verified for this page. International clients typically assess DRC risk against their own frameworks, such as the US Foreign Corrupt Practices Act and the UK Bribery Act, and against EITI and OECD mineral supply chain expectations.",
   "matters": [
-    {"title": "Mining concession ownership", "text": "Establishing who holds and ultimately controls copper, cobalt or gold permits in Lualaba, Haut-Katanga or the eastern provinces, cross-checking cadastre information, RCCM extracts, transparency reports and foreign holding company filings."},
-    {"title": "Minerals supply chain integrity", "text": "Due diligence on traders, comptoirs, processors and exporters supplying refiners and manufacturers, assessing links to armed groups, artisanal sites with child labour risk, and politically exposed persons, in line with OECD due diligence guidance expectations."},
-    {"title": "Intermediary and agent vetting", "text": "Background research on consultants, agents and local partners proposed for licensing, customs or procurement matters, testing political connections, prior allegations and the commercial rationale for fees before engagement."},
-    {"title": "Project and lender due diligence", "text": "Integrity and reputational assessments for development finance institutions, lenders and investors in infrastructure, energy and telecommunications projects, focusing on sponsors, contractors and land or concession disputes."},
-    {"title": "Fraud and asset misappropriation", "text": "Fact-finding into diversion of goods, inflated invoicing and payroll fraud at local operations, combined with tracing of proceeds through regional banks and companies in neighbouring countries, coordinated with Congolese counsel."}
+    {
+      "title": "Mining concession ownership",
+      "text": "Establishing who holds and ultimately controls copper, cobalt or gold permits in Lualaba, Haut-Katanga or the eastern provinces, cross-checking cadastre information, RCCM extracts, transparency reports and foreign holding company filings."
+    },
+    {
+      "title": "Minerals supply chain integrity",
+      "text": "Due diligence on traders, comptoirs, processors and exporters supplying refiners and manufacturers, assessing links to armed groups, artisanal sites with child labour risk, and politically exposed persons, in line with OECD due diligence guidance expectations."
+    },
+    {
+      "title": "Intermediary and agent vetting",
+      "text": "Background research on consultants, agents and local partners proposed for licensing, customs or procurement matters, testing political connections, prior allegations and the commercial rationale for fees before engagement."
+    },
+    {
+      "title": "Project and lender due diligence",
+      "text": "Integrity and reputational assessments for development finance institutions, lenders and investors in infrastructure, energy and telecommunications projects, focusing on sponsors, contractors and land or concession disputes."
+    },
+    {
+      "title": "Fraud and asset misappropriation",
+      "text": "Fact-finding into diversion of goods, inflated invoicing and payroll fraud at local operations, combined with tracing of proceeds through regional banks and companies in neighbouring countries, coordinated with Congolese counsel."
+    }
   ],
   "practical": [
-    {"label": "Official language", "value": "French; Lingala, Swahili, Kikongo and Tshiluba widely spoken"},
-    {"label": "Time zones", "value": "Africa/Kinshasa UTC+1 (west); Africa/Lubumbashi UTC+2 (east)"},
-    {"label": "Currency", "value": "Congolese franc (CDF); US dollar widely used"},
-    {"label": "Main business centres", "value": "Kinshasa, Lubumbashi, Kolwezi, Goma"},
-    {"label": "Regional business law", "value": "OHADA Uniform Acts"},
-    {"label": "Records", "value": "Largely paper-based; in-person retrieval often needed"},
-    {"label": "Security", "value": "Varies sharply by province; assess before any field work"}
+    {
+      "label": "Official language",
+      "value": "French; Lingala, Swahili, Kikongo and Tshiluba widely spoken"
+    },
+    {
+      "label": "Time zones",
+      "value": "Africa/Kinshasa UTC+1 (west); Africa/Lubumbashi UTC+2 (east)"
+    },
+    {
+      "label": "Currency",
+      "value": "Congolese franc (CDF); US dollar widely used"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Kinshasa, Lubumbashi, Kolwezi, Goma"
+    },
+    {
+      "label": "Regional business law",
+      "value": "OHADA Uniform Acts"
+    },
+    {
+      "label": "Records",
+      "value": "Largely paper-based; in-person retrieval often needed"
+    },
+    {
+      "label": "Security",
+      "value": "Varies sharply by province; assess before any field work"
+    }
   ],
   "tdsc_approach": "TDSC scopes DRC matters from Nashville beginning with a legal and security review: which provinces are involved, what information is realistically available, and what Congolese law permits. Desk research draws on international and regional corporate registries, transparency initiative reports, UN and NGO reporting, sanctions lists, court records abroad and French-language media. Where records or enquiries must be obtained in the DRC, TDSC coordinates vetted local professionals and Congolese counsel, with no payments to officials, no pretexting and no access to restricted records. Source protection and personal safety are treated as part of data handling, and findings are presented with clear confidence levels given the uneven quality of records.",
   "faqs": [
-    {"q": "Can company ownership be verified in the DRC?", "a": "Partly. Companies are registered in the OHADA-based RCCM at commercial court registries, but records are uneven and often require in-person retrieval. Ownership research usually combines RCCM extracts with mining cadastre data, transparency reports, foreign holding company filings and media, and findings are expressed with an assessed level of confidence."},
-    {"q": "Why do minerals buyers commission DRC due diligence?", "a": "Refiners, manufacturers and their customers face legal and reputational exposure if minerals are linked to armed groups, child labour or corruption. Due diligence on suppliers, traders and exporters helps them assess these risks in line with international expectations, such as the OECD guidance for responsible mineral supply chains."},
-    {"q": "Does TDSC carry out field work in eastern DRC?", "a": "Only where it can be done lawfully and safely, and only through vetted local professionals. Security conditions in parts of the eastern provinces can make field enquiries impractical or dangerous, in which case work relies on remote sources and existing reporting. Safety of sources, subjects and researchers takes priority over any single line of enquiry."},
-    {"q": "Does OHADA law apply in the DRC?", "a": "Yes. The DRC is a member of OHADA, so company and commercial law follow the OHADA Uniform Acts, and the Common Court of Justice and Arbitration in Abidjan rules on questions of OHADA law. Sector-specific matters, such as mining rights, are governed by national legislation including the Mining Code."},
-    {"q": "How are politically exposed persons identified in DRC matters?", "a": "Through careful cross-referencing of corporate records, mining titles, published government appointments, media and reports by international bodies and NGOs. Family and business associates are often relevant. Findings are reviewed with Congolese counsel where they may bear on legal risk, and conclusions distinguish verified facts from allegations."}
+    {
+      "q": "Can company ownership be verified in the DRC?",
+      "a": "Partly. Companies are registered in the OHADA-based RCCM at commercial court registries, but records are uneven and often require in-person retrieval. Ownership research usually combines RCCM extracts with mining cadastre data, transparency reports, foreign holding company filings and media, and findings are expressed with an assessed level of confidence."
+    },
+    {
+      "q": "Why do minerals buyers commission DRC due diligence?",
+      "a": "Refiners, manufacturers and their customers face legal and reputational exposure if minerals are linked to armed groups, child labour or corruption. Due diligence on suppliers, traders and exporters helps them assess these risks in line with international expectations, such as the OECD guidance for responsible mineral supply chains."
+    },
+    {
+      "q": "Does TDSC carry out field work in eastern DRC?",
+      "a": "Only where it can be done lawfully and safely, and only through vetted local professionals. Security conditions in parts of the eastern provinces can make field enquiries impractical or dangerous, in which case work relies on remote sources and existing reporting. Safety of sources, subjects and researchers takes priority over any single line of enquiry."
+    },
+    {
+      "q": "Does OHADA law apply in the DRC?",
+      "a": "Yes. The DRC joined OHADA in 2012, so company and commercial law follow the OHADA Uniform Acts, and the Common Court of Justice and Arbitration in Abidjan rules on questions of OHADA law. Sector-specific matters, such as mining rights, are governed by national legislation, notably the 2002 Mining Code as substantially revised in 2018."
+    },
+    {
+      "q": "How are politically exposed persons identified in DRC matters?",
+      "a": "Through careful cross-referencing of corporate records, mining titles, published government appointments, media and reports by international bodies and NGOs. Family and business associates are often relevant. Findings are reviewed with Congolese counsel where they may bear on legal risk, and conclusions distinguish verified facts from allegations."
+    }
   ],
   "sources": [
-    {"title": "World Bank population data: Democratic Republic of the Congo", "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CD"}
+    {
+      "title": "World Bank population data: Democratic Republic of the Congo",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CD"
+    },
+    {
+      "title": "DLA Piper Data Protection Laws of the World - Democratic Republic of the Congo",
+      "url": "https://www.dlapiperdataprotection.com/?c=CD&t=law"
+    },
+    {
+      "title": "droitnumerique.cd - Illegality of the ARPTC decision (2026)",
+      "url": "https://droitnumerique.cd/wp-content/uploads/2026/05/Illegalite-de-la-decision-de-lARPTC-Brozeck-Kandolo-1.pdf"
+    },
+    {
+      "title": "Mondaq - Mining comparative guide (DRC legal and regulatory framework)",
+      "url": "https://www.mondaq.com:443/energy/1321368/mining-comparative-guide"
+    },
+    {
+      "title": "EITI - Validation of the DRC (2022), final validation report",
+      "url": "https://api.eiti.org/sites/default/files/2022-10/EITI%20Validation%20of%20DRC%20%282022%29%20-%20Final%20Validation%20Report_clean%20%28EN%29.pdf"
+    },
+    {
+      "title": "EITI - DR Congo leads the way in disclosing owners of companies",
+      "url": "https://eiti.org/es/node/18315"
+    },
+    {
+      "title": "Natural Resource Governance Institute - Shedding light on the real owners of the DRC mining sector",
+      "url": "https://resourcegovernance.org/articles/shedding-light-real-owners-drc-mining-sector"
+    }
   ],
   "review_flags": [
-    "SEVERELY UNDER-SOURCED: web search budget (shared 200/turn) and hourly fetch quota were exhausted before DRC research began. Only population is sourced. All other content is from general knowledge and must be verified before publishing; add 5-12 sources.",
-    "Data protection law and regulator not verified (DRC is believed to have adopted a Digital Code in 2023 with data protection provisions); fields left as 'Not verified'.",
-    "Unverified: OHADA membership (believed 2012), Belgian civil law origin, tribunaux de commerce, Mining Code 2018 revision, CAMI, EITI beneficial ownership disclosures, CENAREF, time zones.",
-    "Private investigator regulation not researched."
+    "DATA PROTECTION now sourced (DLA Piper): Digital Code Law 23/010 of 13 March 2023; APD not yet created; 2024 ministerial decree gave its tasks provisionally to the telecoms regulator, legality contested. Regulator acronym given as ARPTC per droitnumerique.cd; DLA Piper rendering differs (ARPTIC) - confirm.",
+    "VERIFIED: OHADA membership July 2012; Mining Code 007/2002 amended by Law 18/001 (9 Mar 2018) and Decree 18/24; Mining Cadastre (CAMI); EITI BO disclosures from 2015 and 2022 validation rating BO 'partly met' (30/100), BO decree pending at that time.",
+    "Still unverified: Belgian civil law origin, tribunaux de commerce and court hierarchy, RCCM details, CENAREF and AML/anti-corruption laws (anti_corruption paragraph remains thin), time zones, absence of PI licensing.",
+    "NRGI article listed from search results only, not opened."
   ],
   "researched": "2026-11-04"
 }

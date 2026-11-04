@@ -1,0 +1,98 @@
+{
+  "cc": "AM",
+  "name": "Armenia",
+  "meta_description": "TDSC investigative consulting on Armenia: counterparty checks, beneficial ownership research and dispute support under Armenia's 2015 personal data law.",
+  "eyebrow": "Republic of Armenia",
+  "hero_lede": "Investigative consulting for matters touching Armenia draws on one of the region's more open beneficial ownership registers, a consent-centred 2015 personal data law with controlled transfers abroad, and careful scrutiny of trade flowing through Armenia to the Eurasian Economic Union, coordinated with Armenian counsel.",
+  "intro": [
+    "Armenia is a small, open economy whose legal and registry infrastructure is run largely through the Ministry of Justice. The State Register of Legal Entities holds company records and, since 2021, has published beneficial ownership information that covers virtually all legal entities as of 2023, about 120,000 of them according to the EITI. That is a meaningful advantage for investigators compared with many neighbours, although the free tier of the register shows only basic details and access is limited to Armenian IP addresses. Personal data is governed by a 2015 law that leans heavily on consent and requires permission for transfers to countries not recognised as adequate, which shapes how research on individuals is conducted and shared.",
+    "Organisations commission investigative work involving Armenia for several reasons. Mining, led by copper and molybdenum, accounts for nearly 28 percent of exports according to the EITI, attracting investors who need clarity on licence holders and their owners. The technology sector has grown quickly, partly through firms and specialists relocating from Russia since 2022. Armenia's membership of the Eurasian Economic Union and its trade with Russia raise questions for exporters and banks about re-export of controlled goods. Diaspora investment, real estate in Yerevan and family-held businesses with informal ownership arrangements are further sources of due diligence and dispute work."
+  ],
+  "population": {
+    "value": "about 3.0 million",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Armenia has a civil law system built on codified legislation, including the Civil Code and the Criminal Code adopted as Law HO-199-N. Commercial disputes are heard in the ordinary courts: first-instance courts of general jurisdiction, the Civil Court of Appeal and the Court of Cassation, with a separate court handling insolvency matters. Arbitration is available and is commonly provided for in commercial contracts, including through the arbitration centre attached to the Chamber of Commerce and Industry of Armenia, while many cross-border contracts choose foreign seats. Proceedings are conducted in Armenian.",
+  "data_protection": {
+    "law": "Law of the Republic of Armenia on Protection of Personal Data (HO-49-N, adopted 18 May 2015, as amended)",
+    "regulator": "Personal Data Protection Agency, Ministry of Justice of the Republic of Armenia",
+    "summary": "The 2015 law treats processing as lawful where it complies with the law and the data subject consents, where a law directly permits it, or where data comes from publicly available sources. Special category data, covering matters such as health, political views, religion and ethnic origin, cannot be processed without consent unless a law expressly allows it, and biometric or special category processing requires prior notice to the Agency. Transfers abroad are allowed without permission only to countries offering adequate protection, including those on the Agency's list; other transfers need the Agency's approval of a safeguarded agreement, decided within 30 days. Transfers to the United States therefore need a documented basis."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators or detective agencies in Armenia, and we have not confirmed whether any draft law on private detective activity is in force. Operational and investigative measures such as covert surveillance and interception are reserved to state bodies, and the personal data law limits processing of information on individuals without consent or a legal basis. Engagements are therefore scoped with Armenian counsel, relying on public registers, court decisions, open sources in Armenian, Russian and English, and lawful interviews conducted by qualified local professionals.",
+  "corporate_records": "The State Register of Legal Entities, part of the Ministry of Justice and accessible through the e-register.am portal, records companies, their registration details and their beneficial owners. Beneficial ownership declarations are required from virtually all legal entities, with disclosure of natural persons holding more than 20 percent, or 10 percent in extractives, and annual confirmation. Names, citizenship and the date of becoming a beneficial owner are free to view; fuller ownership structures require a small fee, while ID details and addresses are available only to authorities. Access is limited to Armenian IP addresses, so searches are often run through local professionals.",
+  "anti_corruption": "Bribery and related offences are criminalised in the Criminal Code (Law HO-199-N), which also penalises failures in beneficial ownership disclosure. Preventive functions, including asset declarations of public officials, sit with the Corruption Prevention Commission, and corruption crimes are investigated by the Anti-Corruption Committee. Anti-money laundering obligations arise under the Law on Combating Money Laundering and Terrorism Financing, with the Financial Monitoring Center of the Central Bank of Armenia acting as the financial intelligence unit.",
+  "matters": [
+    {
+      "title": "Mining licence and ownership review",
+      "text": "Establishing who controls Armenian mining and exploration companies, using extractive-sector beneficial ownership disclosures, which apply a 10 percent threshold and cover politically exposed persons at any level, alongside court decisions, environmental disputes and media reporting on licence history and local community conflict."
+    },
+    {
+      "title": "Re-export and sanctions exposure",
+      "text": "Reviewing Armenian distributors, freight forwarders and trading companies that buy electronics, machinery or dual-use goods from Western suppliers, where exporters and banks need assurance that goods are not being diverted through Armenia's Eurasian Economic Union trade links to restricted end users."
+    },
+    {
+      "title": "Technology sector partners",
+      "text": "Background research on Armenian software and IT service companies, including teams relocated from Russia and Belarus since 2022, covering founders' prior ventures, ownership of the operating entity and its foreign parents, intellectual property arrangements and any adverse regulatory or litigation record."
+    },
+    {
+      "title": "Family business disputes",
+      "text": "Supporting counsel in shareholder and inheritance disputes involving Armenian family companies, where formal ownership in the register may differ from informal arrangements, by reconstructing ownership history, related-party dealings and asset transfers from registry filings, court records and lawful interviews."
+    },
+    {
+      "title": "Diaspora investment verification",
+      "text": "Assisting diaspora investors and their advisers in the United States, Europe and Russia who are committing funds to Yerevan real estate, hospitality or start-ups, by verifying the local partner's companies, beneficial owners, litigation history and reputation before funds move."
+    }
+  ],
+  "practical": [
+    {"label": "Business languages", "value": "Armenian; Russian widely used; English common in technology and finance"},
+    {"label": "Time zone", "value": "Asia/Yerevan, UTC+4 (no daylight saving)"},
+    {"label": "Working week", "value": "Monday to Friday"},
+    {"label": "Currency", "value": "Armenian dram (AMD)"},
+    {"label": "Main business centres", "value": "Yerevan, Gyumri, Vanadzor"},
+    {"label": "Courts language", "value": "Armenian; foreign documents need certified translation"},
+    {"label": "Key registry", "value": "State Register of Legal Entities, Ministry of Justice (e-register.am)"},
+    {"label": "Business culture", "value": "Family and diaspora networks matter; introductions carry weight"}
+  ],
+  "tdsc_approach": "Engagements touching Armenia are scoped from Nashville, starting with what the client needs to establish and which Armenian sources can lawfully answer it. The beneficial ownership register is usually the first step, but its free data is limited and access is restricted to Armenian IP addresses, so searches and certified extracts are obtained through qualified local professionals. Findings are tested against court decisions, procurement and media sources in Armenian, Russian and English. Because the 2015 personal data law restricts transfers abroad, research on individuals is minimised and any transfer of Armenian personal data to the United States is structured with Armenian counsel. Every matter is screened for sanctions and export-control exposure. TDSC does not use pretexting or seek restricted state records.",
+  "faqs": [
+    {
+      "q": "Can I see who owns an Armenian company?",
+      "a": "Usually, yes. Armenia publishes beneficial ownership information through the State Register of Legal Entities, and by 2023 the requirement covered virtually all legal entities. The free view shows names, citizenship and the date of becoming an owner; fuller structures require a fee. Access is limited to Armenian IP addresses, and declared information should still be tested against other sources."
+    },
+    {
+      "q": "Can Armenian personal data be sent to the United States?",
+      "a": "Only on a proper basis. Under the 2015 Law on Protection of Personal Data, transfers to countries without adequate protection need the data subject's consent or a necessity tied to the processing purpose, and permission from the Personal Data Protection Agency for a safeguarded agreement. We minimise personal data collected and agree the transfer route with Armenian counsel before work starts."
+    },
+    {
+      "q": "Are private investigators licensed in Armenia?",
+      "a": "We have not identified a dedicated licensing law for private investigators in Armenia. Covert surveillance and interception are reserved to state bodies, and the personal data law limits processing of information about individuals. TDSC therefore works with Armenian counsel and qualified local professionals, relying on public records, court decisions, open sources and lawful interviews."
+    },
+    {
+      "q": "How do you assess re-export risk for Armenian buyers?",
+      "a": "We look at the buyer's ownership and directors, the age and scale of the business, its trading history and stated end users, connections to companies in Russia or other restricted destinations, and whether its import volumes are consistent with domestic demand. TDSC screens every matter and does not accept work that would breach US or other applicable sanctions."
+    },
+    {
+      "q": "Is beneficial ownership data in Armenia reliable?",
+      "a": "It is a strong starting point but not conclusive. Civil society reviews have noted outdated entries and access barriers, and nominee or informal arrangements may not be declared. We compare register entries with historical filings, court cases, media reporting and foreign registries where a shareholder is a foreign entity, and we flag inconsistencies for counsel."
+    }
+  ],
+  "sources": [
+    {"title": "Ministry of Justice of Armenia: Personal Data Protection Agency", "url": "https://moj.am/en/structures/view/structure/32"},
+    {"title": "Translation Centre (Ministry of Justice): Law on Protection of Personal Data HO-49-N, consolidated English translation", "url": "https://translation-centre.am/pdf/Translat/HH_orenk/2015/HO-49-N_18052015_14062023_en.pdf"},
+    {"title": "Clym: Law on Personal Data Protection of the Republic of Armenia", "url": "https://www.clym.io/regulations/law-on-personal-data-protection-of-the-republic-of-armenia"},
+    {"title": "Open Ownership: Beneficial ownership transparency in Armenia, the current regime and next steps", "url": "https://www.openownership.org/en/publications/beneficial-ownership-transparency-in-armenia-the-current-regime-and-next-steps/open-ownership-principles-in-armenia/"},
+    {"title": "Open Ownership: Upscaling the use of beneficial ownership data in Armenia", "url": "https://www.openownership.org/en/blog/upscaling-the-use-of-beneficial-ownership-data-in-armenia/"},
+    {"title": "EITI: Armenia beneficial ownership transparency progress (October 2024)", "url": "https://eiti.org/es/node/27569"},
+    {"title": "Armenian Lawyer: Ownership structure verification and beneficial owner disclosures", "url": "https://armenian-lawyer.com/business-immigration/ownership-structure-verification-navigating-armenias-corporate-registries-and-beneficial-owner-disclosures/"},
+    {"title": "Open Government Partnership Armenia: Publicly available register of real owners", "url": "https://ogp.gov.am/en/commitments/6"}
+  ],
+  "review_flags": [
+    "Population not sourced: no World Bank or Armstat result appeared within the search budget. Figure 'about 3.0 million' is from general knowledge; add a source URL before publishing.",
+    "Anti-corruption bodies and laws (Corruption Prevention Commission, Anti-Corruption Committee, Law on Combating Money Laundering and Terrorism Financing, Financial Monitoring Center) are from general knowledge and were not verified on official pages; only the Criminal Code (HO-199-N) was seen in a source.",
+    "No private investigator licensing regime identified; not confirmed with Armenian sources. Verify with local counsel.",
+    "Court structure (Civil Court of Appeal, Court of Cassation, separate insolvency court) and CCI arbitration centre are from general knowledge, not verified.",
+    "Data protection law in-force date: Clym gives full enforcement 1 July 2016 while the law's own transitional article references 2015 deadlines; confirm the exact commencement date. Also confirm whether amendments (e.g. a 72-hour breach notice cited by Clym) are in force."
+  ],
+  "researched": "2026-11-04"
+}

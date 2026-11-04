@@ -1,0 +1,99 @@
+{
+  "cc": "TJ",
+  "name": "Tajikistan",
+  "meta_description": "TDSC investigative consulting on Tajikistan: Tax Committee company records, mining and trade due diligence, sanctions diversion and asset tracing.",
+  "eyebrow": "Republic of Tajikistan",
+  "hero_lede": "Matters touching Tajikistan tend to involve mining, hydropower and construction, cross-border trade with Russia, China and Afghanistan, and remittance-linked finance. Investigative consulting here means working in Tajik and Russian, with a taxpayer register that shows little beyond basic particulars and no public record of who owns companies.",
+  "intro": [
+    "Tajikistan is a post-Soviet civil law republic whose constitution was adopted by referendum in 1994. Business is conducted in Tajik and Russian, and legal entities are registered by the Tax Committee under a single-window procedure set by the Law on State Registration of Legal Entities and Individual Entrepreneurs (No. 508, 2009). The Tax Committee publishes a unified taxpayer register online, but it shows only identification numbers, name, registration date and status. Founders' documents and beneficial owners are not public, and there is no public register of subsoil licence holders. Political and economic power is concentrated, courts are not seen as independent, and access to official records depends heavily on formal requests and local intermediaries.",
+    "The economy relies heavily on remittances from Tajiks working abroad, mostly in Russia, which have provided roughly 30 to 40 per cent of GDP, alongside agriculture, services and an extractive sector the government treats as a priority. Organisations commission investigative work involving Tajikistan when they invest in or finance mining, hydropower and construction projects, contract with local partners on Chinese- or multilateral-funded infrastructure, or trade goods through Central Asia. Proximity to Russia and Afghanistan makes sanctions and export-control diversion, transit trade and the integrity of intermediaries recurring concerns, and ownership of significant businesses is often opaque or connected to officials."
+  ],
+  "population": {
+    "value": "about 10.6 million (estimate)",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Tajikistan has a civil law system rooted in the Soviet and continental tradition, with the Civil Code and specialised statutes governing commercial relations. Commercial disputes between businesses are heard by economic courts in Dushanbe and the regions, while the Supreme Court sits at the apex of the court system. Courts and procedure operate in Tajik, with Russian widely used in commercial documents. Judicial independence is limited in practice. We have not identified a well-established domestic arbitration centre used for international disputes; cross-border contracts commonly provide for arbitration abroad.",
+  "data_protection": {
+    "law": "Law on Personal Data Protection, No. 1537 of 3 August 2018",
+    "regulator": "Communication Service under the Government (with the Main Department for the Protection of State Secrets responsible for enforcement and certification, per DLA Piper)",
+    "summary": "The 2018 law requires consent of the data subject or a legal representative for collection and processing, with exceptions for government functions and the protection of constitutional rights. It does not define a sensitive data category, though biometric data may be collected with consent. Databases need no prior notification, but information security facilities must be certified. Transfers abroad are allowed to countries with adequate protection, and otherwise with consent, under a recognised treaty or where necessary for public interests such as health or public order. Penalties include administrative fines, civil damages and, in serious cases, imprisonment of up to ten years. Investigative handling of Tajik personal data should therefore rest on clear consent or a narrowly documented purpose."
+  },
+  "investigator_regulation": "We have not identified a statute licensing private investigators or detective agencies in Tajikistan, nor a published register of licensed investigators; this should be confirmed with local counsel. Operational investigative activity, surveillance and access to communications are reserved to state bodies, and the Personal Data Protection Law, criminal law and state-secrets rules sharply limit private inquiry. Records held by the Tax Committee, banks, law enforcement and licensing authorities beyond what is published are not open to private parties. The security services take close interest in foreigners' inquiries, so any local step, including interviews, photography or approaches to officials, requires prior legal review.",
+  "corporate_records": "The Tax Committee under the Government registers legal entities and individual entrepreneurs on a single-window basis under Law No. 508 of 2009 and publishes a Unified State Register of taxpayers online, covering legal entities, branches of foreign organisations and individual entrepreneurs. The public register shows identification numbers, name, registration date and status, but not founders, directors, charters or beneficial owners. The AML law of 2011 requires financial institutions to identify beneficial owners, but that information is protected as official, commercial or banking secrecy. There is no public beneficial ownership register and no public register of subsoil users, so ownership work relies on other sources.",
+  "anti_corruption": "Tajikistan's anti-money laundering framework rests on the 2011 Law on counteraction to the legalisation (laundering) of criminal proceeds and terrorist financing (No. 684), with the Financial Monitoring Department under the National Bank acting as the financial intelligence unit; Tajikistan is a member of the Eurasian Group (EAG). Anti-corruption enforcement is led by the Agency for State Financial Control and Combating Corruption under the President. Concentrated political and economic power limits independent enforcement.",
+  "matters": [
+    {
+      "title": "Mining and subsoil partner diligence",
+      "text": "Identifying who stands behind holders of gold, silver, antimony and other subsoil rights and proposed local partners, in the absence of a public licence or ownership register. Work combines taxpayer records, foreign filings, litigation and discreet reputational inquiries in Tajik and Russian."
+    },
+    {
+      "title": "Sanctions and export-control diversion",
+      "text": "Assessing whether Tajik importers, distributors and logistics companies may be re-exporting controlled goods to Russia or elsewhere. Work traces ownership, trading patterns, shared addresses and connections to sanctioned parties to support compliance decisions by manufacturers, banks and freight companies."
+    },
+    {
+      "title": "Infrastructure and hydropower contractors",
+      "text": "Integrity and capacity checks on contractors, subcontractors and suppliers bidding on energy, road and construction projects funded by multilateral lenders, Chinese financing or the state, including links between bidders and officials responsible for procurement."
+    },
+    {
+      "title": "Remittance and payments counterparties",
+      "text": "Background research on money transfer operators, microfinance institutions, payment agents and fintech partners handling remittance flows, focusing on ownership, licensing, regulatory history and exposure to sanctioned Russian banks or high-risk counterparties."
+    },
+    {
+      "title": "Cross-border asset tracing",
+      "text": "Locating assets and business interests of Tajik debtors or defendants, which are frequently held through relatives or companies in Russia, Kazakhstan, the UAE or Türkiye, and framing findings so counsel can pursue recognition and enforcement where assets can actually be reached."
+    }
+  ],
+  "practical": [
+    {"label": "Languages", "value": "Tajik (official); Russian widely used in business and law"},
+    {"label": "Currency", "value": "Tajikistani somoni (TJS)"},
+    {"label": "Time zone", "value": "Asia/Dushanbe (UTC+5)"},
+    {"label": "Working week", "value": "Monday to Friday"},
+    {"label": "Main business centres", "value": "Dushanbe and Khujand"},
+    {"label": "Company records", "value": "Tax Committee Unified State Register (basic particulars only)"},
+    {"label": "Document formalities", "value": "Tajik or Russian translations and notarised copies usually required"},
+    {"label": "Business culture", "value": "Hierarchical and relationship-based; official connections matter"}
+  ],
+  "tdsc_approach": "TDSC scopes Tajikistan matters from Nashville, beginning with what the client needs to know and which lawful sources can answer it without unnecessary local exposure. We confirm entity identity through the Tax Committee's published taxpayer register, then build ownership and relationship pictures from foreign corporate filings, trade and shipping data, litigation, sanctions lists and Tajik and Russian media. Where registry documents, court files or reputational inquiries in Dushanbe or Khujand are needed, TDSC coordinates qualified local professionals and works with Tajik counsel under a written scope that excludes access to restricted state, banking or communications data. Personal data is handled on consent or a documented purpose consistent with the 2018 Personal Data Protection Law, with transfers out of the country kept to what the matter requires.",
+  "faqs": [
+    {
+      "q": "What does the Tajik company register show?",
+      "a": "The Tax Committee's online Unified State Register confirms an entity's identification numbers, name, registration date and status. It does not show founders, directors, charters or beneficial owners. Those details generally require documents obtained through the company, counterparties, court files or local counsel, and ownership often has to be inferred from several sources."
+    },
+    {
+      "q": "Can beneficial ownership of a Tajik company be established?",
+      "a": "Not from a public register. Financial institutions must identify beneficial owners under the 2011 AML law, but that information is protected as secrecy. We work from corporate filings in other countries, shareholder disputes, procurement and licensing announcements, media and relationships of known associates, and we state clearly when ownership can only be described as probable."
+    },
+    {
+      "q": "How do you handle sanctions-diversion concerns involving Tajik buyers?",
+      "a": "We examine the buyer's ownership, management, trading history, logistics partners and links to Russian or other sanctioned parties, using trade records and open sources inside and outside Tajikistan. The output identifies red flags against the client's compliance framework. TDSC does not advise on how to structure transactions around sanctions and declines matters that would breach them."
+    },
+    {
+      "q": "Do Tajik data protection rules restrict sending personal data abroad?",
+      "a": "The 2018 law permits transfers to countries with adequate protection and otherwise requires consent, a recognised treaty or a specified public interest ground. Penalties can include imprisonment in serious cases. We minimise what personal data is collected in Tajikistan, record the purpose of each item, and transfer only what the engagement requires."
+    },
+    {
+      "q": "Does TDSC have people in Dushanbe?",
+      "a": "No. TDSC works from Nashville and has no office, staff or address in Tajikistan. Where an engagement needs records retrieval or inquiries on the ground, we coordinate qualified local professionals, working in Tajik and Russian, alongside the client's Tajik counsel, with a written scope that sets out what may and may not be done."
+    }
+  ],
+  "sources": [
+    {"title": "DLA Piper Data Protection Laws of the World: Tajikistan", "url": "https://www.dlapiperdataprotection.com/?t=law&c=TJ"},
+    {"title": "Morrison Foerster Privacy Library: Tajikistan", "url": "https://www.mofo.com/privacy-library/tajikistan"},
+    {"title": "EITI Tajikistan: Report on beneficial ownership (2015, English translation)", "url": "https://api.eiti.org/sites/default/files/attachments/beneficial_ownership_report_-tajikistan_eng_translation.pdf"},
+    {"title": "OpenSanctions: Tajikistan Unified State Register of taxpayers dataset", "url": "https://www.opensanctions.org/datasets/tj_companies"},
+    {"title": "Business Data Guide: Tajikistan company search guide", "url": "https://businessdataguide.com/blog/jurisdictions/tajikistan-company-search-guide"},
+    {"title": "Eurasian Group (EAG): Republic of Tajikistan", "url": "https://dev.eurasiangroup.org/en/respublika-tadzhikistan"},
+    {"title": "Belt and Road Accounting and Taxation Cooperation: Tajikistan profile", "url": "https://www.britacom.org/zt/BRPolicies/Tajikistan/Profile/File/202501/P020250512535699464245.pdf"},
+    {"title": "Khovar: Signing of a number of laws (August 2018)", "url": "https://eng.khovar.tj/2018/08/signing-of-a-number-of-laws-5/"}
+  ],
+  "review_flags": [
+    "Population (about 10.6 million, 2024) is from general knowledge; no World Bank or Agency on Statistics result appeared in searches. source_url left empty; add an official source.",
+    "Data protection regulator is inconsistent in DLA Piper (Communication Service vs Main Department for the Protection of State Secrets); confirm.",
+    "Anti-corruption agency (Agency for State Financial Control and Combating Corruption) and the anti-corruption law were not confirmed by an opened source (egov.tj page did not render); verify.",
+    "Court structure (economic courts; Supreme Court at apex after 2016 constitutional changes) and absence of a PI licensing statute were not confirmed by opened sources; verify with local counsel.",
+    "Registry: Business Data Guide attributes registration to the Ministry of Justice (adlia.tj), whereas EITI and OpenSanctions identify the Tax Committee single window; text follows the Tax Committee. EITI BO report dates from 2015, so check whether BO disclosure has changed since.",
+    "Remittances share (30-40% of GDP) comes from a secondary profile; check current figure."
+  ],
+  "researched": "2026-11-04"
+}

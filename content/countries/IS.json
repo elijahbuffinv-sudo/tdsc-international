@@ -1,0 +1,142 @@
+{
+  "cc": "IS",
+  "name": "Iceland",
+  "meta_description": "TDSC investigative consulting on Iceland: kennitala-linked company records, beneficial owner data, Act 90/2018 privacy limits and lawful due diligence.",
+  "eyebrow": "Republic of Iceland",
+  "hero_lede": "Investigative consulting for matters touching Iceland draws on unusually accessible company and annual accounts records tied to the kennitala identifier, a partially public beneficial ownership register, and GDPR-based data protection rules that set firm limits on processing criminal and identity data.",
+  "intro": [
+    "Iceland is a small, highly digitised EEA member with a Nordic civil law tradition. Almost every person and legal entity carries a kennitala, a national identification number that links records across the company register, the annual accounts register and many private systems. Skatturinn, the Directorate of Internal Revenue, maintains the Register of Enterprises and offers free basic online searches, while fuller registration certificates and filed documents are available on request. Iceland is not an EU member, but through the EEA it applies the GDPR via Act No. 90/2018. For investigators, the environment combines good documentary transparency with strict expectations about how personal data, and particularly national identification numbers, may be used.",
+    "Organisations commission work involving Iceland for reasons tied to its specialised economy. Fisheries and seafood exports, aluminium smelting powered by hydro and geothermal energy, tourism, data centres and a concentrated banking and investment sector all attract foreign counterparties. The legacy of the 2008 banking collapse, and the cross-border litigation and asset recovery that followed, remains part of the context for creditors and investors reviewing Icelandic individuals and holding structures. Typical needs include ownership and control analysis of fishing quota holders and investment companies, due diligence on Icelandic partners in energy or data centre projects, tracing interests held through offshore vehicles, and background research on executives in a market where business and personal networks are closely interlinked."
+  ],
+  "population": {
+    "value": "about 390,000 (approximate, to be verified)",
+    "year": "2025",
+    "source_url": ""
+  },
+  "legal_system": "Iceland has a civil law system in the Nordic tradition, built on statute rather than comprehensive codes, with court precedent carrying significant persuasive weight. Commercial disputes are heard first in the general district courts; appeals go to Landsrettur, the Court of Appeal established in 2018, and then, with leave, to the Supreme Court (Haestirettur). There is no separate commercial court. As an EEA member, Iceland applies large parts of EU internal market law, and the EFTA Court can give advisory opinions on EEA law. Arbitration is available, but domestic commercial litigation remains common.",
+  "data_protection": {
+    "law": "Act No. 90/2018 on Data Protection and the Processing of Personal Data, implementing the General Data Protection Regulation (EU) 2016/679 through the EEA Agreement",
+    "regulator": "Icelandic Data Protection Authority (Personuvernd)",
+    "summary": "Personal data processing in investigative work needs a GDPR lawful basis, usually legitimate interests, supported by documented balancing. Act No. 90/2018 adds national rules that matter in practice. Private parties may process data on criminal offences only with explicit consent or where necessary for a legitimate interest that clearly outweighs the individual's rights. The kennitala may be used only for objective purposes and where needed for secure identification, and Personuvernd can forbid or authorise its use. The Act also allows certain data subject rights to be restricted to protect civil law claims. Transfers outside the EEA follow GDPR transfer rules."
+  },
+  "investigator_regulation": "We have not identified, in the sources reviewed, a dedicated licensing regime for private investigators or detective agencies in Iceland, and the private investigation market appears to be very small. Activity that involves personal data is nonetheless governed by Act No. 90/2018 and supervised by Personuvernd, whose staff may inspect premises where personal data is processed. Covert surveillance, recording and any attempt to access non-public registers or police records raise privacy and criminal law issues. TDSC confirms permissibility with Icelandic counsel before any local fieldwork and does not undertake surveillance without that review.",
+  "corporate_records": "Skatturinn maintains the Register of Enterprises (Fyrirtaekjaskra) under Act No. 17/2003, together with the register of annual accounts. Basic searches by name or kennitala are free and show legal form, status, address and activity codes; registration certificates list board members, managing directors and signatories, and filed annual accounts are publicly obtainable. Shareholder lists are not published centrally; share ownership is held in each company's own share register. Under Act No. 82/2019, beneficial owners are registered, with full access for authorities and obliged entities and limited public details: name, month and year of birth, residence, nationality and the nature of the interest.",
+  "anti_corruption": "Iceland's anti-money laundering framework is the Act on Measures against Money Laundering and Terrorist Financing, No. 140/2018, which defines beneficial ownership for the purposes of Act No. 82/2019 and sets due diligence duties for obliged entities. The Financial Intelligence Unit sits within the police. Bribery of domestic and foreign officials is criminalised under the General Penal Code; we have not verified the specific provisions or the lead prosecuting body for this page, and engagements involving potential corruption are scoped with Icelandic counsel.",
+  "matters": [
+    {
+      "title": "Fisheries and quota ownership",
+      "text": "Fishing quota is concentrated among a limited number of companies with layered holding structures. We map ownership through registration certificates, annual accounts and beneficial owner entries, identifying related parties and cross-holdings relevant to acquisitions, financing or seafood supply relationships."
+    },
+    {
+      "title": "Energy and data centre partners",
+      "text": "Projects built on Iceland's geothermal and hydro power bring together utilities, developers and foreign investors. We verify the corporate standing, financial history and principals of local partners before clients commit capital or long-term power-dependent contracts."
+    },
+    {
+      "title": "Post-crisis asset tracing",
+      "text": "Creditors pursuing Icelandic individuals or companies sometimes face assets moved into foreign vehicles. We use annual accounts, register history and foreign corporate records to trace connections and give counsel a documented basis for recognition or enforcement steps."
+    },
+    {
+      "title": "Executive and board due diligence",
+      "text": "In a market where business, family and political networks overlap closely, we research directorships, insolvency history, litigation and press coverage of Icelandic executives and board candidates, handling identity data within the limits Act No. 90/2018 places on kennitala use."
+    },
+    {
+      "title": "Tourism and real estate counterparties",
+      "text": "Rapid growth in tourism has drawn investment into hotels, operators and property developers. We examine operating history, ownership, financial filings and disputes of local counterparties before joint ventures, acquisitions or lending decisions."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Icelandic; English widely used in business"
+    },
+    {
+      "label": "Time zone",
+      "value": "Atlantic/Reykjavik, UTC+0, no daylight saving"
+    },
+    {
+      "label": "Currency",
+      "value": "Icelandic krona (ISK)"
+    },
+    {
+      "label": "Main business centre",
+      "value": "Reykjavik capital region"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Key identifier",
+      "value": "Kennitala for persons and legal entities"
+    },
+    {
+      "label": "Court language",
+      "value": "Icelandic; foreign documents usually need translation"
+    },
+    {
+      "label": "Trade framework",
+      "value": "EEA and EFTA member, not in the EU"
+    }
+  ],
+  "tdsc_approach": "Engagements touching Iceland are scoped from Nashville and begin with a review of what Icelandic public records can answer directly. Company registration certificates, annual accounts and beneficial owner entries often resolve ownership questions without fieldwork, so we exhaust those lawful sources first. Because Act No. 90/2018 restricts private processing of criminal offence data and the use of the kennitala, we document a legitimate interests assessment for each matter, collect only the identifiers needed for accurate matching and keep personal data within agreed retention limits. Where interviews, local inquiry or court document retrieval are needed, we coordinate with qualified Icelandic professionals and counsel. Reports distinguish clearly between registered facts and contextual or reputational information.",
+  "faqs": [
+    {
+      "q": "Can you identify shareholders of an Icelandic private company?",
+      "a": "Partly. The Register of Enterprises does not publish shareholder lists, because shares are recorded in each company's own share register. Annual accounts often disclose major shareholders, and the beneficial owner register shows limited public details of individuals with qualifying interests. We combine these sources and explain where ownership remains unconfirmed."
+    },
+    {
+      "q": "Why do Icelandic reports refer to the kennitala?",
+      "a": "The kennitala is the national identification number used for both people and companies, and it is the most reliable way to distinguish entities and individuals with similar names in a small population. Act No. 90/2018 restricts its use to objective purposes and secure identification, so we use it for accurate matching, not as a general data point."
+    },
+    {
+      "q": "Can criminal history be checked as part of due diligence?",
+      "a": "Only within narrow limits. Private parties may process criminal offence data in Iceland only with explicit consent or where a legitimate interest clearly outweighs the individual's rights. We rely on published court decisions and reputable media where lawful, and discuss consent-based checks with the client and counsel where the matter justifies them."
+    },
+    {
+      "q": "Is beneficial ownership information in Iceland publicly available?",
+      "a": "In part. Act No. 82/2019 requires registration of beneficial owners with the Register of Enterprises. Authorities and obliged entities see full records; the public sees a limited set of details, including name, month and year of birth, residence, nationality and the nature of the interest. Listed public companies are exempt from the requirement."
+    },
+    {
+      "q": "Does Iceland's EEA membership affect data transfers to the United States?",
+      "a": "Yes. Iceland applies the GDPR through the EEA Agreement, so transfers of personal data from Iceland follow GDPR transfer mechanisms. We structure engagements so that personal data obtained in Iceland is handled under an appropriate transfer basis agreed with the client, and we minimise identifiable data in reports."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Personuvernd: General introduction to Act No. 90/2018",
+      "url": "https://personuvernd.is/information-in-english/greinar/nr/437"
+    },
+    {
+      "title": "Personuvernd: The Data Protection Act and other relevant Acts and Rules",
+      "url": "https://personuvernd.is/information-in-english/acts-and-rules"
+    },
+    {
+      "title": "White & Case: GDPR Guide to National Implementation, Iceland",
+      "url": "https://www.whitecase.com/insight-our-thinking/gdpr-guide-national-implementation-iceland"
+    },
+    {
+      "title": "Government of Iceland: Act No. 82/2019 on the Registration of Beneficial Owners",
+      "url": "https://www.government.is/library/contentfiles/Act on the Registration of Beneficial Ownership.pdf"
+    },
+    {
+      "title": "Topograph: Business registers in Iceland",
+      "url": "https://www.topograph.co/guides/business-registers-in-iceland"
+    },
+    {
+      "title": "Infoproff: Business register in Iceland",
+      "url": "https://www.infoproff.com/en/open-data/iceland/180/business-register-in-iceland"
+    },
+    {
+      "title": "Open Ownership: Iceland country page",
+      "url": "https://www.openownership.org/en/map/country/iceland/"
+    }
+  ],
+  "review_flags": [
+    "Population (about 390,000, 2025) is from general knowledge; Statistics Iceland URL was not opened and no population figure appeared in search results. Verify before publishing.",
+    "No private investigator licensing regime identified; confirm with Icelandic counsel.",
+    "Bribery provisions of the General Penal Code and the lead prosecuting authority not verified; anti-corruption paragraph says so.",
+    "Court structure (district courts, Landsrettur since 2018, Supreme Court, EFTA Court advisory role) is stated from general knowledge, not from a source opened in this batch.",
+    "Public access to the beneficial owner register may change following EU/EEA developments on public access."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,143 @@
+{
+  "cc": "MR",
+  "name": "Mauritania",
+  "meta_description": "TDSC investigative consulting on Mauritania: mining and fisheries due diligence, company records, asset tracing and coordinated local inquiries.",
+  "eyebrow": "Islamic Republic of Mauritania",
+  "hero_lede": "Matters touching Mauritania typically involve mining, fisheries, energy and the trading houses of Nouakchott and Nouadhibou. Investigative consulting here means working across Arabic and French, within a legal order combining French-derived codes and Maliki Islamic law, with limited public records and a data protection authority still taking shape.",
+  "intro": [
+    "Mauritania is an Arabic-speaking Islamic republic whose legal system combines French-derived codification with Islamic law of the Maliki school. Business is governed by the Commerce Code (Law No. 2000-05), the Investment Code (Law No. 2012-052) and the Arbitration Code (Law No. 2000-06), and companies are formed through a one-stop shop introduced in 2017 to cut formation procedures. Court infrastructure for commercial matters is concentrated in Nouakchott and Nouadhibou. Judicial independence is weak in practice, records are largely paper-based, and much commercial information circulates through family and tribal networks rather than public registers. French remains widely used in business and administration alongside Arabic.",
+    "Organisations commission investigative work involving Mauritania chiefly because of its natural resources. Mining of iron ore, gold and copper, a large Atlantic fishery and a growing hydrocarbon sector attract foreign investors, buyers, lenders and contractors, who need to understand local partners and their political connections. Fishing licences, mining permits and public procurement are areas where integrity risk and disputes concentrate. Trade and logistics through Nouadhibou, cross-border commerce with Senegal, Mali and Morocco, and family-controlled conglomerates that span banking, import and construction also generate counterparty, asset and reputational questions for international clients."
+  ],
+  "population": {
+    "value": "4.16 million (estimate)",
+    "year": "2022",
+    "source_url": ""
+  },
+  "legal_system": "Mauritania's legal system combines a French civil law heritage with Islamic law of the Maliki school, which is particularly influential in personal status and some civil matters. Commercial law rests on the Commerce Code of 2000. First-instance jurisdiction includes Wilaya courts and a commercial tribunal, with commercial chambers in both the Court of Appeal and the Supreme Court; full court infrastructure exists mainly in Nouakchott and Nouadhibou. Arbitration is governed by the Arbitration Code, Law No. 2000-06, and foreign judgments require exequatur from a Mauritanian court.",
+  "data_protection": {
+    "law": "Law No. 2017-020 on the protection of personal data",
+    "regulator": "Authority for the Protection of Personal Data (Autorité de protection des données à caractère personnel)",
+    "summary": "Law No. 2017-020 provides a general framework for personal data, and an authority has been appointed, but sources disagree on how far the regime is operational, with one tracker stating the law had not yet come into effect. The law treats religious, political and trade union opinions, health, race, sex life and data on prosecutions or sanctions as sensitive. Transfers abroad are permitted to countries on the Authority's adequacy list; transfers elsewhere require prior notification to the Authority and compliance with its conditions, subject to exceptions such as express consent for occasional transfers. Article 13 of the Constitution separately protects private life, domicile and correspondence."
+  },
+  "investigator_regulation": "We have not identified a specific licensing regime for private investigators or detective agencies in Mauritania, nor a published register of licensed investigators. Investigative activity is constrained by the Penal Code, the constitutional protection of private life and correspondence, Law No. 2017-020 on personal data, and the confidentiality of state, banking and judicial records. Security sensitivities are significant, particularly near borders, mining sites and military or government installations, and foreigners making inquiries can attract official attention. Surveillance, recording and approaches to officials or witnesses should be planned with Mauritanian counsel before any local step is taken.",
+  "corporate_records": "Companies are formed under the Commerce Code of 2000 through a one-stop shop introduced in 2017 that reduced formation procedures from seven to two, and are entered in the trade register. We did not identify a public online company search or a public beneficial ownership register. In practice, extracts and filings are obtained in person, in Arabic or French, through local counsel or agents, and the content available varies. Ownership of significant businesses frequently runs through family groups, so corporate records are often supplemented by litigation, banking, procurement and media sources. Land and court records generally require local attendance.",
+  "anti_corruption": "Law No. 2016-014 of 15 April 2016 on the fight against corruption criminalises corruption in its various forms and supports international cooperation. Mauritania has ratified the UN Convention against Corruption but is not a party to the OECD Anti-Bribery Convention. Money laundering and terrorist financing are governed by Law No. 2019-017 of 20 February 2019. Reports describe the courts as affected by corruption and resource shortages, so enforcement through local institutions is uncertain.",
+  "matters": [
+    {
+      "title": "Mining partner and permit diligence",
+      "text": "Ownership, political-exposure and track-record checks on holders of gold, iron ore and copper permits and on proposed local partners, including artisanal-mining supply chains. The work tests whether permit holders are what they appear to be and who ultimately benefits."
+    },
+    {
+      "title": "Fisheries licences and seafood supply chains",
+      "text": "Background research on vessel operators, licence holders, processors and exporters in the Nouadhibou fishery, covering ownership, regulatory history and links to officials, for buyers, financiers and counterparties concerned with legality and sourcing risk."
+    },
+    {
+      "title": "Energy and infrastructure contractors",
+      "text": "Integrity and capacity checks on local contractors, agents and service providers seeking roles in hydrocarbon, power and infrastructure projects, where local-content arrangements and intermediaries create bribery and conflict-of-interest exposure."
+    },
+    {
+      "title": "Family conglomerate counterparty mapping",
+      "text": "Mapping the companies, relatives and political ties behind Mauritanian business groups active in banking, import trade and construction, so that clients understand related-party relationships before lending, contracting or entering joint ventures."
+    },
+    {
+      "title": "Cross-border trade and asset tracing",
+      "text": "Tracing goods, payments and assets linked to trading disputes involving Mauritanian parties across Senegal, Mali, Morocco, the Gulf and Europe, and identifying assets outside the country that may be more readily enforceable than those within it."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Languages",
+      "value": "Arabic (official); French widely used in business; Pulaar, Soninke, Wolof"
+    },
+    {
+      "label": "Currency",
+      "value": "Mauritanian ouguiya (MRU)"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Nouakchott (UTC+0)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Nouakchott (capital) and Nouadhibou (port and fisheries hub)"
+    },
+    {
+      "label": "Courts language",
+      "value": "Arabic; French documents often require translation"
+    },
+    {
+      "label": "Business culture",
+      "value": "Family and tribal networks shape commerce; introductions matter"
+    },
+    {
+      "label": "Foreign judgments",
+      "value": "Require exequatur from a Mauritanian court"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Mauritania matters from Nashville, beginning with a review of what the client needs to establish and which lawful sources can establish it. Because public registers are thin, early work concentrates on records outside the country: foreign company filings, trade data, litigation, sanctions screening and Arabic and French media. Where registry extracts, court files or discreet reputational inquiries in Nouakchott or Nouadhibou are needed, TDSC coordinates qualified local professionals and works with Mauritanian counsel under a written scope, with attention to security sensitivities around mining, border and government sites. Personal data is minimised and handled on a documented purpose basis consistent with Law No. 2017-020, including its conditions on transfers abroad, and the client's home-jurisdiction rules.",
+  "faqs": [
+    {
+      "q": "Can company ownership in Mauritania be checked online?",
+      "a": "We did not identify a public online company search or beneficial ownership register as of 2026. Trade register extracts are obtained in person through local counsel or agents, in Arabic or French. Because many businesses sit within family groups, we combine registry material with litigation, procurement, banking and media sources to build an accurate ownership picture."
+    },
+    {
+      "q": "Is Mauritania's data protection law in force?",
+      "a": "Law No. 2017-020 exists and an authority has been appointed, with a website, but trackers disagree on how fully the regime is operating. We treat its rules on sensitive data and transfers abroad as applicable. Transfers to countries outside the authority's adequacy list require prior notification, so we limit what personal data leaves the country."
+    },
+    {
+      "q": "What are the main integrity risks with Mauritanian partners?",
+      "a": "Risk concentrates in mining permits, fishing licences, public procurement and local-content roles in energy projects, where partners may be connected to officials or family groups with political influence. Mauritania is not party to the OECD Anti-Bribery Convention, so clients rely on their own home-country laws and need documented diligence on ownership and political exposure."
+    },
+    {
+      "q": "Can a foreign judgment be enforced in Mauritania?",
+      "a": "Foreign judgments require exequatur from a Mauritanian court, which is granted only where the judgment does not offend public order or good morals and was issued by a competent authority. Arbitral awards can be enforced by ordinance of a Wilaya court president. Investigative work can help counsel identify assets in Mauritania and abroad before choosing where to enforce."
+    },
+    {
+      "q": "Does TDSC have a presence in Nouakchott?",
+      "a": "No. TDSC works from Nashville and has no office, staff or address in Mauritania. When an engagement needs registry visits, court records or local inquiries, we coordinate qualified local professionals who work in Arabic and French, alongside the client's Mauritanian counsel, under a scope agreed in writing before work begins."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Data Protection Africa: Mauritania",
+      "url": "https://dataprotection.africa/mauritania/"
+    },
+    {
+      "title": "Morrison Foerster Privacy Library: Mauritania",
+      "url": "https://www.mofo.com/privacy-library/mauritania"
+    },
+    {
+      "title": "UN ESCWA Arab Legal Portal: Law 14 of 2016 on fighting corruption",
+      "url": "https://alp.unescwa.org/legislations/law-14-2016-fighting-corruption"
+    },
+    {
+      "title": "Loi n° 2016-014 relative à la lutte contre la corruption (French text)",
+      "url": "https://alp.unescwa.org/sites/default/files/2021-09/Mauritanie_Law14_y2016_lutte_corruption_FR.pdf"
+    },
+    {
+      "title": "Addleshaw Goddard: Doing business in Africa, Mauritania",
+      "url": "https://www.addleshawgoddard.com/en/doing-business-in-africa/africa-countries-a-z-list/mauritania"
+    },
+    {
+      "title": "Le360 Afrique: Mauritanie, une série de mesures pour améliorer le climat des affaires (2017)",
+      "url": "https://afrique.le360.ma/mauritanie/economie/2017/06/06/12428-mauritanie-une-serie-de-mesures-pour-ameliorer-le-climat-des-affaires-12428/"
+    },
+    {
+      "title": "ILO NATLEX: Mauritania, Law 2017-020",
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=112890"
+    }
+  ],
+  "review_flags": [
+    "Population (4.16 million, 2022 est.) is from Data Protection Africa without an underlying source; replace with World Bank/ONS Mauritania figure (roughly 5 million in 2024 per general knowledge).",
+    "Status of Law 2017-020 is contradictory across sources (Data Protection Africa says not yet in effect; MoFo says implemented, authority site apd.mr). Confirm current status.",
+    "Corporate records: registry name/operator (trade register, commercial court/APIM guichet unique) and absence of online search or UBO register not confirmed by an official source.",
+    "Anti-corruption law number: UN ESCWA page shows both 'Law 14 of 2016' and '2006/014'; text written as Law No. 2016-014 of 15 April 2016; verify against the official text. No national anti-corruption agency or FIU named because none was confirmed.",
+    "Working week (Monday to Friday) not confirmed by an opened source; verify.",
+    "Hydrocarbon sector mentioned only generically (offshore gas projects such as GTA not sourced)."
+  ],
+  "researched": "2026-11-04"
+}

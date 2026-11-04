@@ -1,0 +1,135 @@
+{
+  "cc": "CM",
+  "name": "Cameroon",
+  "meta_description": "TDSC investigative consulting on Cameroon: OHADA company checks, agent vetting, and data handling under Law No. 2024/017, scoped with local counsel.",
+  "eyebrow": "Republic of Cameroon",
+  "hero_lede": "Investigative consulting for matters touching Cameroon works across a bilingual French and English business environment, OHADA company law, a new personal data protection statute and a records landscape where much verification still depends on registry extracts obtained in Douala or Yaounde.",
+  "intro": [
+    "Cameroon is a member of OHADA, the Organisation for the Harmonisation of Business Law in Africa, so company formation, commercial registration and arbitration are governed by the OHADA Uniform Acts rather than purely national law. French and English are both official languages, and documents relevant to a single matter may be in either. Companies register with the Trade and Personal Property Credit Register (RCCM), but filed documents are not generally searchable online. In December 2024 Cameroon adopted Law No. 2024/017 on personal data protection, with a compliance deadline of 23 June 2026, which changes how personal information gathered in Cameroonian matters should be handled.",
+    "Organisations commission work involving Cameroon because Douala is a principal port and commercial gateway for Central Africa, and because Cameroonian companies participate in timber, agriculture, energy, construction and trading supply chains reaching Europe and beyond. Typical questions concern who owns and controls a local distributor, contractor or joint venture partner; whether an agent or consultant has political connections or a history of allegations; and whether goods, funds or receivables have been diverted. Public procurement and state-owned enterprise relationships attract particular scrutiny because Cameroon has dedicated anti-corruption and public procurement oversight bodies whose findings can bear on counterparties."
+  ],
+  "population": {
+    "value": "Not verified in this research pass",
+    "year": "",
+    "source_url": ""
+  },
+  "legal_system": "Cameroon's business law is shaped by OHADA: the Uniform Acts govern companies, commercial registration and, through the 1999 Uniform Act on Arbitration, arbitration in member states. Commercial disputes are heard by Magistrate's Courts and High Courts in each region, with appeals to the Courts of Appeal and final review on points of law by the Supreme Court. Registration with the RCCM gives a company separate legal personality. The GICAM Arbitration Centre in Douala is the principal domestic arbitral institution. Corruption-related embezzlement of large public sums is tried by a Special Criminal Court established in 2011.",
+  "data_protection": {
+    "law": "Law No. 2024/017 of 23 December 2024 on the protection of personal data",
+    "regulator": "Personal Data Protection Authority (provided for by the law; implementing decree pending as of 2026)",
+    "summary": "Law No. 2024/017 requires consent unless otherwise provided by law, together with purpose limitation, proportionality, retention limits and security. Processing is subject to prior formalities with the Authority, controllers must keep a register of processing, and breaches must be reported to the Authority and affected individuals. Transfers of personal data abroad require prior authorisation from the Authority, which weighs adequacy and contractual safeguards. Sensitive data expressly includes legal proceedings and criminal sanctions, banking transactions and ethnic or regional origin, which are central to many background enquiries. The transition period ends on 23 June 2026, but as of 2026 the Authority and implementing decree were reported as not yet in place, so practical requirements should be confirmed with Cameroonian counsel."
+  },
+  "investigator_regulation": "We have not identified, from a source opened during this research, a dedicated licensing statute or regulator for private investigators in Cameroon. Engagements are therefore scoped with Cameroonian counsel to determine what local enquiries are lawful and whether any authorisation applies. TDSC does not undertake or commission covert recording, impersonation, inducements to officials or access to restricted state or banking records. Cameroon's 2003 law on bank confidentiality and the new data protection law's treatment of criminal and financial data as sensitive both narrow what can be obtained, and any field enquiries are carried out only by vetted, appropriately qualified local professionals.",
+  "corporate_records": "Companies register with the Trade and Personal Property Credit Register (Registre du Commerce et du Credit Mobilier, RCCM) under OHADA law, after name reservation and filing through the business formalities centre (CFCE). Registration creates a public record, and extracts typically show the company name, legal form, registered office, managers and capital, but filings are not generally available through an open online search and in-person or counsel-assisted retrieval is often needed. We have not verified a public beneficial ownership register for Cameroon. Ownership is therefore usually established by combining RCCM extracts, constitutional documents, foreign registry filings and corroborating sources.",
+  "anti_corruption": "Bribery, abuse of office, undue demand, procuring influence and misappropriation of public funds are offences under the Penal Code. Public officials are subject to asset declaration requirements under Law No. 2006/3. The National Anti-Corruption Commission (CONAC), created by Decree No. 2006/088, gathers and investigates allegations. The National Agency for Financial Investigations (ANIF), created by Decree No. 2005/187, is the financial intelligence unit for money laundering and terrorist financing. The Special Criminal Court (Law No. 2011/028) tries large-scale embezzlement, and the Public Contract Regulatory Agency (ARMP) oversees procurement.",
+  "matters": [
+    {
+      "title": "Distributor and partner ownership",
+      "text": "Establishing who owns and controls Cameroonian distributors, importers and joint venture partners, combining RCCM extracts and OHADA constitutional documents with filings in France, other OHADA states or offshore centres where holding companies are registered. Findings are graded by source."
+    },
+    {
+      "title": "Agent and intermediary vetting",
+      "text": "Background research on consultants and agents proposed for customs, licensing or public contract work, testing for political exposure, links to state-owned enterprises, prior CONAC or Special Criminal Court matters reported in the press, and the commercial rationale for fees."
+    },
+    {
+      "title": "Port and trade diversion",
+      "text": "Fact-finding into consignments and goods diverted or misdeclared through Douala and inland transit corridors to neighbouring Central African markets, tracing counterparties, transport operators and payment flows, and coordinating any necessary field enquiries strictly with Cameroonian counsel."
+    },
+    {
+      "title": "Timber and agricultural supply chains",
+      "text": "Documented due diligence on suppliers of timber, cocoa, coffee and other export commodities, assessing ownership, concession and permit claims, reported environmental or labour allegations, and whether buyers can document the provenance their own regulators and customers expect."
+    },
+    {
+      "title": "Litigation and asset research",
+      "text": "Supporting counsel in debt recovery, arbitration or enforcement involving Cameroonian parties by identifying corporate interests, related companies and assets inside and outside Cameroon, using lawful public and commercial sources and clearly documented chains of evidence for counsel."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official languages",
+      "value": "French and English"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Douala, UTC+1"
+    },
+    {
+      "label": "Currency",
+      "value": "Central African CFA franc (XAF)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Douala (port and commerce), Yaounde (capital)"
+    },
+    {
+      "label": "Regional business law",
+      "value": "OHADA Uniform Acts"
+    },
+    {
+      "label": "Company records",
+      "value": "RCCM extracts; filings usually retrieved in person or via counsel"
+    },
+    {
+      "label": "Data transfers",
+      "value": "Prior authorisation required under Law No. 2024/017"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Cameroon matters from Nashville, beginning with a jurisdictional review of what the client needs to know, which records exist, and whether the information sought falls into categories Law No. 2024/017 treats as sensitive, such as legal proceedings, criminal sanctions or banking transactions. Desk research uses OHADA-region and foreign corporate registries, published court and arbitration material, sanctions and enforcement lists, and French- and English-language media. Where RCCM extracts or other local enquiries are required, TDSC coordinates vetted local professionals working with Cameroonian counsel, without pretexting or payments to officials. Personal data is minimised, held securely in the United States, and any transfer from Cameroon is assessed against the prior authorisation requirement with counsel before it takes place.",
+  "faqs": [
+    {
+      "q": "Can company ownership be confirmed from Cameroonian records?",
+      "a": "Partly. An RCCM extract under OHADA law usually shows the company's legal form, registered office, managers and capital, and constitutional documents may list shareholders. We have not identified a public beneficial ownership register, so where shares are held by other companies, TDSC traces the chain through foreign registries and corroborating sources and reports the level of confidence reached."
+    },
+    {
+      "q": "Does Cameroon's 2024 data protection law affect background checks?",
+      "a": "Yes. Law No. 2024/017 treats information about legal proceedings, criminal sanctions and banking transactions as sensitive, requires formalities with the Personal Data Protection Authority and requires prior authorisation to transfer personal data abroad. With the transition period ending in June 2026 and the Authority still being established, TDSC confirms the approach for each matter with Cameroonian counsel."
+    },
+    {
+      "q": "Can you work with documents in both French and English?",
+      "a": "Yes. French and English are both official languages in Cameroon, and a single matter may involve registry extracts, contracts, court material and press coverage in each. TDSC reviews material in both languages and, where a document will be relied on in proceedings elsewhere, recommends certified translation arranged through counsel."
+    },
+    {
+      "q": "Are private investigators licensed in Cameroon?",
+      "a": "We have not identified a dedicated licensing regime for private investigators in Cameroon from the sources reviewed. TDSC does not hold any Cameroonian licence and does not claim one. Any enquiries in Cameroon are scoped with local counsel and carried out by appropriately qualified local professionals within the limits of Cameroonian law."
+    },
+    {
+      "q": "Which Cameroonian bodies handle corruption and money laundering?",
+      "a": "The National Anti-Corruption Commission (CONAC) receives and investigates allegations, the National Agency for Financial Investigations (ANIF) is the financial intelligence unit, the Special Criminal Court tries large-scale embezzlement of public funds, and the Public Contract Regulatory Agency (ARMP) oversees procurement. Reported findings from these bodies can be relevant to counterparty due diligence."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Cameroon",
+      "url": "https://www.dlapiperdataprotection.com/?c=CM&t=law"
+    },
+    {
+      "title": "Lex Africa: Cameroon data protection law compliance (October 2025)",
+      "url": "https://lexafrica.com/2025/10/cameroon-data-protection-law-compliance/"
+    },
+    {
+      "title": "Main anti-corruption laws in Cameroon (kick-corruption.org)",
+      "url": "https://www.kick-corruption.org/wp-content/uploads/2022/05/Main-anti-corruption-laws-in-Cameroon.pdf"
+    },
+    {
+      "title": "Mondaq: Commercial law in Cameroon",
+      "url": "https://www.mondaq.com/contracts-and-commercial-law/764278/commercial-law-in-cameroon"
+    },
+    {
+      "title": "Kinsmen Advocates: How to register a business in Cameroon (2025)",
+      "url": "https://kinsmenadvocates.com/business-law/how-to-register-a-business-in-cameroon-2025"
+    },
+    {
+      "title": "CIO Mag: Protection des donnees au Cameroun, avant juin 2026",
+      "url": "https://cio-mag.com/protection-des-donnees-au-cameroun-la-course-contre-la-montre-avant-juin-2026/"
+    }
+  ],
+  "review_flags": [
+    "Population not verified from a World Bank or national statistics source within the search budget; add a current figure (e.g. World Bank SP.POP.TOTL) before publishing.",
+    "Personal Data Protection Authority and implementing decree reported as not yet established (DLA Piper, last modified March 2026); check whether the Authority is now operating and whether the 23 June 2026 transition deadline was extended.",
+    "No dedicated private investigator licensing regime identified; confirm with Cameroonian counsel.",
+    "No public beneficial ownership register verified; confirm current position.",
+    "Cameroon's bijural (common law in the North-West and South-West regions, civil law elsewhere) character was not confirmed from a source opened in this pass and is therefore not stated; consider adding once sourced.",
+    "Anti-corruption source (kick-corruption.org, 2022) predates any recent reforms; no standalone national AML statute was confirmed (CEMAC regional AML regulation not verified)."
+  ],
+  "researched": "2026-11-04"
+}

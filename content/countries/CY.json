@@ -8,49 +8,133 @@
     "Cyprus is an EU member state with a common law heritage, English-language legal practice and a large international business sector built around holding companies, shipping, funds and professional services. The Department of the Registrar of Companies and Intellectual Property holds records of companies registered since 1923, including directors, secretary and shareholders, and basic searches are free. Personal data is governed by the GDPR and Law 125(I)/2018, which adds criminal penalties for certain breaches. Courts follow English-derived procedure, and disclosure and asset preservation orders are well established, which makes Cyprus a frequent venue in cross-border fraud and enforcement matters.",
     "Organisations commission work involving Cyprus because Cypriot companies sit inside many international ownership chains, particularly those connected to Russia, Ukraine, the Middle East, Greece and Israel. Shipping management in Limassol, investment funds, real estate development and forex and payment businesses also generate exposure. Common needs include identifying beneficial owners behind nominee structures, tracing assets through Cypriot holding companies, sanctions-related due diligence, and gathering information for Norwich Pharmacal, freezing and disclosure applications in Cypriot courts. The island's division also matters: the northern part of Cyprus is outside the effective control of the Republic, and its records and courts are not part of the Republic's system."
   ],
-  "population": {"value": "1.36 million", "year": "2024", "source_url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CY"},
-  "legal_system": "Cyprus has a common law system derived from English law, codified in key areas such as the Companies Law (Cap. 113) and the Contract Law (Cap. 149), and shaped by EU law. Civil and commercial cases are heard by District Courts, with appeals to the Court of Appeal and constitutional matters to the Supreme Constitutional Court, following the 2023 court reform. A Commercial Court and an Admiralty Court were created as specialised first-instance courts. The Cyprus Eurasia Dispute Resolution and Arbitration Center and the Cyprus Arbitration and Mediation Centre administer arbitrations.",
+  "population": {
+    "value": "1.36 million",
+    "year": "2024",
+    "source_url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CY"
+  },
+  "legal_system": "Cyprus has a common law system derived from English law, codified in key areas such as the Companies Law (Cap. 113) and the Contract Law (Cap. 149), and shaped by EU law. Since the court reform of 1 July 2023, civil and commercial cases are heard at first instance by the District Courts, with appeals to the Court of Appeal and constitutional matters to the Supreme Constitutional Court. Law 69(I)/2022 provides for a specialised Commercial Court and Admiralty Court, but as of 2025 reporting neither had been confirmed as operational. Domestic arbitration centres administer arbitrations.",
   "data_protection": {
     "law": "General Data Protection Regulation (EU) 2016/679 and Law 125(I)/2018 on the Protection of Physical Persons Against the Processing of Personal Data and the Free Movement of such Data",
     "regulator": "Commissioner for the Protection of Personal Data",
     "summary": "Law 125(I)/2018, in force since 31 July 2018, implements the GDPR without derogating from its definitions. For investigations, a lawful basis such as legitimate interests or legal claims must be documented. Cyprus is notable for making certain GDPR breaches criminal offences, including breaches concerning records of processing, breach notification, impact assessments and Chapter V transfers, punishable by up to five years' imprisonment or fines up to EUR 50,000. Transfers of special category data under Articles 46 or 47 require prior notice to the Commissioner, and some Article 49 transfers require an impact assessment and prior consultation."
   },
   "investigator_regulation": "We have not confirmed, from a source opened during this research, whether Cyprus operates a licensing regime specific to private investigators. Investigative activity is in any case constrained by Law 125(I)/2018, with its criminal penalties, and by Cypriot law on the protection of private communications. Engagements are therefore scoped with Cypriot advocates, and any enquiries in Cyprus are carried out by appropriately qualified local professionals. Much of the information needed in Cypriot fraud cases is obtained lawfully through court orders, such as disclosure and Norwich Pharmacal orders, rather than through private enquiry.",
-  "corporate_records": "The Department of the Registrar of Companies and Intellectual Property, under the Ministry of Energy, Commerce and Industry, provides free basic searches showing name, registration date, type, status, registered office, current directors, secretary and date of the last annual return. The register also holds share capital and shareholder details, and a full search of a company's electronic file, including founding documents, annual returns and financial statements, costs EUR 10. Nominee shareholdings are common, so registered shareholders may not be the ultimate owners. Cyprus maintains a register of beneficial owners, access to which has been restricted since 2022.",
-  "anti_corruption": "Cyprus criminalises public and private bribery, including through its ratification law for the Council of Europe Criminal Law Convention on Corruption. The Prevention and Suppression of Money Laundering Activities Law of 2007 sets AML obligations, with MOKAS, the Unit for Combating Money Laundering, acting as the financial intelligence unit. The Anti-Corruption Authority, established in 2022, investigates corruption complaints, and prosecutions are led by the Law Office of the Republic.",
+  "corporate_records": "The Department of the Registrar of Companies and Intellectual Property, under the Ministry of Energy, Commerce and Industry, provides free basic searches showing name, registration date, type, status, registered office, current directors, secretary and date of the last annual return. A full search of a company's electronic file, including shareholders, annual returns and financial statements, costs EUR 10. Nominee shareholdings are common. The Registrar's beneficial ownership register, set up in March 2021, closed to the public on 28 November 2022 after the EU Court of Justice ruling; access was later restored only for AML-obliged entities such as lawyers, auditors and banks.",
+  "anti_corruption": "Cyprus criminalises public and private bribery, including through its ratification law for the Council of Europe Criminal Law Convention on Corruption. The Prevention and Suppression of Money Laundering Activities Law of 2007 (Law 188(I)/2007, as amended, most recently including Law 141(I)/2024) sets AML and beneficial ownership obligations, with MOKAS, the Unit for Combating Money Laundering, acting as the financial intelligence unit. The Anti-Corruption Authority, established in 2022, investigates corruption complaints, and prosecutions are led by the Law Office of the Republic.",
   "matters": [
-    {"title": "Holding company ownership", "text": "Identifying the individuals behind Cypriot holding companies with nominee directors and shareholders, combining Registrar records, filed accounts, foreign registries, litigation and published leaks reporting to reach a reasoned view of ultimate control."},
-    {"title": "Asset tracing and freezing support", "text": "Tracing assets routed through Cypriot companies and supporting Cypriot advocates seeking freezing, disclosure or Norwich Pharmacal orders, which can compel banks and service providers to produce information that private enquiry cannot obtain."},
-    {"title": "Sanctions and Russia exposure", "text": "Due diligence on Cypriot entities with historic or current links to Russian or Belarusian beneficial owners, assessing ownership changes since 2022 that may have been made to avoid EU, UK or US sanctions designations."},
-    {"title": "Shipping and ship management", "text": "Background research on Limassol-based ship managers, owners and crew agencies, including fleet histories, flag changes and ownership of single-ship companies, for charterers, financiers and insurers concerned with fraud and sanctions exposure."},
-    {"title": "Real estate and investment schemes", "text": "Investigation of property developers and promoters linked to past investment-for-residence schemes and coastal developments, testing title, encumbrances, litigation and the probity of individuals involved before acquisitions or lending."}
+    {
+      "title": "Holding company ownership",
+      "text": "Identifying the individuals behind Cypriot holding companies with nominee directors and shareholders, combining Registrar records, filed accounts, foreign registries, litigation and published leaks reporting to reach a reasoned view of ultimate control."
+    },
+    {
+      "title": "Asset tracing and freezing support",
+      "text": "Tracing assets routed through Cypriot companies and supporting Cypriot advocates seeking freezing, disclosure or Norwich Pharmacal orders, which can compel banks and service providers to produce information that private enquiry cannot obtain."
+    },
+    {
+      "title": "Sanctions and Russia exposure",
+      "text": "Due diligence on Cypriot entities with historic or current links to Russian or Belarusian beneficial owners, assessing ownership changes since 2022 that may have been made to avoid EU, UK or US sanctions designations."
+    },
+    {
+      "title": "Shipping and ship management",
+      "text": "Background research on Limassol-based ship managers, owners and crew agencies, including fleet histories, flag changes and ownership of single-ship companies, for charterers, financiers and insurers concerned with fraud and sanctions exposure."
+    },
+    {
+      "title": "Real estate and investment schemes",
+      "text": "Investigation of property developers and promoters linked to past investment-for-residence schemes and coastal developments, testing title, encumbrances, litigation and the probity of individuals involved before acquisitions or lending."
+    }
   ],
   "practical": [
-    {"label": "Business languages", "value": "Greek and English; Russian common in some sectors"},
-    {"label": "Time zone", "value": "Asia/Nicosia, UTC+2 (UTC+3 in summer)"},
-    {"label": "Working week", "value": "Monday to Friday"},
-    {"label": "Currency", "value": "Euro (EUR)"},
-    {"label": "Main business centres", "value": "Nicosia, Limassol, Larnaca, Paphos"},
-    {"label": "Court language", "value": "Greek; English documents widely used, with translation as required"},
-    {"label": "Territorial note", "value": "Northern Cyprus is outside the effective control of the Republic"},
-    {"label": "Business culture", "value": "Relationship-driven; advocates and corporate service providers are key intermediaries"}
+    {
+      "label": "Business languages",
+      "value": "Greek and English; Russian common in some sectors"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Nicosia, UTC+2 (UTC+3 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (EUR)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Nicosia, Limassol, Larnaca, Paphos"
+    },
+    {
+      "label": "Court language",
+      "value": "Greek; English documents widely used, with translation as required"
+    },
+    {
+      "label": "Territorial note",
+      "value": "Northern Cyprus is outside the effective control of the Republic"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-driven; advocates and corporate service providers are key intermediaries"
+    }
   ],
   "tdsc_approach": "TDSC scopes Cypriot matters from Nashville with a review of the GDPR and Law 125(I)/2018, whose criminal penalties for transfer and record-keeping failures make data handling a priority. Desk research draws on the Registrar of Companies, filed financial statements, court judgments, foreign registries and Greek- and English-language media, and is designed to support Cypriot advocates who can seek disclosure, freezing or Norwich Pharmacal orders where evidence sits with banks or service providers. Where enquiries must be made in Cyprus, TDSC coordinates qualified local professionals. Matters with a Russian or Belarusian nexus are screened for sanctions compliance, and matters touching the north of the island are scoped separately.",
   "faqs": [
-    {"q": "Can shareholders of a Cypriot company be identified?", "a": "Registered shareholders appear in the Registrar's records, which hold share capital and shareholder details, and a full electronic file can be searched for EUR 10. Nominee arrangements are common, however, so the registered holder may act for someone else. Identifying the beneficial owner usually requires combining records, filings, litigation and sometimes court-ordered disclosure."},
-    {"q": "Why is Cyprus important in asset tracing?", "a": "Cypriot companies appear in many international holding structures, and Cypriot courts, following common law practice, can grant freezing, disclosure and Norwich Pharmacal orders. Investigative research often identifies the companies, banks and service providers involved so that Cypriot advocates can apply for orders that compel production of information."},
-    {"q": "Are data protection breaches criminal in Cyprus?", "a": "Some are. Law 125(I)/2018 makes certain GDPR breaches criminal offences, including breaches of record-keeping, breach notification, impact assessment and international transfer rules, with penalties of up to five years' imprisonment or fines up to EUR 50,000. This makes careful handling of data gathered in Cyprus essential."},
-    {"q": "How are matters touching northern Cyprus handled?", "a": "The northern part of the island is outside the effective control of the Republic of Cyprus, and its registries and courts are separate from the Republic's system. Matters involving persons, companies or property there are scoped separately, with legal advice on recognition, evidence and sanctions issues before any research is undertaken."},
-    {"q": "Which court hears commercial disputes in Cyprus?", "a": "Civil and commercial claims have traditionally been heard by the District Courts, with appeals now going to the Court of Appeal. Cyprus has also established a specialised Commercial Court and Admiralty Court. Arbitration is available through domestic centres, and arbitral awards and foreign judgments are enforced through the Cypriot courts."}
+    {
+      "q": "Can shareholders of a Cypriot company be identified?",
+      "a": "Registered shareholders appear in the Registrar's records, which hold share capital and shareholder details, and a full electronic file can be searched for EUR 10. Nominee arrangements are common, however, so the registered holder may act for someone else. Identifying the beneficial owner usually requires combining records, filings, litigation and sometimes court-ordered disclosure."
+    },
+    {
+      "q": "Why is Cyprus important in asset tracing?",
+      "a": "Cypriot companies appear in many international holding structures, and Cypriot courts, following common law practice, can grant freezing, disclosure and Norwich Pharmacal orders. Investigative research often identifies the companies, banks and service providers involved so that Cypriot advocates can apply for orders that compel production of information."
+    },
+    {
+      "q": "Are data protection breaches criminal in Cyprus?",
+      "a": "Some are. Law 125(I)/2018 makes certain GDPR breaches criminal offences, including breaches of record-keeping, breach notification, impact assessment and international transfer rules, with penalties of up to five years' imprisonment or fines up to EUR 50,000. This makes careful handling of data gathered in Cyprus essential."
+    },
+    {
+      "q": "How are matters touching northern Cyprus handled?",
+      "a": "The northern part of the island is outside the effective control of the Republic of Cyprus, and its registries and courts are separate from the Republic's system. Matters involving persons, companies or property there are scoped separately, with legal advice on recognition, evidence and sanctions issues before any research is undertaken."
+    },
+    {
+      "q": "Which court hears commercial disputes in Cyprus?",
+      "a": "District Courts hear civil and commercial claims at first instance, with appeals to the Court of Appeal created in the July 2023 reform. Law 69(I)/2022 provides for a specialised Commercial Court and Admiralty Court, but their start of operation had not been confirmed in 2025 reporting. Arbitral awards and foreign judgments are enforced through the Cypriot courts."
+    }
   ],
   "sources": [
-    {"title": "DLA Piper Data Protection Laws of the World: Cyprus", "url": "https://www.dlapiperdataprotection.com/countries/cyprus/law.html"},
-    {"title": "European e-Justice Portal: Business registers in Cyprus", "url": "https://e-justice.europa.eu/topics/registers-business-insolvency-land/business-registers-eu-countries/cy_en"},
-    {"title": "World Bank population data: Cyprus", "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CY"}
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Cyprus",
+      "url": "https://www.dlapiperdataprotection.com/countries/cyprus/law.html"
+    },
+    {
+      "title": "European e-Justice Portal: Business registers in Cyprus",
+      "url": "https://e-justice.europa.eu/topics/registers-business-insolvency-land/business-registers-eu-countries/cy_en"
+    },
+    {
+      "title": "World Bank population data: Cyprus",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CY"
+    },
+    {
+      "title": "Fast Forward - Justice reform remains incomplete as district court changes stall (March 2025)",
+      "url": "https://fastforward.com.cy/policy/justice-reform-remains-incomplete"
+    },
+    {
+      "title": "Mondaq - New era in admiralty litigation in Cyprus (Law 69(I)/2022)",
+      "url": "https://www.mondaq.com/cyprus/marine-shipping/1318922/new-era-in-admiralty-litigation-in-cyprus"
+    },
+    {
+      "title": "Harris Kyriakides - Access to Cyprus UBO register restored for obliged entities",
+      "url": "https://www.harriskyriakides.law/insights/news/access-to-cyprus-ubo-register-restored-for-obliged-entities"
+    },
+    {
+      "title": "Mondaq - Significant changes to the Cyprus UBO register (Law 141(I)/2024)",
+      "url": "https://www.mondaq.com/cyprus/directors-and-officers/1559676/significant-changes-to-the-cyprus-ubo-register-extension-of-deadlines-and-withdrawal-of-monetary-penalties"
+    }
   ],
   "review_flags": [
-    "Only 3 sources opened (brief requires 5-12); web search budget and fetch quota were exhausted. Add sources for court structure, arbitration, anti-corruption and beneficial ownership register.",
-    "From general knowledge, unverified this session: Cap. 113 and Cap. 149, 2023 court reform (Court of Appeal, Supreme Constitutional Court), Commercial Court and Admiralty Court (check they are operational), arbitration centre names, AML Law 2007, MOKAS, Anti-Corruption Authority (2022), beneficial ownership register access restriction.",
+    "CORRECTED: Commercial Court and Admiralty Court (Law 69(I)/2022) are not confirmed operational (Fast Forward, March 2025); text no longer implies they sit. Re-check before publishing.",
+    "VERIFIED: 1 July 2023 court reform and Court of Appeal; UBO register (March 2021) public access suspended 28 Nov 2022, restored for AML-obliged entities only; AML Law 188(I)/2007 amended by 141(I)/2024.",
+    "Arbitration centre names removed (unverified). Still unverified: Cap. 113/Cap. 149, Supreme Constitutional Court operation, MOKAS, Anti-Corruption Authority (2022), Law Office role.",
     "Cyprus private investigator licensing not verified; text says so.",
     "Northern Cyprus wording is politically sensitive; review."
   ],

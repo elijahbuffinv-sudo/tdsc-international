@@ -1,0 +1,139 @@
+{
+  "cc": "LA",
+  "name": "Laos",
+  "meta_description": "TDSC investigative consulting on Laos: partner and concession due diligence, enterprise record checks and lawful research under the electronic data law.",
+  "eyebrow": "Lao People's Democratic Republic",
+  "hero_lede": "Investigative consulting on matters touching Laos involves a one-party civil law state where enterprise data is held centrally by the Ministry of Industry and Commerce, shareholder information is not published, and consent rules govern electronic personal data. TDSC works from Nashville and coordinates qualified local professionals where needed.",
+  "intro": [
+    "The Lao People's Democratic Republic is a landlocked, state-led economy in which the Ministry of Industry and Commerce administers enterprise registration and other ministries license conditioned activities such as mining, energy and finance. Published business guidance describes commercial law and the courts as still developing, with legislation sometimes overlapping or conflicting. For investigators, two features stand out: the National Enterprise Database gives basic public information about registered entities but does not publish shareholders or beneficial owners, and the Law on Electronic Data Protection of 2017 requires consent for the collection and transfer abroad of much personal data held in electronic form.",
+    "Organisations commission work touching Laos chiefly because of its resource, power and infrastructure economy. Hydropower development and cross-border electricity sales, mining of gold, copper, bauxite and potash, large rail and road projects, special economic zones and a sizeable agricultural export sector bring in foreign investors, lenders, contractors and buyers. Typical exposures include unclear ownership of local partners, concession and licensing disputes, informal payments cited by businesses as a trade barrier, and reputational risk around special economic zones. Clients therefore ask for counterparty background research, licence and registration verification, and integrity reviews before entering joint ventures, financing or offtake agreements."
+  ],
+  "population": {
+    "value": "7.06 million",
+    "year": "2019",
+    "source_url": ""
+  },
+  "legal_system": "Laos has a civil law system shaped by socialist legal principles, with codified legislation adopted by the National Assembly and cited by number, for example the Civil Code No. 55/NA of 2018 and the Penal Code No. 26/NA of 2017. The People's Courts hear civil, commercial and criminal matters, with the People's Supreme Court at the apex. Economic disputes may also be resolved under the Law on Economic Dispute Resolution, which was amended in 2018. Published business guidance notes that contract enforcement can be uncertain, so dispute clauses and forum choices are reviewed with local and international counsel.",
+  "data_protection": {
+    "law": "Law on Electronic Data Protection No. 25/NA (12 May 2017) and Implementing Instruction No. 2126/MTC (2018), with the Law on Electronic Transactions No. 31/NA (2022) and the Penal Code (2017)",
+    "regulator": "Ministry of Technology and Communications (MTC), with LaoCERT receiving breach and cyber-incident reports",
+    "summary": "Laos has no general data protection statute covering all personal data; the 2017 law applies to electronic data. It distinguishes general data, sensitive data such as financial information, CVs and medical history, which requires consent to collect, use or disclose, and prohibited data such as race, religion, political opinion and criminal records, which may not be processed electronically. Transfers of data collected in Laos to recipients abroad require the data subject's consent. The Penal Code penalises unlawful disclosure of private information and interception of communications. For investigations, this limits collection of employee and personal records and requires careful handling of any transfer to Nashville."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing statute or regulator for private investigators or detective agencies in Laos, and we do not treat that as permission. Security and public order functions are closely controlled by the state, and the Penal Code criminalises interception of private communications and unlawful disclosure of confidential private information. The electronic data law prohibits processing of categories such as criminal records and political opinion. Any local work is therefore scoped with Lao counsel, restricted to lawful methods such as registry retrieval, site visits to public locations and consented interviews, and carried out only by qualified local professionals.",
+  "corporate_records": "Enterprise registration is administered by the Ministry of Industry and Commerce under the Law on Enterprises No. 46/NA of 2013 and a 2019 ministerial decision that introduced a single enterprise registration certificate; conditioned activities also require a separate business operation licence. The National Enterprise Database at ned.moic.gov.la offers a public company search returning basic fields such as entity name, type, registration number, status, address and registration date. More detailed searches are reserved for government users, and shareholder and beneficial ownership information is not published. Licences for regulated sectors sit with the relevant line ministries.",
+  "anti_corruption": "Bribery and abuse of office are offences under the Penal Code No. 26/NA of 2017, and Laos also has dedicated anti-corruption and anti-money laundering legislation administered by state inspection bodies and a financial intelligence function linked to the central bank; we have not verified the current versions and numbers of those laws for this page. The 2019 enterprise registration decision itself prohibits officials from taking bribes or delaying applications and bars applicants from bribery or falsified documents. Businesses frequently cite informal payments as a barrier to trade.",
+  "matters": [
+    {
+      "title": "Hydropower and energy counterparties",
+      "text": "Background research on developers, sponsors, contractors and local partners in hydropower and transmission projects, including corporate links abroad, licensing history and adverse reporting, for lenders, equipment suppliers and offtakers assessing exposure before financing or contracting."
+    },
+    {
+      "title": "Mining concession due diligence",
+      "text": "Review of the companies and individuals behind gold, copper, bauxite and potash projects, drawing on Lao enterprise data, foreign parent company filings and published sources, and coordinating local confirmation of licence status where lawful."
+    },
+    {
+      "title": "Special economic zone exposure",
+      "text": "Research for banks, brands and investors on operators and tenants in special economic zones, focusing on ownership, regulatory actions, sanctions and enforcement records abroad, and reputational risk associated with particular zones or operators."
+    },
+    {
+      "title": "Joint venture partner vetting",
+      "text": "Integrity due diligence on prospective Lao partners where shareholder data is not published, combining registry fields, licence records, litigation searches and discreet source enquiries by qualified local professionals within the limits of the electronic data law."
+    },
+    {
+      "title": "Agricultural export supply chains",
+      "text": "Verification of processors, exporters and land concession holders in coffee, rubber, cassava and other agricultural supply chains for buyers and certifiers assessing ownership, licensing, land-use questions and labour-related allegations."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Lao; English and Thai common in commerce; Chinese and Vietnamese in some sectors"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Vientiane, UTC+7, no daylight saving"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Vientiane Capital, Savannakhet, Luang Prabang, Pakse"
+    },
+    {
+      "label": "Currency",
+      "value": "Lao kip (LAK)"
+    },
+    {
+      "label": "Legislation citation",
+      "value": "Laws cited by number and NA suffix, e.g. Law No. 25/NA of 2017"
+    },
+    {
+      "label": "Company search",
+      "value": "National Enterprise Database (MOIC), basic fields only"
+    },
+    {
+      "label": "Courts language",
+      "value": "Lao; foreign documents need certified translation"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Laos engagements from Nashville, starting with what the client must establish and which lawful sources can establish it. Because Lao records publish little ownership data, the work usually triangulates basic National Enterprise Database fields with corporate filings in Thailand, China, Vietnam, Singapore or other parent jurisdictions, international litigation and enforcement records, and published reporting. Where local document retrieval or site observation is necessary, TDSC coordinates qualified, appropriately authorised local professionals working alongside Lao counsel. Personal data is minimised, sensitive and prohibited categories under the 2017 law are excluded, and any transfer abroad is handled on the consent basis the law requires. TDSC does not claim access to government databases and does not use pretexting.",
+  "faqs": [
+    {
+      "q": "Can we see who owns a Lao company?",
+      "a": "Only partly from Lao sources. The National Enterprise Database shows basic fields such as name, type, registration number, status and address, but it does not publish shareholders or beneficial owners. TDSC therefore traces ownership through foreign parent companies, financing and project documents, court records and published sources, and states clearly where ownership could not be confirmed."
+    },
+    {
+      "q": "Does the Lao electronic data law affect background checks?",
+      "a": "Yes. The Law on Electronic Data Protection of 2017 requires consent to collect sensitive data such as financial details, CVs and medical history, prohibits electronic processing of categories such as criminal records and political opinion, and requires consent to transfer data abroad. Background research on individuals is scoped around these limits, usually with the subject's consent where personal records are involved."
+    },
+    {
+      "q": "Is there a licensing regime for investigators in Laos?",
+      "a": "We have not identified one. Given the state's close control of security and information matters, TDSC does not treat that as an open field. Any local enquiry is planned with Lao counsel, limited to lawful methods and carried out by qualified local professionals. Interception of communications and unlawful disclosure of private information are criminal offences."
+    },
+    {
+      "q": "How do you verify a mining or hydropower licence?",
+      "a": "Business registration in Laos does not by itself authorise conditioned activities; a separate operating licence or concession is required from the relevant ministry. TDSC reviews what the counterparty has produced, compares it with published government and project information and, where needed, arranges lawful confirmation through local counsel or qualified local professionals."
+    },
+    {
+      "q": "Which languages will records be in?",
+      "a": "Official records, laws and court documents are in Lao. Some laws and decisions are published in English translation on government portals such as the Lao Trade Portal, but the Lao text prevails. TDSC arranges certified translation of documents a client intends to rely on in proceedings or filings outside Laos."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper, Data Protection Laws of the World: Laos",
+      "url": "https://www.dlapiperdataprotection.com/?c=LA&t=law"
+    },
+    {
+      "title": "Multilaw Data Protection Laws Guide: Laos (Tilleke & Gibbins)",
+      "url": "https://www.multilaw.com/Multilaw/Data_Protection_Laws_Guide/DataProtection_Guide_Laos.aspx"
+    },
+    {
+      "title": "Lao Trade Portal, Decision on Enterprise Registration (2019)",
+      "url": "https://laotradeportal.gov.la/en-gb/site/display/1605"
+    },
+    {
+      "title": "Conventus Law, Laos: the new enterprise registration process",
+      "url": "https://conventuslaw.com/report/laos-the-new-enterprise-registration-process/"
+    },
+    {
+      "title": "Know Your Customer, Company records coverage: Laos",
+      "url": "https://records.knowyourcustomer.com/coverage/laos"
+    },
+    {
+      "title": "ASEAN Access, Country profile: Lao PDR",
+      "url": "https://aseanaccess.com/images/pdf/AW_Country-Profile-Lao.pdf"
+    },
+    {
+      "title": "DFDL, Lao PDR 2018 year in review",
+      "url": "https://www.dfdl.com/publication/dfdl-lao-pdr_2018-year-review"
+    }
+  ],
+  "review_flags": [
+    "Population figure (7.06 million, UNDESA 2019) is outdated and taken from a secondary country profile; no World Bank result appeared. Replace with current World Bank figure (likely around 7.7 million).",
+    "Anti-corruption and AML law names, numbers and enforcement bodies were not verified from a source; text is deliberately generic. Add specific laws and bodies (e.g. state inspection authority, central bank financial intelligence office) after checking.",
+    "No private investigator licensing regime identified.",
+    "Law on Enterprises cited as No. 46/NA of 2013 per the 2019 decision; check whether a newer enterprise law has since replaced it.",
+    "Business languages, business centres beyond those listed in sources, and agricultural commodities in matters are from general knowledge.",
+    "No Laos-specific personal data protection law beyond the 2017 electronic data law was found; monitor for a comprehensive PDP law."
+  ],
+  "researched": "2026-11-04"
+}

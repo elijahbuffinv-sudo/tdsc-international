@@ -1,0 +1,147 @@
+{
+  "cc": "SL",
+  "name": "Sierra Leone",
+  "meta_description": "TDSC investigative consulting on Sierra Leone: mining and minerals due diligence, Corporate Affairs Commission research, AML risk and local coordination.",
+  "eyebrow": "Republic of Sierra Leone",
+  "hero_lede": "Investigative consulting for matters touching Sierra Leone means verifying mining licence holders, company owners and public-sector counterparties in a jurisdiction where registry access is request-based, beneficial ownership law is still being built, and no comprehensive data protection statute had been enacted as of 2026.",
+  "intro": [
+    "Sierra Leone's investigative environment is defined by reform in progress. The Corporate Affairs Commission maintains the company register under the Companies Act 2009, but information is released on request rather than published in full, and as of mid-2026 the government was still working to amend the Act so that companies disclose and verify their true owners by the end of 2026. A new anti-money laundering statute was enacted in 2024, the Anti-Corruption Act is under amendment, and Cabinet approved a National Data Protection Policy in April 2026 with a combined data protection and access to information bill to follow. Investigators must therefore rely on a mix of registry requests, mining cadastre data, court records and careful open-source work.",
+    "Organisations commission work involving Sierra Leone chiefly because of natural resources and public spending. Iron ore, diamonds, gold, rutile and bauxite attract international miners, traders, lenders and offtakers who need to understand licence holders, local partners and politically exposed persons. Precious metals and stones dealers and real estate agents are identified as high-risk sectors in the national AML/CFT agenda. Donor-funded and government infrastructure, health and energy projects bring contractors and NGOs into contact with procurement processes that warrant integrity checks. Fisheries, agriculture and telecommunications investors face similar questions, and the country's place in the Mano River region means matters often extend to Guinea and Liberia."
+  ],
+  "population": {
+    "value": "approximately 8.6 million (World Bank estimate; not verified against a source in this batch)",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Sierra Leone has a common law system derived from English law, operating alongside statute and customary law, particularly in provincial matters and land. The superior courts are the High Court, the Court of Appeal and the Supreme Court, with magistrates' and local courts below. Commercial cases in Freetown are heard in the High Court, which has operated a fast-track commercial division. English is the language of the courts. International mining and infrastructure contracts commonly provide for arbitration with a foreign seat, and enforcement planning should be discussed with Sierra Leonean counsel at the outset.",
+  "data_protection": {
+    "law": "No comprehensive data protection statute in force as of 2026; National Data Protection Policy approved by Cabinet in April 2026, with a Data Protection and Right to Access Information bill authorised",
+    "regulator": "None dedicated as of 2026; the Right to Access Information Commission is proposed to become a unified information and data protection authority",
+    "summary": "Sierra Leone had not enacted a comprehensive personal data law as of 2026. In April 2026 Cabinet approved a National Data Protection Policy and authorised a bill that would combine data protection with access to information, expanding the existing Right to Access Information Commission into a regulator with investigative and enforcement powers over public and private data handling. Until that law is passed, investigative work involving personal data should follow sector-specific rules, constitutional privacy protections and the client's home-country obligations, such as GDPR or US state law. TDSC applies data minimisation and documented purpose limitation regardless of the local gap."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators in Sierra Leone from the sources reviewed. Private security companies must be licensed by the Office of National Security under the National Security and Central Intelligence Act 2023, and local reporting in 2023 indicated that dozens of security agencies were operating without valid licences. Whether particular investigative activities fall within that regime should be confirmed with local counsel. Surveillance and recording remain subject to criminal law and constitutional privacy protections, and government databases are accessible only to authorised bodies. TDSC engages only appropriately licensed local professionals for any field work.",
+  "corporate_records": "The Corporate Affairs Commission (CAC) maintains the company register under the Companies Act 2009, including companies limited by guarantee. Register information is not automatically public: members of the public may request it, and sensitive personal details are withheld. There was no comprehensive beneficial ownership law as of 2026; amending the Companies Act so that companies disclose and verify true owners by the end of 2026 is a stated national AML priority. Mining licence data is held in the National Minerals Agency's Mining Cadastre System, with an online public repository, although shareholder information has not been included. Land and court records generally require in-person retrieval.",
+  "anti_corruption": "The Anti-Corruption Act 2008 establishes offences and requires public officers to declare assets annually and on leaving office; it is enforced by the Anti-Corruption Commission, and Cabinet approved amendments in 2026 with online publication of asset declarations planned. The Anti-Money Laundering and Combating of Financing of Terrorism and Financing of Proliferation of Weapons of Mass Destruction Act 2024 governs AML obligations, with the Financial Intelligence Agency as the autonomous financial intelligence unit, implementing a 2025 National AML/CFT Strategy.",
+  "matters": [
+    {
+      "title": "Mineral licence holder verification",
+      "text": "Confirming who stands behind exploration and mining licence holders in iron ore, gold, diamonds, rutile and bauxite by combining Mining Cadastre System records, Corporate Affairs Commission requests, litigation searches and media research, given that the cadastre does not record shareholders."
+    },
+    {
+      "title": "Diamond and gold trade screening",
+      "text": "Background and adverse media research on exporters, dealers and intermediaries in precious stones and metals, sectors flagged as high-risk under Sierra Leone's AML/CFT agenda, including links to politically exposed persons and cross-border trading networks in Guinea and Liberia."
+    },
+    {
+      "title": "Donor and public project integrity",
+      "text": "Vetting contractors, subcontractors and implementing partners on government and donor-funded projects in health, energy, roads and water, checking for undisclosed related parties, prior debarment, conflicts of interest and any Anti-Corruption Commission proceedings involving principals or their associates."
+    },
+    {
+      "title": "Asset tracing and judgment enforcement",
+      "text": "Supporting counsel seeking to identify companies, land interests and other assets connected to a judgment debtor or fraud subject in Sierra Leone, recognising that registry information is request-based and coordinating local professionals for in-person court and land record retrieval."
+    },
+    {
+      "title": "Market entry partner checks",
+      "text": "Reputational due diligence on proposed agents, distributors and joint-venture partners in Freetown for investors in telecommunications, fisheries, agriculture and logistics, focusing on ownership, litigation, political exposure and reputation among local business and civil society sources."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "English (official); Krio widely spoken"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Freetown, UTC+0, no daylight saving"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Leone (SLE), redenominated in 2022"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Freetown, Bo, Kenema, Makeni"
+    },
+    {
+      "label": "Company registry",
+      "value": "Corporate Affairs Commission (request-based access)"
+    },
+    {
+      "label": "Mining records",
+      "value": "National Minerals Agency Mining Cadastre System"
+    },
+    {
+      "label": "Practical note",
+      "value": "Records retrieval is often in person; allow time for travel outside Freetown"
+    }
+  ],
+  "tdsc_approach": "TDSC handles matters touching Sierra Leone from Nashville through scoped consulting engagements. Because the corporate register is request-based and beneficial ownership disclosure is still being legislated, scoping identifies early which questions can be answered from documents and which need corroboration from other lawful sources, such as the mining cadastre, court records, procurement notices, Anti-Corruption Commission releases and local media. Where registry requests, court searches or in-person enquiries are needed, TDSC coordinates qualified and appropriately licensed local professionals and works with the client's Sierra Leonean counsel on legal questions. In the absence of a comprehensive local data protection law, TDSC applies the client's governing data rules and its own minimisation standards, and reports confidence levels and source gaps explicitly.",
+  "faqs": [
+    {
+      "q": "Can we search the Sierra Leone company register online?",
+      "a": "Not in full. The Corporate Affairs Commission maintains the register under the Companies Act 2009, but detailed information is generally released on request rather than published, and sensitive personal details are withheld. TDSC plans for formal requests, sometimes made locally, and builds that time into the engagement schedule."
+    },
+    {
+      "q": "Does Sierra Leone have a beneficial ownership register?",
+      "a": "As of 2026 there was no comprehensive beneficial ownership law. Amending the Companies Act so companies disclose and verify their true owners by the end of 2026 is a national AML priority. Until that is in place, TDSC establishes control through filings, mining cadastre data, litigation, media and lawful local enquiries."
+    },
+    {
+      "q": "Is there a data protection law that governs this work?",
+      "a": "Not yet. Cabinet approved a National Data Protection Policy in April 2026 and authorised a bill combining data protection with access to information. TDSC monitors its progress and in the meantime applies the client's own legal obligations, constitutional privacy principles and strict data minimisation to any personal information gathered."
+    },
+    {
+      "q": "How does TDSC approach mining sector due diligence in Sierra Leone?",
+      "a": "We start with the National Minerals Agency's Mining Cadastre System to confirm licence status and history, then address ownership separately because the cadastre does not show shareholders. Corporate Affairs Commission requests, court searches, adverse media and political exposure research complete the picture, with local professionals retrieving documents where necessary."
+    },
+    {
+      "q": "Who licenses investigators or security firms in Sierra Leone?",
+      "a": "Private security companies are licensed by the Office of National Security under the National Security and Central Intelligence Act 2023. We have not identified a separate licensing regime for private investigators, so TDSC confirms with local counsel whether any planned activity requires a licence and uses only appropriately licensed local professionals."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Information and Civic Education: Cabinet approves first ever Data Protection Policy",
+      "url": "https://moice.gov.sl/?p=2375"
+    },
+    {
+      "title": "Ministry of Information and Civic Education: Nationwide consultations begin on Sierra Leone's first data protection law",
+      "url": "https://moice.gov.sl/nationwide-consultations-begin-on-sierra-leones-first-data-protection-law/"
+    },
+    {
+      "title": "Awoko: 46 private security agencies operate without valid licenses, says ONS",
+      "url": "https://awokonewspapersl.com/?p=118194"
+    },
+    {
+      "title": "Sierra Leone Law Reports: An overview of the Anti-Money Laundering Act 2024",
+      "url": "https://sierraleonelawreports.substack.com/p/an-overview-of-the-anti-money-laundering"
+    },
+    {
+      "title": "EITI: Beneficial ownership disclosure in Sierra Leone, a legal and institutional review",
+      "url": "https://api.eiti.org/sites/default/files/attachments/beneficial_ownership_disclosure_in_sierra_leone_a_legal_and_institutional_review.pdf"
+    },
+    {
+      "title": "Open Government Partnership: Beneficial Ownership Registry (SL0025)",
+      "url": "https://www.opengovpartnership.org/members/sierra-leone/commitments/SL0025/"
+    },
+    {
+      "title": "Awoko: Rewriting the rules, mining sector audits, anti-corruption laws and AML upgrades",
+      "url": "https://awokonewspapersl.com/?p=159503"
+    },
+    {
+      "title": "Parliament of Sierra Leone: Parliament passes the Anti-Money Laundering and Proliferation of Weapons of Mass Destruction Act 2024 (press release)",
+      "url": "https://www.parliament.gov.sl/uploads/press_release/pdf/PARLIAMENT PASSES THE ANTI-MONEY LAUNDERING AND PROLIFERATION OF WEAPONS OF MASS DESTRUCTION ACT 2024- 16t April, 2024.pdf"
+    }
+  ],
+  "review_flags": [
+    "BLOCKING: population source_url is empty. ~8.6 million figure is from general knowledge, not a source found in this batch; add World Bank or Stats SL citation before publishing.",
+    "Data protection bill authorised by Cabinet April 2026 but not enacted; update when passed.",
+    "Anti-Corruption Act amendment bill expected in Parliament mid-2026 and Companies Act 2009 beneficial ownership amendment targeted for end-2026; check status.",
+    "No source for private investigator licensing; only ONS licensing of private security companies (NSCIA 2023) found.",
+    "Court structure and fast-track commercial division stated from general knowledge, not source-verified this batch.",
+    "Parliament press release URL contains spaces and could not be fetched (robots); it appeared in search results only. Consider URL-encoding or replacing."
+  ],
+  "researched": "2026-11-04"
+}

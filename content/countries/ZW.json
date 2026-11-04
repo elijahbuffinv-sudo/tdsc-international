@@ -1,0 +1,98 @@
+{
+  "cc": "ZW",
+  "name": "Zimbabwe",
+  "meta_description": "TDSC investigative consulting on Zimbabwe: beneficial ownership research, Cyber and Data Protection Act compliance, mining due diligence and asset tracing.",
+  "eyebrow": "Republic of Zimbabwe",
+  "hero_lede": "Investigative consulting for matters touching Zimbabwe works with a beneficial ownership regime that allows public inspection at the Registrar of Companies, a data protection law enforced by POTRAZ with controller licensing since 2024, and a mining and agricultural economy where ownership is often layered and politically connected.",
+  "intro": [
+    "Zimbabwe's company law was overhauled by the Companies and Other Business Entities Act of 2019, which introduced beneficial ownership disclosure at a 20 percent threshold, requires companies to keep a beneficial ownership register and allows public inspection of those records at the Registrar's office. Personal data is governed by the Cyber and Data Protection Act of 2021, enforced by POTRAZ, with licensing regulations for data controllers in force since September 2024. Land rights are recorded under the Deeds Registries Act. English is the language of business and the courts, which makes documentary research more accessible than in many regional markets, although record quality and access still vary in practice.",
+    "Organisations commission investigative work involving Zimbabwe chiefly in connection with mining, including gold, platinum group metals and lithium, as well as agriculture and tobacco, banking and mobile money, telecommunications, and public procurement. Typical exposures include nominee shareholdings and deemed beneficial owners, politically exposed counterparties, informal and cash-based supply chains, cross-border flows through South Africa and other regional hubs, and disputes over land and mining title. Investors, lenders, buyers of minerals and their counsel commission research to establish who they are dealing with, whether assets exist and are lawfully held, and whether reputational or sanctions-related risks attach to a counterparty."
+  ],
+  "population": {
+    "value": "not verified for this page",
+    "year": "",
+    "source_url": ""
+  },
+  "legal_system": "Zimbabwe has a mixed legal system combining Roman-Dutch common law with English common law influences and statute, under the 2013 Constitution. Commercial disputes are heard in the magistrates' courts and the High Court, with appeals to the Supreme Court and constitutional questions before the Constitutional Court. We have not verified for this page the current organisation of any commercial division of the High Court or the main arbitration institutions, so forum and enforcement questions in a given matter are reviewed with Zimbabwean counsel.",
+  "data_protection": {
+    "law": "Cyber and Data Protection Act, 2021 (Act 5 of 2021); Cyber and Data Protection (Licensing of Data Controllers and Appointment of Data Protection Officers) Regulations, 2024",
+    "regulator": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ), acting as the Data Protection Authority",
+    "summary": "The Act, in force since December 2021, requires processing to be lawful, fair, necessary and tied to specified purposes, with consent central to the regime and written consent required for sensitive data. Since September 2024 most controllers must register with POTRAZ, many must hold a licence, and licensed controllers must appoint a data protection officer. Transfers abroad require prior notification to POTRAZ and are permitted only where the destination or recipient provides adequate protection or specified conditions apply. Breaches must be reported to POTRAZ within 24 hours. Investigative work involving Zimbabwean data subjects is therefore scoped for consent or other lawful grounds and documented transfer arrangements."
+  },
+  "investigator_regulation": "Zimbabwe regulates private investigators and security guards through dedicated control legislation, which we understand to be the Private Investigators and Security Guards (Control) Act; we have not verified its current requirements for this page, and any locally performed investigative activity is therefore scoped with Zimbabwean counsel and carried out only by appropriately licensed local professionals. The Cyber and Data Protection Act separately constrains collection and use of personal data, and the Act's cybercrime provisions bear on any access to computer systems. TDSC does not conduct pretexting, covert recording or attempts to access official, banking or telecommunications records.",
+  "corporate_records": "Companies register with the Registrar of Companies under the Companies and Other Business Entities Act [Chapter 24:31]. Beneficial owners holding at least 20 percent of shares or voting rights, or exercising significant control, are disclosed on Form CR16, and each company must keep a beneficial ownership register maintained by a Zimbabwe-resident person. Any member of the public may inspect beneficial ownership records at the Registrar's office, while the FIU and law enforcement have investigative access. Nominees must disclose the persons for whom they hold shares. Open Ownership still records the central register as being implemented rather than complete. Land records are kept under the Deeds Registries Act.",
+  "anti_corruption": "Money laundering is addressed by the Money Laundering and Proceeds of Crime Act [Chapter 9:24], with a Financial Intelligence Unit receiving reports and able to inspect beneficial ownership records. Corruption and bribery offences are prosecuted under national criminal law, and the Zimbabwe Anti-Corruption Commission is the principal anti-corruption investigative body. Beneficial ownership concealment through nominees carries criminal penalties under the Companies and Other Business Entities Act, including fines, imprisonment of up to five years, and possible vesting of shares in the state.",
+  "matters": [
+    {
+      "title": "Mining title and offtake due diligence",
+      "text": "Verifying the ownership, permits and track record of holders and buyers of gold, platinum group metals and lithium claims, including deemed beneficial owners and nominee arrangements, so that investors and offtakers can assess title, reputational exposure and the integrity of mineral supply chains."
+    },
+    {
+      "title": "Beneficial ownership and nominee mapping",
+      "text": "Using CR16 filings, Registrar inspections, court records and foreign registries to identify the natural persons behind Zimbabwean entities, including relatives, trustees and associates whom the 2019 Act treats as deemed beneficial owners, and documenting where records are incomplete or inconsistent."
+    },
+    {
+      "title": "Politically exposed counterparties",
+      "text": "Assessing links between counterparties and senior officials, security services or state-owned enterprises in procurement, energy and mining matters, and screening against applicable sanctions and adverse media so that clients can decide lawfully whether and how to proceed."
+    },
+    {
+      "title": "Agriculture and land interests",
+      "text": "Research into ownership and occupation of farmland and agribusinesses, including tobacco contracting and processing, where land reform history, leasehold arrangements and Deeds Registry entries may not reflect who actually controls or benefits from the land."
+    },
+    {
+      "title": "Regional asset tracing",
+      "text": "Supporting counsel in fraud, insolvency and enforcement matters where Zimbabwean value has moved through South Africa, Mauritius, the United Arab Emirates or offshore centres, combining Zimbabwean register research with foreign-court and corporate record work in those jurisdictions."
+    }
+  ],
+  "practical": [
+    {"label": "Business language", "value": "English (courts and records); Shona and Ndebele widely spoken"},
+    {"label": "Time zone", "value": "Africa/Harare, UTC+2"},
+    {"label": "Working week", "value": "Monday to Friday"},
+    {"label": "Main business centres", "value": "Harare, Bulawayo"},
+    {"label": "Company records", "value": "Registrar of Companies; beneficial ownership records open to public inspection"},
+    {"label": "Data protection", "value": "POTRAZ registration or licence may be required for controllers"},
+    {"label": "Document formalities", "value": "Confirm notarisation and legalisation of foreign documents with counsel"},
+    {"label": "Business culture", "value": "Formal, relationship-based; discretion is expected on political matters"}
+  ],
+  "tdsc_approach": "TDSC handles Zimbabwe matters from Nashville as scoped consulting engagements. Every matter is screened for sanctions and politically exposed person risk at intake, and engagements that would breach US or other applicable sanctions are declined. A jurisdictional review then sets out which records are lawfully available, including Registrar of Companies filings and beneficial ownership inspections, Deeds Registry entries and court records, and how the Cyber and Data Protection Act, POTRAZ licensing and transfer notification rules apply to the work. Where inspections, certified copies or local inquiries are needed, TDSC coordinates appropriately licensed local professionals and works with the client's Zimbabwean counsel. Personal data is minimised, and reports separate documentary findings from source information.",
+  "faqs": [
+    {
+      "q": "Can the public see beneficial ownership information in Zimbabwe?",
+      "a": "Yes, in principle. Under section 72 of the Companies and Other Business Entities Act, any member of the public may inspect beneficial ownership records at the Registrar's office, while the FIU and law enforcement have investigative access. In practice, inspection is done in person and completeness varies, so filings are cross-checked against other records."
+    },
+    {
+      "q": "What ownership threshold applies?",
+      "a": "The 2019 Act treats a natural person holding at least 20 percent of shares or voting rights, or exercising significant control such as the power to appoint most directors, as a beneficial owner. Associates, near relatives, trustees and controlled companies can be deemed beneficial owners, which matters when mapping family and nominee structures."
+    },
+    {
+      "q": "Does the Cyber and Data Protection Act affect foreign clients?",
+      "a": "It can. The Act governs processing of personal data in Zimbabwe, and transfers abroad require prior notification to POTRAZ and adequate protection or another permitted condition. Since September 2024 many controllers must register or hold a licence. TDSC scopes collection, storage and reporting so that the work and any transfer have a documented lawful basis."
+    },
+    {
+      "q": "Are private investigators licensed in Zimbabwe?",
+      "a": "Zimbabwe has control legislation covering private investigators and security guards. TDSC holds no Zimbabwean licence and does not claim one. Where local investigative activity is needed, it is planned with Zimbabwean counsel and carried out by appropriately licensed local professionals, within data protection and criminal law limits."
+    },
+    {
+      "q": "How are land and mining interests checked?",
+      "a": "Land rights are recorded under the Deeds Registries Act, and mining title sits with the mining authorities. Neither always shows who finances or controls an asset, particularly where leaseholds, nominees or joint ventures are involved. TDSC combines registry extracts obtained through local professionals with company, court and open-source research to test the position."
+    }
+  ],
+  "sources": [
+    {"title": "Cyber and Data Protection Act, 2021 (ZimLII)", "url": "https://zimlii.org/akn/zw/act/2021/5/eng@2022-03-11"},
+    {"title": "Data Protection Africa: Zimbabwe", "url": "https://dataprotection.africa/?p=1265"},
+    {"title": "Michalsons: Zimbabwe's Cyber and Data Protection Act overview", "url": "https://www.michalsons.com/blog/zimbabwes-cyber-and-data-protection-act-overview/78795"},
+    {"title": "Companies and Other Business Entities Act, 2019 (ZimLII)", "url": "https://zimlii.org/akn/zw/act/2019/4/eng@2019-11-15/source"},
+    {"title": "Business Times: Regulation of beneficial ownership in Zimbabwe", "url": "https://businesstimes.co.zw/regulation-of-beneficial-ownership-in-zimbabwe/"},
+    {"title": "Citco: Zimbabwe implements UBO regulation", "url": "https://citco.com/insights/zimbabwe-implements-ubo-regulation"},
+    {"title": "Open Ownership: Zimbabwe", "url": "https://www.openownership.org/en/map/country/zimbabwe"},
+    {"title": "Deeds Registries Act (ZimLII)", "url": "https://zimlii.org/akn/zw/act/1959/10"}
+  ],
+  "review_flags": [
+    "Population not verified: no World Bank or ZimStat result surfaced within the search budget. Insert the official figure and source before publishing.",
+    "Private Investigators and Security Guards (Control) Act named from general knowledge, not verified in a source this session; confirm name, chapter number and licensing authority.",
+    "Zimbabwe Anti-Corruption Commission and court structure (High Court commercial division, arbitration centres) not verified from sources; text kept general.",
+    "Data controller licensing regulations (September 2024) sourced to Michalsons; confirm statutory instrument number and current fees.",
+    "US Zimbabwe sanctions program changed in 2024 (moved to targeted designations); central sanctions review should confirm tdsc_approach wording."
+  ],
+  "researched": "2026-11-04"
+}

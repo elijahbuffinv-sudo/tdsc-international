@@ -1,0 +1,135 @@
+{
+  "cc": "FJ",
+  "name": "Fiji",
+  "meta_description": "TDSC investigative consulting on Fiji: company and ownership research, partner vetting and fraud support for tourism, trade and finance, scoped from Nashville",
+  "eyebrow": "Republic of Fiji",
+  "hero_lede": "Investigative consulting on Fiji usually concerns tourism and property investments, Pacific trade and finance counterparties, and fraud or asset questions in a small, closely connected business community. TDSC scopes each matter from Nashville, working from lawful sources and, where needed, licensed local professionals and Fijian counsel.",
+  "intro": [
+    "Fiji is the principal commercial hub of the South Pacific, with Suva as the seat of government and finance and the Nadi and Lautoka corridor serving tourism and trade. Its legal system follows the common law tradition, and companies are registered with the Office of the Registrar of Companies under the Companies Act 2015. There is no comprehensive data protection statute; privacy rests on section 24 of the 2013 Constitution and sector-specific confidentiality rules. Because the business community is small and relationships overlap, discretion matters as much as access. Investigators rely on registry extracts, court judgments, land and media sources, and carefully planned interviews.",
+    "Organisations commission work involving Fiji for practical reasons. Foreign hotel operators, resort investors and property buyers want to know who stands behind local partners and land arrangements. Regional banks, insurers and remittance businesses need background research on customers and intermediaries as the country strengthens its anti-money laundering framework, including 2026 amendments on beneficial ownership disclosure. Exporters and importers in sugar, fisheries, timber, bottled water and garments vet distributors and agents. Development-funded construction and infrastructure projects require integrity checks on contractors, and law firms ask for factual support in fraud, employment and commercial disputes with Fijian parties."
+  ],
+  "population": {
+    "value": "approximately 0.93 million",
+    "year": "2023",
+    "source_url": ""
+  },
+  "legal_system": "Fiji follows the common law tradition inherited from English law, operating under the 2013 Constitution and statutes enacted by Parliament. Commercial disputes are generally heard in the High Court, which has a commercial division in Suva, with appeals to the Court of Appeal and then the Supreme Court; magistrates' courts handle smaller claims. Judgments are reported and many are available through the Pacific Islands Legal Information Institute (PacLII). Arbitration is used in construction and investment contracts, often seated offshore. We have not verified current institutional arbitration arrangements within Fiji.",
+  "data_protection": {
+    "law": "No comprehensive data protection law as of 2026; constitutional privacy right (section 24, Constitution of 2013) and sectoral confidentiality laws",
+    "regulator": "No dedicated data protection authority; the Online Safety Commission (Online Safety Act 2018) addresses online harms",
+    "summary": "Fiji has not enacted a general data protection statute, so investigative work is governed by the constitutional right to personal privacy, which covers confidentiality of personal information and communications, and by sectoral secrecy rules. These include confidentiality duties in the Banking Act 1995, the Fiji Revenue and Customs Service Act 1998, medical practitioner legislation and lawyers' professional rules, together with the Cybercrime Act 2021. There are no statutory cross-border transfer or localisation rules. The absence of a code does not permit intrusive collection; we apply necessity and proportionality, avoid sensitive data unless essential, and handle material under the client's home-country data rules."
+  },
+  "investigator_regulation": "We have not identified, within our research as of 2026, a dedicated licensing regime for private investigators in Fiji or a regulator responsible for the activity, and this point should be confirmed with Fijian counsel before local enquiries begin. The absence of a licensing statute does not remove legal limits: the constitutional privacy right, confidentiality offences in banking and revenue legislation, the Cybercrime Act 2021 and general criminal law constrain surveillance, access to records and interception. Online conduct may also fall within the Online Safety Act 2018. TDSC does not conduct covert recording or seek confidential bank, tax or telecom information.",
+  "corporate_records": "Companies are registered with the Office of the Registrar of Companies, within the Ministry of Justice, under the Companies Act 2015. Records include incorporation documents, officers, share capital and annual return status, accessed through the government ROC e-Services platform, which requires an account. As of mid-2026 there is no publicly accessible central beneficial ownership register. In April 2026 Cabinet approved amendments to the Companies Regulations 2015 to tighten beneficial ownership identification and disclosure; their implementation and any public access remain to be confirmed. Court judgments are often published through PacLII; land records depend on tenure type.",
+  "anti_corruption": "The Financial Transactions Reporting Act, under which the Fiji Financial Intelligence Unit was established in 2004, sets customer due diligence and reporting duties for banks, money transfer businesses, real estate agents and others. Corruption investigations and prosecutions are led by the Fiji Independent Commission Against Corruption (FICAC). Courts have convicted defendants on money laundering and corrupt practices charges. The 2026 beneficial ownership reforms respond to gaps identified in international AML/CFT assessments. Foreign firms also remain subject to home-country laws such as the US FCPA.",
+  "matters": [
+    {
+      "title": "Tourism and property investment checks",
+      "text": "Background research on resort developers, hotel partners, landholding arrangements and local promoters before acquisition or management agreements, covering company records, litigation, media history and the practical realities of leasehold and native land arrangements that affect who can deliver a project."
+    },
+    {
+      "title": "Ownership tracing behind Fijian companies",
+      "text": "Mapping officers, shareholders and parent entities from Registrar of Companies records and offshore filings, recognising that Fiji has no public beneficial ownership register and that ownership often runs through Australia, New Zealand or regional structures. Each link is graded by the strength of its evidence."
+    },
+    {
+      "title": "Financial services and remittance due diligence",
+      "text": "Enhanced due diligence on customers, agents and intermediaries for banks, insurers and money transfer operators, supporting obligations under the Financial Transactions Reporting Act and the reforms that followed recent international AML/CFT assessments. Findings are written so compliance teams can file and act on them."
+    },
+    {
+      "title": "Fraud and asset research",
+      "text": "Factual support for counsel in investment fraud, misappropriation and employee fraud matters, identifying related parties, registered assets and published judgments, and coordinating licensed local professionals for document retrieval where the matter requires work on the ground."
+    },
+    {
+      "title": "Contractor integrity on funded projects",
+      "text": "Screening contractors, subcontractors and consultants on donor-funded and government infrastructure projects for undisclosed links, prior debarment, adverse judgments and reputational issues, helping lenders and project sponsors meet integrity requirements. Sources and limits are set out in each report."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "English; iTaukei and Fiji Hindi also official"
+    },
+    {
+      "label": "Time zone",
+      "value": "Pacific/Fiji, UTC+12"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Fijian dollar (FJD)"
+    },
+    {
+      "label": "Courts language",
+      "value": "English"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Suva, Nadi, Lautoka"
+    },
+    {
+      "label": "Business culture",
+      "value": "Small, interconnected community; discretion and respect for customary structures matter"
+    }
+  ],
+  "tdsc_approach": "TDSC handles matters touching Fiji from Nashville. We start by confirming the client's purpose and legal footing, then review the constraints that apply despite the lack of a general data protection statute: the constitutional privacy right, banking and revenue secrecy, the Cybercrime Act and the Online Safety Act. Research draws on Registrar of Companies records, PacLII judgments, Australian and New Zealand registries where ownership runs offshore, and English-language and local media. Because Fiji's commercial community is small, we plan any enquiry or interview so that it does not alert the subject. Where on-the-ground work is required, we coordinate qualified local professionals under the guidance of Fijian counsel, and keep personal data to what the engagement needs.",
+  "faqs": [
+    {
+      "q": "Is there a public beneficial ownership register in Fiji?",
+      "a": "Not as of mid-2026. Company records with the Registrar of Companies show officers and share information, and Cabinet approved stronger beneficial ownership disclosure rules in April 2026, but public access to that data has not been confirmed. We trace ownership through registry extracts, offshore filings and other public sources, and state clearly what remains unverified."
+    },
+    {
+      "q": "Does Fiji have a data protection law that affects background research?",
+      "a": "Fiji has no comprehensive data protection act. Section 24 of the 2013 Constitution protects personal privacy, and sectoral laws protect banking, tax, medical and legal information. We treat these as real limits, use public and lawfully obtained information, and apply the client's own data protection obligations to the material we collect."
+    },
+    {
+      "q": "Can you check a Fijian partner before a resort or property deal?",
+      "a": "Yes. We review company and court records, media coverage and business history, examine who controls the counterparty and its affiliates, and identify any disputes connected with the land or project. Questions about title and land tenure are referred to Fijian counsel, who can review the relevant registers and approvals."
+    },
+    {
+      "q": "Are court judgments in Fiji easy to search?",
+      "a": "Many High Court, Court of Appeal and Supreme Court judgments are published through PacLII, which makes reported litigation reasonably searchable. Coverage of lower courts and unreported matters is incomplete, so we combine database searches with media research and, where justified, file reviews arranged through local counsel."
+    },
+    {
+      "q": "How do you keep enquiries discreet in a small market?",
+      "a": "Fiji's business and professional networks overlap, so word travels quickly. We start with desk research, limit the number of people approached, use carefully briefed local professionals, and agree with the client in advance which questions justify direct enquiries. Some matters are best answered from documents alone."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Fiji",
+      "url": "https://www.dlapiperdataprotection.com/?c=FJ&t=law"
+    },
+    {
+      "title": "US International Trade Administration: Fiji Country Commercial Guide, Digital Economy",
+      "url": "https://www.trade.gov/country-commercial-guides/fiji-digital-economy"
+    },
+    {
+      "title": "Fiji Financial Intelligence Unit: Strengthening Beneficial Ownership Transparency (2026)",
+      "url": "https://www.fijifiu.gov.fj/Pages/News/2026/Strengthening-Beneficial-Ownership-Transparency"
+    },
+    {
+      "title": "Fiji Times: Cabinet moves to strengthen company ownership transparency (2026)",
+      "url": "https://www.fijitimes.com.fj/cabinet-moves-to-strengthen-company-ownership-transparency/"
+    },
+    {
+      "title": "Business Data Guide: Fiji company search guide",
+      "url": "https://businessdataguide.com/blog/jurisdictions/fiji-company-search-guide"
+    },
+    {
+      "title": "Fiji FIU: Unmasking Corporate Secrecy presentation (2014)",
+      "url": "https://fijifiu.gov.fj/getattachment/4af34640-4115-451f-978e-344e3052d2b0/Unmasking-Corporate-Secrecy-in-TFC-Razim-Buksh-11.aspx"
+    }
+  ],
+  "review_flags": [
+    "Population figure (about 0.93 million, 2023) not verified from a World Bank or Fiji Bureau of Statistics source within the search budget; source_url left empty - needs a citation.",
+    "No source found on private investigator licensing in Fiji; text says no dedicated regime identified - confirm with Fijian counsel.",
+    "Legal system and court structure (High Court commercial division, Court of Appeal, Supreme Court, PacLII coverage) stated from general knowledge, not from a fetched source - verify.",
+    "April 2026 beneficial ownership amendments to the Companies Regulations 2015: effective date and public access not confirmed.",
+    "Bribery statute (Prevention of Bribery Promulgation) not verified and not named; FICAC named from FIU material only.",
+    "A Fiji data protection bill has been discussed publicly; status not confirmed - recheck before publication."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,138 @@
+{
+  "cc": "KH",
+  "name": "Cambodia",
+  "meta_description": "TDSC investigative consulting on Cambodia: due diligence, asset tracing and AML-focused inquiries, scoped from Nashville with licensed local professionals.",
+  "eyebrow": "Kingdom of Cambodia",
+  "hero_lede": "Investigative consulting for matters touching Cambodia means working in a dollarised, fast-growing economy where formal records are thinner than counterparties suggest, data protection law is still being written, and much commercial risk sits in real estate, garment supply chains, casinos and cross-border payments.",
+  "intro": [
+    "Cambodia is a constitutional monarchy with a civil law system rebuilt after 1993, much of it drafted with foreign technical assistance. Business registration has moved online through the Ministry of Commerce, and the economy runs heavily on the US dollar alongside the riel. For investigators the practical environment is mixed: company existence and basic particulars can usually be confirmed, but ownership chains, nominee arrangements and land interests are harder to document, and court records are not systematically published. As of late 2025 there is no comprehensive data protection statute in force, although a draft Law on Personal Data Protection has been released, so investigative work must be planned around a framework that is expected to change.",
+    "Organisations commission work involving Cambodia for several recurring reasons. Apparel, footwear and travel goods manufacturers and their buyers need supplier and labour-compliance checks. Investors in real estate, hospitality, special economic zones and energy want to understand who stands behind local partners. Financial institutions and payment firms need counterparty and source-of-funds assessments, given international scrutiny of online scam operations, gaming and money laundering in parts of the region. Lenders and litigants pursue assets moved through Cambodia, and employers and insurers seek background verification on individuals with Cambodian histories. Cross-border cases frequently also touch Thailand, Vietnam, Singapore and mainland China."
+  ],
+  "population": {
+    "value": "approximately 17.6 million",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Cambodia has a civil law system influenced by French and, more recently, Japanese drafting assistance, with a Civil Code, Code of Civil Procedure and Criminal Code adopted in the 2000s. Commercial disputes are heard in the ordinary courts: municipal and provincial courts of first instance, the Court of Appeal and the Supreme Court, with Phnom Penh handling most significant cases. Arbitration is available through the National Commercial Arbitration Centre. Court proceedings are conducted in Khmer, and judgments are not comprehensively published, so litigation history is difficult to verify without local assistance.",
+  "data_protection": {
+    "law": "No comprehensive law in force as of September 2025; draft Law on Personal Data Protection released for consultation in July 2025",
+    "regulator": "No dedicated authority; the Ministry of Post and Telecommunications is expected to have a central role under the draft law",
+    "summary": "Privacy is currently protected indirectly through the Constitution, provisions of the Civil Code and Criminal Code, the E-Commerce Law and banking rules, which may cover personal data. There are no general restrictions on cross-border transfers, but licensed banks and financial institutions must report certain outsourcing and offshore storage of Cambodian data under technology risk guidelines. The draft Law on Personal Data Protection would introduce GDPR-style lawful bases, transfer conditions, certified data protection officers and significant fines, with a two-year implementation period after promulgation. Investigative work involving Cambodian personal data should already be run to that standard."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators or detective agencies in Cambodia. Private security activity is subject to government oversight, and investigative activities remain bound by the Criminal Code, including offences relating to privacy, defamation and the handling of confidential information. Covert recording, surveillance and any approach to officials carry significant legal and practical risk, and access to police, immigration or identity records is restricted to the authorities. Engagements requiring work on the ground are therefore scoped with Cambodian counsel and appropriately qualified local professionals, and limited to lawful, open enquiries.",
+  "corporate_records": "Companies are registered with the Ministry of Commerce through its online business registration system. Basic particulars such as company name, registration number, registered address, directors and status can generally be checked, though the depth of public detail varies and shareholder information may require formal requests or documents from the company itself. Cambodia does not maintain a public beneficial ownership register; under the 2020 AML/CFT Law, reporting entities must identify ultimate beneficial owners under CAFIU guidance. Land title records sit with the Ministry of Land Management and cadastral offices and are not openly searchable online.",
+  "anti_corruption": "The Anti-Corruption Law, as amended, criminalises bribery, embezzlement, extortion and related conduct and established the Anti-Corruption Unit, which investigates offences and runs prevention and education work. The Criminal Code provides for corporate criminal liability for offences committed by a company's organs or representatives. The Law on Anti-Money Laundering and Combating the Financing of Terrorism, issued in June 2020, replaced the 2007 law and is supervised by the Cambodia Financial Intelligence Unit (CAFIU), with reporting obligations extending to real estate agents, casinos, lawyers, notaries and accountants.",
+  "matters": [
+    {
+      "title": "Garment and footwear supplier checks",
+      "text": "Verification of factory ownership, subcontracting chains, sanctions and labour-compliance exposure for buyers sourcing apparel, footwear and travel goods from Cambodia, including identification of undisclosed affiliates and related parties behind supplier facilities in Phnom Penh and the special economic zones. Findings are referenced to sources for buyers' compliance files."
+    },
+    {
+      "title": "Real estate and hospitality partners",
+      "text": "Background and reputational review of developers, landholders and hotel or casino partners in Phnom Penh, Sihanoukville and Siem Reap, where nominee structures, foreign-ownership limits on land and contested titles can obscure who actually controls an asset. Findings are framed for investment committees and counsel."
+    },
+    {
+      "title": "Payments and fintech counterparties",
+      "text": "Counterparty due diligence for banks, payment processors and crypto-asset businesses dealing with Cambodian entities, focusing on source of funds, links to online gaming or scam-centre activity, and adverse media in Khmer and English. Each finding is linked to its source."
+    },
+    {
+      "title": "Asset tracing and judgment support",
+      "text": "Lawful identification of companies, property interests and business relationships connected to debtors or defendants with a Cambodian footprint, prepared to support counsel in recognition, enforcement or settlement strategy in Cambodia or elsewhere. Results are presented with reliability notes for each source."
+    },
+    {
+      "title": "Individual background verification",
+      "text": "Verification of education, employment, directorships and media history for executives, agents and hires with Cambodian backgrounds, with clear statements of which records could and could not be independently confirmed. Gaps in available records are reported, not filled by assumption."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Khmer; English widely used in commerce; Chinese common in some sectors"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Phnom_Penh, UTC+7, no daylight saving time"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday, with Saturday morning work common in the private sector"
+    },
+    {
+      "label": "Currency",
+      "value": "Cambodian riel (KHR); US dollar widely used"
+    },
+    {
+      "label": "Courts language",
+      "value": "Khmer"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Phnom Penh, Siem Reap, Sihanoukville, Battambang"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Certified Khmer translations usually required for official filings"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Cambodia-related engagements from Nashville. Each matter begins with a jurisdictional review covering the current status of the draft Law on Personal Data Protection, sector rules such as banking guidance, and any sanctions or export-control screening relevant to the parties. Research relies on lawful sources: Ministry of Commerce registration data, documents provided by the subject or counterparties, published court and regulatory material, and Khmer, English and Chinese-language media. Where enquiries on the ground are justified, TDSC coordinates appropriately qualified local professionals working under Cambodian counsel, with clear instructions excluding pretexting, payments to officials and access to restricted records. Personal data is minimised, held in Nashville under documented controls, and reported with source notes so counsel can assess reliability.",
+  "faqs": [
+    {
+      "q": "Can a Cambodian company's shareholders be confirmed from public records?",
+      "a": "Basic company particulars can usually be confirmed through the Ministry of Commerce online registration system, but shareholder and ultimate ownership detail is often incomplete or not publicly displayed. Cambodia has no public beneficial ownership register. We combine registry data with documents supplied by the company, media and litigation sources, and state clearly where ownership cannot be independently verified."
+    },
+    {
+      "q": "Does Cambodia have a data protection law?",
+      "a": "As of late 2025 there is no comprehensive law in force. Privacy is protected indirectly through the Constitution, the Civil and Criminal Codes, the E-Commerce Law and banking rules. A draft Law on Personal Data Protection was released in July 2025 with GDPR-style obligations. We plan work as though those standards already apply and review the position at the start of each engagement."
+    },
+    {
+      "q": "Are private investigators licensed in Cambodia?",
+      "a": "We have not identified a dedicated licensing regime for private investigators. That absence does not make investigative activity unregulated: criminal provisions on privacy, defamation and confidential information still apply. TDSC does not claim any Cambodian licence and coordinates any local work through qualified professionals working with Cambodian counsel."
+    },
+    {
+      "q": "Can TDSC check land ownership in Cambodia?",
+      "a": "Land records are held by the Ministry of Land Management and cadastral offices and are not openly searchable online. Foreign ownership of land is restricted, so nominee arrangements are common. Title checks usually require local counsel and documents from the parties, and we treat land information as indicative unless confirmed through those channels."
+    },
+    {
+      "q": "How do you handle scam-centre and money laundering risk in Cambodian due diligence?",
+      "a": "We screen counterparties for adverse media, regulatory actions and known associations in Khmer, English and Chinese sources, and look at sector, location and payment patterns. Findings are presented as risk indicators with sources, not conclusions of wrongdoing, so compliance teams and counsel can decide on enhanced checks or escalation."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hogan Lovells: Cambodia moves to enact comprehensive data privacy law",
+      "url": "https://www.hlc.com/en/publications/cambodia-moves-to-enact-comprehensive-data-privacy-law"
+    },
+    {
+      "title": "Multilaw Data Protection Laws Guide: Cambodia (Tilleke & Gibbins, 2025)",
+      "url": "https://www.multilaw.com/Multilaw/Data_Protection_Laws_Guide/DataProtection_Guide_Cambodia.aspx"
+    },
+    {
+      "title": "Open Development Cambodia: Final draft Law on Personal Data Protection (June 2025, English)",
+      "url": "https://data.opendevelopmentcambodia.net/en/dataset/792fc94d-1a84-49cc-bad3-9b420f99b70f/resource/03e9c060-9bc8-42d5-80a6-8db777f61d1c/download/20250623_final-draft-pdp-law_eng.pdf"
+    },
+    {
+      "title": "Tilleke & Gibbins: Analysis of Cambodia's new Law on Anti-Money Laundering",
+      "url": "https://www.tilleke.com/insights/analysis-cambodias-new-law-anti-money-laundering"
+    },
+    {
+      "title": "Tilleke & Gibbins: Asia-Pacific Investigations Review, Cambodia chapter (2016)",
+      "url": "https://www.tilleke.com/wp-content/uploads/2016/12/2016_Dec_Asia-Pacific_Investigations_Review_Cambodia.pdf"
+    },
+    {
+      "title": "UNODC: Beneficial ownership disclosure (2022)",
+      "url": "https://events.development.asia/system/files/materials/2022/02/202202-beneficial-ownership-disclosure-unodc.pdf"
+    },
+    {
+      "title": "ICNL Civic Freedom Monitor: Cambodia",
+      "url": "https://www.icnl.org/resources/civic-freedom-monitor/cambodia"
+    }
+  ],
+  "review_flags": [
+    "Population figure (approx. 17.6 million, 2024) is from general knowledge; the World Bank URL was not retrieved in this session. Verify.",
+    "Draft Law on Personal Data Protection was not enacted as of September 2025; check whether it has since been promulgated and which authority it designates.",
+    "No PI licensing regime identified; not confirmed by a source. Private security oversight and Criminal Code privacy offences stated generally and should be checked by Cambodian counsel.",
+    "Anti-Corruption Law year (2010), Ministry of Commerce registry detail, National Commercial Arbitration Centre, land records and court structure are from general knowledge rather than opened sources; verify.",
+    "Working week (Saturday mornings) and Chinese-language business usage are general observations."
+  ],
+  "researched": "2026-11-04"
+}

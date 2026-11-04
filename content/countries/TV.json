@@ -1,0 +1,96 @@
+{
+  "cc": "TV",
+  "name": "Tuvalu",
+  "meta_description": "TDSC investigative consulting on Tuvalu: counterparty, licensing and corporate research on a small Pacific economy, with lawful sources and local counsel.",
+  "eyebrow": "Tuvalu, South Pacific",
+  "hero_lede": "Investigative consulting on Tuvalu concerns a very small state whose revenue relies heavily on fishing licences, its .tv internet domain and development finance. Engagements focus on counterparties, licence holders and project participants, using the limited public record carefully and coordinating qualified local professionals.",
+  "intro": [
+    "Tuvalu is a Pacific island nation of nine atolls and reef islands with a population of roughly ten thousand, a parliamentary democracy that retains the British monarch as head of state and uses the Australian dollar. Government and public enterprises dominate formal economic activity, and island councils (Kaupule) under the Falekaupule Act play a significant role in local affairs and land matters. Its statute book, published as revised editions on PacLII, is compact and in places dated. There is no comprehensive data protection law and no dedicated investigator licensing statute, and public registry access is limited. For outside investigators, the practical consequence is that research must be scoped narrowly and confirmed with local counsel rather than assumed from larger common-law systems.",
+    "Organisations commission work touching Tuvalu mainly because of the channels through which its economy meets the outside world. Foreign fishing fleets and agents operate under licences in its exclusive economic zone, the .tv domain is managed through commercial arrangements, and climate adaptation, infrastructure and telecommunications projects bring donors, contractors and consultants. Each creates questions about counterparties, intermediaries and the integrity of procurement and licensing. Tuvalu's ship registry and nationals working at sea, its shipping links to Fiji, and its diplomatic and security relationships with partners including Australia, New Zealand and Taiwan add further context. In a community this small, conflicts of interest and personal relationships are a constant consideration, and discretion is essential."
+  ],
+  "population": {
+    "value": "approximately 10,000",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Tuvalu has a common-law system based on its Constitution, Acts of Parliament, applicable English common law and equity, and customary law, which is significant for land and family matters. The Superior Courts Act and Magistrates' Courts Act establish the court structure: the High Court, presided over by a non-resident Chief Justice, hears significant civil and commercial matters, with a Court of Appeal above it and, historically, further appeal to the Privy Council. Magistrates' courts, island courts and lands courts handle local matters. Tuvalu has no specialised commercial court or arbitration centre; complex disputes often turn on contracts governed by foreign law.",
+  "data_protection": {
+    "law": "No comprehensive data protection statute identified; constitutional privacy protection and general law apply",
+    "regulator": "No data protection authority",
+    "summary": "We have not identified a data protection statute in Tuvalu's revised laws, and there is no data protection regulator. The Constitution protects against arbitrary interference with privacy, home and correspondence, and the Penal Code and telecommunications legislation govern interference with communications. There are no specific rules on lawful basis, cross-border transfers or localisation. In practice, the standards that apply to an investigation involving Tuvalu are those of the client's own jurisdiction, such as the GDPR or US state laws, together with any confidentiality obligations in licences or contracts. TDSC applies data minimisation and secure handling regardless."
+  },
+  "investigator_regulation": "We have not identified any licensing regime for private investigators or security agencies in Tuvalu's revised legislation, and there is no local private investigation industry. That does not make field activity unrestricted: Tuvalu is a small, closely connected society in which covert enquiries are both impractical and likely to cause harm, and the Penal Code, constitutional privacy protections and the law on interference with communications apply. TDSC does not undertake surveillance or covert recording in Tuvalu and coordinates any necessary in-country enquiries through Tuvaluan counsel and appropriately qualified professionals.",
+  "corporate_records": "Domestic companies are governed by the Companies Act, and businesses with a place of business in Tuvalu file constitutional documents, lists of directors or partners, a local agent for service and annual balance sheets with the minister under the Companies and Business Registration Act, which provides for a register and limits foreign interests in certain partnerships. The legislation does not provide a statutory right of public inspection, and there is no public beneficial ownership register; beneficial ownership information is reported to authorities rather than published. Land is held largely under native title administered through the Native Lands Act and lands courts.",
+  "anti_corruption": "The Proceeds of Crime Act 2004 creates money laundering offences, provides for confiscation and restraint of criminal proceeds, imposes customer identification, record-keeping and suspicious transaction reporting duties on financial institutions and cash dealers, and established a Transaction Tracking Unit within the Tuvalu Police Force. The Leadership Code Act sets conduct standards for public leaders. Bribery and official corruption are offences under the Penal Code, prosecuted by the Attorney-General. The Auditor-General oversees public accounts.",
+  "matters": [
+    {
+      "title": "Fishing licence and fleet counterparties",
+      "text": "Licence fees from foreign fishing fleets are a major source of government revenue. Engagements examine vessel owners, agents and joint-venture partners for ownership, compliance history, links to illegal, unreported or unregulated fishing allegations and related-party arrangements, using regional and international public sources."
+    },
+    {
+      "title": "Project and procurement integrity",
+      "text": "Climate adaptation, coastal protection, telecommunications and infrastructure projects bring donor-funded contracts to a very small administration. TDSC supports funders and contractors with background research on bidders, subcontractors and intermediaries, and on conflicts of interest that are more likely in a small community."
+    },
+    {
+      "title": "Digital and domain-related arrangements",
+      "text": "The .tv domain and other digital initiatives involve commercial operators and intermediaries outside Tuvalu. Research verifies the identity, ownership and track record of companies proposing such arrangements and examines the public history of earlier agreements."
+    },
+    {
+      "title": "Ship registry and maritime matters",
+      "text": "Tuvalu operates an international ship registry, and vessels under its flag can feature in sanctions, insurance and casualty matters. TDSC reviews open maritime, ownership and classification data to establish the beneficial owners, managers and histories of vessels, without contact with crew."
+    },
+    {
+      "title": "Verification of persons and representations",
+      "text": "Overseas parties sometimes present claimed Tuvaluan credentials, appointments or licences. With few online records, verification relies on official gazettes, government announcements, published laws and confirmation through counsel, and TDSC reports plainly where a representation cannot be confirmed."
+    }
+  ],
+  "practical": [
+    {"label": "Languages", "value": "Tuvaluan and English; English used in law and government"},
+    {"label": "Time zone", "value": "Pacific/Funafuti, UTC+12:00, no daylight saving"},
+    {"label": "Currency", "value": "Australian dollar (AUD)"},
+    {"label": "Capital", "value": "Funafuti, the centre of government and business"},
+    {"label": "Laws", "value": "Revised statutes published on PacLII"},
+    {"label": "Courts", "value": "High Court with non-resident Chief Justice; magistrates', island and lands courts"},
+    {"label": "Business culture", "value": "Very small, community-based; respect for island councils and custom"}
+  ],
+  "tdsc_approach": "TDSC handles Tuvalu-related matters from Nashville and has no presence in the country. Scoping recognises how little of the public record is online: legislation is available through PacLII, but company, land and court information generally needs confirmation through Tuvaluan counsel. Most work is conducted outside Tuvalu, using regional fisheries and maritime data, foreign corporate registries, donor and procurement publications, court records in Fiji, Australia, New Zealand and elsewhere, and media reporting. Because almost any local enquiry will be known quickly in Funafuti, TDSC agrees with the client in advance whether in-country contact is necessary and, if it is, coordinates qualified professionals under written scope and in consultation with counsel. Personal data is kept to the minimum needed and handled under the client's applicable data protection law.",
+  "faqs": [
+    {
+      "q": "Can company records in Tuvalu be searched online?",
+      "a": "Not in a way comparable to larger registries. The Companies and Business Registration Act requires filings with the government but does not establish a public inspection right, and there is no public beneficial ownership register. TDSC confirms company particulars through Tuvaluan counsel and corroborates them with foreign registries, contracts and licensing records where the business operates abroad."
+    },
+    {
+      "q": "Does Tuvalu have a data protection law?",
+      "a": "We have not identified one. The Constitution protects privacy and correspondence, and the Penal Code and telecommunications law restrict interception, but there is no general statute on processing personal data and no regulator. TDSC therefore applies the data protection law that governs the client, together with its own minimisation and security standards."
+    },
+    {
+      "q": "How are Tuvalu's fishing interests relevant to due diligence?",
+      "a": "Fishing licence revenue is central to Tuvalu's public finances, and foreign fleets, agents and joint ventures are its main commercial counterparties. Buyers, insurers and financiers often need to know who owns and manages vessels operating under these arrangements, and whether they have compliance histories elsewhere in the Pacific. That research relies largely on regional and international sources."
+    },
+    {
+      "q": "Where are disputes involving Tuvaluan parties usually heard?",
+      "a": "Significant civil matters go to the High Court of Tuvalu, which sits periodically with a non-resident Chief Justice, and appeals lie to the Court of Appeal. Because many commercial contracts with Tuvaluan public bodies or licensees are governed by foreign law, disputes are often heard in courts or arbitral seats abroad, where TDSC's research supports counsel."
+    },
+    {
+      "q": "Can TDSC conduct interviews in Funafuti?",
+      "a": "Only where the matter requires it and Tuvaluan counsel confirms the approach. In a population of around ten thousand, an interview is rarely confidential for long, and enquiries can affect relationships with government and island councils. TDSC sets out these trade-offs before any in-country step and coordinates qualified professionals under a written scope if the client proceeds."
+    }
+  ],
+  "sources": [
+    {"title": "WIPO Lex: Tuvalu Companies and Business Registration Act (Cap. 40.12)", "url": "https://www.wipo.int/wipolex/en/text/463346"},
+    {"title": "PacLII: Tuvalu Proceeds of Crime Act 2004", "url": "https://rms.paclii.org/tv/legis/num_act/poca2004160"},
+    {"title": "PacLII: Tuvalu Laws 2008 Revised Edition, numerical index", "url": "https://pacliirms.austlii.edu.au/tv/indices/legis/Tuvalu_Laws_2008_NumericalIndex.html"},
+    {"title": "US Department of State 2007 Country Report on Human Rights Practices: Tuvalu (Refworld)", "url": "https://www.refworld.org/node/57059"},
+    {"title": "Expanship: Incorporation requirements in Tuvalu", "url": "https://www.expanship.com/tv/blog/incorporation-requirements-in-tuvalu"},
+    {"title": "Constitution of Tuvalu 1986 (ADB)", "url": "https://events.development.asia/system/files/materials/2023/06/202306-tuv-constitution-tuvalu-1986.pdf"}
+  ],
+  "review_flags": [
+    "Population (approx. 10,000) not confirmed from a World Bank or census result within the search budget; source_url left empty for central fill.",
+    "Final appellate route (Privy Council) may have changed under Tuvalu's 2023 constitutional reforms; verify.",
+    "No data protection law or PI licensing regime identified in the 2008 revised index; later legislation (post-2008) not checked.",
+    "AML framework: Proceeds of Crime Act 2004 and Transaction Tracking Unit confirmed; a commercial source refers to an FIU and an AML/CTF Act; current structure unverified.",
+    "Revenue claims (fishing licences, .tv domain, ship registry) and partner relationships (Australia, NZ, Taiwan) from general knowledge, not fetched sources.",
+    "Companies Act year (1996 per commercial source) and registry keeper (Registrar under Ministry of Finance per commercial source vs. 'Minister' in Act) unconfirmed."
+  ],
+  "researched": "2026-11-04"
+}

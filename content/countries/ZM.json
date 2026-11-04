@@ -1,0 +1,138 @@
+{
+  "cc": "ZM",
+  "name": "Zambia",
+  "meta_description": "TDSC investigative consulting on Zambia: mining and supplier due diligence, PACRA beneficial ownership research and data handling under the 2021 Act.",
+  "eyebrow": "Republic of Zambia",
+  "hero_lede": "Investigative consulting for matters touching Zambia centres on copper and other mining interests, contractors and suppliers, using a searchable beneficial ownership register at PACRA while observing a data protection law with registration and data localisation requirements.",
+  "intro": [
+    "Zambia's corporate framework rests on the Companies Act No. 10 of 2017, which requires companies to disclose beneficial owners to the Patents and Companies Registration Agency (PACRA) and makes that register searchable for a fee. The Data Protection Act No. 3 of 2021 introduced registration of data controllers, a Data Protection Commissioner and a requirement to process and store personal data in Zambia unless an exception applies. Mining licences are governed by the Mines and Minerals Development Act No. 11 of 2015, and land by the Lands and Deeds Registry Act. Reform continues: as of late 2025 a Companies (Amendment) Bill would tighten beneficial ownership disclosure.",
+    "Organisations commission work involving Zambia because of its importance as a copper producer and its growing role in battery-metal supply chains, and because mining, energy, construction and agriculture attract foreign investors, lenders, traders and contractors. Typical questions concern who ultimately owns a licence holder, joint venture partner or mining services contractor; whether bidders on public contracts are connected to officials; and whether payments, mineral sales or procurement processes have been manipulated. Since August 2024, a Treasury circular has required companies bidding for public contracts to submit certified beneficial ownership information, which adds a documentary trail useful in procurement-related enquiries."
+  ],
+  "population": {
+    "value": "Not verified in this research pass",
+    "year": "",
+    "source_url": ""
+  },
+  "legal_system": "Zambian commercial law is largely statutory, with core rules in the Companies Act No. 10 of 2017 (amended in 2020), the Companies (General) Regulations 2019, the Banking and Financial Services Act No. 7 of 2017, the Securities Act No. 41 of 2016 and the Mines and Minerals Development Act No. 11 of 2015. Land interests are recorded under the Lands and Deeds Registry Act. We have not verified, from sources opened during this research, the current structure of the courts that hear commercial disputes or the principal arbitration institutions, and these are confirmed with Zambian counsel when scoping litigation-related work.",
+  "data_protection": {
+    "law": "Data Protection Act No. 3 of 2021",
+    "regulator": "Office of the Data Protection Commissioner (Ministry responsible for communications)",
+    "summary": "The Act permits processing on bases including consent, contract, legal obligation, legitimate interests and data manifestly made public, but also contains a general consent provision, so the lawful basis for investigative processing needs care. Controllers and processors must register with the Data Protection Commissioner before processing, on pain of fines or imprisonment. Section 70 requires personal data to be processed and stored in Zambia unless the Minister prescribes otherwise, and sensitive data must remain in Zambia. Transfers abroad generally need consent plus an approved contract, intragroup scheme or prescribed destination. Breaches must be reported within 24 hours. A Commissioner was appointed in 2023, but the office was reported as not yet fully operational."
+  },
+  "investigator_regulation": "We have not identified, from a source opened during this research, a specific licensing regime for private investigators in Zambia, and this is confirmed with Zambian counsel for each engagement involving local enquiries. The Data Protection Act's registration requirement for controllers and its localisation rules may bear on any local professional who gathers personal data, so their registration status is checked. TDSC does not undertake or commission covert recording, impersonation, inducements to officials or access to restricted government, banking or telecommunications records. Any field enquiries, such as site visits on the Copperbelt or in North-Western Province, are carried out by vetted, appropriately qualified local professionals.",
+  "corporate_records": "PACRA maintains the companies register and a central beneficial ownership register established under the Companies Act 2017. Beneficial ownership records can be searched online by company name or incorporation number, not by the owner's name, after opening a PACRA account and paying a fee of ZMW 90 per company; law enforcement has wider access. The Registrar may restrict specific entries, and by 2024 only 38 percent of companies had submitted beneficial ownership information, so gaps are common. PACRA is building a fully digitised register. Land interests are recorded through the Lands and Deeds Registry, and mining rights under the Mines and Minerals Development Act.",
+  "anti_corruption": "The Financial Intelligence Centre Act No. 46 of 2010 established the Financial Intelligence Centre, which receives suspicious transaction reports and publishes trends reports, and defines beneficial ownership for AML purposes. Beneficial ownership disclosure in public procurement is reinforced by an August 2024 Treasury circular. Zambia's principal anti-corruption statute and enforcement body were not verified from sources opened during this research and are confirmed with Zambian counsel where a matter turns on them.",
+  "matters": [
+    {
+      "title": "Mining licence holder ownership",
+      "text": "Establishing who ultimately owns and controls companies holding or seeking copper, cobalt, gold or other mining rights, combining PACRA beneficial ownership records, mining rights information and filings in the foreign jurisdictions where many holding companies sit."
+    },
+    {
+      "title": "Mine contractor and supplier vetting",
+      "text": "Integrity due diligence on mining services, transport, fuel and construction contractors on the Copperbelt and in North-Western Province, testing ownership, links to officials or mine employees, prior disputes and whether pricing and performance claims are credible."
+    },
+    {
+      "title": "Public procurement integrity",
+      "text": "Reviewing the ownership of bidders and awardees on public contracts, comparing certified beneficial ownership submissions required since August 2024 with PACRA records and other sources to identify undisclosed connections, shell companies or politically exposed owners before award."
+    },
+    {
+      "title": "Investment and lender due diligence",
+      "text": "Background, integrity and reputational research on sponsors, joint venture partners and management in energy, agriculture and infrastructure projects seeking foreign equity or debt finance, including litigation history, related companies, regulatory issues and local media coverage."
+    },
+    {
+      "title": "Fraud and asset tracing",
+      "text": "Supporting counsel in matters involving diverted mineral sales, inflated invoicing or misappropriated project funds, identifying related companies through PACRA, land interests through the Lands and Deeds Registry, and assets held in neighbouring or offshore jurisdictions."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official language",
+      "value": "English"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Lusaka, UTC+2"
+    },
+    {
+      "label": "Currency",
+      "value": "Zambian kwacha (ZMW)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Lusaka, Copperbelt (Kitwe, Ndola), Solwezi"
+    },
+    {
+      "label": "Company register",
+      "value": "PACRA; beneficial ownership searchable by company, ZMW 90 per search"
+    },
+    {
+      "label": "Data localisation",
+      "value": "Personal data to be processed and stored in Zambia unless an exception applies"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Zambian matters from Nashville by first identifying what the client must establish and which public sources can establish it: PACRA company and beneficial ownership records, mining rights and land registries, published court decisions, procurement records, and foreign registries where holding companies sit. Because the Data Protection Act requires registration of controllers and in principle keeps personal data in Zambia, the data plan is settled with Zambian counsel before local material is gathered, including what may lawfully be transferred to the United States. Where site visits or local record retrieval are needed, TDSC coordinates vetted local professionals, without pretexting, inducements or access to restricted records. Findings distinguish documented ownership from inference, given known gaps in beneficial ownership filing.",
+  "faqs": [
+    {
+      "q": "Is Zambia's beneficial ownership register public?",
+      "a": "Largely, yes. Under the Companies Act 2017, PACRA holds a central beneficial ownership register that registered users can search by company name or number for a fee of ZMW 90 per company. It cannot be searched by an individual's name, the Registrar can restrict entries, and compliance has been incomplete, so TDSC corroborates register entries with other sources."
+    },
+    {
+      "q": "Can personal data gathered in Zambia be sent to the United States?",
+      "a": "Only within the Data Protection Act's limits. Section 70 requires personal data to be processed and stored in Zambia unless the Minister prescribes otherwise, and sensitive data must stay in Zambia. Transfers generally need consent plus an approved contract, intragroup scheme or prescribed destination. TDSC settles the data plan with Zambian counsel before any local collection begins."
+    },
+    {
+      "q": "Do I need certified ownership information from Zambian bidders?",
+      "a": "Since August 2024, a Treasury circular has required legal persons bidding for public contracts to submit certified beneficial ownership information. For clients reviewing bidders, partners or subcontractors, those submissions can be compared with PACRA records and other sources. Discrepancies are a common indicator that an undisclosed owner or connected party should be examined further."
+    },
+    {
+      "q": "Can you verify a mining company's licences and owners?",
+      "a": "Usually in part. Company and beneficial ownership details come from PACRA, and mining rights are granted under the Mines and Minerals Development Act 2015, which defines control by reference to 50 percent of equity or board appointments but does not itself require beneficial ownership declarations. TDSC combines these with foreign filings to build the full ownership chain."
+    },
+    {
+      "q": "Does TDSC have investigators based in Zambia?",
+      "a": "No. TDSC is based in Nashville and has no office or staff in Zambia, and it does not hold or claim a Zambian licence. Desk research is carried out from Nashville. Where site visits or local record retrieval are needed, TDSC coordinates vetted local professionals and works with Zambian counsel on what is lawful."
+    }
+  ],
+  "sources": [
+    {
+      "title": "ZambiaLII: Data Protection Act, 2021 (Act 3 of 2021)",
+      "url": "https://zambialii.org/akn/zm/act/2021/3/eng@2021-03-24"
+    },
+    {
+      "title": "Afriwise: Zambia, employers' obligations under the Data Protection Act",
+      "url": "https://www.afriwise.com/blog/zambia-employers-obligations-under-the-data-protection-act"
+    },
+    {
+      "title": "EITI / Open Ownership: Beneficial ownership transparency legislative report, Zambia (revised 2023)",
+      "url": "https://eiti.org/sites/default/files/2023-02/OE%20BOT%20Legislative%20report%20%E2%80%93%C2%A0Zambia%20Revised%202023.pdf"
+    },
+    {
+      "title": "Open Ownership / UNODC: Beneficial ownership reform in Zambia (December 2025)",
+      "url": "https://www.openownership.org/en/publications/implementation-of-cosp-resolution-10-6/beneficial-ownership-reform-in-zambia/"
+    },
+    {
+      "title": "Open Ownership: Beneficial ownership transparency in Zambia (2023)",
+      "url": "https://www.openownership.org/en/publications/beneficial-ownership-transparency-in-zambia/"
+    },
+    {
+      "title": "CIPE: Engaging the business community on beneficial ownership transparency in Zambia",
+      "url": "https://www.cipe.org/?p=44568"
+    },
+    {
+      "title": "Efficacy News: PACRA beneficial ownership register project",
+      "url": "https://efficacynews.africa/?p=28855"
+    }
+  ],
+  "review_flags": [
+    "Population not verified within the search budget (2022 census figure not confirmed from a source opened); add a current World Bank or ZamStats figure before publishing.",
+    "Anti-corruption statute and Anti-Corruption Commission not verified from a source opened in this pass, so not named; confirm (believed Anti-Corruption Act 2012) and add.",
+    "Office of the Data Protection Commissioner reported as not yet operational; check current status, any ministerial exemptions under s.70 and whether DPO/registration guidance has issued.",
+    "Companies (Amendment) Bill 2025 (5 percent BO threshold, nominee disclosure, bearer share ban) pending as of December 2025; update if enacted.",
+    "Court structure and arbitration institutions not verified; private investigator licensing regime not identified. Confirm with Zambian counsel."
+  ],
+  "researched": "2026-11-04"
+}

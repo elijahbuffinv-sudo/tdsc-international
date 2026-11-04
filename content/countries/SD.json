@@ -1,0 +1,147 @@
+{
+  "cc": "SD",
+  "name": "Sudan",
+  "meta_description": "TDSC investigative consulting on Sudan: sanctions-screened due diligence on counterparties, gold trade networks and SAF or RSF links, for clients abroad.",
+  "eyebrow": "Republic of the Sudan",
+  "hero_lede": "Investigative consulting for matters touching Sudan is shaped by armed conflict between the Sudanese Armed Forces and the Rapid Support Forces, targeted sanctions, military-linked commerce and a company registry with no online access, so most work is lawful desk-based due diligence for clients outside the country.",
+  "intro": [
+    "Since April 2023, Sudan has been divided by fighting between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF), with prolonged conflict in Darfur, South Kordofan and Blue Nile. This followed a political transition after 2019 and the dismantling of Bashir-era structures, during which a committee seized assets linked to the former ruling party. The business environment is opaque: companies register under the Companies Act 2015 with the Registrar of Companies, but there is no online search and no public beneficial ownership register, and Sudan has no comprehensive data protection law. Which force controls a counterparty's location is now itself a central due diligence question.",
+    "Organisations commission work involving Sudan mainly to manage exposure rather than to enter the market. Traders, refiners, banks, shipping and logistics firms, humanitarian organisations and their donors need to know whether counterparties, suppliers, partners or beneficiaries are owned or controlled by sanctioned persons, by SAF- or RSF-linked businesses, or by military-controlled companies, about which the US government issued a business advisory in 2022. Gold and other commodity flows through neighbouring and Gulf markets, regional companies alleged to act for armed groups, and assets moved out of Sudan before or during the conflict are recurring subjects."
+  ],
+  "population": {
+    "value": "Not verified in this research pass",
+    "year": "",
+    "source_url": ""
+  },
+  "legal_system": "Sudan's constitutional and institutional arrangements have been in flux since the 2019 transition and remain disrupted by the conflict that began in 2023; the functioning of courts and registries varies by location. The Constitution in force before the conflict protected privacy of correspondence (Section 55, as reported in 2022). Commercial company law is set out in the Companies Act 2015. We have not verified, from sources opened during this research, the current structure of commercial courts, the classification of the legal system, or any operating arbitration centre, and these should be confirmed with Sudanese counsel.",
+  "data_protection": {
+    "law": "No comprehensive data protection law; sectoral provisions include the Electronic Transactions Act 2007, Cybercrime Act 2007 and Cybercrime Prevention (Amendment) Act 2020",
+    "regulator": "None appointed",
+    "summary": "Sudan has no comprehensive data protection legislation and no data protection authority, as reported in 2022, and we have not identified a later enactment. Privacy of correspondence has constitutional protection, and electronic transactions and cybercrime laws contain relevant offences. For investigative work, the larger concern is physical risk: in a conflict setting, disclosure of who has been researched or who supplied information can endanger individuals. TDSC therefore treats personal data in Sudan matters under the client's home-jurisdiction rules and international good practice, minimises what is collected about individuals inside Sudan, and applies strict access controls to any material that could identify sources."
+  },
+  "investigator_regulation": "We have not identified, from a source opened during this research, a licensing regime for private investigators in Sudan. Given the conflict, TDSC does not commission field enquiries, surveillance or interviews inside Sudan, and does not engage any person or entity whose involvement could raise sanctions concerns. Work is limited to lawful desk research from outside the country: international and regional corporate registries, court and enforcement records abroad, sanctions designations, UN and NGO reporting, and Arabic- and English-language media. TDSC does not use pretexting, inducements, or access to restricted government, banking or telecommunications records.",
+  "corporate_records": "Companies are registered under the Companies Act 2015 with the Registrar of Companies at the Ministry of Industry and Trade. No online search is available, the ministry's website does not provide a registry service, and the historic route of in-person searches in Khartoum through a local legal representative has been disrupted by the conflict. Reports describe corporate databases as only partially digitised. No public beneficial ownership register is published. Ownership of Sudanese businesses is therefore usually reconstructed from filings in the UAE, other Gulf states, Egypt and elsewhere, sanctions designations, investigative journalism and NGO research, with confidence levels stated.",
+  "anti_corruption": "Money laundering and terrorist financing are addressed by the Anti-Money Laundering and Combating the Financing of Terrorism Act 2014, which was reported as still in force in October 2025; the Central Bank of Sudan supervises financial institutions and a Financial Intelligence Unit receives suspicious transaction reports. Independent assessments have described implementation as uneven. The post-2019 committee for dismantling the former regime and recovering funds was abolished after 2021, and we have not verified a current anti-corruption commission.",
+  "matters": [
+    {
+      "title": "Sanctions exposure and ownership",
+      "text": "Determining whether a counterparty, supplier or beneficiary is owned or controlled by persons designated under US Executive Order 14098 or other sanctions regimes, applying ownership rules such as OFAC's 50 percent rule, and identifying links to SAF or RSF commercial networks."
+    },
+    {
+      "title": "Gold and commodity provenance",
+      "text": "Due diligence for refiners, traders and banks on gold and other commodities that may originate in Sudan and move through neighbouring states or Gulf markets, testing for links to armed groups, illicit trade and companies reported to act for parties to the conflict."
+    },
+    {
+      "title": "Military-controlled company links",
+      "text": "Assessing whether trading partners or logistics providers are connected to Sudanese state-owned enterprises or military-controlled companies, the subject of a 2022 US government business advisory that urged enhanced due diligence, human rights review and know-your-customer controls."
+    },
+    {
+      "title": "Humanitarian partner vetting",
+      "text": "Desk-based integrity and sanctions screening of implementing partners, suppliers and transport contractors for humanitarian and development organisations, so that funds and goods do not reach designated persons or armed groups, with careful protection of staff and beneficiary data."
+    },
+    {
+      "title": "Asset tracing outside Sudan",
+      "text": "Supporting counsel in recovery or enforcement matters by identifying companies, property and accounts held outside Sudan by Sudanese parties, including assets moved before or during the conflict, using foreign registries, court records and published investigations."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official languages",
+      "value": "Arabic and English"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Khartoum, UTC+2"
+    },
+    {
+      "label": "Currency",
+      "value": "Sudanese pound (SDG)"
+    },
+    {
+      "label": "Security",
+      "value": "Active armed conflict since April 2023; no TDSC field work"
+    },
+    {
+      "label": "Company records",
+      "value": "No online registry; no public beneficial ownership register"
+    },
+    {
+      "label": "Sanctions",
+      "value": "Targeted US designations under E.O. 14098; UN Darfur arms embargo"
+    },
+    {
+      "label": "Research languages",
+      "value": "Arabic and English sources, including regional media"
+    }
+  ],
+  "tdsc_approach": "TDSC, as a US company, screens every Sudan-related matter for sanctions compliance before accepting it and does not accept engagements that would violate US or other applicable sanctions, including dealings with or for the benefit of designated persons. In practice, work is limited to lawful due diligence and risk advisory for clients outside Sudan who need to understand their exposure. Scoping covers who the client is, the purpose, the counterparties named and whether any are designated or owned by designated persons. Research is conducted from Nashville using foreign registries, sanctions lists, court records, UN and NGO reporting and Arabic-language media. TDSC does not commission enquiries inside Sudan, and handles any information that could identify individuals there with particular care.",
+  "faqs": [
+    {
+      "q": "Will TDSC accept a matter involving Sudan?",
+      "a": "Possibly, after screening. TDSC is a US company and checks every Sudan-related request for sanctions compliance, including whether any party is designated under Executive Order 14098 or owned by a designated person. Matters that would violate US or other applicable sanctions are declined. Accepted work is typically due diligence and risk advisory for clients outside Sudan."
+    },
+    {
+      "q": "Can Sudanese company records be obtained?",
+      "a": "Generally not from Sudan itself at present. The Registrar of Companies offers no online search, there is no public beneficial ownership register, and in-person searches in Khartoum have been disrupted by the conflict. TDSC reconstructs ownership from filings in other jurisdictions, sanctions designations, published investigations and media, and states the confidence level of each conclusion."
+    },
+    {
+      "q": "How do you assess links to the SAF or the RSF?",
+      "a": "By combining sanctions designations, corporate filings in the UAE and other jurisdictions, reporting by UN panels, NGOs and investigative journalists, and Arabic-language media. Which force controls the location of a counterparty's operations is treated as context, not proof of affiliation, and findings distinguish documented links from allegations."
+    },
+    {
+      "q": "Does Sudan have a data protection law?",
+      "a": "No comprehensive law or data protection authority had been identified as of the sources reviewed, although privacy of correspondence has constitutional protection and cybercrime and electronic transactions laws apply. TDSC applies the client's home-jurisdiction rules and international good practice, with additional safeguards because identifying people inside Sudan can put them at risk."
+    },
+    {
+      "q": "Does TDSC send investigators into Sudan?",
+      "a": "No. Because of the armed conflict and the sanctions context, TDSC does not commission field enquiries, interviews or surveillance inside Sudan. TDSC holds no Sudanese licence and claims none. All work is desk-based research from outside the country using lawful sources, and any need for local legal input is addressed through counsel engaged by the client."
+    }
+  ],
+  "sources": [
+    {
+      "title": "dataprotection.africa: Sudan factsheet",
+      "url": "https://dataprotection.africa/sudan/"
+    },
+    {
+      "title": "Business Data Guide: Sudan company search guide",
+      "url": "https://businessdataguide.com/blog/jurisdictions/sudan-company-search-guide"
+    },
+    {
+      "title": "KnowYourCountry: Sudan",
+      "url": "https://www.knowyourcountry.com/sudan"
+    },
+    {
+      "title": "Clifford Chance: US Government advises heightened caution regarding operations in Sudan (May 2022)",
+      "url": "https://www.cliffordchance.com/briefings/2022/05/us-government-advises-heightened-caution-regarding-operations-in.html"
+    },
+    {
+      "title": "Legal 500: OFAC designates Sudanese figures for destabilizing activities and Iranian ties (September 2025)",
+      "url": "https://www.legal500.com/intelligence/global/international-law/ofac-designates-sudanese-figures-for-destabilizing-activities-and-iranian-ties"
+    },
+    {
+      "title": "The Sentry: Sudan banking reforms briefing",
+      "url": "https://thesentry.org/reports/sudan/"
+    },
+    {
+      "title": "Dabanga: Sudan's anti-corruption committee uncovers banking fraud (August 2021)",
+      "url": "https://dabangasudan.org/en?p=171184"
+    },
+    {
+      "title": "VOVE ID: KYB compliance in Sudan, 2025 guide",
+      "url": "https://blog.voveid.com/kyb-compliance-in-sudan-2025-guide-for-regulated-businesses"
+    },
+    {
+      "title": "Business and Human Rights Resource Centre: UAE investigations into firms sanctioned over Sudan conflict",
+      "url": "https://www.business-humanrights.org/en/latest-news/sudan-the-uae-launches-investigations-into-firms-sanctioned-over-sudan-conflict"
+    }
+  ],
+  "review_flags": [
+    "Sanctions-sensitive page: legal/compliance review of the Sudan sanctions position (E.O. 14098 designations, UN Darfur arms embargo, EU/UK measures) is needed before publishing; sanctions status was taken from secondary sources and changes frequently.",
+    "Population not verified within the search budget; add a current World Bank figure before publishing.",
+    "Legal system classification, current court structure and arbitration centre not verified; section is deliberately hedged.",
+    "Data protection status source dates from May 2022; confirm no law has since been enacted.",
+    "Anti-corruption commission reported abolished after 2021 (KnowYourCountry); confirm whether any successor body exists. AML Act 2014 status from a 2025 secondary source.",
+    "Official languages (Arabic and English) and the UAE investigations source were taken from general knowledge and a search-result title respectively; verify."
+  ],
+  "researched": "2026-11-04"
+}

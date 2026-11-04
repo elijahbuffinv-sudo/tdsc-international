@@ -1,0 +1,138 @@
+{
+  "cc": "PG",
+  "name": "Papua New Guinea",
+  "meta_description": "TDSC investigative consulting on Papua New Guinea: company and ownership research via the IPA registry, resource-sector partner checks and AML diligence.",
+  "eyebrow": "Independent State of Papua New Guinea",
+  "hero_lede": "Investigative consulting on matters touching Papua New Guinea means working with an online company registry in transition, beneficial ownership reforms driven by anti-money laundering pressure, and a resource economy where landowner, partner and political connections matter. TDSC scopes each matter from Nashville with qualified local professionals.",
+  "intro": [
+    "Papua New Guinea is the largest Pacific Island economy, dominated by liquefied natural gas, gold and copper mining, oil palm, timber and fisheries, with Port Moresby and Lae as its commercial centres. Its legal system follows the common law tradition and recognises customary land tenure, which shapes most resource and property matters. Records infrastructure is improving: the Investment Promotion Authority moved its business registry to a new online system in December 2022, and Companies Act amendments since 2022 address beneficial ownership. There is, as of late 2026, no comprehensive personal data protection statute in force; a Data Governance and Data Protection Bill 2026 was released for public consultation in August 2026.",
+    "Organisations commission investigative work involving Papua New Guinea for reasons tied closely to its economy and governance environment. Mining, energy and LNG investors, contractors and lenders need assurance about joint venture partners, landowner companies, subcontractors and politically exposed persons. Banks and correspondent institutions face heightened anti-money laundering scrutiny after the 2024 Asia/Pacific Group mutual evaluation found only partial compliance. Logging, fisheries and palm oil buyers need supply chain and ownership checks for legality and reputational risk. Australian and Asian companies engaged in government contracting, and litigants pursuing assets or contract claims, also seek lawful background research and asset tracing."
+  ],
+  "population": {
+    "value": "Not verified in this research pass",
+    "year": "",
+    "source_url": ""
+  },
+  "legal_system": "Papua New Guinea has a common law system derived from English law and shaped by Australian practice, under the Constitution of 1975, which also recognises customary law as part of the underlying law. Commercial disputes are heard in the National Court, with appeals to the Supreme Court; the National Court has developed commercial case management lists in Port Moresby. Customary land disputes are dealt with through land courts and village courts. Proceedings are in English. Cross-border commercial contracts frequently provide for arbitration seated outside the country, commonly in Singapore or Australia.",
+  "data_protection": {
+    "law": "No comprehensive data protection statute in force as of November 2026; draft Data Governance and Data Protection Bill 2026 under consultation",
+    "regulator": "None designated yet; the draft bill proposes that NICTA act initially as data protection authority",
+    "summary": "Papua New Guinea had adopted a National Data Governance and Data Protection Policy in 2024 but, as of late 2026, no general data protection law was in force. The fifth draft of the Data Governance and Data Protection Bill 2026 was released for consultation in August 2026, with heightened protection for biometric data and proposed fines for businesses, and with NICTA proposed as the initial regulator. Until enactment, investigative work relies on sectoral confidentiality duties, constitutional privacy protections and the data protection rules of the client's own jurisdiction. Engagements are scoped so that collection would remain proportionate if the bill commences during the matter."
+  },
+  "investigator_regulation": "We have not identified, in this research pass, a licensing regime specifically for private investigators in Papua New Guinea. The security industry is regulated separately, and whether a particular local task falls within any licensing requirement is confirmed with Papua New Guinean counsel before work begins. Covert surveillance, recording, entry onto customary land and approaches to landowner groups carry legal, cultural and safety risks and are not undertaken without specific advice. TDSC does not use pretexting and does not seek access to restricted government or police records. Local document retrieval and enquiries are carried out only by appropriately qualified professionals acting lawfully.",
+  "corporate_records": "Companies, business names and associations are registered by the Registrar of Companies within the Investment Promotion Authority, whose online business registry system went live in December 2022, with existing companies required to re-register. The Companies (Amendment) Act certified in 2022 requires companies to obtain and hold beneficial ownership information for competent authorities, and companies with annual returns six months overdue can be struck off. A May 2025 IPA consultation proposed a central beneficial ownership registry that would be confidential rather than public. Land and court records generally require in-person searches.",
+  "anti_corruption": "Bribery and official corruption are offences under the Criminal Code, and Papua New Guinea has established an Independent Commission Against Corruption, which we have not verified in detail in this research pass. Anti-money laundering obligations are overseen by the Bank of Papua New Guinea's financial intelligence function. The Asia/Pacific Group mutual evaluation published in September 2024 rated the country partially compliant overall and found low effectiveness in monitoring risks, prompting the 2025 Companies Act reform proposals on beneficial ownership, nominee directors and bearer shares.",
+  "matters": [
+    {
+      "title": "Resource joint venture partners",
+      "text": "Background and ownership research on local partners, landowner companies and contractors in LNG, gold, copper and oil projects, testing directorships in the IPA registry, political connections, litigation and adverse media before a stake, contract or financing is agreed."
+    },
+    {
+      "title": "Beneficial ownership and nominee risk",
+      "text": "Identifying who stands behind Papua New Guinean companies where local individuals may act as nominee shareholders or directors, combining IPA filings with foreign registries in Australia, Singapore and Malaysia and published reporting, given that a central ownership registry was proposed to be non-public."
+    },
+    {
+      "title": "Timber, palm oil and fisheries supply chains",
+      "text": "Ownership and legality checks on logging concessionaires, palm oil processors and fishing operators for buyers and certification bodies, focusing on related-party structures, foreign ownership links and enforcement or court history. Findings are documented for audit and certification reviews."
+    },
+    {
+      "title": "Banking and AML counterparty reviews",
+      "text": "Enhanced due diligence for correspondent banks, payment firms and lenders on Papua New Guinean customers and politically exposed persons, reflecting the 2024 mutual evaluation findings and the continuing reform of beneficial ownership disclosure. Reports set out sources and gaps."
+    },
+    {
+      "title": "Asset tracing for creditors",
+      "text": "Tracing companies, property interests and offshore holdings connected to debtors or defendants, including assets held in Australia and Asia, to support enforcement strategy by counsel in Papua New Guinea and abroad. Work stays within lawful, documented sources."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official languages",
+      "value": "English, Tok Pisin and Hiri Motu; English for business and courts"
+    },
+    {
+      "label": "Time zone",
+      "value": "Pacific/Port_Moresby, UTC+10 (Bougainville uses UTC+11)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Port Moresby and Lae"
+    },
+    {
+      "label": "Currency",
+      "value": "Papua New Guinean kina (PGK)"
+    },
+    {
+      "label": "Company registry",
+      "value": "Investment Promotion Authority online business registry (since December 2022)"
+    },
+    {
+      "label": "Land tenure",
+      "value": "Most land held under customary tenure; title searches need local support"
+    },
+    {
+      "label": "Data protection status",
+      "value": "Draft bill under consultation, August 2026"
+    }
+  ],
+  "tdsc_approach": "TDSC opens each Papua New Guinea matter with a jurisdictional review covering the client's purpose, any licensing question for local tasks, and the status of the Data Governance and Data Protection Bill, so that collection remains proportionate if it commences mid-engagement. Desk research uses the IPA registry, foreign corporate registries, court judgments, sanctions and politically exposed person lists and published reporting. Where documents must be obtained in person or land and court records searched, TDSC engages a qualified local professional for a defined task, with written instructions excluding pretexting, covert recording and approaches to customary landowners without counsel's advice. Personal safety and community sensitivities in resource areas are assessed before any local step. Findings separate registry evidence from reporting and state clearly what could not be verified.",
+  "faqs": [
+    {
+      "q": "Can Papua New Guinean company records be searched online?",
+      "a": "Yes, in part. The Investment Promotion Authority runs an online business registry that replaced the older system in December 2022, and existing companies were required to re-register. Coverage of historical filings and the detail available on directors and shareholders vary, so registry results are checked against certified copies, foreign registries and other sources where a decision depends on them."
+    },
+    {
+      "q": "Is beneficial ownership information public in Papua New Guinea?",
+      "a": "Not generally. Amendments certified in 2022 require companies to hold beneficial ownership information for competent authorities, and a May 2025 IPA consultation proposed a central registry that would be confidential, with disclosure to law enforcement and tax authorities or by court direction. Ownership research therefore relies on shareholder records, foreign filings and corroborating sources."
+    },
+    {
+      "q": "Does Papua New Guinea have a data protection law?",
+      "a": "As of November 2026, there is no comprehensive data protection statute in force. A Data Governance and Data Protection Bill 2026 was released for consultation in August 2026, proposing NICTA as the initial regulator. TDSC treats personal data as if a modern regime applied, collecting only what the matter needs and handling it under the client's and TDSC's own legal obligations."
+    },
+    {
+      "q": "Can TDSC investigate landowner groups connected to a project?",
+      "a": "Matters involving customary landowners are handled with particular care. TDSC can research registered landowner companies, incorporated land groups and their officers from lawful records, and review litigation and reporting. Direct approaches to communities, entry onto customary land or field enquiries are undertaken only on local counsel's advice and through appropriately qualified local professionals."
+    },
+    {
+      "q": "Why do banks ask for extra diligence on Papua New Guinean customers?",
+      "a": "The Asia/Pacific Group mutual evaluation published in September 2024 rated Papua New Guinea partially compliant with international anti-money laundering standards, and the government has since pursued reforms on beneficial ownership, nominee directors and bearer shares. Institutions therefore often require enhanced checks on ownership, source of funds indicators and politically exposed persons."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Papua New Guinea seeks feedback on digital ID, data protection laws (Biometric Update, August 2026)",
+      "url": "https://www.biometricupdate.com/202608/papua-new-guinea-seeks-feedback-on-digital-id-data-protection-laws"
+    },
+    {
+      "title": "Data Governance and Data Protection Bill 2026 consultation notice (Department of ICT)",
+      "url": "https://www.ict.gov.pg/Draft%20Bill/Data_Governance_and_Data_Protection_Bill_2026_Consultation_Notice.pdf"
+    },
+    {
+      "title": "National Data Governance and Data Protection Policy (Department of ICT)",
+      "url": "https://www.ict.gov.pg/ndgdpp/"
+    },
+    {
+      "title": "Consultation Memorandum: AML compliance Companies Act amendments, 7 May 2025 (Investment Promotion Authority)",
+      "url": "https://www.ipa.gov.pg/Documentation/PG/Consultation_Memorandum_AML_Compliance_Companies Act_Amendments_7_May_2025.pdf"
+    },
+    {
+      "title": "Important amendments to Papua New Guinea's Companies Act (Business Advantage PNG)",
+      "url": "https://www.businessadvantagepng.com/important-amendments-to-the-papua-new-guinea-companies-act-analysis"
+    },
+    {
+      "title": "Upgraded online registry delivers a user-friendly platform in Papua New Guinea (Pacific Private Sector Development Initiative)",
+      "url": "https://pacificpsdi.org/news-and-insights/case-studies/read/upgraded-online-registry-delivers-a-user-friendly-platform-for-key-business-processes-in-papua-new-guinea"
+    },
+    {
+      "title": "PNG EITI beneficial ownership roadmap (EITI)",
+      "url": "https://eiti.org/sites/default/files/attachments/pngeiti_beneficial_ownership_roadmap.pdf"
+    }
+  ],
+  "review_flags": [
+    "Population not verified: no World Bank or NSO result appeared within the two-search budget; field left blank and must be filled.",
+    "Data Governance and Data Protection Bill 2026 was in consultation (deadline 19 August 2026); check whether it has been tabled or enacted before publishing.",
+    "Status of the May 2025 proposed beneficial ownership registry (confidential BOR) and commencement of the 2022 Companies (Amendment) Act not confirmed.",
+    "ICAC existence/operational status, Criminal Code bribery offences, financial intelligence unit location within the Bank of PNG, and private investigator / security industry licensing were not verified from sources this pass.",
+    "Legal system details (National Court commercial list, land and village courts, common arbitration seats) and constitutional privacy protection are general statements not confirmed from a source this pass."
+  ],
+  "researched": "2026-11-04"
+}

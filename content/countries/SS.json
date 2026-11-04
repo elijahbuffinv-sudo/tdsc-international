@@ -1,0 +1,134 @@
+{
+  "cc": "SS",
+  "name": "South Sudan",
+  "meta_description": "TDSC investigative consulting on South Sudan: sanctions-aware due diligence, ownership mapping and risk advisory, scoped from Nashville with local counsel.",
+  "eyebrow": "Republic of South Sudan",
+  "hero_lede": "Investigative consulting for matters touching South Sudan means working in an oil-dependent, conflict-affected state where public records are sparse, political exposure runs through much of the economy, no data protection law exists yet, and every matter must be screened for sanctions and security risk.",
+  "intro": [
+    "South Sudan became independent in 2011 and is still building the institutions that investigators elsewhere take for granted. Legislation is published by the Ministry of Justice and Constitutional Affairs, and companies are registered with its Directorate of Business Registry under the Companies Act 2012, but searchable online records, published judgments and a beneficial ownership register are not available. As of December 2025 the government had announced that a first Data Protection Bill would be introduced in 2026, while a cybercrime bill awaited presidential assent. Insecurity, a fragile transitional political settlement and restricted movement outside Juba shape what can be done lawfully and safely on the ground.",
+    "Organisations commission investigative work involving South Sudan mainly to manage exposure. Oil traders, oilfield service companies and lenders need to understand who stands behind counterparties in a sector closely tied to the state. Humanitarian agencies, donors and development finance institutions require integrity due diligence on contractors and implementing partners. Banks and correspondent institutions need source-of-funds and politically exposed person reviews, and compliance teams screen for links to individuals subject to targeted sanctions. Investigative reporting has documented business interests of politically connected families, making ownership mapping a recurring requirement. Related enquiries frequently extend to Uganda, Kenya and the Gulf."
+  ],
+  "population": {
+    "value": "approximately 11.9 million",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "South Sudan has a mixed legal system combining statutory law under the Transitional Constitution of 2011 (as amended), common law influences and extensive customary law, which governs many personal and community matters. The judiciary comprises the Supreme Court, Courts of Appeal, High Courts and county courts, alongside customary courts. There is no specialised commercial court, and commercial disputes are heard in the ordinary courts in Juba. Judgments are not systematically published, capacity is limited, and enforcement can be slow, so contracting parties frequently provide for arbitration seated outside the country.",
+  "data_protection": {
+    "law": "No data protection law in force; a Data Protection Bill was announced in December 2025 for introduction in 2026",
+    "regulator": "None; the Ministry of Information, Communication Technology and Postal Service and the Ministry of Justice are to draft the bill",
+    "summary": "South Sudan has no comprehensive data protection statute or authority. The Ministry of ICT has said the forthcoming bill will complement a Cybercrime and Abuse of Computer Bill passed by parliament in 2025, and both are expected to draw on regional models such as Kenya's Data Protection Act and the African Union Malabo Convention. In the absence of specific rules, investigative work should apply recognised international standards: a clear purpose, minimal collection, secure storage and careful handling of data about vulnerable people, displaced persons and individuals at physical risk. The client's home-country law often governs data exported from South Sudan."
+  },
+  "investigator_regulation": "We have not identified any licensing regime for private investigators in South Sudan. Investigative activity is constrained in practice by security conditions, the authority of the National Security Service, restrictions on movement and photography, and the criminal law, including provisions under the Penal Code. Enquiries that appear intrusive or politically sensitive can expose local researchers and sources to serious risk. Access to official records is limited and often requires formal requests through counsel. Any work on the ground is scoped with South Sudanese advocates and experienced local professionals, prioritising source safety and limiting activity to lawful, open enquiries.",
+  "corporate_records": "Companies are registered with the Directorate of Business Registry within the Ministry of Justice and Constitutional Affairs under the Companies Act 2012, which requires South Sudanese nationals to hold at least 31 percent of shares in companies. There is no public online search facility of the kind available in many jurisdictions, and extracts generally have to be requested through local counsel. The 2012 AML/CFT legislation requires banks to obtain incorporation documents and certified annual reports from the Directorate when onboarding companies. There is no beneficial ownership register, and land and court records are fragmented and largely paper-based.",
+  "anti_corruption": "The South Sudan Anti-Corruption Commission, established under the Anti-Corruption Commission Act 2009, investigates corruption and receives asset declarations, though its prosecutorial reach has been limited. Bribery and related offences are criminalised under the Penal Code. The Anti-Money Laundering and Counter Terrorist Financing Act 2012 created a Financial Intelligence Unit within the ministry responsible for finance, imposes customer due diligence and politically exposed person controls on reporting persons, and covers banks, foreign exchange bureaus, real estate agents, lawyers and dealers in precious metals.",
+  "matters": [
+    {
+      "title": "Oil sector counterparty review",
+      "text": "Ownership and reputational research on crude buyers, traders, oilfield service providers and logistics firms dealing with South Sudanese entities, identifying politically exposed persons, links to state oil revenues and adverse findings from investigative reporting and panels of experts. Results are referenced to sources."
+    },
+    {
+      "title": "Humanitarian partner due diligence",
+      "text": "Integrity checks on contractors, transport providers and implementing partners for UN agencies, NGOs and donors, focusing on conflicts of interest, diversion risk, links to armed actors and prior misconduct, with source safety built into the research plan. Findings are documented for donor compliance files."
+    },
+    {
+      "title": "Sanctions and PEP exposure mapping",
+      "text": "Mapping of shareholdings and directorships to identify connections between counterparties and individuals subject to targeted sanctions or with senior political or military roles, using the Companies Act nationality requirement as a prompt to test who actually holds local shares. Each link is sourced and its reliability assessed."
+    },
+    {
+      "title": "Correspondent banking and remittances",
+      "text": "Source-of-funds and source-of-wealth research supporting banks, money transfer operators and correspondent institutions with exposure to Juba-based customers, foreign exchange bureaus or cross-border cash flows with Uganda, Kenya and Sudan. Findings support enhanced due diligence decisions and documented risk acceptance."
+    },
+    {
+      "title": "Asset tracing for creditors",
+      "text": "Lawful identification of assets, companies and property held outside South Sudan by debtors or defendants with South Sudanese connections, often in East Africa, the Gulf or Europe, prepared to support recovery strategies developed by counsel. Findings note which records were verified and which remain indicative."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "English (official); Juba Arabic widely spoken"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Juba, UTC+2, no daylight saving time"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "South Sudanese pound (SSP); US dollar common in larger transactions"
+    },
+    {
+      "label": "Courts language",
+      "value": "English"
+    },
+    {
+      "label": "Main business centre",
+      "value": "Juba; activity elsewhere constrained by security"
+    },
+    {
+      "label": "Security note",
+      "value": "Movement and photography are restricted; permits and security clearance may be required"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes South Sudan matters from Nashville and begins each one with sanctions and export-control screening of all parties, as a US company that does not accept engagements that would breach US or other applicable sanctions. The jurisdictional review then considers security conditions, the absence of a data protection law, and the client's own legal obligations. Most work relies on lawful remote sources: Ministry of Justice legislation, registry extracts obtained through counsel, UN panel reports, court filings abroad, and English and Arabic-language media. Where local enquiries are essential, TDSC coordinates experienced South Sudanese professionals working with local advocates, under a written risk assessment that protects sources and excludes pretexting, payments to officials and any approach to security services.",
+  "faqs": [
+    {
+      "q": "Can a South Sudanese company's owners be verified?",
+      "a": "Only partly. Companies are registered with the Directorate of Business Registry, but there is no public online search or beneficial ownership register, and extracts must usually be obtained through local counsel. We combine registry documents with investigative reporting, foreign court records and corporate filings in neighbouring jurisdictions to build a sourced ownership picture and state its limits."
+    },
+    {
+      "q": "Does South Sudan have a data protection law?",
+      "a": "No. As of December 2025 the government said a first Data Protection Bill would be introduced in 2026, drafted by the ICT and justice ministries. Until a law is enacted we apply international standards to personal data collected in or about South Sudan, with particular care for data that could endanger sources or displaced people."
+    },
+    {
+      "q": "Why does the 31 percent local shareholding rule matter for due diligence?",
+      "a": "The Companies Act 2012 requires South Sudanese nationals to hold at least 31 percent of a company's shares. Investigative reporting has shown that these local stakes are sometimes held by politically connected individuals. Identifying who holds them is often central to assessing corruption, PEP and sanctions exposure."
+    },
+    {
+      "q": "Is it safe to conduct field enquiries in South Sudan?",
+      "a": "Field work carries real risk to researchers and sources, particularly outside Juba or on politically sensitive topics. We assess whether the question can be answered remotely first. Where it cannot, enquiries are limited, carried out by experienced local professionals with legal support, and designed so that no one is placed in danger to obtain information."
+    },
+    {
+      "q": "How does TDSC handle sanctions risk on South Sudan matters?",
+      "a": "Every matter is screened for sanctions and export-control issues before acceptance, and parties are rescreened as facts emerge. We do not accept work that would breach US or other applicable sanctions, and we do not advise on workarounds. Many engagements are therefore due diligence and risk advisory for clients deciding whether to proceed."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Radio Tamazuj: South Sudan to get data protection bill in 2026, says minister (Dec 2025)",
+      "url": "https://www.radiotamazuj.org/en/news/article/south-sudan-to-get-data-protection-bill-in-2026-says-minister"
+    },
+    {
+      "title": "Paradigm Initiative: Londa digital rights report, South Sudan 2022",
+      "url": "https://paradigmhq.org/wp-content/uploads/2023/06/South-Sudan-Londa-2022.pdf"
+    },
+    {
+      "title": "ICNL: Anti-Money Laundering and Counter Terrorist Financing Act 2012 (South Sudan)",
+      "url": "https://www.icnl.org/wp-content/uploads/South-Sudan_AntiMoneyLaundering.pdf"
+    },
+    {
+      "title": "The Sentry: Further risk factors (South Sudan corporate networks)",
+      "url": "https://atlas.thesentry.org/further-risk-factors/"
+    },
+    {
+      "title": "ECOLEX: Companies Act 2012 (South Sudan)",
+      "url": "https://www.ecolex.org/details/legislation/companies-act-2012-lex-faoc221075/"
+    },
+    {
+      "title": "Ministry of Justice and Constitutional Affairs: Laws of the Republic of South Sudan",
+      "url": "https://mojca.gov.ss/laws/"
+    }
+  ],
+  "review_flags": [
+    "Sanctions-sensitive jurisdiction (targeted US/UN measures); confirm current sanctions position centrally before publishing.",
+    "Data Protection Bill announced for 2026 and Cybercrime and Abuse of Computer Bill awaiting assent as of Dec 2025; check whether either has since been enacted.",
+    "Population (approx. 11.9 million, 2024) from general knowledge; World Bank URL not retrieved in this session. Verify.",
+    "Anti-Corruption Commission Act 2009, Penal Code, court structure, legal system description and security/permit notes are from general knowledge, not opened sources; verify.",
+    "31 percent local shareholding rule sourced from The Sentry only; confirm against the Companies Act 2012 text and any amendments."
+  ],
+  "researched": "2026-11-04"
+}

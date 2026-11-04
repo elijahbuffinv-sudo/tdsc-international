@@ -1,0 +1,96 @@
+{
+  "cc": "MH",
+  "name": "Marshall Islands",
+  "meta_description": "TDSC investigative consulting on the Marshall Islands: non-resident entity research, vessel-owning company tracing, ownership limits and lawful sources.",
+  "eyebrow": "Republic of the Marshall Islands",
+  "hero_lede": "Investigative consulting on the Marshall Islands rarely involves the islands themselves. It concerns the non-resident companies, partnerships and maritime entities formed under Marshall Islands law, whose public registry entries are thin, whose owners are not filed, and which sit behind vessels, holding structures and funds worldwide.",
+  "intro": [
+    "The Republic of the Marshall Islands has a small resident economy but one of the most widely used corporate and maritime registries in the world. Non-resident domestic entities, formed under the Associations Law and the Business Corporations Act, are registered through the Trust Company of the Marshall Islands, with International Registries, Inc. (IRI) supporting the registry. The public search shows an entity's name, number, type, status and registered agent, but directors, officers, shareholders and beneficial owners are not filed, and financial statements are not lodged. Since December 2023, beneficial ownership regulations require identification of controlling natural persons, but that information is held by the entity and its registered agent rather than published.",
+    "Organisations commission work involving the Marshall Islands mainly because a Marshall Islands entity appears in a transaction, dispute or compliance review. Shipowners, charterers, insurers and lenders need to understand who controls single-ship companies and how fleets are structured. Litigants and judgment creditors trace assets held through Marshall Islands vehicles. Banks and investors review holding companies and fund vehicles whose ownership cannot be read from the register. The investigative task is therefore to establish control through lawful sources outside the registry: vessel and classification records, foreign company filings, court records, financing documents and corporate disclosures in the jurisdictions where the business actually operates."
+  ],
+  "population": {
+    "value": "Not verified for this page",
+    "year": "",
+    "source_url": ""
+  },
+  "legal_system": "The Marshall Islands has a common law system under its 1979 Constitution, shaped by its long association with the United States, with customary law recognised in matters of land and traditional rights. The courts comprise the Supreme Court, the High Court, the Traditional Rights Court and district and community courts. Corporate law for both resident and non-resident entities is set out in the Associations Law, including the Business Corporations Act, the Revised Partnership Act, the Limited Partnership Act and the Limited Liability Company Act of 1996.",
+  "data_protection": {
+    "law": "Personal Data Protection Act 2025 (public sector only)",
+    "regulator": "Economic Policy, Planning and Statistics Office, as competent authority under the 2025 Act",
+    "summary": "The Personal Data Protection Act 2025 applies only to core government ministries and agencies and takes effect twelve months after certification. It sets principles of lawful, fair and transparent processing for specified purposes and defines special categories such as health, biometric and financial data, but it contains no cross-border transfer rules and does not regulate private-sector processing. We have not identified a comprehensive private-sector data protection law. Investigative work involving Marshall Islands entities is therefore governed mainly by the data protection laws of the jurisdictions where the people, records and clients are located, which TDSC applies in scoping."
+  },
+  "investigator_regulation": "We have not identified a licensing regime for private investigators in the Marshall Islands in the sources reviewed, and in practice very little investigative work takes place in the country itself, because Marshall Islands entities are typically managed and operated abroad. The legal limits that matter are those of the jurisdictions where enquiries are made, together with Marshall Islands confidentiality provisions in the Business Corporations Act. Where a matter requires steps in Majuro, such as obtaining certified documents or pursuing court process, TDSC works through Marshall Islands counsel.",
+  "corporate_records": "Non-resident domestic entities and foreign maritime entities are registered with the Trust Company of the Marshall Islands as Registrar, supported by IRI; resident entities are registered separately with the Registrar of Corporations and are not publicly searchable online. The free online search covers non-resident entities and shows name, number, type, status, key dates and registered agent; certified copies of filed documents and certificates of good standing can be obtained through the Registrar. Officers, shareholders and beneficial owners are not filed. Under the Beneficial Ownership Regulations 2023, entities must identify beneficial owners above a 25 percent threshold, but the information is not public and is available to government on request. Bearer shares were prohibited by 2019 amendments.",
+  "anti_corruption": "The anti-money laundering regime rests on the Banking Act 1987, as amended by the Banking (Amendment) Act 2000, and the Anti-Money Laundering Regulations 2002, with the United Nations Sanctions (Implementation) Act 2020 and related 2020 targeted financial sanctions regulations. The Banking Commission supervises AML compliance and houses the Financial Intelligence Unit; the Attorney General may freeze or detain suspect funds. The Marshall Islands is a member of the Asia/Pacific Group on Money Laundering. We have not verified a dedicated anti-corruption statute.",
+  "matters": [
+    {
+      "title": "Vessel ownership and control",
+      "text": "Identifying who stands behind Marshall Islands single-ship companies and fleet holding structures, using vessel registry data, classification and insurance records, port state information and foreign filings, to support charter, financing, casualty, collision or arrest decisions where the corporate register itself names no owners."
+    },
+    {
+      "title": "Asset tracing through holding vehicles",
+      "text": "Tracing assets held through Marshall Islands corporations and limited liability companies for judgment enforcement, insolvency or matrimonial matters, combining registry status checks with court records, financing documents and filings in the jurisdictions where the vehicles' managers and bank accounts are located."
+    },
+    {
+      "title": "Counterparty and fund vehicle diligence",
+      "text": "Due diligence on investment funds, joint venture partners and trading companies using Marshall Islands entities, focusing on who manages and controls them in practice, whether the entity is in good standing, and whether ownership representations can be corroborated from independent sources."
+    },
+    {
+      "title": "Shipping fraud and dispute support",
+      "text": "Research for counsel in disputes involving cargo, bunker supply, sale and purchase or ship finance, where a Marshall Islands counterparty has changed name, been struck off or been replaced by a newly formed entity, and the client needs to connect the successor to the original parties."
+    },
+    {
+      "title": "Sanctions-sensitive vessel screening",
+      "text": "Background research on vessels and owning entities whose ownership has changed rapidly, whose managers are opaque or whose trading history raises compliance concerns, to help clients document the risk assessment they rely on before chartering, financing, insuring or servicing the vessel."
+    }
+  ],
+  "practical": [
+    {"label": "Official languages", "value": "English and Marshallese"},
+    {"label": "Time zone", "value": "Pacific/Majuro, UTC+12 (no daylight saving)"},
+    {"label": "Currency", "value": "US dollar"},
+    {"label": "Courts language", "value": "English"},
+    {"label": "Main centres", "value": "Majuro; Ebeye (Kwajalein Atoll)"},
+    {"label": "Registry access", "value": "Free online search for non-resident entities"},
+    {"label": "Document formalities", "value": "Certified copies and good standing certificates via the Registrar"}
+  ],
+  "tdsc_approach": "TDSC treats a Marshall Islands entity as the start of an inquiry, not its end. We confirm status, history and registered agent from the official search and certified documents, then establish control from lawful sources in the jurisdictions where the entity's managers, vessels, bankers and counterparties actually operate: vessel and classification databases, foreign corporate registries, court filings, financing records and press. We do not suggest that confidential beneficial ownership information held by registered agents can be obtained informally. Where court process, discovery or a government request is the lawful route to that information, we identify it for counsel. Personal data is handled under the rules of the jurisdictions where it is collected, and each report states which ownership conclusions are established and which remain inferences.",
+  "faqs": [
+    {
+      "q": "Can the owners of a Marshall Islands company be found in the registry?",
+      "a": "Generally not. The public search for non-resident entities shows name, number, type, status and registered agent. Directors, officers, shareholders and beneficial owners are not filed, and beneficial ownership information collected under the 2023 regulations is held by the entity and its registered agent, available to the government on request rather than to the public."
+    },
+    {
+      "q": "How does TDSC identify who controls a Marshall Islands shipping company?",
+      "a": "By working outward from the vessel and the entity's activity: managers and operators recorded in maritime databases, classification and insurance information, mortgage and financing records, port and casualty reports, foreign corporate filings and litigation. Combined, these often identify the commercial controller even when the Marshall Islands register discloses nothing about ownership."
+    },
+    {
+      "q": "Does the Marshall Islands have a data protection law?",
+      "a": "The Personal Data Protection Act 2025 applies only to core government ministries and agencies. We have not identified a comprehensive private-sector law. In practice, investigative work on Marshall Islands entities is governed by the data protection laws of the places where the relevant people and records are located, and TDSC scopes engagements accordingly."
+    },
+    {
+      "q": "What does a Marshall Islands certificate of good standing confirm?",
+      "a": "It confirms that the entity is active, has filed its required annual reports, has paid government fees and has no pending strike-off proceedings. It says nothing about ownership, solvency or management. It must be ordered through the Registrar, and a free non-resident entity report from the online search is not a substitute for it."
+    },
+    {
+      "q": "Can TDSC obtain beneficial ownership information from the registered agent?",
+      "a": "No. That information is confidential and is available to the Marshall Islands government on request, not to private parties. Where a client has a legitimate need for it, the lawful routes are typically court process, discovery or requests by competent authorities, which TDSC can help counsel identify and support with independent research."
+    }
+  ],
+  "sources": [
+    {"title": "PacLII: Personal Data Protection Act 2025 (RMI)", "url": "https://pacliirms.paclii.org/mh/legis/num_act/pdpa2025pl432025350.pdf"},
+    {"title": "IRI: Beneficial Ownership Regulations 2023", "url": "https://www.register-iri.com/wp-content/uploads/Beneficial-Ownership-Regulations-2023.pdf"},
+    {"title": "IRI: Guidance on Beneficial Ownership Requirements of the RMI Associations Law", "url": "https://www.register-iri.com/wp-content/uploads/Guidance-Beneficial-Ownership-Requirements-of-the-RMI-Associations-Law.pdf"},
+    {"title": "Infoproff: Business register in the Marshall Islands", "url": "https://www.infoproff.com/en/open-data/marshall-islands/220/business-register-in-the-marshall-islands"},
+    {"title": "Expanship: Marshall Islands company search", "url": "https://www.expanship.com/mh/blog/marshall-islands-company-search"},
+    {"title": "Expanship: Marshall Islands AML and KYC", "url": "https://www.expanship.com/mh/blog/marshall-islands-aml-kyc"},
+    {"title": "DataGuidance: Marshall Islands", "url": "https://www.DataGuidance.com/jurisdiction/marshall-islands"}
+  ],
+  "review_flags": [
+    "Population not verified: no authoritative population figure appeared within the 2-search budget. Field left as 'Not verified'; add a World Bank or 2021 census figure before publishing.",
+    "Personal Data Protection Act 2025: Public Law number and certification date illegible in PacLII text; commencement is 12 months after certification, so confirm whether it is in force. Public sector only.",
+    "Legal_system details (court structure, customary law, US influence) were not drawn from a source opened for this page; verify.",
+    "No PI licensing regime identified. No dedicated anti-corruption statute verified.",
+    "AML law list comes from a commercial guide (Expanship), not official text; confirm with Banking Commission sources."
+  ],
+  "researched": "2026-11-04"
+}

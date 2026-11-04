@@ -1,0 +1,143 @@
+{
+  "cc": "YE",
+  "name": "Yemen",
+  "meta_description": "TDSC investigative consulting on Yemen: sanctions-screened due diligence, counterparty and supply chain risk advisory, scoped from Nashville with counsel.",
+  "eyebrow": "Republic of Yemen",
+  "hero_lede": "Investigative consulting for matters touching Yemen means working across a divided state, where the recognised government in Aden and the Houthi movement in Sanaa run parallel institutions, US terrorism sanctions apply to Ansarallah, records are fragmentary, and much commercial risk sits in fuel, food imports, shipping and remittances.",
+  "intro": [
+    "Yemen's legal framework is Islamic law-based and codified, but its application has been fractured by conflict since 2014. The internationally recognised government, led since 2022 by the Presidential Leadership Council, operates from Aden, while Ansarallah, the Houthi movement, controls Sanaa, Hodeidah and much of the populous north and runs its own administrative bodies. The Commercial Register at the Ministry of Industry and Trade is not meaningfully searchable online for foreign users as of 2026, certified records generally require counsel in Aden, and there is no data protection law. Any investigative work must account for duplicated authorities, unreliable documents and acute physical risk.",
+    "Organisations commission work involving Yemen almost entirely to manage exposure. Shipowners, insurers, commodity traders and port service providers need to know whether cargo, consignees and intermediaries connect to the Houthi network, which the United States redesignated as a Foreign Terrorist Organization in March 2025. Food, fuel and pharmaceutical importers, banks and money transfer operators require counterparty and source-of-funds reviews. Humanitarian agencies and donors need integrity due diligence on contractors and partners operating under sanctions constraints, and multinationals with legacy Yemeni distributors or agents reassess those relationships. Related research routinely extends to Saudi Arabia, the UAE, Oman and Djibouti."
+  ],
+  "population": {
+    "value": "approximately 40 million",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Yemen's constitution makes Islamic sharia the source of all legislation, and the country has a codified civil law system covering civil, commercial and criminal matters, including the Commercial Companies Law No. 22 of 1997 and the Penal Code No. 12 of 1994. The ordinary court hierarchy runs from courts of first instance through appeal courts to the Supreme Court, with commercial divisions handling business disputes. Since the conflict began, judicial institutions have been divided between government-held and Houthi-controlled areas, so the enforceability of judgments depends on where they were issued and against whom.",
+  "data_protection": {
+    "law": "No personal data protection law; Law on the Right to Information No. 13 of 2012 concerns access to information, not privacy",
+    "regulator": "None",
+    "summary": "Yemen has not enacted personal data protection legislation, and a December 2025 UN ESCWA profile recommends that a framework be developed. Privacy is protected only through general constitutional principles, criminal provisions and sectoral confidentiality duties such as banking secrecy. There are no specific cross-border transfer or localisation rules, but practical constraints are severe: personal data about Yemenis can expose people to detention or violence if mishandled. Investigative work should apply international data protection standards, collect the minimum necessary, and store and transfer material securely, with the client's home-country law usually governing data once it leaves Yemen."
+  },
+  "investigator_regulation": "We have not identified any licensing regime for private investigators in Yemen. Investigative activity is constrained by conflict conditions, competing security authorities in Aden and Sanaa, restrictions on photography and movement, and Penal Code offences relating to privacy, defamation and state security. Enquiries in Houthi-controlled areas raise both safety and US sanctions concerns, since dealings that benefit Ansarallah may constitute prohibited transactions or material support. Access to official records is limited and inconsistent. Any local work is scoped with Yemeni counsel and experienced professionals, after sanctions review, and restricted to lawful, open enquiries that do not endanger sources.",
+  "corporate_records": "The Commercial Register is maintained by the Ministry of Industry and Trade of the recognised government, whose Aden office is the most consistently functioning; Houthi authorities operate parallel registration in the areas they control. As of 2026 online search is effectively unavailable to foreign users, with no English interface, so certified extracts are usually obtained through local counsel in Aden. Companies are formed under the Commercial Companies Law No. 22 of 1997. There is no beneficial ownership register, and conflict-era record keeping makes ownership chains difficult to establish. Land and court records are largely paper-based and divided by area of control.",
+  "anti_corruption": "The Law on Anti-Corruption No. 39 of 2006, with implementing regulations issued in 2010, established the Supreme National Authority for Combating Corruption, which investigates public sector corruption and is responsible for whistleblower protection. The Penal Code No. 12 of 1994 criminalises bribery, influence peddling and embezzlement, and the Central Organization for Control and Auditing audits public expenditure. Anti-money laundering and terrorist financing obligations rest on dedicated legislation administered by a financial information unit at the Central Bank, whose functions are themselves split between Aden and Sanaa.",
+  "matters": [
+    {
+      "title": "Shipping and cargo sanctions screening",
+      "text": "Research on vessels, consignees, charterers and port agents connected to Red Sea and Gulf of Aden trade, identifying links to Houthi-controlled ports, designated persons or petroleum networks, to support insurers, owners and traders assessing US terrorism sanctions exposure. Results are fully sourced."
+    },
+    {
+      "title": "Food, fuel and medicine importers",
+      "text": "Ownership and reputational review of Yemeni importers and distributors, mapping family business groups, related companies in the Gulf and Horn of Africa, and adverse findings from UN Panel of Experts reports and media in Arabic and English. Findings are referenced and dated."
+    },
+    {
+      "title": "Remittance and banking counterparties",
+      "text": "Source-of-funds and counterparty assessment for banks, exchange companies and money transfer operators with Yemeni exposure, taking account of the divided central bank, competing licensing decisions and the risk that funds benefit designated actors. Each finding is documented with its source."
+    },
+    {
+      "title": "Humanitarian contractor due diligence",
+      "text": "Integrity checks on transport, warehousing, construction and supply contractors for aid agencies and donors, focusing on diversion risk, links to armed groups and prior misconduct, with research designed to avoid exposing local staff or sources. Findings are framed for donor and agency compliance teams."
+    },
+    {
+      "title": "Legacy agent and distributor reviews",
+      "text": "Reassessment of long-standing Yemeni agents, distributors and joint venture partners for multinationals, testing current ownership, area of operation, payment routes and sanctions exposure before relationships are continued, restructured or exited. Findings support counsel's decisions on termination or remediation."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Arabic; English used in international trade"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Aden, UTC+3, no daylight saving time"
+    },
+    {
+      "label": "Working week",
+      "value": "Sunday to Thursday; Friday is the weekly rest day"
+    },
+    {
+      "label": "Currency",
+      "value": "Yemeni rial (YER), with divergent exchange rates in Aden and Sanaa"
+    },
+    {
+      "label": "Courts language",
+      "value": "Arabic"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Aden, Sanaa, Mukalla, Hodeidah, Taiz"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Certified Arabic translations and legalisation usually required; check which authority issued a document"
+    },
+    {
+      "label": "Authorities",
+      "value": "Parallel institutions in Aden and Sanaa; confirm issuing authority for every record"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Yemen matters from Nashville and starts every one with sanctions screening. As a US company, TDSC does not accept engagements that would violate US or other applicable sanctions, including the Foreign Terrorist Organization and related designations of Ansarallah, and does not suggest workarounds. Most engagements are therefore lawful due diligence and risk advisory for clients outside Yemen deciding whether, or how, to deal with Yemeni counterparties. Research relies on remote lawful sources: registry extracts obtained through counsel in Aden, UN Panel of Experts reports, sanctions lists, foreign corporate and court records, and Arabic and English media. Any local enquiry requires a written legal and security assessment, is carried out only through experienced professionals working with Yemeni counsel, and excludes pretexting and any contact with Houthi authorities.",
+  "faqs": [
+    {
+      "q": "Can TDSC work on matters involving Houthi-controlled areas?",
+      "a": "Only within the limits of US and other applicable sanctions. Ansarallah was redesignated a Foreign Terrorist Organization in March 2025, and transactions benefiting it carry civil and criminal risk. We screen each matter before acceptance and decline work that would breach sanctions. Permitted work is typically due diligence for clients assessing whether to deal with a counterparty."
+    },
+    {
+      "q": "How reliable are Yemeni company records?",
+      "a": "Records exist but must be treated with caution. The Ministry of Industry and Trade register is not searchable online for foreign users, extracts come through counsel in Aden, and Houthi authorities keep separate registrations in the north. We note which authority issued each document and corroborate it with foreign filings, trade data and media."
+    },
+    {
+      "q": "Does Yemen have a data protection law?",
+      "a": "No. Yemen has no personal data protection statute or regulator, and its 2012 Right to Information law addresses access to information rather than privacy. We apply international data protection standards, with particular care because information about individuals in Yemen can put them at physical risk if it is mishandled."
+    },
+    {
+      "q": "Why do Yemeni business groups need regional research?",
+      "a": "Many Yemeni trading families operate through companies in Saudi Arabia, the United Arab Emirates, Oman, Djibouti and beyond. Ownership, banking and shipping arrangements often sit outside Yemen. Effective due diligence therefore combines limited Yemeni records with registry, court and sanctions sources in those neighbouring jurisdictions."
+    },
+    {
+      "q": "Which authorities deal with corruption in Yemen?",
+      "a": "The Supreme National Authority for Combating Corruption was created under Law No. 39 of 2006, and the Central Organization for Control and Auditing audits public spending. Their effectiveness has been reduced by conflict and institutional division, so we rely more on UN reporting, foreign enforcement actions and media when assessing corruption risk."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Baker McKenzie Sanctions News: US redesignates Ansarallah as a Foreign Terrorist Organization (2025)",
+      "url": "https://sanctionsnews.bakermckenzie.com/us-redesignates-ansarallah-as-a-foreign-terrorist-organization"
+    },
+    {
+      "title": "OFAC FAQ 1219",
+      "url": "https://ofac.treasury.gov/faqs/1219"
+    },
+    {
+      "title": "Gard: Sanctions update, Yemen trading and support for the Houthi terrorist network (2025)",
+      "url": "https://gard.no/en/circulars/4-2025-sanctions-update-yemen-trading-and-support-for-the-houthi-terrorist/"
+    },
+    {
+      "title": "UN ESCWA: Arab business legislative frameworks, anti-corruption, Yemen (Dec 2025)",
+      "url": "https://unescwa.org/sites/default/files/inline-files/arab-business-legislative-frameworks-anti-corruption-yemen-english.pdf"
+    },
+    {
+      "title": "UN ESCWA: Law 39 of 2006 on Anticorruption",
+      "url": "https://alp.unescwa.org/legislations/law-39-2006-anticorruption"
+    },
+    {
+      "title": "Business Data Guide: Yemen company search guide",
+      "url": "https://businessdataguide.com/blog/jurisdictions/yemen-company-search-guide"
+    },
+    {
+      "title": "AML Watcher: AML compliance guidelines, Yemen",
+      "url": "https://amlwatcher.com/our-coverage/yemen/"
+    }
+  ],
+  "review_flags": [
+    "Sanctioned/restricted jurisdiction: Ansarallah FTO redesignation (March 2025) and OFAC general licences change frequently; confirm current position centrally before publishing.",
+    "Population (approx. 40 million, 2024) from general knowledge; World Bank URL not retrieved in this session. Verify.",
+    "AML law (believed Law No. 1 of 2010, amended) and FIU details not confirmed from an opened source; text kept generic. Verify and name.",
+    "No PI licensing regime identified; not confirmed by a source.",
+    "Court structure, sharia constitutional clause, banking secrecy and working-week details are from general knowledge; verify.",
+    "Registry status (no online search for foreign users as of 2026) is from a third-party guide only."
+  ],
+  "researched": "2026-11-04"
+}

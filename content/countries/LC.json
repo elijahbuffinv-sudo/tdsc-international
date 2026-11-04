@@ -15,13 +15,13 @@
   },
   "legal_system": "Saint Lucia has a hybrid legal system: English common law predominates, but the civil code and property law are heavily influenced by French law. The Supreme Court of Judicature, established under the Eastern Caribbean Supreme Court arrangements, comprises the High Court and the Eastern Caribbean Court of Appeal. In May 2023 Saint Lucia became the sixth CARICOM member to accept the Caribbean Court of Justice as its final court of appeal. The Eastern Caribbean Supreme Court also supports dispute resolution through court-connected mediation.",
   "data_protection": {
-    "law": "Status of a comprehensive data protection statute not confirmed; see review notes",
-    "regulator": "Not confirmed",
-    "summary": "The 2024 US State Department assessment of Saint Lucia did not identify a data protection law in force, and we have not confirmed from an official source whether a comprehensive statute is operative. Investigative work involving personal data about individuals in Saint Lucia should therefore be planned with local counsel, taking account of constitutional protections, confidentiality obligations in banking and other regulated sectors, and the privacy expectations that apply in a small community. TDSC applies data minimisation, defined purposes, secure storage and controlled retention as a matter of practice regardless of whether a specific statute applies."
+    "law": "Data Protection Act, No. 11 of 2011 (amended 2015), partly in force since 31 January 2023",
+    "regulator": "Data Protection Commissioner",
+    "summary": "Saint Lucia's Data Protection Act No. 11 of 2011 provides for a Data Protection Commissioner, data protection principles and rules on transfers of personal data abroad. Statutory Instrument 4 of 2023 brought parts of the Act into force on 31 January 2023, including the data protection principles; we have not confirmed whether the remaining provisions have commenced or whether the Commissioner's office is operating. Investigations collecting personal data about individuals in Saint Lucia should therefore have a documented lawful purpose, limit collection and plan any transfer with Saint Lucian counsel. TDSC applies minimisation, secure storage and controlled retention throughout."
   },
   "investigator_regulation": "We have not identified, from official sources available to us, a dedicated licensing regime for private investigators in Saint Lucia. The lawfulness of any local investigative step, including surveillance, recording and approaches to witnesses or officials, should be confirmed with Saint Lucian counsel before it is taken. Because inquiries in a small jurisdiction are quickly noticed, discretion is a practical as well as legal concern. TDSC therefore conducts most research from Nashville and uses appropriately qualified local professionals only for steps agreed with counsel.",
-  "corporate_records": "Companies are registered with the Registry of Companies and Intellectual Property, which offers e-filing for most services, although registration fees are paid in person. Businesses must also register with the Inland Revenue Department and the National Insurance Corporation, and non-CARICOM nationals holding more than 49 percent of a company's shares require a trade licence. We have not confirmed from an official source what shareholder, director or beneficial ownership information is publicly searchable. Land title and civil code property records are relevant to many matters and are usually researched with the assistance of local counsel.",
-  "anti_corruption": "The principal anti-corruption statute is the Integrity in Public Life Act of 2004, and special prosecutor legislation allows civil and criminal action against officials for misuse of state resources. Enforcement involves the Royal Saint Lucia Police Force, the Director of Public Prosecutions, the Integrity Commission and the Financial Intelligence Authority. Saint Lucia is a party to the Inter-American Convention against Corruption and acceded to the UN Convention against Corruption in 2011. Financial institutions are supervised by the Eastern Caribbean Central Bank.",
+  "corporate_records": "Companies are registered with the Registry of Companies and Intellectual Property, constituted under the Companies and Intellectual Property Registry Act, which offers e-filing for most services, although registration fees are paid in person. International business companies are formed under separate legislation. Businesses must also register with the Inland Revenue Department and the National Insurance Corporation, and non-CARICOM nationals holding more than 49 percent of a company's shares require a trade licence. We have not confirmed what shareholder, director or beneficial ownership information is publicly searchable. Land title and civil code property records are usually researched with local counsel.",
+  "anti_corruption": "The Integrity in Public Life Act of 2004 governs official conduct and declarations through the Integrity Commission, and special prosecutor legislation allows action against officials for misuse of state resources. The Money Laundering (Prevention) Act (Cap. 12.20) and the Proceeds of Crime Act (Cap. 3.04) form the core AML framework, with the Financial Intelligence Authority, established under 2002 legislation, receiving suspicious transaction reports. The Royal Saint Lucia Police Force and the Director of Public Prosecutions enforce. Saint Lucia acceded to the UN Convention against Corruption in 2011.",
   "matters": [
     {
       "title": "Hotel and resort developer diligence",
@@ -74,7 +74,7 @@
       "value": "Common law with a French-influenced civil code for property and family matters"
     }
   ],
-  "tdsc_approach": "TDSC scopes Saint Lucia engagements from Nashville with attention to the island's hybrid legal tradition, since property and family questions may turn on civil code concepts while procedure follows common law. Research draws on registry information, published Eastern Caribbean Supreme Court and Caribbean Court of Justice judgments, foreign filings, project and procurement information and regional media. Because the status of comprehensive data protection legislation has not been confirmed, TDSC applies its own data minimisation and retention standards and confirms handling with Saint Lucian counsel where personal data is gathered locally. Local inquiries are used sparingly, agreed with counsel and carried out by appropriately qualified professionals. TDSC does not hold a Saint Lucian licence and does not provide legal advice.",
+  "tdsc_approach": "TDSC scopes Saint Lucia engagements from Nashville with attention to the island's hybrid legal tradition, since property and family questions may turn on civil code concepts while procedure follows common law. Research draws on registry information, published Eastern Caribbean Supreme Court and Caribbean Court of Justice judgments, foreign filings, project and procurement information and regional media. Because the Data Protection Act 2011 has been brought into force only in part, TDSC applies its principles together with its own minimisation and retention standards and confirms handling with Saint Lucian counsel where personal data is gathered locally. Local inquiries are used sparingly, agreed with counsel and carried out by appropriately qualified professionals. TDSC does not hold a Saint Lucian licence and does not provide legal advice.",
   "faqs": [
     {
       "q": "Why does French law matter in Saint Lucia?",
@@ -105,15 +105,34 @@
     {
       "title": "World Bank API - Population, total (St. Lucia)",
       "url": "https://api.worldbank.org/v2/country/LC/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "Attorney General's Chambers, Revised Laws of Saint Lucia: Data Protection Act",
+      "url": "https://attorneygeneralchambers.com/laws-of-saint-lucia/data-protection-act/act"
+    },
+    {
+      "title": "Government of Saint Lucia: Financial Intelligence Authority (The FIA)",
+      "url": "https://pmd.govt.lc/statutory-body/financial-intelligence-authority-the-fia/"
+    },
+    {
+      "title": "Attorney General's Chambers: Money Laundering (Prevention) Act",
+      "url": "https://attorneygeneralchambers.com/laws-of-saint-lucia/money-laundering-prevention-act"
+    },
+    {
+      "title": "Attorney General's Chambers: Integrity in Public Life Act",
+      "url": "https://www.attorneygeneralchambers.com/laws-of-saint-lucia/integrity-in-public-life-act"
+    },
+    {
+      "title": "Attorney General's Chambers: Companies and Intellectual Property Registry Act",
+      "url": "https://www.attorneygeneralchambers.com/laws-of-saint-lucia/companies-and-intellectual-property-registry-act"
     }
   ],
   "review_flags": [
-    "Search and fetch budgets were exhausted; page relies on the 2024 US State Department Investment Climate Statement. Only 2 sources; brief asks for 5-12.",
-    "Data protection: Saint Lucia reportedly enacted a Data Protection Act (2011) but the State Dept ICS does not identify any law and commencement status was not verified. Field left as 'not confirmed' - needs verification and likely update.",
-    "Financial Intelligence Authority name taken from State Dept contacts; principal AML statute (Money Laundering (Prevention) Act) not verified and not named.",
+    "Data protection CORRECTED: Data Protection Act No. 11 of 2011 partly commenced 31 Jan 2023 (S.I. 4/2023) per AG Chambers; full commencement and whether a Data Protection Commissioner has been appointed not confirmed. Section 45 transfer text not read.",
+    "Integrity in Public Life Act year (2004) and UNCAC accession (2011) still rest on State Dept ICS; AML statute citations from AG Chambers/FIA pages.",
     "Public content of the company registry and beneficial ownership access not verified.",
     "Kwéyòl, business centres, time zone, currency stated from general knowledge.",
-    "No PI licensing regime identified; not searched for."
+    "No PI licensing regime identified; not specifically searched."
   ],
   "researched": "2026-11-04"
 }

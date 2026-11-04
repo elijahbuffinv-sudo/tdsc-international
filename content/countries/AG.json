@@ -1,0 +1,97 @@
+{
+  "cc": "AG",
+  "name": "Antigua and Barbuda",
+  "meta_description": "TDSC investigative consulting on Antigua and Barbuda: IBC and company records, CBI due diligence, asset tracing and lawful local inquiries from Nashville.",
+  "eyebrow": "Antigua and Barbuda",
+  "hero_lede": "Matters touching Antigua and Barbuda often involve international business corporations, citizenship-by-investment holders and tourism or property assets. Investigative consulting here means working with a common law system, a companies registry that publishes only basic data, a closed beneficial ownership regime and a data protection statute dating from 2013.",
+  "intro": [
+    "Antigua and Barbuda is a twin-island state in the Eastern Caribbean and a member of the Organisation of Eastern Caribbean States and the Eastern Caribbean Currency Union, using the East Caribbean dollar pegged at XCD 2.70 to USD 1.00. Its law follows the English common law tradition and its superior courts are part of the Eastern Caribbean Supreme Court. Domestic companies are registered with the Antigua and Barbuda Intellectual Property and Commerce Office (ABIPCO), while the international business corporation sector is supervised by the Financial Services Regulatory Commission. Personal data is governed by the Data Protection Act, 2013. Public records are limited, and much useful information sits with registered agents rather than in open registers.",
+    "Organisations commission work involving Antigua and Barbuda for several recurring reasons. Its Citizenship by Investment programme means Antiguan passports are held by internationally mobile individuals whose background and source of wealth counterparties need to understand. The international business corporation regime, created in 1982, has produced a large stock of offshore entities; in early 2026 the government reported that more than 13,500 non-compliant IBCs had been struck off. Tourism, hotel and real estate developments draw foreign investment and, at times, disputes. Matters typically involve parties and assets outside the islands, so records must be assembled across several jurisdictions."
+  ],
+  "population": {
+    "value": "approximately 94,000 (estimate)",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Antigua and Barbuda has a common law system derived from English law, supplemented by local statutes such as the Companies Act, 1995 (Cap. 320) and the International Business Corporations Act, 1982. Civil and commercial claims are heard in the High Court of the Eastern Caribbean Supreme Court sitting in St John's, with appeals to the Eastern Caribbean Court of Appeal and final appeal to the Judicial Committee of the Privy Council in London. We have not identified a dedicated domestic commercial court or arbitration centre; international commercial arbitration involving Antiguan parties is commonly seated elsewhere.",
+  "data_protection": {
+    "law": "Data Protection Act, 2013 (No. 10 of 2013)",
+    "regulator": "Information Commissioner",
+    "summary": "The Data Protection Act, 2013 applies to personal data processed by public and private bodies, and defines personal data by reference to commercial transactions. It sets seven principles: a general principle requiring consent and a specified lawful purpose, notice and choice, restrictions on disclosure without consent, security, retention, data integrity and access, with added safeguards for sensitive personal data. Enforcement rests with the Information Commissioner, and offences carry fines and, in some cases, imprisonment. The sources we reviewed do not describe a cross-border transfer regime, and the regulator had no established website. Investigative work involving Antiguan personal data should therefore be scoped narrowly, with a documented purpose and local legal review."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators or detective agencies in Antigua and Barbuda, nor a published register of licensed investigators. That does not leave field activity unregulated. Criminal law, trespass and harassment rules, the Data Protection Act, 2013 and the confidentiality duties attached to banking, registered agent and AML functions all limit what can lawfully be done. Records held by registered agents, the Financial Services Regulatory Commission and government departments are not open to private inquiry. Surveillance, recording and witness approaches should be cleared with Antiguan counsel first, and in a small community discretion is essential.",
+  "corporate_records": "ABIPCO maintains the register of domestic companies, partnerships and business names under the Companies Act, 1995. Its free online search returns basic particulars such as name, registration number, incorporation date, type and status, but not directors, shareholders or filing history; those come from a paid certified extract. Financial statements of domestic companies are generally not public. International business corporations make no public filings and their records sit with registered agents and the FSRC. Beneficial ownership information is held by licensed registered agents and reported to the Inland Revenue Department as competent authority under the Beneficial Ownership (Automatic Exchange of Information) Act, 2017 (amended 2024); it is not open to the public.",
+  "anti_corruption": "The Prevention of Corruption Act, 2004 addresses bribery and corrupt conduct, and the Integrity in Public Life Act, 2004 established the Integrity Commission and an asset declaration regime for persons in public life. The Money Laundering (Prevention) Act, 1996, as amended, is the principal anti-money laundering statute, with the Office of National Drug and Money Laundering Control Policy acting as financial intelligence and AML supervisory body. The Financial Services Regulatory Commission supervises the international financial sector.",
+  "matters": [
+    {
+      "title": "Citizenship-by-investment background checks",
+      "text": "Identity, reputation and source-of-wealth inquiries on individuals holding Antiguan citizenship by investment. Most relevant records sit in their countries of origin and residence, so the work tests whether the Antiguan passport is accompanied by undisclosed names, prior jurisdictions or adverse history elsewhere."
+    },
+    {
+      "title": "IBC ownership and status verification",
+      "text": "Confirming whether an international business corporation exists, is in good standing or has been struck off, and who stands behind it. With no public filings and a closed beneficial ownership regime, this relies on registered agents, counterparties, litigation and records in other jurisdictions."
+    },
+    {
+      "title": "Asset tracing and judgment enforcement",
+      "text": "Locating real estate, vessels, company interests and other assets connected to Antigua and Barbuda for creditors and litigants, and mapping links to accounts and holdings in other financial centres. Findings are framed for use by counsel in Eastern Caribbean Supreme Court or foreign proceedings."
+    },
+    {
+      "title": "Hotel and property development disputes",
+      "text": "Background and counterparty work on developers, contractors and investors in tourism and residential projects, including those marketed to investment-migration buyers. Typical questions concern promoters' track records, use of investor funds and the relationship between local and foreign holding entities."
+    },
+    {
+      "title": "Counterparty and vendor due diligence",
+      "text": "Integrity checks on Antiguan companies and principals before contracts, financings or acquisitions, combining ABIPCO extracts, court and media searches and discreet reputational inquiries in a small, closely connected business community, with attention to politically exposed persons and related-party relationships."
+    }
+  ],
+  "practical": [
+    {"label": "Business language", "value": "English"},
+    {"label": "Currency", "value": "East Caribbean dollar (XCD), pegged at 2.70 to USD 1"},
+    {"label": "Time zone", "value": "America/Antigua (UTC-4, no daylight saving)"},
+    {"label": "Working week", "value": "Monday to Friday"},
+    {"label": "Main business centre", "value": "St John's, Antigua"},
+    {"label": "Courts", "value": "Eastern Caribbean Supreme Court; English-language proceedings"},
+    {"label": "Company registry", "value": "ABIPCO (domestic); registered agents and FSRC (IBCs)"},
+    {"label": "Business culture", "value": "Small, relationship-driven market; introductions and discretion matter"}
+  ],
+  "tdsc_approach": "TDSC scopes Antigua and Barbuda matters from Nashville, beginning with a jurisdictional review of what the client needs to know and which records can lawfully answer it. We distinguish early between domestic companies, where ABIPCO extracts are available, and international business corporations, where information is held by registered agents and is not public. Public sources, court records and records in the other jurisdictions involved are worked first. Where inquiries on the islands are needed, TDSC coordinates qualified local professionals and Antiguan counsel rather than acting directly, and approaches are planned with the small community in mind. Personal data is handled on a documented purpose basis consistent with the Data Protection Act, 2013 and the client's home-jurisdiction rules.",
+  "faqs": [
+    {
+      "q": "Can you find out who owns an Antiguan IBC?",
+      "a": "Not from a public register. Beneficial ownership information is held by licensed registered agents and reported to the Inland Revenue Department, and it is not open to the public. We look instead for ownership signals in litigation, regulatory actions, counterparty documents, banking relationships disclosed in proceedings and records in other jurisdictions. Formal disclosure generally requires a court order or a request by an authority."
+    },
+    {
+      "q": "What does an ABIPCO company search show?",
+      "a": "The free online search confirms basic particulars such as company name, registration number, incorporation date, type and status. Directors, shareholders and filing history are not shown; a certified extract obtained for a fee is the practical route for those. Financial statements of domestic companies are generally not public, so financial analysis usually depends on other sources."
+    },
+    {
+      "q": "How do you approach due diligence on an Antiguan CBI passport holder?",
+      "a": "We treat the Antiguan passport as one fact among many. Most of the useful record lies in the person's countries of birth, prior citizenship, residence and business. We verify identity and name variants, review litigation, regulatory and media records in those places, and test the stated source of wealth. Government programme files are not accessible to private inquiry."
+    },
+    {
+      "q": "Does Antigua and Barbuda have a data protection law?",
+      "a": "Yes. The Data Protection Act, 2013 covers personal data handled by public and private bodies, sets principles on consent, purpose, disclosure, security, retention and access, and is enforced by the Information Commissioner with criminal penalties. The sources we reviewed do not describe detailed cross-border transfer rules, so engagements are scoped conservatively and checked with local counsel."
+    },
+    {
+      "q": "Do you have investigators based in Antigua?",
+      "a": "No. TDSC works from Nashville and has no office or staff in Antigua and Barbuda. When an engagement requires local inquiries, such as court file retrieval, property checks or discreet enquiries, we coordinate qualified local professionals and work alongside the client's Antiguan counsel, with the scope agreed in writing in advance."
+    }
+  ],
+  "sources": [
+    {"title": "Morrison Foerster Privacy Library: Antigua and Barbuda", "url": "https://www.mofo.com/privacy-library/antigua-and-barbuda"},
+    {"title": "Digital Watch: Antigua and Barbuda's Data Protection Act, 2013", "url": "https://dig.watch/resource/antigua-and-barbudas-data-protection-act-2013"},
+    {"title": "CaseGuard: Data protection and personal privacy in Antigua and Barbuda", "url": "https://caseguard.com/articles/proteccion-de-datos-y-privacidad-en-antigua-y-barbuda/"},
+    {"title": "Topograph: Business registers in Antigua and Barbuda", "url": "https://www.topograph.co/guides/business-registers-in-antigua-and-barbuda"},
+    {"title": "Expanship: Antigua and Barbuda beneficial ownership", "url": "https://www.expanship.com/ag/blog/antigua-and-barbuda-beneficial-ownership"},
+    {"title": "Business Data Guide: Antigua and Barbuda company search guide", "url": "https://businessdataguide.com/blog/jurisdictions/antigua-and-barbuda-company-search-guide"},
+    {"title": "Antigua.news: 13,500 IBCs struck off as Antigua and Barbuda strengthens compliance framework (Feb 2026)", "url": "https://antigua.news/2026/02/09/13500-ibcs-struck-off-as-antigua-and-barbuda-strengthens-compliance-framework"}
+  ],
+  "review_flags": [
+    "Population (approx. 94,000, 2024) is from general knowledge; no World Bank or statistics office result appeared in searches. source_url left empty; add an official source before publishing.",
+    "Anti-corruption laws (Prevention of Corruption Act 2004, Integrity in Public Life Act 2004, Money Laundering (Prevention) Act 1996) and ONDCP role were not confirmed by an opened source; verify.",
+    "Legal system details (ECSC High Court, Court of Appeal, Privy Council as final court) not confirmed by an opened source within search budget; verify.",
+    "Data Protection Act 2013: in-force status of all provisions, appointment of Information Commissioner, and cross-border transfer rules not confirmed; regulator had no website per MoFo.",
+    "No PI licensing regime identified; confirm with Antiguan counsel."
+  ],
+  "researched": "2026-11-04"
+}

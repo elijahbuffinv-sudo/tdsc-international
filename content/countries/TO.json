@@ -1,0 +1,142 @@
+{
+  "cc": "TO",
+  "name": "Tonga",
+  "meta_description": "TDSC investigative consulting on Tonga: company checks via the Business Registries Office, land and family-link research, and diligence under 2025 laws.",
+  "eyebrow": "Kingdom of Tonga",
+  "hero_lede": "Investigative consulting on matters touching Tonga involves a small, closely connected society, an online company registry, and a wave of 2025 legislation on privacy, money laundering and whistleblowing. TDSC scopes each matter from Nashville and coordinates qualified local professionals where in-person work is lawful and necessary.",
+  "intro": [
+    "Tonga is a Polynesian constitutional monarchy of about 100,000 people spread across island groups centred on Tongatapu, where Nuku'alofa is the capital and commercial centre. The economy depends heavily on remittances from Tongans in New Zealand, Australia and the United States, alongside agriculture, fisheries, tourism and donor-funded construction. Law is grounded in statute and, where statute is silent, English common law. Records infrastructure is relatively modern for the region: the Business Registries Office runs an online registry. A significant set of 2025 Acts, including a Privacy Act and a Money Laundering and Proceeds of Crime Act, was reported in January 2026 as gazetted, though commencement of some provisions should be confirmed.",
+    "Organisations commission investigative work involving Tonga for reasons shaped by its size and international ties. Lenders, insurers and remittance providers need reliable counterparty and source of funds checks, especially as Tonga strengthens anti-money laundering rules ahead of Asia/Pacific Group assessments. Contractors and investors in reconstruction, energy, telecommunications and tourism projects need assurance about local partners and their connections. Because land in Tonga cannot generally be sold to foreigners and is held through hereditary and leasehold arrangements, property and lease matters require careful verification. Family, estate and identity questions involving the large Tongan diaspora in New Zealand, Australia and the United States also generate requests for lawful background research."
+  ],
+  "population": {
+    "value": "100,209 (2021 Census, preliminary)",
+    "year": "2021",
+    "source_url": "https://tongastats.gov.to/download/231/2021/5692/census-2021-preliminary-results%20dec-2021.pdf"
+  },
+  "legal_system": "Tonga has a common law system: statute is applied first and, where it does not address a matter, English common law applies. The constitutional framework dates from the nineteenth century and was substantially reformed in 2010, with the monarch retaining significant powers. Commercial disputes are heard in the Supreme Court, with appeals to the Court of Appeal; a separate Land Court deals with land matters. Proceedings may be conducted in English or Tongan. We have not identified a domestic institutional arbitration centre, and cross-border contracts commonly choose New Zealand or Australian law and forums.",
+  "data_protection": {
+    "law": "Privacy Act 2025 (Act 34 of 2025) and Personal Health Information Protection Act 2025; commencement to be confirmed",
+    "regulator": "Not yet identified; no appointed privacy commissioner located as of late 2026",
+    "summary": "Until 2025, Tonga had no dedicated data protection statute; DLA Piper's guide, last reviewed in 2022, described no rules on processing, transfers or breach notification. Tongan press reported in January 2026 that the Privacy Act 2025 and the Personal Health Information Protection Act 2025 had been gazetted and come into force, but another review found commencement depended on a Cabinet proclamation it could not locate. Implementing guidance and a supervisory authority had not been identified. TDSC therefore treats Tongan personal data as protected: a documented purpose, minimal collection, secure handling and no onward disclosure beyond the engagement."
+  },
+  "investigator_regulation": "We have not identified, in this research pass, a statute or authority that licenses private investigators in Tonga, and we do not assume either way; the question is confirmed with Tongan counsel for each matter. Tonga's small, closely connected communities make discretion essential, and enquiries that reach family, church or village networks can quickly become known to the subject. TDSC does not use pretexting, covert recording or surveillance, and does not seek access to restricted government, police or civil registration records, including systems under the Civil Registration and Digital Identification Act 2025. Any local document retrieval is carried out lawfully by an appropriately qualified professional.",
+  "corporate_records": "Companies are registered under the Companies Act 1995 by the Registrar of Companies, within the Ministry of Commerce, Consumer, Trade, Innovation and Labour, through the Business Registries Office online registry, which offers a business entity search; certified extracts are also available. A July 2026 consultation stated that the public register shows directors and registered shareholders, and proposed confidential beneficial ownership reporting, public identification of nominee directors and a ban on bearer shares. Land is held under a distinctive hereditary and leasehold system, and leases and land matters require searches with the relevant ministry and local support.",
+  "anti_corruption": "In January 2026, Tongan press reported that the Money Laundering and Proceeds of Crime Act 2025 and the Whistleblower Protection Act 2025, which protects people reporting serious corruption and criminalises retaliation, had been gazetted. A July 2026 Companies Act consultation linked beneficial ownership reform to Asia/Pacific Group anti-money laundering assessments. We have not verified, in this research pass, the current anti-corruption commission arrangements or the location of the financial intelligence unit, which should be confirmed for each matter.",
+  "matters": [
+    {
+      "title": "Counterparty and director checks",
+      "text": "Verifying Tongan companies, their directors and registered shareholders through the Business Registries Office, then testing for nominee arrangements, related parties and adverse media, for lenders, suppliers and project sponsors weighing local partners in Nuku'alofa. Findings note each source."
+    },
+    {
+      "title": "Remittance and source of funds reviews",
+      "text": "Enhanced due diligence for money transfer operators, banks and insurers on Tongan customers and agents, combining registry data with diaspora-side records in New Zealand, Australia and the United States as Tonga implements its 2025 money laundering law."
+    },
+    {
+      "title": "Land lease and project diligence",
+      "text": "Confirming the chain of rights behind leases used for tourism, energy and construction projects, where land is held under hereditary estates and cannot generally be sold to foreigners, with local counsel interpreting registration and consent requirements."
+    },
+    {
+      "title": "Donor-funded contract integrity",
+      "text": "Background research on contractors, consultants and subcontractors bidding for reconstruction and infrastructure work funded by development partners, focusing on ownership, conflicts of interest, prior debarments and performance history in other Pacific states. Reports flag any unresolved conflicts."
+    },
+    {
+      "title": "Diaspora family and estate matters",
+      "text": "Lawful records research supporting estates, custody and family disputes that span Tonga and the diaspora, coordinated with Tongan counsel and handled with particular discretion because of close community and family networks. Findings distinguish records from hearsay."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official languages",
+      "value": "Tongan and English; English used in business and law"
+    },
+    {
+      "label": "Time zone",
+      "value": "Pacific/Tongatapu, UTC+13, no daylight saving"
+    },
+    {
+      "label": "Main business centre",
+      "value": "Nuku'alofa, Tongatapu"
+    },
+    {
+      "label": "Currency",
+      "value": "Tongan pa'anga (TOP)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; Sunday observance is constitutionally protected and business largely stops"
+    },
+    {
+      "label": "Company registry",
+      "value": "Business Registries Office online registry (Companies Act 1995)"
+    },
+    {
+      "label": "Land",
+      "value": "Hereditary and leasehold system; freehold sale to foreigners generally not permitted"
+    }
+  ],
+  "tdsc_approach": "Each Tongan matter starts with a jurisdictional review: the client's purpose, whether the Privacy Act 2025 and related Acts have commenced and what they require, and whether any local task raises a licensing question. Desk research draws on the Business Registries Office, court judgments published through regional legal databases, sanctions and politically exposed person lists, and registries and courts in New Zealand, Australia and the United States, where many Tongan connections are documented. Where certified extracts or land records must be obtained locally, TDSC engages a qualified Tongan professional for a defined task under written instructions that exclude pretexting and informal enquiries through family or community networks. Personal data is minimised and held securely, and reports separate registry evidence from secondary reporting.",
+  "faqs": [
+    {
+      "q": "Can Tongan company records be checked online?",
+      "a": "Yes. The Business Registries Office provides an online business entity search, and certified extracts can be ordered. According to a July 2026 government consultation, the public register shows directors and registered shareholders. Beneficial ownership is not publicly searchable, and proposed reforms would keep it confidential, so ownership conclusions are corroborated with other sources."
+    },
+    {
+      "q": "Is the Privacy Act 2025 in force in Tonga?",
+      "a": "Sources differ. Tongan press reported in January 2026 that the Privacy Act 2025 had been gazetted and come into force, while another review found that commencement depended on a Cabinet proclamation it could not locate. TDSC confirms the position with Tongan counsel on each matter and, in either case, handles Tongan personal data with documented purpose and minimal collection."
+    },
+    {
+      "q": "Can a foreign investor buy land in Tonga, and how is ownership verified?",
+      "a": "Land in Tonga is held under a hereditary and leasehold system, and freehold sale to foreigners is generally not permitted, so foreign participation usually relies on leases. Verifying a lease means confirming the underlying holding, consents and registration, which requires local searches and Tongan legal advice. TDSC coordinates the factual research and leaves legal interpretation to counsel."
+    },
+    {
+      "q": "Why is discretion especially important for enquiries in Tonga?",
+      "a": "With around 100,000 residents and strong family, church and village ties, information travels quickly. Informal questions can alert a subject or cause reputational harm to people who are not the focus of the matter. TDSC relies on documented sources, limits local enquiries to defined lawful tasks and does not use pretexting or approaches through community networks."
+    },
+    {
+      "q": "What changed in Tonga's anti-money laundering framework?",
+      "a": "A Money Laundering and Proceeds of Crime Act 2025 was reported as gazetted in early 2026, and a July 2026 consultation proposed Companies Act amendments on beneficial ownership, nominee directors and bearer shares, linked to Asia/Pacific Group assessments. Banks and remittance providers dealing with Tongan customers may therefore expect closer ownership and source of funds checks."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Census 2021 preliminary results (Tonga Statistics Department)",
+      "url": "https://tongastats.gov.to/download/231/2021/5692/census-2021-preliminary-results%20dec-2021.pdf"
+    },
+    {
+      "title": "Data Protection in Tonga (DLA Piper Data Protection Laws of the World)",
+      "url": "https://www.dlapiperdataprotection.com/?c=TO&t=law"
+    },
+    {
+      "title": "Major governance reforms come into force as 2025 laws are gazetted (Tonga Independent, January 2026)",
+      "url": "https://tongaindependent.com/?p=20419"
+    },
+    {
+      "title": "What is Tonga Privacy Act 2025 (Offlist)",
+      "url": "https://www.offlist.me/what-is-tonga-privacy-act-2025"
+    },
+    {
+      "title": "Consultation memo: proposed Companies Act amendments, 21 July 2026 (Business Registries Office)",
+      "url": "https://businessregistries.gov.to/Documentation/TO/Consultation_Memo_Proposed_Company_Act_Amendments_July_21_2026.pdf"
+    },
+    {
+      "title": "Business Registries Office of the Kingdom of Tonga",
+      "url": "https://businessregistries.gov.to"
+    },
+    {
+      "title": "Tonga company search guide (Business Data Guide)",
+      "url": "https://businessdataguide.com/blog/jurisdictions/tonga-company-search-guide"
+    },
+    {
+      "title": "Tonga's innovative online business registry goes live (Asian Development Bank)",
+      "url": "https://www.adb.org/news/tonga-s-innovative-online-business-registry-goes-live-adb"
+    }
+  ],
+  "review_flags": [
+    "Privacy Act 2025 commencement conflict: Tonga Independent (Jan 2026) says in force; Offlist says commencement awaits Cabinet proclamation not located. No regulator identified. Confirm with Tongan counsel/AG office.",
+    "Population is the 2021 census preliminary figure (Tonga Statistics Department), not a World Bank estimate; consider updating to a final/newer figure.",
+    "No private investigator licensing regime identified; confirm locally.",
+    "Not verified from sources this pass: anti-corruption commission arrangements, FIU location, 2010 constitutional reform, Supreme Court/Court of Appeal/Land Court structure, foreign land ownership restriction, Sunday observance. These are general statements to confirm.",
+    "Companies Act amendments (beneficial ownership, nominees, bearer shares) were at consultation stage (comments due 28 August 2026)."
+  ],
+  "researched": "2026-11-04"
+}

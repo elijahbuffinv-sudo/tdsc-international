@@ -1,0 +1,99 @@
+{
+  "cc": "ML",
+  "name": "Mali",
+  "meta_description": "TDSC investigative consulting on Mali: OHADA RCCM company checks, APDP-aware data handling, mining and supply chain due diligence, and asset research.",
+  "eyebrow": "Republic of Mali",
+  "hero_lede": "Investigative consulting for matters touching Mali combines OHADA-based company records held in the RCCM, a personal data law supervised by the APDP, close attention to security and sanctions screening, and careful coordination with Malian counsel where any local inquiry is needed.",
+  "intro": [
+    "Mali is a landlocked West African state whose business law rests largely on the OHADA uniform acts and whose currency, the CFA franc, is managed through the West African monetary union. Companies are registered in the Registre du Commerce et du Crédit Mobilier, with the commercial court registry in Bamako at the centre of the system, and OHADA has supported computerisation of the register since 2017. Personal data processing has been regulated since Law No. 2013-015, with an independent authority operating since 2016. Official business is conducted in French. Records are uneven outside Bamako, and information gathering frequently depends on certified extracts and local counsel rather than online databases.",
+    "Organisations commission investigative work involving Mali chiefly in connection with gold mining and mineral supply chains, agriculture and cotton, telecommunications, construction and public procurement, and humanitarian and development funding. Typical exposures include unclear ownership of mining permits and trading companies, intermediaries in procurement and logistics, diversion of project funds, and counterparties connected to politically exposed persons. Security conditions in parts of the country limit fieldwork, and the sanctions environment requires every counterparty to be screened. Clients therefore rely on documentary research, careful source evaluation and lawful local support rather than on assumptions about who controls a business."
+  ],
+  "population": {
+    "value": "not verified for this page",
+    "year": "",
+    "source_url": ""
+  },
+  "legal_system": "Mali has a civil law system in the French tradition. Commercial and company law is governed largely by the OHADA uniform acts, including the Uniform Act on General Commercial Law, which also governs the RCCM. Commercial disputes at first instance go to the commercial court, notably the Tribunal de Commerce de Bamako, with appeals through the national courts. Questions arising under the OHADA uniform acts can ultimately reach the regional Common Court of Justice and Arbitration (CCJA) in Abidjan, which also administers institutional arbitration under the OHADA framework.",
+  "data_protection": {
+    "law": "Law No. 2013-015 of 21 May 2013 on the protection of personal data, as amended by Law No. 2017-070 of 18 December 2017; Law No. 2019-056 of 5 December 2019 on cybercrime",
+    "regulator": "Autorité de Protection des Données à caractère Personnel (APDP)",
+    "summary": "Processing of personal data in Mali is subject to Law No. 2013-015, overseen by the APDP, an independent authority launched in 2016 with investigative and sanctioning powers; it has imposed financial penalties on companies. Sensitive data is broadly defined and includes data on judicial proceedings and criminal or administrative sanctions, which bears directly on litigation and background research. Transfers of personal data to another country are permitted only where that country provides sufficient legal protection. Data subjects have rights of access, correction, deletion and objection. Investigative work involving Malian residents should therefore be scoped for lawful purpose, minimisation and the basis for any transfer abroad."
+  },
+  "investigator_regulation": "We have not identified, in the sources reviewed for this page, a dedicated licensing regime for private investigators or detective agencies in Mali, and we do not treat that as meaning such activity is unregulated. Any local activity is scoped with Malian counsel first. The personal data law and the 2019 cybercrime law both constrain collection, and processing data on criminal proceedings or sanctions is treated as sensitive. Security conditions and the presence of armed groups in parts of the country make physical inquiries a matter of risk assessment as well as law. TDSC does not conduct covert recording, pretexting or attempts to access official systems.",
+  "corporate_records": "Companies are registered in the Registre du Commerce et du Crédit Mobilier (RCCM), operating under the Tribunal de Commerce de Bamako, with new registrations routed through the business formalities centre attached to API-Mali. Under the OHADA Uniform Act on General Commercial Law, local registers feed a national file and a regional file kept by the CCJA, and third parties may access RCCM information; Mali-specific procedures, fees and online availability are not clearly published. Beneficial owners are reported to be declared at registration, but there is no public beneficial ownership register. Security interests over movable property are also recorded in the RCCM.",
+  "anti_corruption": "Mali's illicit enrichment law, Law No. 2014-015 of 27 May 2014, created the Office Central de Lutte contre l'Enrichissement Illicite (OCLEI) and an asset declaration regime. Corruption offences sit in the Penal Code. Money laundering and terrorist financing were addressed by Law No. 06-066 of 2006 and Law No. 10-062 of 2010, transposing WAEMU uniform laws, subject to later updating. The financial intelligence unit is CENTIF. The Bureau du Vérificateur Général audits public bodies. Mali ratified the UN Convention against Corruption in 2008.",
+  "matters": [
+    {
+      "title": "Gold mining and permit ownership",
+      "text": "Research into the ownership, directors and history of companies holding or trading in mining permits and gold, including artisanal supply chains, export intermediaries and joint venture partners, with attention to politically exposed persons and to counterparties registered in other WAEMU states or outside the region."
+    },
+    {
+      "title": "Procurement and contractor integrity",
+      "text": "Background research on contractors, consultants and subcontractors in public works, telecommunications and development-funded projects, testing whether declared experience, ownership and relationships match RCCM extracts, court information and open sources, and identifying conflicts of interest relevant to procurement decisions."
+    },
+    {
+      "title": "Sanctions and security screening",
+      "text": "Screening counterparties, agents and logistics providers against applicable sanctions lists and adverse media, including connections to armed groups or foreign security contractors, so that clients can decide lawfully whether to proceed and document the basis for that decision."
+    },
+    {
+      "title": "Grant and project fund diversion",
+      "text": "Supporting donors, NGOs and their counsel in reviewing suspected diversion of project funds, ghost suppliers and inflated invoices, combining document analysis with lawful verification of supplier existence, registration and ownership, while respecting the APDP regime for personal data."
+    },
+    {
+      "title": "Agribusiness and cotton counterparties",
+      "text": "Due diligence on buyers, ginners, input suppliers and traders in the cotton and wider agricultural sectors, where family-held structures, cross-border trade with neighbouring states and limited filed accounts make ownership and financial standing difficult to establish from public records alone."
+    }
+  ],
+  "practical": [
+    {"label": "Business language", "value": "French (official for records and courts); Bambara widely spoken"},
+    {"label": "Time zone", "value": "Africa/Bamako, UTC+0"},
+    {"label": "Working week", "value": "Monday to Friday; Friday afternoons often shortened for prayers"},
+    {"label": "Currency", "value": "West African CFA franc (XOF)"},
+    {"label": "Main business centre", "value": "Bamako"},
+    {"label": "Company records", "value": "RCCM extracts via the commercial court registry; limited online access"},
+    {"label": "Document formalities", "value": "Foreign documents need certified French translation; confirm legalisation with counsel"},
+    {"label": "Field conditions", "value": "Security assessment required before any travel or local inquiry"}
+  ],
+  "tdsc_approach": "TDSC handles Mali matters from Nashville as scoped consulting engagements. Every matter is first screened for sanctions compliance, including targeted designations and counterparties with links to sanctioned persons, and engagements that would breach US or other applicable sanctions are declined. A jurisdictional review then sets out which records exist, such as RCCM extracts, court information and published procurement notices, and how they can lawfully be obtained. Where certified extracts or local inquiries are needed, TDSC coordinates qualified local professionals and works with the client's Malian counsel, subject to a security assessment. Personal data is handled with Law No. 2013-015 in view, including its transfer restriction and treatment of judicial data as sensitive, and reports distinguish verified facts from source reporting.",
+  "faqs": [
+    {
+      "q": "How are Malian companies verified?",
+      "a": "The primary record is the Registre du Commerce et du Crédit Mobilier, operating under the Tribunal de Commerce de Bamako within the OHADA framework. Online access is limited, so verification usually relies on certified extracts obtained through local counsel or agents, cross-checked against open sources, procurement notices and records in other jurisdictions where shareholders are registered."
+    },
+    {
+      "q": "Is beneficial ownership information public in Mali?",
+      "a": "No public beneficial ownership register has been identified. Reporting indicates that beneficial owners at or above a 25 percent threshold are declared at registration and must be available to authorities on request, without a public access requirement. In practice, ownership is established through counterparty disclosures, register extracts and research in the shareholders' home jurisdictions."
+    },
+    {
+      "q": "Who regulates personal data in Mali?",
+      "a": "The Autorité de Protection des Données à caractère Personnel (APDP), established under Law No. 2013-015 and operating since 2016. It can investigate and has imposed financial penalties. The law treats data on judicial proceedings and sanctions as sensitive and allows transfers abroad only to countries with sufficient legal protection, which shapes how background research is collected and reported."
+    },
+    {
+      "q": "Can TDSC send investigators into Mali?",
+      "a": "TDSC has no staff or offices in Mali and does not claim any Malian licence. Where local work is lawful and justified, it coordinates qualified local professionals and the client's counsel. Security conditions in parts of the country mean that each proposed inquiry is assessed for risk to people as well as for legality, and some are better replaced by documentary research."
+    },
+    {
+      "q": "What anti-corruption bodies are relevant in Mali?",
+      "a": "The Office Central de Lutte contre l'Enrichissement Illicite (OCLEI), created by Law No. 2014-015, handles illicit enrichment and asset declarations. CENTIF is the financial intelligence unit, and the Bureau du Vérificateur Général audits public bodies. Their published reports can be useful context in due diligence on public contracts and politically exposed counterparties."
+    }
+  ],
+  "sources": [
+    {"title": "Data Protection Africa: Mali", "url": "https://dataprotection.africa/?p=1335"},
+    {"title": "Mali Law No. 2013-015 (English machine translation, NIAID ClinRegs)", "url": "https://clinregs.niaid.nih.gov/sites/default/files/documents/mali/Mali-DPL_GoogleTranslation.pdf"},
+    {"title": "APDP sanction on Aminata Konaté SARL (Droit Médias Finance)", "url": "https://droitmediasfinance.com/index.php/actualites/droit-tech-fintech/1026-mali-lautorite-de-protection-des-donnees-a-caractere-personnel-inflige-une-sanction-pecuniaire-a-la-societe-aminata-konate-sarl-sak"},
+    {"title": "OHADA: launch of the computerised RCCM in Bamako (2017)", "url": "https://www.ohada.com/actualite/3724/ohada-mali-lancement-du-rccm-informatise-a-bamako.html?langue=pt"},
+    {"title": "IMF: Mali Technical Assistance Report, Anti-Corruption and Anti-Money Laundering", "url": "https://imf.org/fr/Publications/CR/Issues/2016/12/31/Mali-Technical-Assistance-Report-Anti-Corruption-and-Anti-Money-Laundering-43077"},
+    {"title": "Expanship: incorporation requirements in Mali", "url": "https://www.expanship.com/ml/blog/incorporation-requirements-in-mali"},
+    {"title": "The KYB: Mali company data", "url": "https://thekyb.com/our-data/mali/"}
+  ],
+  "review_flags": [
+    "Population not verified: no World Bank or INSTAT result surfaced within the search budget. Insert the official figure and source before publishing.",
+    "Political/security context (military-led transition, Mali's 2025 exit from ECOWAS with the AES states) was deliberately not stated specifically because it was not verified in sources; consider whether the page should mention it.",
+    "AML legislation cited (Law 06-066 of 2006, Law 10-062 of 2010) comes from a 2015 IMF report; Mali has likely since transposed the 2015/2016 WAEMU uniform AML/CFT law. Confirm the current statute.",
+    "Beneficial ownership declaration at registration is sourced only to a commercial incorporation guide (Expanship); confirm with counsel.",
+    "Data Protection Africa fact sheet dated 2022; check for newer amendments to Law 2013-015.",
+    "No PI licensing regime identified; confirm with Malian counsel.",
+    "Sanctions: page refers generally to targeted designations; central sanctions review should confirm wording."
+  ],
+  "researched": "2026-11-04"
+}

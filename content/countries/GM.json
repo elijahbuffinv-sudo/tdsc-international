@@ -1,0 +1,139 @@
+{
+  "cc": "GM",
+  "name": "Gambia",
+  "meta_description": "TDSC investigative consulting on Gambia: company record checks in Banjul, asset tracing after the Janneh Commission, and diligence under the 2025 data law.",
+  "eyebrow": "Republic of The Gambia",
+  "hero_lede": "Investigative consulting on matters touching The Gambia means working with paper-based registries in Banjul, a newly enacted personal data law and a legacy of state asset recovery. TDSC scopes each matter from Nashville and coordinates qualified local professionals where records must be obtained in person.",
+  "intro": [
+    "The Gambia is a small, English-speaking West African state almost entirely surrounded by Senegal, with an economy built on tourism, re-export trade through the port of Banjul, groundnuts, fisheries and remittances. Its governance environment has changed markedly since the 2016 transition, with commissions of inquiry, an Access to Information Act in 2021 and, in 2025, the Personal Data Protection and Privacy Act. Records infrastructure remains modest: the Companies Registry under the Ministry of Justice has no public online search, so verification typically depends on certified extracts obtained in person or through a local agent, and on the timeliness of each company's annual returns.",
+    "Organisations commission work involving The Gambia for several recurring reasons. Investors and lenders in tourism, fisheries, telecommunications and energy need assurance about local partners, landholdings and politically exposed persons. Exporters and traders using Banjul as a re-export hub into Senegal, Mali and Guinea need counterparty checks. Asset recovery remains live: the 2018 Janneh Commission report identified assets said to have been fraudulently obtained under the former government, and related ownership questions continue to arise. Diaspora-linked family, estate and property disputes, often involving parties in the United Kingdom, United States and Europe, also generate requests for lawful background research."
+  ],
+  "population": {
+    "value": "Not verified in this research pass",
+    "year": "",
+    "source_url": ""
+  },
+  "legal_system": "The Gambia has a mixed legal system in which English-derived common law and statute predominate, alongside customary law and Sharia applied in defined personal and family matters. Commercial disputes are heard in the High Court, which sits in Banjul, with appeals to the Court of Appeal and the Supreme Court. Court proceedings are conducted in English. We have not verified, in this research pass, the current organisation of any dedicated commercial division or the availability of an institutional arbitration centre, and parties to cross-border contracts commonly choose foreign seats or ad hoc arbitration.",
+  "data_protection": {
+    "law": "Personal Data Protection and Privacy Act, 2025",
+    "regulator": "Information Commission (established under the Access to Information Act, 2021)",
+    "summary": "The 2025 Act provides lawful bases including consent, contract, legal obligation, vital interests, public task and legitimate interest, with a special regime for sensitive data. Cross-border transfers are permitted to destinations with adequate protection, or otherwise under appropriate safeguards adopted or supervised by the Information Commission, with the controller documenting its assessment. Criminal penalties are significant, including imprisonment for unlawful sale of personal data and for concealing a security breach. Commencement and implementing guidance should be confirmed for each matter. Investigative work therefore needs a documented lawful basis, data minimisation and a recorded transfer justification before Gambian personal data leaves the country."
+  },
+  "investigator_regulation": "We have not identified, in this research pass, a dedicated statute or licensing authority for private investigators or detective agencies in The Gambia, and we do not assume one exists or does not. Engagements are therefore scoped with local counsel. Regardless of licensing, the 2025 data protection Act creates criminal offences for unlawful processing and sale of personal data, and general criminal and privacy law limits covert recording, trespass and approaches that misrepresent identity. TDSC does not use pretexting and does not seek access to restricted government records. Where in-person retrieval of registry or court documents is needed, it is handled by qualified local professionals acting lawfully.",
+  "corporate_records": "The Companies Department of the Ministry of Justice, headed by the Registrar of Companies, registers companies, partnerships, sole proprietorships and charitable bodies under the Companies Act 2013 and the Single Window Business Registry Act. There is no public online company search; certified extracts are requested in person in Banjul or at the Kanifing branch, or via a local agent, and list directors and shareholders as filed in the latest annual return. A 2023 civil society report described beneficial ownership disclosure as only partly in place and generally not available online. Land and court records require in-person enquiry.",
+  "anti_corruption": "A civil society parallel report on UNCAC implementation, summarised in November 2023, stated that the 2012 Gambia Anti-Corruption Commission Act had not been implemented, so no anti-corruption commission was operating at that time. Money laundering is addressed by the AML/CFT Act, with the Gambia Financial Intelligence Unit receiving suspicious transaction reports. Prosecution rests with the Attorney General's Chambers, and the Ombudsman, Public Procurement Authority and Public Service Commission have oversight roles. Subsequent anti-corruption legislation should be confirmed.",
+  "matters": [
+    {
+      "title": "Counterparty and partner verification",
+      "text": "Confirming that a Gambian company exists, who its filed directors and shareholders are, and whether annual returns are current, through certified extracts from the Companies Registry in Banjul, combined with media, litigation and politically exposed person screening."
+    },
+    {
+      "title": "State asset recovery research",
+      "text": "Supporting counsel on ownership questions linked to the Janneh Commission findings, tracing companies, properties and accounts connected to the former administration through Gambian records and registries in third countries where assets were moved or held."
+    },
+    {
+      "title": "Tourism and land due diligence",
+      "text": "Background checks on hotel, resort and coastal land counterparties along the Kombo and Atlantic coast, testing ownership claims, competing interests and litigation history before investment or lending, with local professionals retrieving land and court documents."
+    },
+    {
+      "title": "Re-export trade counterparties",
+      "text": "Screening traders and freight intermediaries using Banjul as a re-export hub into Senegal, Mali and Guinea, focusing on ownership, sanctions exposure, adverse media and consistency between declared activity and trading patterns. Findings record which documents were obtained and which claims remain unverified."
+    },
+    {
+      "title": "Diaspora estate and family matters",
+      "text": "Locating lawful records about property and family relationships for estates and disputes involving Gambians in the United Kingdom, United States and Europe, coordinated with local counsel where customary or Sharia rules govern succession. Findings note any record that could not be obtained in person."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official language",
+      "value": "English; Mandinka, Wolof and Fula widely spoken"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Banjul, UTC+0, no daylight saving"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Banjul, Serekunda and the Kanifing Municipality"
+    },
+    {
+      "label": "Currency",
+      "value": "Gambian dalasi (GMD)"
+    },
+    {
+      "label": "Company records",
+      "value": "Certified extracts in person or via local agent; no public online search"
+    },
+    {
+      "label": "Courts language",
+      "value": "English"
+    },
+    {
+      "label": "Data protection regulator",
+      "value": "Information Commission"
+    }
+  ],
+  "tdsc_approach": "TDSC begins each Gambian matter with a jurisdictional review: the client's purpose, the lawful basis for any processing under the Personal Data Protection and Privacy Act 2025, and whether personal data will need a documented transfer justification. Desk research covers international sanctions and politically exposed person lists, published commission reports, media and court records abroad. Because the Companies Registry has no online search, certified extracts and court or land documents are obtained in person by a qualified local professional engaged for the specific task, with written instructions prohibiting pretexting or access to restricted records. Local counsel is involved where customary or Sharia rules, or licensing questions, arise. Findings distinguish verified records from reporting, and Gambian personal data is held only as long as the engagement requires.",
+  "faqs": [
+    {
+      "q": "Can a Gambian company be checked online?",
+      "a": "Not reliably. The Companies Department of the Ministry of Justice does not offer a public online company search. Certified extracts showing directors and shareholders as filed in the latest annual return are requested in person in Banjul or Kanifing or through a local agent. Accuracy depends on whether the company has filed on time, so extracts are compared with other sources."
+    },
+    {
+      "q": "Does the 2025 data protection law affect background checks on individuals in The Gambia?",
+      "a": "Yes. The Personal Data Protection and Privacy Act 2025 requires a lawful basis, special care with sensitive data and safeguards for transfers abroad, overseen by the Information Commission. It also creates criminal offences, including for unlawfully selling personal data. TDSC documents the lawful basis and transfer justification before personal data is collected or sent out of the country."
+    },
+    {
+      "q": "Is beneficial ownership information available for Gambian companies?",
+      "a": "Only partly. A 2023 civil society report on anti-corruption implementation found that legal ownership must be registered but is generally not available online, and that beneficial ownership disclosure was weak. In practice, ownership is assessed by combining registry extracts with records from other countries, media reporting and, where appropriate, information provided by the parties themselves."
+    },
+    {
+      "q": "Can TDSC help with assets connected to the Janneh Commission findings?",
+      "a": "TDSC can support counsel with lawful research into the ownership history of companies and properties discussed in the Commission's 2018 report and in subsequent reporting, including tracing links into other jurisdictions. It does not provide legal advice on forfeiture or recovery, and any court filings or claims remain with the client's Gambian and international lawyers."
+    },
+    {
+      "q": "Are private investigators licensed in The Gambia?",
+      "a": "We have not identified a dedicated licensing regime for private investigators in The Gambia, and we treat the question as one for local counsel on each matter. TDSC does not claim any Gambian licence. Local work, such as document retrieval, is limited to lawful tasks performed by appropriately qualified professionals, without pretexting or surveillance of individuals."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Review of Gambia's Personal Data Protection and Privacy Act 2025 (Techhive Advisory)",
+      "url": "https://www.techhiveadvisory.africa/insights/review-of-gambias-personal-data-protection-and-privacy-act-2025"
+    },
+    {
+      "title": "Personal Data Protection and Privacy Bill document (National Assembly of The Gambia)",
+      "url": "https://assembly.gm/documents/364"
+    },
+    {
+      "title": "The Gambia strengthens digital trust with personal data protection privacy bill (Biometric Update, October 2025)",
+      "url": "https://www.biometricupdate.com/202510/the-gambia-strengthens-digital-trust-with-personal-data-protection-privacy-bill"
+    },
+    {
+      "title": "Companies Department (Ministry of Justice, The Gambia)",
+      "url": "https://moj.gov.gm/?p=4040"
+    },
+    {
+      "title": "The Gambia company search guide (Business Data Guide)",
+      "url": "https://businessdataguide.com/blog/jurisdictions/gambia-company-search-guide"
+    },
+    {
+      "title": "UNCAC Coalition civil society parallel report, executive summary: The Gambia",
+      "url": "https://uncaccoalition.org/wp-content/uploads/UNCAC-Coalition-CoSP10-submission-Civil-society-parallel-report-Executive-summary-The-Gambia.pdf"
+    },
+    {
+      "title": "Further steps towards a data protection authority in The Gambia (Council of Europe)",
+      "url": "https://coe.int/en/web/data-protection/-/further-steps-towards-a-data-protection-authority-in-the-gambia"
+    }
+  ],
+  "review_flags": [
+    "Population not verified: no World Bank or GBoS result appeared within the two-search budget; field left blank and must be filled.",
+    "Commencement date and in-force status of the Personal Data Protection and Privacy Act 2025 not confirmed (assent reported late 2025).",
+    "No private investigator licensing regime identified; confirm with Gambian counsel.",
+    "Anti-corruption position relies on a November 2023 civil society report (2012 Commission Act not implemented); a newer Anti-Corruption Act may have since been enacted. Confirm before publishing.",
+    "Legal system details (mixed common/customary/Sharia, High Court/Court of Appeal/Supreme Court, absence of verified arbitration centre) are general and were not confirmed from a source this pass.",
+    "Business Data Guide notes conflicting information on whether MoJ or the trade ministry operates the registry; MoJ official page used."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,96 @@
+{
+  "cc": "SR",
+  "name": "Suriname",
+  "meta_description": "TDSC investigative consulting on Suriname: KKF trade register research, extractive sector due diligence, anti-corruption context and asset tracing.",
+  "eyebrow": "Republic of Suriname",
+  "hero_lede": "Investigative consulting for matters touching Suriname draws on a Dutch-language record environment, a trade register kept by the Chamber of Commerce and Factories, an anti-corruption framework that became operational in 2023, and a data protection regime that is still at draft stage.",
+  "intro": [
+    "Suriname is a Dutch-speaking republic on the northern coast of South America whose legal institutions reflect its Dutch heritage. Businesses must register with the Kamer van Koophandel en Fabrieken (KKF) in Paramaribo under trade register rules dating back to 1936, and the Annual Accounts Act of 2017 requires legal entities to publish financial statements. The Anti-Corruption Act of 2017 became operational in practice only when its commission was set up in 2023 and asset declaration rules followed. A comprehensive personal data protection law has been drafted, but we have not confirmed its enactment. Much of the useful information sits with the KKF, the courts and sectoral bodies rather than in online databases.",
+    "Organisations commission investigative work involving Suriname mainly in connection with gold mining, including extensive small-scale and informal mining, the developing offshore oil and gas sector, timber and agriculture, banking and correspondent relationships, and public contracting. Typical exposures include opaque ownership of mining concessions and service companies, licence holders who differ from the parties actually operating or financing a site, politically exposed counterparties, and assets held through relatives or companies in the Netherlands and neighbouring countries. Close family and business networks in Paramaribo mean that reputational inquiries need careful sourcing and discretion."
+  ],
+  "population": {
+    "value": "not verified for this page",
+    "year": "",
+    "source_url": ""
+  },
+  "legal_system": "Suriname has a civil law system derived from the Dutch tradition, with codified civil, commercial and criminal law and proceedings conducted in Dutch. Commercial disputes are heard by the cantonal courts at first instance, with the High Court of Justice (Hof van Justitie) in Paramaribo at the top of the ordinary judiciary. Suriname is also a member of CARICOM. We have not verified the details of any specialised commercial court or national arbitration institution for this page, so dispute forum questions are reviewed with Surinamese counsel in each matter.",
+  "data_protection": {
+    "law": "No comprehensive data protection statute confirmed as in force; draft Wet Bescherming Privacy en Persoonsgegevens (Privacy and Personal Data Protection Act) published by the National Assembly",
+    "regulator": "None confirmed; the draft act would create a Commissaris voor Gegevensbescherming (Commissioner for Data Protection)",
+    "summary": "We have not confirmed that a comprehensive data protection law is in force in Suriname as of late 2026. A draft Privacy and Personal Data Protection Act modelled closely on European principles would require a lawful basis for processing, including legitimate interests, prohibit processing of special categories subject to exceptions, restrict processing of criminal data by non-official controllers, and limit transfers abroad to adequate protection, binding rules or agreements, or Commissioner authorisation. Until enactment is confirmed, investigative work is scoped on the basis of constitutional privacy protections, sectoral confidentiality rules such as tax secrecy, and the data protection law of the client's own jurisdiction."
+  },
+  "investigator_regulation": "We have not identified, in the sources reviewed for this page, the statute or authority that licenses private investigators or detective agencies in Suriname, and we do not assume that none applies. Any local activity, such as interviews, site visits in mining districts or observation, is therefore planned with Surinamese counsel before it begins. The draft data protection act would restrict how non-official bodies process criminal data, and tax and banking confidentiality limit what can lawfully be obtained. TDSC does not use pretexting, covert recording or attempts to access tax, police or banking records.",
+  "corporate_records": "Businesses register in the trade register (handelsregister) kept by the Kamer van Koophandel en Fabrieken (KKF) under the Commercial Register Act. The register records name, address, legal form and management, and copies are available for a fee; a company directory is published online. Annual financial statements required under the Annual Accounts Act of 2017 help where filed.There is no general public beneficial ownership register; beneficial ownership disclosure has been pursued mainly through EITI reporting for extractive companies. Mining licence data from the Geology and Mining Service and land records in the GLIS land register list legal holders, not necessarily the parties who control or finance them.",
+  "anti_corruption": "The Anti-Corruption Act (S.B. 2017 no. 85) was passed by the National Assembly in 2017 and defines politically exposed persons, protects whistleblowers and requires public officials to report interests in legal entities. Its Anti-Corruption Commission was established in 2023, and a 2023 decree requires officials to file income and asset declarations with a notary, with receipts registered by the Commission. Bribery and money laundering are criminal offences, and Suriname has a financial intelligence unit; specific AML statute names should be confirmed with counsel.",
+  "matters": [
+    {
+      "title": "Gold mining concession due diligence",
+      "text": "Establishing who actually controls and finances mining concessions and gold buyers, where licence holders recorded by the Geology and Mining Service often differ from the operators on site, and where informal mining, cross-border trading and cash-based supply chains create integrity and reputational risk."
+    },
+    {
+      "title": "Oil and gas supplier vetting",
+      "text": "Background and ownership checks on local partners, subcontractors and service providers seeking work linked to offshore oil and gas development, including links to public officials, local content claims and the use of recently formed companies with limited filed accounts."
+    },
+    {
+      "title": "Politically exposed counterparties",
+      "text": "Mapping relationships between counterparties and public officials in light of the Anti-Corruption Act's definitions and the 2023 asset declaration regime, using KKF records, court information and open sources while recognising that declarations themselves are held confidentially."
+    },
+    {
+      "title": "Dutch and regional asset tracing",
+      "text": "Supporting counsel in fraud, insolvency and enforcement matters where assets connected to Suriname are held through companies or relatives in the Netherlands, Guyana, French Guiana or the United States, coordinating KKF research with foreign-registry and litigation research."
+    },
+    {
+      "title": "Banking and correspondent relationship reviews",
+      "text": "Enhanced due diligence on financial institutions, money transfer operators and their owners for correspondent banks and investors, focusing on ownership, management history, adverse media and the practical limits imposed by banking and tax confidentiality in Suriname."
+    }
+  ],
+  "practical": [
+    {"label": "Business languages", "value": "Dutch (official); Sranan Tongo and English widely used"},
+    {"label": "Time zone", "value": "America/Paramaribo, UTC-3"},
+    {"label": "Working week", "value": "Monday to Friday"},
+    {"label": "Main business centre", "value": "Paramaribo"},
+    {"label": "Company records", "value": "KKF trade register extracts, available for a fee"},
+    {"label": "Courts language", "value": "Dutch"},
+    {"label": "Document formalities", "value": "Foreign documents usually need Dutch translation; confirm legalisation with counsel"},
+    {"label": "Business culture", "value": "Close-knit, relationship-based market; discretion is essential"}
+  ],
+  "tdsc_approach": "TDSC handles Suriname matters from Nashville as scoped consulting engagements. Each begins with a jurisdictional review of what records exist, including KKF register extracts, published annual accounts, EITI disclosures, mining licence data and court information, and how they may lawfully be obtained. Because a comprehensive data protection law has not been confirmed as in force, TDSC applies minimisation and purpose limitation by default, follows the data protection law of the client's jurisdiction, and revisits the position once the draft act is enacted. Where certified extracts, interviews or visits to mining districts are needed, TDSC coordinates qualified local professionals and works with the client's Surinamese counsel. Research in the Netherlands and neighbouring jurisdictions is integrated where ownership or assets lead there.",
+  "faqs": [
+    {
+      "q": "Where are Surinamese companies registered?",
+      "a": "With the Kamer van Koophandel en Fabrieken (KKF) in Paramaribo, which keeps the trade register. The register records name, address, legal form and management, and extracts can be obtained for a fee. Annual financial statements filed under the 2017 Annual Accounts Act can add useful information where they exist. Records are in Dutch."
+    },
+    {
+      "q": "Does Suriname have a data protection law?",
+      "a": "We have not confirmed that a comprehensive law is in force as of late 2026. A draft Privacy and Personal Data Protection Act would establish a Commissioner for Data Protection and European-style rules on lawful basis, special categories and transfers. TDSC scopes work conservatively in the meantime and monitors enactment, since it would directly affect investigative research."
+    },
+    {
+      "q": "Can beneficial owners be identified from public records?",
+      "a": "Only partly. The KKF register records management rather than ultimate owners, and there is no general public beneficial ownership register. For extractive companies, EITI reporting has included some ownership disclosure. Otherwise ownership is established from counterparty disclosures, filed accounts, mining and land records and research in jurisdictions where shareholders sit."
+    },
+    {
+      "q": "How does the Anti-Corruption Act affect due diligence?",
+      "a": "The 2017 Act defines politically exposed persons and became operational with the Anti-Corruption Commission in 2023, followed by an asset declaration decree. Declarations are lodged confidentially with notaries, so they are not a research source, but the framework raises the stakes for counterparties connected to officials and makes documented PEP screening more important."
+    },
+    {
+      "q": "Does TDSC work in Suriname's interior mining areas?",
+      "a": "TDSC has no staff or offices in Suriname and claims no Surinamese licence. Where on-site verification in mining districts is lawful and justified, TDSC coordinates qualified local professionals with the client's counsel and assesses access and safety first. Much useful work can be done from licence data, filings, satellite imagery and open sources."
+    }
+  ],
+  "sources": [
+    {"title": "Draft Wet Bescherming Privacy en Persoonsgegevens (De Nationale Assemblée)", "url": "https://www.dna.sr/media/2w5lbamt/wet_bescherming_privacy_en_persoonsgegevens.pdf"},
+    {"title": "Chamber of Commerce and Factories (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Chamber_of_Commerce_and_Factories"},
+    {"title": "EITI Suriname: Request for expression of interest, beneficial ownership (2020)", "url": "https://eitisuriname.gov.sr/wp-content/uploads/2020/04/200416_1600_RequestExpressionOfInterest_BeneficiaryOwnership_EITISR_Final.pdf"},
+    {"title": "SEITI beneficial ownership roadmap (2017)", "url": "https://api.eiti.org/sites/default/files/attachments/seiti_beneficial_ownership_roadmap_approved_oct_2017.pdf"},
+    {"title": "The Daily Herald: Suriname Parliament passes corruption law (2017)", "url": "https://thedailyherald.sx/regional/suriname-parliament-passes-corruption-law"},
+    {"title": "Keynews: public officials required to declare income and assets (2023)", "url": "https://keynews.sr/publieke-functionarissen-nu-bij-wet-verplicht-om-vermogen-en-verklaring-van-inkomen-vrij-te-geven"},
+    {"title": "UNDP: Corruption Risk Assessment for Suriname (2017)", "url": "https://info.undp.org/docs/pdc/Documents/SUR/CORRUPTION%20RISK%20ASSESSMENT%20FOR%20SURINAME%20_APRIL%2010_2017_SV_FINAL.pdf"}
+  ],
+  "review_flags": [
+    "Population not verified: no World Bank or ABS Suriname result surfaced within the search budget. Insert the official figure and source before publishing.",
+    "Data protection: only a draft act (dna.sr) was found; confirm whether the Wet Bescherming Privacy en Persoonsgegevens has been enacted and whether the Commissioner has been appointed. Update the data_protection fields if so.",
+    "No PI licensing statute or authority identified; confirm with Surinamese counsel.",
+    "AML statute names and FIU formal name not verified; text refers generically to an FIU.",
+    "Court structure (cantonal courts, Hof van Justitie) and offshore oil and gas references are from general knowledge, not from fetched sources; verify."  ],
+  "researched": "2026-11-04"
+}

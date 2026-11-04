@@ -34,7 +34,7 @@ SIDX = json.load(open(os.path.join(DATA, 'search-index.json')))
 HUB_BY_SLUG = None
 OUTLINES = maps.load_outlines(os.path.join(DATA, 'countries.geojson'))
 TERR = {'GF': 'FR', 'GP': 'FR', 'MQ': 'FR', 'RE': 'FR', 'YT': 'FR', 'NC': 'FR', 'PF': 'FR', 'VI': 'US', 'GU': 'US', 'CW': 'NL', 'AW': 'NL', 'SX': 'NL', 'GI': 'GB', 'JE': 'GB', 'GG': 'GB', 'IM': 'GB', 'BM': 'GB', 'VG': 'GB'}
-COMPREHENSIVE = {'CU', 'IR', 'KP', 'SY'}
+COMPREHENSIVE = {'CU', 'IR', 'KP'}  # Syria program ended by EO 14312 (30 Jun 2025); targeted listings remain
 EXTENSIVE = {'RU', 'BY', 'VE'}
 NASHVILLE = ZoneInfo('America/Chicago')
 
@@ -203,8 +203,8 @@ def yn(v):
 def ledger(cc, jur, d, cap, dark=False):
     gc = G['countries'].get(cc, {})
     pop = d.get('population') or {}
-    rows = [('Population', f'{pop.get("value","—")} ({pop.get("year","")})' if pop else '—'),
-            ('Capital', jur.get('capital') or '—'),
+    rows = ([('Population', f'{pop.get("value")} ({pop.get("year")})' if pop.get('year') else pop.get('value'))] if pop.get('source_url') else []) + [
+('Capital', jur.get('capital') or '—'),
             ('Region', jur.get('subregion') or jur.get('region') or '—'),
             ('Official languages', ', '.join(jur.get('languages', [])[:4]) or '—'),
             ('Currency', ', '.join(jur.get('currencies', [])[:2]) or '—'),
@@ -295,11 +295,13 @@ def render_jurisdiction(cc, d, published, hub_pages):
 </div></div></section>'''
 
     # --- overview
+    _p = d.get('population') or {}
+    pop_note = f'Population: <a href="{e(_p["source_url"])}" rel="noopener nofollow">source</a>. ' if _p.get('source_url') else ''
     overview = f'''<section class="tdsc-sec tdsc-sec--ivory" aria-labelledby="ov-h"><div class="tdsc-wrap">
 <div class="tdsc-head tdsc-rv"><p class="tdsc-eyebrow">Overview</p><h2 id="ov-h">{e(name)} at a Glance</h2></div>
 <div class="tdsc-prose tdsc-rv" style="max-width:860px">{''.join(f'<p>{e(p)}</p>' for p in d["intro"])}</div>
 <div class="tdsc-rv" style="margin-top:40px">{ledger(cc, jur, d, cap, dark=False)}</div>
-<p class="tdsc-updated" style="margin-top:14px">Population: <a href="{e(d["population"].get("source_url",""))}" rel="noopener nofollow">source</a>. Treaty status, CPI ({e(G["sources"].get("cpi_year","2025"))}), FATF and OFAC entries compiled {e(G["as_of"])}; confirm current status before relying on them.</p>
+<p class="tdsc-updated" style="margin-top:14px">{pop_note}Treaty status, CPI ({e(G["sources"].get("cpi_year","2025"))}), FATF and OFAC entries compiled {e(G["as_of"])}; confirm current status before relying on them.</p>
 </div></section>'''
 
     # --- matters

@@ -1,0 +1,147 @@
+{
+  "cc": "TZ",
+  "name": "Tanzania",
+  "meta_description": "TDSC investigative consulting on Tanzania: mining and partner due diligence, ownership checks and data transfers under the Personal Data Protection Act 2022.",
+  "eyebrow": "United Republic of Tanzania",
+  "hero_lede": "Investigative consulting for matters touching Tanzania involves a common law system with a specialised commercial court, a 2022 data protection law that requires registration and a permit for transfers abroad, a beneficial ownership register closed to the public, and separate arrangements for Zanzibar, coordinated with Tanzanian counsel.",
+  "intro": [
+    "Tanzania's legal environment for investigations is shaped by English-derived common law, statutory reform of the extractives sector, and a data protection regime that has been fully operational only since 2024. Companies are registered under the Companies Act by the Business Registrations and Licensing Agency (BRELA), whose Registrar also holds beneficial ownership information under regulations revised in 2023; that information is available to competent authorities, not the public. The Personal Data Protection Act 2022 requires controllers to register and generally requires a Commission permit before personal data leaves the country. Zanzibar has its own institutions for non-Union matters, so the place of a counterparty's registration matters from the outset.",
+    "Organisations commission investigative work involving Tanzania because of its natural resources and its role as a regional gateway. Gold and other mining activity, natural gas, and the agricultural export trade in cashews, coffee, cotton and tobacco draw investors and buyers who need to understand local partners and licence holders. The port of Dar es Salaam serves landlocked neighbours including Zambia, Malawi, Rwanda, Burundi, Uganda and the eastern Democratic Republic of the Congo, which brings logistics, transit and trade-finance questions. Tourism around Zanzibar, Arusha and the northern safari circuit, land acquisition and public procurement are further sources of due diligence and dispute work."
+  ],
+  "population": {
+    "value": "61.7 million (census)",
+    "year": "2022",
+    "source_url": ""
+  },
+  "legal_system": "Tanzania has a common law system based on English law, alongside statute and, in personal matters, customary and Islamic law. On the mainland, commercial disputes are heard by the High Court, including its Commercial Division in Dar es Salaam, with appeals to the Court of Appeal of Tanzania, which also hears appeals from Zanzibar on most matters. Zanzibar has its own High Court and subordinate courts. Arbitration is governed by the Arbitration Act, revised in 2020, and the Tanzania Institute of Arbitrators supports domestic practice. Swahili and English are both used in the courts.",
+  "data_protection": {
+    "law": "Personal Data Protection Act, 2022, in force 1 May 2023, with the Personal Data Protection (Personal Data Collection and Processing) Regulations, 2023 and Complaints Settlement Procedures Regulations, 2023",
+    "regulator": "Personal Data Protection Commission (fully operational since 3 April 2024)",
+    "summary": "Controllers and processors must register with the Commission and appoint a data protection officer. Data must be collected for defined purposes and, as a rule, directly from the individual, which limits covert collection. Sensitive data, including financial, biometric, health and offence-related information, generally needs prior written consent unless an exception such as legal claims applies. Transfers abroad are allowed only to countries with adequate protection or appropriate safeguards, and a Commission permit is required before transfer. Breaches must be notified to the Commission. The Act applies in Zanzibar only to Union matters, so Zanzibar-specific rules should be checked separately."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators or detective agencies in Tanzania. Interception of communications and covert surveillance are matters for state agencies acting under law, and the Personal Data Protection Act's rules on direct collection, sensitive data and transfers abroad constrain how information on individuals is gathered and shared. Media and online content are also regulated, which affects how findings are expressed. Engagements are therefore scoped with Tanzanian counsel and rely on public registry records, court decisions, open sources in Swahili and English, and lawful interviews conducted by qualified local professionals.",
+  "corporate_records": "Mainland companies are registered under the Companies Act by the Business Registrations and Licensing Agency (BRELA), whose Registrar of Companies keeps incorporation documents, directors, shareholders and annual returns; certified searches are usually obtained through BRELA or local counsel. Under the Companies (Beneficial Ownership) Regulations 2023, companies must file beneficial ownership details within 30 days, but the Registrar discloses them only to competent authorities such as the Financial Intelligence Unit, investigators, prosecutors and the revenue authority, so the register is not public. Zanzibar entities are registered separately. Land rights are recorded through land registries, and court decisions are increasingly published online.",
+  "anti_corruption": "Bribery and corruption offences are set out in the Prevention and Combating of Corruption Act, 2007, enforced by the Prevention and Combating of Corruption Bureau (PCCB), which investigates and, with the Director of Public Prosecutions, prosecutes corruption cases, including before the Economic, Corruption and Organised Crime Division of the High Court. Anti-money laundering obligations arise under the Anti-Money Laundering Act, 2006, with the Financial Intelligence Unit as the national financial intelligence unit.",
+  "matters": [
+    {
+      "title": "Mining licence holder research",
+      "text": "Establishing who controls Tanzanian mining and exploration companies and their local partners, given local content and state participation rules introduced since 2017, by combining BRELA filings, Mining Commission licence information, court decisions and media reporting on disputes, community issues and enforcement action."
+    },
+    {
+      "title": "Transit logistics counterparties",
+      "text": "Vetting clearing and forwarding agents, transporters and warehouse operators handling cargo through Dar es Salaam to Zambia, the Democratic Republic of the Congo and other inland markets, where cargo diversion, fraudulent documentation and undisclosed related parties are recurring concerns for shippers and trade financiers."
+    },
+    {
+      "title": "Agricultural export buyers and suppliers",
+      "text": "Verifying cashew, coffee, cotton and tobacco traders, processors and cooperatives for international buyers and lenders, covering ownership, licensing, prior contract defaults, payment disputes and media reporting on auctions, warehouse receipt problems and supply chain practices."
+    },
+    {
+      "title": "Tourism and land investment",
+      "text": "Supporting investors in Zanzibar and northern circuit hotels, lodges and tour operators with background research on local partners, verification of land and lease arrangements through counsel, and review of prior disputes, regulatory action and reputation, noting the separate legal arrangements that apply in Zanzibar."
+    },
+    {
+      "title": "Procurement and integrity concerns",
+      "text": "Reviewing contractors, subcontractors and agents on infrastructure, energy and donor-funded projects for undisclosed connections, prior debarment or poor performance and allegations of irregular payments, supporting compliance teams and counsel responding to concerns that may also interest the PCCB."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Swahili and English"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Dar_es_Salaam, UTC+3 (no daylight saving)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; some businesses open Saturday morning"
+    },
+    {
+      "label": "Currency",
+      "value": "Tanzanian shilling (TZS)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Dar es Salaam, Dodoma (capital), Arusha, Mwanza, Zanzibar City"
+    },
+    {
+      "label": "Courts language",
+      "value": "Swahili and English; foreign documents need authentication and translation"
+    },
+    {
+      "label": "Key registry",
+      "value": "Business Registrations and Licensing Agency (BRELA), mainland"
+    },
+    {
+      "label": "Business culture",
+      "value": "Courtesy and greetings matter; relationships develop over several meetings"
+    }
+  ],
+  "tdsc_approach": "Engagements touching Tanzania are scoped from Nashville, beginning with whether the counterparty sits on the mainland or in Zanzibar and which registries, courts and laws therefore apply. BRELA filings, court decisions, licensing information and open sources in Swahili and English form the core, with certified searches obtained through qualified local professionals and Tanzanian counsel. Because beneficial ownership data is restricted to authorities, ownership is reconstructed from filings, foreign registries and lawful enquiries. The Personal Data Protection Act requires a permit before personal data leaves Tanzania, so we minimise personal data, keep analysis at the level of companies where possible, and agree any transfer with counsel. Every matter is screened for sanctions exposure. TDSC does not use pretexting or seek restricted government records.",
+  "faqs": [
+    {
+      "q": "Can I find out who ultimately owns a Tanzanian company?",
+      "a": "Not from a public register. Companies must file beneficial ownership details with the Registrar under the Companies (Beneficial Ownership) Regulations 2023, but disclosure is limited to competent authorities. We work from BRELA records of directors and shareholders, foreign registries where shareholders are offshore, court files, media and lawful interviews to build a reliable ownership picture."
+    },
+    {
+      "q": "Can Tanzanian personal data be sent to the United States?",
+      "a": "Only in compliance with the Personal Data Protection Act 2022. Transfers require adequate protection or appropriate safeguards in the receiving country, and a permit from the Personal Data Protection Commission before transfer. We plan engagements to limit personal data, keep sensitive information out of reports where it is not needed, and agree the transfer route with Tanzanian counsel."
+    },
+    {
+      "q": "Are private investigators licensed in Tanzania?",
+      "a": "We have not identified a dedicated licensing law for private investigators in Tanzania. Surveillance and interception are reserved to state agencies, and the data protection law favours direct, transparent collection. TDSC therefore works through Tanzanian counsel and qualified local professionals, relying on registry records, court decisions, open sources and lawful interviews rather than covert methods."
+    },
+    {
+      "q": "Does a Zanzibar matter differ from a mainland one?",
+      "a": "Often, yes. Zanzibar has its own government, High Court and business registration arrangements for non-Union matters, and the Personal Data Protection Act applies there only to Union matters. We confirm where the counterparty and any assets are registered and engage counsel familiar with Zanzibar law when the matter requires it."
+    },
+    {
+      "q": "What due diligence suits a Dar es Salaam logistics partner?",
+      "a": "We check BRELA registration, directors and shareholders, licences, related companies, litigation and media reporting, and look for signs of cargo disputes, customs problems or links to restricted parties in neighbouring markets. Where appropriate, qualified local professionals make discreet, lawful enquiries with industry contacts. Findings are reported in a form counsel can rely on."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Tanzania",
+      "url": "https://dlapiperdataprotection.com/?c=TZ&t=law"
+    },
+    {
+      "title": "Clyde & Co: Tanzania, the Personal Data Protection Act of 2022",
+      "url": "https://www.clydeco.com/en/insights/2023/02/tanzania-personal-data-protection-act-of-2022"
+    },
+    {
+      "title": "Future of Privacy Forum: Tanzania's personal information protection act overview",
+      "url": "https://fpf.org/blog/tanzanias-personal-information-protection-act-overview-key-takeaways-and-context/"
+    },
+    {
+      "title": "ALN: Tanzania's Personal Data Protection Act comes into effect",
+      "url": "https://aln.africa/insight/tanzanias-personal-data-protection-act-comes-into-effect/"
+    },
+    {
+      "title": "Cymbell Attorneys: Key aspects of the new 2023 Companies (Beneficial Ownership) Regulations",
+      "url": "https://tz.cmadvocates.com/key-aspects-of-the-new-2023-companies-beneficial-ownership-regulations/"
+    },
+    {
+      "title": "Legal 500: Beneficial ownership rules in Tanzania (2021)",
+      "url": "https://www.legal500.com/intelligence/tanzania/corporate-commercial-law/beneficial-ownership-rules-in-tanzania"
+    },
+    {
+      "title": "FB Attorneys: FAQs on Beneficial Ownership Regulations",
+      "url": "https://fbattorneys.co.tz/faqs-on-beneficial-ownership-regulations/"
+    },
+    {
+      "title": "KPMG: BRELA Public Notice, 10 March 2025",
+      "url": "https://assets.kpmg.com/content/dam/kpmg/ke/pdf/tax/2025/BRELA%20Public%20Notice_10%20March%202025.pdf"
+    }
+  ],
+  "review_flags": [
+    "Population not sourced: 61.7 million (2022 census) is from general knowledge; no NBS or World Bank result appeared within the search budget. Add a source URL.",
+    "Act title: DLA Piper and Clyde & Co use 'Personal Data Protection Act, 2022'; FPF calls it the 'Personal Information Protection Act' (translation). Confirm official English title and Act number.",
+    "Anti-corruption and AML details (Prevention and Combating of Corruption Act 2007, PCCB, Anti-Money Laundering Act 2006, Economic, Corruption and Organised Crime Division) are from general knowledge; only the FIU's role as a competent authority was seen in a source.",
+    "Court structure (Commercial Division, Court of Appeal jurisdiction over Zanzibar), Arbitration Act revision 2020 and Tanzania Institute of Arbitrators are from general knowledge, not verified.",
+    "BRELA public-file contents (directors, shareholders, annual returns) and Zanzibar's separate registry are from general knowledge; KPMG-hosted BRELA notice URL contains spaces and was not opened.",
+    "No private investigator licensing regime identified; confirm with Tanzanian counsel. Political and security conditions since the October 2025 elections should be reviewed before publishing."
+  ],
+  "researched": "2026-11-04"
+}

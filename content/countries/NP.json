@@ -1,0 +1,99 @@
+{
+  "cc": "NP",
+  "name": "Nepal",
+  "meta_description": "TDSC investigative consulting on Nepal: partner vetting, hydropower and remittance-linked due diligence, and research under the Individual Privacy Act 2018.",
+  "eyebrow": "Federal Democratic Republic of Nepal",
+  "hero_lede": "Investigative consulting for matters touching Nepal works within a privacy law that relies on consent and criminal enforcement rather than a regulator, a company registry with limited public search, beneficial ownership duties held by registering bodies, and records kept in Nepali and the Bikram Sambat calendar.",
+  "intro": [
+    "Nepal's commercial law framework is built on the Companies Act 2063 (2006), administered by the Office of Company Registrar under the Ministry of Industry, Commerce and Supplies, alongside the 2017 Civil and Penal Codes. Registration has moved online, but company files are not exposed through a public search comparable to many other registries, and beneficial ownership details collected under the Money Laundering Prevention Act are made available to authorities rather than the public. Privacy is governed by the Individual Privacy Act 2018 (2075), which is enforced through the courts and police rather than a data protection authority. Investigators therefore rely heavily on certified extracts, court records, local-language media and lawful interviews.",
+    "Organisations commission investigative work involving Nepal for reasons tied to its economy. Hydropower development and electricity exports attract foreign developers, lenders and contractors who need clarity on local partners and land acquisition. Remittances from Nepali workers abroad sustain a large share of household income, bringing scrutiny of recruitment agencies and money transfer channels. Tourism, trekking and aviation draw investors and insurers into due diligence and claims work. The collapse of a number of savings and credit cooperatives, trade across the open border with India and growing Chinese investment add asset tracing, fraud and counterparty questions."
+  ],
+  "population": {
+    "value": "29.2 million (census)",
+    "year": "2021",
+    "source_url": ""
+  },
+  "legal_system": "Nepal's legal system combines codified law with common law influences, under the Constitution of Nepal (2015). The Muluki Civil Code and the Muluki Criminal (Penal) Code, both of 2017, replaced the long-standing Muluki Ain. Commercial disputes are heard by District Courts, with appeals to the High Courts and final review by the Supreme Court in Kathmandu, whose precedents bind lower courts. Arbitration is governed by the Arbitration Act 2055 (1999), and the Nepal Council of Arbitration (NEPCA) offers institutional arbitration. Proceedings are conducted in Nepali, and documents often use the Bikram Sambat calendar.",
+  "data_protection": {
+    "law": "Individual Privacy Act, 2075 (2018) and Individual Privacy Regulation, 2077 (2020)",
+    "regulator": "No designated data protection authority; complaints go to the district court or the police",
+    "summary": "The Individual Privacy Act, in force since 18 September 2018, protects privacy of the person, property, documents, correspondence and personal information. Personal data held electronically cannot generally be used or shared without the individual's consent, and sensitive categories, including caste, ethnicity, political affiliation, religion, health, sexual orientation and property details, are subject to tighter limits. Breaches are criminal offences punishable by imprisonment of up to three years and fines. There is no general cross-border transfer regime, but 2025 directives require data centre and cloud services to be listed with the Department of Information Technology. Investigative work on Nepali individuals should rest on public sources, consent or a clear legal basis."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators or detective agencies in Nepal. The Individual Privacy Act makes unauthorised intrusion into personal information, correspondence and private life a criminal matter, and the 2017 Penal Code contains further privacy offences, so covert recording, interception and surveillance carry real legal risk. Access to official records such as bank, tax and immigration data is restricted to authorities. Engagements are therefore scoped with Nepali counsel and rely on certified registry extracts, court records, open sources in Nepali and English, and lawful interviews by qualified local professionals.",
+  "corporate_records": "The Office of Company Registrar (OCR), under the Ministry of Industry, Commerce and Supplies, registers companies under the Companies Act 2063 (2006), maintains corporate records and receives annual returns and amendments. Registration is now handled through an online portal, but we have not confirmed what company data, such as directors and shareholders, is publicly searchable; certified records are typically obtained through local counsel. Under Section 35A of the Money Laundering Prevention Act, legal persons must keep beneficial owner details and submit them to the registering or licensing body, which retains them for authorities; this is not a public register. Land records are held by land revenue offices.",
+  "anti_corruption": "Corruption offences fall mainly under the Prevention of Corruption Act 2059 (2002) and are investigated by the Commission for the Investigation of Abuse of Authority (CIAA), a constitutional body, with cases tried before the Special Court. Anti-money laundering obligations arise under the Asset (Money) Laundering Prevention Act 2064 (2008), with the Financial Information Unit at Nepal Rastra Bank acting as the financial intelligence unit and the Department of Money Laundering Investigation handling investigations.",
+  "matters": [
+    {
+      "title": "Hydropower and infrastructure partners",
+      "text": "Researching Nepali promoters, contractors and landholders in hydropower, transmission and road projects, covering company ownership, related parties, project licence history, land acquisition disputes, community grievances and media reporting, for developers and lenders preparing investment or financing decisions."
+    },
+    {
+      "title": "Recruitment agency due diligence",
+      "text": "Assessing foreign employment agencies and their owners for employers in the Gulf, Malaysia and elsewhere who must demonstrate ethical recruitment, including licence status, complaints and prosecutions, fee practices reported by workers, and links to sub-agents in Nepal's districts."
+    },
+    {
+      "title": "Cooperative and investment fraud",
+      "text": "Supporting counsel acting for depositors, creditors or institutions affected by failed savings and credit cooperatives or investment schemes, by reconstructing the roles of promoters and officers, related companies, land and vehicle holdings and public statements, using court files and lawful sources."
+    },
+    {
+      "title": "Tourism and aviation counterparties",
+      "text": "Background research on hotel developers, trekking and expedition operators and aviation businesses for investors, insurers and partners, covering ownership, regulatory and safety history, litigation, prior insolvencies and reputation within the tourism community in Kathmandu and Pokhara."
+    },
+    {
+      "title": "Cross-border trade with India",
+      "text": "Verifying traders, importers and distributors operating across the open border with India and on trade routes to China, for suppliers and banks concerned about ownership, trading history, payment disputes and indications of goods diversion or undeclared related-party dealings."
+    }
+  ],
+  "practical": [
+    {"label": "Business languages", "value": "Nepali; English widely used in business, banking and law firms"},
+    {"label": "Time zone", "value": "Asia/Kathmandu, UTC+5:45 (no daylight saving)"},
+    {"label": "Working week", "value": "Saturday is the weekly holiday; many offices work Sunday to Friday"},
+    {"label": "Calendar", "value": "Bikram Sambat dates appear in official records; convert carefully"},
+    {"label": "Currency", "value": "Nepalese rupee (NPR)"},
+    {"label": "Main business centres", "value": "Kathmandu Valley, Pokhara, Biratnagar, Birgunj"},
+    {"label": "Courts language", "value": "Nepali; foreign documents need translation and authentication"},
+    {"label": "Key registry", "value": "Office of Company Registrar, Ministry of Industry, Commerce and Supplies"}
+  ],
+  "tdsc_approach": "Engagements touching Nepal are scoped from Nepal-specific questions: which records can lawfully be obtained, in what language and calendar, and how findings will be used. Certified OCR extracts, court decisions and land-related records are obtained through qualified local professionals and Nepali counsel, then tested against media archives, regulatory notices and open sources in Nepali and English. Because the Individual Privacy Act treats intrusion as a criminal offence and beneficial ownership data is held for authorities, we do not seek restricted records, use pretexting or conduct covert recording. Personal data is minimised and handled on documented grounds. Every matter is screened for sanctions exposure, and field activity outside the Kathmandu Valley is planned around terrain, season and local conditions.",
+  "faqs": [
+    {
+      "q": "Is beneficial ownership information public in Nepal?",
+      "a": "No. Section 35A of the Money Laundering Prevention Act requires companies and other legal persons to keep beneficial owner details and submit them to the registering or licensing body, but the information is available to government and designated institutions on demand, not to the public. We build ownership pictures from company filings, court records, media and lawful interviews instead."
+    },
+    {
+      "q": "Does Nepal have a data protection authority?",
+      "a": "Not as of 2025. The Individual Privacy Act 2018 and its 2020 Regulation are enforced through the courts and the police, and breaches are criminal offences. Draft information technology and cyber security legislation has been under discussion. In the meantime, investigative work on individuals relies on public sources, consent or a clear legal basis."
+    },
+    {
+      "q": "Are private investigators licensed in Nepal?",
+      "a": "We have not identified a dedicated licensing law for private investigators in Nepal. Covert surveillance and intrusion into personal correspondence or information carry criminal risk under the Privacy Act and Penal Code. TDSC works with Nepali counsel and qualified local professionals, relying on certified records, court files, open sources and lawful interviews."
+    },
+    {
+      "q": "Why do Nepali documents show unfamiliar dates?",
+      "a": "Official Nepali records commonly use the Bikram Sambat calendar, which runs about 56 to 57 years ahead of the Gregorian calendar and has months that do not align with Western ones. Laws are often cited this way too, such as the Companies Act 2063. We convert dates carefully when preparing chronologies and summaries for counsel."
+    },
+    {
+      "q": "Can you vet a Nepali recruitment agency?",
+      "a": "Yes, within lawful limits. We check the agency's registration and licence status, owners and directors, related companies, complaints and court cases, and reporting by media and worker rights organisations. Interviews with former workers or local contacts are conducted by qualified local professionals where appropriate, with personal data handled carefully."
+    }
+  ],
+  "sources": [
+    {"title": "DLA Piper Data Protection Laws of the World: Nepal", "url": "https://www.dlapiperdataprotection.com/?c=NP&t=law"},
+    {"title": "Pioneer Law Associates: Individual Privacy Act, 2018 (2075)", "url": "https://pioneerlaw.com/individual-privacy-act-2018-2075"},
+    {"title": "Nepal Law Commission: The Privacy Act, 2075", "url": "https://lawcommission.gov.np/content/12261/the-privacy-act-2075/"},
+    {"title": "Nepal Laws: Money Laundering Prevention Act, Section 35A, details of beneficial owners", "url": "https://nepallaws.com/Laws/money-laundering-prevention-act-2063/chapter-8-miscellaneous/section-35a-details-of-beneficial-owners/"},
+    {"title": "Nepal Rastra Bank: Asset (Money) Laundering Prevention Act 2008 (English)", "url": "https://nrb.org.np/contents/uploads/2020/01/Asset-_Money_-Laundering-Act-2008-_Eng1._.pdf"},
+    {"title": "Niti Partners: Office of Company Registrar (OCR) Nepal", "url": "https://nitipartners.com/?p=7431"},
+    {"title": "Niti Partners: Companies Act, 2063 (2006)", "url": "https://nitipartners.com/companies-act-2063-2006/"},
+    {"title": "Niti Partners: Online company registration in Nepal 2026", "url": "https://nitipartners.com/online-company-registration-in-nepal-2026-updated/"}
+  ],
+  "review_flags": [
+    "Population not sourced: 29.2 million (2021 census) is from general knowledge; no CBS/NSO or World Bank result appeared within the search budget. Add a source URL.",
+    "Anti-corruption details (Prevention of Corruption Act 2059, CIAA, Special Court, FIU at Nepal Rastra Bank, Department of Money Laundering Investigation) are from general knowledge except the AML Act title (NRB PDF). Verify.",
+    "Court structure, Arbitration Act 2055 and NEPCA are from general knowledge, not verified.",
+    "Not confirmed what OCR company data (directors, shareholders) is publicly searchable online.",
+    "Working week: Saturday weekly holiday; government office days have changed in recent years. Confirm current practice.",
+    "Draft IT and Cyber Security Bill (2024) may introduce a data protection regime; check status before publishing. Nepal's political situation changed significantly in 2025-2026; review any institutional references."
+  ],
+  "researched": "2026-11-04"
+}

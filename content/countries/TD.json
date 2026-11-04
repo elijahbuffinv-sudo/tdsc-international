@@ -1,0 +1,142 @@
+{
+  "cc": "TD",
+  "name": "Chad",
+  "meta_description": "TDSC investigative consulting on Chad: OHADA corporate research, ANSICE data protection compliance and partner due diligence for oil, mining and aid projects.",
+  "eyebrow": "Republic of Chad",
+  "hero_lede": "Investigative consulting on matters touching Chad means working with paper-based OHADA registries held at the commercial court in N'Djamena, a data protection regime supervised by ANSICE, and a business environment shaped by oil, gold, cotton, livestock and international humanitarian operations.",
+  "intro": [
+    "Chad is a landlocked, French- and Arabic-speaking member of the Central African Economic and Monetary Community (CEMAC) and of OHADA, the regional business law organisation it joined in 1993. Company law, commercial law and arbitration therefore follow OHADA Uniform Acts, while the CFA franc and banking supervision are regional. In practice, investigative work is constrained by limited digitisation: the Trade and Personal Property Credit Register (RCCM) is computerised but not searchable online, there is no beneficial ownership register, and court capacity for commercial disputes is described in published guides as limited. Reliable fact-finding depends on careful document retrieval through local lawyers and corroboration across regional and international sources.",
+    "Organisations commission work involving Chad mainly to manage third-party and integrity risk. Oil producers and service companies in the southern basins and along the export pipeline to Cameroon need to understand local partners, contractors and politically exposed persons. Gold buyers and commodity traders assess supply-chain provenance in a sector with significant artisanal mining. Development lenders and humanitarian organisations, which operate at scale in eastern Chad because of displacement from Sudan, vet implementing partners, suppliers and logistics providers. Investors and creditors also commission asset and reputation research ahead of contracts, joint ventures and dispute strategy."
+  ],
+  "population": {
+    "value": "18.4 million (as reported; year not stated by source)",
+    "year": "unverified",
+    "source_url": ""
+  },
+  "legal_system": "Chad has a mixed legal system of civil law, in the French tradition, and customary law. Business law is largely supplied by OHADA Uniform Acts on commercial companies, general commercial law and arbitration, with the Common Court of Justice and Arbitration (CCJA) in Abidjan as the supranational court for OHADA matters. Domestic courts include courts of first instance, courts of appeal and the Supreme Court, and commercial matters in the capital go to the Commercial Court of N'Djamena. Foreign judgments and awards require exequatur, and Chad is a party to the ICSID Convention.",
+  "data_protection": {
+    "law": "Act No. 007/PR/2015 on the Protection of Personal Data (2015), implemented by Decree No. 075/PR/2019",
+    "regulator": "Agence Nationale de Sécurité Informatique et de Certification Électronique (ANSICE)",
+    "summary": "Chad has a comprehensive data protection statute. Processing must generally be declared to ANSICE, and prior authorisation is required for categories relevant to investigations, including data on offences and convictions, national identification numbers and biometric data. Transfers outside the CEMAC and ECCAS regions are permitted only where the destination offers sufficient protection or an exception applies, and ANSICE must be informed before data leaves the country. Criminal penalties under the 2017 Criminal Code can apply to unlawful processing. Investigative work involving Chadian personal data therefore requires a documented purpose, minimisation and attention to transfer formalities."
+  },
+  "investigator_regulation": "We have not identified a published statute or licensing authority specifically governing private investigators or detective agencies in Chad, and we have not confirmed whether security-sector rules extend to investigative activity. Engagements are therefore scoped with Chadian counsel before any local enquiry is commissioned. Covert surveillance, recording and approaches to officials carry legal and personal security implications, and the data protection law restricts the handling of criminal records and identification data. Where field enquiries are justified, they are conducted by appropriately qualified local professionals, in person and on a documented legal basis, rather than by remote collection.",
+  "corporate_records": "Companies are registered in the Registre du Commerce et du Crédit Mobilier (RCCM), held under the Ministry of Justice with the Commercial Court of N'Djamena as the principal registry. OHADA software was deployed in 2020 for local registers and the national file, with data transmitted to the regional file at the CCJA in Abidjan, but published guides report no public online search, so extracts are obtained in person through a lawyer or agent. RCCM filings typically identify legal form, registered office, managers and capital. Published sources report no beneficial ownership register, and court and land records are not systematically available online.",
+  "anti_corruption": "Corruption offences are addressed in Chad's Criminal Code (Act No. 001/PR/2017). Anti-money laundering obligations follow the CEMAC regional framework, with Chad evaluated through GABAC, the Central African FATF-style regional body. Chad is a signatory to the African Union Convention on Preventing and Combating Corruption. Published guides indicate that domestic enforcement capacity is limited, so foreign statutes such as the US Foreign Corrupt Practices Act and the UK Bribery Act are often the operative standards for international companies.",
+  "matters": [
+    {
+      "title": "Oil sector partner vetting",
+      "text": "Screening of local contractors, logistics firms, landowners' intermediaries and agents connected to upstream production and the export pipeline, including links to public officials and state entities, before contract award or renewal."
+    },
+    {
+      "title": "Gold and commodity provenance",
+      "text": "Background research on gold buyers, exporters and traders to support supply-chain due diligence where artisanal production, cross-border trade with neighbouring states and informal intermediaries create provenance and integrity concerns."
+    },
+    {
+      "title": "Humanitarian partner due diligence",
+      "text": "Vetting of implementing partners, suppliers, transporters and landlords serving operations in eastern Chad, including conflict-of-interest checks and corroboration of claimed capacity, ownership and prior performance."
+    },
+    {
+      "title": "OHADA counterparty verification",
+      "text": "Retrieval and analysis of RCCM extracts, corroboration of managers and shareholders against regional and international records, and identification of related companies registered elsewhere in CEMAC or abroad."
+    },
+    {
+      "title": "Dispute and recovery support",
+      "text": "Asset and reputation research supporting counsel in contract disputes, arbitration under OHADA or ICSID rules, and enforcement planning where exequatur in Chadian courts or recovery in other jurisdictions is contemplated."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official languages",
+      "value": "French and Arabic"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Ndjamena, UTC+01:00, no daylight saving"
+    },
+    {
+      "label": "Currency",
+      "value": "Central African CFA franc (XAF)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "N'Djamena, Moundou, Abéché"
+    },
+    {
+      "label": "Legal framework",
+      "value": "OHADA member since 1993; CEMAC member"
+    },
+    {
+      "label": "Company records",
+      "value": "RCCM extracts obtained in person via counsel"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Foreign judgments and awards require exequatur"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-based; formal written follow-up expected"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes matters touching Chad from Nashville, beginning with a jurisdictional review of the objective, the personal data involved and the security conditions in the regions concerned. Desk research draws on lawful sources: OHADA regional resources, international corporate and court records, sanctions and enforcement lists, trade and shipping data, and French- and Arabic-language media. Where RCCM extracts or other local documents are needed, TDSC coordinates qualified Chadian counsel or appropriately licensed local professionals and records how each document was obtained. Personal data is minimised, and ANSICE declaration and transfer formalities are reviewed with counsel where relevant. TDSC does not hold a licence in Chad, does not access government systems and does not provide legal advice.",
+  "faqs": [
+    {
+      "q": "Can a Chadian company's registration be checked online?",
+      "a": "Published guides report no public online search of the RCCM. Extracts are generally obtained in person from the registry at the Commercial Court of N'Djamena, usually through a lawyer or authorised agent. Turnaround depends on the completeness of the company name and number provided. TDSC coordinates retrieval through local counsel and corroborates the result against other sources."
+    },
+    {
+      "q": "Is there a beneficial ownership register in Chad?",
+      "a": "We have not identified a beneficial ownership register in Chad as of 2026. Ownership research therefore relies on RCCM filings, constitutional documents obtained lawfully, records of parent companies registered abroad, procurement and concession announcements, and published reporting. Where control is held through nominees or family members, conclusions are presented with stated confidence levels rather than as established fact."
+    },
+    {
+      "q": "Does Chad's data protection law affect background research?",
+      "a": "Yes. Act No. 007/PR/2015 requires declaration of processing to ANSICE and prior authorisation for certain categories, including data on offences and convictions and national identification numbers. Transfers outside the CEMAC and ECCAS regions are restricted. Background research is therefore scoped to a defined purpose, limited to necessary data and reviewed with counsel where Chadian processing is involved."
+    },
+    {
+      "q": "Can investigative work be carried out in eastern Chad?",
+      "a": "Security and access conditions in eastern Chad, where large humanitarian operations respond to displacement from Sudan, vary and can change quickly. Any field enquiry is assessed for personal safety and legal risk before it is commissioned, and is conducted only by appropriately qualified local professionals. Much partner vetting can be completed through documentary and remote corroboration."
+    },
+    {
+      "q": "Which courts handle commercial disputes involving Chadian parties?",
+      "a": "Commercial disputes in the capital are heard by the Commercial Court of N'Djamena, with appeals through the domestic court system. Disputes under OHADA Uniform Acts can reach the CCJA in Abidjan. Many international contracts provide for arbitration instead. TDSC supports counsel with factual research but does not advise on forum or procedure."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Chad",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=TD"
+    },
+    {
+      "title": "OHADA: Deployment of the computerized RCCM in Chad (2020)",
+      "url": "https://ohada.com/actualite/5369/ohada-tchad-deploiement-du-rccm-informatise-au-tchad.html?langue=en"
+    },
+    {
+      "title": "OHADA: N'Djamena (Republic of Chad), 28 February 2020",
+      "url": "https://www.ohada.org/en/?p=22071"
+    },
+    {
+      "title": "Addleshaw Goddard: Doing business in Africa, Chad",
+      "url": "https://addleshawgoddard.com/en/doing-business-in-africa/africa-countries-a-z-list/chad"
+    },
+    {
+      "title": "Business Data Guide: Chad company search guide",
+      "url": "https://businessdataguide.com/blog/jurisdictions/chad-company-search-guide"
+    },
+    {
+      "title": "VdA: Application of the personal data protection law in Chad",
+      "url": "https://www.vda.pt/en/media/news-and-media/application-of-the-personal-data-protection-law-in-chad/21818/"
+    },
+    {
+      "title": "Clym: Law No. 007/PR/2015 Chad",
+      "url": "https://www.clym.io/regulations/law-no-007pr2015-chad"
+    }
+  ],
+  "review_flags": [
+    "Population figure (18.4 million) comes from an undated Addleshaw Goddard page that also lists Idriss Deby as president (outdated); replace with a current World Bank figure, likely around 20 million.",
+    "No Chadian anti-corruption statute or enforcement body was verified; the Criminal Code reference relies on DLA Piper naming Act No. 001/PR/2017, and the CEMAC/GABAC AML framework is described only generally. National FIU (ANIF) not verified.",
+    "No private investigator licensing regime identified; confirm with Chadian counsel.",
+    "Absence of an online RCCM search and of a beneficial ownership register rests on a secondary guide (businessdataguide.com), not an official source.",
+    "Addleshaw Goddard states Chad has not signed UNCAC; this may be outdated and was deliberately omitted from the copy."
+  ],
+  "researched": "2026-11-04"
+}

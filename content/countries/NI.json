@@ -1,0 +1,140 @@
+{
+  "cc": "NI",
+  "name": "Nicaragua",
+  "meta_description": "TDSC investigative consulting on Nicaragua: sanctions-aware due diligence, ownership tracing and risk advisory for trade and investment, from Nashville.",
+  "eyebrow": "Republic of Nicaragua",
+  "hero_lede": "Investigative consulting on Nicaragua centres on counterparty and ownership risk in agriculture, mining, textiles, remittances and trade, set against a concentrated political environment and US targeted sanctions. TDSC scopes each matter from Nashville, screening for sanctions exposure and relying on lawful sources and Nicaraguan counsel.",
+  "intro": [
+    "Nicaragua is a civil law jurisdiction in which commercial activity centres on Managua and runs through agriculture, gold mining, free-zone manufacturing, remittances and trade with the United States and Central America. Since 2018 the political environment has narrowed considerably, and state institutions, the courts and the financial intelligence apparatus operate under strong executive influence. Personal data law exists on paper but is not enforced because its supervisory body was never set up. Company and beneficial ownership registers exist, and anti-money laundering rules were tightened in 2024 and again in 2026. For investigators, this means careful source assessment, attention to political exposure, and close attention to the safety of anyone approached locally.",
+    "Organisations commission work involving Nicaragua mainly to understand risk before or during a commercial relationship. Importers of coffee, beef, seafood, gold and apparel need to know who owns their suppliers and whether any are connected to sanctioned persons or state-linked groups. Banks and money transfer businesses review remittance counterparties under expanding Nicaraguan AML obligations and their own home-country rules. Investors and lenders assess exposure to property confiscation, licence revocation and politically connected competitors. Law firms seek factual support in disputes, asset questions and claims arising from expropriation or loss of control of a business, often from outside the country."
+  ],
+  "population": {
+    "value": "approximately 6.9 million",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Nicaragua has a civil law system based on the Constitution, the Civil Code, the Code of Commerce and the Penal Code, with civil procedure governed by a modern procedural code. Commercial disputes are heard in the ordinary courts, culminating in the Supreme Court of Justice, which also administers the public registries. Mediation and arbitration are available under national legislation and through chamber-affiliated centres, and international arbitration is often seated abroad. Independent observers have raised serious concerns about judicial independence since 2018, which affects how foreign parties assess litigation and enforcement inside the country.",
+  "data_protection": {
+    "law": "Law No. 787, Personal Data Protection Law (2012), and its Regulations (Decree No. 36-2012)",
+    "regulator": "Directorate for the Protection of Personal Data under the Ministry of Finance and Public Credit (provided for by law but not operational as of 2025)",
+    "summary": "Law 787 requires free, express, informed and generally written consent for processing personal data, subject to exceptions such as court orders and public interest, and gives data subjects access, rectification, cancellation and opposition rights. Sensitive data includes political opinions, religion, union membership, health, sexual life, criminal records and financial information. International transfers require an adequate level of protection or specific written consent. Because the supervisory directorate and its registry have never been set up, there is no active enforcement, but the law still applies and criminal liability for unauthorised disclosure is possible. We treat its consent and sensitive-data rules as binding when planning work."
+  },
+  "investigator_regulation": "We have not identified, as of 2026, a specific licensing regime for private investigators in Nicaragua, and we have not verified a regulator for the activity; this should be confirmed with Nicaraguan counsel. Private security services are regulated separately. Investigators remain bound by Law 787, criminal provisions protecting privacy and communications, and banking and tax secrecy. In the current environment, enquiries that touch political figures, the security services or confiscated property may expose local sources to serious personal risk. TDSC does not conduct surveillance, covert recording or attempts to obtain registry, banking or telecom data that is not lawfully available.",
+  "corporate_records": "Companies are recorded in the Public Commercial Registry (Registro Público Mercantil) within the national public registry system administered under the Supreme Court of Justice, and incorporation documents and powers of attorney are registered there. Since 2020 a Public Register of Beneficial Owners of Commercial Companies has operated as an electronic database with annual updates, with access granted to competent authorities; we have not confirmed public access. Law 1282, approved in 2026, made beneficial ownership duties stricter and requires powers used by shareholder representatives to be registered in advance. Property records are held in the same registry system.",
+  "anti_corruption": "Law 977 on preventing money laundering, terrorist financing and proliferation financing, and Law 976 on the Financial Analysis Unit (UAF), form the AML framework. Amendments in 2024 extended controls over remittances and electronic transfers and gave the UAF powers to profile senders and freeze funds, and Law 1282 (2026) further amended Law 977, Law 976 and the Penal Code. Corruption offences sit in the Penal Code. Foreign firms should also apply the US FCPA and comparable home-country laws.",
+  "matters": [
+    {
+      "title": "Sanctions and politically exposed persons",
+      "text": "Screening suppliers, buyers and partners for links to persons designated under US, EU, UK or Canadian Nicaragua-related sanctions and to politically exposed families, using corporate filings, trade data, media and sanctions lists, and documenting the reasoning behind each conclusion."
+    },
+    {
+      "title": "Supply chain and export counterparties",
+      "text": "Ownership and reputation research on exporters of gold, coffee, beef, seafood and free-zone apparel, examining control, state connections, labour or environmental controversies and any history of confiscation or changed ownership that may affect a buyer's compliance obligations."
+    },
+    {
+      "title": "Remittance and financial counterparties",
+      "text": "Due diligence on money transfer agents, payment partners and correspondent relationships, reflecting Nicaragua's 2024 and 2026 AML amendments and the UAF's expanded powers, alongside the client's home-country AML and sanctions expectations. Findings are recorded so compliance teams can evidence their decisions."
+    },
+    {
+      "title": "Expropriation and loss of control claims",
+      "text": "Factual research supporting counsel acting for owners whose businesses, land or licences have been seized or reassigned, documenting chronology, beneficiaries of the transfer and current control, largely from outside the country and from published sources."
+    },
+    {
+      "title": "Investment and lending risk advisory",
+      "text": "Country and counterparty risk assessments for investors and lenders weighing projects in mining, energy, agriculture or real estate, covering political exposure, regulatory behaviour, registry reliability and the practical prospects for enforcing rights in Nicaraguan courts."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Spanish; English and Creole on the Caribbean coast"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Managua, UTC-6 (no daylight saving)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; some businesses open Saturday morning"
+    },
+    {
+      "label": "Currency",
+      "value": "Nicaraguan córdoba (NIO); US dollar widely used"
+    },
+    {
+      "label": "Courts language",
+      "value": "Spanish; certified translation of foreign documents required"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Notarial instruments central to corporate acts; registration in the public registry required"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Managua, León, Chinandega, Granada"
+    }
+  ],
+  "tdsc_approach": "TDSC handles matters touching Nicaragua from Nashville. As a US company, we screen every matter for sanctions compliance before accepting it, and we do not accept engagements that would breach US or other applicable sanctions; much of our Nicaragua work is lawful due diligence and risk advisory for clients outside the country. We review Law 787, AML rules under Laws 976 and 977, and the client's obligations, then define questions that can be answered lawfully. Research relies on registry records where obtainable, court and gazette material, trade data, Spanish-language media and exile and diaspora reporting, assessed for bias. Where local enquiries are justified, we coordinate qualified professionals through Nicaraguan counsel and weigh the safety of every person approached.",
+  "faqs": [
+    {
+      "q": "Can you work on Nicaraguan matters given US sanctions?",
+      "a": "Nicaragua is subject to targeted US sanctions on designated individuals and entities rather than a comprehensive embargo. We screen each matter and its parties before accepting it and decline any work that would breach sanctions. Due diligence that helps a client avoid dealing with designated persons is a common and lawful reason to commission research."
+    },
+    {
+      "q": "Is Nicaragua's beneficial ownership register publicly searchable?",
+      "a": "A beneficial ownership register for commercial companies has operated since 2020, with access granted to competent authorities, and Law 1282 tightened the obligations in 2026. We have not confirmed open public access. We therefore build ownership pictures from registry documents, notarial records where available, trade data and media, and state our confidence level."
+    },
+    {
+      "q": "Does Law 787 limit background research on individuals?",
+      "a": "Yes, in principle. Law 787 requires consent for most processing and treats political opinions, financial information and criminal records as sensitive. Its supervisory directorate has not been established, so enforcement is limited, but we still design research around public sources and the client's legitimate purpose, and avoid collecting sensitive information that is not necessary."
+    },
+    {
+      "q": "Can you document a business seized or transferred by the state?",
+      "a": "We can help counsel reconstruct the chronology, identify who now controls the business or property, and gather published decisions, registry entries and media reporting. Much of this work is done from outside Nicaragua. Any claim strategy, whether in local courts or international forums, is a matter for the client's lawyers."
+    },
+    {
+      "q": "How do you protect local sources in Nicaragua?",
+      "a": "Inquiries touching officials, security forces or politically connected businesses can create real danger for people inside the country. We limit direct approaches, rely on documents and published material wherever possible, use secure communications, and do not ask local professionals to take steps that could expose them to retaliation."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Nicaragua",
+      "url": "https://www.dlapiperdataprotection.com/?c=NI&t=law"
+    },
+    {
+      "title": "Lex Mundi Global Data Privacy Guide: Nicaragua (2025)",
+      "url": "https://www.lexmundi.com/guides/data-privacy-guide/jurisdictions/latin-america/nicaragua/"
+    },
+    {
+      "title": "LexLatin: Ley 1282 en Nicaragua, nuevo estándar de transparencia societaria (2026)",
+      "url": "https://lexlatin.com/opinion/ley-1292-nicaragua-nuevo-estandar-transparencia-societaria"
+    },
+    {
+      "title": "ECIJA: Comisión Especial de Registros dicta normativa del Registro de Beneficiario Final (2020)",
+      "url": "https://www.ecija.com/actualidad-insights/nicaragua-comision-especial-de-registros-dicta-normativa-especifica-del-registro-de-beneficiario-final-de-las-sociedades-mercantiles/"
+    },
+    {
+      "title": "Centroamérica360: reformas a la Ley 977 y Ley 976 sobre remesas (2024)",
+      "url": "https://www.centroamerica360.com/politica/la-dictadura-de-ortega-busca-control-y-decomiso-de-remesas-enviadas-a-nicaragua"
+    },
+    {
+      "title": "Reglamento de la Ley No. 787 (Justia Nicaragua)",
+      "url": "https://nicaragua.justia.com/nacionales/decretos-ejecutivos/reglamento-de-la-ley-no-787-ley-de-proteccion-de-datos-personales-oct-19-2012/gdoc"
+    },
+    {
+      "title": "UAF Nicaragua: Beneficiario Final (2021)",
+      "url": "https://www.uaf.gob.ni/images/Pdf/Documentos_ALA-CFT/Tema-4--Beneficiario-Final.-Enero-2021.pdf"
+    }
+  ],
+  "review_flags": [
+    "Sanctions: page treats Nicaragua as targeted (not comprehensive) US sanctions with screening language in tdsc_approach - confirm against the central sanctions data before publication.",
+    "Population figure (about 6.9 million, 2024) not verified from a World Bank or INIDE source within the search budget; source_url left empty - needs a citation.",
+    "No source found on private investigator licensing; text says no regime identified - confirm with counsel.",
+    "Legal system details (procedural code, Supreme Court administering registries, arbitration framework) and judicial independence concerns stated from general knowledge, not fetched sources - verify.",
+    "Law 1282 (2026) number and content taken from a LexLatin opinion piece (URL slug says 1292); confirm against La Gaceta.",
+    "Public access to the beneficial ownership register not confirmed; Penal Code corruption offences and specific anti-corruption bodies not verified.",
+    "Justia and UAF sources were seen in search results but not opened."
+  ],
+  "researched": "2026-11-04"
+}

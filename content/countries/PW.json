@@ -1,0 +1,142 @@
+{
+  "cc": "PW",
+  "name": "Palau",
+  "meta_description": "TDSC investigative consulting on Palau: due diligence on investors, tourism and infrastructure counterparties, corporate records and money laundering law.",
+  "eyebrow": "Republic of Palau",
+  "hero_lede": "Investigative consulting on matters touching Palau usually concerns a small set of high-value relationships: foreign investors in tourism and real estate, contractors on publicly funded infrastructure, and entities whose ownership must be established in a jurisdiction with limited public registries and no comprehensive data protection statute identified.",
+  "intro": [
+    "Palau is a small Pacific island republic in free association with the United States, uses the US dollar, and has a legal system shaped by American law and procedure alongside Palauan custom. Its statutes are consolidated in the Palau National Code, which includes chapters on corporations, foreign investment, bribery, misconduct in public office, a Special Prosecutor and money laundering. Public registries are limited: shareholder registers are not routinely made public and beneficial ownership information is held by financial regulators rather than published. With a population in the tens of thousands, relationships between business, traditional leadership and government are close, so careful sourcing and discretion are essential to any enquiry.",
+    "Organisations commission investigative work involving Palau when they are investing in or lending to tourism, hospitality, fisheries or real estate ventures, awarding contracts on infrastructure funded by government or development partners, or vetting partners for joint ventures that require foreign investment approval. Typical requests include confirming who controls a Palauan company, reviewing the litigation and public record history of sponsors and contractors, and examining allegations of fund diversion or procurement irregularity. Recent public prosecutions of former state governors for misconduct in public office and misuse of government property show that public sector integrity concerns arise in practice and should be considered in risk assessments."
+  ],
+  "population": {
+    "value": "approximately 18,000",
+    "year": "2020 (census, approximate)",
+    "source_url": ""
+  },
+  "legal_system": "Palau has a common law system heavily influenced by United States law, with its Constitution and the Palau National Code as primary sources and a recognised role for Palauan custom and tradition. The judiciary includes a Supreme Court with trial and appellate divisions, a Court of Common Pleas and a Land Court, which handles land title matters including customary ownership claims. The Code contains rules on long-arm jurisdiction and service of process. There is no specialised commercial court; commercial disputes are heard in the Supreme Court's trial division, and cross-border contracts commonly provide for arbitration seated elsewhere.",
+  "data_protection": {
+    "law": "No comprehensive data protection statute identified; sectoral and criminal provisions apply, including cybercrime offences in Title 17 of the Palau National Code",
+    "regulator": "No dedicated data protection authority identified",
+    "summary": "We have not confirmed a comprehensive data protection law or dedicated regulator in Palau; the official Palau National Code index reviewed does not contain a privacy chapter. Investigative work must still respect constitutional privacy protections, cybercrime offences covering illegal access, data interference and computer-related fraud, and confidentiality obligations in banking and other regulated sectors. Some secondary sources refer to a 2019 privacy act and a 2024 law criminalising non-consensual distribution of intimate images; these should be verified against official texts. Absent a transfer regime, TDSC applies its own minimisation and security standards and the rules of the client's home jurisdiction."
+  },
+  "investigator_regulation": "We have not identified a licensing regime for private investigators or detective agencies in Palau; the Palau National Code index reviewed contains no chapter on private detectives. General business licensing under the tax laws and foreign investment approval rules may apply to anyone carrying on business there. Surveillance and information gathering remain subject to criminal law, including cybercrime provisions, and to constitutional privacy protections. Police, immigration, tax and financial records are not available to private parties. TDSC confirms the position with Palauan counsel before any local enquiry is undertaken.",
+  "corporate_records": "Corporations are governed by the corporations chapter of the Palau National Code, with filings made to the Registrar of Corporations; foreign-owned businesses are also subject to the Foreign Investment Act. Available guidance indicates that registered office details appear on the public register but shareholder registers are not routinely made public and director details are limited. Beneficial ownership information is reported to the Financial Institutions Commission and is not publicly accessible. Land title is handled through land registration and the Land Court, with customary clan ownership a significant feature of land records.",
+  "anti_corruption": "The Palau National Code criminalises bribery and misconduct in public office and establishes an Office of the Special Prosecutor to pursue public corruption, alongside an Ethics Commission administering a public service code of ethics and an Office of the Public Auditor. The Money Laundering and Proceeds of Crime Act of 2001 (RPPL 6-4), amended by RPPL 7-39 in 2007, requires covered persons to report specified transactions to a Financial Intelligence Unit, with the Financial Institutions Commission licensing remittance providers.",
+  "matters": [
+    {
+      "title": "Tourism and hospitality investor diligence",
+      "text": "Background research on sponsors, operators and foreign investors behind hotel, resort and dive tourism ventures, including corporate history in Asia and elsewhere, litigation and adverse media, before financing, partnership or approval decisions."
+    },
+    {
+      "title": "Infrastructure contractor vetting",
+      "text": "Reviewing contractors and subcontractors bidding for publicly funded or donor-financed projects such as utilities, roads and ports, with attention to performance history, related-party links to officials and any record of procurement irregularities."
+    },
+    {
+      "title": "Ownership of Palauan entities",
+      "text": "Establishing who controls a Palauan company where shareholder and beneficial ownership information is not public, combining Registrar of Corporations filings, court records and open sources with counterparty disclosure supported by documents."
+    },
+    {
+      "title": "Land and lease interests",
+      "text": "Researching the history of leases and title claims connected to development sites, where Land Court determinations and customary clan ownership affect who can grant rights, as part of pre-transaction diligence led by local counsel."
+    },
+    {
+      "title": "Fund diversion and misconduct",
+      "text": "Supporting internal or lender investigations into alleged misuse of project funds, inflated invoicing or conflicts of interest, drawing on public court decisions, audit findings and lawful documentary sources."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "English and Palauan"
+    },
+    {
+      "label": "Time zone",
+      "value": "Pacific/Palau, UTC+9, no daylight saving"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "US dollar"
+    },
+    {
+      "label": "Main business centre",
+      "value": "Koror; the capital is Ngerulmud, Melekeok State"
+    },
+    {
+      "label": "Courts language",
+      "value": "English"
+    },
+    {
+      "label": "Business culture",
+      "value": "Small, close-knit community; traditional leadership and family ties matter"
+    },
+    {
+      "label": "Land",
+      "value": "Customary clan ownership is significant; foreign land ownership is restricted"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Palau engagements from Nashville with particular attention to discretion, because in a small community enquiries can quickly become known to the subject. We begin with what is lawfully available: Palau National Code provisions, Registrar of Corporations filings, published court decisions, Land Court material, audit reports and English-language media. Where shareholder or beneficial ownership information is not public, we say so and advise on disclosure routes rather than implying private access. Any local enquiries are coordinated through appropriately qualified professionals with the guidance of Palauan counsel. Although we have not identified a comprehensive data protection law, we minimise personal data, hold it securely in the United States and apply the requirements of the client's own jurisdiction.",
+  "faqs": [
+    {
+      "q": "Can we find out who owns a Palauan company?",
+      "a": "Partly. Registered office details and corporate filings can be obtained, but shareholder registers are not routinely public and beneficial ownership information is reported to the Financial Institutions Commission rather than published. We combine available filings, court records and open sources, and identify where ownership must instead be confirmed through counterparty disclosure or a legal process."
+    },
+    {
+      "q": "Does Palau have a data protection law?",
+      "a": "We have not confirmed a comprehensive data protection statute or a dedicated regulator in Palau, and some secondary claims to the contrary need verification. Constitutional privacy protections, cybercrime offences and sector confidentiality rules still apply. TDSC handles personal data from Palau-related matters under strict minimisation and security controls, consistent with the rules that apply to the client."
+    },
+    {
+      "q": "How are land interests checked in Palau?",
+      "a": "Land title is handled through land registration and the Land Court, and many parcels are subject to customary clan ownership, which affects who can lease or grant rights. We can research public Land Court determinations and related litigation, but title opinions should come from Palauan counsel, particularly given restrictions on foreign ownership of land."
+    },
+    {
+      "q": "Is public corruption a factor in Palau diligence?",
+      "a": "It can be. The National Code criminalises bribery and misconduct in public office, and Palau has a Special Prosecutor, an Ethics Commission and a Public Auditor. Former state governors have been convicted of misconduct in recent years. We review public court and audit material to identify relevant history, while distinguishing allegations from established findings."
+    },
+    {
+      "q": "Does TDSC have anyone based in Koror?",
+      "a": "No. TDSC operates from Nashville, Tennessee, and has no office, staff or telephone number in Palau. Engagements are run as scoped consulting assignments; where local enquiries or document retrieval are needed, we coordinate appropriately qualified local professionals and work with Palauan counsel."
+    }
+  ],
+  "sources": [
+    {
+      "title": "PacLII: Palau National Code index",
+      "url": "https://pacliirms.paclii.org/pw/indices/legis/palau-national-code-index.html"
+    },
+    {
+      "title": "PacLII: Money Laundering and Proceeds of Crime Act amendment, RPPL 7-39 (2007)",
+      "url": "https://paclii.org/pw/legis/num_act/mlapocao2001r7392007415"
+    },
+    {
+      "title": "ICNL: Palau Money Laundering and Proceeds of Crime Act",
+      "url": "https://www.icnl.org/research/library/palau_palaumoneylaundering/"
+    },
+    {
+      "title": "Wikipedia: Corruption in Palau",
+      "url": "https://en.wikipedia.org/wiki/Corruption_in_Palau"
+    },
+    {
+      "title": "Expanship: Incorporation requirements in Palau",
+      "url": "https://www.expanship.com/pw/blog/incorporation-requirements-in-palau"
+    },
+    {
+      "title": "LawGratis: Privacy law at Palau",
+      "url": "https://www.lawgratis.com/blog-detail/privacy-law-at-palau"
+    },
+    {
+      "title": "Transparency International: Palau National Integrity Systems study (2004)",
+      "url": "https://www.anti-corruption.org/wp-content/uploads/2016/11/Palau-National-Integrity-Systems-study-TI-2004.pdf"
+    }
+  ],
+  "review_flags": [
+    "Population (about 18,000, 2020 census) is from general knowledge; no official statistics page with a figure appeared in searches, so source_url is empty.",
+    "Data protection: LawGratis claims a 'Palau Privacy Act (2019)' with consent and 72-hour breach rules; not found in the PacLII code index and not verified. Page states no comprehensive law has been confirmed. Needs counsel check.",
+    "Corporate records detail (Registrar of Corporations, non-public shareholder registers, beneficial ownership reported to the Financial Institutions Commission) comes from a commercial guide with internal inconsistencies; verify against official sources.",
+    "Court structure (Supreme Court trial/appellate divisions, Court of Common Pleas, Land Court) and restrictions on foreign land ownership are from general knowledge, not a fetched source.",
+    "No private investigator licensing regime identified; several sources used are secondary (Wikipedia, commercial blogs) for lack of official pages in results."
+  ],
+  "researched": "2026-11-04"
+}

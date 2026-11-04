@@ -1,0 +1,142 @@
+{
+  "cc": "GA",
+  "name": "Gabon",
+  "meta_description": "TDSC investigative consulting on Gabon: due diligence on oil, mining and timber counterparties, OHADA company records and personal data rules (Law 025/2023).",
+  "eyebrow": "Gabonese Republic",
+  "hero_lede": "Investigative consulting on matters touching Gabon typically involves counterparties in oil, manganese, timber and public contracting: verifying companies through OHADA commercial registries, assessing politically exposed relationships, and handling personal data under a 2023 data protection law enforced by an increasingly active regulator.",
+  "intro": [
+    "Gabon is a French-speaking Central African state with a mixed legal system drawing on French civil law and customary law. It is a member of OHADA, so company formation and commercial law follow the OHADA Uniform Acts, and of the CEMAC monetary and economic community, whose regional regulations shape banking and anti-money laundering rules. Companies are recorded in the Registre du Commerce et du Crédit Mobilier (RCCM), held at court registries under Ministry of Justice supervision, though remote searching is uneven and older records may require in-person retrieval. Personal data is governed by Law 001/2011 as substantially amended by Law 025/2023, overseen by a dedicated authority. Investigations must work within these structures and a predominantly French-language documentary record.",
+    "Organisations commission investigative work involving Gabon because of its natural resource economy: petroleum extraction and refining, manganese and gold, timber and plywood, and associated logistics and services. Typical requests include due diligence on joint venture partners, subcontractors and local agents in concession-linked businesses, screening for politically exposed persons and undisclosed government relationships, and verification of claimed licences, permits and track records. Lenders, commodity traders and acquirers also seek background on sponsors and management. Gabon has a national strategy against corruption and money laundering and specialised bodies to pursue illicit enrichment, so allegations of public sector impropriety are a recurring element of risk assessments."
+  ],
+  "population": {
+    "value": "2.4 million",
+    "year": "not stated by source",
+    "source_url": "https://www.addleshawgoddard.com/en/doing-business-in-africa/africa-countries-a-z-list/gabon/"
+  },
+  "legal_system": "Gabon has a mixed legal system of French civil law and customary law. Commercial and company law is largely set by the OHADA Uniform Acts, including the Uniform Act on commercial companies and economic interest groups and the Uniform Act on Arbitration (revised 2017). Judicial power is exercised through lower courts, courts of appeal and supreme jurisdictions, and OHADA's Common Court of Justice and Arbitration in Abidjan sits above national courts on questions of uniform OHADA law. Foreign judgment enforcement with France is addressed in a bilateral mutual legal assistance agreement. Proceedings are conducted in French.",
+  "data_protection": {
+    "law": "Law No. 001/2011 of 25 September 2011 on the protection of personal data, as amended by Law No. 025/2023 of July 2023",
+    "regulator": "Autorité pour la Protection des Données à caractère Personnel et de la Vie Privée (APDPVP)",
+    "summary": "Controllers must have a lawful basis and, unless exempt, file a prior notification with the APDPVP. Prior authorisation is required for certain processing, including criminal conviction data, biometric identity checks, national identification numbers and database interconnection, and the authority's silence on a request is treated as refusal. Sensitive data covers opinions, health, sex life, prosecutions and sanctions. Transfers abroad are prohibited unless the destination offers adequate protection or a derogation such as explicit consent, legal defence or contract performance applies; as of DLA Piper's most recent summary, no adequacy list had been published. The APDPVP stated in 2023 that its mandate would emphasise inspections and investigations."
+  },
+  "investigator_regulation": "We have not identified from the sources reviewed a published licensing regime specific to private investigators or detective agencies in Gabon. TDSC therefore treats any on-the-ground enquiry as requiring prior confirmation of the legal position from Gabonese counsel. Collecting personal data, conducting surveillance or obtaining identification-number and criminal-record data are constrained by Law 025/2023, which subjects some of these categories to prior authorisation by the APDPVP. Access to police, judicial, tax and civil status records is not available to private parties, and TDSC does not seek it.",
+  "corporate_records": "Companies are registered in the Registre du Commerce et du Crédit Mobilier (RCCM) under OHADA rules, kept at court registries under Ministry of Justice supervision. The Libreville (Estuaire) registry was modernised and computerised from December 2018 and is networked with other OHADA registries. Extracts typically identify the company, its legal form, registered office and managers, but remote searching is not available for every entity type and older records may need to be retrieved in person. We have not identified a publicly accessible beneficial ownership register; available guidance indicates beneficial ownership declarations are made to the tax authorities and are not public.",
+  "anti_corruption": "Gabon has a Commission Nationale de Lutte contre l'Enrichissement Illicite (CNLCEI) and a financial intelligence unit, the Agence Nationale d'Investigation Financière (ANIF), which jointly initiated a national strategy against corruption and money laundering. Anti-money laundering obligations derive largely from CEMAC regional regulation and COBAC banking rules. Gabon has ratified the UN Convention against Corruption and the African Union anti-corruption convention but is not a party to the OECD Anti-Bribery Convention. Current enforcement priorities should be confirmed locally.",
+  "matters": [
+    {
+      "title": "Oil and gas counterparty diligence",
+      "text": "Reviewing operators, service contractors and local partners in Gabon's petroleum sector, including ownership, management backgrounds, contract and litigation history, and links to officials, ahead of farm-ins, service awards or financing secured on concession revenues."
+    },
+    {
+      "title": "Mining and manganese supply chains",
+      "text": "Verifying the corporate identity, permits and reputation of companies in manganese, gold and related logistics, and assessing allegations involving licensing, community relations or payments to public officials that could affect offtake or investment decisions."
+    },
+    {
+      "title": "Timber and forestry sourcing",
+      "text": "Checking concession holders, sawmills and exporters supplying timber and plywood, combining RCCM records, regulatory publications and open sources to support legality and supply chain obligations faced by importers in Europe, the United States and Asia."
+    },
+    {
+      "title": "Politically exposed relationships",
+      "text": "Identifying undisclosed links between companies, their owners and public officials, a recurring concern in procurement and concession-linked businesses. Findings are drawn from lawful public sources and carefully qualified where documentation is incomplete or available only in hard copy."
+    },
+    {
+      "title": "Agent and intermediary screening",
+      "text": "Background research on local agents, consultants and distributors before appointment, covering corporate records, adverse media in French-language outlets, litigation and reputational indicators relevant to anti-bribery compliance programmes."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "French"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Libreville, UTC+1"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Central African CFA franc (XAF)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Libreville and Port-Gentil"
+    },
+    {
+      "label": "Courts language",
+      "value": "French"
+    },
+    {
+      "label": "Company registry",
+      "value": "RCCM, kept at court registries under OHADA rules"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Certified French translations generally expected for foreign documents"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Gabon engagements from Nashville, beginning with a jurisdictional review of what can lawfully be obtained: RCCM extracts, OHADA publications, court and regulatory material and French-language open sources. Because some registry records are only available in person, we set realistic timelines and, where retrieval or local enquiries are required, coordinate appropriately qualified Gabonese professionals working under the guidance of local counsel. We account for Law 025/2023 from the outset, including the APDPVP's authorisation requirements for identification-number and criminal data and the restrictions on transferring personal data abroad. Findings on politically exposed relationships are sourced and graded for reliability, and we do not represent that non-public beneficial ownership or government records can be obtained privately.",
+  "faqs": [
+    {
+      "q": "How do we verify a Gabonese company?",
+      "a": "The starting point is an RCCM extract from the relevant court registry, which confirms legal form, registered office and managers under OHADA rules. Libreville's registry has been computerised since 2018, but other registries and older files may require in-person retrieval. We cross-check registry data against OHADA publications, regulatory sources and French-language media to confirm the company is genuine and active."
+    },
+    {
+      "q": "Is there a public beneficial ownership register in Gabon?",
+      "a": "We have not identified one. Available guidance indicates that beneficial ownership declarations are made to the tax authorities and are not published. Ultimate ownership is therefore usually established through a combination of registry records, counterparty disclosure supported by documents, and open-source research, with any gaps clearly identified in our reporting."
+    },
+    {
+      "q": "Does Gabon's data protection law affect background checks?",
+      "a": "Yes. Law 025/2023 requires a lawful basis and, in most cases, prior notification to the APDPVP. Processing criminal conviction data or national identification numbers needs prior authorisation, and transfers of personal data outside Gabon are restricted. We design Gabon-related background work to rely on lawful public sources and minimise the personal data collected and exported."
+    },
+    {
+      "q": "Can you assess links to public officials?",
+      "a": "We can research publicly documented relationships between companies, owners and officials using corporate records, official gazettes, media and litigation sources. We do not access restricted government databases. Gabon's illicit enrichment commission and financial intelligence unit operate in this area, and we flag where public reporting suggests related scrutiny, while distinguishing allegation from established fact."
+    },
+    {
+      "q": "Does TDSC have staff in Libreville or Port-Gentil?",
+      "a": "No. TDSC works from Nashville, Tennessee, and has no office, staff or telephone line in Gabon. Where a matter needs local document retrieval or enquiries, we coordinate appropriately qualified Gabonese professionals and work with local counsel, under a defined scope agreed with the client in advance."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Gabon",
+      "url": "https://www.dlapiperdataprotection.com/?c=GA&t=law"
+    },
+    {
+      "title": "Law 025/2023 amending Law 001/2011 on personal data protection (AFAPDP)",
+      "url": "https://www.afapdp.org/wp-content/uploads/2023/12/Gabon-Loi-025-2023-du-12-juillet-2023-portant-modification-de-la-loi-001-2011-du-25-septembre-relative-a-la-protection-des-donnees-a-caractere-personnel.pdf"
+    },
+    {
+      "title": "Gabonreview: Protection de la vie privée, vers la mise en place des missions de contrôles et d'investigation",
+      "url": "https://www.gabonreview.com/protection-de-la-vie-privee-vers-la-mise-en-place-des-missions-de-controles-et-dinvestigation/"
+    },
+    {
+      "title": "Addleshaw Goddard: Doing business in Africa, Gabon",
+      "url": "https://www.addleshawgoddard.com/en/doing-business-in-africa/africa-countries-a-z-list/gabon/"
+    },
+    {
+      "title": "OHADA.com: Gabon, lancement de la modernisation du RCCM",
+      "url": "https://www.ohada.com/actualite/4577/gabon-lancement-de-la-modernisation-du-rccm.html"
+    },
+    {
+      "title": "UNDP: Stratégie Nationale de Lutte Contre la Corruption et le Blanchiment des Capitaux",
+      "url": "https://www.undp.org/fr/node/224086"
+    },
+    {
+      "title": "Vove ID: KYB Compliance in Gabon, 2026 Guide",
+      "url": "https://blog.voveid.com/kyb-compliance-in-gabon-2026-guide-for-regulated-businesses/"
+    }
+  ],
+  "review_flags": [
+    "Population 2.4 million is from an Addleshaw Goddard country guide with no stated year; no World Bank or national statistics source appeared in searches. Replace with a dated official figure.",
+    "Law 025/2023 date appears as 9 July 2023 (DLA Piper, WHO listing) and 12 July 2023 (AFAPDP file title); page uses 'July 2023'.",
+    "No private investigator licensing regime identified; confirm with Gabonese counsel.",
+    "No public beneficial ownership register identified; statement that declarations go to tax authorities comes from a commercial KYB guide, not an official source.",
+    "Gabon's political transition since 2023 may affect anti-corruption institutions (CNLCEI, ANIF); specific anti-corruption statute names and years were not verified, so none are cited. CCJA (Abidjan) reference is from general knowledge of OHADA."
+  ],
+  "researched": "2026-11-04"
+}

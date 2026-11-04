@@ -1,0 +1,146 @@
+{
+  "cc": "BA",
+  "name": "Bosnia and Herzegovina",
+  "meta_description": "TDSC investigative consulting on Bosnia and Herzegovina: due diligence across FBiH, Republika Srpska and Brčko records under the 2025 data protection law.",
+  "eyebrow": "Bosnia and Herzegovina, Western Balkans",
+  "hero_lede": "Investigative consulting for matters touching Bosnia and Herzegovina means working across a state, two entities and Brčko District, each with its own courts and registers, under a GDPR-aligned data protection law in force since 2025, and through qualified local professionals and Bosnian counsel.",
+  "intro": [
+    "Bosnia and Herzegovina's constitutional structure shapes almost every investigative question. Alongside the state institutions, the Federation of Bosnia and Herzegovina (FBiH), Republika Srpska (RS) and Brčko District each legislate on company registration, policing, private security and criminal law, and the Federation is further divided into ten cantons. Company and court records are therefore held in different systems depending on where an entity is registered, and the same individual may appear differently in Latin and Cyrillic script. A new state-level Law on the Protection of Personal Data, closely modelled on the GDPR, entered into force on 8 March 2025 and became fully applicable in October 2025 after a transition period.",
+    "Organisations commission investigative work involving Bosnia and Herzegovina because of foreign investment in energy, including hydropower and coal, metals and mining, wood processing, banking, telecommunications and real estate, and because of the country's role as a supplier to European manufacturing and a recipient of EU and international development funding. The diaspora in Austria, Germany, Croatia, Slovenia and Scandinavia links many local businesses to European counterparties. Typical exposures include concealed ownership of privatised companies, political connections in public procurement, conflicts between business partners across entity lines, and the recovery of assets from debtors whose holdings are spread across the Federation, Republika Srpska and neighbouring states."
+  ],
+  "population": {
+    "value": "approximately 3.2 million",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Bosnia and Herzegovina has a civil law system shaped by the Dayton constitution, with legislation at state, entity, cantonal and Brčko District level. Commercial disputes are heard by the entity courts rather than the state-level Court of Bosnia and Herzegovina, whose jurisdiction centres on state law, war crimes, organised crime and corruption. Republika Srpska has specialised district commercial courts with a Higher Commercial Court in Banja Luka; in the Federation, commercial matters are heard by municipal courts. The Foreign Trade Chamber of Bosnia and Herzegovina hosts a permanent arbitration court used in cross-border contracts.",
+  "data_protection": {
+    "law": "Law on the Protection of Personal Data of Bosnia and Herzegovina (Official Gazette of BiH no. 12/25; in force 8 March 2025, applied from October 2025)",
+    "regulator": "Personal Data Protection Agency of Bosnia and Herzegovina (Agencija za zaštitu ličnih/osobnih podataka, Sarajevo)",
+    "summary": "The 2025 law largely mirrors the GDPR. Investigative processing needs a lawful basis, typically the legitimate interests of the client or a third party balanced against the individual's rights, and special category and criminal offence data are tightly restricted. Transfers abroad are permitted to countries assessed as adequate by the Agency and confirmed by the Council of Ministers, or under safeguards such as Agency-adopted standard contractual clauses, so transfers to the United States need a documented mechanism. Foreign controllers that monitor people in Bosnia and Herzegovina may need a local representative. Fines for legal entities can reach 40 million marks or 4 percent of global turnover."
+  },
+  "investigator_regulation": "Private detective activity is regulated at entity level rather than by the state. Both the Federation and Republika Srpska have laws that combine the regulation of private security agencies with private detective activity, with licences issued by the entity ministries of the interior, and Brčko District has its own rules. We have not verified the current text of each statute for this page. Detectives operate within limits set by criminal law and the 2025 data protection law; covert interception and access to police or official databases are reserved to the authorities. Engagements are scoped with Bosnian counsel to confirm which entity regime applies to any work on the ground.",
+  "corporate_records": "Companies are entered in court registers kept by the competent courts of the entity or Brčko District where they are seated, and register data can be searched through official online portals, including the judicial business register portal for the Federation and Brčko District and the Republika Srpska registration agency (APIF). Extracts typically show legal form, capital, directors and registered founders. As of 2025, Bosnia and Herzegovina has no operational public register of beneficial owners: the 2024 AML law requires companies to hold ownership information, and civil society has called for a public register. Land and cadastral records are kept separately in each entity.",
+  "anti_corruption": "Bribery and abuse of office are criminalised in four separate criminal codes: those of the state, the Federation, Republika Srpska and Brčko District. The Agency for the Prevention of Corruption and Coordination of the Fight against Corruption (APIK) coordinates the Anti-Corruption Strategy 2024 to 2028, adopted in June 2024. Asset and interest declarations of state officials fall under the Law on Prevention of Conflict of Interest. The Law on Prevention of Money Laundering and Financing of Terrorist Activities was adopted in 2024; the Financial Intelligence Department of the State Investigation and Protection Agency (SIPA) acts as the financial intelligence unit.",
+  "matters": [
+    {
+      "title": "Ownership across entity registers",
+      "text": "Establishing who controls a Bosnian company when shareholders sit in separate Federation, Republika Srpska or Brčko registers, or behind holding companies in Croatia, Serbia, Austria or Cyprus, and testing the counterparty's own account of its ownership in the absence of a public beneficial ownership register."
+    },
+    {
+      "title": "Energy and natural resources projects",
+      "text": "Background research on local partners, concession holders and contractors in hydropower, solar, wind, coal and mining projects, where permits are issued at different levels of government and clients need to understand political connections, prior disputes and environmental controversies."
+    },
+    {
+      "title": "Public procurement and integrity risk",
+      "text": "Reviewing bidders, subcontractors and intermediaries in publicly funded or donor-funded contracts, including connections between company owners and officials at state, entity or cantonal level, previous procurement complaints and media reporting, for clients subject to their own anti-bribery obligations at home."
+    },
+    {
+      "title": "Shareholder and partner disputes",
+      "text": "Supporting counsel in disputes between partners in family-founded businesses, including tracing transfers of shares or property between related parties, reviewing court register histories and identifying assets held in the other entity or across the border."
+    },
+    {
+      "title": "Asset research for enforcement",
+      "text": "Assisting lawyers ahead of enforcement of a judgment or arbitral award by identifying company interests, real estate and other assets linked to a debtor across both entities and Brčko District, with recognition and enforcement handled by Bosnian lawyers before the competent courts."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official languages",
+      "value": "Bosnian, Croatian and Serbian; Latin and Cyrillic scripts both in use"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Sarajevo, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Convertible mark (BAM), pegged to the euro"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Sarajevo, Banja Luka, Tuzla, Mostar, Zenica, Brčko"
+    },
+    {
+      "label": "Administrative layers",
+      "value": "State, two entities, ten Federation cantons and Brčko District"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Foreign documents usually need certified translation by a court interpreter"
+    },
+    {
+      "label": "Business culture",
+      "value": "Personal introductions and relationships matter; ownership is often family-held"
+    }
+  ],
+  "tdsc_approach": "Engagements touching Bosnia and Herzegovina are scoped from Nashville, starting with a jurisdictional map: where each company is registered, which entity's courts and registers hold relevant records, and which entity's rules govern any work on the ground. Research draws on court register extracts, published court decisions, procurement information, foreign registries in neighbouring states and open sources in Bosnian, Croatian, Serbian and English, with names checked in both Latin and Cyrillic script. Where local enquiries are needed, TDSC coordinates qualified, appropriately licensed local professionals under the direction of Bosnian counsel. Personal data is handled in line with the 2025 data protection law and transferred under a documented safeguard. TDSC does not use pretexting or seek access to police or official databases.",
+  "faqs": [
+    {
+      "q": "Why do Bosnian matters often involve several registers?",
+      "a": "Company registration is handled at entity level. A business seated in the Federation is entered by a Federation court, one in Republika Srpska through the RS system, and one in Brčko District by the Brčko court. Related companies and assets may sit in different entities, so a complete picture usually requires searches in each, plus registries in Croatia or Serbia where owners are based."
+    },
+    {
+      "q": "Is there a public beneficial ownership register in Bosnia and Herzegovina?",
+      "a": "Not as of 2025. The 2024 anti-money laundering law requires companies to keep beneficial ownership information, and the OECD notes that it does not create a registration requirement. Council of Europe projects are supporting work toward registers, and Transparency International BiH has called for a public one. Ownership behind Bosnian companies is therefore traced through registers, foreign records and other lawful sources."
+    },
+    {
+      "q": "What changed with the 2025 data protection law?",
+      "a": "The Law on the Protection of Personal Data, in force since 8 March 2025 and applied from October 2025, brought Bosnian law close to the GDPR. It introduced data protection officers, breach notification, a local representative requirement for some foreign controllers and fines of up to 40 million marks or 4 percent of global turnover. Investigative processing needs a documented lawful basis."
+    },
+    {
+      "q": "Are private detectives licensed in Bosnia and Herzegovina?",
+      "a": "Yes, at entity level. The Federation and Republika Srpska each regulate private detective activity together with private security, with licensing by the entity interior ministries, and Brčko District has its own rules. TDSC does not hold a Bosnian licence; where local work is needed, we coordinate appropriately licensed professionals and confirm the applicable regime with local counsel."
+    },
+    {
+      "q": "Which languages are relevant to research in Bosnia and Herzegovina?",
+      "a": "Bosnian, Croatian and Serbian are all official and mutually intelligible, but spelling, terminology and script differ. Records in Republika Srpska frequently use Cyrillic. Names may be transliterated inconsistently in foreign records, so searches cover variants with and without diacritics such as č, ć, š, ž and đ to avoid missing relevant entries."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Bosnia and Herzegovina",
+      "url": "https://www.dlapiperdataprotection.com/index.html?c=BA&t=law"
+    },
+    {
+      "title": "N1: Bosnia's new personal data protection law introduces stricter rules",
+      "url": "https://n1info.ba/english/news/bosnias-new-personal-data-protection-law-introduces-stricter-rules/"
+    },
+    {
+      "title": "Fiscal Requirements: Bosnia and Herzegovina aligns with GDPR, new data protection law from 5 October 2025",
+      "url": "https://www.fiscal-requirements.com/news/4520-bosnia-and-herzegovina-aligns-with-gdpr-new-data-protection-law-from-october-5-2025"
+    },
+    {
+      "title": "OECD Anti-Corruption and Integrity Outlook 2026: Bosnia and Herzegovina",
+      "url": "https://read.oecd-ilibrary.org/en/publications/anti-corruption-and-integrity-outlook-2026_0c8910f8-en/bosnia-and-herzegovina_0a73fbe7-en.html"
+    },
+    {
+      "title": "BDK Advokati: The impact of the new AML Act on business operations in Bosnia and Herzegovina",
+      "url": "https://bdkadvokati.com/the-impact-of-the-new-aml-act-on-business-operations-in-bosnia-herzegovina"
+    },
+    {
+      "title": "Council of Europe: Workshop on beneficial ownership registers in Bosnia and Herzegovina",
+      "url": "https://www.coe.int/en/web/corruption/-/workshop-on-beneficial-ownership-registers-in-bosnia-and-herzegovina-comparative-eu-practices-current-status-and-challenges"
+    },
+    {
+      "title": "TI BiH on the public register of beneficial owners (Abnase, September 2024)",
+      "url": "https://abnase.com/ti-bih-on-the-public-register-of-beneficial-owners-and-analysis-of-politically-exposed-persons/"
+    },
+    {
+      "title": "OECD: Fostering business transparency and accountability in Bosnia and Herzegovina (2025)",
+      "url": "https://www.oecd.org/en/publications/assessing-bosnia-and-herzegovina-s-reform-agenda-for-private-sector-development_12b64ce6-en/full-report/fostering-business-transparency-and-accountability-in-bosnia-and-herzegovina_cfd64b20.html"
+    }
+  ],
+  "review_flags": [
+    "Population (approx. 3.2 million, 2024) is NOT sourced: no World Bank or statistics page appeared within the search budget. source_url is empty; add a World Bank or BHAS citation before publishing.",
+    "Private detective licensing at entity level (FBiH and RS laws combining private security and private detective activity, interior ministry licensing, Brčko rules) is from general knowledge, not a source opened in this research. Confirm statute names and current status with Bosnian counsel.",
+    "Court register portals (judicial business register for FBiH/Brčko, APIF for RS), RS commercial courts and Higher Commercial Court, Foreign Trade Chamber arbitration court, and SIPA Financial Intelligence Department as FIU are general knowledge, not verified on official pages.",
+    "AML law adopted 2024 per OECD/TI BiH secondary sources; exact title and gazette reference not verified.",
+    "No public beneficial ownership register as of 2025 (OECD 2026 Outlook says AML law does not create a registration requirement); check for later reform."
+  ],
+  "researched": "2026-11-04"
+}

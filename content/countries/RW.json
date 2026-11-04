@@ -13,15 +13,15 @@
     "year": "2025",
     "source_url": "https://api.worldbank.org/v2/country/RW/indicator/SP.POP.TOTL?format=json&mrnev=1"
   },
-  "legal_system": "Rwanda has a mixed legal system that combines its original Belgian civil law foundations with common law influences adopted after the 2003 Constitution and Commonwealth membership in 2009. Legislation is codified, while courts increasingly draw on precedent. Commercial disputes are heard by specialised commercial courts, with appeals to the Court of Appeal and the Supreme Court. The Kigali International Arbitration Centre, established in 2012, administers domestic and international arbitration under rules modelled on UNCITRAL and is a common seat for disputes involving Rwandan parties.",
+  "legal_system": "Rwanda has a mixed legal system that combines its original Belgian civil law foundations with common law influences adopted after the 2003 Constitution and Commonwealth membership in 2009. Legislation is codified, while courts increasingly draw on precedent. Commercial disputes are heard by specialised commercial courts, with appeals to the Court of Appeal and the Supreme Court. Arbitration is governed by a 2008 law, and the Kigali International Arbitration Centre (KIAC) administers domestic and international cases and is a common seat for disputes involving Rwandan parties.",
   "data_protection": {
     "law": "Law No. 058/2021 of 13/10/2021 on the protection of personal data and privacy",
     "regulator": "National Cyber Security Authority (NCSA)",
     "summary": "Rwanda's data protection law took effect on 15 October 2021, with a compliance transition that ended in October 2023. Data controllers and processors must register with the NCSA and describe the data processed, purposes, recipients and intended transfer countries. Personal data must be stored in Rwanda unless the controller or processor holds a registration certificate authorising storage abroad. Transfers outside Rwanda are permitted only in defined cases, such as NCSA authorisation, consent, contractual necessity or legal claims, and require a written contract setting out each party's responsibilities. Investigations that collect personal data in Rwanda must be planned around these requirements."
   },
   "investigator_regulation": "We have not identified, from the official sources available to us, a dedicated statute licensing private investigators in Rwanda. Private security services are regulated separately, and activities such as surveillance, recording and collection of personal information are constrained by the data protection law, the Penal Code's protections for privacy and the law on interception of communications. Because the legal position of private investigative activity is not clearly documented, TDSC scopes any work on the ground with Rwandan counsel and limits it to lawful inquiries through appropriately qualified local professionals.",
-  "corporate_records": "Companies are registered with the Office of the Registrar General within the Rwanda Development Board, which provides online business registration and issues certificates within days; tax and social security numbers are generated automatically on registration. The Office is responsible for publicising information relating to business registration, and company searches and extracts can be obtained through its systems. A Beneficial Owners Register is maintained by the Registrar General with online filing; the extent of public access to beneficial ownership details should be confirmed matter by matter. Criminal record certificates can be requested from the National Public Prosecution Authority with the subject's involvement.",
-  "anti_corruption": "Rwanda criminalises bribery and related offences under Law No. 54/2018 on fighting against corruption. The Office of the Ombudsman leads anti-corruption policy and receives asset declarations, the Rwanda Investigation Bureau investigates offences and the National Public Prosecution Authority prosecutes them; the Office of the Auditor General audits public spending. The Financial Intelligence Centre, created in 2020, is the financial intelligence unit under the anti-money laundering and counter-terrorism financing law. Rwanda has ratified the UN Convention against Corruption.",
+  "corporate_records": "Companies are registered with the Office of the Registrar General within the Rwanda Development Board, which provides online business registration and issues certificates within days; tax and social security numbers are generated automatically on registration. Company searches and extracts can be obtained through its systems. A Beneficial Owners Register, launched in 2023 with a 25 percent ownership threshold and online filing through the RDB, covers the whole economy; the extent of public access to its contents has not been confirmed and should be checked matter by matter. Criminal record certificates can be requested from the National Public Prosecution Authority with the subject's involvement.",
+  "anti_corruption": "Rwanda criminalises bribery and related offences under Law No. 54/2018 of 13 August 2018 on fighting against corruption. The Office of the Ombudsman has a corruption prevention unit that reviews institutional systems, receives and analyses corruption reports and investigates cases; the Rwanda Investigation Bureau also receives reports and investigates offences, and the National Public Prosecution Authority prosecutes them. The Financial Intelligence Centre, created in 2020, is the financial intelligence unit under the anti-money laundering and counter-terrorism financing law.",
   "matters": [
     {
       "title": "Mineral supply chain diligence",
@@ -86,7 +86,7 @@
     },
     {
       "q": "Is there a beneficial ownership register in Rwanda?",
-      "a": "Yes. The Office of the Registrar General at the Rwanda Development Board maintains a Beneficial Owners Register with online filing. The degree of public access to its contents should be confirmed for each matter, and TDSC corroborates filed information with other lawful sources rather than relying on a single declaration."
+      "a": "Yes. A Beneficial Owners Register was launched in 2023 with online filing through the Rwanda Development Board and a 25 percent ownership threshold. We have not confirmed the degree of public access to its contents, so access is checked for each matter, and TDSC corroborates filed information with other lawful sources rather than relying on a single declaration."
     },
     {
       "q": "Can TDSC help with mineral sourcing questions involving Rwanda?",
@@ -113,12 +113,30 @@
     {
       "title": "World Bank API - Population, total (Rwanda)",
       "url": "https://api.worldbank.org/v2/country/RW/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "Office of the Ombudsman (Rwanda) - Corruption Prevention Unit",
+      "url": "https://www.ombudsman.gov.rw/en/about-us/units/corruption-prevention-unit"
+    },
+    {
+      "title": "UNEP LEAP - Loi n° 54/2018 relative à la lutte contre la corruption",
+      "url": "https://leap.unep.org/en/countries/rw/national-legislation/loi-ndeg-542018-relative-la-lutte-contre-la-corruption"
+    },
+    {
+      "title": "Open Ownership - Rwanda country page",
+      "url": "https://www.openownership.org/en/map/country/rwanda/"
+    },
+    {
+      "title": "Legal 500 - International arbitration in Rwanda: a legal landscape in transformation",
+      "url": "https://www.legal500.com/intelligence/rwanda/litigation-mediation-arbitration/international-arbitration-in-rwanda-a-legal-landscape-in-transformation"
     }
   ],
   "review_flags": [
-    "Search budget exhausted. NOT verified from an opened source (general knowledge): Law No. 54/2018 on fighting against corruption; Rwanda Investigation Bureau and NPPA roles; Ombudsman receiving asset declarations; Commercial Court/Commercial High Court structure; Kiswahili as official language; absence of PI licensing (none identified, also not searched).",
+    "VERIFIED: Law 54/2018 (13 Aug 2018); Ombudsman corruption prevention unit and RIB receive corruption reports; BO register launched 2023, 25% threshold (Open Ownership); 2008 arbitration law and KIAC (Legal 500).",
+    "REMOVED as unverified: Ombudsman receiving asset declarations; KIAC founding year 2012 and UNCITRAL-based rules; Auditor General and UNCAC ratification sentence.",
     "Public access to RDB Beneficial Owners Register not confirmed.",
-    "Only 4 sources; brief asks for 5-12."
+    "Still unverified: commercial court structure (Commercial Court/Commercial High Court), Kiswahili as official language, Financial Intelligence Centre (2020), absence of PI licensing.",
+    "meta_description is 134 chars, below the brief's 140-158 target (not over limit; left as is)."
   ],
   "researched": "2026-11-04"
 }

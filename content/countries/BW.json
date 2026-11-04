@@ -1,0 +1,146 @@
+{
+  "cc": "BW",
+  "name": "Botswana",
+  "meta_description": "TDSC investigative consulting on Botswana: diamond and mining due diligence, CIPA ownership research, Data Protection Act 2024 compliance, local coordination.",
+  "eyebrow": "Republic of Botswana",
+  "hero_lede": "Investigative consulting for matters touching Botswana means working with a well-documented company registry, a new data protection regime that commenced in October 2024, and a diamond-dominated economy where provenance, counterparties and politically exposed relationships deserve careful, lawful verification before decisions are made.",
+  "intro": [
+    "Botswana is widely regarded as one of the more stable and orderly business environments in southern Africa, and that shapes how investigative work is done there. Company information is held electronically by the Companies and Intellectual Property Authority (CIPA) through its Online Business Registration System, introduced in 2019, and the companies law has required beneficial ownership disclosure since amendments that year. Personal data handling is now governed by the Data Protection Act, 2024, overseen by an independent Information and Data Protection Commission. A 2025 national money laundering risk assessment identified tax crime, fraud and the precious stones sector as significant exposures, which gives investigators a clear picture of where scrutiny is expected.",
+    "Organisations commission work involving Botswana most often because of minerals, finance and regional trade. Diamonds remain central to the economy, and the 2025 national risk assessment rated precious stones among the highest-risk sectors for money laundering, citing high-value transactions and weak traceability. Investors and lenders look at mining contractors, beneficiation businesses and joint-venture partners; banks and insurers examine counterparties and claims; and multinationals with Gaborone operations review distributors, suppliers and staff misconduct. Botswana's role as a hub for southern African business, with close links to South Africa, Namibia, Zambia and Zimbabwe, means many matters cross borders; wildlife crime and real estate were also flagged as elevated risks."
+  ],
+  "population": {
+    "value": "2.36 million (2022 Population and Housing Census, as reported)",
+    "year": "2022",
+    "source_url": "https://www.zigram.tech/resources/botswana-national-risk-assessment-2025/"
+  },
+  "legal_system": "Botswana has a mixed legal system in which Roman-Dutch common law operates alongside statute and customary law, with English the language of the superior courts. Commercial disputes are heard in the Magistrates' Courts and the High Court, with appeals to the Court of Appeal. Statute plays a large role in regulated sectors such as companies, financial services and mining. Arbitration is used in mining and construction contracts, frequently with seats outside the country. Counsel should confirm the current forum and procedural rules for any contemplated proceedings, as we have not verified the detail of specialised commercial divisions for this page.",
+  "data_protection": {
+    "law": "Data Protection Act, 2024 (Act No. 18 of 2024), which repealed the Data Protection Act, 2018 (Act No. 32 of 2018) that never came into effect",
+    "regulator": "Information and Data Protection Commission",
+    "summary": "The 2024 Act took effect on 29 October 2024 and applies to public and private controllers, including controllers outside Botswana processing data of people in the country, some of whom must appoint a local representative. Sensitive data, which includes criminal records, biometric data and minors' data, may be processed only in listed circumstances. Breaches must be reported to the Commissioner within 72 hours, and impact assessments are required for high-risk processing. Transfers abroad are generally restricted to countries designated by ministerial order, otherwise requiring Commissioner authorisation or a listed exception. Investigative work involving individuals therefore needs a defined lawful basis, minimised collection and a documented transfer route."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators in Botswana from the sources reviewed for this page. That does not mean investigative activity is unregulated: the Data Protection Act, 2024 governs collection and use of personal data, and general criminal law and privacy protections constrain surveillance, recording and access to information. Physical security and guarding services may fall under separate rules. Because the position is not clearly documented, TDSC scopes any field activity in Botswana with local counsel and engages only appropriately qualified local professionals, confirming before work begins whether any registration or permit applies to the specific task.",
+  "corporate_records": "Companies and business names are registered with the Companies and Intellectual Property Authority (CIPA) through the Online Business Registration System (OBRS), launched in 2019, under which existing entities were required to re-register. The Companies (Amendment) Act 2019 requires companies, including foreign companies with a local presence, to disclose beneficial owners to CIPA, with penalties for non-compliance. Basic legal ownership information has been accessible online, but public access to beneficial ownership data has been inconsistent: publication planned for August 2023 was postponed, and current access levels should be checked at the time of each search. Court and land records generally require local retrieval.",
+  "anti_corruption": "The Directorate on Corruption and Economic Crime (DCEC) is the principal anti-corruption body, operating under the Corruption and Economic Crime Act. Anti-money laundering obligations rest on the Financial Intelligence Act, with the Financial Intelligence Agency (FIA) as the financial intelligence unit; the Bank of Botswana and the Directorate of Public Prosecutions are also central to enforcement. Botswana's 2025 money laundering national risk assessment rated corruption a medium threat and reported low prosecution numbers relative to cases recorded, with tax crime identified as the largest proceeds-generating offence.",
+  "matters": [
+    {
+      "title": "Diamond sector counterparty review",
+      "text": "Background and ownership research on traders, cutters, polishers and service providers in the diamond value chain, which Botswana's 2025 national risk assessment identifies as among the highest-risk sectors, with attention to sanctions exposure, adverse media and links to politically exposed persons."
+    },
+    {
+      "title": "Mining joint-venture due diligence",
+      "text": "Verifying the ownership, track record and litigation history of mining contractors, prospecting licence holders and local partners, using CIPA filings, court records and lawful public sources, before investment, financing or equipment supply commitments are made."
+    },
+    {
+      "title": "Procurement and supplier integrity",
+      "text": "Reviewing suppliers and subcontractors bidding for public or private contracts in Gaborone and Francistown for undisclosed beneficial owners, conflicts of interest and common directorships, which matter in an economy where government and parastatals are major purchasers."
+    },
+    {
+      "title": "Financial fraud and asset tracing",
+      "text": "Supporting counsel in fraud matters, including employee theft and obtaining by false pretences, which the national risk assessment lists among leading predicate offences, by mapping corporate interests and traceable assets across Botswana and neighbouring southern African jurisdictions."
+    },
+    {
+      "title": "Regional market entry screening",
+      "text": "Pre-transaction and onboarding reputational and integrity checks on distributors, agents and acquisition targets for companies using Botswana as a base for Southern African Development Community markets, including cross-checks against South African, Namibian and Zambian records."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "English (official) and Setswana"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Gaborone, UTC+2, no daylight saving"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Botswana pula (BWP)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Gaborone, Francistown, Jwaneng, Orapa"
+    },
+    {
+      "label": "Company registry",
+      "value": "CIPA Online Business Registration System"
+    },
+    {
+      "label": "Data regulator",
+      "value": "Information and Data Protection Commission"
+    },
+    {
+      "label": "Business culture",
+      "value": "Courteous and relationship-based; formal greetings and patience with process are valued"
+    }
+  ],
+  "tdsc_approach": "TDSC handles matters touching Botswana from Nashville through scoped consulting engagements. Each matter begins with a jurisdictional review: what the client needs to know, which Botswana and regional sources can lawfully answer it, and whether the Data Protection Act, 2024 applies to the information involved. Desk research draws on CIPA records, court and gazette material obtainable through proper channels, and open sources. Where documents must be retrieved in person, enquiries made locally or interviews conducted, TDSC coordinates qualified local professionals and works alongside the client's Botswana counsel, who advise on legal questions. Personal data is minimised, and any transfer out of Botswana is structured against the Act's transfer rules. TDSC does not claim local licensure or access to restricted government systems.",
+  "faqs": [
+    {
+      "q": "Can TDSC identify the real owners of a Botswana company?",
+      "a": "Often, but with caveats. Companies must disclose beneficial owners to CIPA under the 2019 amendments to the companies law, and legal ownership information has been available online. Public access to beneficial ownership data has been delayed in the past, so TDSC confirms what is currently accessible and supplements registry data with filings, litigation records and open-source research."
+    },
+    {
+      "q": "Does the Data Protection Act, 2024 apply if the client is outside Botswana?",
+      "a": "It can. The Act extends to controllers outside Botswana that process data of people in the country, and some must appoint a local representative. Transfers out of Botswana are generally limited to designated countries or require authorisation or a recognised exception. TDSC builds this into scoping and recommends the client's counsel confirm the position for the specific matter."
+    },
+    {
+      "q": "Are private investigators licensed in Botswana?",
+      "a": "We have not identified a dedicated licensing regime for private investigators in the sources reviewed. TDSC does not treat that as permission to act freely. Field activity is planned with local counsel, carried out by appropriately qualified local professionals, and kept within data protection, privacy and criminal law limits, including restrictions on surveillance and recording."
+    },
+    {
+      "q": "What makes diamond-sector due diligence different?",
+      "a": "Botswana's 2025 national money laundering risk assessment rated precious stones among the highest-risk sectors because of high-value transactions and weak traceability. Due diligence therefore looks beyond registration to beneficial ownership, trading history, regional counterparties and adverse media, and is coordinated with compliance teams applying their own provenance and sanctions controls."
+    },
+    {
+      "q": "How long does a Botswana company background check usually take?",
+      "a": "Registry-based work using CIPA's online system can often be completed within several business days. Matters requiring court file retrieval, enquiries in Francistown or mining districts, or cross-border research in South Africa, Namibia or Zimbabwe take longer. TDSC sets out the timetable and the sources it expects to use in the engagement scope before work begins."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Botswana",
+      "url": "https://www.dlapiperdataprotection.com/?c=BW&c2=GB&t=law"
+    },
+    {
+      "title": "CIPIT (Strathmore University): Understanding Botswana's 2018 and 2024 Data Protection Acts",
+      "url": "https://cipit.strathmore.edu/understanding-botswanas-2018-and-2024-data-protection-acts/"
+    },
+    {
+      "title": "Open Ownership: Botswana country page",
+      "url": "https://www.openownership.org/en/map/country/botswana/"
+    },
+    {
+      "title": "RSM Botswana: Beneficial ownership",
+      "url": "https://www.rsm.global/botswana/news/beneficial-ownership"
+    },
+    {
+      "title": "Business Weekly & Review: Botswana tops Africa as efforts to unmask hidden investors gain momentum",
+      "url": "https://businessweekly.co.bw/news/botswana-tops-africa-as-efforts-to-unmask-hidden-investors-gain-momentum"
+    },
+    {
+      "title": "Mmegi: Publication of hidden investors to be delayed",
+      "url": "https://mmegi.bw/business/publication-of-hidden-investors-to-be-delayed/news"
+    },
+    {
+      "title": "Zigram: Botswana National Risk Assessment 2025",
+      "url": "https://www.zigram.tech/resources/botswana-national-risk-assessment-2025/"
+    },
+    {
+      "title": "US International Trade Administration: Botswana Country Commercial Guide",
+      "url": "https://trade.gov/country-commercial-guides/botswana-investment-climate-statement-ics"
+    }
+  ],
+  "review_flags": [
+    "Population figure (2.36 million, 2022 Census) comes from a secondary summary of the 2025 NRA, not World Bank or Statistics Botswana directly.",
+    "No source found on licensing of private investigators in Botswana; page states this honestly but local counsel should confirm whether any security/investigation licensing applies.",
+    "Public access to the CIPA beneficial ownership register is unclear: 2023 publication was postponed; Open Ownership (updated July 2026) lists a live register with public data. Verify current status.",
+    "Corruption and Economic Crime Act and Financial Intelligence Act named without year; not verified against primary text in this batch. Legal system/court description (mixed Roman-Dutch and customary law) not source-verified this batch.",
+    "Data Protection Act 2024 commencement 29 Oct 2024 per DLA Piper; CIPIT gives the same date as enactment. Ministerial transfer-designation list may change."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,147 @@
+{
+  "cc": "SB",
+  "name": "Solomon Islands",
+  "meta_description": "TDSC investigative consulting on Solomon Islands: logging, mining and fisheries due diligence, company checks and integrity reviews scoped with local counsel.",
+  "eyebrow": "Solomon Islands, South Pacific",
+  "hero_lede": "Investigative consulting for matters touching Solomon Islands combines limited public company records under the Companies Act 2009, customary land tenure, no comprehensive data protection statute that we have identified, natural resource sector risk and coordination with qualified local professionals and Solomon Islands counsel.",
+  "intro": [
+    "Solomon Islands is a Commonwealth parliamentary democracy spread across several hundred islands, with Honiara on Guadalcanal as the commercial and administrative centre. Its legal system rests on English common law, statute and customary law, and most land is held under customary tenure rather than registered title. Company registration is governed by the Companies Act 2009, but public access to registry details is narrower than in many common law jurisdictions, and we have not identified a comprehensive data protection law. Institutions such as the Solomon Islands Independent Commission Against Corruption, created under the Anti-Corruption Act 2018, are relatively young and still building capacity.",
+    "Organisations commission investigative work involving Solomon Islands mainly because of natural resources: round log exports, gold and other mining, and tuna fisheries are central to the economy and attract foreign operators, traders and financiers. Infrastructure projects funded by development partners, including Australia, China and multilateral lenders, are another common setting. Typical exposures include the ownership and conduct of logging and mining licensees, consent and benefit-sharing disputes over customary land, procurement integrity in donor-funded projects, links between commercial partners and political figures, and the reliability of local agents and contractors whose records may be incomplete or held on paper."
+  ],
+  "population": {
+    "value": "839,000",
+    "year": "2025",
+    "source_url": "https://fred.stlouisfed.org/data/POPTOTSBA647NWDB"
+  },
+  "legal_system": "Solomon Islands has a common law system based on the Constitution of 1978, Acts of Parliament, the principles of English common law and equity, and customary law, which the Constitution recognises. Commercial disputes are heard by the Magistrates' Courts for smaller claims and by the High Court of Solomon Islands, which has unlimited original jurisdiction, with appeals to the Court of Appeal. Local Courts and customary land appeal bodies deal with many customary land matters. There is no specialised commercial court or established domestic arbitration centre that we have identified. Proceedings are in English.",
+  "data_protection": {
+    "law": "No comprehensive data protection statute identified (constitutional protection of privacy and sectoral confidentiality duties apply)",
+    "regulator": "No dedicated data protection authority identified",
+    "summary": "We have not identified a general data protection law or supervisory authority in Solomon Islands as of 2026. Investigative work involving personal data is therefore governed by the Constitution's protection against arbitrary search and interference, common law duties of confidence, statutory confidentiality in sectors such as banking and telecommunications, and criminal law on interception and unauthorised access to computer systems. There are no specific cross-border transfer or localisation rules that we have identified. Because personal data collected in Solomon Islands may still fall under the client's own data protection obligations, for example in Australia, the EU or the United Kingdom, we apply minimisation and documented handling to every matter."
+  },
+  "investigator_regulation": "We have not identified a licensing regime for private investigators or detective agencies in Solomon Islands. Security guarding is a separate activity and does not confer investigative powers. Covert interception of communications and access to official records outside lawful channels are not available to private parties, and trespass onto customary land without the consent of landholders can provoke serious disputes as well as legal liability. Engagements are therefore scoped with Solomon Islands counsel and rely on public records, court judgments, open sources and lawful interviews conducted by qualified local professionals who understand provincial and customary sensitivities.",
+  "corporate_records": "Companies are incorporated and registered with the Registrar of Companies under the Companies Act 2009, which provides for private, public, guarantee, unlimited and overseas companies. A company's name, registration number, status and registered office are recorded on the register, but public access to director details is limited and the share register is kept at the registered office rather than published. Beneficial ownership information is reported to the Registrar, generally at a 25 percent threshold, but we have not confirmed any statutory public access. Most land is customary and unregistered, so ownership and rights must often be established through customary processes and court decisions rather than a title register.",
+  "anti_corruption": "The Anti-Corruption Act 2018 (No. 2 of 2018) created the Solomon Islands Independent Commission Against Corruption (SIICAC), which took over investigation of corruption offences from the police, and amended Penal Code bribery offences to cover both giver and receiver. The Leadership Code Commission and the Ombudsman also handle integrity complaints. Anti-money laundering rules arise under the Money Laundering and Proceeds of Crimes Act 2002, with the Anti-Money Laundering Commission and the Financial Intelligence Unit responsible for oversight.",
+  "matters": [
+    {
+      "title": "Logging licensee and exporter checks",
+      "text": "Background research on logging operators, exporters and their local partners, including ownership, licence and court history, disputes with customary landholders, adverse media in the region and links to Asian timber buyers, for financiers, buyers and partners concerned with legality and reputational exposure."
+    },
+    {
+      "title": "Mining and exploration partners",
+      "text": "Due diligence on companies holding or seeking prospecting and mining rights, reviewing shareholders, prior projects, landowner agreements, environmental complaints and political connections, where project success often depends on the legitimacy of local partners and community consent."
+    },
+    {
+      "title": "Fisheries and marine counterparties",
+      "text": "Assessing vessel operators, agents and processors in the tuna sector, including ownership through foreign holding companies, compliance history and adverse reporting, for buyers, insurers and investors that need assurance about the integrity of their supply chain partners."
+    },
+    {
+      "title": "Development project integrity",
+      "text": "Supporting development partners, contractors and lenders on infrastructure and public works projects with vetting of local subcontractors and suppliers, review of procurement concerns and fact-finding on allegations of collusion, diversion or conflicts of interest involving officials."
+    },
+    {
+      "title": "Disputes and customary land questions",
+      "text": "Assisting counsel with fact-finding in commercial disputes and in matters turning on customary land rights, gathering court judgments, published records and lawful witness accounts while recognising that tribal and clan claims require careful handling by local professionals."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "English (official); Solomons Pijin widely spoken"
+    },
+    {
+      "label": "Time zone",
+      "value": "Pacific/Guadalcanal, UTC+11 (no daylight saving)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Solomon Islands dollar (SBD)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Honiara; provincial centres such as Gizo and Auki"
+    },
+    {
+      "label": "Courts language",
+      "value": "English"
+    },
+    {
+      "label": "Land tenure",
+      "value": "Mostly customary; registered title is limited"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationships, kinship ties and consultation with landholders shape commercial dealings"
+    }
+  ],
+  "tdsc_approach": "Engagements touching Solomon Islands are scoped from Nashville, starting with the client's objective and an honest assessment of what records exist, since registry access is limited, land is largely customary and much documentation is not online. Research draws on Companies Act filings that can lawfully be obtained, High Court and Court of Appeal judgments, gazette notices, licensing announcements, regional and foreign registries and Pacific media archives. With no investigator licensing regime identified, any enquiries in Honiara or the provinces are carried out by qualified local professionals working with Solomon Islands counsel, with attention to customary protocol and community sensitivities. Personal data is minimised and handled to the standard of the client's own jurisdiction. Every matter is screened for sanctions exposure. TDSC does not use pretexting or seek restricted official records.",
+  "faqs": [
+    {
+      "q": "Can directors and shareholders of a Solomon Islands company be identified?",
+      "a": "Partly. The Registrar of Companies records a company's name, number, status and registered office, and directors are filed with the Registrar, but public access to director details is limited and the share register is held at the company's office. Beneficial ownership is reported to the Registrar without confirmed public access, so we supplement registry work with court records, foreign registries and media sources."
+    },
+    {
+      "q": "Does Solomon Islands have a data protection law?",
+      "a": "We have not identified a comprehensive data protection statute or regulator as of 2026. Privacy is protected through the Constitution, common law confidentiality and sector rules such as banking secrecy. Clients based in Australia, the EU, the UK or elsewhere may still be bound by their own data protection laws, so we handle personal data to that standard."
+    },
+    {
+      "q": "Why does customary land matter in due diligence?",
+      "a": "Most land in Solomon Islands is held under customary tenure, so rights to log, mine or build depend on the consent of the correct landholding groups, which can be contested. We review court decisions and published records on land disputes and timber rights, and counsel assess whether a counterparty's claimed agreements with landholders are likely to be durable."
+    },
+    {
+      "q": "What role does SIICAC play in corruption cases?",
+      "a": "The Solomon Islands Independent Commission Against Corruption, established under the Anti-Corruption Act 2018, investigates corruption offences that were previously handled by the police and can refer cases for prosecution. It works alongside the Leadership Code Commission and the Ombudsman. Its published actions and any related court proceedings form part of our integrity reviews."
+    },
+    {
+      "q": "Can field enquiries be made outside Honiara?",
+      "a": "Sometimes, but travel between islands is slow and costly, and enquiries in provincial communities require local knowledge and respect for customary leadership. Qualified local professionals assess what is appropriate before any visit. Many questions can be answered through records and interviews in Honiara, which we normally explore first."
+    }
+  ],
+  "sources": [
+    {
+      "title": "FRED (World Bank data): Population, Total for Solomon Islands",
+      "url": "https://fred.stlouisfed.org/data/POPTOTSBA647NWDB"
+    },
+    {
+      "title": "PacLII: Anti-Corruption Act 2018 (Solomon Islands)",
+      "url": "https://pacliirms.austlii.edu.au/sb/legis/num_act/aa2018200"
+    },
+    {
+      "title": "PINA: It is premature to say that SIICAC is doomed to fail (2021)",
+      "url": "https://pina.com.fj/2021/07/05/it-is-premature-to-say-that-siicac-is-doomed-to-fail/"
+    },
+    {
+      "title": "PacLII: Money Laundering and Proceeds of Crimes Act 2002, delegation of functions to the Financial Intelligence Unit (LN 22 of 2006)",
+      "url": "https://pacliirms.austlii.edu.au/sb/legis/sub_leg/mlapoca2002ipfdocfotalcttfiu2220061596"
+    },
+    {
+      "title": "Pacific Data Hub: Companies Act 2009 (No. 1 of 2009), Solomon Islands",
+      "url": "https://pacificdata.org/data/dataset/companies-act-2009-no-1-of-2009-solomon-islands2/resource/a7c939bd-3d6b-4376-95eb-d34c09207e11"
+    },
+    {
+      "title": "Business Data Guide: Solomon Islands company search guide",
+      "url": "https://businessdataguide.com/blog/jurisdictions/solomon-islands-company-search-guide"
+    },
+    {
+      "title": "Expanship: Incorporation requirements in Solomon Islands (2026)",
+      "url": "https://www.expanship.com/sb/blog/incorporation-requirements-in-solomon-islands"
+    },
+    {
+      "title": "RNZ: Solomons anti-corruption bill passed (2018)",
+      "url": "https://www.rnz.co.nz/international/pacific-news/362689/solomons-anti-corruption-bill-passed"
+    }
+  ],
+  "review_flags": [
+    "No comprehensive data protection law identified; this is based on absence in searches and general knowledge. Confirm with Solomon Islands counsel whether any data protection or cybercrime legislation has been enacted (Pacific states have been drafting such laws).",
+    "No private investigator licensing regime identified; confirm with local counsel.",
+    "Company registry: sources conflict on the parent ministry (secondary sources say Ministry of Finance and Treasury; general knowledge suggests the Company Haus registry under the Ministry of Commerce). Ministry and the existence of an online search portal deliberately not stated. Public access to directors and beneficial ownership information comes from secondary commercial sources only.",
+    "Court structure, constitutional recognition of customary law, customary land share and sector descriptions (logging, mining, tuna) are from general knowledge, not verified on official pages.",
+    "SIICAC operational status sourced to a 2021 commentary; confirm current leadership and activity.",
+    "Population from FRED series of World Bank data (2025: 838,645)."
+  ],
+  "researched": "2026-11-04"
+}

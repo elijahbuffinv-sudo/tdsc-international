@@ -1,0 +1,99 @@
+{
+  "cc": "BT",
+  "name": "Bhutan",
+  "meta_description": "TDSC investigative consulting on Bhutan: counterparty, investor and hydropower due diligence from Nashville, using lawful public records and local counsel.",
+  "eyebrow": "Kingdom of Bhutan",
+  "hero_lede": "Investigative consulting on Bhutan centres on a small, state-anchored economy: hydropower and infrastructure partners, tourism and trade counterparties, and investors weighing new ventures. Work relies on public records, lawful open sources and qualified local professionals, scoped around a data framework still being modernised.",
+  "intro": [
+    "Bhutan is a constitutional monarchy with a compact, closely networked business community concentrated in Thimphu and Phuentsholing. State-owned and state-linked enterprises, many held through Druk Holding and Investments, sit alongside a modest private sector, and foreign participation is shaped by a Foreign Direct Investment Policy that sets sector-specific ownership thresholds and reserves some activities for Bhutanese nationals. Companies are formed under the Companies Act of Bhutan 2016 and recorded with the Office of the Registrar of Companies. The courts are generally regarded as independent and contract enforcement as comparatively quick for the region, which makes documentary research and litigation history meaningful starting points for investigative work.",
+    "Organisations commission work touching Bhutan most often in connection with hydropower and construction projects, many financed or built with Indian partners, and with cross-border trade through the southern border towns. Tourism operators, development-finance programmes and suppliers to government projects create counterparty and procurement exposures. Newer initiatives, including the Gelephu Mindfulness City special administrative region and the state's digital-asset activity, have attracted foreign interest and with it a need for careful background and reputational research. Because the market is small and relationships are personal, conflicts of interest, related-party dealings and undisclosed associations are recurring questions, and discretion in how enquiries are made matters as much as the findings themselves."
+  ],
+  "population": {
+    "value": "approximately 0.79 million",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Bhutan has a codified legal system built on the 2008 Constitution and statutes enacted by Parliament, with Buddhist legal tradition informing its development. Procedure in civil and criminal matters is governed by the Civil and Criminal Procedure Code of Bhutan. Commercial disputes are heard in the ordinary courts, from district (Dzongkhag) courts through the High Court to the Supreme Court in Thimphu. Bhutan has no specialised commercial court; arbitration and alternative dispute resolution are available domestically. The Gelephu Mindfulness City is being developed with its own legal framework, which should be checked separately for any matter located there.",
+  "data_protection": {
+    "law": "Information, Communications and Media Act of Bhutan 2018 (ICMA 2018); no standalone comprehensive data protection statute as of late 2025",
+    "regulator": "No dedicated data protection authority; the Bhutan InfoComm and Media Authority (BICMA) regulates the ICMA sector, with the Royal Bhutan Police Cyber Crime Unit handling offences",
+    "summary": "Bhutan does not have a comprehensive data protection law. Personal data is protected mainly through provisions of the ICMA 2018 on online privacy, security of payment and personal information, unlawful disclosure of data, identity theft and interception of messages, many framed as offences. There is no general lawful-basis regime, cross-border transfer rule or localisation requirement comparable to GDPR-style laws. As of October 2025 the GovTech agency was leading a review of the Act aimed in part at strengthening data protection. Investigative work should therefore apply recognised data-minimisation standards, avoid any interception or unauthorised access, and be re-checked against any amendment."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators or detective agencies in Bhutan, and there is no established local private investigation industry of any scale. The absence of a licensing law does not create latitude: the ICMA 2018 and the Penal Code criminalise unauthorised access to computer material, interception and disclosure of communications and online privacy violations, and defamation remains actionable criminally and civilly. Surveillance, covert recording and attempts to obtain non-public government or banking records are outside what TDSC will undertake. Field enquiries are scoped with Bhutanese counsel and carried out only by appropriately qualified professionals.",
+  "corporate_records": "Companies are incorporated under the Companies Act of Bhutan 2016 and recorded by the Office of the Registrar of Companies, with a Business Registration System maintained by the economic affairs ministry. Director particulars and the registered office are filed with the Registrar; the register of members is kept at the company's registered office and changes in shareholding must be notified. Remote public access is more limited than in larger jurisdictions, so certified extracts are usually obtained through local counsel. Bhutan does not have a public beneficial ownership register; as of 2025 it was undertaking beneficial ownership reforms with World Bank-backed technical assistance, and a registry was planned.",
+  "anti_corruption": "The Anti-Corruption Act of Bhutan (2011) criminalises abuse of office, active and passive bribery in the public and private sectors, bribery of foreign officials, embezzlement and money laundering, and requires asset declarations by public servants. The Anti-Corruption Commission investigates and prosecutes cases and runs prevention programmes. A dedicated anti-money laundering and counter-terrorist financing statute and a financial intelligence function within the Royal Monetary Authority support AML supervision. Bhutan has signed the UN Convention against Corruption.",
+  "matters": [
+    {
+      "title": "Hydropower and infrastructure counterparties",
+      "text": "Hydropower is central to Bhutan's economy and export earnings. Contractors, subcontractors and suppliers on large projects, often involving Indian partners, are reviewed for ownership, related-party links, prior performance and litigation, with attention to procurement integrity on publicly funded works."
+    },
+    {
+      "title": "Investor and joint-venture due diligence",
+      "text": "Foreign investors operating within FDI Policy ownership thresholds frequently rely on a Bhutanese partner. Background research tests the partner's corporate history, standing, political exposure and reputation, and whether nominal and practical control align with what has been represented."
+    },
+    {
+      "title": "Gelephu Mindfulness City prospects",
+      "text": "The special administrative region has drawn approaches from developers, funds and service providers. Engagements verify the identity, track record and source-of-funds narrative of counterparties seeking to participate, and map which legal framework governs a given arrangement."
+    },
+    {
+      "title": "Tourism and hospitality operators",
+      "text": "Bhutan's high-value, low-volume tourism model involves licensed operators, hotels and foreign booking partners. Reviews cover licensing status, ownership, complaints and litigation history, and the reliability of operators handling advance payments from overseas clients."
+    },
+    {
+      "title": "Cross-border trade and asset questions",
+      "text": "Trade through Phuentsholing and other southern border points, and assets held across Bhutan and India, raise questions in commercial disputes and judgment enforcement. Research traces corporate interests and court records lawfully and identifies where Indian-side enquiries are also needed."
+    }
+  ],
+  "practical": [
+    {"label": "Languages", "value": "Dzongkha (national); English widely used in government and business"},
+    {"label": "Time zone", "value": "Asia/Thimphu, UTC+06:00, no daylight saving"},
+    {"label": "Currency", "value": "Ngultrum (BTN), pegged to the Indian rupee"},
+    {"label": "Main business centres", "value": "Thimphu, Phuentsholing, Paro, Gelephu"},
+    {"label": "Courts", "value": "Dzongkhag courts, High Court and Supreme Court in Thimphu"},
+    {"label": "Company registry", "value": "Office of the Registrar of Companies"},
+    {"label": "Business culture", "value": "Small, relationship-based market; introductions and discretion carry weight"}
+  ],
+  "tdsc_approach": "TDSC works on Bhutan-related matters from Nashville and does not have staff or premises in the country. Each engagement begins with a jurisdictional review: which records are genuinely public, what the ICMA 2018 and Penal Code prohibit, and whether the matter also touches India or the Gelephu Mindfulness City framework. Research draws on registry filings, court and procurement information, media in English and Dzongkha, and lawful open sources. Because the business community is small, any enquiry that could reach the subject is planned with Bhutanese counsel before it is made. Where on-the-ground verification is needed, TDSC coordinates qualified local professionals under written scope. Personal data is limited to what the question requires, held securely and returned or deleted at close.",
+  "faqs": [
+    {
+      "q": "Can TDSC search Bhutanese company records from outside the country?",
+      "a": "Some registration information is available through the Business Registration System, but full filings, director details and shareholding changes are usually obtained as certified extracts through local counsel. Because the register of members is kept at each company's registered office, ownership questions sometimes need corroboration from contracts, licences or court records rather than a single registry search."
+    },
+    {
+      "q": "Is there a beneficial ownership register in Bhutan?",
+      "a": "Not a public one as of our 2025 research. Bhutan was undertaking beneficial ownership reforms with World Bank-supported technical assistance, and a registry was planned. Until it exists and its access rules are known, ultimate ownership is established from corporate filings, financing and licensing documents, and interviews where lawful, with the limits of each source stated in the report."
+    },
+    {
+      "q": "How does Bhutan's lack of a full data protection law affect an investigation?",
+      "a": "It does not lower the standard TDSC applies. The ICMA 2018 still criminalises unauthorised access, interception and unlawful disclosure of personal information, and a review of the Act aimed at stronger data protection was under way in 2025. We handle personal data on a need-to-know basis and reassess the position if the law is amended during an engagement."
+    },
+    {
+      "q": "Do engagements involving Bhutan often extend into India?",
+      "a": "Frequently. Hydropower, construction and trade relationships link many Bhutanese businesses to Indian contractors, banks and suppliers, and the ngultrum is pegged to the rupee. Where a counterparty, asset or dispute has an Indian dimension, we scope the Indian research separately under Indian law and coordinate the two workstreams so findings are consistent."
+    },
+    {
+      "q": "Can TDSC conduct interviews or site visits in Bhutan?",
+      "a": "Where a matter requires them and Bhutanese counsel confirms the approach is lawful, TDSC coordinates qualified local professionals to conduct interviews or verify sites under a written scope. Given the size and closeness of the business community, we weigh the risk that an enquiry becomes known to the subject and agree that trade-off with the client beforehand."
+    }
+  ],
+  "sources": [
+    {"title": "Council of Europe Octopus: Bhutan cybercrime legislation profile", "url": "https://www.coe.int/en/web/octopus/-/bhutan"},
+    {"title": "ConsentStack: Bhutan Information, Communications and Media Act 2018", "url": "https://www.consentstack.io/regulations/bt-icma"},
+    {"title": "BBS: Fake accounts and review of the ICM Act", "url": "https://www.bbs.bt/234646/"},
+    {"title": "Companies Act of Bhutan 2016 (ADB Law and Policy Reform)", "url": "https://lpr.adb.org/sites/default/files/resource/%5Bnid%5D/bhutan-companies-act-2016-english.pdf"},
+    {"title": "Expanship: Incorporation requirements in Bhutan", "url": "https://www.expanship.com/bt/blog/incorporation-requirements-in-bhutan"},
+    {"title": "Open Ownership: Terms of reference, legal consultancy in Bhutan", "url": "https://www.openownership.org/en/about/jobs/terms-of-reference-short-term-legal-consultancy-in-bhutan"},
+    {"title": "GAN Integrity: Bhutan risk report", "url": "https://ganintegrity.com/country-profiles/bhutan"},
+    {"title": "The Bhutanese: Proposed ICM Act amendments", "url": "https://thebhutanese.bt/?p=993"}
+  ],
+  "review_flags": [
+    "Population (approx. 0.79 million, 2024) not confirmed from a World Bank or NSB result within the search budget; source_url left empty for central fill.",
+    "No private investigator licensing regime identified; confirm with Bhutanese counsel.",
+    "ICM Act 2018 under review (GovTech, 2025) with stronger data protection planned; re-check for a new data protection law.",
+    "Beneficial ownership registry planned (2025 reforms); status and access rules unknown.",
+    "Anti-Corruption Act year (2011), AML/CFT statute and Royal Monetary Authority FIU role not directly confirmed in fetched sources; verify.",
+    "Gelephu Mindfulness City legal framework and court/arbitration arrangements not researched; mentioned only generally.",
+    "Ministry name for the Registrar of Companies inconsistent across sources (Ministry of Economic Affairs vs. Ministry of Industry, Commerce and Employment); left generic."
+  ],
+  "researched": "2026-11-04"
+}

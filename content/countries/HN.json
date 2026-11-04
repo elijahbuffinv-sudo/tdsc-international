@@ -1,0 +1,150 @@
+{
+  "cc": "HN",
+  "name": "Honduras",
+  "meta_description": "TDSC investigative consulting on Honduras: counterparty due diligence, beneficial ownership research, supply chain and asset inquiries, coordinated lawfully.",
+  "eyebrow": "Republic of Honduras",
+  "hero_lede": "Investigative consulting for matters touching Honduras typically involves verifying counterparties in apparel, agriculture and energy, tracing ownership as a new beneficial ownership regime takes effect, and assessing corruption and organised-crime exposure. TDSC scopes the work from Nashville and coordinates qualified Honduran professionals where local inquiries are needed.",
+  "intro": [
+    "Honduras is a civil law jurisdiction whose commercial life is governed by the Código de Comercio and recorded in the Registro Mercantil. Public records exist but are fragmented, often paper-based outside Tegucigalpa and San Pedro Sula, and shareholder registers are kept by companies rather than published. The transparency framework is changing quickly: in June 2026 Congress unanimously approved the Ley de Transparencia y Registro Centralizado de Beneficiario Final, published in La Gaceta on 3 July 2026 as Decreto 127-2026. It creates a confidential beneficial ownership register administered by the Comisión Nacional de Bancos y Seguros and abolishes bearer shares, but implementing regulations and registration timetables were still being put in place as of late 2026.",
+    "Organisations commission work involving Honduras because of its close commercial ties to the United States and its risk profile. The maquila sector around San Pedro Sula supplies apparel and auto-parts to US brands, which need supplier ownership, labour and compliance checks. Coffee, bananas, palm oil, shrimp and mining attract buyers and lenders who must confirm counterparties and land rights. Energy and infrastructure concessions raise questions about politically exposed persons and procurement. Lenders and litigants pursue assets after defaults, and compliance teams assess exposure to corruption, money laundering and drug-trafficking networks that have featured in Honduran and US prosecutions."
+  ],
+  "population": {
+    "value": "approximately 10.8 million (estimate)",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Honduras has a civil law system based on the 1982 Constitution and codified law, including the Civil Code and the Código de Comercio. Commercial disputes are heard by first-instance courts (Juzgados de Letras), with appeals to the Cortes de Apelaciones and final review by the Corte Suprema de Justicia, whose Constitutional Chamber hears amparo and constitutional challenges. There is no separate national commercial court. Arbitration is used for commercial contracts, with chamber-of-commerce arbitration centres in Tegucigalpa and San Pedro Sula. Proceedings are conducted in Spanish, and foreign documents need certified translation.",
+  "data_protection": {
+    "law": "No comprehensive data protection law as of 2025; Constitution (1982) Articles 76 and 182 (habeas data) and Ley de Transparencia y Acceso a la Información Pública (Decreto 170-2006)",
+    "regulator": "Instituto de Acceso a la Información Pública (IAIP)",
+    "summary": "Honduras has not enacted a comprehensive personal data protection law; drafts prepared by the IAIP since 2014 have not, on the sources reviewed, become law. Protection rests on the constitutional rights to privacy and habeas data, the Transparency Law, the Civil Registry Law and IAIP rules requiring consent before confidential personal data in covered databases is used. Individuals and companies may not transfer, sell or give access to personal data from databases compiled in their work without the data subject's express written consent, subject to exceptions such as court orders. There is no breach-notification duty. For investigative work, this means relying on lawful public sources, avoiding purchased databases of uncertain origin, and documenting consent or another legal basis."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing statute for private investigators in Honduras in the sources reviewed for this page. Private security companies operate under supervision of the security authorities, and investigative work that resembles policing, surveillance or interception of communications carries legal risk; interception is reserved to the state under judicial control. Access to criminal, migration, tax and banking records is restricted to authorities. For these reasons TDSC scopes Honduran field inquiries with Honduran counsel and coordinates only qualified, appropriately authorised local professionals, confirming the applicable regulatory position before any work on the ground begins.",
+  "corporate_records": "Companies are constituted by notarial deed and registered with the Registro Mercantil under the Código de Comercio; the registry file records the company's deed, domicile, directors and powers of attorney, and is searchable on request, though digitisation varies by registry. The register of shareholders is kept at the company's office and is not public. Beneficial ownership will be held in the Registro Centralizado de Beneficiarios Finales under Decreto 127-2026, administered by the CNBS; it is confidential, with access for the Ministerio Público and the state procurement authority ONCAE for defined purposes. Property records are maintained through the Instituto de la Propiedad.",
+  "anti_corruption": "Honduras's anti-money laundering framework is built on its special law against money laundering, supervised through the CNBS and its financial intelligence unit, and was reinforced in 2026 by the beneficial ownership law, which ties the regime to FATF and GAFILAT standards and introduces fines of 20 to 500 minimum wages. Corruption cases are prosecuted by the Ministerio Público, including its specialised unit against corruption networks (UFERCO), while the Tribunal Superior de Cuentas audits public funds. Enforcement has been uneven and politically contested.",
+  "matters": [
+    {
+      "title": "Maquila supplier ownership checks",
+      "text": "Confirming who owns and controls apparel, textile and wire-harness suppliers in the San Pedro Sula and Choloma corridor, their litigation and labour history, and links to politically exposed persons, for US brands managing customs, forced-labour and reputational obligations."
+    },
+    {
+      "title": "Agribusiness and land title diligence",
+      "text": "Verifying counterparties, land holdings and title history for coffee, palm oil, banana and shrimp operations, including agrarian disputes in regions such as the Bajo Aguán, before buyers, impact investors or lenders commit capital."
+    },
+    {
+      "title": "Energy and concession counterparties",
+      "text": "Background research on sponsors, local partners and intermediaries in renewable energy, transmission and infrastructure concessions, where procurement controversies, contract renegotiations and political exposure have affected investors and lenders."
+    },
+    {
+      "title": "Asset tracing after default",
+      "text": "Identifying property, vehicles, companies and business interests connected to Honduran debtors, using Registro Mercantil and property records, and coordinating with Honduran counsel on precautionary measures and enforcement of foreign judgments or awards."
+    },
+    {
+      "title": "Illicit finance exposure reviews",
+      "text": "Assessing whether counterparties, distributors or acquisition targets have links to money laundering or drug-trafficking networks named in Honduran or US proceedings, using court records, sanctions screening and open sources, for banks and corporates with Central American exposure."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Spanish; English common in Bay Islands and among exporters"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Tegucigalpa, UTC-6, no daylight saving time"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; some offices open Saturday morning"
+    },
+    {
+      "label": "Currency",
+      "value": "Honduran lempira (HNL)"
+    },
+    {
+      "label": "Courts language",
+      "value": "Spanish; certified translation required"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Tegucigalpa, San Pedro Sula, La Ceiba, Puerto Cortés, Choloma"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Notarial deeds central to corporate acts; legalised and translated foreign documents"
+    },
+    {
+      "label": "Business culture note",
+      "value": "Formal, relationship-driven; in-person meetings carry weight"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Honduras engagements from Nashville and starts with a jurisdictional review: what records exist, which are public, and what the absence of a comprehensive data protection law does and does not permit. Work is built on lawful sources, including Registro Mercantil and property filings, published court decisions, procurement records, media archives and sanctions lists, and on records in the United States and other connected jurisdictions. We do not use purchased personal databases of uncertain origin or claim access to the confidential beneficial ownership register. Where interviews, site visits or record retrieval in Honduras are needed, we coordinate qualified local professionals and Honduran counsel. Security conditions in some areas are factored into planning, and personal data is minimised and held securely.",
+  "faqs": [
+    {
+      "q": "Will the new Honduran beneficial ownership register be public?",
+      "a": "No. Decreto 127-2026, published in July 2026, makes the Registro Centralizado de Beneficiarios Finales a confidential database administered by the CNBS. Access is reserved to bodies such as the Ministerio Público and the procurement authority ONCAE for defined purposes. Private parties will still need to establish ownership through registry filings, other records or court-ordered disclosure."
+    },
+    {
+      "q": "Does Honduras have a data protection law?",
+      "a": "Not a comprehensive one, on the sources reviewed as of 2025. Privacy rests on the 1982 Constitution, including habeas data, the Transparency Law of 2006 and IAIP rules, which restrict transfer of personal data from compiled databases without written consent. Draft legislation has been discussed for years, so the position should be rechecked before each engagement."
+    },
+    {
+      "q": "Are bearer shares still used in Honduran companies?",
+      "a": "The 2026 beneficial ownership law abolishes them. Companies were given six months to convert bearer shares into registered shares, after which unconverted bearer shares lose legal value. Older ownership chains may still reflect bearer instruments, so historical structures sometimes need to be reconstructed from deeds, minutes and other records."
+    },
+    {
+      "q": "Can TDSC conduct surveillance in Honduras?",
+      "a": "TDSC does not conduct surveillance itself in Honduras and does not intercept communications, which is reserved to the state under judicial control. Where observation or field inquiries are lawful and justified, they are carried out only by qualified local professionals coordinated through Honduran counsel, with the security environment and the client's evidential needs assessed first."
+    },
+    {
+      "q": "How reliable are Honduran company records?",
+      "a": "They record legal formation, directors and powers of attorney reasonably well, but shareholder registers are kept privately and digitisation varies by registry. Cross-checking against notarial deeds, procurement filings, court records, customs data and media reporting is usually necessary to build a reliable ownership and control picture."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Honduras",
+      "url": "https://www.dlapiperdataprotection.com/index.html?c=HN&t=law"
+    },
+    {
+      "title": "ECIJA: Sobre el horizonte de la normativa de protección de datos en Honduras",
+      "url": "https://www.ecija.com/actualidad-insights/sobre-el-horizonte-de-la-normativa-de-proteccion-de-datos-en-honduras/"
+    },
+    {
+      "title": "IAIP: Ley de Protección de Datos Personales (draft text)",
+      "url": "https://cei.iaip.gob.hn/doc/Ley de Proteccion de Datos Personales.pdf"
+    },
+    {
+      "title": "Chambers: Honduras approves transparency and centralized beneficial ownership registry law",
+      "url": "https://chambers.com/articles/honduras-approves-transparency-and-centralized-beneficial-ownership-registry-law"
+    },
+    {
+      "title": "La Prensa: Ley de Beneficiarios Finales entra en vigor; CNBS tiene 60 días para reglamentarla",
+      "url": "https://www.laprensa.hn/portada/ley-beneficiarios-finales-honduras-cnbs-reglamento-registro-FE31353710"
+    },
+    {
+      "title": "El Heraldo: Aprobada por unanimidad ley contra el lavado de activos en Honduras",
+      "url": "https://www.elheraldo.hn/honduras/aprobada-por-unanimidad-ley-contra-lavado-activos-honduras-GB31129825"
+    },
+    {
+      "title": "Tribunal Superior de Cuentas: Decreto 127-2026",
+      "url": "https://tsc.gob.hn/web/leyes/Decreto-127-2026.pdf"
+    },
+    {
+      "title": "Expanship: Incorporation requirements in Honduras",
+      "url": "https://www.expanship.com/hn/blog/incorporation-requirements-in-honduras"
+    },
+    {
+      "title": "El Heraldo: UFERCO facultada para secuestrar documentos de empresas privadas",
+      "url": "https://www.elheraldo.hn/honduras/uferco-esta-facultada-secuestrar-documentos-empresas-privadas-honduras-JE8723830"
+    }
+  ],
+  "review_flags": [
+    "Population has no source (no World Bank/INE result surfaced within the search budget); 10.8 million is an estimate and needs an official citation.",
+    "Beneficial ownership regime is brand new (Decreto 127-2026, La Gaceta 3 July 2026); CNBS regulations and registration start dates were pending. Recheck before publishing.",
+    "Data protection: DLA Piper (Feb 2025) shows no comprehensive law; confirm no law was enacted in 2025-2026.",
+    "Private investigator licensing: no dedicated regime identified and the reference to private security supervision by security authorities was not verified against a source.",
+    "Anti-corruption: the 2014 special AML law, its decree number and the financial intelligence unit's placement within CNBS were not verified in this session; legal-system and arbitration-centre details rest on general knowledge."
+  ],
+  "researched": "2026-11-04"
+}

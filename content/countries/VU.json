@@ -1,0 +1,147 @@
+{
+  "cc": "VU",
+  "name": "Vanuatu",
+  "meta_description": "TDSC investigative consulting on Vanuatu: international company ownership research, investment citizenship due diligence, AML context and local coordination.",
+  "eyebrow": "Republic of Vanuatu",
+  "hero_lede": "Investigative consulting for matters touching Vanuatu usually concerns entities and individuals rather than local operations: international companies whose owners are held by registered agents, holders of investment-based citizenship, and counterparties in a small Pacific economy with a new data protection law and limited public records.",
+  "intro": [
+    "Vanuatu combines a small domestic economy with a long-established offshore financial sector, and investigators need to understand both. The Vanuatu Financial Services Commission (VFSC) registers companies and acts as Registrar, but for international companies formed under the International Companies Act of 1992, details of directors, shareholders and beneficial owners are held by licensed registered agents rather than filed publicly, and unauthorised disclosure of ownership details is an offence. Anti-money laundering obligations sit in the AML and CTF Act No. 13 of 2014, overseen by the Financial Intelligence Unit. A Data Protection and Privacy Act took effect on 1 February 2025, adding a further layer to how personal information may be gathered and used.",
+    "Most organisations commission work involving Vanuatu because a counterparty, asset or individual has a Vanuatu connection rather than because of business conducted in Port Vila. Banks, exchanges and payment firms screen Vanuatu-registered companies and licensees; law firms trace assets held through international companies; and employers, financial institutions and immigration-sensitive organisations review individuals who obtained citizenship through the investment programme, which has drawn international scrutiny, including European Union concern over visa-free travel. Locally, tourism, agriculture, construction and aid-funded infrastructure create more conventional due diligence needs, and land matters raise questions of customary ownership and leasing that require specialist local input."
+  ],
+  "population": {
+    "value": "approximately 300,000 (2020 National Population and Housing Census; not verified against a source in this batch)",
+    "year": "2020",
+    "source_url": ""
+  },
+  "legal_system": "Vanuatu has a mixed legal system reflecting its history as an Anglo-French condominium: English common law and French law principles in force at independence in 1980 continue to apply where not inconsistent with the Constitution or later statute, and customary law is recognised, particularly for land. The court structure includes Magistrates' Courts, Island Courts, the Supreme Court and the Court of Appeal. Commercial disputes are heard in the Supreme Court. Bislama, English and French are all official languages, and legislation is published in English and French.",
+  "data_protection": {
+    "law": "Data Protection and Privacy Act No. 13 of 2024 (in effect from 1 February 2025), following the National Data Protection and Privacy Policy (2023)",
+    "regulator": "Digital Safety Authority (established by the Digital Safety Authority Act No. 15 of 2024; reported as not yet operational)",
+    "summary": "Vanuatu's Data Protection and Privacy Act took effect on 1 February 2025, but the Digital Safety Authority intended to oversee it has been reported as not yet operational. The 2023 national policy that preceded the Act sets out GDPR-style principles, including lawful and fair processing, purpose limitation, minimisation and breach notification, extends to processing outside Vanuatu of data about people there, and states that data collected in Vanuatu should not be transferred abroad without proper authorisation. Investigative work involving Vanuatu residents should therefore document its lawful basis and plan cross-border transfers carefully while enforcement practice develops."
+  },
+  "investigator_regulation": "We have not identified, from the sources reviewed for this page, a dedicated licensing regime for private investigators in Vanuatu. TDSC does not treat that as an absence of rules. The Data Protection and Privacy Act governs the collection and use of personal information, criminal law constrains surveillance and recording, and the International Companies Act makes unauthorised disclosure of company ownership details an offence, which rules out obtaining such information informally from agents or insiders. Access to government records is limited to authorised bodies. Any local field activity is reviewed in advance with Vanuatu counsel and carried out by appropriately qualified local professionals.",
+  "corporate_records": "The Vanuatu Financial Services Commission maintains the companies registry, with an online entity search, and its Commissioner acts as Registrar of Companies. Domestic companies fall under the Companies Act and must keep registers of directors and shareholders at their registered office. International companies under the International Companies Act No. 32 of 1992 must use a VFSC-licensed registered agent, which holds director, shareholder and beneficial owner details; these are not filed publicly. No central public beneficial ownership register has been identified as of 2026, and foreign law enforcement access generally requires mutual legal assistance and a Supreme Court order. Land records involve customary ownership and leases.",
+  "anti_corruption": "Vanuatu's AML framework rests on the Anti-Money Laundering and Counter-Terrorism Financing Act No. 13 of 2014, which replaced the Financial Transaction Reporting Act; the Financial Intelligence Unit within the State Law Office receives reports and supervises compliance, and an amendment bill was before Parliament in 2026. The Office of the Ombudsman has assessed leaders' annual returns since 2020 and addresses leadership conduct, while the National Audit Office reviews public spending. A promised dedicated anti-corruption agency had not begun operating as of 2023.",
+  "matters": [
+    {
+      "title": "International company ownership research",
+      "text": "Building the clearest lawful picture of who stands behind a Vanuatu international company when ownership records sit with registered agents and are not public, combining VFSC registry data, litigation, regulatory actions, foreign filings and open sources, and identifying where formal legal process would be required."
+    },
+    {
+      "title": "Investment citizenship background reviews",
+      "text": "Background and adverse media research on individuals holding Vanuatu citizenship obtained through investment programmes, for banks, employers and counterparties assessing identity, prior names, nationality history, sanctions exposure and reputational risk, a programme that has attracted EU and international scrutiny."
+    },
+    {
+      "title": "Licensed financial entity screening",
+      "text": "Due diligence on Vanuatu-licensed dealers, brokers, payment and virtual asset businesses before onboarding or partnership, checking VFSC licensing status, regulatory history, principals, related entities in other jurisdictions and complaints or enforcement actions reported in public sources."
+    },
+    {
+      "title": "Cross-border asset tracing",
+      "text": "Supporting counsel in fraud and enforcement matters where assets are suspected to be held through Vanuatu entities, mapping connected companies and individuals across Australia, New Zealand, Asia and other financial centres, and advising on where Vanuatu court orders may be needed."
+    },
+    {
+      "title": "Local partner and project due diligence",
+      "text": "Integrity and reputation checks on construction contractors, tourism operators, agricultural exporters and implementing partners on aid-funded infrastructure in Port Vila and Luganville, including land lease questions where customary ownership affects the security of a proposed investment."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official languages",
+      "value": "Bislama, English and French"
+    },
+    {
+      "label": "Time zone",
+      "value": "Pacific/Efate, UTC+11, no daylight saving"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Vanuatu vatu (VUV)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Port Vila (Efate) and Luganville (Espiritu Santo)"
+    },
+    {
+      "label": "Company registry",
+      "value": "Vanuatu Financial Services Commission (VFSC)"
+    },
+    {
+      "label": "Land",
+      "value": "Customary ownership; investors typically hold leases"
+    },
+    {
+      "label": "Practical note",
+      "value": "Island geography and limited records online mean in-person retrieval takes time"
+    }
+  ],
+  "tdsc_approach": "TDSC handles matters touching Vanuatu from Nashville through scoped consulting engagements. Because ownership of international companies is held confidentially by registered agents and unauthorised disclosure is an offence, scoping sets realistic expectations at the outset: what can be established from VFSC registry data, regulatory records, court material and open sources, and what would require disclosure through formal legal process led by counsel. Many Vanuatu matters are really multi-jurisdictional, so TDSC plans parallel research where subjects have links to Australia, Asia or other financial centres. Where local document retrieval or enquiries are needed, TDSC coordinates qualified local professionals and works with Vanuatu counsel. Personal data is handled with the Data Protection and Privacy Act and its transfer principles in view.",
+  "faqs": [
+    {
+      "q": "Can TDSC find out who owns a Vanuatu international company?",
+      "a": "Sometimes, but not from a public register. Director, shareholder and beneficial owner details of international companies are held by licensed registered agents, and unauthorised disclosure is an offence. TDSC uses lawful sources such as litigation, regulatory actions, foreign filings and media, and tells clients when only court-ordered disclosure would answer the question."
+    },
+    {
+      "q": "Does Vanuatu have a data protection law now?",
+      "a": "Yes. The Data Protection and Privacy Act No. 13 of 2024 took effect on 1 February 2025. The Digital Safety Authority created to oversee it has been reported as not yet operational, so enforcement practice is still developing. TDSC treats the Act and its policy principles, including limits on cross-border transfers, as applicable from the outset."
+    },
+    {
+      "q": "Why do banks commission reviews of Vanuatu citizens by investment?",
+      "a": "Vanuatu's investment citizenship programme has drawn international scrutiny, including European Union concern over visa-free access and reported limits on vetting capacity. Financial institutions and counterparties therefore look more closely at identity history, prior nationalities, sanctions and adverse media for holders of such passports, using lawful sources across every relevant jurisdiction."
+    },
+    {
+      "q": "Who supervises anti-money laundering compliance in Vanuatu?",
+      "a": "The Financial Intelligence Unit, located within the State Law Office, receives suspicious transaction reports and examines financial institutions for compliance under the AML and CTF Act No. 13 of 2014. The Vanuatu Financial Services Commission licenses and supervises company service providers and registered agents. An amendment bill to the AML Act was before Parliament in 2026."
+    },
+    {
+      "q": "How are land interests checked in Vanuatu?",
+      "a": "Land in Vanuatu is customarily owned, and investors generally hold registered leases rather than freehold. Checking a proposed land-based investment therefore involves confirming the lease, its terms and any disputes over custom ownership, which usually requires in-person work by local professionals and advice from Vanuatu counsel."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Morrison Foerster Privacy Library: Vanuatu",
+      "url": "https://www.mofo.com/privacy-library/vanuatu"
+    },
+    {
+      "title": "Digital Watch: Vanuatu's national data protection and privacy policy (2023)",
+      "url": "https://dig.watch/?p=222915"
+    },
+    {
+      "title": "Business Data Guide: Vanuatu company search guide",
+      "url": "https://businessdataguide.com/blog/jurisdictions/vanuatu-company-search-guide"
+    },
+    {
+      "title": "Expanship: Vanuatu beneficial ownership",
+      "url": "https://www.expanship.com/vu/blog/vanuatu-beneficial-ownership"
+    },
+    {
+      "title": "Vanuatu Financial Intelligence Unit: About",
+      "url": "https://fiu.gov.vu/about"
+    },
+    {
+      "title": "Anti-Money Laundering and Counter-Terrorism Financing Act No. 13 of 2014 (VFSC copy)",
+      "url": "https://www.vfsc.vu/wp-content/uploads/2026/02/Anti-Money-Laundering-and-Counter-Terrorism-Financing-Act-No.-13-of-2014.pdf"
+    },
+    {
+      "title": "Devpolicy Blog: Good governance, corruption and integrity in Vanuatu (2023)",
+      "url": "https://devpolicy.org/good-governance-corruption-and-integrity-in-vanuatu-20230405/?output=pdf"
+    },
+    {
+      "title": "Parliament of Vanuatu: Bill for the Anti-Money Laundering and Counter Terrorism Financing (Amendment) Act 2026",
+      "url": "https://parliament.gov.vu/images/2026/First%20Ordinary%20Session/M.Bill%20for%20the%20Anti-Money%20Laundering%20%20Counter%20Terrorism%20Financing%20Am%20Act%20No.%20of%202026.pdf"
+    }
+  ],
+  "review_flags": [
+    "BLOCKING: population source_url is empty. ~300,000 (2020 census) is from general knowledge, not a source found in this batch; add VBoS or World Bank citation before publishing.",
+    "Digital Safety Authority reported 'not yet operational' (MoFo, undated); Data Protection and Privacy Act 2024 text not reviewed directly - cross-border rules described from the 2023 policy, not the Act.",
+    "No source found on private investigator licensing in Vanuatu.",
+    "Legal system/court structure (mixed common law, French law, custom; Island Courts) and customary land/lease description stated from general knowledge, not source-verified this batch.",
+    "AML amendment bill 2026 known only from its title in search results; outcome not checked. Leadership Code legislation not named because not verified.",
+    "Citizenship-by-investment / EU visa-free concerns cited from a 2023 article; EU status may have changed since."
+  ],
+  "researched": "2026-11-04"
+}

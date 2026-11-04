@@ -1,0 +1,146 @@
+{
+  "cc": "UG",
+  "name": "Uganda",
+  "meta_description": "TDSC investigative consulting on Uganda: URSB company and beneficial ownership records, PDPO data rules and counterparty checks in oil, gold and coffee trade.",
+  "eyebrow": "Republic of Uganda",
+  "hero_lede": "Matters involving Uganda often concern the Lake Albert oil projects and their supply chains, gold and coffee exports, and Kampala companies trading into South Sudan, the DRC and Rwanda. TDSC scopes counterparty research, integrity due diligence and asset inquiries from Nashville, coordinating qualified Ugandan professionals and counsel.",
+  "intro": [
+    "Uganda is a common-law jurisdiction whose English-language statutes and case law are accessible to foreign counsel, with a Commercial Division of the High Court in Kampala. Since 2022, amendments to the Companies Act and related laws have required companies, partnerships, trusts and cooperatives to declare all beneficial owners, without a percentage threshold, to the Uganda Registration Services Bureau. The Data Protection and Privacy Act of 2019 and its 2021 Regulations require anyone handling personal data of Ugandans to register with the Personal Data Protection Office. For investigators, the environment combines usable registries with gaps in compliance and verification, so filings are checked against court records, media and discreet local inquiry.",
+    "Organisations commission work involving Uganda because of oil development in the Albertine Graben and the associated export pipeline, its role as a major coffee exporter, a significant gold trade, and Kampala's position as a commercial gateway to neighbouring markets in East and Central Africa. Typical exposures include vetting of local content suppliers and contractors on energy and infrastructure projects, the origin of gold and other minerals passing through Ugandan traders, agricultural export counterparties, public procurement, and fraud involving mobile money, land or trade finance. Development finance institutions and NGOs also commission integrity checks on implementing partners and grantees."
+  ],
+  "population": {
+    "value": "45.9 million (2024 census)",
+    "year": "2024",
+    "source_url": ""
+  },
+  "legal_system": "Uganda has a common-law system inherited from English law, with the 1995 Constitution as supreme law and statutes, case law and, in personal matters, customary law beneath it. The superior courts are the Supreme Court, the Court of Appeal (which also sits as the Constitutional Court) and the High Court. Commercial disputes are commonly heard by the Commercial Division of the High Court in Kampala, and the High Court also has a specialised Anti-Corruption Division. Arbitration is governed by the Arbitration and Conciliation Act, with institutional arbitration available in Kampala.",
+  "data_protection": {
+    "law": "Data Protection and Privacy Act, 2019 (Cap. 97), and Data Protection and Privacy Regulations, 2021",
+    "regulator": "Personal Data Protection Office (PDPO), operating under the National Information Technology Authority-Uganda (NITA-U)",
+    "summary": "The Act applies to anyone collecting or processing personal data in Uganda, and to those abroad handling the data of Ugandan citizens, who must register with the PDPO. Informed consent before collection is the central requirement, data should generally be collected directly from the data subject, and special personal data such as financial, health and political information may be processed only where the law permits. Data may be stored or processed outside Uganda only where the destination offers equivalent protection or the data subject consents. Breaches must be notified to the PDPO immediately. Investigative work that gathers information on Ugandan individuals therefore requires careful scoping with counsel."
+  },
+  "investigator_regulation": "We have not confirmed, from sources verified for this page, whether private investigators in Uganda are subject to a dedicated licensing regime or are treated within the framework for private security organisations supervised by the police; the position should be confirmed with Ugandan counsel before local inquiries begin. Several limits are clear. The Data Protection and Privacy Act generally requires consent and direct collection of personal data. The Regulation of Interception of Communications Act reserves interception to authorised state bodies, and the Computer Misuse Act penalises unauthorised access to systems and data. Bank, telecommunications, tax and immigration records are not available to private inquirers.",
+  "corporate_records": "Companies are registered with the Uganda Registration Services Bureau (URSB) under the Companies Act, 2012. Registry searches can establish incorporation details, directors, shareholders and filed documents. The Companies (Amendment) Act, 2022 and the Companies (Beneficial Owners) Regulations, 2023 require every company to keep a register of all beneficial owners and file it with URSB, with no ownership threshold. As of 2025 the beneficial ownership register was accessible to oversight bodies but not to the public, compliance remained incomplete and filings were not independently verified. Land records, including mailo and freehold titles, are held by the Ministry of Lands registry and require careful searching.",
+  "anti_corruption": "The principal statute is the Anti-Corruption Act of 2009, which criminalises bribery, embezzlement, abuse of office and related offences. The Inspectorate of Government investigates and prosecutes corruption by public officers, alongside the Director of Public Prosecutions, and cases are heard by the Anti-Corruption Division of the High Court. Money laundering is governed by the Anti-Money Laundering Act, 2013, amended in 2022, with the Financial Intelligence Authority receiving reports and supervising compliance; beneficial ownership duties extend across companies, partnerships, trusts and cooperatives.",
+  "matters": [
+    {
+      "title": "Oil sector supplier vetting",
+      "text": "Background research on local content suppliers, contractors and intermediaries serving the Albertine oil projects and pipeline, examining ownership, beneficial owners declared to URSB, links to officials, contracting history and disputes, before subcontracts, joint ventures or financing arrangements are concluded."
+    },
+    {
+      "title": "Gold origin and trader due diligence",
+      "text": "Research into gold dealers, refiners and exporters operating in or through Uganda, their licensing, ownership and trading partners, and reporting on cross-border flows from neighbouring countries, for buyers, banks and refiners who must evidence lawful origin and manage sanctions and money laundering risk."
+    },
+    {
+      "title": "Coffee and agricultural exporters",
+      "text": "Verification of coffee, cocoa and grain exporters and processors, covering corporate identity, ownership, export track record and litigation, for buyers, roasters and trade financiers extending prepayment or credit, and for companies assessing supply-chain claims made by Ugandan counterparties."
+    },
+    {
+      "title": "Grantee and partner integrity checks",
+      "text": "Integrity due diligence on implementing partners, contractors and grantees for development finance institutions, foundations and NGOs, testing registration, governance, beneficial ownership and reputation, and identifying conflicts of interest or adverse history before funds are disbursed in Uganda."
+    },
+    {
+      "title": "Fraud and asset research",
+      "text": "Research supporting investigation of trade finance, land or mobile money fraud, and identification of companies, titles and business interests linked to a Ugandan debtor or former partner, coordinated with Ugandan counsel so that recovery proceeds through the Commercial Division and other lawful channels."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "English (official, used in business and courts); Swahili also official; Luganda widely spoken in Kampala"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Kampala, UTC+3, no daylight saving time"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Courts language",
+      "value": "English"
+    },
+    {
+      "label": "Currency",
+      "value": "Ugandan shilling (UGX)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Kampala, Entebbe, Jinja, Mbarara, Hoima"
+    },
+    {
+      "label": "Business culture",
+      "value": "Courteous and relationship-based; formal greetings and introductions through trusted contacts matter"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Certified registry printouts and commissioned affidavits are common; foreign documents may need notarisation and legalisation"
+    }
+  ],
+  "tdsc_approach": "TDSC begins each Uganda matter by defining its purpose, the parties and how findings may be used, including in the Commercial Division, arbitration or foreign proceedings. Desk research uses URSB records, the Uganda Gazette, court reporting, procurement notices and Kampala media. Because the Data Protection and Privacy Act applies to those abroad handling Ugandan citizens' data and favours consent and direct collection, TDSC minimises personal data, documents its sources and agrees handling with the client's Ugandan counsel. Beneficial ownership filings are treated as declarations to be tested, not as verified fact. Where land searches, court file retrieval or field inquiries in Kampala or the oil region are needed, TDSC coordinates qualified Ugandan professionals. It does not seek bank, telecommunications, tax or immigration data informally.",
+  "faqs": [
+    {
+      "q": "Can we see the beneficial owners of a Ugandan company?",
+      "a": "Not directly from a public register at present. Since 2022 every company must file all beneficial owners with URSB, but as of 2025 that register was open to oversight bodies rather than the public. Shareholders and directors appear in URSB filings, and ownership is further tested through litigation, procurement records, media and local inquiry."
+    },
+    {
+      "q": "Does Uganda's data protection law apply to a foreign client?",
+      "a": "It can. The Data Protection and Privacy Act, 2019 applies to persons outside Uganda who collect or process personal data of Ugandan citizens, and the 2021 Regulations require registration with the Personal Data Protection Office. Whether a given engagement triggers these duties should be confirmed with Ugandan counsel at the scoping stage."
+    },
+    {
+      "q": "What checks matter most for gold sourced through Uganda?",
+      "a": "Key questions are whether the seller holds the required licences, who owns and controls it, where the gold was mined and how it crossed borders, and whether the trader or its partners appear in enforcement or sanctions reporting. Documentary claims are tested against public records and, where needed, inquiries through qualified local professionals."
+    },
+    {
+      "q": "How reliable are land records in Uganda?",
+      "a": "They require care. Uganda has several tenure systems, including mailo, freehold, leasehold and customary land, and title searches at the Ministry of Lands registry may not reveal every occupant's interest or pending dispute. Research combines registry searches with court checks and, where appropriate, on-site inquiries conducted through local professionals and counsel."
+    },
+    {
+      "q": "Which bodies deal with corruption in Uganda?",
+      "a": "The Inspectorate of Government investigates and prosecutes corruption by public officers, the Director of Public Prosecutions handles other prosecutions, and the Anti-Corruption Division of the High Court hears cases. The Financial Intelligence Authority receives suspicious transaction reports. Whether and how a client reports concerns is a decision taken with Ugandan counsel."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Uganda",
+      "url": "https://www.dlapiperdataprotection.com/index.html?t=law&c=UG"
+    },
+    {
+      "title": "Data Protection and Privacy Act, 2019 (ULII)",
+      "url": "https://ulii.org/en/akn/ug/act/2019/9/eng@2019-05-03"
+    },
+    {
+      "title": "DLA Piper Africa: Beneficial ownership requirements for companies in Uganda",
+      "url": "https://dlapiperafrica.com/en/uganda/insights/2023/beneficial-ownership-in-Uganda-.html"
+    },
+    {
+      "title": "The Observer: Secret owners of Uganda's state deals exposed (August 2025)",
+      "url": "https://observer.ug/news/secret-owners-of-ugandas-state-deals-exposed/"
+    },
+    {
+      "title": "Financial Intelligence Authority: The six new bills passed by Parliament addressing the FATF Recommendations",
+      "url": "https://www.fia.go.ug/sites/default/files/The%20Six%20New%20Bills%20Passed%20by%20Parliament%20addressing%20the%20FATF%20Recommendations..pdf"
+    },
+    {
+      "title": "Chambers: Uganda's removal from FATF grey list",
+      "url": "https://chambers.com/articles/ugandas-removal-from-fatf-grey-list-a-win-in-anti-money-laundering-efforts-2"
+    },
+    {
+      "title": "Unwanted Witness: Statement on the 2024 Population Census",
+      "url": "https://www.unwantedwitness.org/download/statements/UW-Statement-on-2024-Population-Census.pdf"
+    },
+    {
+      "title": "Uganda Bureau of Statistics (UBOS)",
+      "url": "https://www.ubos.org/"
+    }
+  ],
+  "review_flags": [
+    "Population NOT verified this session: 45.9 million (May 2024 census) is from general knowledge; UBOS URL cited unfetched. Verify the final census figure.",
+    "Private investigator regulation not verified (possible coverage under police-supervised private security organisation rules); text says so.",
+    "Anti-corruption paragraph (Anti-Corruption Act 2009, Inspectorate of Government, DPP, Anti-Corruption Division) and legal-system details (Commercial Division, Arbitration and Conciliation Act) are from general knowledge, not fetched sources. Laws were renumbered in the 2023 revised edition (e.g., DPPA is now Cap. 97); other Cap. numbers omitted.",
+    "Beneficial ownership register non-public status is based on an August 2025 press report; calls to open it may have succeeded since.",
+    "Land registry description (Ministry of Lands, tenure types) is general knowledge."
+  ],
+  "researched": "2026-11-04"
+}

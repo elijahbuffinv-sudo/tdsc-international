@@ -1,0 +1,97 @@
+{
+  "cc": "CG",
+  "name": "Congo (Republic of the Congo)",
+  "meta_description": "TDSC investigative consulting on the Republic of the Congo: oil-sector due diligence, RCCM company records, asset tracing and coordinated local inquiries.",
+  "eyebrow": "Republic of the Congo",
+  "hero_lede": "Matters touching the Republic of the Congo usually involve oil and its service chain, state-linked counterparties, forestry or infrastructure. Investigative consulting here means working in French under OHADA business law, with paper-based company records, no public beneficial ownership register and a 2019 data protection law whose regulator is not yet established.",
+  "intro": [
+    "The Republic of the Congo, often called Congo-Brazzaville to distinguish it from its larger neighbour, is a French-speaking civil law state and a member of OHADA and of the Central African Economic and Monetary Community (CEMAC), using the CFA franc (XAF) issued by the Bank of Central African States. Business law follows the OHADA Uniform Acts, and companies are entered in the Registre du Commerce et du Crédit Mobilier (RCCM) kept by the commercial courts in Brazzaville and Pointe-Noire. Registry access is in person and in French, through local agents or counsel. Personal data is governed by Law No. 29-2019, although the national commission it provides for has not yet been created.",
+    "Hydrocarbons dominate the economy, providing roughly 70 per cent of government revenue and over 90 per cent of export earnings, with the national oil company SNPC at the centre of the sector. Organisations commission investigative work involving Congo when they contract with oil, oil-services and logistics companies around Pointe-Noire, take on state-linked counterparties or intermediaries, invest in forestry and infrastructure, or pursue claims arising from the country's high public debt. Corruption risk in procurement, customs and licensing is widely reported, and home-country laws such as the US FCPA and UK Bribery Act frequently drive the need for integrity due diligence."
+  ],
+  "population": {
+    "value": "around 6 million (estimate)",
+    "year": "2024",
+    "source_url": "https://businessdataguide.com/blog/jurisdictions/congo-company-search-guide"
+  },
+  "legal_system": "The Republic of the Congo has a civil law system in the French tradition. Commercial law is set largely by the OHADA Uniform Acts on general commercial law, companies, security interests, debt recovery, insolvency and arbitration, which apply directly. Commercial disputes are heard by the Tribunaux de commerce of Brazzaville and Pointe-Noire, with appeals to the courts of appeal and, for matters governed by OHADA law, cassation before the Common Court of Justice and Arbitration (CCJA) in Abidjan, which also administers arbitration. Contract enforcement is slow, estimated at around 560 days.",
+  "data_protection": {
+    "law": "Law No. 29-2019 of 10 October 2019 on the protection of personal data",
+    "regulator": "National Commission for Personal Data (provided for by law; not yet established as of 2024)",
+    "summary": "Law No. 29-2019 entered into force on 25 November 2020. It requires prior and explicit consent for processing, subject to exceptions such as legal obligation, public interest and contract performance, and treats data on offences and convictions, biometric and health data and several other categories as sensitive, some requiring prior authorisation. Processing must be notified to the National Commission, and transfers abroad are allowed only to states offering similar protection, with advance notice to the Commission. Because the Commission had not been established as of 2024, notification is in practice uncertain, but the substantive rules and criminal penalties still apply. Investigative work should be purpose-limited and avoid criminal record data unless lawfully obtained."
+  },
+  "investigator_regulation": "We have not identified a specific licensing regime for private investigators or detective agencies in the Republic of the Congo, nor a published register of licensed investigators. Field activity is nonetheless constrained by the Penal Code, privacy protections, Law No. 29-2019 on personal data, and restrictions on access to state, banking and judicial records. Data on offences and criminal convictions is sensitive under the 2019 law. Photography or inquiries near oil installations, ports and government sites can attract official attention. Any surveillance, recording or approach to witnesses should be cleared in advance with Congolese counsel.",
+  "corporate_records": "Companies are entered in the Registre du Commerce et du Crédit Mobilier under the OHADA Uniform Act on General Commercial Law, with registers kept at the Tribunal de commerce in Brazzaville and in Pointe-Noire; formation is handled through a single window. A certified RCCM extract typically shows name, registration number, legal form, registered address, activity, share capital, directors and, for SARLs, partners. We found no working public online search; requests are made in person, usually through a local agent or lawyer. Financial statements and beneficial ownership data are not part of the standard extract, and there is no public beneficial ownership register.",
+  "anti_corruption": "The Haute Autorité de Lutte contre la Corruption (HALC) is the national anti-corruption body; reports describe its enforcement capacity as limited. Money laundering and terrorist financing are governed by the CEMAC regional framework, and Congo is a member of GABAC, the Central African FATF-style regional body. Penal Code provisions address bribery and related offences. Foreign laws such as the US FCPA and UK Bribery Act often have greater practical weight for international counterparties.",
+  "matters": [
+    {
+      "title": "Oil and services counterparty diligence",
+      "text": "Ownership, reputation and political-exposure checks on oil-services, logistics and supply companies in Pointe-Noire seeking contracts or partnerships, including links to SNPC personnel or officials. Work focuses on RCCM extracts, litigation, media in French and discreet reputational inquiries."
+    },
+    {
+      "title": "Intermediary and agent screening",
+      "text": "Background inquiries on agents, consultants and introducers proposed for licensing, customs or procurement matters, where corruption risk is concentrated. The aim is to establish who the intermediary is, who owns it, and whether its compensation and connections are consistent with legitimate services."
+    },
+    {
+      "title": "Sovereign and quasi-sovereign debt matters",
+      "text": "Research supporting creditors and counsel in disputes involving the state or state-linked entities, including identification of commercial assets, revenue flows and related companies, framed for use by counsel in enforcement proceedings abroad."
+    },
+    {
+      "title": "Forestry and natural resource investments",
+      "text": "Due diligence on concession holders, timber exporters and their partners, covering ownership, regulatory history, community or environmental controversies and supply-chain exposure for buyers subject to import due diligence rules."
+    },
+    {
+      "title": "Infrastructure and construction disputes",
+      "text": "Background and asset work on contractors, subcontractors and project companies involved in public works and infrastructure, where payment arrears, abandoned projects and opaque subcontracting chains generate claims."
+    }
+  ],
+  "practical": [
+    {"label": "Official language", "value": "French; Lingala and Kituba widely spoken"},
+    {"label": "Currency", "value": "Central African CFA franc (XAF)"},
+    {"label": "Time zone", "value": "Africa/Brazzaville (UTC+1)"},
+    {"label": "Working week", "value": "Monday to Friday"},
+    {"label": "Main business centres", "value": "Brazzaville (capital) and Pointe-Noire (oil and port hub)"},
+    {"label": "Courts language", "value": "French"},
+    {"label": "Company records", "value": "RCCM extracts in person via commercial court registries"},
+    {"label": "Document formalities", "value": "French translations and certified copies usually required"}
+  ],
+  "tdsc_approach": "TDSC scopes Republic of the Congo matters from Nashville and starts by separating what can be answered from public and foreign records from what requires inquiries in Brazzaville or Pointe-Noire. Corporate questions begin with RCCM extracts and OHADA-law filings, obtained through local agents or counsel, and are tested against trade, litigation and sanctions-screening sources outside the country. Reputational and political-exposure work is carried out in French by qualified local professionals whom TDSC coordinates, with tightly defined scopes and no requests for restricted state, banking or criminal records. Personal data is handled on a documented purpose basis consistent with Law No. 29-2019 and the client's home-jurisdiction rules, with minimal transfer out of the country.",
+  "faqs": [
+    {
+      "q": "Can we get a company extract from the RCCM online?",
+      "a": "We found no working public online search as of 2026. RCCM extracts are requested in person at the commercial court registry in Brazzaville or Pointe-Noire, usually through a local agent or lawyer, and documents are in French. A certified extract typically shows directors, capital and activity, but not financial statements or beneficial owners."
+    },
+    {
+      "q": "Is there a data protection authority in Congo-Brazzaville?",
+      "a": "Law No. 29-2019 provides for a National Commission for Personal Data, but as of 2024 the separate law creating it had not been adopted. The law's substantive rules, including consent, sensitive data categories and conditions on transfers abroad, apply regardless, and breaches carry criminal penalties. We plan engagements as if notification and transfer rules were fully operational."
+    },
+    {
+      "q": "How do you approach corruption risk with Congolese counterparties?",
+      "a": "We focus on the points where risk concentrates: ownership by or links to officials, intermediaries in procurement and customs, and payments that do not match services. Work combines RCCM records, litigation and media research in French, foreign enforcement records and discreet reputational inquiries, producing findings that compliance teams can document under FCPA or Bribery Act standards."
+    },
+    {
+      "q": "Does OHADA law help in disputes involving Congolese companies?",
+      "a": "It provides a common framework for company law, security interests, debt recovery and arbitration, and a supranational court, the CCJA in Abidjan, for cassation and arbitration. Investigative work can support counsel by identifying assets, related companies and correct entity details across OHADA states. Strategy and enforcement remain matters for qualified counsel."
+    },
+    {
+      "q": "Do you have staff in Brazzaville or Pointe-Noire?",
+      "a": "No. TDSC works from Nashville and has no office, staff or address in the Republic of the Congo. Where an engagement requires registry visits, court file reviews or local inquiries, we coordinate qualified local professionals and work with the client's Congolese counsel under a written scope agreed in advance."
+    }
+  ],
+  "sources": [
+    {"title": "DLA Piper Data Protection Laws of the World: Republic of Congo", "url": "https://www.dlapiperdataprotection.com/?c=CG&t=law"},
+    {"title": "Journal officiel de la République du Congo, 2019 No. 45", "url": "https://www.sgg.cg/JO/2019/congo-jo-2019-45.pdf"},
+    {"title": "Clym: Law No. 29-2019 Congo", "url": "https://www.clym.io/regulations/law-no-29-2019-congo"},
+    {"title": "Business Data Guide: Congo (Republic of the Congo) company search guide", "url": "https://businessdataguide.com/blog/jurisdictions/congo-company-search-guide"},
+    {"title": "Expanship: Disadvantages of incorporating in the Republic of the Congo", "url": "https://www.expanship.com/cg/blog/disadvantages-of-incorporating-in-republic-of-the-congo"},
+    {"title": "OHADA: Apport de l'OHADA au droit des affaires congolais", "url": "https://www.ohada.com/uploads/actualite/633/apport-ohada-droit-des-affaires-congolais.pdf"},
+    {"title": "OHADA: Council of Ministers holds its 41st session in Brazzaville", "url": "https://www.ohada.org/en/the-council-of-ministers-of-ohada-holds-its-41st-session-in-brazzaville/"}
+  ],
+  "review_flags": [
+    "Population ('around 6 million') is from a secondary company-search guide, not World Bank or national statistics; replace with an official figure (World Bank 2024 is roughly 6.3 million).",
+    "National Commission for Personal Data not established as of DLA Piper's last update (draft law approved by Council of Ministers July 2024); check whether it has since been created.",
+    "Anti-corruption section: HALC's founding law/year, Congolese anti-corruption statute names, and the national FIU (ANIF) and CEMAC AML regulation number were not confirmed by an opened source, so they are described generically; verify before adding detail.",
+    "No PI licensing regime identified; confirm with Congolese counsel.",
+    "Economic figures (oil ~70% of revenue, >90% of exports; ~560 days to enforce a contract) come from a secondary source (Expanship) partly based on older Doing Business data."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,139 @@
+{
+  "cc": "VA",
+  "name": "Vatican City (Holy See)",
+  "meta_description": "TDSC investigative consulting on Vatican City and the Holy See: Church-related due diligence, donation integrity and fraud enquiries scoped with canonists.",
+  "eyebrow": "Vatican City State and Holy See",
+  "hero_lede": "Investigative consulting for matters touching Vatican City and the Holy See concerns an ecclesiastical sovereign with no commercial register, its own courts and financial supervisor, a 2024 data protection regulation, Church entities worldwide, and coordination with Vatican and Italian counsel and canon lawyers.",
+  "intro": [
+    "Vatican City State is the territorial base of the Holy See, the sovereign governing authority of the Catholic Church, and the two must be distinguished: the Holy See conducts diplomacy and Church governance, while the State administers the enclave in Rome. Canon law is the primary source of law, with Italian law applied only on a supplementary basis. There are no ordinary trading companies or public company register; the economically significant bodies are institutions such as the Institute for the Works of Religion (IOR) and the Administration of the Patrimony of the Apostolic See (APSA), supervised by the Supervisory and Financial Information Authority (ASIF). Financial governance has been reformed repeatedly since 2010.",
+    "Organisations commission investigative work touching the Vatican less because of trade with the enclave itself than because of the Holy See's global network of dioceses, religious orders, charities, universities and investment relationships. Typical exposures include due diligence on counterparties claiming Vatican connections or authority, fraud schemes that misuse the names of Vatican institutions, governance and financial misconduct in Church-related bodies, donor and grant integrity, and investment and property transactions involving Church assets. High-profile Vatican prosecutions over investment losses have made reputational and governance questions a recurring concern for lenders, asset managers and Catholic organisations working with Holy See entities."
+  ],
+  "population": {
+    "value": "about 1,000 (estimate)",
+    "year": "2024",
+    "source_url": "https://openfactbook.org/countries/holy-see-vatican-city/"
+  },
+  "legal_system": "Vatican City State has a legal system in which canon law is the first source of law, supplemented by papal and State legislation and, where not inconsistent with canon law, divine law or treaties, Italian law received under the Law on the Sources of Law. Civil and criminal matters are heard by a single judge, the Tribunal of Vatican City State, the Court of Appeal and the Court of Cassation, with the Office of the Promoter of Justice acting as prosecutor. Ecclesiastical matters fall to Holy See tribunals such as the Apostolic Signatura and the Roman Rota.",
+  "data_protection": {
+    "law": "General Regulation on the Protection of Personal Data, Decree No. DCLVII of the Pontifical Commission for Vatican City State (30 April 2024)",
+    "regulator": "Supervisory body under Decree No. DCLVII not confirmed in sources reviewed",
+    "summary": "Vatican City State adopted a general data protection regulation by decree of the Pontifical Commission, in force from 30 April 2024 and built on general data protection principles. We have not been able to review the full text, so the lawful bases, transfer rules and supervisory arrangements it sets out should be confirmed with Vatican counsel before any personal data is processed. In practice, many Vatican-related matters also involve personal data held in Italy or the EU, where the GDPR applies, and Church bodies elsewhere may be subject to their national laws or to canonical data protection decrees issued by bishops' conferences."
+  },
+  "investigator_regulation": "We have not identified any regime permitting or licensing private investigators to operate within Vatican City State. Policing, security and access to the territory are the responsibility of the Gendarmerie Corps of Vatican City State, and criminal investigations are directed by the Office of the Promoter of Justice. Private enquiries inside the State are therefore not undertaken. Where a matter involves Church entities or persons in Italy, Italian rules on licensed private investigation apply, and work in other countries follows local law. Engagements are scoped with Vatican and Italian counsel and canon lawyers, relying on published acts, court decisions, institutional reports and open sources.",
+  "corporate_records": "There is no public commercial or company register for Vatican City State comparable to those of other jurisdictions. The financially significant bodies, including the IOR and APSA, are institutions of the Holy See rather than companies, and information about them comes from their published annual reports, ASIF reports and official communications. Holy See and Vatican legislation and acts are published in the Acta Apostolicae Sedis and its supplement. Church juridic persons such as dioceses and religious institutes are usually recorded in national registers of the countries where they operate, which are the practical sources for ownership and property research.",
+  "anti_corruption": "Anti-money laundering, counter-terrorist financing and prudential supervision are overseen by the Supervisory and Financial Information Authority (ASIF), which reorganised the former Financial Information Authority in 2020 and received 78 suspicious activity reports in 2025, referring cases to the Office of the Promoter of Justice. A law on public contracts promulgated on 1 June 2020 aims to prevent corruption and conflicts of interest in procurement. Vatican AML arrangements are assessed by the Council of Europe's Moneyval Committee.",
+  "matters": [
+    {
+      "title": "Verifying claimed Vatican connections",
+      "text": "Testing claims by intermediaries, consultants or investment promoters that they act for or with Holy See institutions, by checking published appointments, official communications and institutional reports, and identifying the misuse of Vatican names in fraudulent financial instruments, fundraising appeals or business introductions."
+    },
+    {
+      "title": "Church entity governance reviews",
+      "text": "Supporting dioceses, religious institutes, Catholic charities and their advisers with fact-finding on alleged financial misconduct, conflicts of interest or irregular property and investment transactions, coordinated with canon lawyers so that findings fit the canonical and civil processes that may follow."
+    },
+    {
+      "title": "Counterparty due diligence for institutions",
+      "text": "Background research for banks, asset managers and property buyers dealing with Holy See or Church-related counterparties, covering authority to transact, prior disputes and investigations, adverse media in Italian and other languages, and lessons from past Vatican investment controversies."
+    },
+    {
+      "title": "Donation and grant integrity",
+      "text": "Assessing large donors, foundations and grant recipients connected with Catholic institutions for source-of-funds concerns, sanctions exposure and reputational risk, consistent with the expectations that ASIF and Vatican reforms have placed on Holy See entities receiving funds."
+    },
+    {
+      "title": "Litigation and dispute support",
+      "text": "Assisting counsel in disputes with an Italian, Vatican or international dimension, such as investment losses or employment and property claims, by assembling published judgments, institutional records and lawful witness accounts, while procedural questions before Vatican or Italian courts remain with local lawyers."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Languages",
+      "value": "Italian for State legislation; Latin for official Holy See acts; many working languages"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Vatican, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (EUR)"
+    },
+    {
+      "label": "Official publications",
+      "value": "Acta Apostolicae Sedis and its supplement for Vatican City State"
+    },
+    {
+      "label": "Financial supervisor",
+      "value": "Supervisory and Financial Information Authority (ASIF)"
+    },
+    {
+      "label": "Courts language",
+      "value": "Italian"
+    },
+    {
+      "label": "Key distinction",
+      "value": "Holy See (sovereign Church authority) versus Vatican City State (territory)"
+    },
+    {
+      "label": "Working culture",
+      "value": "Hierarchical and formal; correspondence through proper institutional channels"
+    }
+  ],
+  "tdsc_approach": "Engagements touching Vatican City and the Holy See are scoped from Nashville, beginning with a precise identification of the institution involved, whether a Holy See dicastery, a Vatican City State body, the IOR or APSA, or a Church entity governed by another country's law. That determines which legal order, records and counsel are relevant. Research draws on the Acta Apostolicae Sedis, official Vatican communications, ASIF and institutional annual reports, published judgments, national registries where Church bodies are recorded and multilingual open sources. No enquiries are made within Vatican territory; any field work in Italy or elsewhere is carried out by appropriately licensed local professionals under the direction of counsel and, where needed, canon lawyers. Personal data is minimised and handled to GDPR standards. TDSC does not use pretexting.",
+  "faqs": [
+    {
+      "q": "Is there a company register for Vatican City?",
+      "a": "No public commercial register comparable to those in other countries exists. Holy See financial bodies such as the IOR and APSA are institutions rather than companies and publish annual reports. For Church entities operating elsewhere, such as dioceses, religious orders or foundations, the relevant records are usually held in the national registers of the country concerned."
+    },
+    {
+      "q": "How can we check whether someone genuinely represents a Vatican institution?",
+      "a": "Appointments and institutional decisions are usually published through official Vatican channels, and institutions communicate formally. We compare an intermediary's documents and claims with those published sources and with institutional contact details from official sites. Claims involving Vatican-backed financial instruments or guarantees warrant particular caution, as such schemes have been used in frauds."
+    },
+    {
+      "q": "Does Vatican City have a data protection law?",
+      "a": "Yes. The Pontifical Commission for Vatican City State adopted a General Regulation on the Protection of Personal Data by Decree No. DCLVII, in force from 30 April 2024. We have not reviewed its full text, so its specific requirements are confirmed with Vatican counsel. Data held in Italy or elsewhere in the EU is governed by the GDPR."
+    },
+    {
+      "q": "Who supervises financial activity at the Vatican?",
+      "a": "The Supervisory and Financial Information Authority (ASIF) is responsible for prudential supervision and for preventing money laundering and terrorist financing, including oversight of the IOR. Its 2025 annual report recorded 78 suspicious activity reports and 16 reports to the Office of the Promoter of Justice. The Council of Europe's Moneyval Committee evaluates the Vatican's AML framework."
+    },
+    {
+      "q": "Can private investigators work inside Vatican City?",
+      "a": "We have not identified any basis for private investigation within the State, where security and policing are the responsibility of the Gendarmerie and prosecutions are led by the Promoter of Justice. TDSC does not conduct enquiries on Vatican territory. Lawful work in Italy or other countries is carried out by appropriately licensed local professionals under the applicable law."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Open Factbook: Holy See (Vatican City)",
+      "url": "https://openfactbook.org/countries/holy-see-vatican-city/"
+    },
+    {
+      "title": "NYU Law GlobaLex: Researching the Law of the Vatican City State",
+      "url": "https://www.nyulawglobal.org/globalex/Vatican.html"
+    },
+    {
+      "title": "Digital Policy Alert: General Regulation on the Protection of Personal Data (Decree No. DCLVII), 2024",
+      "url": "https://digitalpolicyalert.org/event/19901-adopted-general-regulation-on-the-protection-of-personal-data-decree-no-dclvii"
+    },
+    {
+      "title": "Vatican News: Supervisory and Financial Information Authority (ASIF) annual report (April 2026)",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-04/supervisory-financial-information-authority-asif-annual-report.html"
+    },
+    {
+      "title": "EWTN News: Financial authority updates Vatican offices on policies to fight money laundering (2020)",
+      "url": "https://www.ewtnnews.com/vatican/financial-authority-updates-vatican-offices-on-policies-to-fight-money-laundering"
+    },
+    {
+      "title": "Catholic News Agency: Pope Francis approves overhaul of Vatican's financial watchdog (2020)",
+      "url": "https://www.catholicnewsagency.com/amp/news/46816/pope-francis-approves-overhaul-of-vaticans-financial-watchdog"
+    }
+  ],
+  "review_flags": [
+    "Data protection: supervisory authority, lawful bases and transfer rules under Decree DCLVII (2024) not confirmed; full text not reviewed.",
+    "Population is an estimate (Open Factbook, 'about 1,000', 2024; NYU guide from 2007 says slightly under 900). No World Bank figure exists; consider an official Vatican figure.",
+    "ASIF as the 2020 reorganisation of the AIF is based on a CNA headline (page redirected, not opened); AML law numbers (e.g. Law XVIII of 2013) deliberately not cited. Moneyval reference based on Vatican News mention of the upcoming evaluation cycle.",
+    "Court structure and Law on the Sources of Law based on a 2007 NYU guide; the 2020 judicial system reforms and the 2023 Fundamental Law were not verified and are not named. Holy See tribunals (Signatura, Rota) from general knowledge.",
+    "Reference to high-profile Vatican prosecutions over investment losses (London property matter) is from general knowledge; kept generic.",
+    "No basis for private investigation in Vatican territory identified; Gendarmerie role from general knowledge."
+  ],
+  "researched": "2026-11-04"
+}

@@ -15,13 +15,13 @@
   },
   "legal_system": "Saint Vincent and the Grenadines has a common law legal system derived from English law, with judicial independence guaranteed by the Constitution. Lower courts are the magistrates' courts and a family court. The Supreme Court of Judicature, established under the Eastern Caribbean Supreme Court Act, comprises the High Court and the Eastern Caribbean Court of Appeal, with final appeal to the Judicial Committee of the Privy Council. The Arbitration Act of 1952 governs arbitration and the enforcement of foreign arbitral awards.",
   "data_protection": {
-    "law": "Privacy Act (2003); no specific comprehensive data protection legislation identified",
+    "law": "Privacy Act, No. 18 of 2003 (not in force; commencement order not issued as of February 2025)",
     "regulator": "None identified",
-    "summary": "According to the 2024 US State Department assessment, a Privacy Act was passed in 2003 but the government has not adopted specific data protection legislation. There is therefore no identified data protection authority or general cross-border transfer regime. Investigations involving personal data about individuals in Saint Vincent and the Grenadines should still respect constitutional protections, the confidentiality duties of banks, trustees and other regulated service providers, and the common law of confidence. TDSC applies data minimisation, defined purposes, secure storage and controlled retention as standard practice and confirms any local collection with counsel."
+    "summary": "Saint Vincent and the Grenadines enacted a Privacy Act in 2003, but a University of the West Indies review reported in February 2025 that no commencement order had been issued, so the Act is not enforceable and no supervisory body exists. The 2024 US State Department assessment likewise found no specific data protection legislation adopted. Investigations involving personal data about individuals in the country should still respect constitutional protections, the confidentiality duties of banks, trustees and other regulated service providers, and the common law of confidence. TDSC applies data minimisation, defined purposes, secure storage and controlled retention as standard practice and confirms any local collection with counsel."
   },
   "investigator_regulation": "We have not identified, from official sources available to us, a dedicated licensing regime for private investigators in Saint Vincent and the Grenadines. The lawfulness of local investigative steps, including surveillance, recording and approaches to witnesses or service providers, should be confirmed with local counsel in advance. Information held by registered agents, trustees and financial institutions is subject to confidentiality and is generally obtained only through court process or regulatory channels. TDSC therefore concentrates on documentary research and supports counsel in seeking disclosure where it is needed.",
   "corporate_records": "Domestic companies are registered with the Commerce and Intellectual Property Office (CIPO), alongside registration with the Inland Revenue Department and the National Insurance Services; registration is paper-based and takes about two business days. International companies and trusts are formed under separate legislation, with trusts recorded by a Registrar of Trusts and at least one licensed trustee required. Non-nationals need a licence to acquire more than 50 percent of a company. We have not confirmed what shareholder or beneficial ownership information is publicly searchable; it is generally not public for international entities. Eastern Caribbean Supreme Court judgments are published.",
-  "anti_corruption": "Official corruption carries criminal penalties under national law, with the Royal Saint Vincent and the Grenadines Police Force investigating and the Director of Public Prosecutions prosecuting offences. There is generally no statutory duty for public officers to disclose their finances. The Financial Intelligence Unit can conduct financial investigations with a court order, and 2022 virtual asset legislation requires virtual asset businesses to register. Banks are supervised by the Eastern Caribbean Central Bank and securities by the Eastern Caribbean Securities Regulatory Commission.",
+  "anti_corruption": "Official corruption carries criminal penalties under national law, with the Royal Saint Vincent and the Grenadines Police Force investigating and the Director of Public Prosecutions prosecuting. There is generally no statutory duty for public officers to disclose their finances. The Financial Intelligence Unit, established under the Financial Intelligence Unit Act (Cap. 174), receives suspicious transaction reports and can conduct financial investigations with a court order. The Financial Services Authority regulates non-bank and international financial services, and banks are supervised by the Eastern Caribbean Central Bank.",
   "matters": [
     {
       "title": "Online broker and trading complaints",
@@ -78,7 +78,7 @@
   "faqs": [
     {
       "q": "A broker says it is registered in Saint Vincent and the Grenadines. What does that mean?",
-      "a": "Incorporation in the jurisdiction does not by itself indicate that a business is licensed to provide investment services. TDSC compares a firm's claims with available registry information, regulatory warnings in other countries, litigation and media, and reports discrepancies so counsel can decide on next steps."
+      "a": "Incorporation there does not by itself mean a business is licensed to provide investment services. The Financial Services Authority has publicly stated that it does not license forex or binary options brokers and that such firms need permission where they offer services. TDSC compares a firm's claims with registry information, regulatory warnings elsewhere, litigation and media, and reports discrepancies to counsel."
     },
     {
       "q": "Can you identify the beneficiaries of a trust formed in Saint Vincent and the Grenadines?",
@@ -86,7 +86,7 @@
     },
     {
       "q": "Is there a data protection law in Saint Vincent and the Grenadines?",
-      "a": "A Privacy Act was passed in 2003, but as of 2024 the US State Department reported that no specific data protection legislation had been adopted. TDSC nonetheless applies its own minimisation, security and retention standards and respects banking and trust confidentiality obligations."
+      "a": "A Privacy Act was enacted in 2003, but it has not been brought into force by commencement order, and as of 2024 the US State Department reported no specific data protection legislation. There is no supervisory authority. TDSC nonetheless applies its own minimisation, security and retention standards and respects banking and trust confidentiality obligations."
     },
     {
       "q": "How long do court proceedings take there?",
@@ -105,15 +105,34 @@
     {
       "title": "World Bank API - Population, total (St. Vincent and the Grenadines)",
       "url": "https://api.worldbank.org/v2/country/VC/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "University of the West Indies: Data protection in Saint Vincent and the Grenadines",
+      "url": "https://uwi.edu/data-protection/pg-external_svg.php"
+    },
+    {
+      "title": "Eastern Caribbean Central Bank: SVG Financial Intelligence Unit Act Cap. 174",
+      "url": "https://www.eccb-centralbank.org/viewPDF/documents/2022-05-12-09-47-57-SVGFinancial-IntelligenceUnitActCap174.PDF"
+    },
+    {
+      "title": "FinTelegram: SVG offshore regulator warns that it is not issuing broker licences",
+      "url": "https://fintelegram.com/interesting-svg-offshore-regulator-warns-that-it-is-not-issuing-broker-licenses/"
+    },
+    {
+      "title": "Finance Magnates: SVG gives FX brokers until March 10 to show licence",
+      "url": "https://www.financemagnates.com/forex/svg-gives-fx-brokers-until-march-10-to-show-license-as-fraud-claims-jump/"
+    },
+    {
+      "title": "OAS MESICIC: Saint Vincent and the Grenadines response (anti-corruption)",
+      "url": "https://oas.org/es/sla/dlc/mesicic/docs/vct_res2.pdf"
     }
   ],
   "review_flags": [
-    "Search and fetch budgets were exhausted; page relies on the 2024 US State Department Investment Climate Statement. Only 2 sources; brief asks for 5-12.",
-    "Data protection: State Dept says Privacy Act 2003 but no specific data protection legislation; SVG reportedly passed a Data Protection Act in 2025 or earlier drafts exist - verify current status before publishing.",
-    "SVG's Financial Services Authority (regulator of international business/forex brokers) not covered by the source and not named; online broker matter text should be checked against FSA public statements on not licensing forex brokers.",
-    "Proceeds of Crime Act / AML statute names not verified.",
-    "FAQ on property: '5 acres' threshold from State Dept paraphrased as 'larger landholdings'; Aliens Land Holding licensing requirement not verified.",
-    "No PI licensing regime identified; not searched for."
+    "Data protection: Privacy Act No. 18 of 2003 not in force per UWI (Feb 2025); recheck for any new Data Protection Act before publishing.",
+    "FSA statement on not licensing forex/binary options brokers sourced to trade press (FinTelegram, Finance Magnates), not the FSA site; 2023 FSA deadline for brokers to show foreign licences not confirmed in detail.",
+    "FIU Act Cap. 174 PDF and OAS MESICIC document listed from search results, not opened. Proceeds of Crime Act / AML statute names not verified.",
+    "FAQ on property: 'larger landholdings' paraphrase from State Dept; Aliens Land Holding licensing requirement not verified.",
+    "No PI licensing regime identified; not specifically searched."
   ],
   "researched": "2026-11-04"
 }

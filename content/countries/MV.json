@@ -1,0 +1,143 @@
+{
+  "cc": "MV",
+  "name": "Maldives",
+  "meta_description": "TDSC investigative consulting on Maldives: resort and tourism counterparty checks, Companies Act 7/2023 ownership research and integrity reviews.",
+  "eyebrow": "Republic of Maldives",
+  "hero_lede": "Investigative consulting for matters touching the Maldives centres on resort, tourism, construction and financing relationships in a small, closely connected economy, where a new Companies Act, a pending data protection bill and limited public filings shape what can be verified and how.",
+  "intro": [
+    "The Maldives is a small island state whose commercial life is concentrated in Male and in a resort economy spread across its atolls. Company law was overhauled by the Companies Act 7/2023, ratified in December 2023 and amended in 2024, which replaced the 1996 Act and introduced filing of significant beneficial owner particulars with the Registrar. The public Business Registry confirms a company's existence, registration number, type, status and registered address, but constitutions, share records and accounts must be requested from the Ministry. As of mid-2026, a government Data Protection Bill was before the People's Majlis, so there was not yet a comprehensive personal data statute in force.",
+    "Organisations commission work involving the Maldives because resort development, hospitality management, construction, fisheries and related financing attract foreign investors, lenders, operators and suppliers. In a market where a relatively small number of business groups, families and politically connected individuals recur across many ventures, typical questions concern who stands behind a resort-owning company or local partner, whether a counterparty has links to public officials, and whether land or island leases, contracts or funds have been handled properly. Disputes between foreign investors and local partners, and reputational reviews before acquisitions or management agreements, are common reasons for discreet enquiries."
+  ],
+  "population": {
+    "value": "Not verified in this research pass",
+    "year": "",
+    "source_url": ""
+  },
+  "legal_system": "The Maldives is governed under the 2008 Constitution, which vests judicial power in the Supreme Court, the High Court and trial courts established by law. Judges apply the Constitution and statute, and where these are silent they must consider Islamic Shari'ah, giving the system a distinctive mixed character. The Prosecutor General's Office, established under the Constitution in 2008, decides on prosecutions, including those recommended by the Anti-Corruption Commission. Company matters are governed by the Companies Act 7/2023. We have not verified the current allocation of commercial disputes among trial courts or a domestic arbitration centre for this page.",
+  "data_protection": {
+    "law": "No comprehensive data protection statute in force as of mid-2026; Data Protection Bill before the People's Majlis",
+    "regulator": "Proposed: Privacy Commissioner role to be held by the Information Commissioner under the Right to Information Act",
+    "summary": "As of June 2026, a government-sponsored Data Protection Bill had passed first reading unanimously and been referred to the People's Majlis Committee on Information and Communication Technology. As reported, it would set rules for collecting and processing personal data, give individuals enforceable rights, require record-keeping and, in some cases, data protection officers, govern transfers to foreign countries and international organisations, and require breach response. Until a law is enacted, TDSC treats personal data in Maldivian matters under the client's home-jurisdiction rules and international good practice: documented purpose, minimisation, secure storage and controlled onward disclosure. Sectoral confidentiality rules, for example in banking, should be confirmed with Maldivian counsel."
+  },
+  "investigator_regulation": "We have not identified, from a source opened during this research, a statute or authority that licenses private investigators in the Maldives. Engagements are therefore scoped with Maldivian counsel to confirm what local enquiries are lawful. In a small community where business and family networks overlap, discretion is also a practical constraint: careless enquiries can quickly reach the subject. TDSC does not undertake or commission covert recording, impersonation, inducements to officials, or access to restricted government, banking or telecommunications records. Any work requiring a presence in Male or on the atolls is carried out by vetted, appropriately qualified local professionals.",
+  "corporate_records": "The Registrar of Companies sits under the Ministry of Economic Development and maintains the Maldives Business Registry on the government Business Portal. A public lookup returns a business's registered name, registration number, entity type, status and registered address, and registrations, changes and deregistrations are published in the Registrar's Gazette. Constitutions, share records and annual accounts are not downloadable and must be requested from the Ministry. The Companies Act 7/2023 requires companies to file significant beneficial owner particulars, but this is a filing obligation rather than a public search, so ultimate ownership cannot be assumed to be publicly retrievable.",
+  "anti_corruption": "Corrupt acts by public officials are criminalised by the Prevention and Prohibition of Corruption Act (2/2000), and the Penal Code (9/2014, in force since July 2015) covers bribery, official misuse and bid rigging. The Anti-Corruption Commission, established under the Constitution and the Anti-Corruption Commission Act (13/2008), investigates and recommends prosecutions to the Prosecutor General. The Prevention of Money Laundering and Financing of Terrorism Act (10/2014) established the Financial Intelligence Unit within the Maldives Monetary Authority.",
+  "matters": [
+    {
+      "title": "Resort and island lease counterparties",
+      "text": "Establishing who owns and controls companies holding resort or island development rights, using Business Registry records, Gazette notices, documents obtained through the Ministry and foreign filings where investors hold their interests through offshore or regional holding companies."
+    },
+    {
+      "title": "Local partner and agent vetting",
+      "text": "Background research on Maldivian partners, agents and consultants proposed for tourism, construction or government-facing projects, testing for political exposure, family connections to officials, reported Anti-Corruption Commission matters and the commercial rationale for proposed fees or equity."
+    },
+    {
+      "title": "Investor and partner disputes",
+      "text": "Supporting counsel where foreign investors and Maldivian partners disagree over control, accounts or diverted revenue, by assembling the corporate history from Registrar records and Gazette notices and identifying related companies and assets in the Maldives and abroad."
+    },
+    {
+      "title": "Hospitality management due diligence",
+      "text": "Reputational and integrity reviews before management, franchise or supply agreements with resort owners, examining the owners' other ventures, past disputes reported in Maldivian media, and any links to public procurement or lease allocation controversies, before commitments are signed."
+    },
+    {
+      "title": "Construction and procurement integrity",
+      "text": "Fact-finding into contractors and subcontractors on resort, housing or infrastructure projects, including whether bids, variations or payments raise concerns of the kind addressed by the Penal Code's bid-rigging provisions or the Prevention and Prohibition of Corruption Act."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official language",
+      "value": "Dhivehi; English widely used in business and tourism"
+    },
+    {
+      "label": "Time zone",
+      "value": "Indian/Maldives, UTC+5"
+    },
+    {
+      "label": "Working week",
+      "value": "Sunday to Thursday for government offices"
+    },
+    {
+      "label": "Currency",
+      "value": "Maldivian rufiyaa (MVR); US dollar common in tourism"
+    },
+    {
+      "label": "Main business centre",
+      "value": "Male, with resort operations across the atolls"
+    },
+    {
+      "label": "Company records",
+      "value": "Public Business Registry lookup; filed documents on request to the Ministry"
+    },
+    {
+      "label": "Business culture",
+      "value": "Small, interconnected market; discretion is essential"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Maldives matters from Nashville with particular attention to discretion, because in a small market enquiries can travel quickly. Each engagement begins with a review of what the client needs, what the Business Registry, Registrar's Gazette and published court and Anti-Corruption Commission material can show, and which documents must be requested formally through counsel. Desk research extends to foreign registries where resort and investment vehicles are held offshore, sanctions and enforcement lists, and Maldivian media in Dhivehi and English. Where local enquiries are needed, TDSC coordinates vetted local professionals working with Maldivian counsel, without pretexting or payments to officials. Personal data is minimised and handled under the client's home-jurisdiction rules pending enactment of the Maldivian data protection bill.",
+  "faqs": [
+    {
+      "q": "Can beneficial ownership of a Maldivian company be searched publicly?",
+      "a": "Not directly. The Companies Act 7/2023 requires companies to file significant beneficial owner particulars with the Registrar, but the public Business Registry lookup returns only basic details such as name, number, type, status and address. TDSC establishes ownership by combining registry data, Gazette notices, documents requested through the Ministry and filings in other jurisdictions."
+    },
+    {
+      "q": "Does the Maldives have a data protection law?",
+      "a": "As of mid-2026, a government Data Protection Bill had passed first reading in the People's Majlis and was under committee review, with the Information Commissioner proposed to act as Privacy Commissioner. Until it is enacted and in force, TDSC applies the client's home-jurisdiction requirements and international good practice to personal data gathered in Maldivian matters."
+    },
+    {
+      "q": "Why does discretion matter so much in Maldivian enquiries?",
+      "a": "The Maldives has a small population and a commercial community in which the same families, business groups and officials appear across many ventures. An enquiry made carelessly can reach its subject within days. TDSC therefore relies first on documentary research and limits local enquiries to what is necessary, using professionals selected for their discretion."
+    },
+    {
+      "q": "Which authorities deal with corruption in the Maldives?",
+      "a": "The Anti-Corruption Commission, created under the 2008 Constitution and the Anti-Corruption Commission Act 13/2008, investigates allegations and recommends prosecutions, which the Prosecutor General's Office decides. The Financial Intelligence Unit within the Maldives Monetary Authority handles suspicious transaction reporting under the 2014 anti-money laundering law. The Commission publishes statistics and other material on its website."
+    },
+    {
+      "q": "Does TDSC hold a licence to investigate in the Maldives?",
+      "a": "No. TDSC is based in Nashville and does not hold, or claim, any Maldivian licence. We have not identified a licensing regime for private investigators in the Maldives. Engagements are scoped from Nashville, and any work requiring a local presence is undertaken by appropriately qualified local professionals under the guidance of Maldivian counsel."
+    }
+  ],
+  "sources": [
+    {
+      "title": "PSM News: Personal Data Protection Bill accepted by Parliament",
+      "url": "https://psmnews.mv/en/182454"
+    },
+    {
+      "title": "MMTV: Data Protection Bill passes first reading (22 June 2026)",
+      "url": "https://en.mmtv.mv/10387"
+    },
+    {
+      "title": "PlusMV: Data Protection Bill introduced to regulate use of personal information",
+      "url": "https://www.plus.mv/?p=164425"
+    },
+    {
+      "title": "Corporate Maldives: A Digital State Without a Privacy Culture?",
+      "url": "https://corporatemaldives.com/?p=77713"
+    },
+    {
+      "title": "Anti-Corruption Commission of the Maldives: History",
+      "url": "https://www.acc.gov.mv/en/about/history"
+    },
+    {
+      "title": "UNAFEI Resource Material Series No. 101: Maldives",
+      "url": "https://www.unafei.or.jp/publications/pdf/RS_No101/No101_28_IP_Maldives.pdf"
+    },
+    {
+      "title": "Infoproff: Business register in the Maldives",
+      "url": "https://www.infoproff.com/en/open-data/maldives/228/business-register-in-the-maldives"
+    },
+    {
+      "title": "KnowYourCountry: Maldives country summary",
+      "url": "https://knowyourcountry.com/maldives"
+    }
+  ],
+  "review_flags": [
+    "Population not verified from a World Bank or national statistics source within the search budget; add a current figure before publishing.",
+    "Data Protection Bill was in committee as of June 2026; check whether it has since been passed and ratified, and update law name, regulator and summary.",
+    "One secondary source (consentstack.io) refers to a Maldives 'Data Protection Act 2017'; this conflicts with 2026 Maldivian news reports and was not relied on. Confirm with Maldivian counsel.",
+    "Registry details (Ministry name, Business Portal, BO filing under Companies Act 7/2023) come from a secondary aggregator (infoproff); verify against the Ministry of Economic Development and Trade.",
+    "No private investigator licensing regime identified; confirm with Maldivian counsel.",
+    "Commercial court allocation and arbitration centre not verified and therefore not named."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,144 @@
+{
+  "cc": "TM",
+  "name": "Turkmenistan",
+  "meta_description": "TDSC investigative consulting on Turkmenistan: gas sector counterparties, state-linked ownership, data localisation law 519-V and lawful remote research.",
+  "eyebrow": "Turkmenistan",
+  "hero_lede": "Investigative consulting for matters touching Turkmenistan is shaped by a closed, state-dominated economy, very limited public company and court records, a data protection law that requires local storage of personal data, and tight constraints on independent inquiry inside the country.",
+  "intro": [
+    "Turkmenistan is a Central Asian state with a centralised political system and an economy in which the state and state-owned enterprises dominate energy, construction, agriculture and foreign trade. Public information is scarce by international standards: as of 2025 there is no confirmed open company search, court decisions are not systematically published, and independent media operate under severe restrictions. Registration of legal entities is administered centrally, and authorities have introduced electronic applications and a new database for the Unified State Register of Legal Entities. For investigators, the practical result is that most research must be conducted lawfully from outside the country, using foreign corporate records, trade and procurement data, litigation abroad and carefully assessed media and civil society reporting.",
+    "Organisations commission work involving Turkmenistan mainly because of its natural gas reserves and the large state projects linked to them. Pipeline, processing, power and construction contracts attract foreign engineering firms, equipment suppliers, traders and lenders, many of whom must work with state bodies or with private intermediaries close to them. Typical exposures include the use of agents and consultants on public contracts, unclear ownership of local partners, payment and currency conversion difficulties, and reputational risk associated with politically exposed persons. Clients also commission research on Turkmen-linked companies registered in other jurisdictions, such as Turkey, the UAE or Europe, where records are more accessible than at home."
+  ],
+  "population": {
+    "value": "about 7 million (approximate, to be verified)",
+    "year": "2022 (census, reported)",
+    "source_url": ""
+  },
+  "legal_system": "Turkmenistan has a civil law system derived from the Soviet legal tradition, organised around codes such as the Civil Code, and a court system headed by the Supreme Court. Economic disputes between business entities are heard by a specialised arbitrazh (commercial) court rather than by private arbitration in the Western sense. Judicial independence is limited, and published case law is scarce, so outcomes are difficult to predict from the record. Foreign investors frequently rely on contractual arbitration seated outside the country and on investment treaty protections, which makes evidence gathered abroad particularly important.",
+  "data_protection": {
+    "law": "Law of Turkmenistan No. 519-V On Information about Private Life and its Protection (2017)",
+    "regulator": "No dedicated data protection authority; general enforcement by the General Prosecutor's Office",
+    "summary": "The 2017 law, in force since 1 July 2017, is the main statute on personal data. It requires consent in a prescribed form for processing, with exceptions including investigatory activity by competent bodies. Personal data transferred abroad must also be stored in Turkmenistan, and cross-border transfer requires the data subject's consent; operators may not pass data outside the country to a third party under a processing contract. Collection of certain categories, such as nationality, religious and political views and medical conditions, is prohibited without an exception. For private investigative work, these rules sharply limit what personal data can lawfully be gathered in, or exported from, Turkmenistan."
+  },
+  "investigator_regulation": "We have not identified, in the sources reviewed, a legal framework that licenses or permits private investigators or detective agencies in Turkmenistan. Investigative and operational-search activity is associated with state law enforcement and security bodies, and the 2017 data protection law reserves its investigatory exceptions to competent authorities. Independent inquiry, interviews, photography and record requests inside the country can expose local participants to serious legal and personal risk. TDSC does not conduct covert activity in Turkmenistan, and any local contact is undertaken only after review with qualified counsel and only where it is lawful and safe for those involved.",
+  "corporate_records": "Legal entities are registered in the Unified State Register of Legal Entities. Local reporting describes the registration department as part of the Ministry of Finance and Economy, which has introduced electronic applications; other guides refer to the Ministry of Justice, so the responsible body should be confirmed. As of 2025 we have not identified a public online company search, published extract fees or a public beneficial ownership register. Officials have received Council of Europe training on beneficial ownership transparency, but no public register has been confirmed. Court and land records are not publicly searchable. Ownership research therefore relies heavily on foreign registries where Turkmen-linked entities are incorporated.",
+  "anti_corruption": "Turkmenistan has enacted anti-corruption and anti-money laundering legislation, and its Financial Intelligence Unit operates under the Ministry of Finance and Economy. We have not verified the titles and years of the principal statutes for this page, and they should be confirmed before publication. The Council of Europe has supported anti-corruption compliance in the Turkmen private sector, including training delivered with the Union of Industrialists and Entrepreneurs in 2024. In practice, foreign companies usually manage bribery risk under their home-country laws.",
+  "matters": [
+    {
+      "title": "Energy project counterparty reviews",
+      "text": "Gas extraction, processing and pipeline projects involve state companies, contractors and private intermediaries. We research the ownership, track record and associations of proposed partners and subcontractors using foreign registries, procurement records and assessed media, flagging links to politically exposed persons."
+    },
+    {
+      "title": "Agent and intermediary due diligence",
+      "text": "Foreign suppliers often rely on local agents to reach state customers. We examine an intermediary's corporate footprint abroad, reported relationships, compensation red flags and adverse reporting, supporting anti-bribery controls under the client's home-country obligations."
+    },
+    {
+      "title": "Offshore and regional entity tracing",
+      "text": "Turkmen-linked business interests are frequently held through companies in Turkey, the UAE, Cyprus or elsewhere. We trace these entities through accessible foreign records to identify directors, shareholders, related companies and assets relevant to transactions or disputes."
+    },
+    {
+      "title": "Arbitration and investment dispute support",
+      "text": "Investors in disputes with Turkmen counterparties or the state need evidence that is difficult to obtain domestically. We assemble lawful open-source and foreign-record evidence on parties, related entities and asset locations to support counsel in international arbitration and enforcement."
+    },
+    {
+      "title": "Trade and supply chain integrity",
+      "text": "Cotton, textiles and other exports raise supply chain and forced labour questions for buyers. We research suppliers' ownership, state links and reported labour practices from credible public sources to help clients assess sourcing risk."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Turkmen (official); Russian widely used in business"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Ashgabat, UTC+5, no daylight saving"
+    },
+    {
+      "label": "Currency",
+      "value": "Turkmen manat (TMT); conversion can be restricted"
+    },
+    {
+      "label": "Main business centre",
+      "value": "Ashgabat"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Public records",
+      "value": "No confirmed public online company or court search"
+    },
+    {
+      "label": "Data localisation",
+      "value": "Personal data exported must also be stored in Turkmenistan"
+    },
+    {
+      "label": "Court language",
+      "value": "Turkmen"
+    }
+  ],
+  "tdsc_approach": "Engagements touching Turkmenistan are scoped from Nashville with particular care. We start with a jurisdictional and risk review covering what the client needs to know, which questions can be answered from lawful sources outside the country, and whether any in-country step is lawful and safe. Most work relies on foreign corporate registries, international litigation and arbitration records, trade and procurement data, and media assessed for reliability. We do not conduct covert activity in Turkmenistan and do not seek restricted state information. Because personal data exported from Turkmenistan is subject to consent and local storage requirements, we avoid collecting such data in-country. Every matter is screened for sanctions and export control issues, and findings state their evidential limits plainly.",
+  "faqs": [
+    {
+      "q": "Can a Turkmen company register extract be obtained?",
+      "a": "Not through a public online search, as none has been confirmed as of 2025. Registration is administered centrally through the Unified State Register of Legal Entities, and access for third parties is limited. We generally build ownership pictures from foreign registries, contracts, litigation and procurement records, and explain clearly where Turkmen-side confirmation is unavailable."
+    },
+    {
+      "q": "How does the 2017 data protection law affect due diligence?",
+      "a": "Law No. 519-V requires prescribed consent for processing personal data, consent for transfers abroad and storage in Turkmenistan of any data exported. This makes in-country collection of personal data on individuals impractical for private clients. We focus on lawful public and foreign sources and avoid exporting personal data gathered in Turkmenistan."
+    },
+    {
+      "q": "Are private investigators permitted to work inside Turkmenistan?",
+      "a": "We have not identified any regime licensing private investigators, and investigative activity is associated with state bodies. Inquiries inside the country can create serious risk for local participants. TDSC therefore does not conduct covert work there and considers any local contact only after review with counsel, and only where it is lawful and safe."
+    },
+    {
+      "q": "How do you research politically exposed persons connected to Turkmenistan?",
+      "a": "We rely on credible sources, including official announcements, foreign corporate records, court filings abroad, international investigative journalism and civil society reporting, each assessed for reliability. Findings are presented with sourcing and confidence levels, distinguishing documented facts from allegation, so that clients can make proportionate compliance decisions."
+    },
+    {
+      "q": "Can you support an arbitration against a Turkmen counterparty?",
+      "a": "Yes, within lawful limits. Investors often arbitrate outside Turkmenistan, and evidence on the counterparty's structure, related entities and assets abroad can be decisive. We gather that evidence from foreign registries, trade records and litigation, working with the client's counsel. TDSC does not give legal advice on claims or strategy."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Turkmenistan",
+      "url": "https://dlapiperdataprotection.com/?c=TM&t=law"
+    },
+    {
+      "title": "Business Data Guide: Turkmenistan company search guide",
+      "url": "https://businessdataguide.com/blog/jurisdictions/turkmenistan-company-search-guide"
+    },
+    {
+      "title": "Turkmenportal: Online business registration in Turkmenistan",
+      "url": "https://turkmenportal.com/en/news/29747-"
+    },
+    {
+      "title": "Council of Europe: Turkmen authorities enhance capacities on beneficial ownership transparency (2023)",
+      "url": "https://www.coe.int/en/web/corruption/-/turkmen-authorities-enhance-their-capacities-in-improving-the-transparency-of-beneficial-owners-of-legal-entities"
+    },
+    {
+      "title": "Council of Europe: Promoting Transparency and Action against Economic Crime in Turkmenistan",
+      "url": "https://www.coe.int/en/web/corruption/projects/ca-taec-tm"
+    },
+    {
+      "title": "Council of Europe: Supporting anti-corruption compliance in the private sector in Turkmenistan",
+      "url": "https://www.coe.int/en/web/corruption/projects/ca-taec-tm-newsroom"
+    },
+    {
+      "title": "Mondaq: Tests of doing business and penalties for unregistered entities in Turkmenistan",
+      "url": "https://www.mondaq.com/tax-authorities/1734050/tests-of-doing-business-and-penalties-for-unregistered-entities-considered-as-doing-business-in-turkmenistan"
+    }
+  ],
+  "review_flags": [
+    "Population (about 7 million, 2022 census) is from general knowledge; World Bank URL was not opened and no population figure appeared in search results. Verify before publishing.",
+    "Registry authority conflict: Turkmenportal places state registration of legal entities under the Ministry of Finance and Economy; Business Data Guide points to the Ministry of Justice. Confirm.",
+    "Anti-corruption and AML statute titles and years not verified; anti_corruption text says so and needs completing.",
+    "Legal system details (arbitrazh court, Supreme Court, Civil Code) stated from general knowledge, not from a source opened in this batch.",
+    "No private investigator regime identified; in-country inquiry carries significant risk to local participants. Turkmenistan is not under comprehensive US sanctions, but sanctions/export control screening is referenced.",
+    "DLA Piper Turkmenistan entry was last reviewed in 2022; check for amendments to Law No. 519-V.",
+    "Mondaq source appeared in search results but was not opened."
+  ],
+  "researched": "2026-11-04"
+}

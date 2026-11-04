@@ -1,0 +1,96 @@
+{
+  "cc": "KM",
+  "name": "Comoros",
+  "meta_description": "TDSC investigative consulting on Comoros: OHADA commercial register checks, Anjouan offshore licence verification, data rules and licensed local coordination.",
+  "eyebrow": "Union of the Comoros",
+  "hero_lede": "Investigative consulting on the Comoros means verifying entities and licences across three islands with distinct administrations, working in French and Comorian with an OHADA commercial register that is still being computerised, and treating offshore licences issued in Anjouan with particular care.",
+  "intro": [
+    "The Union of the Comoros is a small island state in the Mozambique Channel whose business law follows the OHADA uniform acts shared with francophone Africa, so companies, securities and collateral are recorded in a Registre du Commerce et du Crédit Mobilier (RCCM). Computerisation of that register was still under way in 2021, with World Bank support, and records held on paper or across island-level offices can be slow to obtain. Personal data protection legislation has been adopted, but the supervisory authority's status has been uncertain. Anti-money laundering assessments have repeatedly noted weaknesses in beneficial ownership information, which shapes how far registry records alone can be relied on.",
+    "Most investigative work touching the Comoros begins outside the country. Banks, payment providers and compliance teams encounter Comorian-licensed financial or crypto businesses, frequently associated with the Anjouan Offshore Finance Authority, and need to establish whether a licence is genuine, current and meaningful. Lenders and counterparties in East Africa, the Gulf and France ask for background research on Comorian traders, shipping and import businesses and their principals. Diaspora links with France also bring family, estate and asset questions that cross both jurisdictions. In each case the work turns on verifying documents against an authoritative source and being explicit about what could not be confirmed."
+  ],
+  "population": {
+    "value": "approximately 870,000",
+    "year": "2022",
+    "source_url": "https://dataprotection.africa/?p=3384"
+  },
+  "legal_system": "The Comoros is a member of OHADA, so commercial companies, general commercial law, secured transactions and the commercial register are governed by the OHADA uniform acts, with the Common Court of Justice and Arbitration (CCJA) in Abidjan as the supranational court of final appeal on uniform act questions. National courts apply French-derived civil law alongside Islamic law, particularly in personal status matters. Each of the three islands has its own institutions within the Union, which affects where records and proceedings sit.",
+  "data_protection": {
+    "law": "Law on the protection of personal data adopted 26 June 2014; a further Protection of Personal Data Law reported as enacted on 29 June 2021",
+    "regulator": "National Authority for the Protection of Personal Data under the 2021 law (the 2014 text provided for a Commission nationale de l'informatique et des libertés); reported as not yet operational in 2024",
+    "summary": "The 2014 text published by the Ministry of Justice requires declaration of automated processing, prior authorisation for higher-risk processing such as criminal records, health data and transfers to countries without adequate protection, and allows transfers abroad only to states offering sufficient protection. The 2021 law, as reported, adopts consent, contract, legal obligation and legitimate interests as lawful bases, with adequacy, safeguards or narrow derogations for cross-border transfers. Because the regulator has not been confirmed as operating, investigative work proceeds on the assumption that the statutory duties apply in full, with personal data minimised and transfers documented."
+  },
+  "investigator_regulation": "We have not identified a licensing regime specific to private investigators or detective agencies in the Comoros in the sources reviewed. Investigative activity is nonetheless constrained by the data protection legislation, including its restrictions on processing criminal offence data, which the 2014 text reserves largely to courts, public authorities and certain legal auxiliaries, and by the constitutional protection of private correspondence and communications. Any local enquiry is therefore scoped with Comorian counsel, who confirm what may lawfully be done and by whom.",
+  "corporate_records": "Companies are registered in the Registre du Commerce et du Crédit Mobilier (RCCM) under the OHADA framework, which records company constitutions, officers and security interests. OHADA's RCCM software was introduced in late 2021 with World Bank support for computerisation, but we have not identified a public online search service, and extracts are typically obtained through the registry or local counsel. AML assessments have noted weaknesses in the beneficial ownership information held through the RCCM. Offshore and financial licences issued in Anjouan are recorded by the Anjouan Offshore Finance Authority, whose licences warrant independent verification.",
+  "anti_corruption": "The Comoros has anti-money laundering legislation dating to Ordinance No. 3-002/PR of 2003, under which the Banque Centrale des Comores exercises AML and know-your-customer oversight of banks, and a financial intelligence unit (Cellule de Renseignement Financier, CRF). A World Bank detailed assessment of the AML/CFT regime has been published. Sources reviewed refer to an anti-corruption law and an anti-corruption chamber, but we have not verified their current names or status.",
+  "matters": [
+    {
+      "title": "Anjouan offshore licence verification",
+      "text": "Checking whether banks, payment, forex or crypto businesses that cite licences from the Anjouan Offshore Finance Authority hold genuine and current authorisation, who controls them, and whether their claimed regulatory standing is recognised by the Union authorities and by regulators where they actually trade."
+    },
+    {
+      "title": "Counterparty checks on traders",
+      "text": "Background research on Comorian import, export and shipping businesses and their principals, including RCCM registration, litigation and media history, and links to businesses in Tanzania, Madagascar, the Gulf and France, ahead of credit, supply or distribution arrangements."
+    },
+    {
+      "title": "Document and identity verification",
+      "text": "Confirming that corporate certificates, licences, court documents and identity details presented by Comorian parties are consistent with official records, through local counsel where registry access is required, and recording clearly which items could not be independently verified."
+    },
+    {
+      "title": "Comoros and France cross-border matters",
+      "text": "Family, estate and asset questions involving the large Comorian diaspora in France, combining French public records with Comorian registry and court enquiries made through local counsel to locate assets, confirm relationships or identify relevant proceedings."
+    },
+    {
+      "title": "Spice and agricultural supply chains",
+      "text": "Ownership and integrity research on exporters and intermediaries in vanilla, cloves and ylang-ylang, where buyers need to understand who they are paying, how product is sourced and whether intermediaries have histories of disputes or non-delivery."
+    }
+  ],
+  "practical": [
+    {"label": "Business languages", "value": "French, Comorian (Shikomori), Arabic"},
+    {"label": "Time zone", "value": "Indian/Comoro, UTC+3 (no daylight saving)"},
+    {"label": "Currency", "value": "Comorian franc (KMF)"},
+    {"label": "Main business centres", "value": "Moroni (Grande Comore), Mutsamudu (Anjouan)"},
+    {"label": "Commercial law framework", "value": "OHADA uniform acts"},
+    {"label": "Document formalities", "value": "French-language originals or certified French translations"},
+    {"label": "Record access", "value": "Largely in person or through local counsel"}
+  ],
+  "tdsc_approach": "TDSC scopes Comorian matters from Nashville by identifying which island and which authority actually holds the relevant record, because registry, court and licensing information is not centralised online. Licence claims, particularly those tied to Anjouan, are tested against the issuing authority and against regulators in the markets where the business operates, not taken from the business's own documents. Open-source work draws on French-language media, OHADA resources and foreign registries. Where records must be obtained in the Comoros, we coordinate with Comorian counsel and appropriately qualified local professionals, and given the uncertain status of the data protection authority we apply the statutory duties strictly, collecting only the personal data the matter requires and documenting its transfer and retention.",
+  "faqs": [
+    {
+      "q": "How can a Comorian company's registration be confirmed?",
+      "a": "Companies are recorded in the OHADA-based Registre du Commerce et du Crédit Mobilier. We have not identified a public online search, so confirmation usually requires an extract obtained through the registry or local counsel. The extract confirms registration details and officers, but AML assessments note that beneficial ownership information held there can be incomplete."
+    },
+    {
+      "q": "Is a licence from the Anjouan Offshore Finance Authority meaningful?",
+      "a": "It needs to be verified rather than assumed. TDSC checks whether the licence exists, who holds it, whether the business is recognised by the Union's financial authorities, and whether it is authorised in the countries where it actually serves customers. Many compliance concerns arise from that gap between an island-level licence and real-world regulatory standing."
+    },
+    {
+      "q": "Which data protection law applies in the Comoros?",
+      "a": "Sources differ. A personal data protection law adopted on 26 June 2014 is published by the Ministry of Justice, and a further law was reported as enacted in June 2021 creating a national data protection authority, which was reported as not yet operational in 2024. TDSC applies the stricter requirements and confirms the current position with local counsel."
+    },
+    {
+      "q": "Does OHADA membership help with investigations?",
+      "a": "It provides a familiar framework. Company forms, the commercial register and secured transactions follow the same uniform acts as other OHADA states, so documents follow recognisable formats and terminology. It does not mean records are centrally accessible; Comorian records still have to be obtained locally, and practical access differs from larger OHADA states."
+    },
+    {
+      "q": "Does TDSC have staff in Moroni?",
+      "a": "No. TDSC works from Nashville and has no office, staff or address in the Comoros. Where a matter requires local steps, such as obtaining registry extracts or court documents, we coordinate with Comorian counsel and appropriately qualified local professionals under a defined scope, and report what each source does and does not establish."
+    }
+  ],
+  "sources": [
+    {"title": "Ministère de la Justice (Comores): Loi du 26 juin 2014 portant protection des données à caractère personnel", "url": "https://justice.gouv.km/wp-content/uploads/2025/03/loi-du-26-juin-2014-portant-protection-des-donnees-a-caractere-personnel.pdf"},
+    {"title": "Techhive Advisory: Review of the Comoros Data Protection Law", "url": "https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law"},
+    {"title": "Data Protection Africa: Comoros", "url": "https://dataprotection.africa/?p=3384"},
+    {"title": "OHADA: Comores, formation sur le logiciel du RCCM", "url": "https://www.ohada.com/actualite/6131/comores-ohada-formation-sur-le-logiciel-du-registre-du-commerce-et-du-credit-mobilier.html?langue=en"},
+    {"title": "KnowYourCountry: Comoros", "url": "https://knowyourcountry.com/comoros"},
+    {"title": "World Bank: Union of Comoros Detailed Assessment Report of AML/CFT", "url": "https://econpapers.repec.org/RePEc:wbk:wboper:12735"},
+    {"title": "globalEDGE: Comoros ANRTIC", "url": "https://globaledge.msu.edu/global-resources/resource/10647"}
+  ],
+  "review_flags": [
+    "Data protection framework is inconsistent across sources: a 26 June 2014 law (Ministry of Justice PDF, number left blank, creates a CNIL), a 29 June 2021 law reported by Techhive (National Authority not operational as of mid-2024), and Data Protection Africa (2022) stating no comprehensive law. Confirm the law in force and regulator status with Comorian counsel.",
+    "Population (about 870,000) is from Data Protection Africa without a cited source or date; replace with a World Bank figure.",
+    "AML ordinance number 3-002/PR (2003) and CRF name come from KnowYourCountry; anti-corruption law and chamber not verified. Confirm current AML law (likely amended since 2003).",
+    "Legal_system statements on Islamic law in personal status matters and island-level institutions are not drawn from a source opened for this page; verify.",
+    "No PI licensing regime identified; no public online RCCM search identified."
+  ],
+  "researched": "2026-11-04"
+}

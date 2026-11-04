@@ -1,0 +1,98 @@
+{
+  "cc": "WS",
+  "name": "Samoa",
+  "meta_description": "TDSC investigative consulting on Samoa: MCIL and SIFA company registries, international company structures, AML rules and discreet coordinated inquiry.",
+  "eyebrow": "Independent State of Samoa",
+  "hero_lede": "Investigative consulting for matters touching Samoa often concerns two different worlds: a small domestic economy centred on Apia, and an international financial services sector whose companies are formed through licensed trustee companies and sit outside the public domestic register.",
+  "intro": [
+    "Samoa is a Pacific island state with a 2021 census population of just over 205,000, about 18 percent of whom live in the Apia urban area. Its legal and commercial institutions are English-speaking and draw on the common law, alongside a strong customary system governing chiefly titles and much of the country's land. Domestic companies are registered with the Ministry of Commerce, Industry and Labour, which offers an online search. International companies are formed under separate legislation through licensed trustee companies and supervised by the Samoa International Finance Authority, with far less information on the public record. For investigators, the first task is often establishing which of these regimes an entity falls under.",
+    "Organisations commission work involving Samoa for two broad reasons. The first is the international company sector: Samoan international companies appear in ownership chains for businesses in Asia and elsewhere, and creditors, compliance teams and litigants need to understand who stands behind them and whether assets can be reached. The second is the domestic economy, where remittances, tourism, fisheries, agriculture, construction and donor-funded infrastructure projects bring in foreign contractors, lenders and partners. Typical needs include ownership analysis of Samoan international companies, verification of local contractors and suppliers, background research on business principals, and support for enforcement or recognition of foreign judgments where a Samoan entity is involved."
+  ],
+  "population": {
+    "value": "205,557",
+    "year": "2021 (census)",
+    "source_url": "https://www.sbs.gov.ws/documents/census/2021/Census_2021_Final_Report.pdf"
+  },
+  "legal_system": "Samoa has a mixed legal system combining English-derived common law and statute with recognised customary law. Commercial disputes are heard in the District Court and the Supreme Court, with appeals to the Court of Appeal. Matters concerning customary land and chiefly (matai) titles fall to the Land and Titles Court, a separate jurisdiction that can be relevant where business interests involve customary land. There is no specialised commercial court. English is used in the courts and in commercial legislation, which makes records accessible to foreign counsel, though some proceedings and community matters are conducted in Samoan.",
+  "data_protection": {
+    "law": "No comprehensive data protection statute confirmed; relevant provisions include the Crimes Act 2013 and the Electronic Transactions Act 2008",
+    "regulator": "No dedicated data protection authority confirmed",
+    "summary": "We have not been able to confirm a comprehensive data protection statute or a dedicated data protection authority in force in Samoa as of 2025. The ITU's country profile lists no dedicated privacy law, while some secondary commentary refers to a Privacy Act and a Privacy Commissioner that we could not verify against official sources. In practice, investigative work must respect confidentiality obligations, criminal law provisions on unauthorised access to computer data under the Crimes Act 2013, and any sectoral confidentiality duties in banking and international financial services legislation. Where personal data leaves Samoa, the client's own data protection obligations usually set the standard."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators or detective agencies in Samoa in the sources reviewed, and the local investigation market appears to be very small. Investigative activity is nonetheless constrained by the Crimes Act 2013, including its offences relating to unauthorised access to protected electronic data, and by the confidentiality provisions surrounding international companies and trustee companies. Close-knit communities and the role of village and family structures also make discreet inquiry difficult. TDSC confirms permissibility with Samoan counsel before any local inquiry and does not attempt to obtain non-public registry or trustee information.",
+  "corporate_records": "Domestic companies are registered with the Ministry of Commerce, Industry and Labour (MCIL) under the Companies Act 2001. The online registry allows searches by company name or number and includes a director and shareholder search; inspection of a company file and certified extracts are available for published fees. International companies are incorporated under the International Companies Act 1988 through licensed trustee companies and administered by the Samoa International Finance Authority (SIFA), which offers no public name search. We have not confirmed a public beneficial ownership register for either category; ownership information on international companies is generally held by trustee companies and available to authorities rather than the public.",
+  "anti_corruption": "Samoa's principal anti-money laundering statute is the Money Laundering Prevention Act 2007. The Central Bank of Samoa oversees AML compliance in the domestic banking sector, and the Samoa International Finance Authority supervises international financial services providers, including trustee companies. Bribery and corruption offences are addressed in criminal legislation, principally the Crimes Act 2013; we have not verified the specific provisions or the lead anti-corruption enforcement body for this page, and corruption-related matters are scoped with Samoan counsel.",
+  "matters": [
+    {
+      "title": "International company ownership analysis",
+      "text": "Samoan international companies appear in holding structures for businesses across Asia and beyond. We analyse what is known from foreign filings, litigation, counterparties and media, and explain clearly what can and cannot be confirmed when ownership sits behind a trustee company."
+    },
+    {
+      "title": "Judgment and award enforcement support",
+      "text": "Where a debtor uses a Samoan entity, creditors need to know what it holds and who controls it. We map connected entities and visible assets from lawful sources, giving counsel a factual basis for recognition, disclosure applications or enforcement steps."
+    },
+    {
+      "title": "Contractor and supplier verification",
+      "text": "Infrastructure, construction and donor-funded projects in Samoa rely on local contractors and suppliers. We verify registration with MCIL, directors and shareholders, operating history and reputation before clients commit to subcontracts or procurement awards."
+    },
+    {
+      "title": "Business principal background research",
+      "text": "In a small society where commercial, family and chiefly relationships overlap, we research the directorships, litigation, published court decisions and press coverage associated with Samoan business principals, presenting findings with appropriate context."
+    },
+    {
+      "title": "Fisheries and tourism counterparties",
+      "text": "Fishing, processing and tourism ventures attract foreign investors and buyers. We review licensing history where publicly reported, corporate standing, disputes and associated parties of counterparties, including any involvement of customary land in tourism developments."
+    }
+  ],
+  "practical": [
+    {"label": "Business languages", "value": "Samoan and English"},
+    {"label": "Time zone", "value": "Pacific/Apia, UTC+13, no daylight saving"},
+    {"label": "Currency", "value": "Samoan tala (WST)"},
+    {"label": "Main business centre", "value": "Apia, on Upolu"},
+    {"label": "Working week", "value": "Monday to Friday"},
+    {"label": "Company registries", "value": "MCIL for domestic companies; SIFA for international companies"},
+    {"label": "Court language", "value": "English, with Samoan also used"},
+    {"label": "Date line note", "value": "Samoa is west of the International Date Line, a day ahead of nearby American Samoa"}
+  ],
+  "tdsc_approach": "Engagements touching Samoa are scoped from Nashville and begin by identifying whether the entity in question is a domestic company registered with MCIL or an international company administered through SIFA, because the available records differ sharply. For domestic entities we use the MCIL online registry and certified extracts. For international companies we work outward from lawful sources in other jurisdictions, such as foreign filings, court records and counterparties, and do not attempt to obtain confidential trustee or SIFA information. Where local inquiry, court searches or Land and Titles Court matters are relevant, we coordinate with qualified Samoan professionals and counsel. Personal data is limited to what the matter needs and handled under the client's applicable data protection standards.",
+  "faqs": [
+    {
+      "q": "Can you find the owners of a Samoan international company?",
+      "a": "Sometimes, but not from a public Samoan register. International companies are formed through licensed trustee companies and administered by SIFA, which offers no public name search. We work from lawful sources elsewhere, including foreign corporate filings, litigation, financial statements of related businesses and media, and state plainly where ownership remains unconfirmed."
+    },
+    {
+      "q": "What can the domestic MCIL registry show?",
+      "a": "The MCIL online registry covers companies registered under the Companies Act 2001 and allows searches by name or number, with a director and shareholder search. Inspection of a company file and certified extracts are available for published fees. We obtain these records and reconcile them with other lawful sources before relying on them."
+    },
+    {
+      "q": "Does Samoa have a data protection law?",
+      "a": "We have not confirmed a comprehensive data protection statute or dedicated regulator in force as of 2025, although some secondary sources refer to privacy legislation we could not verify. Investigative work is still constrained by the Crimes Act 2013 and sectoral confidentiality rules, and we apply the client's own data protection obligations to any personal data handled."
+    },
+    {
+      "q": "Why might the Land and Titles Court be relevant to a commercial matter?",
+      "a": "Much land in Samoa is held under customary tenure connected to chiefly titles, and disputes over that land and those titles are heard by the Land and Titles Court. Where a tourism, agricultural or development project depends on customary land, the history of related disputes can be material to investors and lenders."
+    },
+    {
+      "q": "Which AML law applies to Samoan financial service providers?",
+      "a": "The Money Laundering Prevention Act 2007 is the principal statute. The Central Bank of Samoa oversees domestic banks, and SIFA supervises international financial services providers, including trustee companies. Clients relying on a Samoan provider's due diligence should understand these supervisory arrangements; TDSC does not give legal advice on compliance obligations."
+    }
+  ],
+  "sources": [
+    {"title": "Samoa Bureau of Statistics: Census 2021 Final Report", "url": "https://www.sbs.gov.ws/documents/census/2021/Census_2021_Final_Report.pdf"},
+    {"title": "ITU Cyberwellness Profile: Samoa", "url": "https://www.itu.int/en/ITU-D/Cybersecurity/Documents/Country_Profiles/Samoa.pdf"},
+    {"title": "Business Data Guide: Samoa company search guide", "url": "https://businessdataguide.com/blog/jurisdictions/samoa-company-search-guide"},
+    {"title": "MCIL: Business registration", "url": "https://mcil.gov.ws/services/business-registration"},
+    {"title": "Shufti Pro: Samoa AML/KYC overview", "url": "https://shuftipro.com/samoa/"},
+    {"title": "Kaizen CPA: Samoa international companies due diligence, beneficial owners", "url": "https://kaizencpa.com/Knowledge/info/id/507.html"},
+    {"title": "Lawgratis: Privacy law in Samoa", "url": "https://www.lawgratis.com/blog-detail/privacy-law-at-samoa"}
+  ],
+  "review_flags": [
+    "Data protection status unresolved: ITU profile (2014) lists no privacy law, but secondary blogs cite a 'Privacy Act 2013' and an 'Office of the Privacy Commissioner' with conflicting dates. Verify against official Samoan legislation (PacLII) before publishing.",
+    "No private investigator licensing regime identified; confirm with Samoan counsel.",
+    "Anti-corruption provisions and lead enforcement body not verified; Samoa FIU not confirmed from sources.",
+    "Court structure (District Court, Supreme Court, Court of Appeal, Land and Titles Court) stated from general knowledge, not from a source opened in this batch.",
+    "No public beneficial ownership register confirmed for domestic or international companies; status may change.",
+    "MCIL business registration page was in search results but not opened."
+  ],
+  "researched": "2026-11-04"
+}
