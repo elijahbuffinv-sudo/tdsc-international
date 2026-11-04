@@ -101,3 +101,4 @@
 
 .tdsc-nav a{white-space:nowrap}
 @media(max-width:1500px){.tdsc-nav .tdsc-nav__hide-md{display:none}}
+.v-hdr-search .v-results{left:auto;right:0}

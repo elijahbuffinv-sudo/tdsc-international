@@ -1,0 +1,142 @@
+{
+  "cc": "MY",
+  "name": "Malaysia",
+  "meta_description": "TDSC investigative consulting on Malaysia: Section 17A third-party reviews, SSM company records, PDPA-aware due diligence and licensed local coordination.",
+  "eyebrow": "Federation of Malaysia",
+  "hero_lede": "Investigative consulting for matters touching Malaysia means working with SSM company records, a beneficial ownership register that is closed to the public, a recently amended Personal Data Protection Act, and an investigator licensing regime under the Private Agencies Act 1971 administered by the Home Ministry.",
+  "intro": [
+    "Malaysia is a federation of thirteen states and three federal territories, with commercial activity centred on the Klang Valley around Kuala Lumpur and hubs in Penang, Johor, Sabah and Sarawak. Its legal system follows the common law, with English-style courts and parallel Syariah courts for Islamic personal law. Companies are registered with the Companies Commission of Malaysia (SSM), and since 1 April 2024 every company must keep a beneficial ownership register and lodge changes with SSM. The Personal Data Protection Act 2010 was substantially amended in 2024, with changes phased in during 2025, and Section 17A of the anti-corruption law has made companies liable for bribery since June 2020.",
+    "Organisations commission work involving Malaysia because of its weight in semiconductors and electronics, palm oil, oil and gas, Islamic finance, logistics and data centres, and because many regional groups hold assets through Malaysian and Labuan structures. Recurring exposures include government-linked contracting and procurement, politically connected counterparties, related-party transactions within family-controlled conglomerates, agents and intermediaries whose conduct can trigger corporate liability, and fraud schemes routed through nominee companies. Investors, lenders, insurers and counsel regularly need reliable background on Malaysian parties, analysis of ownership and control, and documentary support for disputes heard in the High Courts or at the Asian International Arbitration Centre in Kuala Lumpur."
+  ],
+  "population": {
+    "value": "36.0 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/MY/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Malaysia has a common-law system, with Syariah courts handling Islamic personal law for Muslims. The Federal Court is the apex court, above the Court of Appeal and two High Courts of coordinate jurisdiction: the High Court in Malaya and the High Court in Sabah and Sarawak. Sessions Courts hear civil claims up to RM1 million. Arbitration is governed by the Arbitration Act 2005, amended in 2024 to regulate third-party funding, and the Asian International Arbitration Centre (AIAC) in Kuala Lumpur is the leading institution. Foreign judgments from reciprocating countries may be registered under the Reciprocal Enforcement of Judgments Act 1958.",
+  "data_protection": {
+    "law": "Personal Data Protection Act 2010 (PDPA), as amended by the Personal Data Protection (Amendment) Act 2024",
+    "regulator": "Personal Data Protection Commissioner, with appeals to the Personal Data Protection Appeal Tribunal",
+    "summary": "The PDPA covers personal data processed in respect of commercial transactions, so private-sector investigative work generally falls within it. Consent is the default basis, subject to statutory exceptions that should be assessed for each matter. Data about the commission or alleged commission of an offence is sensitive personal data, as is biometric data since the 2024 amendments. Cross-border transfers are permitted to jurisdictions with substantially similar law or equivalent protection, or under exceptions such as consent and reasonable due diligence; guidelines issued in April 2025 require a transfer impact assessment. Breach notification and data protection officer duties applied from 1 June 2025. Breaches of the PDPA are criminal offences, and directors and officers can be personally liable."
+  },
+  "investigator_regulation": "Private investigation is a licensed activity in Malaysia. The Private Agencies Act 1971 (Act 27), administered by the Ministry of Home Affairs, covers agencies that gather and give information about the behaviour, activities or business of other persons, alongside guarding and protection services. Ministry licensing terms require a private limited company, majority Bumiputera shareholding and a shareholder who is a former senior police or army officer. The Private Agencies (Amendment) Bill 2025, passed by the Dewan Rakyat on 9 October 2025, strengthens regulation of security and investigation agencies; press reporting at the time cited 36 registered private investigators nationwide.",
+  "corporate_records": "The Companies Commission of Malaysia (SSM) maintains the register of companies and businesses, from which company profiles, officer details and filed documents can be obtained. Since 1 April 2024, companies must keep a beneficial ownership register identifying individuals holding 20 percent or more of shares or voting rights, or exercising ultimate effective control, and lodge changes with SSM within 14 days. Access is restricted under the Companies (Access to the Register and Information Relating to Beneficial Ownership) Regulations 2025 to beneficial owners, persons they authorise, AML reporting institutions, Bank Negara Malaysia, enforcement agencies and governments for procurement; the public is not included.",
+  "anti_corruption": "The Malaysian Anti-Corruption Commission Act 2009 is the principal statute, enforced by the Malaysian Anti-Corruption Commission (MACC). Section 17A, in force since 1 June 2020, makes commercial organisations liable for corruption by associated persons, including agents and joint venture partners, with fines of at least ten times the gratification or RM1 million, unless the organisation proves adequate procedures under the government's 2018 TRUST guidelines. Money laundering is addressed by the Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001, with Bank Negara Malaysia as competent authority.",
+  "matters": [
+    {
+      "title": "Section 17A third-party due diligence",
+      "text": "Integrity reviews of agents, distributors, consultants and joint venture partners whose conduct could expose a company to corporate liability under Section 17A, forming part of the risk assessment and control measures expected under the adequate procedures guidelines."
+    },
+    {
+      "title": "Government-linked and politically connected counterparties",
+      "text": "Background research on counterparties with links to government-linked companies, state agencies or political figures, drawing on SSM filings, court records and English and Malay-language media to identify relationships relevant to procurement, licensing and reputational risk."
+    },
+    {
+      "title": "Ownership and control analysis",
+      "text": "Mapping ownership of Malaysian companies and their Labuan or offshore holding entities where the beneficial ownership register is not publicly accessible, combining SSM shareholder and officer records, group structures, litigation and media to identify who controls a business in practice."
+    },
+    {
+      "title": "Asset tracing for enforcement",
+      "text": "Identification of companies, shareholdings, property interests and business relationships connected to a judgment or award debtor, supporting Malaysian counsel considering registration under the Reciprocal Enforcement of Judgments Act or enforcement of an arbitral award. in the High Court"
+    },
+    {
+      "title": "Fraud and employee misconduct support",
+      "text": "Documentary research for counsel and internal investigators examining procurement fraud, conflicts of interest or diversion of business, with field enquiries routed to agencies licensed under the Private Agencies Act and personal data handled with regard to the PDPA."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Malay (Bahasa Malaysia) and English; Chinese dialects and Tamil also widely used"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Kuala_Lumpur, UTC+8 (no daylight saving time)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday in most states; Sunday to Thursday in Kelantan, Terengganu and Kedah"
+    },
+    {
+      "label": "Currency",
+      "value": "Malaysian ringgit (MYR)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Kuala Lumpur and the Klang Valley, Penang, Johor Bahru, Kota Kinabalu, Kuching"
+    },
+    {
+      "label": "Courts language",
+      "value": "Malay and English; superior court proceedings frequently in English"
+    },
+    {
+      "label": "Company registry",
+      "value": "Companies Commission of Malaysia (SSM)"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Malaysian matters from Nashville by defining the client's purpose, the PDPA exceptions that may apply, and how findings will be transferred, with a transfer impact assessment where required. Because the beneficial ownership register is closed to the public, ownership work relies on SSM company and officer records, court records, regulatory announcements and English and Malay-language media, reviewed by analysts familiar with Malaysian corporate practice. Where an assignment requires interviews, observation or other information gathering on the ground, TDSC coordinates agencies licensed under the Private Agencies Act 1971 and works alongside Malaysian counsel. TDSC holds no Malaysian licence, does not approach officials for information, obtain non-public records or use pretexting, and keeps case data under restricted access.",
+  "faqs": [
+    {
+      "q": "Does a foreign firm need a licence to investigate in Malaysia?",
+      "a": "Gathering and giving information about the activities of other persons is a licensed activity under the Private Agencies Act 1971, with licences set by the Ministry of Home Affairs. TDSC does not hold a Malaysian licence; it performs desk research from Nashville and coordinates appropriately licensed Malaysian agencies for any local field work."
+    },
+    {
+      "q": "Can the beneficial owners of a Malaysian company be searched?",
+      "a": "Not by the public. Companies have kept beneficial ownership registers since April 2024, but 2025 regulations limit access to the owners themselves, persons they authorise, AML reporting institutions, Bank Negara Malaysia, enforcement agencies and governments for procurement. Ownership analysis therefore relies on shareholder and officer filings, group structures and corroborating sources."
+    },
+    {
+      "q": "How does Section 17A affect due diligence on Malaysian partners?",
+      "a": "Section 17A makes a company liable when an associated person, which can include agents, intermediaries and joint venture partners, gives gratification for its benefit. The main defence is adequate procedures, and the government's guidelines list risk assessment and controls over third parties. Documented due diligence is one part of that framework."
+    },
+    {
+      "q": "Is data about alleged offences restricted under the PDPA?",
+      "a": "Yes. Information about the commission or alleged commission of an offence is sensitive personal data under the PDPA, attracting stricter processing conditions. Research touching criminal allegations, litigation or regulatory action is scoped carefully, sourced from public records where possible and reviewed with counsel on the applicable exception before findings are shared."
+    },
+    {
+      "q": "Where are Malaysian commercial disputes usually resolved?",
+      "a": "Commercial litigation is heard in the High Court in Malaya or the High Court in Sabah and Sarawak, with appeals to the Court of Appeal and Federal Court. Arbitration under the Arbitration Act 2005 is common, frequently administered by the Asian International Arbitration Centre in Kuala Lumpur."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Malaysia",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=MY"
+    },
+    {
+      "title": "World Bank: Population, total (Malaysia)",
+      "url": "https://api.worldbank.org/v2/country/MY/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "Ministry of Home Affairs: Terms to apply for private agency licence under the Private Agency Act 1971",
+      "url": "https://moha.gov.my/index.php/en/2012-08-15-01-17-06"
+    },
+    {
+      "title": "Free Malaysia Today: Bill to streamline private security licence renewals passed (9 October 2025)",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2025/10/09/bill-to-streamline-private-security-licence-renewals-passed"
+    },
+    {
+      "title": "Skrine: The Companies (Amendment) Act 2024, Part 1",
+      "url": "https://www.skrine.com/insights/alerts/april-2024/the-companies-amendment-act-2024-–-part-1"
+    },
+    {
+      "title": "AmCham Malaysia: Regulations issued to regulate access to beneficial ownership information of companies",
+      "url": "https://amcham.com.my/wp-content/uploads/3.-Regulations-issued-to-regulate-access-to-beneficial-ownership-information-of-companies.pdf"
+    },
+    {
+      "title": "Skrine: Corporate liability for corruption to be enforced from 1 June 2020",
+      "url": "https://www.skrine.com/insights/alerts/may-2020/corporate-liability-for-corruption-to-be-enforced"
+    },
+    {
+      "title": "ASEAN Briefing: Dispute resolution in Malaysia",
+      "url": "https://www.aseanbriefing.com/news/malaysia-dispute-resolution-arbitration-mediation/"
+    }
+  ],
+  "review_flags": [
+    "Private Agencies (Amendment) Bill 2025 passed the Dewan Rakyat on 9 October 2025; Senate passage, royal assent and commencement not verified. Licence terms on the MOHA page (Bumiputera 70%, former officer shareholder) may change.",
+    "The '36 registered private investigators' figure is from press reporting of the parliamentary debate.",
+    "PDPA statutory exceptions to consent not listed in the source opened; no breach-notification deadline stated. Further PDPA guidelines expected in 2026.",
+    "Common-law/Syariah characterisation, court languages, state working weeks (Friday-Saturday weekends in Kelantan, Terengganu and Kedah) and Labuan references are general knowledge rather than sources opened this session; state weekend arrangements change periodically.",
+    "Public availability of SSM company profiles and officer details stated from general knowledge; SSM e-Info product pages not opened."
+  ],
+  "researched": "2026-11-04"
+}

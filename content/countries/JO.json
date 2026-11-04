@@ -1,0 +1,146 @@
+{
+  "cc": "JO",
+  "name": "Jordan",
+  "meta_description": "TDSC investigative consulting on Jordan: due diligence, asset research and counterparty screening scoped to Law No. 24 of 2023 on personal data protection.",
+  "eyebrow": "Hashemite Kingdom of Jordan",
+  "hero_lede": "Investigative consulting for matters touching Jordan involves Arabic-language registries and courts, a personal data protection law that took effect in 2024, and a business community linked closely to Gulf, Iraqi and Palestinian markets. TDSC scopes each engagement from Nashville and works through qualified local professionals where required.",
+  "intro": [
+    "Jordan is a constitutional monarchy with a services-led economy, a sizeable banking sector and a long tradition of acting as a commercial and logistical gateway to Iraq, the Gulf and the Levant. Its legal system is codified, its courts operate in Arabic, and its corporate regulator, the Companies Control Department, has in recent years introduced beneficial ownership disclosure as part of wider transparency commitments. Law No. 24 of 2023 introduced Jordan's first comprehensive personal data protection regime. For investigators, the practical consequences are a reliance on Arabic-language sources, careful attention to consent when handling personal data, and a need to read corporate structures that frequently involve family holdings and cross-border affiliates.",
+    "Organisations commission investigative work involving Jordan when they appoint distributors or agents in Amman, invest in pharmaceuticals, mining, technology or tourism, finance projects in the Aqaba Special Economic Zone, or work with Jordanian intermediaries on reconstruction and trade linked to neighbouring markets. Humanitarian and development organisations based in Amman also seek lawful vetting of implementing partners and suppliers. Typical exposures include undisclosed ownership or political connections, procurement irregularities, diversion of funds, and disputes in which assets or principals have moved between Jordan and the Gulf. Law firms instruct background and asset research to support arbitration and enforcement strategy."
+  ],
+  "population": {
+    "value": "11.52 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/JO/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Jordan has a civil law system based on codified legislation, with Islamic law applied in personal status matters through Sharia courts. Commercial disputes are heard in the regular courts: Courts of First Instance, Courts of Appeal and the Court of Cassation at the apex. Arbitration is governed by Arbitration Law No. 31 of 2001, substantially amended by Law No. 16 of 2018, which made the Court of Cassation the competent court for set-aside actions and enforcement of domestic awards. Commentators note that Jordan lacks a strong domestic arbitral institution; the Jordanian Arbitration Association is primarily a membership body.",
+  "data_protection": {
+    "law": "Personal Data Protection Law No. 24 of 2023",
+    "regulator": "Ministry of Digital Economy and Entrepreneurship (personal data protection unit) and the Personal Data Protection Council",
+    "summary": "Law No. 24 of 2023 requires prior consent that is explicit, documented, specific and clear unless another basis in the law applies, and consent can be withdrawn at any time. Processing must serve a lawful, specific and clear purpose. Sensitive data includes criminal records, health information and political or religious opinions, which bears directly on background screening. Transfers outside Jordan are restricted where the recipient's level of protection is lower than Jordan's, subject to narrow exceptions, and appointing a data protection officer is required when transferring data to databases outside the Kingdom. Investigative work involving Jordanian residents should document consent or another lawful basis before collection begins."
+  },
+  "investigator_regulation": "We have not identified a published statutory licensing regime for private investigators or detective agencies in Jordan, and we have not confirmed whether such activity is recognised as a registrable business. In practice, private enquiries touching Jordan should be limited to open-source research, lawfully available registry and court information and properly arranged interviews. Surveillance of individuals, interception or recording of communications, and any attempt to obtain police, telecommunications, banking or civil status records are matters for the authorities and carry criminal and data protection risk. Engagements involving local activity are scoped first with Jordanian counsel.",
+  "corporate_records": "Companies are registered with the Companies Control Department under the Companies Law No. 22 of 1997, and basic company details are available through its online services. Regulation No. 62 of 2022 on the Beneficial Ownership Register requires companies to submit beneficial ownership information to the Department through its portal; the published guidance describes access by competent judicial, administrative, law enforcement and supervisory authorities and does not confirm public access. Shareholder registers for some company types are kept by the company itself. Court judgments are not comprehensively searchable by the public, so litigation research usually requires counsel's assistance.",
+  "anti_corruption": "Jordan's principal anti-corruption statute is the Integrity and Anti-Corruption Law No. 13 of 2016, amended by Law No. 25 of 2019, which replaced the earlier anti-corruption commission and ombudsman laws. Bribery offences also appear in the Penal Code. Money laundering and terrorist financing are governed by the Anti-Money Laundering and Counter Terrorist Financing Law No. 20 of 2021, under which the Anti-Money Laundering and Counter Terrorist Financing Unit acts as the financial intelligence unit. The Integrity and Anti-Corruption Commission and the Public Prosecution lead enforcement.",
+  "matters": [
+    {
+      "title": "Agent and distributor vetting",
+      "text": "Background review of Jordanian agents, distributors and resellers before appointment, covering corporate history with the Companies Control Department, ownership and family connections, adverse media in Arabic and English, and any links to public officials that could raise bribery exposure."
+    },
+    {
+      "title": "Regional trade and reconstruction counterparties",
+      "text": "Counterparty research on Amman-based trading and logistics firms involved in commerce with Iraq, Syria and the wider Levant, assessing beneficial ownership, operating history and red flags relevant to sanctions screening, export controls and diversion risk across the supply chain."
+    },
+    {
+      "title": "Implementing partner due diligence",
+      "text": "Lawful vetting of local implementing partners, contractors and suppliers for development and humanitarian organisations based in Amman, focusing on governance arrangements, key personnel, conflicts of interest, financial integrity indicators and prior allegations of misuse of funds."
+    },
+    {
+      "title": "Asset research for arbitration",
+      "text": "Research supporting counsel pursuing or defending claims involving Jordanian parties, identifying corporate interests, real estate links and affiliated companies in Jordan and the Gulf, and assessing enforcement prospects before the Court of Cassation or abroad."
+    },
+    {
+      "title": "Investment and acquisition reviews",
+      "text": "Pre-transaction integrity reviews of Jordanian targets in pharmaceuticals, technology, mining and tourism, examining shareholders and related parties, management track records, litigation visible in lawful sources and regulatory history that may affect valuation or warranties. Findings are sourced and graded."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Arabic (official); English widely used in business and banking"
+    },
+    {
+      "label": "Working week",
+      "value": "Sunday to Thursday"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Amman, UTC+3 (year-round)"
+    },
+    {
+      "label": "Courts language",
+      "value": "Arabic; foreign documents need certified Arabic translation"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Amman, Aqaba, Irbid, Zarqa"
+    },
+    {
+      "label": "Currency",
+      "value": "Jordanian dinar (JOD), pegged to the US dollar"
+    },
+    {
+      "label": "Business culture",
+      "value": "Personal introductions and family networks carry weight"
+    }
+  ],
+  "tdsc_approach": "TDSC handles matters touching Jordan from Nashville and holds no licence in the Kingdom. Scoping starts with the questions the client must answer and a review of which sources can lawfully be used, including whether collection or onward transfer of personal data engages Law No. 24 of 2023. Research draws on Companies Control Department records, Arabic and English open sources, published judgments and properly arranged interviews. Where enquiries inside Jordan are needed, TDSC coordinates with Jordanian counsel and qualified, appropriately authorised local professionals. TDSC does not seek police, telecommunications, banking or civil status records, and does not use pretexting. Reports distinguish verified facts from indications, cite their sources and note gaps, and personal data is kept to what the engagement requires.",
+  "faqs": [
+    {
+      "q": "Is it possible to identify the beneficial owners of a Jordanian company?",
+      "a": "Regulation No. 62 of 2022 requires companies to report beneficial owners to the Companies Control Department, but the published guidance frames access around competent authorities rather than the public. TDSC builds an ownership picture from lawfully available company details, filings in other jurisdictions and open-source research, and reports clearly where ownership cannot be confirmed."
+    },
+    {
+      "q": "Does Jordan's data protection law affect pre-employment screening?",
+      "a": "Yes. Law No. 24 of 2023 treats criminal records and certain other categories as sensitive data and centres processing on explicit, documented consent. Screening of candidates in Jordan should be designed with consent, purpose limitation and data minimisation in mind, and transfers of results outside Jordan considered against the law's transfer restrictions."
+    },
+    {
+      "q": "Can TDSC conduct surveillance or locate individuals in Jordan?",
+      "a": "TDSC does not conduct surveillance in Jordan. We have not identified a licensing regime that would authorise it, and covert monitoring raises criminal and privacy risks. Where a client needs to locate a person, for example for service of proceedings, TDSC uses lawful open sources and works through Jordanian counsel on the appropriate formal route."
+    },
+    {
+      "q": "Where are commercial disputes with Jordanian parties usually resolved?",
+      "a": "Many contracts provide for arbitration, governed in Jordan by Arbitration Law No. 31 of 2001 as amended in 2018, with the Court of Cassation competent for set-aside and enforcement of domestic awards. Others proceed in the ordinary courts. TDSC research supports counsel's strategy in either forum but does not advise on the law."
+    },
+    {
+      "q": "Why do organisations in Amman commission partner vetting?",
+      "a": "Amman hosts many regional offices of development agencies, contractors and traders serving neighbouring markets. Funding conditions, sanctions obligations and anti-bribery laws in donor and home countries require organisations to understand who their partners are. TDSC reviews governance, ownership, adverse media and conflicts so that decisions rest on documented findings."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Jordan",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=JO"
+    },
+    {
+      "title": "Al Tamimi: Jordan's new data protection law",
+      "url": "https://www.tamimi.com/news/jordans-new-data-protection-law-safeguarding-personal-data"
+    },
+    {
+      "title": "Companies Control Department: Beneficial ownership guidelines and forms",
+      "url": "https://ccd.gov.jo/EBV4.0/Root_Storage/AR/PDF2023/BO_Guidelines_with_examples_and_BO_forms_for_Legal_Entities_and_Legal_Arrangements.pdf"
+    },
+    {
+      "title": "Al Tamimi: Amended arbitration legislative framework in Jordan",
+      "url": "https://www.tamimi.com/law-update-articles/amended-arbitration-legislative-framework-in-jordan/"
+    },
+    {
+      "title": "Global Arbitration Review: Arbitration in Jordan, all the right pieces but missing the institution",
+      "url": "https://globalarbitrationreview.com/review/the-middle-eastern-and-african-arbitration-review/2026/article/jordan-arbitration-in-jordan-all-the-right-pieces-missing-the-institution"
+    },
+    {
+      "title": "UN ESCWA Arab Legislative Portal: Law 13 of 2016 on Integrity and Anti-Corruption",
+      "url": "https://alp.unescwa.org/legislations/law-13-2016-integrity-and-anti-corruption"
+    },
+    {
+      "title": "UN ESCWA Arab Legislative Portal: Law 25 of 2019 amending the Integrity and Anti-Corruption Law",
+      "url": "https://alp.unescwa.org/legislations/law-25-2019-integrity-and-anti-corruption-law-amendments"
+    },
+    {
+      "title": "LearnSignal: Jordan AML obligations under Law No. 20 of 2021",
+      "url": "https://www.learnsignal.com/blog/jordan-aml-obligations-accountants-law-no-20-of-2021-amlu-guide/"
+    },
+    {
+      "title": "World Bank: Population, total (Jordan)",
+      "url": "https://api.worldbank.org/v2/country/JO/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    }
+  ],
+  "review_flags": [
+    "No private investigator licensing regime identified for Jordan; confirm with Jordanian counsel.",
+    "Data protection law effective date: Al Tamimi (Oct 2023) expected entry into force by March 2024; page says 'took effect in 2024' without an exact date. Status of implementing regulations not checked.",
+    "Public access to the CCD beneficial ownership register not confirmed; text says guidance does not confirm public access.",
+    "AML law source is a secondary training site, not the AMLU's official page; Integrity and Anti-Corruption Commission named from general knowledge.",
+    "Companies Law No. 22 of 1997 is cited from the CCD guidance; 'basic company details available online', Sharia courts, Aqaba SEZ, working week and permanent UTC+3 are stated from general knowledge."
+  ],
+  "researched": "2026-11-04"
+}

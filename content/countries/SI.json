@@ -1,0 +1,144 @@
+{
+  "cc": "SI",
+  "name": "Slovenia",
+  "meta_description": "TDSC investigative consulting on Slovenia: due diligence, asset tracing and dispute support using AJPES registers, ZVOP-2 and the 2024 Detective Act.",
+  "eyebrow": "Republic of Slovenia",
+  "hero_lede": "Investigative consulting for matters touching Slovenia combines free AJPES business register data with careful handling of personal data under the GDPR and ZVOP-2, and relies on detectives licensed by the Detective Chamber under the 2024 Detective Activity Act for any work carried out in the country.",
+  "intro": [
+    "Slovenia is a small, export-oriented eurozone economy with a well-organised public records system. The Agency of the Republic of Slovenia for Public Legal Records and Related Services (AJPES) keeps the Slovenian Business Register, whose data and electronically signed extracts are available free of charge online, alongside court register extracts and annual reports. Personal data are governed by the GDPR and the Personal Data Protection Act (ZVOP-2), in force since January 2023 and supervised by the Information Commissioner. Private detective work is a licensed profession with its own statute, the Detective Activity Act (ZDD-2), published in November 2024, which gives licensed detectives defined powers and sets clear limits on their methods.",
+    "Organisations commission work involving Slovenia because of its role as a gateway between Central Europe, Italy, Austria and the Western Balkans. The Port of Koper, pharmaceuticals, automotive components, household appliances, energy and logistics generate cross-border supply chains and distribution networks. Typical exposures include distributor and agent fraud, conflicts of interest in procurement, related-party dealing with companies in Croatia, Serbia, Bosnia and Herzegovina or Austria, ownership questions in privatised or state-influenced companies, and asset recovery against debtors who move property across borders in the former Yugoslav region. Investors and lenders also seek background checks on Slovenian managers and owners before acquisitions and financings."
+  ],
+  "population": {
+    "value": "2.13 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/SI/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Slovenia has a civil law system shaped by the Austrian and former Yugoslav traditions. Contract law is codified in the Obligations Code and company law in the Companies Act (ZGD-1). Commercial disputes are heard by district courts at first instance, with appeals to the higher courts and review by the Supreme Court; the Constitutional Court protects fundamental rights, and the District Court in Ljubljana is the main venue for commercial litigation. Institutional arbitration is available through the Ljubljana Arbitration Centre at the Chamber of Commerce and Industry of Slovenia.",
+  "data_protection": {
+    "law": "General Data Protection Regulation (EU) 2016/679 and Personal Data Protection Act (ZVOP-2, 2022)",
+    "regulator": "Information Commissioner of the Republic of Slovenia (Informacijski pooblaščenec)",
+    "summary": "ZVOP-2 entered into force on 26 January 2023 and supplements the GDPR. Investigative processing needs a GDPR lawful basis, typically legitimate interests or legal claims, and ZVOP-2 adds Slovenian specifics: restrictions on processing criminal conviction data, rules on personal data in legal proceedings, and detailed conditions for video surveillance, including notice requirements and a ban in places such as changing rooms and toilets. Employee matters also engage the Employment Relationships Act. Certain categories of records, including healthcare, citizenship and criminal records, must stay in Slovenia, and transfers outside the EEA follow GDPR Chapter V."
+  },
+  "investigator_regulation": "Private detectives are regulated by the Detective Activity Act (ZDD-2), adopted in October 2024 and published in Official Gazette No. 95/2024, which replaced ZDD-1. Licences and identification cards are issued by the Detective Chamber of the Republic of Slovenia, which keeps the register and supervises professional work, while the interior ministry's inspectorate carries out inspections. Detectives act on a written client mandate and may obtain data from persons, public sources and specified official records, observe in public places for limited periods and use certain technical means; audio recording requires the subject's written consent. Covert measures reserved to police and intelligence services and entry into private premises are prohibited.",
+  "corporate_records": "AJPES keeps the Slovenian Business Register, searchable free of charge through ePRS after registration, showing registration and tax numbers, address, legal representatives and founders, with free electronically signed extracts. Entries in the court register are decided by the registration courts, and ePRS also provides free court register extracts. Annual reports are published through AJPES. The register of beneficial owners is also kept by AJPES, but since 9 August 2025, following amendments to the Prevention of Money Laundering and Terrorist Financing Act (ZPPDFT-2C), access is limited to obliged entities, authorities and persons demonstrating a legitimate interest. Land ownership is recorded in the land register.",
+  "anti_corruption": "Bribery and other corruption offences are defined in the Criminal Code, and companies can be prosecuted under the Liability of Legal Persons for Criminal Offences Act. The Integrity and Prevention of Corruption Act (ZIntPK) establishes the Commission for the Prevention of Corruption, an independent body overseeing asset declarations, conflicts of interest, lobbying and integrity plans. Anti-money laundering obligations derive from ZPPDFT-2, with the Office for Money Laundering Prevention as financial intelligence unit; criminal investigation lies with the police and the State Prosecutor's Office.",
+  "matters": [
+    {
+      "title": "Western Balkans distribution networks",
+      "text": "Investigation of distributor and agent arrangements run from Slovenia into Croatia, Serbia, Bosnia and Herzegovina and North Macedonia, testing for undisclosed ownership by employees, parallel trading, rebate diversion and payments to intermediaries close to public buyers in the region."
+    },
+    {
+      "title": "Pharmaceutical and manufacturing supply chains",
+      "text": "Integrity reviews of suppliers and contract manufacturers serving Slovenian pharmaceutical, automotive component and appliance producers, focusing on undisclosed conflicts of interest in purchasing, quality fraud and related or connected companies registered in Austria, Italy or Croatia."
+    },
+    {
+      "title": "Ownership of state-influenced companies",
+      "text": "Mapping ownership and control of Slovenian companies with state or former state involvement, using AJPES registers, annual reports and court register filings, and identifying links between managers, suppliers and politically exposed persons before investment or financing."
+    },
+    {
+      "title": "Cross-border asset tracing",
+      "text": "Tracing real estate, shareholdings and transfers by Slovenian debtors through the land register, AJPES records and insolvency publications, and following assets into neighbouring jurisdictions of the former Yugoslav region in support of counsel enforcing judgments or awards."
+    },
+    {
+      "title": "Port and logistics fraud",
+      "text": "Fact-finding into cargo diversion, freight invoicing fraud and customs-related misconduct involving the Port of Koper, freight forwarders and road hauliers serving Austrian, Hungarian and other Central European markets, with findings prepared for counsel, insurers or compliance teams."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Slovene; English widely used, German and Italian common in border regions"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Ljubljana, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (EUR) since 2007"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Ljubljana, Maribor, Koper, Celje, Kranj"
+    },
+    {
+      "label": "Court language",
+      "value": "Slovene; Italian and Hungarian also official in designated border municipalities"
+    },
+    {
+      "label": "Business culture",
+      "value": "Reserved, punctual and detail-oriented; small market where reputations travel quickly"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Foreign documents generally need certified Slovene translation for courts and registers"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Slovenian matters from Nashville, beginning with a review of the GDPR, ZVOP-2, employment law where staff are involved, and the boundaries set by the Detective Activity Act. Desk research uses AJPES business register and annual report data, court register extracts, the land register, insolvency publications, court decisions and Slovene-language media. Because Slovenia is a small market where enquiries are quickly noticed, any in-country work, such as discreet enquiries, observation or witness contact, is assigned to detectives licensed by the Detective Chamber and acting on a written mandate, with Slovenian counsel advising on evidence and procedure. Beneficial ownership data are requested only where a legitimate interest can be shown, and findings leave the EEA under GDPR Chapter V safeguards.",
+  "faqs": [
+    {
+      "q": "Who licenses private detectives in Slovenia?",
+      "a": "The Detective Chamber of the Republic of Slovenia. Under the Detective Activity Act (ZDD-2), the Chamber grants licences, issues identification cards, keeps the register of detectives and supervises their professional work, while the interior ministry's inspectorate conducts inspections. Foreign detectives need specific approval to provide services. TDSC is not licensed in Slovenia and coordinates Chamber-licensed detectives."
+    },
+    {
+      "q": "What are Slovenian detectives allowed to do?",
+      "a": "ZDD-2 sets out defined methods: obtaining information from persons and public sources, obtaining certain data from official records within the client's mandate, observing in public or publicly visible places for limited periods, and using specified technical means. Audio recording requires the subject's written consent, and covert measures reserved to police and intelligence services are prohibited."
+    },
+    {
+      "q": "Is Slovenian company information free to access?",
+      "a": "Largely yes. AJPES provides free access to the Slovenian Business Register through ePRS after online registration, including electronically signed extracts and court register extracts showing representatives and founders. Annual reports are also published through AJPES. Bulk reuse of register data is charged, and searches return a limited number of results at a time."
+    },
+    {
+      "q": "Can the Slovenian beneficial ownership register still be searched?",
+      "a": "Not by the general public. Since 9 August 2025, following amendments to ZPPDFT-2 that responded to the 2022 ruling of the Court of Justice of the EU, access is limited to obliged entities, authorities and applicants who demonstrate a legitimate interest to AJPES. Ownership research therefore also relies on court register data and foreign filings."
+    },
+    {
+      "q": "Does ZVOP-2 restrict use of criminal record information?",
+      "a": "Yes. ZVOP-2 restricts processing of personal data relating to criminal convictions and offences, and criminal records are among the categories that must be kept in Slovenia. Background checks on Slovenian individuals therefore rely on lawful public sources such as published court decisions and media rather than criminal record extracts, unless the subject provides one."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Slovenia",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=SI"
+    },
+    {
+      "title": "Uradni list RS: Zakon o detektivski dejavnosti (ZDD-2), No. 95/2024",
+      "url": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2865"
+    },
+    {
+      "title": "SPOT (Slovenian Business Point): Private detective",
+      "url": "https://spot.gov.si/en/activities-and-professions/professions-and-professional-staff/private-detective"
+    },
+    {
+      "title": "AJPES: Slovenian Business Register",
+      "url": "https://www.ajpes.si/Registers/Slovenian_Business_Register"
+    },
+    {
+      "title": "SIBIZ: Slovenia restricts public access to beneficial owner register",
+      "url": "https://sibiz.eu/slovenia-restricts-public-access-to-beneficial-owner-register-following-european-court-of-justice-ruling"
+    },
+    {
+      "title": "Integrity and Prevention of Corruption Act (ZIntPK), English translation, Commission for the Prevention of Corruption",
+      "url": "https://arhiv.kpk-rs.si/en/wp-content/uploads/sites/2/2021/10/ZintPK-ENG.pdf"
+    },
+    {
+      "title": "Uradni list: Novi zakon o detektivih",
+      "url": "https://www.uradni-list.si/novice/pogled/novi-zakon-o-detektivih-varstvo-podatkov-licenciranje-in-nadzor"
+    },
+    {
+      "title": "World Bank population data: Slovenia",
+      "url": "https://api.worldbank.org/v2/country/SI/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    }
+  ],
+  "review_flags": [
+    "ZDD-2 entry-into-force and application dates not confirmed (published 8 November 2024); confirm it is fully applicable and that ZDD-1 references on SPOT are outdated.",
+    "Not verified in a source this session (general knowledge): Obligations Code, Companies Act ZGD-1, court structure and Ljubljana District Court role, Ljubljana Arbitration Centre, Liability of Legal Persons for Criminal Offences Act, Office for Money Laundering Prevention as FIU, land register online availability, Italian and Hungarian as official languages in border municipalities, euro adoption 2007, sectoral examples.",
+    "Beneficial owner register access restricted from 9 August 2025 per a secondary source (SIBIZ); confirm on AJPES."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,142 @@
+{
+  "cc": "LK",
+  "name": "Sri Lanka",
+  "meta_description": "TDSC investigative consulting on Sri Lanka: due diligence, asset research and dispute support under the Anti-Corruption Act 2023 and new ownership disclosure.",
+  "eyebrow": "Democratic Socialist Republic of Sri Lanka",
+  "hero_lede": "Investigative consulting for matters touching Sri Lanka works with a company registry being reshaped by 2025 beneficial ownership rules, a broad Anti-Corruption Act enforced by CIABOC, a data protection act whose substantive provisions await commencement, and coordination with Sri Lankan counsel and qualified local professionals.",
+  "intro": [
+    "Sri Lanka's commercial environment has changed markedly since the 2022 economic crisis and sovereign default. Reform commitments made alongside the IMF programme have produced new legislation, including the Anti-Corruption Act No. 9 of 2023, which extends bribery offences to the private sector, and the Companies (Amendment) Act No. 12 of 2025, which requires companies to identify and report beneficial owners. The Personal Data Protection Act No. 9 of 2022 has been enacted but, as of late 2025, its substantive obligations had not been brought into operation. For investigators, the framework is in transition and record availability should be confirmed matter by matter.",
+    "Organisations commission investigative work involving Sri Lanka because of its export industries, including apparel, tea, rubber and spices, its role in information technology and business process outsourcing, and investment in ports, logistics, tourism and renewable energy, notably around Colombo and the Port City Colombo development. Typical exposures include acquisitions and restructurings of businesses affected by the crisis, supplier and factory integrity in apparel and agricultural supply chains, counterparties connected to state-owned enterprises or public procurement, land and property disputes, and family-controlled groups whose ownership and related-party dealings are not always visible from public filings."
+  ],
+  "population": {
+    "value": "21.76 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/LK/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Sri Lanka has a mixed legal system. Roman-Dutch law forms the general common law, English law strongly influences commercial, company and procedural law, and personal laws such as Kandyan law, Thesawalamai and Muslim law apply to certain communities. Commercial disputes above a set value are heard by the Commercial High Court in Colombo, with appeals to the Supreme Court. Arbitration is governed by the Arbitration Act No. 11 of 1995, and institutional arbitration is available through the ICLP Arbitration Centre and the Sri Lanka National Arbitration Centre. Court proceedings are conducted in Sinhala, Tamil or English.",
+  "data_protection": {
+    "law": "Personal Data Protection Act No. 9 of 2022, as amended by the Personal Data Protection (Amendment) Act No. 22 of 2025",
+    "regulator": "Data Protection Authority of Sri Lanka",
+    "summary": "The Act is modelled on the GDPR and recognises lawful bases including consent, contract, legal obligation and legitimate interests balanced against individuals' rights, with additional conditions for special categories such as health and biometric data. Only the provisions establishing the Data Protection Authority have been brought into operation; the substantive obligations take effect on a date the Minister sets by Gazette Order, which had not been announced as of the latest guidance we reviewed. Once in force, transfers abroad will require instruments specified by the Authority or narrow exceptions. We have not identified a general data localisation requirement. Investigative work should already follow the Act's principles."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators in Sri Lanka. The Regulation of Private Security Agencies Act No. 45 of 1998 requires private security agencies to register, and its implementation now rests with the Ministry of Public Security, Law and Order, previously the Ministry of Defence; whether it extends to investigative services is not clear from the official guidance we reviewed. Investigators have no special access to police, immigration or banking records, and interception of communications is reserved to state authorities. Engagements are therefore scoped with Sri Lankan counsel and confined to lawful public-record, open-source and interview-based enquiries.",
+  "corporate_records": "Companies are incorporated under the Companies Act No. 7 of 2007 and registered with the Department of the Registrar of Companies, from which company details, directors, shareholders and filed documents can generally be obtained by search or certified copy. The Companies (Amendment) Act No. 12 of 2025 requires each company to keep a register of beneficial owners holding ten per cent or more, or exercising effective control, and to notify the Registrar, with penalties of up to one million rupees, ten years' imprisonment or both. Beneficial ownership information is available to competent authorities rather than published. Land records require local searches.",
+  "anti_corruption": "The Anti-Corruption Act No. 9 of 2023 replaced the Bribery Act of 1954 as the principal anti-corruption statute, extending offences to private sector bribery, trading in influence and concealment of assets. It is enforced by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC). Anti-money laundering rules arise under the Prevention of Money Laundering Act No. 5 of 2006 and the Financial Transactions Reporting Act No. 6 of 2006, with the Financial Intelligence Unit of the Central Bank of Sri Lanka as the reporting authority.",
+  "matters": [
+    {
+      "title": "Acquisitions and distressed assets",
+      "text": "Researching the ownership, management, litigation and creditor history of Sri Lankan companies being acquired or restructured after the economic crisis, including family-controlled groups, hotels and listed entities, and testing new beneficial ownership disclosures against shareholder records, media archives and the accounts of former business partners."
+    },
+    {
+      "title": "Apparel and agricultural supply chains",
+      "text": "Supporting brands and buyers that source garments, tea, rubber and spices from Sri Lanka with integrity checks on factories, subcontractors and exporters, including ownership verification, adverse media, labour and environmental controversies, and whether supplier representations to auditors and customers are consistent with public records."
+    },
+    {
+      "title": "Anti-corruption exposure in public projects",
+      "text": "Assessing counterparties involved in infrastructure, energy, port and state-owned enterprise contracts against the broader offences of the Anti-Corruption Act 2023, with attention to links to politically exposed persons, prior CIABOC matters reported in the media, and intermediaries proposed for government-facing work."
+    },
+    {
+      "title": "Land and property disputes",
+      "text": "Assisting counsel with background research on parties to land and development disputes in Colombo, the coastal tourism belt and plantation areas, where title chains can be long, records sit in regional land registries, and the identity and history of earlier owners or claimants must be established."
+    },
+    {
+      "title": "Technology and outsourcing counterparties",
+      "text": "Reviewing Sri Lankan IT and business process outsourcing providers that handle client data or software development, including the true ownership of service companies, the background of founders and key staff, and any earlier disputes over intellectual property, data misuse or unpaid contractors."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "English widely used in business; Sinhala and Tamil are official languages"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Colombo, UTC+5:30 (no daylight saving)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; frequent public holidays, including monthly Poya days"
+    },
+    {
+      "label": "Currency",
+      "value": "Sri Lankan rupee (LKR)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Colombo, Kandy, Galle, Jaffna"
+    },
+    {
+      "label": "Courts language",
+      "value": "Sinhala, Tamil or English"
+    },
+    {
+      "label": "Key registry",
+      "value": "Department of the Registrar of Companies, Colombo"
+    },
+    {
+      "label": "Business culture",
+      "value": "Hierarchical and relationship-based; senior family members often decide"
+    }
+  ],
+  "tdsc_approach": "Engagements touching Sri Lanka are scoped from Nashville, beginning with a review of what the client must establish and which records can lawfully be obtained while the companies, data protection and anti-corruption frameworks continue to change. Research draws on Registrar of Companies filings, Colombo Stock Exchange disclosures for listed companies, reported court decisions, media archives and open sources in English, Sinhala and Tamil. Where enquiries in Sri Lanka are needed, TDSC coordinates qualified local professionals working with Sri Lankan counsel and limits them to lawful methods, without surveillance, recording or access to official databases. Personal data is handled in line with the Personal Data Protection Act's principles ahead of its full commencement. TDSC does not use pretexting.",
+  "faqs": [
+    {
+      "q": "Can beneficial owners of Sri Lankan companies be identified?",
+      "a": "Partly. Since the Companies (Amendment) Act No. 12 of 2025, companies must keep a register of beneficial owners holding ten per cent or more or exercising effective control, and notify the Registrar. That information is intended for competent authorities rather than public search. We combine shareholder records, filed documents, listed-company disclosures and open sources to build a view of ownership."
+    },
+    {
+      "q": "Is the Personal Data Protection Act in force?",
+      "a": "Only in part. The Personal Data Protection Act No. 9 of 2022, amended in 2025, established the Data Protection Authority, but its substantive obligations take effect only on a date set by Gazette Order, which had not been announced in the latest guidance we reviewed. We nonetheless apply its principles, including a documented lawful basis and data minimisation."
+    },
+    {
+      "q": "How does the Anti-Corruption Act 2023 affect private companies?",
+      "a": "The Act goes further than the Bribery Act of 1954 it replaced. It reaches bribery in the private sector, trading in influence and concealment of assets, and allows companies themselves to be prosecuted where the statute provides. Organisations working with Sri Lankan partners, agents or state-linked bodies therefore have stronger reasons to document due diligence before entering commitments."
+    },
+    {
+      "q": "Are private investigators licensed in Sri Lanka?",
+      "a": "We have not identified a licensing law specific to private investigators. Private security agencies must register under the Regulation of Private Security Agencies Act No. 45 of 1998, but that regime is directed at security services. We work through Sri Lankan counsel and qualified local professionals, using lawful public-record and interview-based enquiries only."
+    },
+    {
+      "q": "Which court hears commercial disputes in Sri Lanka?",
+      "a": "Commercial disputes above a set value are heard by the Commercial High Court in Colombo, with appeals to the Supreme Court, while many contracts provide for arbitration under the Arbitration Act No. 11 of 1995. Investigative findings intended for Sri Lankan proceedings should be prepared with local counsel so that sourcing and translation meet evidential expectations."
+    }
+  ],
+  "sources": [
+    {
+      "title": "World Bank: Population, total (Sri Lanka)",
+      "url": "https://api.worldbank.org/v2/country/LK/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Sri Lanka",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=LK"
+    },
+    {
+      "title": "Neelakandan & Neelakandan: Beneficial ownership disclosure under the Companies (Amendment) Act No. 12 of 2025",
+      "url": "https://neelakandan.lk/insights/the-end-of-hidden-ownership-beneficial-ownership-disclosure-under-the-companies-amendment-act-no-12-of-2025"
+    },
+    {
+      "title": "D. L. & F. De Saram: Corporate criminal liability in Sri Lanka",
+      "url": "https://www.desaram.com/corporate-criminal-liability-in-sri-lanka/"
+    },
+    {
+      "title": "CIABOC: Anti-Corruption Act No. 9 of 2023",
+      "url": "https://ciaboc.gov.lk/offences/money-laundering/aca"
+    },
+    {
+      "title": "Ministry of Defence: Private security agencies",
+      "url": "https://www.defence.lk/Services/privates_security_agencies"
+    },
+    {
+      "title": "Central Bank of Sri Lanka: Financial Intelligence Unit",
+      "url": "https://www.cbsl.gov.lk/en/financial-intelligence-unit"
+    }
+  ],
+  "review_flags": [
+    "Personal Data Protection Act substantive provisions not yet in operation per DLA Piper; check for a commencement Gazette Order before publishing. Amendment Act number (No. 22 of 2025) and date taken from DLA Piper only.",
+    "No PI-specific licensing law identified; whether the Regulation of Private Security Agencies Act No. 45 of 1998 covers investigative services is unconfirmed. Confirm with Sri Lankan counsel.",
+    "Commencement date of the Companies (Amendment) Act No. 12 of 2025 beneficial ownership provisions and whether any BO data will be made public were not confirmed (web fetch limit reached).",
+    "Legal system details (Commercial High Court, Arbitration Act No. 11 of 1995, ICLP and SLNAC centres, personal laws), AML Act numbers (PMLA No. 5 of 2006, FTRA No. 6 of 2006), public availability of Registrar of Companies records and land registration statements are from general knowledge or search-result titles, not pages opened.",
+    "Anti-Corruption Act corporate liability and private sector scope sourced from a law-firm article; Act text not opened."
+  ],
+  "researched": "2026-11-04"
+}

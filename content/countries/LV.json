@@ -1,0 +1,145 @@
+{
+  "cc": "LV",
+  "name": "Latvia",
+  "meta_description": "TDSC investigative consulting on Latvia: due diligence, asset tracing and dispute support using the open Register of Enterprises and Latvian GDPR rules.",
+  "eyebrow": "Republic of Latvia",
+  "hero_lede": "Investigative consulting for matters touching Latvia benefits from an open Register of Enterprises that still publishes beneficial ownership data, works within the GDPR and the Personal Data Processing Law, and relies on State Police-licensed detectives under the Detective Activity Law for any work carried out in the country.",
+  "intro": [
+    "Latvia is a eurozone and NATO member whose corporate transparency framework was rebuilt after its non-resident banking sector came under international scrutiny. The Register of Enterprises makes current company data available free of charge, with officers, owners and beneficial owners accessible after authentication, and in April 2024 the government decided that beneficial ownership information would remain publicly available despite the 2022 ruling of the Court of Justice of the EU. Personal data processing is governed by the GDPR and the Personal Data Processing Law, supervised by the Data State Inspectorate. Detective activity is licensed under the Detective Activity Law, with the State Police controlling the sector and registering licences and certificates.",
+    "Organisations commission work involving Latvia because of Riga's role as a Baltic financial, logistics and services hub. Transit through the ports of Riga, Ventspils and Liepāja, timber and wood products, fintech and payment services, IT and shared services centres, and real estate all generate counterparty risk. Typical exposures include legacy shell-company structures linked to the former non-resident banking era, sanctions evasion risk in trade with neighbouring Russia and Belarus, misuse of EU funds, conflicts of interest in public procurement, and asset recovery against debtors using nominee owners or cross-border holding companies in Estonia, Lithuania, Cyprus or the United Kingdom."
+  ],
+  "population": {
+    "value": "1.85 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/LV/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Latvia has a civil law system. Private law rests on the Civil Law, with roots in the 1937 code, and the Commercial Law governs companies. Most disputes are heard by district (city) courts, with appeals to regional courts and cassation in the Supreme Court; the Constitutional Court reviews legislation. Since 2021 a specialised Economic Affairs Court has heard complex commercial disputes and serious economic and financial crime, including money laundering and corruption cases, with appeals to a specialised panel of the Riga Regional Court. Arbitration is available through permanent arbitration courts registered in Latvia.",
+  "data_protection": {
+    "law": "General Data Protection Regulation (EU) 2016/679 and Personal Data Processing Law (2018)",
+    "regulator": "Data State Inspectorate (Datu valsts inspekcija)",
+    "summary": "The Personal Data Processing Law came into force on 5 July 2018, replacing the Personal Data Protection Law and implementing the GDPR. Investigative processing requires a GDPR lawful basis, usually legitimate interests or the establishment of legal claims, supported by a documented balancing test and data minimisation. Latvia adds few derogations: transfers outside the EEA follow GDPR Chapter V without extra national requirements, and data subjects may ask for information on recipients of transfers in the previous two years. Employee investigations also engage the Labour Law and workplace monitoring guidance from the Data State Inspectorate, and the personal identity code should be handled only where strictly necessary."
+  },
+  "investigator_regulation": "Detective activity is regulated by the Detective Activity Law, adopted on 5 July 2001 and in force since 1 November 2001. A detective company needs a special permit (licence), decided by the State Police Licensing Commission, and each detective needs a certificate valid for five years. Detectives must be EU or EEA citizens or Latvian non-citizens with higher legal education or at least five years of law enforcement experience. Section 10 permits questioning, observation and recording within legal limits, while detectives may not carry out operational activity measures reserved to state bodies, use coercion, or disclose information without the client's consent. The State Police control the sector.",
+  "corporate_records": "The Register of Enterprises (Uzņēmumu reģistrs) maintains the commercial register and related registers. Since January 2020, up-to-date information on legal entities is free without login; historical data, public documents and information on natural persons linked to companies, including officers, owners and beneficial owners, are free after authentication; non-public documents require a fee and a justified request. In April 2024 the Cabinet of Ministers confirmed that beneficial ownership information would remain publicly available. Annual reports are filed with the State Revenue Service and made available through the Register of Enterprises. Real estate ownership is recorded in the Land Register (Zemesgrāmata).",
+  "anti_corruption": "Bribery and trading in influence are criminal offences under the Criminal Law, which also allows coercive measures against legal persons. The Corruption Prevention and Combating Bureau (KNAB) investigates corruption and oversees conflicts of interest and political party financing. Anti-money laundering obligations derive from the Law on the Prevention of Money Laundering and Terrorism and Proliferation Financing, with the Financial Intelligence Unit (Finanšu izlūkošanas dienests) as Latvia's FIU. Serious economic crime, including corruption and money laundering, is tried before the Economic Affairs Court.",
+  "matters": [
+    {
+      "title": "Legacy shell company exposure",
+      "text": "Investigating Latvian companies and accounts linked to the former non-resident banking era, mapping nominee directors, offshore shareholders and beneficial owners through Register of Enterprises data so lenders, acquirers and compliance teams can assess historical money laundering exposure."
+    },
+    {
+      "title": "Sanctions and transit trade",
+      "text": "Due diligence on freight forwarders, port operators and traders handling transit through Riga, Ventspils and Liepāja, testing ownership, trading histories and links to Russian or Belarusian parties where sanctions evasion or re-export risk needs independent verification."
+    },
+    {
+      "title": "Timber and forestry supply chains",
+      "text": "Supplier integrity reviews in Latvia's timber, wood products and biomass sectors, covering ownership of sawmills and forestry contractors, chain-of-custody claims, related-party pricing, export documentation and potential conflicts of interest in purchasing or state forest contracts."
+    },
+    {
+      "title": "Fintech and payment counterparties",
+      "text": "Background and ownership checks on Latvian payment institutions, electronic money firms, crypto-asset service providers and their founders, examining licensing history, regulatory actions, prior insolvencies and connections to higher-risk jurisdictions before banking partnerships, acquisitions or investments."
+    },
+    {
+      "title": "Baltic asset tracing",
+      "text": "Tracing real estate, shareholdings and transfers by Latvian debtors through the Land Register, the Register of Enterprises and insolvency publications, and following assets into Estonian, Lithuanian and other holding structures for counsel enforcing judgments or awards."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Latvian; English widely used, Russian still common in commerce"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Riga, UTC+2 (UTC+3 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (EUR) since 2014"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Riga, Daugavpils, Liepāja, Ventspils, Jelgava"
+    },
+    {
+      "label": "Court language",
+      "value": "Latvian; foreign documents need certified Latvian translation"
+    },
+    {
+      "label": "Business culture",
+      "value": "Reserved and efficient; written agreements and digital signatures widely used"
+    },
+    {
+      "label": "Specialised court",
+      "value": "Economic Affairs Court in Riga for complex commercial and economic crime cases"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Latvian matters from Nashville with a review of the GDPR, the Personal Data Processing Law, Labour Law constraints where employees are involved, the Detective Activity Law, and sanctions screening where Russian or Belarusian links may arise. Desk research draws on Register of Enterprises data, including historical records and beneficial ownership disclosures, the Land Register, insolvency publications, court decisions and Latvian and Russian-language media. Where work must be done in Latvia, such as discreet enquiries, observation or interviews, TDSC coordinates detectives holding a State Police licence and certificate and works with Latvian counsel on evidence and procedure, including before the Economic Affairs Court. Legitimate interests assessments are documented before personal data is collected, and findings leave the EEA under GDPR Chapter V safeguards.",
+  "faqs": [
+    {
+      "q": "Are private detectives licensed in Latvia?",
+      "a": "Yes. Under the Detective Activity Law of 2001, a detective company needs a special permit decided by the State Police Licensing Commission, and each detective needs a five-year certificate. Detectives must have higher legal education or at least five years of law enforcement experience. TDSC holds no Latvian licence and coordinates licensed local detectives when in-country work is needed."
+    },
+    {
+      "q": "Is beneficial ownership information public in Latvia?",
+      "a": "Yes. Unlike several EU states that restricted access after the Court of Justice of the EU ruled in November 2022, Latvia's Cabinet of Ministers decided in April 2024 to keep beneficial ownership information publicly available through the Register of Enterprises website, its API and data re-users, citing anti-money laundering and sanctions objectives."
+    },
+    {
+      "q": "What can Latvian detectives lawfully do?",
+      "a": "Section 10 of the Detective Activity Law allows questioning, with consent for detailed statements, inspection of non-public places with the owner's consent, observation in public places and video, audio and photographic recording where not otherwise prohibited. Detectives may not carry out operational activity measures reserved to state bodies or use coercion, and they remain subject to the GDPR."
+    },
+    {
+      "q": "What is Latvia's Economic Affairs Court?",
+      "a": "It is a specialised court that began operating in 2021 to hear complex commercial disputes and serious economic and financial crime, including money laundering and corruption cases, with appeals to a specialised panel of the Riga Regional Court. Counsel preparing evidence for these proceedings often need well-documented, lawfully obtained investigative findings."
+    },
+    {
+      "q": "How do sanctions affect investigations involving Latvia?",
+      "a": "Latvia borders Russia and Belarus and its ports and logistics firms handle substantial transit trade, so sanctions exposure is a frequent theme. Investigations commonly test ownership chains, trading partners and goods flows for links to designated persons. TDSC screens every matter for sanctions compliance and does not accept work that would breach US or other applicable sanctions."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Latvia",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=LV"
+    },
+    {
+      "title": "Detective Activity Law (likumi.lv, English translation)",
+      "url": "https://likumi.lv/ta/en/en/id/26311"
+    },
+    {
+      "title": "State Police: Issuance of special permit (licence) for detective activity",
+      "url": "https://www.vp.gov.lv/en/services/issuance-special-permit-licence-performance-detective-activity"
+    },
+    {
+      "title": "Ministry of Justice: Information on ultimate beneficial owners will continue to be publicly available in Latvia",
+      "url": "https://www.tm.gov.lv/en/article/information-ultimate-beneficial-owners-will-continue-be-publicly-available-latvia"
+    },
+    {
+      "title": "Register of Enterprises opens registers",
+      "url": "https://www.ur.gov.lv/en/news/information/register-of-enterprises-opens-registers/"
+    },
+    {
+      "title": "Financial Intelligence Unit of Latvia: AML/CFT policies, laws and regulations",
+      "url": "https://www.fid.gov.lv/en/roles-and-responsibilities/amlcft-policies-laws-and-regulations"
+    },
+    {
+      "title": "CEE Legal Matters: Latvia's leading commercial lawyers consider the new Economic Affairs Court",
+      "url": "https://ceelegalmatters.com/latvia/13408-better-for-business"
+    },
+    {
+      "title": "World Bank population data: Latvia",
+      "url": "https://api.worldbank.org/v2/country/LV/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    }
+  ],
+  "review_flags": [
+    "Register of Enterprises open-data date: article says amendments adopted 14 November 2019 in force 7 January (year inferred as 2020); confirm.",
+    "Economic Affairs Court start date (1 January 2021) and jurisdiction taken from a 2020 preview article; confirm current scope.",
+    "Not verified in a source this session (general knowledge): Civil Law and Commercial Law references, court structure, permanent arbitration courts, coercive measures against legal persons under the Criminal Law, KNAB remit, annual reports filed via State Revenue Service, Land Register, Labour Law and DSI monitoring guidance, euro adoption 2014, sector examples.",
+    "Latvian beneficial ownership register remains public per April 2024 Cabinet decision; EU AMLR implementation may change this."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,141 @@
+{
+  "cc": "VN",
+  "name": "Vietnam",
+  "meta_description": "TDSC investigative consulting on Vietnam: enterprise and beneficial ownership research, PDPL-aware due diligence and coordination with licensed local counsel.",
+  "eyebrow": "Socialist Republic of Vietnam",
+  "hero_lede": "Investigative consulting for matters touching Vietnam means working in a fast-changing legal environment: a new Personal Data Protection Law from 2026, a reorganised court system, beneficial ownership rules for enterprises, and an investigation sector with no licensing regime, so research, sourcing and local coordination must be scoped with care.",
+  "intro": [
+    "Vietnam is a single-party socialist state with a civil law system and an economy that has grown rapidly on manufacturing, exports and foreign direct investment. Its legal framework changes quickly: in 2025 the National Assembly amended the Law on Enterprises to require beneficial ownership disclosure, enacted Law No. 91/2025/QH15 on Personal Data Protection effective 1 January 2026, and reorganised the People's Courts from 1 July 2025. Investigation is treated as a state function of the police and procuracy, and private detective services have no specific legal framework. For outside organisations this favours public-record research and document review over intrusive fieldwork.",
+    "Organisations commission investigative work involving Vietnam because of its role as a manufacturing and sourcing base for electronics, textiles, footwear, furniture and seafood, and as a destination for supply chains diversifying across Asia. Typical exposures include undisclosed related parties and nominee shareholders in local partners and distributors, inflated or fictitious suppliers, facilitation payments in licensing, customs and land use approvals, misstatement of factory capacity or subcontracting, and transshipment and origin questions that affect trade compliance. Investors and lenders seek background on founders and state-linked counterparties before transactions, and claimants look for assets and corporate interests after disputes, often with limited reliable information in English."
+  ],
+  "population": {
+    "value": "101.6 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/VN/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Vietnam has a civil law system shaped by socialist legal principles, with codified laws including the Civil Code, Commercial Law, Law on Enterprises and Civil Procedure Code. Since 1 July 2025 the People's Courts operate in three tiers: the Supreme People's Court with a new Court of Appeals, 34 Provincial People's Courts and 355 Regional People's Courts. High People's Courts and District People's Courts were dissolved. Specialised intellectual property courts sit within regional courts in Hanoi and Ho Chi Minh City. Commercial disputes are frequently arbitrated, notably at the Vietnam International Arbitration Centre (VIAC).",
+  "data_protection": {
+    "law": "Law on Personal Data Protection (Law No. 91/2025/QH15, effective 1 January 2026) and Decree 356/2025/ND-CP",
+    "regulator": "Ministry of Public Security, through its Department of Cybersecurity and High-tech Crime Prevention and Control (A05)",
+    "summary": "Consent is the primary lawful basis for processing, and it must be informed, purpose-specific and verifiable; silence is not consent. The 2025 law widens sensitive data to include location, financial information and online behaviour, and organisations processing Vietnamese citizens' data must file impact assessments with the Ministry of Public Security. Cross-border transfers, including storage on overseas servers, require a transfer impact assessment and a written transfer agreement, with limited exemptions such as personnel management of employees. The Cybersecurity Law and Data Law add localisation and classification rules. Investigative work involving personal data therefore needs a documented purpose, minimisation and planned transfer handling."
+  },
+  "investigator_regulation": "We have not identified a statute or licensing regime for private investigators in Vietnam. As reported in 2024, the activity is not expressly prohibited and investigation services appear in the national economic activity codes, but no authority licenses detective firms, and lawyers note that investigation is a state function reserved to bodies such as the police and procuracy. Many operators register under unrelated business lines. Private enquiries are constrained by privacy protections in the Civil Code, criminal provisions on personal information and correspondence, and the Personal Data Protection Law. Covert surveillance and buying personal data carry real legal risk.",
+  "corporate_records": "Enterprise registration is administered by provincial business registration authorities, with data held in the National Business Registration Information System and searchable through the National Business Registration Portal. Basic details such as enterprise code, address, legal representative, business lines and charter capital are commonly available, with fuller documents generally obtained through formal requests. From 1 July 2025, amendments under Law No. 76/2025/QH15 and Decree 168/2025/ND-CP require enterprises to collect, retain and report beneficial owner information, applying a 25 percent ownership or control test. Access to that information is provided to competent state authorities for anti-money laundering purposes, not to the public.",
+  "anti_corruption": "Bribery and related offences are criminalised in the Penal Code, and the Law on Anti-Corruption (2018) sets prevention, asset declaration and enforcement duties for public officials and, to a degree, the private sector. Law No. 14/2022/QH15 on Anti-Money Laundering, effective 1 March 2023, requires know-your-customer measures and suspicious and large-value transaction reporting to the Anti-Money Laundering Department of the State Bank of Vietnam. Enforcement involves the police, the procuracy and state inspectorates, and has been driven by a high-profile anti-corruption campaign.",
+  "matters": [
+    {
+      "title": "Supplier and factory verification",
+      "text": "Checks on manufacturers and subcontractors in industrial zones around Hanoi, Hai Phong, Binh Duong and Dong Nai: registration, ownership, capacity claims and adverse history, supporting sourcing decisions and origin or transshipment questions raised by trade compliance teams."
+    },
+    {
+      "title": "Partner and distributor due diligence",
+      "text": "Background research on joint venture partners, distributors and agents, including related parties, nominee arrangements, links to state-owned enterprises or officials, and litigation or enforcement history, scoped against the new beneficial ownership rules and local data protection requirements."
+    },
+    {
+      "title": "Pre-investment and M&A background",
+      "text": "Founder and management background, corporate history and reputational research before acquisitions, private equity investments and lending, with attention to land use rights, licensing dependencies, state ownership links and undisclosed liabilities common in family-controlled and privatised businesses."
+    },
+    {
+      "title": "Fraud and misconduct inquiries",
+      "text": "Support for internal investigations into procurement fraud, kickbacks, conflicts of interest and diversion of goods at Vietnamese subsidiaries, coordinated with Vietnamese counsel so that employee data, interviews and any transfer of evidence abroad comply with labour and personal data rules."
+    },
+    {
+      "title": "Disputes and asset research",
+      "text": "Research for counsel in arbitration at VIAC or foreign seats and in proceedings involving Vietnamese parties: corporate interests, related entities and publicly documented assets, recognising the limits of public records and the formal court process required for enforcement in Vietnam."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Vietnamese; English common in foreign-invested sectors"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Ho_Chi_Minh, UTC+7 (no daylight saving)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; some firms also work Saturday mornings"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Ho Chi Minh City, Hanoi, Hai Phong, Da Nang"
+    },
+    {
+      "label": "Courts language",
+      "value": "Vietnamese; foreign documents require certified translation"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Foreign documents generally need consular legalisation and notarised Vietnamese translation"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-based and hierarchical; introductions and seniority matter"
+    },
+    {
+      "label": "Lunar New Year",
+      "value": "Tet closures commonly slow records and responses for one to two weeks"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Vietnam engagements from Nashville, beginning with a jurisdictional review of what can lawfully be obtained and how. Because Vietnam has no licensing regime for private investigators and treats investigation as a state function, we rely on public registration data, published court and regulatory material, media in Vietnamese, and documents the client lawfully holds, and we do not commission covert surveillance or purchase personal data. Where enquiries on the ground are needed, we coordinate appropriately qualified local professionals and work alongside Vietnamese counsel, who advise on the Personal Data Protection Law, labour rules and evidential use. Data minimisation, impact assessment and transfer planning are agreed at the outset, and findings are sourced and graded for reliability.",
+  "faqs": [
+    {
+      "q": "Can beneficial ownership of a Vietnamese company be confirmed from public records?",
+      "a": "Not directly. Since July 2025 enterprises must collect and report beneficial owner information, but access is provided to competent authorities for anti-money laundering purposes rather than to the public. Ownership is therefore inferred from registered members and shareholders, corporate filings, related entities and open sources, and conclusions are presented with stated confidence levels rather than as registry facts."
+    },
+    {
+      "q": "Are private investigators licensed in Vietnam?",
+      "a": "We have not identified a licensing regime. Reporting in 2024 described private detective services as not expressly banned but without a specific legal framework, and no authority licenses them. Investigation is a state function of the police and procuracy. TDSC therefore limits work to lawful research and coordination with qualified professionals and counsel, rather than relying on unlicensed field operators."
+    },
+    {
+      "q": "How does the 2026 Personal Data Protection Law affect due diligence?",
+      "a": "Law No. 91/2025/QH15 makes consent the main basis for processing, widens sensitive data categories and requires impact assessments and transfer filings with the Ministry of Public Security. Due diligence involving individuals needs a defined purpose, minimal collection and planned handling of any transfer out of Vietnam. Vietnamese counsel should confirm the position for each matter."
+    },
+    {
+      "q": "Which court would hear a commercial dispute with a Vietnamese party?",
+      "a": "Since 1 July 2025, first-instance civil and business matters generally go to the Regional People's Courts, with Provincial People's Courts and a Court of Appeals above them, and intellectual property disputes go to specialised courts in Hanoi and Ho Chi Minh City. Many commercial contracts instead provide for arbitration, often at VIAC."
+    },
+    {
+      "q": "Can TDSC verify a factory or supplier in Vietnam?",
+      "a": "Yes, within lawful limits. We review registration details, business lines, ownership, litigation and media, and compare them with the supplier's claims about capacity, licences and customers. Where a site visit is useful, we coordinate a qualified local professional to make an overt, documented visit. We do not use pretexts or access non-public government data."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Vietnam",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=VN"
+    },
+    {
+      "title": "World Bank: Population, total (Viet Nam)",
+      "url": "https://api.worldbank.org/v2/country/VN/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "Rouse: Vietnam's major judicial reforms take effect 1 July 2025",
+      "url": "https://rouse.com/insights/news/2025/vietnam-s-major-judicial-reforms-take-effect-1-july-2025/"
+    },
+    {
+      "title": "Duane Morris: Vietnam amended Law on Enterprises, what you must know",
+      "url": "https://blogs.duanemorris.com/vietnam/2025/07/04/vietnam-amended-law-on-enterprises-what-you-must-know/"
+    },
+    {
+      "title": "Allen & Gledhill: Vietnam strengthens beneficial ownership and enterprise registration requirements",
+      "url": "https://www.allenandgledhill.com/vn/publication/articles/33462/strengthens-beneficial-ownership-and-enterprise-registration-requirements"
+    },
+    {
+      "title": "Allen & Gledhill: Vietnam Law on Anti-Money Laundering 2022 in effect 1 March 2023",
+      "url": "https://www.allenandgledhill.com/sg/publication/articles/23325/law-on-anti-money-laundering-2022-in-effect-1-march-2023"
+    },
+    {
+      "title": "Tuoi Tre: Undocumented private detective services, legal status (2024)",
+      "url": "https://tuoitre.vn/tham-nhap-dich-vu-tham-tu-tu-chui-ky-cuoi-du-chieu-ne-luat-co-nen-thua-nhan-tham-tu-tu-2024110809214703.htm"
+    }
+  ],
+  "review_flags": [
+    "Data protection: a sanctioning decree under the 2025 PDPL was still pending per DLA Piper, and updated localisation rules were expected in 2026; re-check before publication.",
+    "Beneficial ownership rules were further amended by Decree 296/2026/ND-CP (July 2026, per Allen & Gledhill); public access status to BO data should be re-confirmed.",
+    "Investigator regulation is based on 2024 press reporting and lawyer commentary, not an official statement; no licensing regime identified.",
+    "Law on Anti-Corruption (2018) year and the court-level description of commercial first-instance jurisdiction are from general knowledge/secondary sources; confirm with Vietnamese counsel. VIAC named from general knowledge."
+  ],
+  "researched": "2026-11-04"
+}

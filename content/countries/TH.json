@@ -1,0 +1,154 @@
+{
+  "cc": "TH",
+  "name": "Thailand",
+  "meta_description": "TDSC investigative consulting on Thailand: PDPA-aware due diligence, DBD company records, nominee structure analysis and coordination with Thai counsel.",
+  "eyebrow": "Kingdom of Thailand",
+  "hero_lede": "Investigative consulting for matters touching Thailand means working with Thai-language company and court records, a Personal Data Protection Act that treats criminal records as sensitive data, ownership structures shaped by foreign-equity limits, and no dedicated licensing regime for private investigators.",
+  "intro": [
+    "Thailand is the second-largest economy in Southeast Asia, with commercial activity concentrated in Bangkok and the Eastern Economic Corridor provinces east of the capital. Its legal environment is built on codified law, notably the Civil and Commercial Code, and companies are registered with the Department of Business Development (DBD) of the Ministry of Commerce. The Personal Data Protection Act B.E. 2562 (2019) has applied in full since 1 June 2022. From 1 January 2026, new DBD registration orders require closer verification of Thai shareholders and directors, bank evidence of capital contributions and inspection of registered offices, aimed at curbing nominee companies and mule bank accounts.",
+    "Organisations commission work involving Thailand because of its role in automotive and electronics manufacturing, tourism and hospitality, agribusiness, energy and real estate, and as a regional hub for multinational groups. Recurring exposures include nominee shareholding used to work around foreign-ownership restrictions, related-party dealings within family-controlled groups, counterfeit and grey-market goods, procurement and permitting risk, and online fraud that relies on shell companies and borrowed bank accounts. Foreign investors, lenders, insurers and arbitration counsel regularly need reliable background on Thai counterparties, verification of who actually controls a company, and documentary support for disputes heard in Thai courts or before Bangkok arbitral institutions."
+  ],
+  "population": {
+    "value": "71.6 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/TH/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Thailand has a civil-law system built on codified statutes such as the Civil and Commercial Code. The Courts of Justice sit at three levels: Courts of First Instance, Courts of Appeal and the Supreme Court (Dika Court), alongside separate Constitutional, Administrative and Military Courts. Specialised first-instance courts include the Central Intellectual Property and International Trade Court, the Central Bankruptcy Court, the Tax Court and the Labour Court. Arbitration is governed by the Arbitration Act B.E. 2545 (2002); institutions include the Thai Arbitration Institute, the Thailand Arbitration Center (THAC) and the Board of Trade's Thai Commercial Arbitration Committee.",
+  "data_protection": {
+    "law": "Personal Data Protection Act B.E. 2562 (2019) (PDPA), in full force since 1 June 2022",
+    "regulator": "Personal Data Protection Committee (PDPC), under the supervision of the Minister of Digital Economy and Society",
+    "summary": "The PDPA applies extraterritorially to processing of data about people in Thailand. Consent is the default basis, but legitimate interests, contract and legal obligation are also available, and legitimate interests is the basis usually assessed for investigative work. Criminal records are sensitive data, generally requiring explicit consent, and a 2024 PDPC regulation sets the permitted purposes and security measures for criminal record data. Transfers abroad require an adequate destination or appropriate safeguards such as ASEAN Model Contractual Clauses, EU Standard Contractual Clauses or approved binding corporate rules, under criteria issued in December 2023. Breaches must be reported to the PDPC within 72 hours where feasible. Administrative fines reach THB 5 million, and criminal liability can extend to directors."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators in Thailand in the sources reviewed. A 2010 Chulalongkorn University law thesis noted the absence of a specific statute and recommended that Thailand enact one modelled on licensing systems abroad; we have not confirmed that such a law has since been passed. The absence of licensing does not mean the field is unregulated: the PDPA, criminal law, defamation law and property law all constrain surveillance, recording and information gathering. Practitioner reporting in 2026 also describes new procedural rules at the intellectual property court affecting investigation firms that support IP enforcement.",
+  "corporate_records": "Partnerships and limited companies are registered with the Department of Business Development, which holds registration records, shareholder lists and financial statements. A private limited company must file an updated shareholder list within 14 days of its ordinary general meeting under Section 1139 of the Civil and Commercial Code. Thailand has no central public register of beneficial owners; beneficial ownership is identified through customer due diligence by reporting entities under the Anti-Money Laundering Act B.E. 2542 (1999) and the Ministerial Regulation on Customer Due Diligence B.E. 2563 (2020), and access is restricted to competent authorities.",
+  "anti_corruption": "The Organic Act on Anti-Corruption B.E. 2561 (2018) is the principal statute; Section 176 prohibits giving, offering or promising benefits to Thai or foreign public officials and holds companies liable for bribery by associated persons unless they maintain appropriate internal controls, with fines of one to two times the damage or benefit. Procurement offences sit in the Public Procurement and Supplies Administration Act B.E. 2560 (2017) and the 1999 bid-collusion law. The National Anti-Corruption Commission enforces anti-corruption law, and the Anti-Money Laundering Office administers the AML Act.",
+  "matters": [
+    {
+      "title": "Nominee shareholding and true control",
+      "text": "Analysis of whether Thai shareholders in a company with foreign participation hold their shares in substance, combining DBD filings, shareholder list history, director networks, registered address patterns and Thai-language media, now that 2026 DBD rules scrutinise capital contributions."
+    },
+    {
+      "title": "Counterparty and partner due diligence",
+      "text": "Background research on Thai distributors, joint venture partners and suppliers ahead of investment or contracting, covering corporate history, related companies, litigation in Thai courts, regulatory announcements and reputational coverage, with findings presented in English alongside the Thai-language source references."
+    },
+    {
+      "title": "Counterfeit goods and IP enforcement",
+      "text": "Documentary research and coordination with licensed local professionals to support brand owners and their counsel on counterfeit and grey-market supply chains, sellers and online marketplaces, mindful of procedural rules at the Central Intellectual Property and International Trade Court."
+    },
+    {
+      "title": "Asset tracing for enforcement",
+      "text": "Identification of companies, shareholdings and other assets connected to a judgment or award debtor in Thailand, drawing on DBD records, court and bankruptcy publications and open sources, to inform Thai counsel planning recognition, enforcement or insolvency strategy."
+    },
+    {
+      "title": "Third-party anti-bribery reviews",
+      "text": "Integrity reviews of agents, consultants and contractors dealing with Thai state agencies and state enterprises, supporting the internal controls that Section 176 of the Organic Act on Anti-Corruption expects companies to maintain over associated persons and business partners."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Thai; English widely used in multinational and Bangkok professional settings"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Bangkok, UTC+7 (no daylight saving time)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday in most offices"
+    },
+    {
+      "label": "Currency",
+      "value": "Thai baht (THB)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Bangkok, Eastern Economic Corridor (Chonburi, Rayong, Chachoengsao), Chiang Mai, Phuket"
+    },
+    {
+      "label": "Courts language",
+      "value": "Thai; foreign-language documents normally need Thai translation"
+    },
+    {
+      "label": "Calendar",
+      "value": "Official documents use the Buddhist Era (B.E.), 543 years ahead of CE"
+    },
+    {
+      "label": "Company registry",
+      "value": "Department of Business Development, Ministry of Commerce"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Thai matters from Nashville by first defining the client's purpose and assessing whether legitimate interests under the PDPA supports the processing, and how findings will leave Thailand, typically under contractual safeguards. Research draws on DBD registration records and shareholder lists, court and bankruptcy publications, regulatory announcements and Thai-language national and provincial media, reviewed by Thai-reading analysts with B.E. dates converted. Criminal record information is handled only where a lawful purpose exists. Because Thailand has no dedicated investigator licensing regime identified in our review, any interviews, site visits or market enquiries are scoped with Thai counsel and carried out by qualified local professionals. TDSC does not approach officials for information, obtain non-public records or use pretexting.",
+  "faqs": [
+    {
+      "q": "Can TDSC tell whether Thai shareholders are nominees?",
+      "a": "No filing proves or disproves a nominee arrangement on its own. TDSC analyses DBD shareholder lists over time, capital history, director and address networks, related litigation and media to identify indicators that registered Thai shareholders may not hold their shares in substance. Conclusions on legality under the Foreign Business Act are for Thai counsel."
+    },
+    {
+      "q": "Is there a public beneficial ownership register in Thailand?",
+      "a": "Not according to the sources we reviewed. Beneficial ownership is identified by banks and other reporting entities through customer due diligence under the Anti-Money Laundering Act and a 2020 ministerial regulation, with access restricted to authorities. Ownership work therefore relies on DBD shareholder lists, group structures and corroborating open sources."
+    },
+    {
+      "q": "Does the PDPA allow background research on individuals in Thailand?",
+      "a": "It can, where a lawful basis applies. Legitimate interests is often assessed for due diligence and dispute support, but criminal records are sensitive data subject to stricter rules and a 2024 PDPC regulation. TDSC documents purpose, necessity and proportionality before research begins and does not give legal advice on compliance."
+    },
+    {
+      "q": "Are private investigators licensed in Thailand?",
+      "a": "We have not identified a dedicated licensing statute. Academic commentary has recommended one, and recent practitioner reporting describes new procedural rules affecting firms supporting IP cases. Activity remains constrained by data protection, criminal and defamation law, so TDSC scopes any local work with Thai counsel and uses appropriately qualified local professionals."
+    },
+    {
+      "q": "What changed in Thai company registration in 2026?",
+      "a": "DBD orders effective 1 January 2026 require Thai shareholders in certain companies with foreign participation to show three months of bank statements evidencing capital payments, call people flagged in Anti-Money Laundering Office data to appear in person, and flag addresses used by five or more companies. These records can inform ownership analysis."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Thailand",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=TH"
+    },
+    {
+      "title": "World Bank: Population, total (Thailand)",
+      "url": "https://api.worldbank.org/v2/country/TH/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "Chulalongkorn University: Legal measures to support operation of private investigator business (thesis, 2010)",
+      "url": "https://cuir.car.chula.ac.th/handle/123456789/19405"
+    },
+    {
+      "title": "IIPLA: New IP court regulations in Thailand challenge Bangkok's private investigators",
+      "url": "https://iipla.org/news/new-ip-court-regulations-in-thailand-challenge-bangkok-s-private-investigators-amid-ongoing-us-watch-list-status"
+    },
+    {
+      "title": "Forvis Mazars: Thailand's DBD cracks down on nominees and mule accounts",
+      "url": "https://www.forvismazars.com/th/en/insights/doing-business-in-thailand/legal/dbd-targets-nominee-and-mule-accounts"
+    },
+    {
+      "title": "LawPlus: New Orders and Notifications of the DBD (2026)",
+      "url": "https://www.lawplusltd.com/Newsletter/2026/Z002.0128.New%20Orders%20and%20Notifications%20of%20DBD.Final.pdf"
+    },
+    {
+      "title": "Commenda: Thailand UBO filing",
+      "url": "https://www.commenda.io/thailand/ubo-filing"
+    },
+    {
+      "title": "Tilleke & Gibbins: Overview of Anticorruption Laws in Thailand",
+      "url": "https://www.tilleke.com/insights/overview-of-anticorruption-laws-in-thailand/27/"
+    },
+    {
+      "title": "Tilleke & Gibbins: Lex Mundi Global Arbitration Guide, Thailand",
+      "url": "https://www.tilleke.com/insights/lex-mundi-global-arbitration-guide-thailand-report/6/"
+    },
+    {
+      "title": "Price Sanond: Litigation and Arbitration in Thailand",
+      "url": "https://www.pricesanond.com/?p=160"
+    }
+  ],
+  "review_flags": [
+    "No dedicated private investigator licensing regime identified; main source is a 2010 thesis recommending one. Confirm with Thai counsel that no law has since been enacted.",
+    "IIPLA (Sept 2026) reports new IP court procedural rules affecting investigation firms but does not name them; not verified against court sources.",
+    "Public accessibility and cost of DBD shareholder lists and financial statements not verified on a DBD page (secondary sources only).",
+    "NACC and AMLO named as enforcement bodies from general knowledge and secondary sources; Tilleke page opened did not name enforcement bodies.",
+    "Civil-law characterisation, court language, B.E. calendar, time zone and business centres are general knowledge rather than a source opened this session."
+  ],
+  "researched": "2026-11-04"
+}

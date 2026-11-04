@@ -1,0 +1,148 @@
+{
+  "cc": "PA",
+  "name": "Panama",
+  "meta_description": "TDSC investigative consulting on Panama: ownership tracing behind sociedades and foundations, Colón Free Zone and maritime due diligence, and asset research.",
+  "eyebrow": "Republic of Panama",
+  "hero_lede": "Investigative consulting on Panamanian matters means looking past nominee directors and resident agents to the people behind sociedades anónimas and private interest foundations, using registry, court and maritime records lawfully, and working within Law 81 of 2019 on personal data.",
+  "intro": [
+    "Panama is a civil law jurisdiction and a dollarised economy whose corporate and foundation regimes have long attracted international structuring. Public Registry filings show directors, officers, subscribers and resident agents, but shareholders of sociedades anónimas are generally not recorded publicly, and nominee arrangements are common. Since Law 129 of 2020, resident agents must file beneficial ownership information in a private, single registry run by the Superintendency of Non-Financial Subjects, accessible to competent authorities rather than the public. Personal data processing is governed by Law 81 of 2019 and Executive Decree 285 of 2021, enforced by ANTAI. Investigations therefore depend on careful reading of registry chains and litigation.",
+    "Organisations commission work involving Panama because of its role in global trade, shipping and finance. The Panama Canal, the ports at both ends and the Colón Free Zone make it a hub for logistics, re-export and transshipment to Latin America. Its open ship registry and its banking and corporate services sectors serve clients across the region. Typical exposures include opaque ownership behind Panamanian vehicles used in other jurisdictions, trade-based money laundering through free zone traders, maritime casualty and charter disputes, real estate fraud and asset concealment by debtors from elsewhere in the Americas."
+  ],
+  "population": {
+    "value": "4.57 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/PA/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Panama has a civil law system based on its Constitution and codes, including the Civil Code, Commercial Code and Judicial Code. The Judicial Branch (Órgano Judicial) is headed by the Supreme Court of Justice, whose First Chamber hears civil and commercial cassation. Commercial claims are generally heard by civil circuit courts, while specialised Maritime Courts handle shipping disputes, vessel arrests and maritime liens. Domestic and international arbitration is administered by bodies including the Centro de Conciliación y Arbitraje de Panamá (CeCAP).",
+  "data_protection": {
+    "law": "Law No. 81 of 2019 on Personal Data Protection and Executive Decree No. 285 of 2021",
+    "regulator": "Autoridad Nacional de Transparencia y Acceso a la Información (ANTAI), Directorate for the Protection of Personal Data",
+    "summary": "Consent is the general rule and must be traceable, but processing is permitted without consent for contractual performance, legal obligations, legitimate interests that do not override the data subject's rights and data obtained from public sources, among other grounds. No prior registration with ANTAI is required. Transfers abroad generally require prior, informed and unequivocal consent unless the recipient country offers equivalent protection, the transfer is within the same economic group, or it supports legal claims or judicial cooperation. Breaches must be notified within 72 hours. Banks and insurers face additional sectoral rules. Investigative work should identify the ground for processing and the route for any transfer out of Panama."
+  },
+  "investigator_regulation": "As of 2026, we have not identified a dedicated statute or registry licensing private investigators in Panama. Private security agencies, guards and their firearms are authorised and supervised by the Ministry of Public Security (MINSEG), but we have not confirmed whether investigative services fall within that regime, and some secondary sources state that investigators must be licensed without naming the authority. Investigators have no access to restricted government systems, and covert recording, interception and pretexting are excluded. TDSC therefore scopes local work with Panamanian counsel and coordinates appropriately authorised local professionals.",
+  "corporate_records": "The Public Registry of Panama (Registro Público) records sociedades anónimas, private interest foundations and real property (fincas), with online searches of entries, resident agents and suspended or dissolved entities. Filings typically show directors, officers, subscribers, the resident agent and, for foundations, council members, but shareholders and beneficiaries are generally not public. Under Law 129 of 2020, resident agents must file beneficial ownership details in the private, single registry (RUBF) operated by the Superintendency of Non-Financial Subjects; it is confidential and accessible to competent authorities. Real property ownership and encumbrances are searchable by finca number.",
+  "anti_corruption": "Bribery of public officials, including foreign officials, and related offences are criminalised in the Penal Code and prosecuted by the anti-corruption prosecutors of the Public Ministry (Ministerio Público). The principal anti-money laundering statute is Law 23 of 2015, which sets obligations for financial and non-financial reporting entities, including resident agents, with the Financial Analysis Unit (UAF) as financial intelligence unit. Law 124 of 2020 created the Superintendency of Non-Financial Subjects to supervise designated non-financial businesses and professions.",
+  "matters": [
+    {
+      "title": "Ownership behind Panamanian vehicles",
+      "text": "Tracing the people behind sociedades anónimas and private interest foundations used in transactions or disputes elsewhere, by mapping directors, subscribers, resident agents and nominee patterns across Public Registry entries, related entities, litigation and foreign records, and reporting where beneficial ownership cannot be lawfully confirmed."
+    },
+    {
+      "title": "Colón Free Zone counterparties",
+      "text": "Due diligence on importers, re-exporters and logistics operators in the Colón Free Zone, testing corporate history, trading footprint, related parties and adverse media for trade-based money laundering, misinvoicing, counterfeit goods and sanctions exposure in destination markets across Latin America and the Caribbean."
+    },
+    {
+      "title": "Maritime and vessel disputes",
+      "text": "Research on owners, managers and ship-owning companies behind Panama-flagged vessels for charter disputes, cargo claims, casualties and arrests, combining flag registry information, Public Registry entries, Maritime Court proceedings and international shipping sources to identify the parties and assets actually behind a vessel."
+    },
+    {
+      "title": "Asset tracing for foreign judgments",
+      "text": "Lawful identification of real property, corporate interests and litigation in Panama connected to debtors from other jurisdictions, supporting recognition and enforcement strategy, precautionary measures and recovery work developed with Panamanian counsel, and noting where foundation structures limit what public records can show."
+    },
+    {
+      "title": "Banking and investment counterparties",
+      "text": "Background and integrity checks on Panamanian intermediaries, fund promoters, real estate developers and corporate service providers before investment, partnership or correspondent relationships, covering registry history, regulatory sanctions published by supervisors, court records and political exposure."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Spanish; English common in banking, shipping and the canal sector"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Panama, UTC-5 (no daylight saving)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Courts language",
+      "value": "Spanish"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Panama City, Colón, David"
+    },
+    {
+      "label": "Currency",
+      "value": "US dollar in circulation alongside the balboa (PAB)"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Foreign documents for court or registry use need Spanish translation by an authorised public translator and authentication"
+    },
+    {
+      "label": "Corporate services",
+      "value": "Every Panamanian company and foundation acts through a resident agent, a lawyer or law firm"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes each Panamanian engagement from Nashville. Because the beneficial ownership registry under Law 129 of 2020 is confidential, we do not represent that it can be searched; we build ownership pictures from Public Registry entries, resident agent and officer patterns, litigation, Maritime Court records and foreign filings, and state the limits of each conclusion. Where certified registry copies, court file review or local enquiries are needed, we coordinate Panamanian counsel and appropriately authorised local professionals. Personal data is processed on a ground recognised by Law 81 of 2019, and transfers to the United States rely on a permitted basis, documented for each matter.",
+  "faqs": [
+    {
+      "q": "Can TDSC obtain beneficial ownership information from Panama's registry?",
+      "a": "No. Law 129 of 2020 created a private, single beneficial ownership registry, operated by the Superintendency of Non-Financial Subjects and populated by resident agents, that is confidential and intended for competent authorities. We identify likely controllers through Public Registry filings, nominee and officer patterns, litigation and foreign records, and explain where only an authority or court order could confirm ownership."
+    },
+    {
+      "q": "What does a Panama Public Registry search actually show?",
+      "a": "For a sociedad anónima, it typically shows the registration details, directors, officers, subscribers, resident agent and amendments, but not current shareholders. For a private interest foundation, it shows the council and resident agent but generally not beneficiaries. Directors are often nominees, so registry results are a starting point that we test against other lawful sources."
+    },
+    {
+      "q": "Does Panamanian data protection law restrict sending findings to the United States?",
+      "a": "It can. Law 81 of 2019 generally requires prior, informed and unequivocal consent for international transfers, with exceptions such as transfers to countries with equivalent protection, within an economic group, or for legal claims and judicial cooperation. We identify the exception relied on before personal data leaves Panama and limit transfers to what the matter requires."
+    },
+    {
+      "q": "Is there a licensing regime for private investigators in Panama?",
+      "a": "We have not identified a dedicated statute or register for private investigators as of 2026. Private security agencies are authorised by the Ministry of Public Security, and whether investigative services fall within that regime is not clearly documented. We therefore confirm the position with Panamanian counsel for each matter and coordinate only appropriately authorised local professionals for fieldwork."
+    },
+    {
+      "q": "How are disputes over Panama-flagged vessels researched?",
+      "a": "Panama's specialised Maritime Courts hear vessel arrests, liens and shipping claims, and their proceedings can reveal owners, mortgagees and creditors. We combine those records with Public Registry entries for ship-owning companies and international shipping sources, recognising that registered owners are often single-ship companies whose managers or ultimate owners sit in other jurisdictions."
+    }
+  ],
+  "sources": [
+    {
+      "title": "World Bank, Population total: Panama",
+      "url": "https://api.worldbank.org/v2/country/PA/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "DLA Piper, Data Protection Laws of the World: Panama",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=PA"
+    },
+    {
+      "title": "Superintendencia de Sujetos No Financieros, Preguntas frecuentes del Registro Único de Beneficiarios Finales",
+      "url": "https://ssnf.gob.pa/wp-content/uploads/2022/04/Preguntas-Frecuentes-de-Registro-Unico-de-BF.pdf"
+    },
+    {
+      "title": "Ley 129 de 2020, sistema privado y único de registro de beneficiarios finales",
+      "url": "https://cnbc.mef.gob.pa/wp-content/uploads/2022/10/ley-129-de-2020.pdf"
+    },
+    {
+      "title": "Ley 23 de 2015, prevención del blanqueo de capitales",
+      "url": "https://cnbc.mef.gob.pa/wp-content/uploads/2022/10/ley-23-de-2015.pdf"
+    },
+    {
+      "title": "Deloitte Panamá, Ley 124 de 2020, Superintendencia de Sujetos No Financieros",
+      "url": "https://www2.deloitte.com/content/dam/Deloitte/pa/Documents/tax/taxnews/2020/Ley-124-2020-Superintendencia-sujetos-no-financieros.pdf"
+    },
+    {
+      "title": "Registro Público de Panamá",
+      "url": "https://www.registro-publico.gob.pa/"
+    },
+    {
+      "title": "Panamá América, MINSEG: agencias de seguridad deben cumplir requisitos",
+      "url": "https://panamaamerica.com.pa/sociedad/minseg-agencias-de-seguridad-deben-cumplir-requisitos-1244012"
+    },
+    {
+      "title": "Reside Panama, Private investigators in Panama",
+      "url": "https://www.residepanama.com/en/reside-panama-blog/private-investigators-in-panama-do-they-exist-and-are-they-reliable"
+    }
+  ],
+  "review_flags": [
+    "Private investigator licensing in Panama unverified: no statute or authority identified; one non-authoritative blog claims licensing exists. Confirm with Panamanian counsel whether MINSEG private security rules cover investigation services.",
+    "Public Registry disclosure contents (directors/subscribers shown, shareholders/beneficiaries not shown) and Maritime Courts, CeCAP, Penal Code foreign bribery, UAF and Ministerio Público anti-corruption prosecutors are stated from general knowledge and search result titles, not opened pages.",
+    "DLA Piper notes a pending bill raising ANTAI fines to USD 100,000; not reflected in copy."
+  ],
+  "researched": "2026-11-04"
+}

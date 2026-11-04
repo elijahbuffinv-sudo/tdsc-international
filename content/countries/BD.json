@@ -1,0 +1,98 @@
+{
+  "cc": "BD",
+  "name": "Bangladesh",
+  "meta_description": "TDSC investigative consulting on Bangladesh: RJSC company research, garment supply chain checks and data-aware due diligence with qualified local counsel.",
+  "eyebrow": "People's Republic of Bangladesh",
+  "hero_lede": "Investigative consulting for matters touching Bangladesh means navigating a fast-changing data protection framework, company records held by the RJSC, a garment-led export economy with layered subcontracting, and an environment where officials have said there is no scope to license private detective agencies.",
+  "intro": [
+    "Bangladesh is a unitary parliamentary republic with a common law system inherited from British India and one of the largest populations in the world. Its legal environment has shifted quickly since the political transition of 2024: in November 2025 the government issued the Personal Data Protection Ordinance 2025 and the National Data Governance Ordinance 2025, building a framework that did not previously exist. Company records are maintained by the Registrar of Joint Stock Companies and Firms (RJSC), but much material beyond basic registration requires formal application, and land and court records remain largely local. Private detective agencies have no recognised legal status, so outside organisations should rely on public records and properly supervised local professionals.",
+    "Organisations commission investigative work involving Bangladesh chiefly because of its ready-made garment and textile sector, one of the largest apparel export industries in the world, concentrated around Dhaka, Gazipur, Narayanganj and Chattogram. Typical exposures include unauthorised subcontracting, misstatement of factory ownership or capacity, labour and building safety concerns, and fraud in letters of credit and trade finance. Banks, investors and development finance institutions seek background on sponsors in family-controlled conglomerates, where related-party lending and politically connected ownership can be significant. Claimants and creditors also look for assets and corporate interests held through affiliated companies, and through diaspora-linked holdings in the United Kingdom, the Gulf and elsewhere."
+  ],
+  "population": {
+    "value": "175.7 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/BD/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Bangladesh has a common law system under the 1972 Constitution, with statutes inherited from the colonial period alongside modern legislation such as the Companies Act 1994. The Supreme Court comprises an Appellate Division and a High Court Division; the High Court Division hears company matters and writ petitions, while district civil courts handle most commercial suits. Specialised money loan courts (Artha Rin Adalat) deal with bank recovery claims. Arbitration is governed by the Arbitration Act 2001, and the Bangladesh International Arbitration Centre in Dhaka administers commercial cases.",
+  "data_protection": {
+    "law": "Personal Data Protection Ordinance 2025 and National Data Governance Ordinance 2025 (gazetted November 2025); identity information provisions of cyber security legislation",
+    "regulator": "National Data Governance Authority, to be established under the National Data Governance Ordinance 2025",
+    "summary": "The 2025 ordinance requires informed, explicit, purpose-specific consent, subject to exceptions such as legal obligation, contractual necessity and public interest. Sensitive data includes biometrics, religion, caste, political affiliation, health, legal affairs and geolocation. Transfers abroad are permitted only where the recipient guarantees equivalent protection, a test not yet clearly defined, and breaches must be reported to the authority. Some provisions take effect 18 months after gazettal, and penalties reach seven years' imprisonment. Before this framework, the Cyber Security Act 2023 criminalised collecting or using identity information without lawful authority, so investigative handling of personal data has carried criminal risk."
+  },
+  "investigator_regulation": "We have not identified any licensing regime for private investigators in Bangladesh. In reporting by Bangla Tribune, officials of the Public Security Division and police described private detective agencies as having no legal scope and said proposals to establish them had been refused, although some operators still trade. Private security companies have been reported to operate on ordinary trade licences without a dedicated statute. Identity information protections in cyber security law and the 2025 data protection ordinance mean surveillance, purchasing personal data and obtaining bank, telecom or national ID records are not lawful methods for private enquiries.",
+  "corporate_records": "The Registrar of Joint Stock Companies and Firms (RJSC), under the Ministry of Commerce, registers companies, partnerships and societies under the Companies Act 1994. Its online system supports name clearance and registration, and basic company details can be checked. Filed documents, such as particulars of directors, annual returns listing shareholders and memoranda and articles, are generally obtained as certified copies on application rather than downloaded freely. We have not identified a central public register of beneficial ownership. Land records are held by district land offices, and court records are accessed through the relevant court.",
+  "anti_corruption": "The Anti-Corruption Commission Act 2004 established the Anti-Corruption Commission, which investigates and prosecutes corruption offences under that Act, the Prevention of Corruption Act 1947 and the Penal Code. The Money Laundering Prevention Act 2012, as amended, is the principal AML statute, and the Bangladesh Financial Intelligence Unit receives suspicious transaction reports and supervises reporting organisations. Bangladesh Bank and the Bangladesh Securities and Exchange Commission also have enforcement roles.",
+  "matters": [
+    {
+      "title": "Garment factory and supplier checks",
+      "text": "Research on ready-made garment and textile suppliers in Dhaka, Gazipur, Narayanganj and Chattogram: RJSC registration, ownership and group links, adverse media and litigation, and consistency with audit reports, to identify unauthorised subcontracting, misstated capacity and integrity concerns before orders are placed."
+    },
+    {
+      "title": "Sponsor and conglomerate background",
+      "text": "Background research on sponsors and family groups before lending, investment or partnership, mapping affiliated companies, related-party exposure, bank default history reported publicly, regulatory actions and political connections, which are often decisive in assessing large Bangladeshi conglomerates."
+    },
+    {
+      "title": "Trade finance and fraud inquiries",
+      "text": "Support for banks and counsel examining letter of credit fraud, fictitious exporters or importers, over- and under-invoicing and diversion of goods, combining corporate research with shipping and trade indicators to establish who stood behind a transaction and where value moved."
+    },
+    {
+      "title": "Agent and partner integrity",
+      "text": "Due diligence on agents, distributors and joint venture partners in energy, infrastructure, telecoms and public procurement, focusing on ownership, conflicts of interest and links to officials, so that anti-bribery controls are documented under the client's own legal obligations."
+    },
+    {
+      "title": "Asset research for disputes",
+      "text": "Research for litigation and arbitration involving Bangladeshi parties: corporate interests, affiliated entities, publicly recorded property and holdings abroad, including in the United Kingdom and the Gulf, recognising that land and court records are local and often require in-person retrieval."
+    }
+  ],
+  "practical": [
+    {"label": "Business languages", "value": "Bangla; English widely used in business and law"},
+    {"label": "Time zone", "value": "Asia/Dhaka, UTC+6 (no daylight saving)"},
+    {"label": "Working week", "value": "Sunday to Thursday; Friday and Saturday are the weekend"},
+    {"label": "Main business centres", "value": "Dhaka, Chattogram, Gazipur, Narayanganj, Sylhet, Khulna"},
+    {"label": "Courts language", "value": "English and Bangla; lower court records often in Bangla"},
+    {"label": "Document formalities", "value": "Foreign documents generally need notarisation, authentication and certified translation"},
+    {"label": "Business culture", "value": "Hierarchical and relationship-based; family groups dominate private business"},
+    {"label": "Seasonal timing", "value": "Eid holidays and monsoon season can slow offices and fieldwork"}
+  ],
+  "tdsc_approach": "TDSC scopes Bangladesh engagements from Nashville, beginning with the client's purpose, the data protection position under the 2025 ordinances and cyber security law, and the records realistically available. Research relies on RJSC filings obtained through proper channels, published judgments and regulatory notices, Bangla and English media, trade data and documents the client lawfully holds. Because private detective agencies have no recognised legal status, we do not engage unlicensed operators, commission covert surveillance or seek bank, telecom or national ID data. Where local work is needed, such as retrieving certified documents or making an overt site visit, we coordinate qualified local professionals and Bangladeshi counsel, minimise personal data and agree transfer handling at the outset.",
+  "faqs": [
+    {
+      "q": "Can private investigators lawfully operate in Bangladesh?",
+      "a": "We have not identified a licensing regime. Officials quoted by Bangla Tribune said there is no scope to approve private detective agencies and that proposals had been refused, although some operators trade. TDSC therefore works through public records, Bangladeshi counsel and qualified local professionals performing lawful, overt tasks, rather than through detective firms."
+    },
+    {
+      "q": "What changed with the 2025 data protection ordinance?",
+      "a": "The Personal Data Protection Ordinance 2025, gazetted in November 2025 with a National Data Governance Ordinance, introduced explicit consent, sensitive data categories, breach reporting and an equivalent-protection test for transfers abroad, overseen by a new National Data Governance Authority. Some provisions take effect 18 months after gazettal, so counsel should confirm what applies to a given matter."
+    },
+    {
+      "q": "What can RJSC records show about a Bangladeshi company?",
+      "a": "RJSC records show registration details and, through certified copies, filed documents such as directors' particulars, annual returns listing shareholders and constitutional documents. Filings can be out of date or incomplete, and we have not identified a public beneficial ownership register, so ownership conclusions are tested against media, litigation and related-company research."
+    },
+    {
+      "q": "Can TDSC help verify a garment supplier before placing orders?",
+      "a": "Yes. We check registration, ownership and group affiliations, compare them with audit reports and the supplier's own claims, and review media and litigation for safety, labour or integrity issues. Where useful, a qualified local professional can make an overt, documented visit. We do not use pretexts or covert observation."
+    },
+    {
+      "q": "Where are commercial disputes with Bangladeshi parties heard?",
+      "a": "Many commercial contracts provide for arbitration under the Arbitration Act 2001, including at the Bangladesh International Arbitration Centre. Otherwise, suits go to district civil courts, company matters to the High Court Division of the Supreme Court, and bank recovery claims to money loan courts. Bangladeshi counsel should confirm the forum for each matter."
+    }
+  ],
+  "sources": [
+    {"title": "World Bank: Population, total (Bangladesh)", "url": "https://api.worldbank.org/v2/country/BD/indicator/SP.POP.TOTL?format=json&mrnev=1"},
+    {"title": "DLA Piper Data Protection Laws of the World: Bangladesh", "url": "https://www.dlapiperdataprotection.com/?t=law&c=BD"},
+    {"title": "The Daily Star: Bangladesh's Personal Data Protection Ordinance 2025, key takeaways", "url": "https://www.thedailystar.net/tech-startup/news/bangladeshs-personal-data-protection-ordinance-2025-key-takeaways-4015401"},
+    {"title": "Prothom Alo: Govt issues gazettes of 2 landmark ordinances on data protection, governance", "url": "https://en.prothomalo.com/bangladesh/government/teeopu4dfv"},
+    {"title": "Bangla Tribune: Private detectives in business despite being illegal", "url": "https://en.banglatribune.com/others/news/30730/Private-detectives-in-business-despite-being"},
+    {"title": "Dhaka Tribune: 700 security companies run on mere trade licences", "url": "https://www.dhakatribune.com/bangladesh/126847/700-security-companies-run-on-mere-trade-licences"},
+    {"title": "Bangladesh Financial Intelligence Unit: Establishment", "url": "https://bfiu.org.bd/index.php/home/establishment"},
+    {"title": "UNCAC Coalition: Civil society report on Bangladesh legal framework (2023)", "url": "https://uncaccoalition.org/resources/new-civil-society-report-on-bangladesh-legal-framework-in-place-but-poor-implementation-of-uncac-provisions-exacerbates-corruption/"}
+  ],
+  "review_flags": [
+    "Data protection ordinances were promulgated by the interim government in November 2025; ordinances generally lapse unless ratified by Parliament, and a new Parliament was elected in 2026. Confirm current legal status and commencement dates before publication.",
+    "DLA Piper's Bangladesh page was last updated January 2024 and still cites the Cyber Security Act 2023, which was reportedly replaced by a Cyber Security Ordinance 2025; the text refers generically to cyber security legislation.",
+    "Corporate records, court structure (Artha Rin Adalat, High Court Division company jurisdiction), Arbitration Act 2001 and BIAC are from general knowledge; web fetch limit was reached before RJSC and court sources could be opened. Verify, including whether any beneficial ownership disclosure rule has been introduced.",
+    "Bangla Tribune article on private detectives is undated; Dhaka Tribune security-company report may be dated.",
+    "Anti-corruption and AML statute details (ACC Act 2004, MLPA 2012, BFIU role) confirmed only from search result listings, not opened pages."
+  ],
+  "researched": "2026-11-04"
+}

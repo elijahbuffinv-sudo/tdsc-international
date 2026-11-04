@@ -49,11 +49,32 @@ Items researchers could not verify from an opened source. Not published on the s
 - Beneficial ownership register timeline (engagement from early 2027) subject to change.
 - Tranche 2 AML/CTF commencement of 1 July 2026 taken from law-firm-sector sources, not AUSTRAC directly.
 
+## Bangladesh (BD) — 8 sources
+- Data protection ordinances were promulgated by the interim government in November 2025; ordinances generally lapse unless ratified by Parliament, and a new Parliament was elected in 2026. Confirm current legal status and commencement dates before publication.
+- DLA Piper's Bangladesh page was last updated January 2024 and still cites the Cyber Security Act 2023, which was reportedly replaced by a Cyber Security Ordinance 2025; the text refers generically to cyber security legislation.
+- Corporate records, court structure (Artha Rin Adalat, High Court Division company jurisdiction), Arbitration Act 2001 and BIAC are from general knowledge; web fetch limit was reached before RJSC and court sources could be opened. Verify, including whether any beneficial ownership disclosure rule has been introduced.
+- Bangla Tribune article on private detectives is undated; Dhaka Tribune security-company report may be dated.
+- Anti-corruption and AML statute details (ACC Act 2004, MLPA 2012, BFIU role) confirmed only from search result listings, not opened pages.
+
 ## Belgium (BE) — 11 sources
 - Private Investigations Act (in force 16 Dec 2024) is under Constitutional Court review per A&O Shearman; check outcome before publishing.
 - New Criminal Code scheduled for 8 April 2026; confirm it took effect and whether bribery article numbers (246-252, 504bis/ter) have changed.
 - Planned National Financial Prosecutor's Office announced but not established as of the source; check status.
 - Official full title/date of the 2024 Private Investigations Act not confirmed (adopted May 2024, published 6 Dec 2024).
+
+## Bulgaria (BG) — 9 sources
+- No private investigator licensing regime identified; PSAA 2018 covers security only per secondary source. Confirm with Bulgarian counsel.
+- Anti-corruption commission abolished January 2026 (Sofia Globe); institutional arrangements may change again. Verify before publishing.
+- Public access to beneficial ownership particulars after the 2022 CJEU ruling not confirmed; text hedges.
+- Euro adoption on 1 January 2026, Property Register, Criminal Code bribery scope and SANS financial intelligence role stated from general knowledge rather than an opened source.
+- 2025 Arbitration Act amendment: CMS article dated 5 Aug 2025 does not give adoption/effective date.
+
+## Bahrain (BH) — 11 sources
+- PDPL regulator: DLA Piper reports the Ministry of Justice temporarily performs the Personal Data Protection Authority's functions under Decree No. 78 of 2019; check whether a standalone Authority is now operating.
+- Private investigator regulation: no source found on licensing or prohibition; needs confirmation by Bahraini counsel.
+- Not verified against an opened source (fetch limit reached): year of the Penal Code amendment extending bribery to the private sector (search results confirm the topic only); Financial Intelligence Directorate and Ministry of Interior directorate names; Sijilat public CR lookup content; Central Bank public register; Sunday-Thursday working week.
+- UBO filings described as not publicly searchable: sources did not address public access.
+- BCDR/BICC overlap for claims above BHD 500,000 is unresolved pending regulations or judgments (Al Tamimi 2026 outlook).
 
 ## Brunei (BN) — 10 sources
 - No dedicated private investigator licensing law identified for Brunei; position stated as unconfirmed.
@@ -67,6 +88,13 @@ Items researchers could not verify from an opened source. Not published on the s
 - Clean Company Act (Law 12.846/2013), AML Law 9.613/1998 (amended 2012) and the Arbitration Law 9.307/1996 are stated from well-established knowledge; official CGU and Planalto pages were inaccessible during research. Verify before publication.
 - Beneficial ownership (beneficiário final) public-access status not confirmed from the Receita Federal page.
 - ANPD enforcement and EU-Brazil mutual adequacy (January 2026) are recent developments; recheck periodically.
+
+## The Bahamas (BS) — 8 sources
+- Data Protection Bill, 2025 was laid before the House in October 2025; check whether it has been enacted and replaces the current Act before publishing.
+- Year of the current Data Protection (Privacy of Personal Information) Act not stated in sources opened, so omitted.
+- Inquiry Agents and Security Guards Act: licensing authority for inquiry agents inferred from a news report on the Ministry of National Security; confirm with Bahamian counsel.
+- Independent Commission of Investigations Bill passed the House in February 2025 and Integrity Commission legislation was pending; status may have changed.
+- Named bribery statute (Prevention of Bribery Act) not verified, so described generically.
 
 ## Canada (CA) — 6 sources
 - DLA Piper Canada page notes it was last reviewed in 2023; Bill C-27 status (died January 2025) is from that page. A successor federal privacy bill may have been introduced since; confirm.
@@ -96,6 +124,12 @@ Items researchers could not verify from an opened source. Not published on the s
 - Criminal Code references (unauthorised recording, acts for a foreign state, economic espionage) and anti-corruption content (Criminal Code bribery provisions, corporate liability, AMLA, MROS, OAG, FINMA) not opened from a source this session.
 - Commercial courts list (Zurich, Bern, St. Gallen, Aargau) and Federal Supreme Court in Lausanne not opened from a source.
 - Commercial register content is sourced to German Wikipedia; confirm with the Federal Commercial Registry Office or Zefix.
+
+## Chile (CL) — 8 sources
+- Law 21.719 data protection amendments and the new Agencia de Protección de Datos Personales take effect 1 December 2026, weeks after research date; update wording once in force.
+- No dedicated PI licensing regime identified; Law 21.659 (private security, deferred effect 28 Nov 2025 per Ley Chile header) covers security consulting and bars regulated persons from investigating crimes. Whether investigative consulting firms fall within its registration requirements should be confirmed with Chilean counsel.
+- Beneficial ownership register bill (Boletín 16.475-05) status not confirmed; check whether enacted.
+- Criminal Code art. 161-A (recording in private spaces), Law 19.971 (international arbitration), Law 20.720 (insolvency), Supreme Court exequatur, Registro de Empresas y Sociedades and Codelco references are from general knowledge and were not opened during this research.
 
 ## China (CN) — 10 sources
 - Search budget was exhausted; could not open an official or legal source confirming the absence of a PI licensing regime (commonly cited 1993 Ministry of Public Security notice) - investigator_regulation states this as 'not identified' and should be confirmed.
@@ -209,6 +243,11 @@ Items researchers could not verify from an opened source. Not published on the s
 - Royal Decree 2364/1994 described as still partly in force pending a new implementing regulation for Law 5/2014; confirm whether a new Private Security Regulation has been adopted.
 - Qualification issuance described as Ministry of the Interior via National Police; regional authorities (e.g., Catalonia, Basque Country) may have competences over private security; confirm.
 
+## Finland (FI) — 8 sources
+- Private investigator position is inferred: no stand-alone PI licence identified; careers guidance points to the security sector business licence. The opened statute translation is the repealed 2002 Act; the current Act on Private Security Services (1085/2015) was not opened directly. Confirm with Finnish counsel.
+- Court structure, Market Court, Finland Arbitration Institute, Arbitration Act 967/1992, National Land Survey and National Prosecution Authority stated from general knowledge, not from an opened source.
+- Free availability of YTJ/Virre basic data and filing of financial statements with PRH partly inferred from PRH page and vendor guides.
+
 ## Micronesia (FM) — 8 sources
 - No private investigator licensing regime identified; state-level business licensing requirements not researched.
 - Public inspectability of Registrar of Corporations records not confirmed from the Code.
@@ -238,6 +277,13 @@ Items researchers could not verify from an opened source. Not published on the s
 - Private investigator licensing not verified.
 - Population is a 2024 estimate sourced via Wikipedia; replace with Grenada Central Statistical Office or UN figure if available.
 - CBI programme rebranded as Investment Migration Agency on 20 March 2024 per State Dept; programme rules change often (EU/US pressure on Caribbean CBI).
+
+## Georgia (GE) — 8 sources
+- Personal Data Protection Service and Anti-Corruption Bureau liquidated 2 March 2026; functions moved to the State Audit Office (Parliament of Georgia, DLA Piper). Confirm the State Audit Office's exact remit and naming once implementation guidance is published.
+- No dedicated private investigator licensing law identified; statement rests on the absence of one in research and the scope of the Law on Private Security Activities. Confirm with Georgian counsel.
+- No public beneficial ownership register per IDFI (July 2024); check whether any reform has since been adopted.
+- Court structure (Courts of Appeals in Tbilisi and Kutaisi, Supreme Court), GIAC, the 2022 Law on Entrepreneurs date, and the Financial Monitoring Service as FIU are from general knowledge or secondary sources and were not verified on official pages.
+- Statement that NAPR extracts show directors is from general knowledge; the NAPR page opened did not detail extract contents.
 
 ## Ghana (GH) — 10 sources
 - Private investigator licensing in Ghana NOT verified (search budget exhausted); text states this honestly. Check whether investigators fall under private security organisation regulation by the Ministry of the Interior/Ghana Police.
@@ -319,6 +365,12 @@ Items researchers could not verify from an opened source. Not published on the s
 - Statement that several Haitian individuals are subject to sanctions is general knowledge not verified against a specific source in this research; consider softening or citing OFAC centrally.
 - AML law of 11 Nov 2013 amended 2016: amendment passed Senate Sept 2016; promulgation date not confirmed.
 
+## Hungary (HU) — 8 sources
+- UBO register public access: the cited commentary (circa 2023) said access remained open after the CJEU 2022 ruling; current status as of 2026 not verified and may have changed with AMLD6 transposition.
+- June 2026 reform package (Bill T/174) under the new government is recent; details taken from a secondary news source.
+- Act LIII of 2017 (AML), Civil Code Act V of 2013, Civil Procedure Act CXXX of 2016, court structure, Commercial Arbitration Court of Hungary, online company register and public financial statements stated from general knowledge, not from an opened source.
+- Police licensing source is the 2020 version of the procedure page; confirm current fees and requirements.
+
 ## Indonesia (ID) — 7 sources
 - No dedicated private investigator licensing regime identified; police oversight of security businesses mentioned generally and not verified against a specific regulation. Confirm with Indonesian counsel.
 - Law No. 31 of 1999 as amended by Law No. 20 of 2001 (corruption offences) not opened this session (KPK and JDIH pages blocked); citation is standard but should be verified.
@@ -360,12 +412,31 @@ Items researchers could not verify from an opened source. Not published on the s
 - Not verified from an opened source: Law 190/2012 as ANAC's basis, Criminal Code arts. 318-322-bis, Decree 231/2001, Decree 231/2007, UIF/Guardia di Finanza roles, Workers' Statute limits (arts. 4 and 8 of Law 300/1970), specialised business sections of tribunals, Garante deontological rules for defence investigations, 'euro area's third-largest economy'.
 - Data Privacy Framework referenced as adequacy basis for certified US recipients per DLA Piper (Jan 2025); confirm DPF remains valid at publication.
 
+## Jamaica (JM) — 8 sources
+- Exact short title of the PSRA's governing statute not confirmed from an official text (sources refer to 'the PSRA Act' passed in 1992); described generically.
+- Data Protection Act breach notification and penalty provisions not verified, so not described; the Minister indicated the sanctions regime for unregistered controllers would take effect later.
+- Status of the Corruption Prevention Act alongside the Integrity Commission Act 2017 taken from the 2024 US Investment Climate Statement; confirm it has not been consolidated or repealed.
+- DLA Piper's c=JM page returned Albania content, so it was not used as a source.
+
+## Jordan (JO) — 9 sources
+- No private investigator licensing regime identified for Jordan; confirm with Jordanian counsel.
+- Data protection law effective date: Al Tamimi (Oct 2023) expected entry into force by March 2024; page says 'took effect in 2024' without an exact date. Status of implementing regulations not checked.
+- Public access to the CCD beneficial ownership register not confirmed; text says guidance does not confirm public access.
+- AML law source is a secondary training site, not the AMLU's official page; Integrity and Anti-Corruption Commission named from general knowledge.
+- Companies Law No. 22 of 1997 is cited from the CCD guidance; 'basic company details available online', Sharia courts, Aqaba SEZ, working week and permanent UTC+3 are stated from general knowledge.
+
 ## Japan (JP) — 8 sources
 - Search budget was exhausted and several official pages (e-Gov law text, NPA detective business page, JAFIC, courts.go.jp) could not be fetched; the detective business act summary relies on Japanese Wikipedia and should be checked against the official text (article numbering differs between sources; effective date of June 2007 not confirmed and omitted). The English title used is a translation.
 - Court structure detail (Tokyo/Osaka commercial divisions, IP High Court) and the Act on Prevention of Transfer of Criminal Proceeds / FSA / NPA FIU references are from general knowledge, not an opened source - verify.
 - Registry Information Service page did not explicitly confirm commercial registry access online (only real estate shown on landing page); commercial registry public availability stated from general knowledge.
 - PPC decided a triennial APPI review policy in January 2026; further amendments are expected and the data protection section may need updating.
 - Antisocial forces screening matter describes standard practice (exclusion clauses) without an opened source.
+
+## Kenya (KE) — 9 sources
+- Data localisation: Digital Policy Alert summary of the General Regulations 2021 strategic-interest rule was truncated; exact scope (servers/data centres in Kenya, which purposes) should be confirmed against the ODPC text.
+- PSRA registration requirement for investigators is drawn from a 2019 law-firm analysis; the statute page did not render. Confirm current PSRA categories and any 2025 regulations.
+- POCAMLA 2009, ODPP/FRC/ARA roles, Commercial and Tax Division, Environment and Land Court and NCIA (2013) are stated from general knowledge and search result titles rather than opened pages.
+- Contents of company searches (directors, shareholders) not confirmed on BRS page; based on general practice.
 
 ## Saint Kitts and Nevis (KN) — 3 sources
 - Search and fetch budgets were exhausted; this page rests mainly on the 2024 US State Department Investment Climate Statement. Only 3 sources; brief asks for 5-12.
@@ -386,6 +457,13 @@ Items researchers could not verify from an opened source. Not published on the s
 - Act on Combating Bribery of Foreign Public Officials and KoFIU are named from general knowledge (State Department page confirms OECD Convention membership and an FIU); confirm law titles.
 - IROS homepage returned no readable content; description of registry extract contents and absence of a public beneficial ownership register should be checked.
 - PIPA amendments of March 2026 (effective September 2026, some provisions July 2027) are recent; re-check effective dates.
+
+## Kuwait (KW) — 9 sources
+- Data protection: DLA Piper page last modified February 2025; check whether Kuwait has since adopted a comprehensive personal data law.
+- Private investigator regulation: no source found on licensing or prohibition; needs confirmation by Kuwaiti counsel.
+- Photography offence: Gulf News report is internally inconsistent on penalties (up to three years and KWD 3,000 per Ministry statement vs two years and KWD 500-5,000 per quoted Article 70 of Law No. 37 of 2014); penalties deliberately not stated.
+- Not verified against an opened source: Civil and Commercial Codes of 1980, Companies Law No. 1 of 2016, court structure, Constitutional Court, Kuwait Commercial Arbitration Centre, MOCI registry access, Boursa Kuwait/CMA, Sunday-Thursday working week.
+- Kuwait's National Assembly has been suspended since May 2024 with legislation issued by decree-law (general knowledge, not source-verified); laws cited may change at short notice.
 
 ## Cayman Islands (KY) — 10 sources
 - Private investigator licensing: no dedicated regime identified; Private Security Services Law reviewed only in bill form (2007) - confirm with Cayman counsel whether investigations have been added by Gazette notice.
@@ -423,6 +501,13 @@ Items researchers could not verify from an opened source. Not published on the s
 - GDPR applicability via EEA is well established but was not confirmed from an opened page (DLA Piper LI page returned Albania content).
 - Legal system description (Austrian and Swiss influence, PGR) is general knowledge; Wikipedia confirmed only the court structure.
 
+## Sri Lanka (LK) — 7 sources
+- Personal Data Protection Act substantive provisions not yet in operation per DLA Piper; check for a commencement Gazette Order before publishing. Amendment Act number (No. 22 of 2025) and date taken from DLA Piper only.
+- No PI-specific licensing law identified; whether the Regulation of Private Security Agencies Act No. 45 of 1998 covers investigative services is unconfirmed. Confirm with Sri Lankan counsel.
+- Commencement date of the Companies (Amendment) Act No. 12 of 2025 beneficial ownership provisions and whether any BO data will be made public were not confirmed (web fetch limit reached).
+- Legal system details (Commercial High Court, Arbitration Act No. 11 of 1995, ICLP and SLNAC centres, personal laws), AML Act numbers (PMLA No. 5 of 2006, FTRA No. 6 of 2006), public availability of Registrar of Companies records and land registration statements are from general knowledge or search-result titles, not pages opened.
+- Anti-Corruption Act corporate liability and private sector scope sourced from a law-firm article; Act text not opened.
+
 ## Liberia (LR) — 9 sources
 - Web search budget was exhausted during research; Liberia relied on direct fetches.
 - AML law name and year (believed to be the Anti-Money Laundering and Terrorist Financing Act 2012) and current FIU name not verified from an opened source; text kept general.
@@ -455,6 +540,12 @@ Items researchers could not verify from an opened source. Not published on the s
 - Claim that RBE public access was withdrawn after the November 2022 CJEU judgment is based on general knowledge (Open Ownership confirms only that states are no longer required to provide it); confirm current RBE rules, which are changing with EU AML reforms.
 - Detail of what RCS filings show (accounts, managers, shareholders for some forms) is general knowledge, not confirmed from an opened LBR page.
 - Workforce and business centre practicals are general knowledge.
+
+## Latvia (LV) — 8 sources
+- Register of Enterprises open-data date: article says amendments adopted 14 November 2019 in force 7 January (year inferred as 2020); confirm.
+- Economic Affairs Court start date (1 January 2021) and jurisdiction taken from a 2020 preview article; confirm current scope.
+- Not verified in a source this session (general knowledge): Civil Law and Commercial Law references, court structure, permanent arbitration courts, coercive measures against legal persons under the Criminal Law, KNAB remit, annual reports filed via State Revenue Service, Land Register, Labour Law and DSI monitoring guidance, euro adoption 2014, sector examples.
+- Latvian beneficial ownership register remains public per April 2024 Cabinet decision; EU AMLR implementation may change this.
 
 ## Libya (LY) — 6 sources
 - Web search budget was exhausted; several Libyan official and MENAFATF pages could not be fetched.
@@ -546,6 +637,13 @@ Items researchers could not verify from an opened source. Not published on the s
 - Criminal bribery provisions and corporate criminal liability not verified from a primary source (web search budget exhausted); text kept general.
 - Judicial reform implementation (elected judges since 2025) is ongoing and may change court practice.
 
+## Malaysia (MY) — 8 sources
+- Private Agencies (Amendment) Bill 2025 passed the Dewan Rakyat on 9 October 2025; Senate passage, royal assent and commencement not verified. Licence terms on the MOHA page (Bumiputera 70%, former officer shareholder) may change.
+- The '36 registered private investigators' figure is from press reporting of the parliamentary debate.
+- PDPA statutory exceptions to consent not listed in the source opened; no breach-notification deadline stated. Further PDPA guidelines expected in 2026.
+- Common-law/Syariah characterisation, court languages, state working weeks (Friday-Saturday weekends in Kelantan, Terengganu and Kedah) and Labuan references are general knowledge rather than sources opened this session; state weekend arrangements change periodically.
+- Public availability of SSM company profiles and officer details stated from general knowledge; SSM e-Info product pages not opened.
+
 ## Mozambique (MZ) — 9 sources
 - Personal data protection bill pending as of August 2026; update data_protection when enacted.
 - No PI-specific licensing regime identified; whether Decree 9/2007 on private security reaches investigative activity not confirmed.
@@ -607,6 +705,37 @@ Items researchers could not verify from an opened source. Not published on the s
 - Practical items on te reo Maori in court, Chatham Islands time and DST dates are from general knowledge, not a source opened this session.
 - NZ Companies Office page did not mention a beneficial ownership register; government plans not verified.
 
+## Oman (OM) — 8 sources
+- No private investigator licensing regime identified for Oman; text states this honestly and should be confirmed by Omani counsel.
+- Investment and Commerce Court: Chambers cites Royal Decree 35/2025; decree number not independently confirmed from an official source, so the page omits it.
+- Oman Commercial Arbitration Centre named from Chambers; arbitration law number not stated.
+- Commercial Companies Law Royal Decree 18/2019 and public availability of commercial registry extracts not confirmed from an official source in this research pass.
+- Vision 2040, working week, Duqm SEZ and Sharia's constitutional role stated from general knowledge rather than an opened source.
+
+## Panama (PA) — 9 sources
+- Private investigator licensing in Panama unverified: no statute or authority identified; one non-authoritative blog claims licensing exists. Confirm with Panamanian counsel whether MINSEG private security rules cover investigation services.
+- Public Registry disclosure contents (directors/subscribers shown, shareholders/beneficiaries not shown) and Maritime Courts, CeCAP, Penal Code foreign bribery, UAF and Ministerio Público anti-corruption prosecutors are stated from general knowledge and search result titles, not opened pages.
+- DLA Piper notes a pending bill raising ANTAI fines to USD 100,000; not reflected in copy.
+
+## Peru (PE) — 7 sources
+- No dedicated PI licensing regime identified; DS 005-2023-IN private security modalities exclude investigation. Confirm with Peruvian counsel whether any SUCAMEC authorisation could apply to local field work.
+- DPO obligations under DS 016-2024-JUS are phased in from 30 Nov 2025 (large companies) to 30 Nov 2028 (micro companies).
+- Law 30424 year (2016), Law 31740 (2023), Legislative Decree 1106 (AML), UIF-Peru within SBS, Legislative Decree 1071 (arbitration), Lima commercial sub-speciality, INDECOPI insolvency role, Law 26887 and SUNARP share-register point are from general knowledge and were not opened during this research.
+
+## Philippines (PH) — 7 sources
+- Public accessibility of SEC HARBOR beneficial ownership data not confirmed; check SEC guidance before relying on it.
+- RA 11917 text opened does not expressly apply Filipino-ownership rule or licence-to-operate wording to detective agencies in every section; implementing rules (IRR) not reviewed. Confirm current PNP licensing practice with Philippine counsel.
+- Anti-Wiretapping Act (RA 4200), Revised Corporation Code (2019), DTI business-name registration, Torrens/LRA land records, special commercial court designation, PDRCI, Ombudsman/Sandiganbayan/AMLC roles and mixed-legal-system characterisation are from general knowledge or search-result listings, not pages opened this session.
+- RA 9160 and RA 9285 sources were seen in search results but not opened (web fetch rate limit reached during research).
+- Pending Data Privacy Act amendment bills (e.g., HB 9651) could change penalties and sensitive-data categories; DLA Piper did not expect enactment within 12 months.
+
+## Pakistan (PK) — 8 sources
+- No PI licensing statute identified; private security regime description rests on an older Express Tribune report. Confirm current provincial rules with Pakistani counsel.
+- Public accessibility of the SECP digital UBO registry is not stated by SECP; treated as non-public.
+- Personal Data Protection Bill 2023 still draft as of DLA Piper (March 2026); check for enactment before publication.
+- 27th Amendment court changes are recent and contested; Arbitration Act 1940, Prevention of Corruption Act 1947 and court-tier description rely partly on general knowledge and search snippets.
+- Working week: Pakistan has varied between five- and six-day government weeks; confirm.
+
 ## Poland (PL) — 8 sources
 - Detective services summary is based on the 2020 consolidated text (Dz.U. 2020 poz. 129); a later amendment (Dz.U. 2020 poz. 1747) and possibly a newer consolidated text exist. Confirm licence and register rules are unchanged.
 - World Bank lists Poland at 36.4 million (2025), noticeably below Statistics Poland (GUS) figures of roughly 37 million; confirm which figure to publish.
@@ -626,6 +755,12 @@ Items researchers could not verify from an opened source. Not published on the s
 - Gaza situation and administrative arrangements are highly fluid; review before publication.
 - Ministry name for the data protection draft (Telecommunications and Digital Economy) not directly confirmed from source.
 
+## Portugal (PT) — 7 sources
+- No-licensing position for private investigators rests on a secondary 2026 commentary source; confirm with Portuguese counsel that no PI statute has been enacted.
+- RCBE legitimate-interest decree-law (published 27 October 2025, transposing Directive (EU) 2024/1640) number and effective date not verified from the Diário da República.
+- Law 20/2008 (private-sector corruption), Law 83/2017 (AML), Penal Code bribery articles, court structure and arbitration centre are stated from general knowledge and not from an opened source.
+- GNR source URL contains spaces and non-ASCII characters; may need URL encoding.
+
 ## Qatar (QA) — 5 sources
 - Search budget was exhausted during this country; no official source located on private investigator licensing in Qatar. The 'no identified regime' statement and Ministry of Interior reference for security services need verification.
 - Data protection regulator: DLA Piper names NCGAA (National Cyber Security Agency); the 2024 US State Department ICS names the Communications Regulatory Authority. Used NCGAA; confirm.
@@ -638,6 +773,12 @@ Items researchers could not verify from an opened source. Not published on the s
 - Search budget exhausted and Romanian official legal databases (legislatie.just.ro, cdep.ro, politiaromana.ro, onrc.ro) blocked fetching. The following were NOT verified from an opened source and come from general knowledge: Law 329/2003 details (attestation/licence via IGPR, prohibitions); Law 78/2000; Law 129/2019 and ONPCSB; ONRC beneficial owner register and post-CJEU (WM/Sovim, Nov 2022) access restrictions; Civil Code Law 287/2009; content of ONRC extracts; public financial statement search; courts portal party search; land book (ANCPI).
 - Verified: GDPR/Law 190/2018/ANSPDCP and employee monitoring rules (DLA Piper); no specialised commercial courts, CCIR arbitration court, BIAC 2016, DNA, ANI, ANABI, OECD Anti-Bribery Convention accession Sept 2023 (US State Dept ICS 2024).
 - Sources list includes ONRC and courts portal homepages, which could not be opened.
+
+## Serbia (RS) — 9 sources
+- Public, no-legal-interest access to beneficial ownership data is taken from an APR page that may predate the 2025 Law on the Central Register of Beneficial Owners; confirm access rules after 1 October 2025.
+- Ministry of Interior role in detective licensing sourced from a 2016 N1 news report and 2018 law-firm commentary; the official consolidated text of the Law on Detective Activity was not opened.
+- Court structure (Commercial Appellate Court, Supreme Court) and arbitration institutions (Permanent Arbitration at the Chamber of Commerce and Industry of Serbia, Belgrade Arbitration Center) stated from general knowledge without a source opened in this research.
+- Real estate (cadastre) reference to the Republic Geodetic Authority is from general knowledge, not a source opened.
 
 ## Russia (RU) — 4 sources
 - SANCTIONS: verified from OFAC program page (Nov 2026) that the program remains in force with new measures through Oct 2026 (EO 14436) and targeted general licenses; no broad easing. Legal review of the tdsc_approach wording is recommended, especially the statement that TDSC provides no services to persons in Russia (EO 14071 management consulting / accounting determinations).
@@ -666,6 +807,16 @@ Items researchers could not verify from an opened source. Not published on the s
 - Prevention of Corruption Act year (1960) deliberately omitted; Singapore Land Authority title search and Maxwell Chambers references are from general knowledge.
 - Web search budget was exhausted; research relied on WebFetch of known URLs only.
 
+## Slovenia (SI) — 8 sources
+- ZDD-2 entry-into-force and application dates not confirmed (published 8 November 2024); confirm it is fully applicable and that ZDD-1 references on SPOT are outdated.
+- Not verified in a source this session (general knowledge): Obligations Code, Companies Act ZGD-1, court structure and Ljubljana District Court role, Ljubljana Arbitration Centre, Liability of Legal Persons for Criminal Offences Act, Office for Money Laundering Prevention as FIU, land register online availability, Italian and Hungarian as official languages in border municipalities, euro adoption 2007, sectoral examples.
+- Beneficial owner register access restricted from 9 August 2025 per a secondary source (SIBIZ); confirm on AJPES.
+
+## Slovakia (SK) — 8 sources
+- Not verified in a source this session (general knowledge): Civil Code and Code of Civil Contentious Procedure references, court structure and designated district courts for commercial matters, Constitutional Court seat in Košice, Arbitration Court of the Slovak Chamber of Commerce and Industry, cadastre, slovensko.sk electronic mailboxes, Labour Code monitoring limits, RPVS public-funds thresholds and authorised-person mechanism, automotive plant locations.
+- Slovak anti-corruption enforcement structure changed in 2024 (Special Prosecutor's Office dissolved; NAKA replaced by ÚBOK); reports in 2025 suggest partial rebuilding within the General Prosecutor's Office. Re-check before publishing.
+- Public access to beneficial ownership data in RPO may be affected by the 2022 CJEU ruling and EU AMLR implementation; RPVS remains public per Open Ownership, but confirm current RPO access.
+
 ## El Salvador (SV) — 5 sources
 - HIGH: El Salvador may have enacted a Personal Data Protection Law in late 2024. Not verified (search budget exhausted); DLA Piper page dated Jan 2024 shows no law. Confirm and update the data_protection block.
 - PI licensing regime not researched (search budget exhausted); confirm whether private security legislation covers investigators.
@@ -681,12 +832,40 @@ Items researchers could not verify from an opened source. Not published on the s
 - Deeds Registry reference and the claim that arbitration is often seated in South Africa are based on general knowledge rather than a source opened for this research; verify.
 - Court structure source (GlobaLex) dates from 2007; confirm that there have been no structural changes since.
 
+## Thailand (TH) — 10 sources
+- No dedicated private investigator licensing regime identified; main source is a 2010 thesis recommending one. Confirm with Thai counsel that no law has since been enacted.
+- IIPLA (Sept 2026) reports new IP court procedural rules affecting investigation firms but does not name them; not verified against court sources.
+- Public accessibility and cost of DBD shareholder lists and financial statements not verified on a DBD page (secondary sources only).
+- NACC and AMLO named as enforcement bodies from general knowledge and secondary sources; Tilleke page opened did not name enforcement bodies.
+- Civil-law characterisation, court language, B.E. calendar, time zone and business centres are general knowledge rather than a source opened this session.
+
 ## Türkiye (TR) — 6 sources
 - Turkey sources are thin: official legislation (mevzuat.gov.tr), trade registry (ticaretsicil.gov.tr), ICLG and OECD pages could not be fetched, and web search budget was exhausted. Several statements rely on general knowledge and need checking.
 - Private investigator regulation not verified: text says no licensing statute identified and that Law No. 5188 appears to cover guarding only. Confirm with Turkish counsel.
 - Not verified from an opened source this session: Turkish Commercial Code No. 6102 and Code of Obligations No. 6098; commercial courts of first instance; trade registry offices within chambers under Ministry of Trade oversight and MERSIS; non-public joint-stock share ledgers; beneficial ownership reporting and its non-public status; land registry (TKGM) access; Criminal Code bribery provisions covering foreign officials; corporate security measures and Misdemeanours Law fines; Law No. 5549 (2006); Criminal Code privacy and recording offences.
 - Data protection law name refers to 2024 amendments to Law No. 6698; the DLA Piper page cited only the July 2024 transfer regulation, not the amending law itself. Confirm amending law number and date.
 - Wikipedia used as a source for court structure; replace with an official or law-firm source if available.
+
+## Trinidad and Tobago (TT) — 9 sources
+- No dedicated private investigator licensing statute identified; status of the 2014 draft Private Security Industry Bill not confirmed. Newsday article undated.
+- Data Protection Act 2011 remains partly proclaimed per DLA Piper (last reviewed 2023); check for later proclamation and whether the Office of the Information Commissioner is operational.
+- Arbitration Act 1939 cited from the 2024 US Investment Climate Statement; check whether new arbitration legislation has since been passed.
+- Public access to the beneficial ownership register not confirmed; FIUTT guidance refers only to competent-authority access.
+- Venezuela sanctions mention is general; central sanctions team should confirm wording.
+
+## Taiwan (TW) — 9 sources
+- Population (23,299,132 at end-2025) is the Ministry of the Interior figure as reported by the Taipei Times; the official MOI/household registration page (ris.gov.tw) could not be read directly.
+- PDPA: November 2025 amendments not yet in force and PDPC still a Preparatory Office as of DLA Piper's March 2026 update; check whether the PDPC has been formally established and the amendments commenced.
+- Private investigator regulation: no official source found; the 'no dedicated licensing' statement rests on a 2024 news article and absence of evidence. Confirm with Taiwanese counsel.
+- Article 22-1 filings described as not publicly searchable based on understanding, not an opened official source.
+- Not verified against an opened source: Chinese Arbitration Association, Taipei; MOEA search showing directors and supervisors and capital; Judicial Yuan judgment publication; stock exchange disclosure systems; exact 2024 Money Laundering Control Act amendment date. Supreme Prosecutors Office Special Investigation Division omitted as it was abolished (general knowledge).
+
+## Ukraine (UA) — 9 sources
+- Draft Law No. 8153 (new personal data law) passed first reading Nov 2024; not confirmed whether enacted by Nov 2026. If enacted, data_protection law/regulator fields must change.
+- Private detective licensing: Draft Law No. 3010 passed first reading Feb 2021; final adoption not confirmed. Presidential veto of earlier PI law taken from Kyiv Post search result title, not opened.
+- Register access under martial law is changing; reopening based on Law No. 4576-IX (2025) and MoJ Order 3168/5 (Nov 2025) per Komersant secondary report. Real property register access not verified.
+- AML law number 361-IX (2019), commercial court structure and ICAC at UCCI are stated from general knowledge, not from an opened source; verify.
+- Martial law status assumed still in force as of Nov 2026.
 
 ## United States (US) — 9 sources
 - FCPA enforcement policy changed in 2025 (EO 14209, DOJ guidelines of 9 June 2025); confirm current DOJ posture before publishing.
@@ -695,6 +874,12 @@ Items researchers could not verify from an opened source. Not published on the s
 - FinCEN BOI final rule effective 14 August 2026 per FinCEN alert; foreign reporting company obligations under the final rule not restated on the page.
 - Time zone list is not exhaustive (Alaska, Hawaii, Arizona's no-DST practice omitted).
 
+## Uruguay (UY) — 8 sources
+- Not confirmed whether private investigation services require RENAEMSE registration under Decree 275/999 (fetch of decree text failed due to rate limit); confirm with Uruguayan counsel.
+- Restricted access to the Central Bank beneficial ownership register is stated from general knowledge; IMPO article 25 confirms reporting to the BCU but access rules were not opened.
+- A 2026 presidential law document (cons_min_351, March 2026) appeared in AML search results and was not reviewed; check for recent AML/anti-corruption reforms, including any introduction of corporate criminal liability.
+- Law 16.060, Law 18.387 (insolvency courts), Law 19.636 (arbitration), Auditoría Interna de la Nación oversight, JUTEP/Law 17.060 and UIAF details are from general knowledge or search snippets rather than opened pages.
+
 ## Saint Vincent and the Grenadines (VC) — 2 sources
 - Search and fetch budgets were exhausted; page relies on the 2024 US State Department Investment Climate Statement. Only 2 sources; brief asks for 5-12.
 - Data protection: State Dept says Privacy Act 2003 but no specific data protection legislation; SVG reportedly passed a Data Protection Act in 2025 or earlier drafts exist - verify current status before publishing.
@@ -702,6 +887,12 @@ Items researchers could not verify from an opened source. Not published on the s
 - Proceeds of Crime Act / AML statute names not verified.
 - FAQ on property: '5 acres' threshold from State Dept paraphrased as 'larger landholdings'; Aliens Land Holding licensing requirement not verified.
 - No PI licensing regime identified; not searched for.
+
+## Vietnam (VN) — 7 sources
+- Data protection: a sanctioning decree under the 2025 PDPL was still pending per DLA Piper, and updated localisation rules were expected in 2026; re-check before publication.
+- Beneficial ownership rules were further amended by Decree 296/2026/ND-CP (July 2026, per Allen & Gledhill); public access status to BO data should be re-confirmed.
+- Investigator regulation is based on 2024 press reporting and lawyer commentary, not an official statement; no licensing regime identified.
+- Law on Anti-Corruption (2018) year and the court-level description of commercial first-instance jurisdiction are from general knowledge/secondary sources; confirm with Vietnamese counsel. VIAC named from general knowledge.
 
 ## South Africa (ZA) — 10 sources
 - Access rules for CIPC beneficial ownership information were not verified from an official page; text says only that access is more restricted than the general register.

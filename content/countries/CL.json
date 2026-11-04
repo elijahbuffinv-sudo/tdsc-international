@@ -1,0 +1,141 @@
+{
+  "cc": "CL",
+  "name": "Chile",
+  "meta_description": "TDSC investigative consulting on Chile: company and court records research, Law 21.719 data protection scoping, Law 20.393 integrity reviews, asset tracing.",
+  "eyebrow": "Republic of Chile",
+  "hero_lede": "Matters touching Chile involve a civil law system with well-organised public registries, a data protection regime being overhauled by Law 21.719 from December 2026, and corporate criminal liability that was widened sharply in 2023. Investigative consulting here means lawful records research and careful coordination with Chilean counsel.",
+  "intro": [
+    "Chile has about 19.9 million people (World Bank, 2025) and a unitary civil law system. Commercial life is concentrated in Santiago. Personal data has been protected since 1999 by Law 19.628, and Law 21.719 substantially amends that framework and creates a new Personal Data Protection Agency, with effect from 1 December 2026. Corporate criminal liability was introduced by Law 20.393 in 2009 and broadened by the Economic Crimes Law, Law 21.595, in 2023. Private security activity is governed by Law 21.659 of 2024, which bears on how fieldwork can be organised.",
+    "Organisations commission work involving Chile because of its weight in copper and lithium mining, forestry, salmon farming, agricultural exports, energy and infrastructure concessions, and a deep pension and capital markets sector. Typical exposures include due diligence on local partners, contractors and acquisition targets, integrity reviews of counterparties dealing with mining, environmental and municipal authorities, asset tracing in support of judgments and arbitral awards, and fraud by distributors, managers or suppliers. Since the 2023 reforms, companies also commission prompt investigations of internal reports that may expose the entity itself to criminal liability."
+  ],
+  "population": {
+    "value": "19.9 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/CL/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Chile has a civil law system under the 1980 Constitution. The Civil Code of 1855 and the Commercial Code govern private and commercial law. Commercial disputes are heard by civil courts of first instance (juzgados de letras), with appeals to regional Courts of Appeals and ultimately the Supreme Court. Competition matters go to the specialised Tribunal de Defensa de la Libre Competencia. Commercial arbitration is common, and the Arbitration and Mediation Centre of the Santiago Chamber of Commerce (CAM Santiago) is the principal institutional centre. International arbitration is governed by Law 19.971, based on the UNCITRAL Model Law.",
+  "data_protection": {
+    "law": "Law 19.628 on the Protection of Private Life (1999), as amended by Law 21.719 (effective 1 December 2026)",
+    "regulator": "Agencia de Protección de Datos Personales (Personal Data Protection Agency), created by Law 21.719",
+    "summary": "Article 19 No. 4 of the Constitution protects private life and personal data, and Law 19.628 has governed processing since 1999. Law 21.719 replaces a largely consent-based model with several lawful bases, adds rights such as portability and objection to automated decisions, introduces breach notification and creates a dedicated regulator with fines of up to 20,000 UTM, or a percentage of turnover for large companies. Investigative work therefore needs a documented lawful basis, data minimisation and proportionate retention. International transfers are permitted to countries the Agency considers adequate, or under contractual clauses, binding corporate rules or certified compliance models. Employee data processed under labour law relies on that legal basis rather than consent."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators in Chile. Law 21.659 on Private Security of 2024, in effect since November 2025, regulates private security activities, including security consulting, under the Ministry of Public Security through the Subsecretaría de Prevención del Delito, with Carabineros de Chile as the supervisory authority. Article 48 prohibits persons regulated by that law from investigating facts that may constitute crimes. Recording private conversations without consent is a criminal offence. Fieldwork is therefore scoped with Chilean counsel and limited to lawful observation and public sources.",
+  "corporate_records": "Chilean companies register with the Commerce Registry kept by the local Conservador de Bienes Raíces or through the online Registro de Empresas y Sociedades. Extracts of constitutive acts and amendments are published in the Diario Oficial, identifying founders, capital and administrators. Listed companies and regulated entities file with the Comisión para el Mercado Financiero. Chile does not yet have a central beneficial ownership register: a bill creating a National Register of Beneficial Owners has been under consideration in Congress. Real estate is recorded with the local Conservador, and civil court files are searchable through the Judiciary's online systems.",
+  "anti_corruption": "Bribery of national and foreign public officials is criminalised in the Criminal Code. Law 20.393 of 2009 established criminal liability of legal entities for bribery, money laundering and related offences, and the Economic Crimes Law, Law 21.595 of 2023, expanded that liability to a much wider catalogue of economic and environmental offences and strengthened the role of crime prevention models. Anti-money laundering obligations derive from Law 19.913 of 2003, which created the Financial Analysis Unit (UAF). Prosecutions are led by the Public Prosecutor's Office (Ministerio Público).",
+  "matters": [
+    {
+      "title": "Mining and lithium counterparty diligence",
+      "text": "Background and integrity reviews of contractors, joint venture partners and intermediaries in copper and lithium projects, including their dealings with environmental and municipal authorities and state entities such as Codelco, and their handling of indigenous consultation obligations."
+    },
+    {
+      "title": "Crime prevention model reviews",
+      "text": "Independent fact-finding where an internal report suggests an offence that could trigger corporate liability under Law 20.393 as expanded by Law 21.595, coordinated with Chilean counsel so that findings support the company's prevention model and any engagement with prosecutors."
+    },
+    {
+      "title": "Asset tracing for judgments and awards",
+      "text": "Identifying real estate recorded with local Conservadores, vehicles, shareholdings and corporate interests of judgment debtors, using registry, Diario Oficial and court records, to support enforcement of foreign judgments, CAM Santiago or other arbitral awards, and insolvency proceedings under Law 20.720."
+    },
+    {
+      "title": "Acquisition and investment due diligence",
+      "text": "Pre-transaction research on Chilean targets and their principals in agribusiness, aquaculture, energy, real estate and services, covering corporate history, litigation, regulatory sanctions, related-party structures and media coverage, given that a public beneficial ownership register is not yet in place."
+    },
+    {
+      "title": "Supplier and distributor fraud",
+      "text": "Investigating diversion, kickbacks, conflicts of interest and false invoicing by distributors, procurement staff and suppliers, including tracing related companies through registry filings and reviewing documents lawfully obtained by the client, with interviews and evidence handling planned around Chilean labour and data protection rules."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Spanish; English common in mining, finance and multinational firms"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Santiago, UTC-4 (UTC-3 in southern summer daylight saving)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Santiago, Antofagasta, Valparaíso, Concepción, Puerto Montt"
+    },
+    {
+      "label": "Courts language",
+      "value": "Spanish; foreign documents require official translation"
+    },
+    {
+      "label": "Company identifiers",
+      "value": "RUT tax number used across registries and filings"
+    },
+    {
+      "label": "Business culture",
+      "value": "Formal and relationship-based; punctuality and written follow-up expected"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Chilean engagements from Nashville, beginning with a review of the client's objective, the legal setting and whether Chilean counsel is already instructed. Records research draws on lawful public sources: the Diario Oficial, Commerce Registry and Conservador filings, CMF disclosures, court records and media. Because Chile has no dedicated investigator licensing regime and Law 21.659 restricts criminal investigation by private security providers, any local inquiries or field observation are carried out only through qualified Chilean professionals, under the direction of counsel where the matter may reach a prosecutor or court. Personal data is handled on a documented lawful basis and minimised, with transfers planned around Law 19.628 and the stricter rules of Law 21.719 that apply from December 2026.",
+  "faqs": [
+    {
+      "q": "Does Law 21.719 change how investigations involving Chile are run?",
+      "a": "Yes. From 1 December 2026 Chile's amended data protection law introduces explicit lawful bases, new data subject rights, breach notification and a dedicated regulator with substantial fines. Investigations that collect or transfer personal data about Chilean residents need a documented purpose and lawful basis, proportionate collection, secure handling and a defined approach to international transfers."
+    },
+    {
+      "q": "Can ownership of a Chilean company be traced through public records?",
+      "a": "Partly. Constitutive deeds and amendments are published in the Diario Oficial and recorded in the Commerce Registry or the Registro de Empresas y Sociedades, which identify founders and administrators. Later share transfers in some company types are not always publicly recorded, and a central beneficial ownership register is still a bill. Ownership is therefore often established by combining filings, disclosures and litigation records."
+    },
+    {
+      "q": "Are private investigators licensed in Chile?",
+      "a": "We have not identified a specific licensing regime for private investigators. Private security activities are regulated by Law 21.659, overseen by the Ministry of Public Security and Carabineros, and that law prohibits regulated persons from investigating facts that may constitute crimes. TDSC does not hold itself out as licensed in Chile and works through qualified local professionals and counsel where local inquiries are needed."
+    },
+    {
+      "q": "How does the Economic Crimes Law affect internal investigations?",
+      "a": "Law 21.595 of 2023 extended corporate criminal liability under Law 20.393 to a broad range of economic and environmental offences. A company that receives a credible internal report may need to establish the facts quickly to assess its exposure and the effectiveness of its crime prevention model. TDSC supports fact-finding under the direction of Chilean counsel, who advise on reporting and cooperation decisions."
+    },
+    {
+      "q": "Can assets in Chile be located to enforce a foreign judgment or award?",
+      "a": "Real estate is recorded with the Conservador de Bienes Raíces of each district, and corporate interests can often be identified through registry and Diario Oficial records. Foreign judgments require exequatur from the Supreme Court before enforcement, and arbitral awards are recognised under Chilean arbitration law. TDSC identifies and documents assets lawfully so that Chilean counsel can pursue recognition and enforcement."
+    }
+  ],
+  "sources": [
+    {
+      "title": "World Bank: Population, total, Chile",
+      "url": "https://api.worldbank.org/v2/country/CL/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Chile",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=CL"
+    },
+    {
+      "title": "Law 21.659 on Private Security (text, published 21 March 2024)",
+      "url": "https://alog.cl/wp-content/uploads/2025/10/Ley-21659_21-MAR-2024.pdf"
+    },
+    {
+      "title": "Biblioteca del Congreso Nacional: Law 20.393",
+      "url": "https://www.bcn.cl/leychile/navegar?idLey=20393"
+    },
+    {
+      "title": "Carey: Economic Crimes Law (Law 21.595) news alert",
+      "url": "https://carey.cl/wp-content/themes/careybones/inc/dompdf/news-alert-generador.php?id=36108"
+    },
+    {
+      "title": "CERLATAM: Bill 16.475-05 creating a National Register of Beneficial Owners",
+      "url": "https://www.cerlatam.com/normatividad/pdl-n-16-475-05-crea-un-registro-nacional-de-personas-beneficiarias-finales/"
+    },
+    {
+      "title": "Ministerio de Hacienda: Senate begins processing beneficial owner register bill",
+      "url": "https://www.hacienda.cl/noticias-y-eventos/noticias/senado-inicia-tramitacion-del-proyecto-que-crea-registro-de-beneficiarios"
+    },
+    {
+      "title": "Diario Constitucional: on the new Private Security Law",
+      "url": "https://www.diarioconstitucional.cl/entrevistas/maria-jose-del-solar-debe-ser-insoslayable-que-la-seguridad-siga-siendo-una-cuestion-publica/"
+    }
+  ],
+  "review_flags": [
+    "Law 21.719 data protection amendments and the new Agencia de Protección de Datos Personales take effect 1 December 2026, weeks after research date; update wording once in force.",
+    "No dedicated PI licensing regime identified; Law 21.659 (private security, deferred effect 28 Nov 2025 per Ley Chile header) covers security consulting and bars regulated persons from investigating crimes. Whether investigative consulting firms fall within its registration requirements should be confirmed with Chilean counsel.",
+    "Beneficial ownership register bill (Boletín 16.475-05) status not confirmed; check whether enacted.",
+    "Criminal Code art. 161-A (recording in private spaces), Law 19.971 (international arbitration), Law 20.720 (insolvency), Supreme Court exequatur, Registro de Empresas y Sociedades and Codelco references are from general knowledge and were not opened during this research."
+  ],
+  "researched": "2026-11-04"
+}

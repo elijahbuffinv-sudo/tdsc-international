@@ -1,0 +1,99 @@
+{
+  "cc": "TW",
+  "name": "Taiwan",
+  "meta_description": "TDSC investigative consulting on Taiwan: MOEA company research, PDPA-aware due diligence, trade secret and supply chain matters, asset tracing for counsel.",
+  "eyebrow": "Taiwan",
+  "hero_lede": "Investigative consulting for matters touching Taiwan means reading Chinese-language company, court and regulatory records, understanding a civil law system with a dedicated commercial court, and working within strict privacy rules: counterparty and supply chain research, trade secret support, and asset tracing for counsel.",
+  "intro": [
+    "Taiwan has a civil law system shaped by codified statutes, an independent judiciary and a well-developed body of published court decisions. Corporate information is comparatively accessible: the Ministry of Economic Affairs runs an online company and business registration search, and judgments are widely published. At the same time, the Personal Data Protection Act governs how personal data is collected and used by private parties, and the Criminal Code penalises covert viewing or recording of other people's non-public activities. Investigative work is therefore research-led, conducted largely in Traditional Chinese, and planned so that every method is lawful before it begins. Reconciling romanised names, which may follow several spelling systems, with Chinese-character records is a recurring practical task.",
+    "Organisations commission investigative work involving Taiwan because of its central position in semiconductors, electronics, precision machinery and global technology supply chains. Buyers, investors and licensors need to understand who owns and controls Taiwanese suppliers, contract manufacturers and distributors, and how those companies connect to affiliates in mainland China, Hong Kong and Southeast Asia. Typical exposures include misappropriation of trade secrets by departing employees or competitors, undisclosed related parties in procurement, transshipment and export control concerns, investment fraud, and judgment debtors whose assets sit in Taiwanese companies or property. Counsel also need reliable background on executives and shareholders before transactions, financing or litigation."
+  ],
+  "population": {
+    "value": "23.30 million",
+    "year": "2025",
+    "source_url": "https://www.taipeitimes.com/News/front/archives/2026/01/09/2003850335"
+  },
+  "legal_system": "Taiwan follows the civil law tradition, with the Civil Code, Code of Civil Procedure and Company Act at the core of commercial practice. Ordinary civil cases move from district courts to the High Court and the Supreme Court. Since 1 July 2021 the Intellectual Property and Commercial Court, sitting at High Court level, has heard major commercial disputes, generally claims of NT$100 million or more or cases involving public companies, with mandatory preliminary mediation and mandatory representation by attorneys. The Chinese Arbitration Association, Taipei, is the principal domestic arbitration institution.",
+  "data_protection": {
+    "law": "Personal Data Protection Act (PDPA) and its Enforcement Rules; amendments passed in November 2025 not yet in force as of early 2026",
+    "regulator": "Personal Data Protection Commission (Preparatory Office); sector regulators such as the Financial Supervisory Commission enforce in the interim",
+    "summary": "Private parties may generally collect personal data on a statutory basis if they give a compliant notice at the point of collection, while sensitive categories, including medical, genetic, sexual life and criminal record data, need consent or another specific ground. Investigative data collection must therefore have a documented purpose and lawful basis. Cross-border transfers can be restricted by the regulator, and sector orders prohibit certain transfers to mainland China, for example by telecommunications operators and employment agencies. Fines reach NT$15 million per violation, and intentional misuse for gain can be a criminal offence. The 2025 amendments will make the Personal Data Protection Commission the single regulator once it is formally established."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators in Taiwan. Investigation and credit information firms, commonly called zhengxin she, operate as ordinarily registered businesses, and commentary in 2024 noted that the government had not adopted industry-specific rules or a vetting mechanism. Absence of licensing does not mean absence of limits. Article 315-1 of the Criminal Code penalises using tools or equipment, without lawful reason, to view or record another person's non-public activities, speech or conversations, and the PDPA applies to personal data gathered during enquiries. Interception of communications and covert tracking carry significant criminal and civil exposure, so local work is scoped with Taiwanese counsel.",
+  "corporate_records": "Company, business and factory registrations are searchable online through the Ministry of Economic Affairs registration portal by name, unified business number, address or representative, generally showing registered capital, address, representative and, for companies, directors and supervisors. Under Article 22-1 of the Company Act, in force since November 2018, most unlisted companies must report directors, supervisors, managers and shareholders holding 10 per cent or more to an MOEA platform and update changes within 15 days; to our understanding these filings are not publicly searchable. Listed companies make extensive disclosures through the stock exchange's information systems, and court judgments are published by the Judicial Yuan.",
+  "anti_corruption": "Bribery of public officials is punished under the Anti-Corruption Act and the Criminal Code. Article 11 of the Anti-Corruption Act extends to bribes offered to foreign, mainland Chinese, Hong Kong and Macao officials in connection with international trade or investment, including conduct abroad. The Money Laundering Control Act, revised in 2024 to bring virtual asset service providers under registration and to raise penalties, is the core AML statute. Enforcement rests with the Ministry of Justice's Agency Against Corruption, the Investigation Bureau and the public prosecutors.",
+  "matters": [
+    {
+      "title": "Supplier and contract manufacturer due diligence",
+      "text": "Mapping ownership, directors and affiliates of Taiwanese suppliers, original design manufacturers and distributors from Chinese-language registry data and listed-company disclosures, and identifying related companies in mainland China or Southeast Asia that may affect pricing, capacity, conflicts of interest or exposure to export controls."
+    },
+    {
+      "title": "Trade secret and departing employee matters",
+      "text": "Supporting counsel where engineers or managers move to competitors and confidential process or design information may have travelled with them, by researching new employers, related start-ups, patent filings, published judgments and open-source activity, within limits set by Taiwanese privacy and criminal law."
+    },
+    {
+      "title": "Cross-strait ownership and investment questions",
+      "text": "Researching whether a Taiwanese counterparty has undisclosed shareholders, financing or management links to mainland Chinese parties, a question that matters for regulatory approvals, government contracting, technology licensing and investor reporting, using corporate filings, announcements, litigation records and media in Traditional and Simplified Chinese."
+    },
+    {
+      "title": "Asset tracing for enforcement",
+      "text": "Identifying company interests, listed shareholdings disclosed in filings, related entities and litigation history connected to a debtor in Taiwan, so that counsel can assess whether recognition of a foreign judgment or arbitral award, and enforcement before Taiwanese courts, is likely to recover value."
+    },
+    {
+      "title": "Investment and distribution fraud",
+      "text": "Assisting victims and their counsel where funds were paid to Taiwanese entities that failed to deliver goods or returns, tracing successor companies, nominee representatives and connected individuals through registration changes, court judgments and public announcements to support civil claims or criminal complaints."
+    }
+  ],
+  "practical": [
+    {"label": "Business languages", "value": "Mandarin Chinese (Traditional characters); English common in technology and finance"},
+    {"label": "Courts language", "value": "Mandarin Chinese; foreign documents need certified translation"},
+    {"label": "Time zone", "value": "Asia/Taipei, UTC+8, no daylight saving"},
+    {"label": "Working week", "value": "Monday to Friday"},
+    {"label": "Currency", "value": "New Taiwan dollar (TWD, NT$)"},
+    {"label": "Main business centres", "value": "Taipei, Hsinchu, Taichung, Tainan, Kaohsiung"},
+    {"label": "Name searching", "value": "Romanised names vary between spelling systems; search by Chinese characters and ID-linked details"},
+    {"label": "Business culture", "value": "Relationship-based and consensus-driven; discretion and formal introductions matter"}
+  ],
+  "tdsc_approach": "TDSC scopes Taiwan matters from Nashville by defining the question, the entities and individuals involved, and the decisions the findings will inform. Research is built on MOEA registration data, listed-company disclosures, published judgments, regulatory announcements and Chinese-language media, with names matched in Chinese characters rather than romanisation alone. TDSC does not conduct or commission covert recording, tracking or pretext enquiries in Taiwan. Where interviews, site visits or court filings are needed, TDSC works through Taiwanese counsel and coordinates local professionals whose role and methods have been reviewed against the Criminal Code and the PDPA. Personal data is collected only for the stated purpose, minimised, and transferred to the United States under documented safeguards, with attention to any sector restrictions that apply.",
+  "faqs": [
+    {
+      "q": "Are private investigators licensed in Taiwan?",
+      "a": "We have not identified a dedicated licensing regime. Investigation and credit information firms operate as registered businesses without a specific vetting system. Their conduct is still constrained by the Criminal Code, including Article 315-1 on covert viewing and recording, and by the Personal Data Protection Act. TDSC scopes any local enquiries with Taiwanese counsel and does not commission covert surveillance."
+    },
+    {
+      "q": "Can the shareholders of a Taiwanese company be identified?",
+      "a": "Directors, supervisors and representatives of most companies appear in the MOEA registration search, and listed companies disclose major shareholders. Shareholders of unlisted companies holding 10 per cent or more are reported to an MOEA platform under Article 22-1 of the Company Act, but those filings are not, to our understanding, public. TDSC combines registry data with filings, judgments and media, and labels inferred ownership clearly."
+    },
+    {
+      "q": "Which court hears a large commercial dispute in Taiwan?",
+      "a": "Since July 2021 the Intellectual Property and Commercial Court has handled major commercial cases, generally claims of NT$100 million or more and disputes involving public companies, after mandatory preliminary mediation and with attorney representation required. Other civil matters go to the district courts. TDSC's role is to supply factual research that supports counsel's choice of forum and strategy."
+    },
+    {
+      "q": "Does Taiwan's PDPA affect sending findings to a client abroad?",
+      "a": "It can. The regulator may restrict international transfers in defined circumstances, and some sector orders prohibit transfers to mainland China. Collection must also rest on a lawful basis with a compliant notice, and sensitive data such as criminal records needs specific grounds. TDSC limits personal data to what the matter requires and documents how it is held and transferred."
+    },
+    {
+      "q": "Why do Chinese-character records matter in Taiwanese research?",
+      "a": "Registries, judgments and announcements in Taiwan are published in Traditional Chinese, and the same person's name may be romanised in several ways in passports, English filings and media. Searching by romanised spelling alone produces false matches and misses. TDSC works from Chinese characters, unified business numbers and corroborating details such as dates and addresses before attributing a record."
+    }
+  ],
+  "sources": [
+    {"title": "DLA Piper Data Protection Laws of the World: Taiwan", "url": "https://www.dlapiperdataprotection.com/?t=law&c=TW"},
+    {"title": "Taipei Times: Taiwan population figures for 2025 (Ministry of the Interior)", "url": "https://www.taipeitimes.com/News/front/archives/2026/01/09/2003850335"},
+    {"title": "Ministry of Economic Affairs: Company, business and factory registration search", "url": "https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?request_locale=en"},
+    {"title": "TIPLO: Commercial case adjudication by the Intellectual Property and Commercial Court in effect", "url": "https://tiplo.com.tw/en/tn/1441/47282"},
+    {"title": "Mondaq: Understanding Company Act Article 22-1", "url": "https://www.mondaq.com/shareholders/763370/understanding-company-act-article-22-1"},
+    {"title": "Taipei City Laws: Related provisions (Criminal Code Art. 315-1, PDPA)", "url": "https://laws.gov.taipei/law/Interpretation/RelatedLaw/FE282209"},
+    {"title": "Global Compliance News: Anti-corruption in Taiwan", "url": "https://www.globalcompliancenews.com/anti-corruption/global-anti-corruption-risk-map/asia-pacific/taiwan/"},
+    {"title": "CryptoSlate: Taiwan revises money laundering act to include digital assets", "url": "https://cryptoslate.com/taiwan-revises-money-laundering-act-to-include-digital-assets/"},
+    {"title": "Yam News: Investigation agency industry in Taiwan (2024)", "url": "https://n.yam.com/Article/20240123503926"}
+  ],
+  "review_flags": [
+    "Population (23,299,132 at end-2025) is the Ministry of the Interior figure as reported by the Taipei Times; the official MOI/household registration page (ris.gov.tw) could not be read directly.",
+    "PDPA: November 2025 amendments not yet in force and PDPC still a Preparatory Office as of DLA Piper's March 2026 update; check whether the PDPC has been formally established and the amendments commenced.",
+    "Private investigator regulation: no official source found; the 'no dedicated licensing' statement rests on a 2024 news article and absence of evidence. Confirm with Taiwanese counsel.",
+    "Article 22-1 filings described as not publicly searchable based on understanding, not an opened official source.",
+    "Not verified against an opened source: Chinese Arbitration Association, Taipei; MOEA search showing directors and supervisors and capital; Judicial Yuan judgment publication; stock exchange disclosure systems; exact 2024 Money Laundering Control Act amendment date. Supreme Prosecutors Office Special Investigation Division omitted as it was abolished (general knowledge)."
+  ],
+  "researched": "2026-11-04"
+}

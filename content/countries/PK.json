@@ -1,0 +1,146 @@
+{
+  "cc": "PK",
+  "name": "Pakistan",
+  "meta_description": "TDSC investigative consulting on Pakistan: SECP company and ownership research, PECA-aware due diligence and coordination with licensed local professionals.",
+  "eyebrow": "Islamic Republic of Pakistan",
+  "hero_lede": "Investigative consulting for matters touching Pakistan means working with SECP corporate records, a newly digitised beneficial ownership registry, criminal limits on handling identity information under PECA, and an investigation sector without a dedicated licensing statute, so sources and local coordination must be chosen and supervised carefully.",
+  "intro": [
+    "Pakistan is a federal parliamentary republic of four provinces with a common law tradition inherited from British India, overlaid by Islamic provisions in its Constitution. Corporate records are held centrally by the Securities and Exchange Commission of Pakistan (SECP), which launched a digital registry of ultimate beneficial owners in March 2026. There is no comprehensive data protection statute in force; the Prevention of Electronic Crimes Act 2016 criminalises unauthorised use of identity information. The judiciary was restructured by the 27th Constitutional Amendment in November 2025, which created a Federal Constitutional Court. Other records are fragmented across provincial and district systems, often on paper or in Urdu.",
+    "Organisations commission investigative work involving Pakistan because of its role in textiles and apparel, rice and agricultural exports, surgical instruments, sports goods, energy and infrastructure projects, and technology outsourcing. Typical exposures include family-controlled groups with complex related-party structures, undisclosed political or official connections of partners and agents, procurement and customs irregularities, fictitious or inflated suppliers, and diaspora-linked investments and disputes in the United Kingdom, the Gulf and North America. Lenders and investors seek background on sponsors before transactions, and counsel pursue assets and corporate interests after judgments or awards, often where public information in English is thin or inconsistent."
+  ],
+  "population": {
+    "value": "255.2 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/PK/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Pakistan has a common law system operating within the 1973 Constitution, with Islamic law shaping family law and subject to review by the Federal Shariat Court. Statutes including the Contract Act 1872, Code of Civil Procedure 1908 and Companies Act 2017 govern commercial matters. Civil courts sit at district level beneath provincial High Courts and the Supreme Court. Since the 27th Amendment of November 2025, a Federal Constitutional Court hears constitutional and fundamental rights matters, leaving the Supreme Court to focus on other appeals. Domestic arbitration is governed by the Arbitration Act 1940.",
+  "data_protection": {
+    "law": "No comprehensive data protection law in force; Prevention of Electronic Crimes Act 2016 (PECA, amended 2025) and sectoral rules. Personal Data Protection Bill 2023 remains in draft",
+    "regulator": "No dedicated data protection authority; PECA complaints go to the National Cyber Crime Investigation Agency, with the Pakistan Telecommunication Authority holding related powers",
+    "summary": "As of 2026 Pakistan has no general data protection statute. PECA criminalises obtaining, possessing, transmitting or using another person's identity information without authorisation, and unauthorised copying or transmission of data, so investigative handling of personal information carries criminal as well as civil risk. Banking, insurance and health data are subject to sectoral confidentiality, and some may not be transferred abroad without regulator authorisation. The draft Personal Data Protection Bill 2023 would create a national commission and require local processing of critical personal data, but its final form is uncertain. Collection should be limited to lawful public sources and information subjects have provided."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing statute for private investigators in Pakistan. Private security companies are regulated: they obtain federal security clearance from the Ministry of Interior and no-objection certificates and licences from provincial home departments under provincial laws, and many are registered with the SECP. Firms offering investigative services may fall under these regimes depending on their activities, but the position is not clearly defined. Whatever the licensing position, PECA criminalises unauthorised use of identity information and data, and interception, access to bank, telecom or NADRA identity records, and pretexting are not lawful routes for private enquiries.",
+  "corporate_records": "The SECP is the national company registry under the Companies Act 2017, with regional offices and online eServices. Company name, incorporation number, status and registered details can be searched, and filed documents such as returns listing directors and members, charges and annual accounts can generally be inspected or obtained as copies. Under section 123A of the Companies Act and regulations notified in 2025, companies must identify and report ultimate beneficial owners at incorporation and annually, through a digital registry launched in March 2026; the SECP has not stated that it is publicly accessible. Land records are provincial and court records vary by province.",
+  "anti_corruption": "The National Accountability Ordinance 1999 established the National Accountability Bureau and accountability courts for corruption and corrupt practices, alongside the Prevention of Corruption Act 1947 and bribery provisions of the Pakistan Penal Code. The Federal Investigation Agency and provincial anti-corruption establishments also investigate. The Anti-Money Laundering Act 2010 is the principal AML statute, with the Financial Monitoring Unit as the financial intelligence unit and the State Bank of Pakistan and SECP as key supervisors.",
+  "matters": [
+    {
+      "title": "Sponsor and promoter background",
+      "text": "Research on sponsors, directors and family groups behind Pakistani companies before investment, lending or joint ventures: corporate interests across SECP filings, related parties, litigation, regulatory actions and reputation in English and Urdu media, including political or official connections."
+    },
+    {
+      "title": "Textile and export supply chains",
+      "text": "Verification of textile, apparel, leather, surgical and sports goods suppliers in Karachi, Lahore, Faisalabad and Sialkot: registration, ownership, export history and adverse information, supporting sourcing decisions, audit findings and questions about subcontracting or labour practices."
+    },
+    {
+      "title": "Agent and distributor screening",
+      "text": "Due diligence on sales agents, distributors and consultants used for government, energy and infrastructure business, focusing on beneficial ownership, conflicts of interest, official links and unusual payment arrangements, so that anti-bribery controls are documented before contracts are signed."
+    },
+    {
+      "title": "Fraud and internal investigations",
+      "text": "Support for counsel investigating procurement fraud, embezzlement, kickbacks or diversion at Pakistani subsidiaries and partners, including document review, corporate mapping and coordination of interviews, with care to keep handling of identity information within PECA and employment law limits."
+    },
+    {
+      "title": "Diaspora-linked disputes and assets",
+      "text": "Research for litigation and arbitration involving Pakistani parties with interests in the United Kingdom, the Gulf and North America: corporate holdings, associated entities and documented assets, recognising that Pakistani property and court records are provincial, partly manual and need local verification."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "English and Urdu; regional languages including Punjabi and Sindhi"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Karachi, UTC+5 (no daylight saving)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday for most offices; Friday prayer break midday"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Karachi, Lahore, Islamabad and Rawalpindi, Faisalabad, Sialkot"
+    },
+    {
+      "label": "Courts language",
+      "value": "English in superior courts; Urdu common in lower courts and records"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Foreign documents generally need notarisation and authentication; confirm route with counsel"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-driven, with family groups and personal introductions central"
+    },
+    {
+      "label": "Seasonal timing",
+      "value": "Ramadan and Eid holidays affect office hours and response times"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Pakistan engagements from Nashville, starting with a review of the client's purpose, the legal exposure under PECA and sectoral confidentiality rules, and what records can lawfully be obtained. Research draws on SECP filings, published court judgments and cause lists, regulatory notices and Urdu and English media, and we do not seek bank, telecom or identity database records or use pretexts. Where enquiries on the ground are needed, such as confirming a business address or reviewing provincial land or court files, we coordinate appropriately licensed local professionals and work with Pakistani counsel on evidential use and employment issues. Personal data is minimised, held securely and transferred only as agreed, and findings are graded for source reliability.",
+  "faqs": [
+    {
+      "q": "Can the beneficial owners of a Pakistani company be identified?",
+      "a": "Companies must identify and report ultimate beneficial owners to the SECP under section 123A of the Companies Act 2017, now through a digital registry launched in March 2026. The SECP has not stated that this registry is open to the public, so ownership is usually traced through members' registers, filed returns, related companies and open sources, with confidence levels stated."
+    },
+    {
+      "q": "Does Pakistan have a data protection law?",
+      "a": "Not a comprehensive one as of 2026. The Personal Data Protection Bill 2023 remains in draft. The Prevention of Electronic Crimes Act 2016, amended in 2025, criminalises unauthorised handling of identity information and data, and sectoral rules protect banking, insurance and health information. Investigative work therefore relies on public sources and information lawfully provided."
+    },
+    {
+      "q": "Are private investigators licensed in Pakistan?",
+      "a": "We have not identified a dedicated licensing statute for private investigators. Private security companies need federal security clearance and provincial licences, and some investigative firms operate within that framework, but the position is unclear. TDSC works only with vetted local professionals whose methods are lawful and documented, and avoids operators offering access to official databases."
+    },
+    {
+      "q": "How did the 27th Amendment change the courts?",
+      "a": "The 27th Constitutional Amendment, enacted in November 2025, created a Federal Constitutional Court to interpret the Constitution and hear fundamental rights matters, functions previously exercised by the Supreme Court. Commercial disputes still proceed through civil courts and High Courts. Counsel should confirm the current allocation of jurisdiction for any particular matter."
+    },
+    {
+      "q": "Can TDSC verify a supplier in Sialkot or Faisalabad?",
+      "a": "Yes, within lawful limits. We check SECP registration, ownership, trade and export indicators, litigation and media, and compare them with the supplier's claims. Where an in-person check adds value, we coordinate an overt visit by a qualified local professional, documented with photographs and notes, rather than covert observation."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Pakistan",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=PK"
+    },
+    {
+      "title": "World Bank: Population, total (Pakistan)",
+      "url": "https://api.worldbank.org/v2/country/PK/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "SECP press release: SECP launches digital UBO registry (March 2026)",
+      "url": "https://www.secp.gov.pk/wp-content/uploads/2026/05/Press-Release-SECP-Launches-Digital-UBO-Registry-to-Strengthen-Corporate-Transparency.pdf"
+    },
+    {
+      "title": "Arab News: Lawyers divided over new Federal Constitutional Court after 27th Amendment",
+      "url": "https://www.arabnews.pk/pakistan/lawyers-divided-over-new-federal-constitutional-court-after-27th-amendment-2622650"
+    },
+    {
+      "title": "Express Tribune: Interior ministry, 140 security agencies won clearance in 4 years",
+      "url": "https://tribune.com.pk/story/451651/interior-ministry-140-security-agencies-won-clearance-in-4-years"
+    },
+    {
+      "title": "Sanction Scanner: Anti-Money Laundering in Pakistan",
+      "url": "https://www.sanctionscanner.com/aml-guide/anti-money-laundering-aml-in-pakistan-479"
+    },
+    {
+      "title": "State Bank of Pakistan: National Accountability Ordinance 1999 (text)",
+      "url": "https://www.sbp.org.pk/l_frame/nab_ord_1999.pdf"
+    },
+    {
+      "title": "SECP official website",
+      "url": "https://www.secp.gov.pk/"
+    }
+  ],
+  "review_flags": [
+    "No PI licensing statute identified; private security regime description rests on an older Express Tribune report. Confirm current provincial rules with Pakistani counsel.",
+    "Public accessibility of the SECP digital UBO registry is not stated by SECP; treated as non-public.",
+    "Personal Data Protection Bill 2023 still draft as of DLA Piper (March 2026); check for enactment before publication.",
+    "27th Amendment court changes are recent and contested; Arbitration Act 1940, Prevention of Corruption Act 1947 and court-tier description rely partly on general knowledge and search snippets.",
+    "Working week: Pakistan has varied between five- and six-day government weeks; confirm."
+  ],
+  "researched": "2026-11-04"
+}

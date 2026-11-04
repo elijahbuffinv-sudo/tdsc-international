@@ -1,0 +1,149 @@
+{
+  "cc": "RS",
+  "name": "Serbia",
+  "meta_description": "TDSC investigative consulting on Serbia: due diligence, asset tracing and dispute support using APR company and beneficial owner records and the 2018 DP Law.",
+  "eyebrow": "Republic of Serbia",
+  "hero_lede": "Investigative consulting for matters touching Serbia draws on unusually open company and beneficial ownership records kept by the Business Registers Agency, a GDPR-style data protection law, a licensing regime for detectives supervised by the Ministry of Interior, and careful coordination with licensed local professionals and counsel.",
+  "intro": [
+    "Serbia is an EU candidate country whose commercial legislation has been progressively aligned with EU standards. Its Data Protection Law of 2018 closely follows the GDPR, and the Serbian Business Registers Agency (APR) runs centralised electronic registers that make basic company, management, shareholding and beneficial ownership information searchable online. A new Law on the Central Register of Beneficial Owners, in force since March 2025, tightened reporting and verification duties. For investigators, accessible public records sit alongside a formal licensing regime for detectives and active supervision by the data protection Commissioner.",
+    "Organisations commission investigative work involving Serbia because of its role as a manufacturing and logistics base for European supply chains, its growing technology and outsourcing sector centred on Belgrade and Novi Sad, and significant foreign investment in automotive components, mining, energy and infrastructure. Typical exposures include acquisitions of formerly state-owned or privatised enterprises, distributors and agents operating across the Western Balkans, public procurement and state-linked counterparties and ownership structures that pass through Cyprus, the Netherlands or other holding jurisdictions. Questions frequently concern hidden ownership, connections to public officials, related-party dealings and the recovery of assets after a dispute."
+  ],
+  "population": {
+    "value": "6.55 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/RS/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Serbia has a civil law system in the continental European tradition, built on codified statutes such as the Law on Obligations and the Law on Companies. Commercial disputes between business entities are heard by first-instance commercial courts, with appeals to the Commercial Appellate Court in Belgrade and extraordinary review before the Supreme Court. Domestic and international commercial arbitration is available, including through the Permanent Arbitration at the Chamber of Commerce and Industry of Serbia and the Belgrade Arbitration Center. Proceedings are conducted in Serbian.",
+  "data_protection": {
+    "law": "Law on Personal Data Protection (Official Gazette of the RS No. 87/2018), applicable since 21 August 2019",
+    "regulator": "Commissioner for Information of Public Importance and Protection of Personal Data (Poverenik)",
+    "summary": "Serbia's Data Protection Law is largely harmonised with the GDPR. Investigative processing needs a lawful basis, most often the legitimate interests of the client, balanced against the rights of the individuals concerned, with consent and proportionality assessed case by case. Data about employees and third parties should be limited to what the matter requires. Transfers abroad are permitted to countries party to Council of Europe Convention 108, to countries on the government's adequacy list, or under Commissioner-issued standard contractual clauses and other approved safeguards, so transfers to the United States need a specific mechanism. We have not identified a general data localisation requirement."
+  },
+  "investigator_regulation": "Private detective work in Serbia is regulated by the Law on Detective Activity, adopted in 2013 and amended in 2018. Detective agencies and individual detectives must hold a licence; the Ministry of Interior is responsible for training, licensing and supervision, and licensing conditions include a security check and higher education. The 2018 amendments refined the licensing conditions, removed the internship requirement and require detectives to give clients a written report of the information gathered. Commentators have noted tension between some detective powers and data protection law, so methods involving third-party data, surveillance or recording are assessed carefully with local counsel before any work proceeds.",
+  "corporate_records": "The Serbian Business Registers Agency (APR) maintains the Business Entities Register, which is publicly searchable online and shows each company's legal form, registration and tax numbers, status, activity, representatives, board members, registered capital and founders or members with their shares. APR also keeps the Central Register of Beneficial Owners; under the 2025 law, beneficial ownership data must be verified annually and APR may publish lists of non-compliant entities. APR has described beneficial ownership data as publicly searchable by registration number without proving a legal interest. Financial statements, pledges and other registers are also maintained by APR.",
+  "anti_corruption": "Active and passive bribery offences are set out in the Criminal Code. The Law on Prevention of Corruption, applicable since September 2020 and amended in 2021, governs asset declarations, conflicts of interest and notifications by companies owned by public officials, and is enforced by the Agency for Prevention of Corruption. Anti-money laundering obligations arise under the Law on the Prevention of Money Laundering and the Financing of Terrorism adopted in 2017, with the Administration for the Prevention of Money Laundering acting as the financial intelligence unit.",
+  "matters": [
+    {
+      "title": "Acquisition and partner due diligence",
+      "text": "Verifying ownership, management, financial filings and litigation history of Serbian targets and joint venture partners, including privatised enterprises and family-held groups, and testing whether beneficial ownership disclosures in the APR register align with corporate filings, media records and the counterparty's own representations."
+    },
+    {
+      "title": "Public official and procurement exposure",
+      "text": "Assessing whether counterparties in public tenders, infrastructure and energy projects have links to officials or state-owned entities, drawing on public company records, procurement portals, the Agency for Prevention of Corruption's published information and open-source research, so that anti-corruption risk is documented before contracts are signed."
+    },
+    {
+      "title": "Asset tracing for disputes",
+      "text": "Supporting counsel in identifying assets connected to a Serbian debtor or award debtor, including company interests, real estate recorded in the cadastre and holdings routed through foreign vehicles, as groundwork for enforcement or recognition proceedings that local lawyers conduct before Serbian courts."
+    },
+    {
+      "title": "Distributor and agent integrity",
+      "text": "Reviewing distributors, agents and logistics providers serving Serbian and wider Western Balkan markets for undisclosed ownership, related-party relationships, adverse media and regulatory history, which is often required before a principal can rely on a third party for sales into regulated or state-linked sectors."
+    },
+    {
+      "title": "Technology outsourcing and IP concerns",
+      "text": "Supporting clients whose software development or outsourced engineering teams sit in Belgrade or Novi Sad, where questions arise about former employees establishing competing businesses, misuse of source code or customer data, and the true ownership of service companies that hold staff contracts."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Serbian (Cyrillic and Latin scripts); English widely used in business"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Belgrade, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Serbian dinar (RSD)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Belgrade, Novi Sad, Niš, Kragujevac"
+    },
+    {
+      "label": "Courts language",
+      "value": "Serbian; foreign documents need certified translation"
+    },
+    {
+      "label": "Key registries",
+      "value": "Business Registers Agency (APR), Republic Geodetic Authority cadastre"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-driven; personal introductions and face-to-face meetings matter"
+    }
+  ],
+  "tdsc_approach": "Engagements touching Serbia are scoped from Nashville and begin with a jurisdictional review of what the client needs to establish and which lawful sources can establish it. Much can be done through the APR registers, court and procurement information, media archives and open sources, reviewed in Serbian and English. Where work must be carried out in Serbia, such as interviews, site visits or enquiries on the ground, TDSC coordinates detectives licensed under the Law on Detective Activity and works alongside Serbian counsel, who advise on evidence and data protection questions. Personal data is minimised, a lawful basis is documented, and transfers to the United States are arranged under a recognised safeguard. TDSC does not use pretexting or seek access to police or other restricted records.",
+  "faqs": [
+    {
+      "q": "Can beneficial ownership information on Serbian companies be checked?",
+      "a": "Yes, in most cases. The Business Registers Agency keeps the Central Register of Beneficial Owners alongside the Business Entities Register, and has described beneficial ownership data as searchable online by registration number. Registered data is a starting point, not proof: nominee arrangements and foreign holding companies can obscure who actually controls a business."
+    },
+    {
+      "q": "Are private detectives licensed in Serbia?",
+      "a": "Yes. Under the Law on Detective Activity, adopted in 2013 and amended in 2018, both detective agencies and individual detectives must hold a licence, with the Ministry of Interior responsible for licensing and supervision. When an engagement requires work in Serbia, we coordinate professionals who hold the appropriate licence and confirm with local counsel that the proposed methods are lawful."
+    },
+    {
+      "q": "How does Serbian data protection law affect an investigation?",
+      "a": "The 2018 Law on Personal Data Protection mirrors much of the GDPR. Investigators need a documented lawful basis, usually legitimate interests, and must limit the data collected to what is necessary. The Commissioner for Information of Public Importance and Protection of Personal Data supervises compliance, and moving data to the United States requires a recognised transfer mechanism such as Commissioner-issued standard contractual clauses."
+    },
+    {
+      "q": "Can TDSC help locate assets of a Serbian debtor?",
+      "a": "We can assist counsel by researching company interests, directorships, real estate records and links to foreign structures through lawful sources, and by coordinating licensed local professionals where enquiries in Serbia are needed. We do not obtain bank account data or other confidential records outside court process. Enforcement itself is handled by Serbian lawyers before the competent courts and enforcement officers."
+    },
+    {
+      "q": "Which courts handle commercial disputes in Serbia?",
+      "a": "Disputes between business entities generally go to the commercial courts at first instance, with appeals to the Commercial Appellate Court in Belgrade and extraordinary review before the Supreme Court. Parties may instead agree to arbitration. Investigative findings intended for these proceedings should be prepared with Serbian counsel so that sourcing, translation and form meet local evidential expectations."
+    }
+  ],
+  "sources": [
+    {
+      "title": "World Bank: Population, total (Serbia)",
+      "url": "https://api.worldbank.org/v2/country/RS/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Serbia",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=RS"
+    },
+    {
+      "title": "Serbian Business Registers Agency: About the Central Records of Beneficial Owners",
+      "url": "https://apr.gov.rs/registers/central-register-of-beneficial-owners/about-central-records-.4082.html"
+    },
+    {
+      "title": "Kinstellar: Serbia's new law on beneficial ownership, key changes (2025)",
+      "url": "https://kinstellar.com/news-and-insights/detail/3637/serbias-new-law-on-beneficial-ownership-key-changes-you-need-to-know"
+    },
+    {
+      "title": "Stojković Attorneys: Private investigators in Serbia (2018 amendments)",
+      "url": "https://statt.rs/private-investigators-in-serbia/"
+    },
+    {
+      "title": "N1: Detective agencies in Serbia (2016)",
+      "url": "https://n1info.rs/vesti/a204865-Detektivske-agencije-u-Srbiji/"
+    },
+    {
+      "title": "Karanović & Partners: New amendments to the Law on Prevention of Corruption",
+      "url": "https://www.karanovicpartners.com/news/new-amendments-to-the-law-on-prevention-of-corruption/"
+    },
+    {
+      "title": "Ministry of Finance: Administration for the Prevention of Money Laundering",
+      "url": "https://mfin.gov.rs/en/about-ministry-2/administration-for-the-prevention-of-money-laundering-2"
+    },
+    {
+      "title": "CMS Law-Now: Serbian Parliament passed a new AML/CFT law (2017)",
+      "url": "https://cms-lawnow.com/en/ealerts/2017/12/the-serbian-parliament-passed-a-new-law-on-prevention-of-money-laundering-and-financing-of-terrorism"
+    }
+  ],
+  "review_flags": [
+    "Public, no-legal-interest access to beneficial ownership data is taken from an APR page that may predate the 2025 Law on the Central Register of Beneficial Owners; confirm access rules after 1 October 2025.",
+    "Ministry of Interior role in detective licensing sourced from a 2016 N1 news report and 2018 law-firm commentary; the official consolidated text of the Law on Detective Activity was not opened.",
+    "Court structure (Commercial Appellate Court, Supreme Court) and arbitration institutions (Permanent Arbitration at the Chamber of Commerce and Industry of Serbia, Belgrade Arbitration Center) stated from general knowledge without a source opened in this research.",
+    "Real estate (cadastre) reference to the Republic Geodetic Authority is from general knowledge, not a source opened."
+  ],
+  "researched": "2026-11-04"
+}

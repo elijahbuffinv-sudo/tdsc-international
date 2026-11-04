@@ -1,0 +1,144 @@
+{
+  "cc": "SK",
+  "name": "Slovakia",
+  "meta_description": "TDSC investigative consulting on Slovakia: due diligence, asset tracing and dispute support using the Commercial Register, RPVS and Slovak privacy rules.",
+  "eyebrow": "Slovak Republic",
+  "hero_lede": "Investigative consulting for matters touching Slovakia draws on an open Commercial Register, public beneficial ownership data for companies dealing with the state, and Act No. 18/2018 Coll. on data protection, with any in-country work handled by detectives licensed by the Slovak police under Act No. 473/2005 Coll.",
+  "intro": [
+    "Slovakia is a eurozone member. Its corporate information is comparatively accessible: the Commercial Register, kept by registry courts under Act No. 530/2003 Coll., can be searched online in Slovak and English, and electronic extracts and copies of deposited documents are issued free of charge. Companies that receive public funds must disclose their beneficial owners in the Register of Public Sector Partners (RPVS). Personal data processing is governed by the GDPR and Act No. 18/2018 Coll. Private detective work is a licensed security service under Act No. 473/2005 Coll., so any enquiries carried out in Slovakia require locally licensed professionals.",
+    "Organisations commission work involving Slovakia largely because of its manufacturing base. The country hosts several major car assembly plants and a dense network of tier suppliers, alongside electronics, engineering, steel and energy operations, with Bratislava close to Vienna and Budapest. Typical exposures include supplier kickbacks and conflicts of interest in procurement, related-party trading through Czech, Hungarian, Austrian or Cypriot holding companies, misuse of EU funds and public contracts, and asset recovery against debtors who move property before insolvency. Changes to the anti-corruption enforcement architecture since 2024 have also made independent integrity due diligence on Slovak counterparties and politically exposed persons a more frequent request."
+  ],
+  "population": {
+    "value": "5.41 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/SK/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Slovakia has a civil law system in the continental tradition. Private law rests on the Civil Code and the Commercial Code (Act No. 513/1991 Coll.), which also governs companies, and civil litigation follows the Code of Civil Contentious Procedure. Commercial disputes are heard at first instance by designated district courts, with appeals to the regional courts and extraordinary review by the Supreme Court; the Constitutional Court in Košice protects fundamental rights. Arbitration is available, most prominently through the Arbitration Court of the Slovak Chamber of Commerce and Industry in Bratislava.",
+  "data_protection": {
+    "law": "General Data Protection Regulation (EU) 2016/679 and Act No. 18/2018 Coll. on the Protection of Personal Data",
+    "regulator": "Office for Personal Data Protection of the Slovak Republic (Úrad na ochranu osobných údajov Slovenskej republiky)",
+    "summary": "Act No. 18/2018 Coll. took effect on 25 May 2018 alongside the GDPR. Investigative processing needs a GDPR lawful basis, usually legitimate interests or the establishment of legal claims, with a documented balancing test. Slovak specifics matter: section 78 restricts the use of the birth number (rodné číslo), prohibits its publication, and generally requires the data subject's prior written consent where personal data about them are obtained from another person, subject to listed exceptions. Employee investigations must respect the Labour Code's limits on monitoring. There is no registration requirement, and transfers outside the EEA follow GDPR Chapter V through adequacy, standard contractual clauses or narrow derogations."
+  },
+  "investigator_regulation": "Detective service (detektívna služba) is one of the private security services regulated by Act No. 473/2005 Coll. on the provision of private security services. Section 4 covers tracing persons and property, obtaining information usable as evidence in court or administrative proceedings, information on a person's conduct or financial situation, debt-related enquiries and evidence of threats to trade secrets. Licences are issued by the regional police directorate (krajské riaditeľstvo Policajného zboru), usually for ten years, and operators and staff must meet requirements of integrity, reliability, medical fitness and professional competence, including a type S or P certificate. Detectives have no special powers and remain bound by privacy and criminal law.",
+  "corporate_records": "The Commercial Register (Obchodný register) is administered technically by the Ministry of Justice and kept by registry courts under Act No. 530/2003 Coll. It is publicly searchable online and shows registered office, business objects, share capital, shareholders of limited liability companies, statutory body members, procurators and supervisory board members. The document registry holds deposited filings, kept electronically since October 2020, and electronic extracts and copies are free. Beneficial owners appear in the Register of Public Sector Partners (RPVS), launched in 2017 for entities receiving public funds, and in the Register of Legal Entities (RPO), both with publicly available structured data. Land ownership is recorded in the cadastre.",
+  "anti_corruption": "Bribery offences are set out in the Criminal Code, and Act No. 91/2016 Coll. introduced criminal liability of legal persons from July 2016, including for bribery. Anti-money laundering obligations derive from Act No. 297/2008 Coll., supervised by the Financial Intelligence Unit within the Police Force. The enforcement structure changed in 2024: the Special Prosecutor's Office was dissolved in March 2024, and the National Crime Agency (NAKA) was disbanded in August 2024, with corruption investigations moving to a new Office for the Fight Against Organised Crime.",
+  "matters": [
+    {
+      "title": "Automotive supplier integrity",
+      "text": "Investigation of kickbacks, quality-related fraud and undisclosed related-party dealing among tier suppliers serving Slovak car plants around Bratislava, Trnava, Žilina and Nitra, where family-owned subcontractors and cross-border logistics with Czechia, Hungary and Austria complicate ownership and invoicing trails."
+    },
+    {
+      "title": "Ownership behind public contracts",
+      "text": "Mapping who stands behind companies winning Slovak public contracts or EU-funded projects, using RPVS beneficial ownership disclosures, the Commercial Register and foreign registries, and testing declared owners against links to politically exposed persons or nominee arrangements."
+    },
+    {
+      "title": "Cross-border holding structures",
+      "text": "Tracing control of Slovak companies held through Czech, Cypriot, Dutch or Hungarian vehicles, combining Commercial Register shareholder data and deposited documents with foreign filings to identify ultimate controllers ahead of acquisitions, financings or joint ventures."
+    },
+    {
+      "title": "Asset tracing before enforcement",
+      "text": "Identifying real estate, shareholdings and pre-insolvency transfers by Slovak debtors through the cadastre, the Commercial Register and insolvency publications, in support of creditors, insolvency administrators and counsel seeking to enforce foreign judgments or arbitral awards in Slovakia."
+    },
+    {
+      "title": "Energy and infrastructure counterparties",
+      "text": "Integrity due diligence on partners in Slovak energy, gas transit, utilities and infrastructure projects, where state-linked companies, regional operators and Central European investors intersect and reputational exposure to politically connected parties needs careful verification."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Slovak; English widely used in business, Czech readily understood"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Bratislava, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (EUR) since 2009"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Bratislava, Košice, Žilina, Trnava, Nitra"
+    },
+    {
+      "label": "Court language",
+      "value": "Slovak; foreign documents need official translation"
+    },
+    {
+      "label": "Official correspondence",
+      "value": "Companies receive official communications through electronic mailboxes on the slovensko.sk portal"
+    },
+    {
+      "label": "Business culture",
+      "value": "Formal at first, relationship-driven; titles and written confirmation valued"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Slovak matters from Nashville, starting with a review of the GDPR, Act No. 18/2018 Coll. and its section 78 restrictions on birth numbers and third-party data, Labour Code limits where employees are involved, and the licensing regime for detective services under Act No. 473/2005 Coll. Desk research uses the Commercial Register and document registry, RPVS and RPO ownership data, the cadastre, insolvency publications, court decisions and Slovak-language media. Where work must be done in Slovakia, such as discreet enquiries, site observations or witness contact, TDSC coordinates detectives holding a police-issued licence and works with Slovak counsel on evidential and procedural questions. Legitimate interests assessments are documented before personal data is collected, and findings leave the EEA only under GDPR Chapter V safeguards.",
+  "faqs": [
+    {
+      "q": "Do private detectives need a licence in Slovakia?",
+      "a": "Yes. Detective service is a private security service under Act No. 473/2005 Coll. A licence is issued by the regional police directorate, generally for ten years, and operators must meet integrity, reliability, medical fitness and competence requirements, including a professional certificate. TDSC holds no Slovak licence and coordinates licensed local detectives when work in Slovakia is required."
+    },
+    {
+      "q": "Is Slovak company information available online?",
+      "a": "Largely yes. The Commercial Register can be searched online in Slovak and English and shows officers, procurators, share capital and, for limited liability companies, shareholders. Electronic extracts and copies of deposited documents are free of charge. Deposited filings have been kept electronically since October 2020, so older paper records can take longer to obtain."
+    },
+    {
+      "q": "What is the Register of Public Sector Partners?",
+      "a": "The Register of Public Sector Partners (RPVS), launched in 2017, requires companies that receive public funds or contract with the state above set thresholds to register their beneficial owners through an authorised person, such as a lawyer or bank. Its data are public, which makes it a useful starting point for ownership research on Slovak public-sector suppliers."
+    },
+    {
+      "q": "Can birth numbers be used in Slovak investigations?",
+      "a": "Only in narrow circumstances. Section 78 of Act No. 18/2018 Coll. permits use of the birth number only where necessary for the purpose of processing and prohibits publishing it unless the data subject did so. Reports prepared for clients therefore identify individuals by name, date of birth where lawfully obtained, and corporate roles rather than birth numbers."
+    },
+    {
+      "q": "How has Slovak anti-corruption enforcement changed?",
+      "a": "Significantly since 2024. The Special Prosecutor's Office was dissolved in March 2024 and the National Crime Agency was disbanded in August 2024, with corruption investigations reassigned within the police. Companies cannot rely on enforcement signals alone when assessing Slovak counterparties, so documented third-party due diligence has become more important."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Slovak Republic",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=SK"
+    },
+    {
+      "title": "Act No. 473/2005 Coll. on private security services (Slov-Lex, consolidated text)",
+      "url": "https://static.slov-lex.sk/pdf/SK/ZZ/2005/473/ZZ_2005_473_20231001.pdf"
+    },
+    {
+      "title": "European e-Justice Portal: Business registers in Slovakia",
+      "url": "https://e-justice.europa.eu/topics/registers-business-insolvency-land/business-registers-eu-countries/sk_en"
+    },
+    {
+      "title": "Open Ownership: Slovak Republic",
+      "url": "https://openownership.org/en/map/country/slovak-republic/"
+    },
+    {
+      "title": "The Slovak Spectator: Slovakia to disband National Crime Agency in August, replacing it with new units",
+      "url": "https://spectator.sme.sk/c/23367128/slovakia-to-disband-national-crime-agency-in-august-replacing-it-with-new-units.html"
+    },
+    {
+      "title": "Act No. 297/2008 Coll. on protection against money laundering (English, Financial Intelligence Unit)",
+      "url": "https://www.minv.sk/swift_data/source/policia/fsj/ZZ_2008_297_20250115_EN.pdf"
+    },
+    {
+      "title": "Global Compliance News: Slovakia criminal liability of legal persons introduced",
+      "url": "https://www.globalcompliancenews.com/2016/03/24/slovakia-criminal-liability-of-legal-persons-introduced/"
+    },
+    {
+      "title": "World Bank population data: Slovak Republic",
+      "url": "https://api.worldbank.org/v2/country/SK/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    }
+  ],
+  "review_flags": [
+    "Not verified in a source this session (general knowledge): Civil Code and Code of Civil Contentious Procedure references, court structure and designated district courts for commercial matters, Constitutional Court seat in Košice, Arbitration Court of the Slovak Chamber of Commerce and Industry, cadastre, slovensko.sk electronic mailboxes, Labour Code monitoring limits, RPVS public-funds thresholds and authorised-person mechanism, automotive plant locations.",
+    "Slovak anti-corruption enforcement structure changed in 2024 (Special Prosecutor's Office dissolved; NAKA replaced by ÚBOK); reports in 2025 suggest partial rebuilding within the General Prosecutor's Office. Re-check before publishing.",
+    "Public access to beneficial ownership data in RPO may be affected by the 2022 CJEU ruling and EU AMLR implementation; RPVS remains public per Open Ownership, but confirm current RPO access."
+  ],
+  "researched": "2026-11-04"
+}

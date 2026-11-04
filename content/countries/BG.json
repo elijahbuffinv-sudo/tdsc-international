@@ -1,0 +1,146 @@
+{
+  "cc": "BG",
+  "name": "Bulgaria",
+  "meta_description": "TDSC investigative consulting on Bulgaria: corporate due diligence, asset tracing and GDPR-compliant research using the Registry Agency's public registers.",
+  "eyebrow": "Republic of Bulgaria",
+  "hero_lede": "Investigative consulting for matters touching Bulgaria combines unusually open corporate registers with strict EU and national data protection rules, Bulgarian-language court and registry records, and an anti-corruption framework that has been restructured repeatedly. TDSC scopes each engagement from Nashville and coordinates qualified local professionals where required.",
+  "intro": [
+    "Bulgaria is an EU member state with a civil law system, a Bulgarian-language court system and an electronic Commercial Register, operated by the Registry Agency, that is free to search and among the more transparent in the region. Those strengths sit alongside persistent concerns about the effectiveness of anti-corruption enforcement: in January 2026 Parliament closed the dedicated anti-corruption commission and redistributed its functions. Arbitration has also been reformed, with 2025 amendments requiring arbitral institutions to register with the Ministry of Justice. For investigators, this means good access to corporate filings, careful handling of personal data under the GDPR and national rules, and close attention to the reliability of institutional outcomes.",
+    "Organisations commission investigative work involving Bulgaria when they acquire or finance companies in energy, manufacturing, outsourcing, IT services or real estate, when they rely on Bulgarian suppliers within EU supply chains, or when EU-funded projects raise questions about procurement and subcontracting. Bulgaria's position on the Black Sea and on routes between the EU, Turkey and the wider region brings exposure to trade diversion and complex ownership structures. Common issues include nominee shareholders, related-party transactions, disputes over arbitral awards issued by questionable tribunals, and asset tracing after fraud. Law firms and lenders also seek background research on executives and counterparties in Sofia, Plovdiv and Varna."
+  ],
+  "population": {
+    "value": "6.43 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/BG/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Bulgaria has a codified civil law system. Commercial disputes are heard by regional and district courts, with appeals to courts of appeal and final review by the Supreme Court of Cassation; administrative matters go to administrative courts and the Supreme Administrative Court. Arbitration is governed by the 1988 International Commercial Arbitration Act, now titled the Arbitration Act, reformed in 2017 and again in 2025, when registration of arbitral institutions with the Ministry of Justice became mandatory. The Arbitration Court at the Bulgarian Chamber of Commerce and Industry is the principal institution.",
+  "data_protection": {
+    "law": "General Data Protection Regulation (EU) 2016/679 and Personal Data Protection Act (2002, amended 2019)",
+    "regulator": "Commission for Personal Data Protection",
+    "summary": "The GDPR applies directly, supplemented by the Personal Data Protection Act as amended in 2019. National rules matter for investigations: data on criminal convictions may be processed only where a law expressly provides for it, and neither consent nor legitimate interest suffices, which constrains criminal record screening. Employers may copy identity documents only where law requires, recruitment data is generally kept no longer than six months, and public access to personal identification numbers is restricted. Large-scale video surveillance of public areas requires internal rules. Transfers outside the EEA follow GDPR Chapter V without additional national conditions. Investigative work must have a documented lawful basis and a proportionality assessment."
+  },
+  "investigator_regulation": "We have not identified a dedicated statutory licensing regime for private detectives or private investigators in Bulgaria. The Private Security Activities Act, in force since March 2018 and administered by the Ministry of Interior's General Directorate National Police, licenses guarding, monitoring, event security and similar activities, but does not, on the sources reviewed, cover investigative work. Private enquiries remain subject to the GDPR, the Personal Data Protection Act and the Criminal Code; covert surveillance, interception and use of special intelligence means are reserved to state authorities. Engagements involving local enquiries are scoped with Bulgarian counsel before work begins.",
+  "corporate_records": "The Commercial Register and Register of Non-Profit Legal Entities, maintained by the Registry Agency, is an electronic register that is free to search and includes registered particulars for each entity, including managers, partners or sole owners, capital, filed annual accounts and beneficial ownership particulars entered under the Measures Against Money Laundering Act. Access to full company files requires registration with an electronic signature or Agency-issued certificate. Public access to beneficial ownership data has been subject to EU-level change since 2022, so current scope should be confirmed. The Property Register is also maintained by the Registry Agency.",
+  "anti_corruption": "Bribery is criminalised under the Criminal Code, covering active and passive bribery of domestic and foreign officials and bribery in the private sector. Money laundering is addressed by the Measures Against Money Laundering Act (2018, amended in 2023), supervised by the State Agency for National Security through its financial intelligence function. In January 2026 Parliament abolished the dedicated anti-corruption commission; its functions moved to the Interior Ministry's directorate for combating organised crime, the National Audit Office and the national investigation service.",
+  "matters": [
+    {
+      "title": "Acquisition and investment due diligence",
+      "text": "Pre-transaction review of Bulgarian targets in energy, manufacturing, IT outsourcing and real estate, using Commercial Register filings, annual accounts, litigation research and media analysis in Bulgarian to test ownership, related-party dealings and management integrity before signing."
+    },
+    {
+      "title": "EU funds and procurement integrity",
+      "text": "Research into contractors, subcontractors and beneficiaries of EU-funded or public procurement projects, identifying links between competing bidders, shared addresses or managers, undisclosed common ownership, and connections to public officials that may indicate conflicts of interest or bid coordination."
+    },
+    {
+      "title": "Asset tracing and award enforcement",
+      "text": "Support for counsel enforcing judgments or arbitral awards against Bulgarian parties, mapping corporate holdings and real estate through lawful registry searches, and identifying transfers to related entities in Bulgaria, Cyprus or elsewhere in the EU."
+    },
+    {
+      "title": "Supplier and supply chain vetting",
+      "text": "Lawful verification of Bulgarian suppliers and logistics partners within European supply chains, checking registration history, management changes, beneficial ownership particulars, financial filings and adverse media for indicators of shell activity, trade diversion or sanctions exposure."
+    },
+    {
+      "title": "Arbitral award and tribunal background",
+      "text": "Research supporting counsel where an award's origin is in question, examining the arbitral institution's registration status, the history of the arbitrators and parties, and patterns in prior awards, in light of the 2025 reforms to Bulgaria's Arbitration Act."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Bulgarian (Cyrillic script); English common in international business"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Sofia, UTC+2 (UTC+3 in summer)"
+    },
+    {
+      "label": "Courts language",
+      "value": "Bulgarian; foreign documents need certified translation"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Sofia, Plovdiv, Varna, Burgas"
+    },
+    {
+      "label": "Currency",
+      "value": "Euro, adopted 1 January 2026 (previously the lev)"
+    },
+    {
+      "label": "Corporate registry portal",
+      "value": "portal.registryagency.bg"
+    }
+  ],
+  "tdsc_approach": "TDSC handles matters touching Bulgaria from Nashville and holds no licence there. Each engagement begins with a jurisdictional review of the client's objectives, the lawful basis for any processing under the GDPR and the Personal Data Protection Act, and national constraints such as the restriction on processing criminal record data. Research draws on the Registry Agency's Commercial and Property Registers, published court decisions, filed accounts and Bulgarian-language media. Where interviews or enquiries in Bulgaria are needed, TDSC coordinates with Bulgarian counsel and qualified local professionals. TDSC does not conduct surveillance, does not seek police or telecommunications data and does not use pretexting. Personal data is minimised, transferred under GDPR Chapter V safeguards and retained only for the engagement.",
+  "faqs": [
+    {
+      "q": "How much can be learned from the Bulgarian Commercial Register?",
+      "a": "More than in many jurisdictions. The Registry Agency's register is free to search and shows managers, owners of limited companies, capital, filed annual accounts and registered changes over time. Full file access requires registration with an electronic signature or certificate. TDSC combines register history with other lawful sources to build a reliable corporate picture."
+    },
+    {
+      "q": "Can a Bulgarian employee's criminal record be checked?",
+      "a": "Only where a law expressly provides for it. Bulgaria's Personal Data Protection Act does not allow consent or legitimate interest to serve as the basis for processing criminal record data, so many routine screening practices used elsewhere are unavailable. Employers should take advice from Bulgarian counsel on whether a specific statutory basis applies."
+    },
+    {
+      "q": "Are private investigators licensed in Bulgaria?",
+      "a": "We have not identified a dedicated licensing regime for private investigators. The Private Security Activities Act licenses security services, not investigations, on the sources we reviewed. Investigative work is therefore governed by general law, particularly data protection and criminal law, and TDSC confines its work to lawful research and coordinated enquiries through counsel."
+    },
+    {
+      "q": "Why might an arbitral award involving Bulgaria need scrutiny?",
+      "a": "Bulgaria reformed its Arbitration Act in 2025 to address abuse by unregistered or improperly run tribunals; arbitral institutions must now register with the Ministry of Justice, and awards from unregistered bodies are null. Where an award's provenance is uncertain, background research on the tribunal, arbitrators and parties can support counsel's assessment."
+    },
+    {
+      "q": "Who enforces anti-corruption law in Bulgaria now?",
+      "a": "Following Parliament's decision in January 2026 to close the anti-corruption commission, its responsibilities were redistributed to the Interior Ministry's directorate for combating organised crime, the National Audit Office and the national investigation service, alongside the prosecution service. Clients should expect institutional arrangements to keep changing and plan their compliance reviews accordingly."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Bulgaria",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=BG"
+    },
+    {
+      "title": "European e-Justice Portal: Business registers in Bulgaria",
+      "url": "https://e-justice.europa.eu/pdf-export/1910_en"
+    },
+    {
+      "title": "CMS Expert Guide to International Arbitration: Bulgaria",
+      "url": "https://cms.law/en/int/expert-guides/cms-expert-guide-to-international-arbitration/bulgaria"
+    },
+    {
+      "title": "CMS: Bulgaria passes reforms to curb arbitration fraud and strengthen safeguards",
+      "url": "https://cms.law/en/bgr/legal-updates/bulgaria-passes-reforms-to-curb-arbitration-fraud-and-strengthen-safeguards"
+    },
+    {
+      "title": "Sofia Globe: Bulgaria's Parliament shuts down anti-corruption commission",
+      "url": "https://sofiaglobe.com/2026/01/28/bulgarias-parliament-shuts-down-anti-corruption-commission/"
+    },
+    {
+      "title": "Innovires: Private security licence in Bulgaria under the PSAA",
+      "url": "https://www.innovires.com/en/blog/licenz-ohranitelna-deynost-zachod.html"
+    },
+    {
+      "title": "Eurofast: Amendments to the Measures Against Money Laundering Act",
+      "url": "https://eurofast.eu/bulgaria-amendments-in-measures-against-money-laundry-act-mamla/"
+    },
+    {
+      "title": "Legal 500: Understanding ultimate beneficial ownership in Bulgaria",
+      "url": "https://www.legal500.com/intelligence/bulgaria/government-public-sector/understanding-ultimate-beneficial-ownership-ubo-in-bulgaria"
+    },
+    {
+      "title": "World Bank: Population, total (Bulgaria)",
+      "url": "https://api.worldbank.org/v2/country/BG/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    }
+  ],
+  "review_flags": [
+    "No private investigator licensing regime identified; PSAA 2018 covers security only per secondary source. Confirm with Bulgarian counsel.",
+    "Anti-corruption commission abolished January 2026 (Sofia Globe); institutional arrangements may change again. Verify before publishing.",
+    "Public access to beneficial ownership particulars after the 2022 CJEU ruling not confirmed; text hedges.",
+    "Euro adoption on 1 January 2026, Property Register, Criminal Code bribery scope and SANS financial intelligence role stated from general knowledge rather than an opened source.",
+    "2025 Arbitration Act amendment: CMS article dated 5 Aug 2025 does not give adoption/effective date."
+  ],
+  "researched": "2026-11-04"
+}

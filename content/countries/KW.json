@@ -1,0 +1,146 @@
+{
+  "cc": "KW",
+  "name": "Kuwait",
+  "meta_description": "TDSC investigative consulting on Kuwait: commercial registry and UBO research, agent and contractor due diligence, privacy-aware enquiries and asset tracing.",
+  "eyebrow": "State of Kuwait",
+  "hero_lede": "Investigative consulting for matters touching Kuwait means reading Arabic-language registry, court and media sources, understanding an oil-driven economy built around state contracting and family groups, and respecting strict cybercrime and privacy rules: counterparty and agent research, ownership mapping and asset tracing for counsel.",
+  "intro": [
+    "Kuwait has a civil law system with codified civil and commercial law, Arabic-language courts and a Companies Law that governs most commercial entities. Companies and commercial licences are registered with the Ministry of Commerce and Industry, and since April 2023 Kuwaiti companies have had to identify and report their ultimate beneficial owners. Kuwait has no comprehensive data protection statute; instead, a 2024 regulation from the communications regulator CITRA, the Electronic Transactions Law and the Cybercrime Law set the rules on personal data. Taking photographs of people without permission and unlawful access to data carry criminal penalties, so investigative work is research-led and carefully scoped.",
+    "Organisations commission investigative work involving Kuwait because of its oil and gas sector, large state capital projects, sovereign and family wealth, and a market in which foreign companies often work through local agents, distributors and partners. Typical exposures include integrity questions about agents and subcontractors on government and oil sector contracts, family-owned groups whose holdings span Kuwait and other GCC states, disputes on construction and supply contracts, and debtors with property or company interests in Kuwait. Lenders, investors and counterparties also need verified background on principals and shareholders before transactions, particularly where ownership is held through holding companies or relatives."
+  ],
+  "population": {
+    "value": "4.87 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/KW/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Kuwait follows the civil law tradition, with a Civil Code and Commercial Code dating from 1980, the Companies Law No. 1 of 2016, and Islamic Sharia as a main source of legislation. Commercial disputes are heard by the Court of First Instance, with appeals to the Court of Appeal and final review by the Court of Cassation, in Arabic. A Constitutional Court reviews the constitutionality of legislation. Arbitration is available under the Code of Civil and Commercial Procedure and through institutions including the Kuwait Commercial Arbitration Centre of the Kuwait Chamber of Commerce and Industry.",
+  "data_protection": {
+    "law": "No comprehensive law; CITRA Data Privacy Protection Regulation (Administrative Decision No. 26 of 2024), Law No. 20 of 2014 on Electronic Transactions and Law No. 63 of 2015 on Combating Information Technology Crimes",
+    "regulator": "Communication and Information Technology Regulatory Authority (CITRA), for its licensed and covered service providers; no national data protection authority",
+    "summary": "Kuwait has no general data protection law covering all processing. The CITRA regulation applies to telecommunications licensees and to operators of websites, apps and cloud services that collect personal data, with consent as the main basis, disclosure of foreign transfer destinations and 24-hour breach notification. The Electronic Transactions Law prohibits collecting or disclosing personal data in electronic records without consent or a court order, with penalties of up to three years' imprisonment. The Cybercrime Law penalises unlawful access to personal, government and bank data. Investigative work must therefore avoid any acquisition of data that is not lawfully public."
+  },
+  "investigator_regulation": "We have not identified a licensing regime that authorises private investigators to conduct enquiries or surveillance in Kuwait. Criminal law sets clear limits: the Ministry of Interior's anti-cybercrime department has warned that photographing or filming people without their knowledge or permission is punishable under Article 70 of Law No. 37 of 2014, and the Cybercrime Law of 2015 and the Electronic Transactions Law penalise unlawful access to and disclosure of data. Covert surveillance, photography or recording of individuals, and pretext enquiries to obtain records therefore carry serious legal risk. Local enquiries should be planned with Kuwaiti counsel.",
+  "corporate_records": "Companies and commercial licences are registered with the Ministry of Commerce and Industry under the Companies Law No. 1 of 2016, and registry extracts and licence information are typically obtained through the Ministry's services rather than a free public search. Since 1 April 2023, Ministerial Resolution No. 4 of 2023 has required disclosure of ultimate beneficial owners; Resolution No. 37 of 2026 bars issuing or renewing commercial licences without full disclosure and sets fines of KWD 1,000 to 10,000 per violation. We have not identified public access to this information. Companies listed on Boursa Kuwait publish disclosures regulated by the Capital Markets Authority.",
+  "anti_corruption": "Law No. 2 of 2016 established the Kuwait Anti-Corruption Authority, known as Nazaha, which receives reports and enforces financial disclosure obligations for officials, with criminal bribery offences prosecuted under the Penal Code and related laws. Law No. 106 of 2013 on combating money laundering and terrorist financing remains the core AML statute, amended by Decree-Law No. 76 of 2025 to strengthen asset freezing and penalties. It is administered with the Kuwait Financial Intelligence Unit, the Central Bank of Kuwait and other supervisors.",
+  "matters": [
+    {
+      "title": "Agent and subcontractor integrity reviews",
+      "text": "Researching local agents, sponsors, subcontractors and consultants proposed for oil and gas, defence, infrastructure and other government-related contracts in Kuwait, including corporate affiliations, family connections, litigation and adverse media in Arabic and English, to support anti-bribery due diligence by foreign principals and their lenders."
+    },
+    {
+      "title": "Family group ownership mapping",
+      "text": "Mapping holdings of Kuwaiti family-owned groups across trading, real estate, investment and contracting companies, including affiliates elsewhere in the GCC, using registry information, Boursa Kuwait disclosures, court information obtained through counsel and media, to identify decision-makers, related parties and potential conflicts."
+    },
+    {
+      "title": "Construction and supply disputes",
+      "text": "Supporting counsel in disputes over delayed or defective work on Kuwaiti projects by researching the solvency indicators, ownership and related companies of contractors, suppliers and guarantors, and by identifying successor entities where a counterparty has stopped trading or moved assets."
+    },
+    {
+      "title": "Asset research for enforcement",
+      "text": "Identifying company interests, listed shareholdings, related entities and litigation history connected to a debtor in Kuwait, so that counsel can assess whether recognising a foreign judgment or arbitral award and enforcing it through the Kuwaiti courts is likely to recover value."
+    },
+    {
+      "title": "Investor and executive background",
+      "text": "Discreet reputational research on Kuwaiti investors, co-investors and executives ahead of joint ventures, fund commitments or senior appointments, drawing on lawful public records, regulatory announcements and Arabic-language media, while avoiding methods that could breach Kuwait's cybercrime, privacy or defamation rules."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Arabic (official); English widely used in business"
+    },
+    {
+      "label": "Courts language",
+      "value": "Arabic; foreign documents need certified Arabic translation"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Kuwait, UTC+3, no daylight saving"
+    },
+    {
+      "label": "Working week",
+      "value": "Sunday to Thursday"
+    },
+    {
+      "label": "Currency",
+      "value": "Kuwaiti dinar (KWD)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Kuwait City, Ahmadi, Hawalli, Farwaniya, Jahra"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-based, with family groups and personal networks central to commerce"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Kuwait matters from Nashville by identifying the entities, individuals and contracts involved and the specific decision the research must inform, whether onboarding an agent, entering a joint venture or planning enforcement. Research draws on registry information obtained lawfully, Boursa Kuwait and regulatory disclosures, judgments and court information obtained through counsel, and Arabic and English media. Because Kuwait has no comprehensive data protection law but strict cybercrime and electronic transactions rules, TDSC treats any non-public personal data as off limits and does not conduct or commission covert surveillance, photography or pretext enquiries. Where local steps are required, TDSC works through Kuwaiti counsel and coordinates only professionals whose authority for the task has been confirmed, and it documents how personal data is held and transferred.",
+  "faqs": [
+    {
+      "q": "Does Kuwait have a data protection law?",
+      "a": "Not a comprehensive one. A 2024 CITRA regulation covers telecommunications providers and online service operators, while the Electronic Transactions Law of 2014 and the Cybercrime Law of 2015 prohibit unlawful collection, access and disclosure of personal data. In practice the absence of a general law does not mean fewer restrictions, and TDSC limits research to lawfully available information."
+    },
+    {
+      "q": "Can private investigators take photographs or follow people in Kuwait?",
+      "a": "We have not identified a licensing regime for private investigators in Kuwait, and authorities have warned that photographing people without permission can attract serious penalties. TDSC does not conduct or commission covert surveillance or photography in Kuwait. Where facts must be established locally, TDSC works with Kuwaiti counsel on lawful alternatives such as document retrieval and voluntary interviews."
+    },
+    {
+      "q": "Are beneficial owners of Kuwaiti companies disclosed?",
+      "a": "Since April 2023 Kuwaiti companies have had to disclose their ultimate beneficial owners, and a 2026 resolution ties licence issue and renewal to full disclosure, with fines of up to KWD 10,000 per violation. So far as we have found, the information is held for the authorities rather than published. TDSC reconstructs ownership from registry information, listed company disclosures, related entities and open sources."
+    },
+    {
+      "q": "What role does Nazaha play in Kuwaiti matters?",
+      "a": "Nazaha, the Kuwait Anti-Corruption Authority established by Law No. 2 of 2016, receives corruption reports and oversees financial disclosure by public officials, referring cases to prosecutors. Its public statements and referrals can be relevant background when assessing officials or counterparties. TDSC reviews such public information alongside court records and media as part of integrity due diligence."
+    },
+    {
+      "q": "How do foreign companies typically meet Kuwaiti counterparties?",
+      "a": "Often through local agents, distributors, partners or contractors, and frequently through companies tied to established families. That makes understanding who stands behind an agent or partner a common due diligence need. TDSC maps those relationships from lawful records and open sources so that clients and their counsel can assess conflicts, reputational risk and anti-bribery exposure before committing."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Kuwait",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=KW"
+    },
+    {
+      "title": "World Bank: Population, total (Kuwait)",
+      "url": "https://api.worldbank.org/v2/country/KW/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "BDO Kuwait: Ultimate beneficial ownership regulations in Kuwait effective 1 April 2023",
+      "url": "https://kw-www.bdo.global/en-gb/insights/featured-insights/ultimate-beneficial-ownership-(ubo)-regulations-in-kuwait-effective-1-april-2023"
+    },
+    {
+      "title": "Times Kuwait: Kuwait tightens beneficial ownership rules with heavy new fines up to 10,000 dinars",
+      "url": "https://timeskuwait.com/kuwait-tightens-beneficial-ownership-rules-with-heavy-new-fines-up-to-10000-dinars/"
+    },
+    {
+      "title": "UN ESCWA Arab Legal Portal: Kuwait Law No. 2 of 2016 on the Anti-Corruption Authority",
+      "url": "https://alp.unescwa.org/sites/default/files/2021-09/Kuwait_Law2_y2016_Anti-Corruption_EN.pdf"
+    },
+    {
+      "title": "UN ESCWA Arab Legal Portal: Law 106 of 2013 on fighting money laundering and terrorism financing",
+      "url": "https://alp.unescwa.org/legislations/law-106-2013-fighting-money-laundering-and-terrorism-financing"
+    },
+    {
+      "title": "Gulf News: Kuwait warns against taking photos of others without permission",
+      "url": "https://gulfnews.com/world/gulf/kuwait/kuwait-warns-against-taking-photos-of-others-without-permission-1.89891524"
+    },
+    {
+      "title": "Kuwait Public Prosecution: Information Technology Crime Prevention Law (Arabic)",
+      "url": "https://pp.moj.gov.kw/ar/LawsPP/InformationTechnologyCrimePreventionLaw.pdf"
+    },
+    {
+      "title": "Zawya: Kuwait enhances laws to combat money laundering and terror funding (Decree-Law No. 76 of 2025)",
+      "url": "https://www.zawya.com/en/economy/policy/kuwait-enhances-laws-to-combat-money-laundering-and-terror-funding-tdvdgoz6"
+    }
+  ],
+  "review_flags": [
+    "Data protection: DLA Piper page last modified February 2025; check whether Kuwait has since adopted a comprehensive personal data law.",
+    "Private investigator regulation: no source found on licensing or prohibition; needs confirmation by Kuwaiti counsel.",
+    "Photography offence: Gulf News report is internally inconsistent on penalties (up to three years and KWD 3,000 per Ministry statement vs two years and KWD 500-5,000 per quoted Article 70 of Law No. 37 of 2014); penalties deliberately not stated.",
+    "Not verified against an opened source: Civil and Commercial Codes of 1980, Companies Law No. 1 of 2016, court structure, Constitutional Court, Kuwait Commercial Arbitration Centre, MOCI registry access, Boursa Kuwait/CMA, Sunday-Thursday working week.",
+    "Kuwait's National Assembly has been suspended since May 2024 with legislation issued by decree-law (general knowledge, not source-verified); laws cited may change at short notice."
+  ],
+  "researched": "2026-11-04"
+}

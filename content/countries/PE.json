@@ -1,0 +1,136 @@
+{
+  "cc": "PE",
+  "name": "Peru",
+  "meta_description": "TDSC investigative consulting on Peru: SUNARP registry research, Law 29733 data protection scoping, Law 30424 integrity reviews and mining due diligence.",
+  "eyebrow": "Republic of Peru",
+  "hero_lede": "Matters touching Peru involve a civil law system, a national public registry run by SUNARP, a data protection regime tightened by a new regulation in 2025, and long-running corruption investigations tied to public works. Investigative consulting here means lawful records research and close coordination with Peruvian counsel.",
+  "intro": [
+    "Peru has about 34.6 million people (World Bank, 2025) and a unitary civil law system under the 1993 Constitution. Property and company records are centralised in the Superintendencia Nacional de los Registros Públicos (SUNARP), and tax identification through SUNAT's RUC number links most commercial activity. Personal data is protected by Law 29733 of 2011, whose new regulation, Supreme Decree 016-2024-JUS, has applied since March 2025. Legal entities can be held liable for bribery and money laundering under Law 30424, as amended by Law 31740. A large informal economy means public records rarely tell the whole story.",
+    "Organisations commission work involving Peru because of its weight in copper, gold, silver and zinc mining, fisheries and fishmeal, agricultural exports such as blueberries and avocados, energy and infrastructure concessions, and a growing financial sector. Typical exposures include due diligence on local partners, contractors and acquisition targets, integrity reviews of counterparties dealing with regional and municipal governments, asset tracing in support of judgments and arbitral awards, and fraud by distributors or managers. The Lava Jato investigations into construction contracts, and continuing concerns about illegal mining and the gold supply chain, keep reputational and provenance questions near the top of many engagements."
+  ],
+  "population": {
+    "value": "34.6 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/PE/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Peru has a civil law system. The Civil Code of 1984 and the General Companies Law (Law 26887) govern private and corporate law. Commercial disputes are heard by civil courts, and the Superior Court of Lima has a commercial sub-speciality for many commercial matters, with appeals to the Superior Courts and cassation before the Supreme Court. Arbitration is widely used, including for disputes under state contracts, and is governed by Legislative Decree 1071 of 2008. The Arbitration Centre of the Lima Chamber of Commerce is the principal institutional centre.",
+  "data_protection": {
+    "law": "Personal Data Protection Law No. 29733 (2011) and its Regulation, Supreme Decree 016-2024-JUS (in force 30 March 2025)",
+    "regulator": "National Data Protection Authority, within the Ministry of Justice and Human Rights (General Directorate of Transparency, Access to Public Information and Protection of Personal Data)",
+    "summary": "Law 29733 applies to private and public entities and generally requires consent unless an exception applies. The 2024 Regulation, in force since March 2025, adds a data protection officer requirement phased in from November 2025 and 48-hour notification of significant breaches. Controllers must register databases, and cross-border transfers, with the National Registry of Personal Data Protection. International transfers are limited to countries with adequate protection unless the recipient is contractually bound to equivalent safeguards, the data subject consents or another exception applies. Investigative work therefore needs a documented purpose, a lawful basis and attention to registration and transfer formalities."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators in Peru. Private security services are regulated by Legislative Decree 1213 and its Regulation, approved by Supreme Decree 005-2023-IN, and authorised by the Superintendencia Nacional de Control de Servicios de Seguridad, Armas, Municiones y Explosivos de Uso Civil (SUCAMEC). The listed modalities cover guarding, close protection, cash transport, event security and security technology, but not investigation services. The Constitution protects personal and family privacy and the secrecy of private communications. Field inquiries are therefore scoped with Peruvian counsel and confined to lawful observation and public sources.",
+  "corporate_records": "Companies are registered in the Registry of Legal Entities kept by SUNARP, which records incorporation deeds, by-laws, capital changes and the appointment of directors and managers. Certified copies and registry extracts can be obtained online. Shareholdings in a sociedad anónima are recorded in the company's own share register rather than at SUNARP, so current ownership is not always public. Since Legislative Decree 1372 of 2018, companies must declare their beneficial owners to SUNAT, but that information is not publicly accessible. SUNARP also keeps the property and vehicle registries, and court files can be consulted through the Judiciary's online services.",
+  "anti_corruption": "Bribery of domestic and foreign public officials is criminalised in the Criminal Code. Law 30424 establishes the liability of legal entities for transnational bribery, corruption of officials, money laundering and terrorist financing, and Law 31740 extended it and strengthened prevention models, with regulations updated in 2025. The Superintendency of Securities Markets (SMV) issues technical reports on prevention models at prosecutors' request. Money laundering is addressed by Legislative Decree 1106, and the Financial Intelligence Unit sits within the banking regulator, the SBS. Prosecutions are led by the Public Ministry.",
+  "matters": [
+    {
+      "title": "Mining partner and supply chain diligence",
+      "text": "Background and integrity reviews of mining contractors, joint venture partners, intermediaries and gold suppliers, with attention to links with informal or illegal mining, community relations, environmental enforcement and the provenance questions that refiners and buyers increasingly need to document."
+    },
+    {
+      "title": "Infrastructure and public contract integrity",
+      "text": "Research on counterparties in concessions, public works and state procurement, including prior contracts, litigation, sanctions and connections to persons named in corruption proceedings, given the legacy of the Lava Jato investigations and the use of arbitration in state contract disputes."
+    },
+    {
+      "title": "Prevention model and internal investigations",
+      "text": "Fact-finding where an internal report suggests bribery, money laundering or another offence that could expose the company under Law 30424, coordinated with Peruvian counsel so that findings support the prevention model and any later SMV technical review."
+    },
+    {
+      "title": "Asset tracing and enforcement support",
+      "text": "Locating real estate, vehicles and corporate interests through SUNARP registries, court records and other lawful sources to support enforcement of judgments, Lima Chamber of Commerce or other arbitral awards, and insolvency proceedings before INDECOPI, Peru's insolvency authority."
+    },
+    {
+      "title": "Agribusiness and fisheries counterparties",
+      "text": "Due diligence on exporters, processors, growers and fishing companies, covering corporate history, related parties, litigation, labour and environmental sanctions and reputation, where family-controlled groups and unregistered share transfers can obscure who ultimately controls a business."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Spanish; Quechua and Aymara are also official where predominant"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Lima, UTC-5, no daylight saving"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; some offices open Saturday mornings"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Lima and Callao, Arequipa, Trujillo, Piura, Cusco"
+    },
+    {
+      "label": "Company identifiers",
+      "value": "11-digit RUC tax number issued by SUNAT"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Notarised public deeds required for most corporate acts registered at SUNARP"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-driven and hierarchical; decisions often rest with senior family members or executives"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Peruvian engagements from Nashville, starting with the client's objective, the legal setting and whether Peruvian counsel is already instructed. Records research relies on lawful public sources: SUNARP registry extracts, SUNAT taxpayer data published for each RUC, court records, procurement and sanctions listings, and Spanish-language media. Because beneficial ownership declarations to SUNAT are not public and share registers are kept privately, ownership conclusions are stated with their evidential basis and limits. Where local inquiries or site visits are needed, TDSC coordinates qualified Peruvian professionals and works under the direction of counsel. Personal data is handled on a documented lawful basis, with transfers out of Peru planned around Law 29733 and its 2024 Regulation.",
+  "faqs": [
+    {
+      "q": "What changed in Peruvian data protection in 2025?",
+      "a": "Supreme Decree 016-2024-JUS replaced the 2013 Regulation of Law 29733 with effect from 30 March 2025. It introduced a data protection officer requirement phased in by company size, mandatory notification of significant security incidents within 48 hours and more detailed transfer rules. Investigations that collect or export personal data about people in Peru must account for these obligations and for database registration."
+    },
+    {
+      "q": "Can the shareholders of a Peruvian company be identified from SUNARP?",
+      "a": "Not always. SUNARP records incorporation deeds, by-laws and appointments of directors and managers, so founders and officers are usually visible. Later share transfers in a sociedad anónima are normally recorded only in the company's private share register, and beneficial ownership declarations made to SUNAT are not public. Ownership is often reconstructed from deeds, filings, litigation and media."
+    },
+    {
+      "q": "Are private investigators licensed in Peru?",
+      "a": "We have not identified a specific licensing regime. SUCAMEC authorises private security companies under Legislative Decree 1213, but investigation is not among the listed service modalities. TDSC does not claim licensure in Peru, does not access restricted databases and works through qualified Peruvian professionals and counsel where local inquiries are required."
+    },
+    {
+      "q": "Why is gold supply chain diligence a recurring Peru matter?",
+      "a": "Peru is a major gold producer, and informal and illegal mining remains a significant concern in several regions. Refiners, traders and buyers increasingly need to document where gold originates and who they are dealing with. TDSC researches suppliers, exporters and intermediaries through registries, court and enforcement records and media to support provenance and know-your-counterparty decisions."
+    },
+    {
+      "q": "How does Law 30424 affect companies doing business in Peru?",
+      "a": "Law 30424 makes legal entities liable for bribery, money laundering and related offences committed for their benefit, and Law 31740 broadened its reach. An adequate prevention model can mitigate or exclude liability, and the SMV may assess that model at a prosecutor's request. When allegations arise, timely fact-finding under counsel's direction helps a company understand its position."
+    }
+  ],
+  "sources": [
+    {
+      "title": "World Bank: Population, total, Peru",
+      "url": "https://api.worldbank.org/v2/country/PE/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Peru",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=PE"
+    },
+    {
+      "title": "Supreme Decree 005-2023-IN, Regulation of Legislative Decree 1213 on private security services",
+      "url": "https://img.lpderecho.pe/wp-content/uploads/2023/05/Decreto-Supremo-005-2023-IN-LPDerecho.pdf"
+    },
+    {
+      "title": "SUNAT: Frequently asked questions on beneficial ownership",
+      "url": "https://orientacion.sunat.gob.pe/node/189"
+    },
+    {
+      "title": "La Cámara (Lima Chamber of Commerce): New rules for companies under the administrative liability law",
+      "url": "https://lacamara.pe/nuevas-reglas-para-empresas-en-la-ley-de-responsabilidad-administrativa/?print=pdf"
+    },
+    {
+      "title": "SUCAMEC news (gob.pe)",
+      "url": "https://www.gob.pe/institucion/sucamec/noticias?sheet=6"
+    },
+    {
+      "title": "Garrigues: Peru sets new beneficial ownership identification obligations before SUNAT",
+      "url": "https://www.garrigues.com/es_ES/noticia/peru-fija-nuevas-obligaciones-de-identificacion-de-beneficiarios-finales-ante-sunat"
+    }
+  ],
+  "review_flags": [
+    "No dedicated PI licensing regime identified; DS 005-2023-IN private security modalities exclude investigation. Confirm with Peruvian counsel whether any SUCAMEC authorisation could apply to local field work.",
+    "DPO obligations under DS 016-2024-JUS are phased in from 30 Nov 2025 (large companies) to 30 Nov 2028 (micro companies).",
+    "Law 30424 year (2016), Law 31740 (2023), Legislative Decree 1106 (AML), UIF-Peru within SBS, Legislative Decree 1071 (arbitration), Lima commercial sub-speciality, INDECOPI insolvency role, Law 26887 and SUNARP share-register point are from general knowledge and were not opened during this research."
+  ],
+  "researched": "2026-11-04"
+}

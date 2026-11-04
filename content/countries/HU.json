@@ -1,0 +1,141 @@
+{
+  "cc": "HU",
+  "name": "Hungary",
+  "meta_description": "TDSC investigative consulting on Hungary: due diligence, asset tracing and dispute support using company register data, GDPR rules and the Info Act.",
+  "eyebrow": "Hungary",
+  "hero_lede": "Investigative consulting for matters touching Hungary uses an accessible company register and a tax authority beneficial ownership register, works within the GDPR and Act CXII of 2011, and relies on police-licensed Hungarian investigators for any work carried out in the country.",
+  "intro": [
+    "Hungary is an EU member with a civil law system and an extensive body of numbered statutes. Companies are registered with the courts of registration, and company data is searchable online. Personal data processing is governed by the GDPR and Act CXII of 2011 on the Right of Informational Self-Determination and on Freedom of Information, supervised by the Hungarian National Authority for Data Protection and Freedom of Information. Private investigation is a licensed activity under Act CXXXIII of 2005, with licences issued by the police. The anti-corruption framework has been changing: an Integrity Authority was created in 2022, and in June 2026 Parliament expanded its powers as part of reforms linked to access to EU funds.",
+    "Organisations commission work involving Hungary because of its significant manufacturing base, particularly automotive and battery production, and its position in central European logistics and energy networks. German, Asian and US investors run large plants and shared services centres, and EU-funded projects and public procurement are major parts of the economy. Common exposures include supplier and procurement fraud, conflicts of interest involving politically connected businesses, opaque ownership through foundations and private investment funds, misuse of EU subsidies, and asset recovery against Hungarian companies and individuals. Lenders and arbitration claimants also need reliable information before acting."
+  ],
+  "population": {
+    "value": "9.51 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/HU/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Hungary has a civil law system. Private law is codified in the Civil Code (Act V of 2013), and civil procedure in Act CXXX of 2016. Commercial disputes are heard by district courts or regional courts (törvényszék) at first instance depending on value and subject, with appeals to the regional courts of appeal (ítélőtábla) and review by the Kúria, the supreme court. The Metropolitan Regional Court in Budapest handles many significant commercial cases. Institutional arbitration is offered by the Commercial Arbitration Court of Hungary in Budapest.",
+  "data_protection": {
+    "law": "General Data Protection Regulation (EU) 2016/679 and Act CXII of 2011 on the Right of Informational Self-Determination and on Freedom of Information",
+    "regulator": "Hungarian National Authority for Data Protection and Freedom of Information (Nemzeti Adatvédelmi és Információszabadság Hatóság, NAIH)",
+    "summary": "Act CXII of 2011 was amended to align it with the GDPR, and sectoral laws were amended by April 2019. Investigative processing needs a GDPR lawful basis, usually legitimate interests or legal claims, with a documented balancing test. Employee monitoring is also governed by Hungarian employment law, and investigations into staff should be planned with Hungarian counsel and notice requirements in mind. Breaches of national rules on employee data can attract the higher tier of GDPR fines. Transfers of findings outside the EEA follow GDPR Chapter V through adequacy decisions, standard contractual clauses or narrow derogations."
+  },
+  "investigator_regulation": "Private investigation is regulated by Act CXXXIII of 2005 on personal and property protection and private investigation activities, with Ministry of Interior Decree 22/2006 and Government Decree 487/2017. Individuals must obtain a licence from the police, applying to the city or district police headquarters for their residence, and licences are valid for five years. Applicants need a recognised professional qualification and at least secondary education, and the police check background and suitability. Licensed investigators remain bound by data protection, criminal and privacy law, so covert recording and access to non-public records are not permitted. Foreign firms rely on licensed Hungarian professionals.",
+  "corporate_records": "Hungarian companies are registered by the courts of registration, and the company register can be searched online through the Ministry of Justice company information service, with basic data on registered officers, members of limited liability companies, registered capital and changes available. Annual financial statements are filed electronically and are publicly accessible. A central register of ultimate beneficial owners, maintained by the National Tax and Customs Administration (NAV) under Act XLIII of 2021, opened to fee-based public queries; commentary after the 2022 EU Court of Justice ruling reported that Hungary had not then closed public access. Land is recorded in the land registry run by government offices.",
+  "anti_corruption": "Bribery offences are in Chapter XXVII of the Criminal Code (Act C of 2012), covering active and passive corruption in the private sector and of public officials, including foreign officials, and abuse of function. Act CIV of 2001 allows sanctions against legal entities. Anti-money laundering obligations follow Act LIII of 2017. The Integrity Authority, created in 2022, monitors the use of EU funds; legislation adopted in June 2026 expanded its powers over asset declarations and public procurement. Prosecution is handled by the Prosecution Service.",
+  "matters": [
+    {
+      "title": "Manufacturing supply chain diligence",
+      "text": "Background research on Hungarian suppliers, contractors and distributors serving automotive, battery and industrial plants, including company register data, filed accounts, litigation and insolvency history, and relationships between suppliers and plant personnel. Findings support supplier onboarding decisions."
+    },
+    {
+      "title": "Procurement and EU funds integrity",
+      "text": "Review of counterparties in publicly funded or EU co-financed projects, examining ownership, political exposure and procurement history through company records and public sources, in an environment where transparency rules for public funds were tightened in 2026."
+    },
+    {
+      "title": "Ownership behind foundations and funds",
+      "text": "Mapping ownership and control where Hungarian assets sit behind foundations, private investment funds or layered holding companies, using register records, financial statements and media reporting, and identifying where beneficial ownership disclosure is incomplete or restricted."
+    },
+    {
+      "title": "Asset tracing and enforcement support",
+      "text": "Identification of company interests, real estate and directorships held in Hungary by a debtor or defendant, supporting enforcement, insolvency and arbitration award recovery strategies developed with Hungarian counsel. Results are documented with source references for court use."
+    },
+    {
+      "title": "Internal investigations at subsidiaries",
+      "text": "Scoping of investigations into fraud, kickbacks or conflicts of interest at Hungarian subsidiaries and shared services centres, coordinated with Hungarian employment and data protection counsel, and with licensed local investigators where field enquiries are needed."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Hungarian; English and German common in international business"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Budapest (UTC+1, UTC+2 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Courts language",
+      "value": "Hungarian; foreign documents require certified translation"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Budapest, Debrecen, Győr, Kecskemét, Szeged"
+    },
+    {
+      "label": "Name order",
+      "value": "Family name precedes given name in Hungarian usage, which matters for record matching"
+    },
+    {
+      "label": "Business culture",
+      "value": "Formal titles and hierarchy; personal networks are important"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Hungarian matters from Nashville, starting with the decision the client must make and the forum in which findings may be used. We review the current legal position with Hungarian counsel, given the pace of legislative change on transparency and anti-corruption since 2026. Research relies on company register data, filed financial statements, court and insolvency information, land records where lawfully obtainable, and Hungarian-language media, with careful attention to name order and transliteration. Beneficial ownership information is accessed only through channels open to the client. Any work inside Hungary is carried out by police-licensed Hungarian investigators under written instructions. Personal data is minimised and transferred under GDPR Chapter V safeguards.",
+  "faqs": [
+    {
+      "q": "Do private investigators need a licence in Hungary?",
+      "a": "Yes. Under Act CXXXIII of 2005, private investigation requires a licence issued by the police, valid for five years. Applicants must hold a recognised professional qualification and at least secondary education and pass background checks. TDSC does not conduct investigative activity in Hungary itself and coordinates licensed Hungarian professionals where local work is needed."
+    },
+    {
+      "q": "Is Hungarian beneficial ownership information publicly available?",
+      "a": "Hungary's beneficial ownership register is maintained by the National Tax and Customs Administration under Act XLIII of 2021 and was opened to fee-based public queries. After the 2022 EU Court of Justice ruling on public access, commentary reported that Hungary had not closed access, but the position may change with EU anti-money laundering reforms. TDSC verifies current access before relying on it."
+    },
+    {
+      "q": "What is the Integrity Authority?",
+      "a": "The Integrity Authority was established in 2022 to strengthen oversight of the use of EU funds. In June 2026 Parliament expanded its powers, including verification of officials' asset declarations and the ability to suspend public procurement where EU funds are at risk. Its activity is relevant to due diligence on counterparties in publicly funded projects."
+    },
+    {
+      "q": "Which data protection rules apply to investigations in Hungary?",
+      "a": "The GDPR applies directly, alongside Act CXII of 2011 on informational self-determination and freedom of information, supervised by the NAIH. Investigations require a lawful basis and proportionate scope, and employee monitoring must also satisfy Hungarian employment law. Findings sent to the United States are transferred using GDPR Chapter V mechanisms."
+    },
+    {
+      "q": "Can Hungarian companies' financial statements be obtained?",
+      "a": "Annual financial statements of Hungarian companies are filed electronically and are generally publicly accessible, as is basic company register information on officers, members and capital. These records are often the starting point for assessing a counterparty's scale, related parties and solvency, supplemented by court and insolvency information."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Hungary",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=HU"
+    },
+    {
+      "title": "World Bank: Population, total (Hungary)",
+      "url": "https://api.worldbank.org/v2/country/HU/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "Hungarian Police: Licensing procedure for private security and private investigation (RI-0200, 2020)",
+      "url": "https://www.police.hu/sites/default/files/2020-03/EN_RI-0200_v3.0_2020_04_03.pdf"
+    },
+    {
+      "title": "Nemzeti Jogszabálytár: Act CXXXIII of 2005",
+      "url": "https://njt.jog.gov.hu/jogszabaly/2005-133-00-00"
+    },
+    {
+      "title": "CEE Legal Matters: End of UBO Publicity in Hungary?",
+      "url": "https://ceelegalmatters.com/nagy-es-trocsanyi/22283-end-of-ubo-publicity-in-hungary"
+    },
+    {
+      "title": "Lex Mundi Global Anti-Corruption Compliance Guide: Hungary",
+      "url": "https://www.lexmundi.com/guides/anti-corruption-compliance-guide/jurisdictions/europe/hungary/"
+    },
+    {
+      "title": "Anti-Corruption Portal: Hungary adopts anti-corruption measures (25 June 2026)",
+      "url": "https://anticor.world/main/news_page/hungary_adopts_anticorruption_25_06_2026"
+    },
+    {
+      "title": "Schoenherr: Hungary's new Integrity Authority",
+      "url": "https://schoenherr.eu/content/hungary-s-new-integrity-authority-what-is-it-and-how-could-it-benefit-foreign-investors"
+    }
+  ],
+  "review_flags": [
+    "UBO register public access: the cited commentary (circa 2023) said access remained open after the CJEU 2022 ruling; current status as of 2026 not verified and may have changed with AMLD6 transposition.",
+    "June 2026 reform package (Bill T/174) under the new government is recent; details taken from a secondary news source.",
+    "Act LIII of 2017 (AML), Civil Code Act V of 2013, Civil Procedure Act CXXX of 2016, court structure, Commercial Arbitration Court of Hungary, online company register and public financial statements stated from general knowledge, not from an opened source.",
+    "Police licensing source is the 2020 version of the procedure page; confirm current fees and requirements."
+  ],
+  "researched": "2026-11-04"
+}

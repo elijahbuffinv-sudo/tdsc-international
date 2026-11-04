@@ -1,0 +1,146 @@
+{
+  "cc": "BS",
+  "name": "The Bahamas",
+  "meta_description": "TDSC investigative consulting on The Bahamas: due diligence on IBCs and principals, asset tracing, offshore structure research and litigation support.",
+  "eyebrow": "Commonwealth of The Bahamas",
+  "hero_lede": "Matters touching The Bahamas often turn on structures rather than storefronts: an international business company, a trust or fund administered in Nassau, or a resort or real estate counterparty. TDSC scopes this research from Nashville and coordinates qualified Bahamian professionals and counsel where local work is required.",
+  "intro": [
+    "The Bahamas is an English-speaking parliamentary democracy with a common-law legal system and an economy in which, according to the US State Department's 2025 Investment Climate Statement, tourism and financial services together account for roughly 85 percent of GDP. Public records are more limited than many outside observers expect. Beneficial ownership information is filed with the Registrar General and held in a secure search system rather than published, land title can be difficult to establish, and freedom of information legislation passed in 2017 remains only partly implemented. Investigative work therefore combines locally conducted registry and court searches, published judgments and regulatory notices, and careful inquiry.",
+    "Organisations commission work involving The Bahamas mainly because of its role as an international financial centre and a destination for foreign investment in hotels, resorts, marinas and second homes. Typical needs include verifying the principals behind international business companies and funds before a transaction, tracing assets in fraud, insolvency or matrimonial matters where Bahamian entities or accounts appear in the chain, reviewing developers and contractors on Family Island projects, and supporting litigation before the Supreme Court in Nassau. Wealth managers and lenders also seek research on politically exposed persons and fintech counterparties."
+  ],
+  "population": {
+    "value": "403,033",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/BS/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "The Bahamas has a common-law system derived from English law. Civil and commercial disputes are heard by the Magistrates' Courts and the Supreme Court, with appeals to the Court of Appeal and final appeal to the Judicial Committee of the Privy Council. The Court Services Act, in force from July 2024, gave the judiciary greater administrative autonomy; as of 2025 a dedicated commercial court was under consideration but not established. The Arbitration Act 2009, amended in 2023 to align more closely with the UNCITRAL Model Law, governs arbitration.",
+  "data_protection": {
+    "law": "Data Protection (Privacy of Personal Information) Act; Data Protection Bill, 2025 laid before Parliament in October 2025",
+    "regulator": "Office of the Data Protection Commissioner",
+    "summary": "The current Act requires data controllers established in The Bahamas, or using equipment there, to collect personal data fairly and lawfully, keep it accurate and limited to a specified purpose, retain it no longer than necessary and secure it. It contains no breach notification obligation. Under section 17 the Commissioner may prohibit transfers outside The Bahamas to recipients that do not provide equivalent protection. Sensitive data, including criminal history and health, is defined but receives no special treatment under the current Act. A replacement Data Protection Bill, 2025 went to public consultation in August 2025 and was laid before the House in October 2025; investigative work should be scoped against whichever regime is in force at the time."
+  },
+  "investigator_regulation": "Private investigators, referred to in Bahamian law as inquiry agents, are regulated together with security guards under the Inquiry Agents and Security Guards Act and its regulations, administered through the Ministry of National Security. Companies and individuals are licensed separately. Licensed inquiry agents have no special powers: police, immigration, tax and banking records are not available to private parties, and Bahamian banking and trust confidentiality is strictly applied. Surveillance, recording and approaches to witnesses are planned with Bahamian counsel before any field work begins.",
+  "corporate_records": "Companies, including international business companies, are registered with the Registrar General's Department, which also records mortgages and certain property rights. Basic entity details and filed documents can be searched through local agents, but registers of members and directors of many offshore entities are kept by registered agents rather than published. Under the Register of Beneficial Ownership Act 2018, beneficial ownership information is held in a secure search system accessible to the Attorney General and competent authorities, not to the public. Land registration is largely paper-based and, according to the US State Department, obtaining clear title is often slow.",
+  "anti_corruption": "Bribery of public officials is a criminal offence carrying fines and imprisonment, although enforcement is described by the US State Department as inconsistent. The anti-money laundering framework rests on the Proceeds of Crime Act 2018, the Financial Transactions Reporting Act 2018 and the Financial Intelligence Unit Act 2000, with the Financial Intelligence Unit receiving suspicious transaction reports. The Public Procurement Act 2023 governs government purchasing. As of 2025 an Independent Commission of Investigations Bill had passed the House of Assembly, while Integrity Commission legislation remained pending.",
+  "matters": [
+    {
+      "title": "Offshore structure and principal research",
+      "text": "Identifying the people behind international business companies, funds and trusts administered in Nassau before an investment, loan or settlement, using public filings, litigation history, regulatory notices and lawful open-source research, and recognising where beneficial ownership information is held only by registered agents or the authorities."
+    },
+    {
+      "title": "Asset tracing through Bahamian entities",
+      "text": "Following assets that pass through Bahamian companies, trusts, vessels or property in fraud, insolvency and family disputes, and preparing evidence that Bahamian counsel can use to seek disclosure or freezing orders from the Supreme Court rather than attempting to obtain confidential banking information directly."
+    },
+    {
+      "title": "Resort and real estate counterparties",
+      "text": "Background research on developers, contractors and local partners in hotel, marina and residential projects on New Providence, Grand Bahama and the Family Islands, including track record, disputes, prior project performance and reputation, taking account of slow land title processes and sectors reserved for Bahamian investors."
+    },
+    {
+      "title": "Financial services due diligence",
+      "text": "Reputational and integrity checks on wealth managers, fund administrators, corporate service providers and digital-asset businesses, with attention to regulatory history, litigation, adverse media and politically exposed connections in a small jurisdiction where professional networks overlap closely."
+    },
+    {
+      "title": "Witness location and litigation support",
+      "text": "Locating witnesses and former employees, assembling chronologies and public-record findings for proceedings in Nassau or abroad, and coordinating appropriately licensed Bahamian professionals for any local inquiries, with counsel directing approaches so that evidence remains usable."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "English"
+    },
+    {
+      "label": "Currency",
+      "value": "Bahamian dollar, pegged 1:1 to the US dollar"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Nassau, UTC-5 (UTC-4 in daylight saving time)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Nassau (New Providence) and Freeport (Grand Bahama)"
+    },
+    {
+      "label": "Courts language",
+      "value": "English"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-based and discreet; introductions through counsel or established firms carry weight"
+    },
+    {
+      "label": "Land ownership note",
+      "value": "Non-Bahamians need government approval to hold more than one acre"
+    }
+  ],
+  "tdsc_approach": "TDSC begins every Bahamian matter with a jurisdictional review: what the client needs to know, what lawful sources exist, and which information is held only by registered agents, banks or the authorities. Much of the work can be done from Nashville through published judgments, regulatory notices, international corporate filings and media archives. Where registry searches, court file reviews or local inquiries are needed, TDSC coordinates licensed Bahamian inquiry agents or other qualified professionals and works alongside the client's Bahamian counsel, who decides whether disclosure or freezing applications are appropriate. TDSC does not attempt to obtain confidential banking, trust or beneficial ownership information outside lawful processes. Personal data is minimised, transferred securely and handled with regard to the Bahamian data protection regime then in force.",
+  "faqs": [
+    {
+      "q": "Can TDSC find out who owns a Bahamian international business company?",
+      "a": "Sometimes, but not from a public register. Beneficial ownership information is filed with the Registrar General and held in a secure search system available to the Attorney General and competent authorities. TDSC works from lawful sources such as litigation records and foreign filings, and where formal disclosure is needed, Bahamian counsel can advise on court applications."
+    },
+    {
+      "q": "Are private investigators licensed in The Bahamas?",
+      "a": "Yes. Inquiry agents and security guards are regulated under the Inquiry Agents and Security Guards Act, with licensing through the Ministry of National Security. TDSC does not hold a Bahamian licence and does not conduct field work there itself; where local inquiries are needed, it coordinates appropriately licensed Bahamian professionals and works with counsel on scope and method."
+    },
+    {
+      "q": "Can you obtain bank records for an account in Nassau?",
+      "a": "No. Bahamian banking confidentiality is strictly applied, and TDSC does not seek bank records outside lawful process. What TDSC can do is assemble the factual groundwork, such as payment trails, related entities and counterparties, that allows Bahamian or foreign counsel to seek disclosure, freezing or recognition orders through the courts."
+    },
+    {
+      "q": "How does Bahamian data protection law affect an investigation?",
+      "a": "The current Data Protection (Privacy of Personal Information) Act requires fair and lawful collection, purpose limitation and security, and allows the Commissioner to prohibit transfers to places without equivalent protection. A new Data Protection Bill, 2025 was laid before Parliament in October 2025. TDSC scopes each engagement against the regime in force and minimises personal data."
+    },
+    {
+      "q": "Is title to Bahamian property easy to verify?",
+      "a": "Not always. Registration is largely paper-based, a promised digital land registry was not operational as of 2025, and investors report delays in obtaining clear title. Searches are carried out through Bahamian attorneys, and TDSC can complement them with research on sellers, developers and prior disputes connected to the property."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Bahamas",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=BS"
+    },
+    {
+      "title": "Office of the Data Protection Commissioner, The Bahamas",
+      "url": "https://www.dataprotection.gov.bs/"
+    },
+    {
+      "title": "US Department of State, 2025 Investment Climate Statements: The Bahamas",
+      "url": "https://www.state.gov/reports/2025-investment-climate-statements/the-bahamas"
+    },
+    {
+      "title": "Central Bank of The Bahamas, Overview of AML/CFT/CPF legislation",
+      "url": "https://centralbankbahamas.com/news/public-notices/overview-of-anti-money-laundering-aml-countering-financing-of-terrorism-cft-countering-proliferation-financing-cpf-legislation"
+    },
+    {
+      "title": "Trident Trust, Beneficial ownership reporting requirements in the Bahamas",
+      "url": "https://tridenttrust.com/knowledge/news/beneficial-ownership-reporting-requirements-in-the-bahamas"
+    },
+    {
+      "title": "The Tribune, Private security firms told to professionalise (November 2024)",
+      "url": "https://tribune242.com/news/2024/nov/25/private-security-firms-told-to-professionalise"
+    },
+    {
+      "title": "The Tribune, Integrity Commission Bill still needed in corruption fight (January 2025)",
+      "url": "https://tribune242.com/news/2025/jan/31/integrity-commission-bill-still-needed-in-corruption-fight-says-org-chief"
+    },
+    {
+      "title": "World Bank, Population total: Bahamas",
+      "url": "https://api.worldbank.org/v2/country/BS/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    }
+  ],
+  "review_flags": [
+    "Data Protection Bill, 2025 was laid before the House in October 2025; check whether it has been enacted and replaces the current Act before publishing.",
+    "Year of the current Data Protection (Privacy of Personal Information) Act not stated in sources opened, so omitted.",
+    "Inquiry Agents and Security Guards Act: licensing authority for inquiry agents inferred from a news report on the Ministry of National Security; confirm with Bahamian counsel.",
+    "Independent Commission of Investigations Bill passed the House in February 2025 and Integrity Commission legislation was pending; status may have changed.",
+    "Named bribery statute (Prevention of Bribery Act) not verified, so described generically."
+  ],
+  "researched": "2026-11-04"
+}

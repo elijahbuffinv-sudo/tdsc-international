@@ -1,0 +1,149 @@
+{
+  "cc": "KE",
+  "name": "Kenya",
+  "meta_description": "TDSC investigative consulting on Kenya: counterparty, procurement and land due diligence, fraud inquiries and asset tracing under Kenya's Data Protection Act.",
+  "eyebrow": "Republic of Kenya",
+  "hero_lede": "Investigative consulting on Kenyan matters means testing counterparties and ownership where the beneficial ownership register is closed to the public, working within the Data Protection Act 2019 and its transfer rules, and understanding how procurement, land and regional trade disputes surface in Kenyan courts.",
+  "intro": [
+    "Kenya is a common law jurisdiction with a 2010 Constitution that entrenches a right to privacy and a developed, frequently reported court system. The Business Registration Service administers company records, a movable collateral registry and insolvency functions, but beneficial ownership information filed under the Companies Act 2015 is available only to designated authorities and is not published. The Data Protection Act 2019 and its 2021 regulations impose registration, transfer and, for some state-related processing, in-country requirements. Corruption is pursued through a dedicated commission and a Bribery Act that makes companies liable for failing to prevent bribery, which shapes how Kenyan and foreign companies approach third-party risk.",
+    "Organisations commission work involving Kenya because of its role as East Africa's commercial, financial and logistics hub. Nairobi hosts regional headquarters, development agencies and a large technology and mobile money sector, while Mombasa anchors trade into Uganda, Rwanda, South Sudan and the eastern Democratic Republic of the Congo. Typical exposures include public procurement and county-level contracting, land title disputes, agricultural exports such as tea, coffee and horticulture, energy and infrastructure projects, and fraud in financial services and digital lending. Lenders, investors and law firms also need asset and litigation research to support recovery or enforcement involving Kenyan parties."
+  ],
+  "population": {
+    "value": "57.5 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/KE/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Kenya has a common law system derived from English law, subject to the 2010 Constitution, statute and, in personal matters, customary and Islamic law within constitutional limits. The court hierarchy runs from magistrates' courts to the High Court, the Court of Appeal and the Supreme Court. Commercial disputes in Nairobi are commonly heard by the Commercial and Tax Division of the High Court, and land disputes go to the Environment and Land Court. Arbitration is supported by the Nairobi Centre for International Arbitration, established by statute in 2013.",
+  "data_protection": {
+    "law": "Data Protection Act, 2019, with the Data Protection (General) Regulations, 2021 and Registration Regulations, 2021",
+    "regulator": "Office of the Data Protection Commissioner (ODPC)",
+    "summary": "The Act gives effect to the constitutional right to privacy and requires a lawful basis and transparency for processing. Data controllers and processors must register with the ODPC unless exempt by size, and registration is required regardless of size in sectors such as financial services, health and education. Cross-border transfers require appropriate safeguards, an adequacy decision, necessity or informed consent, documented for the regulator, and sensitive data needs the data subject's consent. The General Regulations require processing for strategic interests of the state to take place in Kenya. Investigative work involving Kenyan personal data must therefore be scoped for lawful basis, transfer route and retention."
+  },
+  "investigator_regulation": "The Private Security Regulation Act, 2016 defines private security services to include private investigations and consultancy, and providers must register with the Private Security Regulatory Authority, with offences and fines for operating unregistered. Training and certification requirements apply to security personnel, though how they apply to investigators specifically is less clearly documented. Investigators have no special powers of search, interception or access to restricted records, and their work is bounded by the constitutional right to privacy and the Data Protection Act. Engagements requiring local fieldwork are coordinated with registered Kenyan providers and counsel.",
+  "corporate_records": "The Business Registration Service (BRS) maintains the Companies Registry, the movable property e-Collateral Registry, the Hire Purchase Registry and the Official Receiver's insolvency records, with searches made through its online services. Company searches typically show directors, shareholders, registered office and share capital. Companies must keep a beneficial ownership register and file it with the Registrar under section 93A of the Companies Act 2015 and regulations of 2020, as amended in 2022 and 2023, but the information is disclosed only to listed authorities and may not be published. Judgments are widely published through Kenya Law.",
+  "anti_corruption": "The Anti-Corruption and Economic Crimes Act, 2003 addresses offences by public officers, including secret inducements, undisclosed conflicts and bid rigging. The Bribery Act, 2016 covers active and passive bribery in public and private sectors and makes private entities liable for failing to prevent bribery. Money laundering is governed by the Proceeds of Crime and Anti-Money Laundering Act, 2009. Enforcement involves the Ethics and Anti-Corruption Commission, the Office of the Director of Public Prosecutions, the Financial Reporting Centre and the Assets Recovery Agency.",
+  "matters": [
+    {
+      "title": "Public procurement and tender integrity",
+      "text": "Due diligence on contractors and suppliers bidding for national or county government contracts, testing registered ownership, director links to public officers, tender litigation and EACC matters, and the gap between registry shareholders and undisclosed beneficial owners that procurement authorities may hold but the public cannot see."
+    },
+    {
+      "title": "Land title and property verification",
+      "text": "Research supporting acquisitions, lending and disputes over land in Nairobi, its satellite towns and coastal areas, where competing titles, fraudulent transfers and Environment and Land Court proceedings are common, coordinated with Kenyan advocates and licensed surveyors for official searches."
+    },
+    {
+      "title": "Fintech and digital lending fraud",
+      "text": "Investigation of fraud, mule account networks and misconduct affecting mobile money, digital lenders and payment platforms, including corporate links between operators, prior regulatory or court action, and the data protection constraints that govern handling of customer records collected in Kenya."
+    },
+    {
+      "title": "Regional trade counterparties",
+      "text": "Background checks on importers, clearing and forwarding agents, transporters and commodity traders operating through Mombasa and the Northern Corridor to Uganda, Rwanda, South Sudan and the eastern DRC, where diversion, misdeclaration and sanctions exposure in onward markets can arise."
+    },
+    {
+      "title": "Asset tracing and enforcement",
+      "text": "Lawful identification of company interests, directorships, litigation and published judgments connected to Kenyan debtors, to inform enforcement of foreign judgments or arbitral awards, insolvency claims through the Official Receiver, and recovery strategy developed with Kenyan counsel."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "English and Kiswahili (both official)"
+    },
+    {
+      "label": "Time zone",
+      "value": "Africa/Nairobi, UTC+3 (no daylight saving)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Courts language",
+      "value": "English"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Nairobi, Mombasa, Kisumu, Nakuru, Eldoret"
+    },
+    {
+      "label": "Currency",
+      "value": "Kenya shilling (KES)"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Foreign documents generally need notarisation and authentication for court or registry use; advocates handle filings"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-driven; introductions and in-person meetings carry weight, particularly with public bodies"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes each Kenyan engagement from Nashville, starting with a jurisdictional review of what the client needs to know and which lawful sources can answer it. Because beneficial ownership filings are closed to the public, we work from BRS company records, published judgments, gazette notices, media and other lawful sources, and state clearly where ownership cannot be confirmed. Where official land searches, court file inspection or field enquiries are needed, we coordinate Kenyan advocates and providers registered with the Private Security Regulatory Authority. Personal data is handled on a documented lawful basis under the Data Protection Act 2019, with transfers out of Kenya made only on a permitted ground and retention limited to the matter.",
+  "faqs": [
+    {
+      "q": "Can the beneficial owners of a Kenyan company be identified from public records?",
+      "a": "Not directly. Companies file beneficial ownership information with the Registrar under the Companies Act 2015, but amended regulations restrict disclosure to competent authorities, regulators and agencies such as the Financial Reporting Centre and prohibit general publication. We work from company search results, litigation, gazette notices and other lawful sources, and report ownership conclusions with stated confidence levels."
+    },
+    {
+      "q": "Do investigators in Kenya need to be registered?",
+      "a": "Yes. The Private Security Regulation Act 2016 defines private security services to include private investigations and consultancy, and providers must register with the Private Security Regulatory Authority. TDSC does not hold Kenyan registration; where local fieldwork is required, we coordinate appropriately registered Kenyan providers and work alongside Kenyan advocates."
+    },
+    {
+      "q": "How do Kenya's data transfer rules affect a US-led investigation?",
+      "a": "The Data Protection Act 2019 and General Regulations 2021 permit transfers abroad only with appropriate safeguards, an adequacy decision, necessity or informed consent, and transfers must be documented. Sensitive data requires consent. We plan collection so that only necessary personal data leaves Kenya, record the transfer basis and avoid data covered by in-country processing requirements."
+    },
+    {
+      "q": "How reliable are Kenyan court records for litigation research?",
+      "a": "Kenyan judgments are published extensively through Kenya Law, which makes reported High Court, Court of Appeal and Environment and Land Court decisions searchable. Many interlocutory and lower court matters are not reported, so where a full litigation picture matters, we coordinate Kenyan advocates to inspect court registries and confirm the status of live proceedings."
+    },
+    {
+      "q": "Does the Bribery Act affect foreign companies working with Kenyan partners?",
+      "a": "It can. The Bribery Act 2016 makes private entities liable where bribery occurs and they failed to prevent it, alongside individual offences and a duty to report suspected bribery. Foreign companies with Kenyan operations or agents therefore commission third-party due diligence on distributors, consultants and contractors, focusing on public official connections and prior enforcement."
+    }
+  ],
+  "sources": [
+    {
+      "title": "World Bank, Population total: Kenya",
+      "url": "https://api.worldbank.org/v2/country/KE/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "DLA Piper, Data Protection Laws of the World: Kenya",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=KE"
+    },
+    {
+      "title": "Digital Policy Alert, Data localisation requirement in Data Protection (General) Regulations",
+      "url": "https://digitalpolicyalert.org/change/13685-data-localisation-requirement-in-data-protection-general-regulations"
+    },
+    {
+      "title": "KN Law LLP via HapaKenya, Analysis of the Private Security Regulations",
+      "url": "https://hapakenya.com/2019/08/01/analysis-of-the-private-security-regulations-by-kn-law-llp"
+    },
+    {
+      "title": "Kenya Law, Private Security Regulation Act, 2016",
+      "url": "https://new.kenyalaw.org/akn/ke/act/2016/13/eng@2016-05-27"
+    },
+    {
+      "title": "Business Registration Service",
+      "url": "https://brs.go.ke/"
+    },
+    {
+      "title": "Mondaq, Access to beneficial ownership information in Kenya: private companies",
+      "url": "https://www.mondaq.com/corporate-and-company-law/1429262/access-to-beneficial-ownership-information-in-kenya-private-companies"
+    },
+    {
+      "title": "CMS Expert Guide to Anti-Bribery and Corruption Laws: Kenya",
+      "url": "https://cms.law/en/int/expert-guides/cms-expert-guide-to-anti-bribery-and-corruption-laws/kenya"
+    },
+    {
+      "title": "Ethics and Anti-Corruption Commission, Bribery Act No. 47 of 2016",
+      "url": "https://eacc.go.ke/en/default/wp-content/uploads/2018/07/BriberyAct_47of2016.pdf"
+    }
+  ],
+  "review_flags": [
+    "Data localisation: Digital Policy Alert summary of the General Regulations 2021 strategic-interest rule was truncated; exact scope (servers/data centres in Kenya, which purposes) should be confirmed against the ODPC text.",
+    "PSRA registration requirement for investigators is drawn from a 2019 law-firm analysis; the statute page did not render. Confirm current PSRA categories and any 2025 regulations.",
+    "POCAMLA 2009, ODPP/FRC/ARA roles, Commercial and Tax Division, Environment and Land Court and NCIA (2013) are stated from general knowledge and search result titles rather than opened pages.",
+    "Contents of company searches (directors, shareholders) not confirmed on BRS page; based on general practice."
+  ],
+  "researched": "2026-11-04"
+}

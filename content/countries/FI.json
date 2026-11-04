@@ -1,0 +1,140 @@
+{
+  "cc": "FI",
+  "name": "Finland",
+  "meta_description": "TDSC investigative consulting on Finland: due diligence, asset tracing and dispute support using PRH trade register data, GDPR and Working Life Act rules.",
+  "eyebrow": "Republic of Finland",
+  "hero_lede": "Investigative consulting for matters touching Finland relies on transparent PRH trade register data, works within the GDPR, the Data Protection Act and strict employee privacy rules, and treats beneficial ownership details as non-public information held under statutory access controls.",
+  "intro": [
+    "Finland is a Nordic EU member with a strong tradition of public administration and openness. Company information is kept by the Finnish Patent and Registration Office (PRH) in the Trade Register, and basic company details can be checked free of charge. Personal data processing is governed by the GDPR and the Data Protection Act, in force since 1 January 2019, and is supervised by the Office of the Data Protection Ombudsman. Employee data is subject to the Act on the Protection of Privacy in Working Life (759/2004), which is stricter than the general rules. Finnish personal identity codes may only be processed on grounds specified in law, which shapes how individuals are identified in research.",
+    "Organisations commission work involving Finland because of its role in technology, telecommunications, forestry and pulp, energy, shipbuilding and mining, and its position on the Baltic and at the EU's long eastern border. Since 2022 sanctions compliance and the integrity of trade with neighbouring markets have been recurring concerns, alongside supply chain exposure in Nordic and Baltic networks. Typical needs include partner and acquisition due diligence, verification of individuals for senior appointments, employee misconduct and leak investigations, intellectual property disputes, and tracing assets held through Finnish companies or real estate. Investors also value independent checks before relying on reputation alone."
+  ],
+  "population": {
+    "value": "5.65 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/FI/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Finland has a civil law system in the Nordic legal tradition, relying on statutes and preparatory works rather than comprehensive civil codes. Commercial disputes are heard by the district courts (käräjäoikeus), with appeals to the courts of appeal and, with leave, the Supreme Court. The Market Court hears competition, public procurement and intellectual property cases. Arbitration is common in commercial contracts and is administered principally by the Finland Arbitration Institute (FAI), part of the Finland Chamber of Commerce, under the Arbitration Act (967/1992).",
+  "data_protection": {
+    "law": "General Data Protection Regulation (EU) 2016/679, Data Protection Act (Tietosuojalaki, 2018, in force 1 January 2019) and Act on the Protection of Privacy in Working Life (759/2004)",
+    "regulator": "Office of the Data Protection Ombudsman (Tietosuojavaltuutetun toimisto)",
+    "summary": "Investigative processing needs a GDPR lawful basis, usually legitimate interests or legal claims, with a balancing test and minimisation. Employee data is restricted by the Working Life Act: employers may process only data directly necessary for the employment relationship, and employee consent does not override this, so internal investigations must be scoped carefully. Personal identity codes may be processed only on statutory grounds such as consent or the need to identify a person unambiguously. Finland has not used national leeway for international transfers, so GDPR Chapter V applies as written. A criminal data protection offence also exists."
+  },
+  "investigator_regulation": "Finland does not appear to have a separate licence for private investigators. Official careers guidance states that operating a private investigation business requires a permit and points to the security sector business licence administered through the police. Under the Act on Private Security Services, security businesses must hold a licence issued by the National Police Board, and the earlier 2002 Act defined guarding to include uncovering crimes against a client, with transitional provisions for former private detectives. Finnish law also protects privacy and communications strongly, so surveillance, recording and access to non-public records are tightly limited. TDSC confirms the current position with Finnish counsel.",
+  "corporate_records": "The Finnish Patent and Registration Office (PRH) maintains the Trade Register, and basic company details, officers and registered changes can be checked through its Virre service and the joint YTJ business information system, with basic data available free. Financial statements and articles of association are filed with the PRH. Beneficial owner details are notified to the PRH but, unlike other Trade Register details, are not public; only the fact that a notification has been made can be checked. Obliged entities and authorities use the information under anti-money laundering rules. Real estate is recorded by the National Land Survey of Finland.",
+  "anti_corruption": "Bribery is criminalised in the Criminal Code (39/1889): Chapter 16 covers bribing public officials, including foreign officials, Chapter 30 bribery in business, and Chapter 40 offences in office. Corporate fines can be imposed under Chapter 9. Money laundering offences sit in Chapter 32, and preventive obligations follow the Act on Preventing Money Laundering and Terrorist Financing. Cases are investigated by the police, including the National Bureau of Investigation, and prosecuted by the National Prosecution Authority; the OECD Working Group on Bribery reviews Finland's enforcement.",
+  "matters": [
+    {
+      "title": "Technology and IP disputes",
+      "text": "Support for disputes over trade secrets, software and engineering know-how in Finland's technology and telecommunications sector, including mapping corporate relationships between former employees and competitors through PRH records and lawful open sources, within the limits of the Working Life Act."
+    },
+    {
+      "title": "Sanctions-sensitive trade review",
+      "text": "Due diligence on Finnish counterparties, logistics providers and intermediaries in trade flows near the eastern border and across the Baltic, identifying links to restricted parties through register data, shipping information and media sources, alongside the client's own sanctions screening."
+    },
+    {
+      "title": "Acquisition and partner diligence",
+      "text": "Background research on Finnish targets and their management in forestry, energy, mining and industrial sectors, covering registered officers, filed financial statements, litigation, insolvency history and reputation in Finnish and Swedish-language media. Findings are reported in English with source references."
+    },
+    {
+      "title": "Internal misconduct investigations",
+      "text": "Scoping of investigations into fraud, conflicts of interest or leaks at Finnish operations, where employee data rules are strict. We help clients define what can lawfully be reviewed and coordinate with Finnish employment counsel before any data is examined."
+    },
+    {
+      "title": "Asset tracing in Finland",
+      "text": "Identification of company interests, directorships and real estate connected to a debtor or defendant, using PRH data and land registration information, to support enforcement and recovery strategies with Finnish counsel. Results are documented for use in Finnish proceedings."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Official languages",
+      "value": "Finnish and Swedish; English widely used in business"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Helsinki (UTC+2, UTC+3 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday; long summer holidays in July"
+    },
+    {
+      "label": "Courts language",
+      "value": "Finnish or Swedish; translations required for foreign documents"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Helsinki, Espoo, Tampere, Turku, Oulu"
+    },
+    {
+      "label": "Company identifier",
+      "value": "Business ID (Y-tunnus) used across PRH and tax records"
+    },
+    {
+      "label": "Business culture",
+      "value": "Direct, punctual and trust-based; written agreements valued"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Finnish matters from Nashville, starting with the decision the work must support and whether the subject is a company, an individual or an employee. Employee-related enquiries are planned with Finnish employment counsel because the Working Life Act limits what an employer may process. Research draws on PRH Trade Register data, filed financial statements, court information, land records and Finnish and Swedish-language sources; we do not seek beneficial owner data that is closed to the public. Personal identity codes are not collected without a statutory basis. Where work in Finland requires local presence, we coordinate appropriately licensed Finnish professionals under written instructions. Findings are minimised and transferred under GDPR Chapter V safeguards.",
+  "faqs": [
+    {
+      "q": "Is there a licence for private investigators in Finland?",
+      "a": "We have not identified a stand-alone private investigator licence. Official careers guidance indicates that the business requires a permit and refers to the security sector business licence handled by the police, with licences for security businesses issued by the National Police Board. Because the position is not clearly codified for investigation alone, TDSC confirms it with Finnish counsel."
+    },
+    {
+      "q": "Can we obtain beneficial owner information on a Finnish company?",
+      "a": "Beneficial owner details notified to the PRH are not public, unlike other Trade Register information. Anyone can check free of charge whether a notification has been registered, but the details are available to authorities and obliged entities under anti-money laundering rules. Ownership can sometimes be inferred from filings, group structures and public disclosures of listed companies."
+    },
+    {
+      "q": "How do Finnish employee privacy rules affect internal investigations?",
+      "a": "The Act on the Protection of Privacy in Working Life allows employers to process only data directly necessary for the employment relationship, and consent does not widen that limit. Email monitoring is subject to specific procedures. Investigations at Finnish operations should be planned with local employment counsel before any review of employee communications or records."
+    },
+    {
+      "q": "Can a Finnish personal identity code be used to identify someone?",
+      "a": "Only on grounds set out in the Data Protection Act, such as consent or where processing is necessary to identify a person unambiguously for a statutory task or to exercise rights and obligations. TDSC does not collect personal identity codes without such a basis and relies on names, dates and register references instead."
+    },
+    {
+      "q": "Where are Finnish commercial disputes resolved?",
+      "a": "Most commercial disputes go to the district courts, with appeals to the courts of appeal and, with leave, the Supreme Court. The Market Court handles competition, procurement and intellectual property cases. Many contracts provide for arbitration under the rules of the Finland Arbitration Institute, which makes documentary investigative support particularly relevant."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Finland",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=FI"
+    },
+    {
+      "title": "World Bank: Population, total (Finland)",
+      "url": "https://api.worldbank.org/v2/country/FI/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "Työmarkkinatori: Private investigator (profession information)",
+      "url": "https://tyomarkkinatori.fi/en/personal-customers/professional-information/professions/private-investigator"
+    },
+    {
+      "title": "Finlex: Private Security Services Act (282/2002), unofficial English translation",
+      "url": "https://www.finlex.fi/api/media/statute-foreign-language-translation/217139/mainPdf/main.pdf"
+    },
+    {
+      "title": "Hedengren: Security industry business licence",
+      "url": "https://hedengren.com/security"
+    },
+    {
+      "title": "PRH: Beneficial owners",
+      "url": "https://prh.fi/beneficial_owners"
+    },
+    {
+      "title": "Lex Mundi Global Anti-Corruption Compliance Guide: Finland",
+      "url": "https://www.lexmundi.com/guides/lex-mundi-global-anti-corruption-compliance-guide/jurisdictions/europe/finland/"
+    },
+    {
+      "title": "OECD: Implementing the Anti-Bribery Convention, Phase 4 Report: Finland",
+      "url": "https://www.oecd.org/en/publications/implementing-the-oecd-anti-bribery-convention-phase-4-report-finland_0c57bec5-en"
+    }
+  ],
+  "review_flags": [
+    "Private investigator position is inferred: no stand-alone PI licence identified; careers guidance points to the security sector business licence. The opened statute translation is the repealed 2002 Act; the current Act on Private Security Services (1085/2015) was not opened directly. Confirm with Finnish counsel.",
+    "Court structure, Market Court, Finland Arbitration Institute, Arbitration Act 967/1992, National Land Survey and National Prosecution Authority stated from general knowledge, not from an opened source.",
+    "Free availability of YTJ/Virre basic data and filing of financial statements with PRH partly inferred from PRH page and vendor guides."
+  ],
+  "researched": "2026-11-04"
+}

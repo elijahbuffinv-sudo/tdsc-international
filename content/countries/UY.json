@@ -1,0 +1,141 @@
+{
+  "cc": "UY",
+  "name": "Uruguay",
+  "meta_description": "TDSC investigative consulting on Uruguay: registry and court research, Law 18.331 data protection scoping, beneficial ownership limits and asset tracing.",
+  "eyebrow": "Oriental Republic of Uruguay",
+  "hero_lede": "Matters touching Uruguay involve a compact civil law jurisdiction, a regional hub for financial services, free zones and holding structures, and a data protection regime recognised as adequate by the European Commission. Investigative consulting here means careful registry research, realistic expectations on ownership data and coordination with Uruguayan counsel.",
+  "intro": [
+    "Uruguay has about 3.4 million people (World Bank, 2025) and a unitary civil law system, with commercial and legal activity concentrated in Montevideo. Its institutions are generally regarded as stable, and the courts and public registries are well established. Personal data has been protected since 2008 by Law 18.331, and in 2012 the European Commission recognised Uruguay as providing adequate protection. Since Law 19.484 of 2017, many entities must report their beneficial owners to a register kept by the Central Bank of Uruguay, which is not open to the public. Anti-money laundering obligations are consolidated in Law 19.574 of 2017.",
+    "Organisations commission work involving Uruguay because of its role as a financial and services centre for the region, its free zones used for logistics, trading and shared services, and its agricultural exports, notably beef, soy, dairy and pulp and forestry. Holding companies, trusts and free zone entities are often used by groups based in Argentina, Brazil and elsewhere, so Uruguay frequently appears as one link in a wider ownership chain. Typical exposures include due diligence on counterparties and acquisition targets, asset tracing in cross-border disputes and insolvencies, and integrity reviews of intermediaries, agents and service providers handling funds for regional clients."
+  ],
+  "population": {
+    "value": "3.4 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/UY/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Uruguay has a civil law system under the 1967 Constitution. The Civil Code, the Commercial Code and the Commercial Companies Law (Law 16.060 of 1989) govern private and corporate law. Commercial disputes are heard by civil trial courts (Juzgados Letrados), with appeals to the Courts of Appeal and cassation before the Supreme Court of Justice. Insolvency proceedings are handled by specialised bankruptcy courts under Law 18.387 of 2008. International commercial arbitration is governed by Law 19.636 of 2018, based on the UNCITRAL Model Law.",
+  "data_protection": {
+    "law": "Personal Data Protection and Habeas Data Act, Law 18.331 (2008), Decree 414/009, Law 19.670 (2018) and Decree 64/020",
+    "regulator": "Unidad Reguladora y de Control de Datos Personales (URCDP), within AGESIC",
+    "summary": "Law 18.331 generally requires prior, informed and express consent unless a legal exception applies, such as processing necessary for legal or contractual obligations. Databases must be registered with the URCDP before they operate, and the register is public. Law 19.670 and Decree 64/020 added breach notification without undue delay and a data protection officer requirement for large-scale or systematic processing. Transfers abroad are permitted to adequate jurisdictions or with appropriate safeguards or exceptions, and the 2012 EU adequacy decision eases transfers from Europe. Investigative work involving personal data therefore needs a documented legal basis, minimal collection and planned transfers."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators in Uruguay. Private security companies must register with the Registro Nacional de Empresas Prestadoras de Servicios de Seguridad, Vigilancia y Afines (RENAEMSE), created by Law 16.170 of 1990, and are overseen by the Dirección General de Fiscalización de Empresas (DIGEFE) of the National Police under Law 19.315 of 2015 and Decree 275/999. We have not confirmed whether investigative services fall within that registration. The Constitution and Law 18.331 protect privacy, and fieldwork is therefore scoped with Uruguayan counsel and limited to lawful observation and public sources.",
+  "corporate_records": "Corporate acts are registered with the Registro Nacional de Comercio, part of the Dirección General de Registros, and sociedades anónimas are also subject to oversight by the Auditoría Interna de la Nación. Registered documents identify incorporation details, by-laws and directors, but shareholdings are generally not public. Under Law 19.484 of 2017, many resident and non-resident entities must report shareholders and beneficial owners to a register kept by the Central Bank of Uruguay, access to which is restricted to competent authorities. Real estate and liens are recorded in the property sections of the Dirección General de Registros, and court case information is available through the Judiciary's online services.",
+  "anti_corruption": "Bribery of domestic and foreign public officials is criminalised, and Law 17.060 of 1998 sets public ethics and anti-corruption rules overseen by the Junta de Transparencia y Ética Pública (JUTEP). Law 19.574 of 2017 consolidates anti-money laundering rules for financial and non-financial obliged entities, supervised by the Central Bank's Financial Information and Analysis Unit and by the National Secretariat for the Fight against Money Laundering and Terrorist Financing (SENACLAFT). Prosecutions are led by the Fiscalía General de la Nación.",
+  "matters": [
+    {
+      "title": "Holding and free zone structures",
+      "text": "Mapping Uruguayan holding companies, trusts and free zone entities that sit within regional groups, using registry filings, court records and public disclosures, while recognising that shareholder and beneficial owner data held by the Central Bank is not publicly available."
+    },
+    {
+      "title": "Cross-border asset tracing",
+      "text": "Supporting judgment creditors, arbitral award holders and insolvency representatives in Argentina, Brazil and beyond by identifying real estate, vehicles, corporate interests and litigation in Uruguay, so that Uruguayan counsel can seek recognition and enforcement before the local courts."
+    },
+    {
+      "title": "Agribusiness and land counterparties",
+      "text": "Due diligence on landholders, cattle and grain producers, forestry operators and exporters, covering property records, liens, litigation and reputation, for foreign investors, lenders and buyers acquiring land or entering supply agreements in the Uruguayan interior."
+    },
+    {
+      "title": "Intermediary and service provider reviews",
+      "text": "Integrity and background reviews of wealth managers, corporate service providers, agents and introducers handling funds or structures for regional clients, with attention to regulatory history, sanctions, litigation and adverse media under Uruguay's anti-money laundering framework."
+    },
+    {
+      "title": "Shared services and employee misconduct",
+      "text": "Fact-finding on fraud, data misuse or conflicts of interest within shared services and technology operations based in Uruguay and its free zones, planned with Uruguayan counsel around consent-based data protection rules and local employment law."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Spanish; English common in finance, technology and free zones"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Montevideo, UTC-3, no daylight saving"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Montevideo, Punta del Este, Colonia del Sacramento"
+    },
+    {
+      "label": "Courts language",
+      "value": "Spanish; foreign documents require translation by a sworn public translator"
+    },
+    {
+      "label": "Company identifiers",
+      "value": "RUT tax number issued by the Dirección General Impositiva"
+    },
+    {
+      "label": "Business culture",
+      "value": "Understated and consensus-oriented; personal introductions carry weight"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Uruguayan engagements from Nashville, starting with the client's objective, the legal setting and whether Uruguayan counsel is already instructed. Because Uruguay often appears as one layer in a regional structure, research is usually planned together with work in Argentina, Brazil or other jurisdictions. Sources are lawful and public: commercial and property registry records, court information, official gazette publications and media. TDSC does not seek access to the Central Bank's beneficial ownership register or other restricted data, and states ownership findings with their evidential limits. Local inquiries are carried out only through qualified Uruguayan professionals under counsel's direction. Personal data is handled on a documented legal basis, with transfers planned around Law 18.331.",
+  "faqs": [
+    {
+      "q": "Can the beneficial owners of a Uruguayan company be identified?",
+      "a": "Not from a public register. Under Law 19.484, many entities report shareholders and beneficial owners to the Central Bank of Uruguay, but that register is available only to competent authorities. Ownership is therefore pieced together from registry filings, Auditoría Interna de la Nación records, litigation, related-company research and media, or obtained through court process advised on by Uruguayan counsel."
+    },
+    {
+      "q": "What does Uruguay's EU adequacy status mean for investigations?",
+      "a": "The European Commission recognised Uruguay as providing adequate protection in 2012, so personal data can move from the EU to Uruguay without additional transfer mechanisms. Uruguayan law still applies to processing there: Law 18.331 generally requires consent unless an exception applies, databases must be registered with the URCDP, and transfers out of Uruguay need an adequate destination or safeguards."
+    },
+    {
+      "q": "Are private investigators licensed in Uruguay?",
+      "a": "We have not identified a dedicated licensing regime for private investigators. Private security companies register with RENAEMSE and are supervised by DIGEFE of the National Police, but we have not confirmed whether investigative services fall within that framework. TDSC does not claim licensure in Uruguay and works through qualified local professionals and counsel where local inquiries are needed."
+    },
+    {
+      "q": "Why do free zone entities feature in Uruguay matters?",
+      "a": "Uruguay's free zones host trading, logistics, technology and shared services operations for regional and global groups. These entities can hold contracts, receivables or intellectual property and may be relevant in fraud, transfer of value or asset recovery matters. TDSC researches their corporate records, related parties and litigation to show how they fit within the wider group."
+    },
+    {
+      "q": "Can assets be traced in Uruguay to enforce a foreign judgment?",
+      "a": "Real estate and recorded liens can be researched through the Dirección General de Registros, and litigation can be identified through court records. Foreign judgments and arbitral awards must be recognised by the Uruguayan courts before enforcement. TDSC identifies and documents assets lawfully so that Uruguayan counsel can assess recognition, interim measures and enforcement options."
+    }
+  ],
+  "sources": [
+    {
+      "title": "World Bank: Population, total, Uruguay",
+      "url": "https://api.worldbank.org/v2/country/UY/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Uruguay",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=UY"
+    },
+    {
+      "title": "IMPO: Law 19.484, article 25",
+      "url": "https://impo.com.uy/bases/leyes-originales/19484-2017/25"
+    },
+    {
+      "title": "Ministerio del Interior: Historical overview of the Dirección General de Fiscalización de Empresas",
+      "url": "https://www.gub.uy/ministerio-interior/politicas-y-gestion/resena-historica-direccion-general-fiscalizacion-empresas"
+    },
+    {
+      "title": "IMPO: Decree 275/999, regulation of security service companies",
+      "url": "https://impo.com.uy/bases/decretos-reglamento/275-1999/11"
+    },
+    {
+      "title": "Ferrere: Uruguay approves comprehensive anti-money laundering law",
+      "url": "https://ferrere.com/es/novedades/uruguay-aprueba-ley-integral-contra-el-lavado-de-activos/"
+    },
+    {
+      "title": "PwC Uruguay: SENACLAFT, its remit and powers",
+      "url": "https://pwc.com.uy/es/acerca-de-nosotros/publicaciones/ViaRapida/via-rapida-senaclaft---sus-comentidos-y-facultades.pdf"
+    },
+    {
+      "title": "JUTEP: Summary report (UN anti-corruption review)",
+      "url": "https://www.gub.uy/junta-transparencia-etica-publica/sites/junta-transparencia-etica-publica/files/documentos/noticias/Informe%20resumido%20ONU.pdf"
+    }
+  ],
+  "review_flags": [
+    "Not confirmed whether private investigation services require RENAEMSE registration under Decree 275/999 (fetch of decree text failed due to rate limit); confirm with Uruguayan counsel.",
+    "Restricted access to the Central Bank beneficial ownership register is stated from general knowledge; IMPO article 25 confirms reporting to the BCU but access rules were not opened.",
+    "A 2026 presidential law document (cons_min_351, March 2026) appeared in AML search results and was not reviewed; check for recent AML/anti-corruption reforms, including any introduction of corporate criminal liability.",
+    "Law 16.060, Law 18.387 (insolvency courts), Law 19.636 (arbitration), Auditoría Interna de la Nación oversight, JUTEP/Law 17.060 and UIAF details are from general knowledge or search snippets rather than opened pages."
+  ],
+  "researched": "2026-11-04"
+}

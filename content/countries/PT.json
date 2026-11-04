@@ -1,0 +1,137 @@
+{
+  "cc": "PT",
+  "name": "Portugal",
+  "meta_description": "TDSC investigative consulting on Portugal: due diligence, asset tracing and dispute support using the commercial register, RCBE rules and GDPR safeguards.",
+  "eyebrow": "Portuguese Republic",
+  "hero_lede": "Investigative consulting for matters touching Portugal draws on the commercial and land registers, works within the GDPR and Law 58/2019, accounts for tightened access to the beneficial ownership register, and recognises that private investigation in Portugal has no dedicated licensing regime.",
+  "intro": [
+    "Portugal is an EU member with a civil law tradition and a well-developed system of public registers administered by the Institute of Registries and Notary (IRN). Commercial, land and vehicle registrations are kept in centralised registers, and many corporate acts are published online. Personal data processing is governed by the GDPR and Law 58/2019, supervised by the National Data Protection Commission (CNPD), which has declined to apply several provisions of the national law it considers contrary to the GDPR. Private investigation is not regulated by a specific statute, so the limits on any enquiry come from the Penal Code, data protection law and the rules on admissibility of evidence rather than from a licence.",
+    "Organisations commission work involving Portugal because of its open economy and its links to Brazil, Angola, Mozambique and other Portuguese-speaking countries. Real estate, tourism, renewable energy, ports and logistics, banking and a growing technology sector attract foreign investment, and residence-by-investment and tax regimes have drawn international individuals and capital. Typical exposures include opaque ownership through holding companies and nominee arrangements, funds with origins in Lusophone Africa or Latin America, property-related fraud, procurement and municipal integrity issues, and asset recovery following insolvency or contested inheritance. Lenders, investors and law firms also seek independent verification before committing capital or pursuing enforcement in Portuguese courts."
+  ],
+  "population": {
+    "value": "10.80 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/PT/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Portugal has a civil law system built on codified law, including the Civil Code of 1966 and the Commercial Companies Code. Commercial disputes are heard in the judicial courts organised by district (comarca), which include specialised commerce sections for company and insolvency matters, with appeals to the courts of appeal (Tribunais da Relação) and the Supreme Court of Justice. Voluntary arbitration is widely used; the Commercial Arbitration Centre of the Portuguese Chamber of Commerce and Industry in Lisbon is the best-known institution.",
+  "data_protection": {
+    "law": "General Data Protection Regulation (EU) 2016/679 and Law No. 58/2019 of 8 August",
+    "regulator": "National Data Protection Commission (Comissão Nacional de Proteção de Dados, CNPD)",
+    "summary": "Law 58/2019 ensures execution of the GDPR in Portugal, but in Decision 494/2019 the CNPD declared it would not apply several provisions, including the rule on employee consent and the national fine regime, applying the GDPR directly instead. Investigative processing needs a GDPR lawful basis, usually legitimate interests or the establishment of legal claims, with a documented balancing test. Video surveillance with sound recording is restricted, and specific rules govern monitoring and biometric data in employment. Covert tracking or recording can also engage the Penal Code. Transfers of findings outside the EEA follow GDPR Chapter V mechanisms."
+  },
+  "investigator_regulation": "As of 2026 we have not identified a dedicated licensing regime for private investigators in Portugal. Commentary indicates that practitioners operate without a mandatory licence or a supervising public authority. Private security activity is regulated separately by Law 34/2013, overseen by the security forces, but that regime is aimed at guarding and security services rather than investigation. The practical limits are set by general law: the Penal Code criminalises intrusion into private life and unauthorised recording, the CNPD treats covert GPS tracking as a data protection matter, and unlawfully obtained material risks exclusion as evidence. TDSC confirms the position with local counsel on each matter.",
+  "corporate_records": "The commercial register is maintained by the Institute of Registries and Notary (IRN). Company acts such as incorporations, changes of officers and amendments to articles are published online, and a permanent certificate (certidão permanente) showing current registered details can be obtained by subscription. The Central Register of Beneficial Ownership (RCBE), created by Law 89/2017 and managed by the IRN, holds beneficial owner declarations. A decree-law published in October 2025 restricts online access to those who demonstrate a legitimate interest, replacing the earlier, more open model. Land is recorded in the land register (registo predial), and certificates can be requested from the IRN.",
+  "anti_corruption": "Bribery of public officials is criminalised in the Penal Code, and private-sector corruption is addressed by Law 20/2008. Decree-Law 109-E/2021 created the National Anti-Corruption Mechanism (MENAC) and the General Regime for the Prevention of Corruption, requiring companies with 50 or more employees to maintain a risk prevention plan, code of conduct, training and a whistleblowing channel under Law 93/2021. Anti-money laundering obligations are set by Law 83/2017. Criminal investigation is led by the Public Prosecution Service and the Judiciary Police.",
+  "matters": [
+    {
+      "title": "Counterparty due diligence",
+      "text": "Structured background and integrity checks on Portuguese companies, investors and executives, using commercial register publications, litigation and insolvency notices, media archives and lawful open sources, with particular attention to holding structures that connect to Brazil, Angola, Spain or offshore jurisdictions."
+    },
+    {
+      "title": "Real estate and investment review",
+      "text": "Review of property-related transactions and residence or investment structures, including land register searches, ownership history and the reputation of developers, intermediaries and funds, where clients need assurance about source of funds and the people behind a Portuguese project."
+    },
+    {
+      "title": "Asset tracing for recovery",
+      "text": "Identification of real estate, company interests and vehicles held in Portugal by debtors or defendants, through land and commercial registers and lawful sources, supporting enforcement, insolvency and cross-border recovery strategies developed with Portuguese counsel. Findings are documented for use in court."
+    },
+    {
+      "title": "Lusophone cross-border enquiries",
+      "text": "Matters linking Portugal to Brazil, Angola or Mozambique, where corporate vehicles, banking relationships and politically exposed persons cross jurisdictions. We map the Portuguese elements and coordinate separately scoped work in each other country involved. Language continuity across Lusophone records helps."
+    },
+    {
+      "title": "Compliance and integrity reviews",
+      "text": "Support for internal reviews of suspected bribery, procurement irregularities or conflicts of interest at Portuguese subsidiaries, aligned with MENAC prevention requirements, the whistleblowing framework and the CNPD's position on employee data. Findings feed remediation plans."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Portuguese; English widely used in international business"
+    },
+    {
+      "label": "Time zones",
+      "value": "Europe/Lisbon (UTC+0, UTC+1 in summer); Atlantic/Azores (UTC-1, UTC+0 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Courts language",
+      "value": "Portuguese; foreign documents generally need certified translation"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Lisbon, Porto, Braga, Coimbra, Faro"
+    },
+    {
+      "label": "Key registers",
+      "value": "Commercial, land and RCBE registers kept by the IRN"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-based and formal; personal introductions and patience with process help"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Portuguese matters from Nashville, beginning with the purpose of the enquiry, the decision it supports and how findings may be used in court or arbitration. Because Portugal has no dedicated investigator licence, we take the legal limits from local counsel and the CNPD's guidance rather than from a licence, and we exclude covert recording, tracking and any pretexting. Research relies on IRN register material, court and insolvency publications, Portuguese-language media and lawful open sources, with RCBE access sought only where a legitimate interest can be shown. Where field enquiries in Portugal are needed, we coordinate qualified local professionals under written instructions. Personal data is minimised and handled under a documented GDPR basis and Chapter V transfer arrangements.",
+  "faqs": [
+    {
+      "q": "Are private detectives licensed in Portugal?",
+      "a": "As far as we have been able to verify, Portugal has no specific licensing statute for private investigators as of 2026. Private security is regulated under Law 34/2013, but that regime targets guarding services. Investigative work is constrained instead by the Penal Code, the GDPR and evidence rules, so TDSC agrees scope with local counsel and works only with professionals whose methods are lawful."
+    },
+    {
+      "q": "Can we see who ultimately owns a Portuguese company?",
+      "a": "Beneficial ownership is declared to the RCBE, managed by the IRN. Rules published in October 2025 limit online access to people who demonstrate a legitimate interest. Legal owners, officers and corporate acts remain available from the commercial register. Where RCBE access is not available, ownership can often be reconstructed from register filings, publications and related-company research."
+    },
+    {
+      "q": "Does the CNPD apply Law 58/2019 in full?",
+      "a": "No. In Decision 494/2019 the CNPD stated it would not apply several provisions of Law 58/2019 that it considered contrary to the GDPR, including rules on employee consent and the national fines. For investigations this means GDPR principles are applied directly, and employee-related processing should not rest on consent alone."
+    },
+    {
+      "q": "Can covert recordings or GPS tracking be used as evidence?",
+      "a": "Recording conversations without consent can amount to an offence of intrusion into private life under the Penal Code, and the CNPD has addressed covert location tracking as a data protection matter. Material gathered this way risks exclusion and liability. TDSC does not use or commission such methods and focuses on documentary, register and lawful open-source evidence."
+    },
+    {
+      "q": "Which companies must have an anti-corruption programme?",
+      "a": "Under Decree-Law 109-E/2021, companies with their registered office in Portugal and branches of foreign companies employing 50 or more workers must adopt a compliance programme with a risk prevention plan, code of conduct, training and whistleblowing channel. MENAC supervises the regime, and investigations into reported concerns should respect these internal procedures."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Portugal",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=PT"
+    },
+    {
+      "title": "World Bank: Population, total (Portugal)",
+      "url": "https://api.worldbank.org/v2/country/PT/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "CMS: Novas regras sobre beneficiários efetivos (Law 89/2017, RCBE)",
+      "url": "https://cms.law/pt/prt/news-information/novas-regras-sobre-beneficiarios-efetivos"
+    },
+    {
+      "title": "Observador: Novas regras para consultar beneficiário efetivo publicadas em Diário da República (27 October 2025)",
+      "url": "https://observador.pt/2025/10/27/novas-regras-para-consultar-beneficiario-efetivo-das-empresas-publicadas-em-diario-da-republica/"
+    },
+    {
+      "title": "PLMJ: Mecanismo Nacional Anticorrupção (Decree-Law 109-E/2021)",
+      "url": "https://www.plmj.com/xms/files/07_Guias_e_Manuais/2022/Mecanismo_Nacional_Anticorrupcao.pdf"
+    },
+    {
+      "title": "GNR: Lei n.º 34/2013 de 16 de Maio (private security)",
+      "url": "https://www.gnr.pt/ficheiros/segPrivada/Lei n.º 34-2013 de 16 de Maio.pdf"
+    },
+    {
+      "title": "Expert Zoom: Detetive particular em Portugal (2026)",
+      "url": "https://expert-zoom.com/pt/noticias/contratar-detetive-particular-investigação-privada-2026"
+    }
+  ],
+  "review_flags": [
+    "No-licensing position for private investigators rests on a secondary 2026 commentary source; confirm with Portuguese counsel that no PI statute has been enacted.",
+    "RCBE legitimate-interest decree-law (published 27 October 2025, transposing Directive (EU) 2024/1640) number and effective date not verified from the Diário da República.",
+    "Law 20/2008 (private-sector corruption), Law 83/2017 (AML), Penal Code bribery articles, court structure and arbitration centre are stated from general knowledge and not from an opened source.",
+    "GNR source URL contains spaces and non-ASCII characters; may need URL encoding."
+  ],
+  "researched": "2026-11-04"
+}

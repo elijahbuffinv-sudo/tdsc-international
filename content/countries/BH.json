@@ -1,0 +1,154 @@
+{
+  "cc": "BH",
+  "name": "Bahrain",
+  "meta_description": "TDSC investigative consulting on Bahrain: Sijilat company research, UBO-aware ownership mapping, PDPL-compliant due diligence and asset tracing for counsel.",
+  "eyebrow": "Kingdom of Bahrain",
+  "hero_lede": "Investigative consulting for matters touching Bahrain means working with Sijilat company records, beneficial ownership rules and an active personal data authority framework, in a compact financial centre closely tied to Saudi Arabia and the wider Gulf: counterparty research, ownership mapping and asset tracing for counsel.",
+  "intro": [
+    "Bahrain is a small, open economy with a civil law system, Arabic-language courts and a long-established role as a Gulf banking and Islamic finance centre regulated by the Central Bank of Bahrain. Commercial activity is registered through the Ministry of Industry and Commerce's Sijilat platform, and since 2020 registered businesses have had to identify their ultimate beneficial owners. Bahrain was also an early Gulf adopter of a comprehensive data protection statute, the Personal Data Protection Law of 2018, which requires prior authorisation for certain kinds of visual monitoring. Investigative work is therefore shaped by clear documentary sources on one side and firm limits on personal data processing and surveillance on the other.",
+    "Organisations commission investigative work involving Bahrain because of its financial services sector, its role as a regional base for companies serving the Saudi market across the King Fahd Causeway, and industries such as aluminium, logistics, real estate and hospitality. Typical exposures include counterparties whose registered partners are not the people who control the business, a practice Bahraini authorities target as commercial concealment; integrity questions about agents and partners in government-related contracts; disputes involving family-owned groups with interests across the GCC; and debtors who hold property or company interests in Bahrain. Investors and lenders also need verified background on directors and shareholders before transactions."
+  ],
+  "population": {
+    "value": "1.60 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/BH/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Bahrain has a codified civil law system, with Islamic Sharia a principal source of law and family matters heard by Sharia courts. Commercial disputes go to the civil courts, with appeals to the High Court of Appeal and final review by the Court of Cassation, in Arabic. The Bahrain Chamber for Dispute Resolution, established under Legislative Decree No. 30 of 2009, has mandatory jurisdiction over commercial claims above BHD 500,000 and administers arbitration. The Bahrain International Commercial Court, launched on 5 November 2025, hears international disputes by consent, with appeals to a committee including Singapore International Commercial Court judges.",
+  "data_protection": {
+    "law": "Law No. 30 of 2018 on Personal Data Protection (PDPL), in force 1 August 2019, with implementing ministerial resolutions issued in 2022",
+    "regulator": "Personal Data Protection Authority (functions performed by the Ministry of Justice, Islamic Affairs and Endowments under Decree No. 78 of 2019)",
+    "summary": "Processing requires consent unless another ground applies, including legal obligations, court orders and legitimate interests that do not override the individual's rights. Criminal records, health and other sensitive categories need consent or a listed exception, and visual monitoring, biometric and genetic processing need the Authority's prior written authorisation. Controllers must notify the Authority of processing, and breaches must generally be reported within 72 hours. Transfers abroad are permitted to countries the Authority lists as adequate, or with case-by-case permission, consent, or where necessary for legal claims. Offences carry fines of BHD 1,000 to 20,000 and up to one year's imprisonment."
+  },
+  "investigator_regulation": "We have not identified a licensing regime that authorises private investigators to conduct enquiries or surveillance in Bahrain, and we have not found published guidance on the activity. The legal limits that do exist are significant. The PDPL makes visual monitoring subject to prior authorisation and criminalises unlawful processing, disclosure and transfer of personal data, and Bahraini criminal law protects privacy and reputation. Covert surveillance, photography of individuals and pretext enquiries therefore carry real legal risk. Separately, the Ministry of Justice has licensed private enforcement firms to carry out court-ordered enforcement, which is a court process rather than investigation.",
+  "corporate_records": "Commercial registrations are managed by the Ministry of Industry and Commerce through Sijilat under the Commercial Registry Law, Legislative Decree No. 27 of 2015. Basic details of a commercial registration, such as status, activities and registered partners, can generally be checked online. Under Ministry Resolution No. 83 of 2020, businesses holding a commercial registration, including branches of foreign companies but excluding entities licensed by the Central Bank, must identify and file ultimate beneficial owners, using a 10 per cent ownership or control threshold among other tests; we have not identified public access to those filings. Central Bank licensees appear on its public register.",
+  "anti_corruption": "Bribery is criminalised under the Bahraini Penal Code of 1976, which has been amended to extend bribery offences to the private sector. Money laundering is addressed by Legislative Decree No. 4 of 2001 concerning the prohibition of and combating money laundering, as amended to cover terrorist financing, with suspicious transaction reporting to the Financial Intelligence Directorate. Enforcement involves the Public Prosecution, the Ministry of Interior's anti-corruption and economic security directorate, and the Central Bank of Bahrain for regulated institutions.",
+  "matters": [
+    {
+      "title": "Commercial concealment and nominee ownership",
+      "text": "Testing whether the partners shown on a Bahraini commercial registration actually control the business, by comparing Sijilat details with related registrations, management roles, litigation, property links and open sources, where authorities treat front arrangements as commercial concealment and counterparties need to know whom they are really dealing with."
+    },
+    {
+      "title": "Financial sector counterparty review",
+      "text": "Background research on banks, investment firms, fintech operators and their principals connected to Bahrain, combining Central Bank register entries, published enforcement notices, corporate records and media, to support onboarding, investment and lending decisions by institutions with exposure to the Kingdom."
+    },
+    {
+      "title": "Saudi-linked groups and distributors",
+      "text": "Mapping Bahraini entities used by family groups and distributors to serve Saudi Arabia and the wider GCC, including affiliates registered across several Gulf jurisdictions, so that clients understand group structure, related parties and potential conflicts before entering supply, agency or joint venture arrangements."
+    },
+    {
+      "title": "Asset research for enforcement",
+      "text": "Identifying company interests, related entities and litigation history connected to a debtor in Bahrain, to help counsel assess whether recognition of a foreign judgment or award and enforcement through Bahraini courts, including execution supported by licensed private enforcement firms, is worth pursuing."
+    },
+    {
+      "title": "Agent and partner integrity checks",
+      "text": "Reviewing the affiliations, reputation and conflicts of commercial agents, sponsors and local partners engaged for government-related contracts, infrastructure or industrial projects, to support anti-bribery due diligence by foreign parent companies, investors and lenders working with Bahraini counterparties."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Arabic (official) and English"
+    },
+    {
+      "label": "Courts language",
+      "value": "Arabic; foreign documents need certified Arabic translation"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Bahrain, UTC+3, no daylight saving"
+    },
+    {
+      "label": "Working week",
+      "value": "Sunday to Thursday"
+    },
+    {
+      "label": "Currency",
+      "value": "Bahraini dinar (BHD)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Manama, Seef, Muharraq, Riffa, Sitra"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-based and family-centred; reputation and discretion carry weight"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Bahrain matters from Nashville by establishing the entities involved, their Sijilat registrations and any Central Bank licensing, and the decisions the research must support. Work relies on lawfully accessible registry data, regulatory registers and notices, court information available through counsel, and Arabic and English media. TDSC does not conduct or commission covert surveillance, photography of individuals or pretext enquiries in Bahrain, given PDPL authorisation requirements for visual monitoring and the criminal penalties for unlawful processing. Where local steps are needed, such as obtaining documents or interviews, TDSC works through Bahraini counsel and coordinates only professionals whose authority for the task has been confirmed. Personal data transfers to the United States are assessed against the PDPL's transfer rules, including the legal claims ground, and documented.",
+  "faqs": [
+    {
+      "q": "Can I find out who owns a Bahraini company?",
+      "a": "Registered partners and basic registration details can generally be checked through Sijilat. Beneficial ownership filings required under Resolution No. 83 of 2020 go to the Ministry and are not, to our knowledge, publicly searchable. TDSC builds an ownership picture from registry data, related registrations, filings elsewhere in the Gulf and open sources, and distinguishes documented ownership from inferred control."
+    },
+    {
+      "q": "Is surveillance by private investigators lawful in Bahrain?",
+      "a": "We have not identified a licensing regime for private investigators in Bahrain. The PDPL requires prior authorisation from the data protection authority for visual monitoring and penalises unlawful processing of personal data with fines and imprisonment. TDSC therefore does not conduct or commission covert surveillance there, and any local enquiries are scoped with Bahraini counsel and limited to lawful methods."
+    },
+    {
+      "q": "Can investigative findings about Bahraini residents be sent abroad?",
+      "a": "The PDPL allows transfers to countries the authority has listed as offering adequate protection, and otherwise with its permission, the individual's consent, or where the transfer is necessary to establish or defend legal claims. TDSC documents the transfer ground for each matter, minimises personal data in reports, and agrees handling arrangements with the client and counsel at the outset."
+    },
+    {
+      "q": "What is the Bahrain Chamber for Dispute Resolution?",
+      "a": "The BCDR was established under Legislative Decree No. 30 of 2009 and has mandatory jurisdiction over commercial disputes with claims above BHD 500,000, as well as administering arbitration. Since November 2025 parties can also consent to the new Bahrain International Commercial Court. TDSC does not advise on forum, but its research on counterparties and assets often informs counsel's assessment."
+    },
+    {
+      "q": "What is commercial concealment and why does it matter?",
+      "a": "Commercial concealment describes arrangements in which a business is registered in one person's name while another, often someone not permitted to own it directly, controls and benefits from it. Bahraini authorities have pursued such arrangements under commercial registry rules. For counterparties, it means the registered owner may not be the decision-maker, so TDSC tests registration data against other indicators of control."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Bahrain",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=BH"
+    },
+    {
+      "title": "World Bank: Population, total (Bahrain)",
+      "url": "https://api.worldbank.org/v2/country/BH/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "Al Tamimi & Company: Bahrain publishes new Ultimate Beneficial Ownership (UBO) rules",
+      "url": "https://www.tamimi.com/news/bahrain-publishes-new-ultimate-beneficial-ownership-ubo-rules"
+    },
+    {
+      "title": "Al Tamimi & Company: Bahrain's international drive to be more transparent: UBO, ESR and anti-commercial concealment",
+      "url": "https://www.tamimi.com/law-update/october-2021/articles/bahrains-international-drive-to-be-more-transparent-ubo-esr-and-anti-commercial-concealment/"
+    },
+    {
+      "title": "Ministry of Industry and Commerce: Ministerial Order (83) of 2020 regarding UBO",
+      "url": "https://www.moic.gov.bh/sites/default/files/2021-10/Minsterial%20Order%20%2883%29%20of%202020%20-%20Regarding%20UBO.pdf"
+    },
+    {
+      "title": "Zawya: Bahrain, 24 private enforcers get licence",
+      "url": "https://zawya.com/en/legal/regulations/bahrain-24-private-enforcers-get-licence-yulpsspm"
+    },
+    {
+      "title": "Al Tamimi & Company: Launch of the new Bahraini International Commercial Court, a 2026 outlook",
+      "url": "https://www.tamimi.com/our-knowledge/publications/eyes-on-2026/articles/launch-of-the-new-bahraini-international-commercial-court-a-2026-outlook-2/"
+    },
+    {
+      "title": "Charles Russell Speechlys: The BCDR, where are we now?",
+      "url": "https://www.charlesrussellspeechlys.com/en/insights/expert-insights/litigation--dispute-resolution/2023/the-bcdr-where-are-we-now/"
+    },
+    {
+      "title": "Ministry of Industry and Commerce: Legislative Decree No. (4) of 2001 concerning the prohibition of and combating money laundering",
+      "url": "https://www.moic.gov.bh/sites/default/files/2021-10/Legislative%20Decree%20no.%20%284%29%20of%202001%20Concerning%20the%20Prohibition%20of%20and%20Combating%20Money%20Laundering.pdf"
+    },
+    {
+      "title": "Al Tamimi & Company: Bribery crimes in the private sector in Bahrain",
+      "url": "https://www.tamimi.com/law-update/september/articles/bribery-crimes-private-sector-bahrain/"
+    },
+    {
+      "title": "DLA Piper Global Bribery Offenses Guide: Bahrain",
+      "url": "https://www.dlapiper.com/en-it/insights/publications/2019/09/global-bribery-offenses-guide/bahrain"
+    }
+  ],
+  "review_flags": [
+    "PDPL regulator: DLA Piper reports the Ministry of Justice temporarily performs the Personal Data Protection Authority's functions under Decree No. 78 of 2019; check whether a standalone Authority is now operating.",
+    "Private investigator regulation: no source found on licensing or prohibition; needs confirmation by Bahraini counsel.",
+    "Not verified against an opened source (fetch limit reached): year of the Penal Code amendment extending bribery to the private sector (search results confirm the topic only); Financial Intelligence Directorate and Ministry of Interior directorate names; Sijilat public CR lookup content; Central Bank public register; Sunday-Thursday working week.",
+    "UBO filings described as not publicly searchable: sources did not address public access.",
+    "BCDR/BICC overlap for claims above BHD 500,000 is unresolved pending regulations or judgments (Al Tamimi 2026 outlook)."
+  ],
+  "researched": "2026-11-04"
+}

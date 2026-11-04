@@ -1,0 +1,150 @@
+{
+  "cc": "UA",
+  "name": "Ukraine",
+  "meta_description": "TDSC investigative consulting on Ukraine: counterparty and ownership checks, reconstruction due diligence and asset tracing under martial-law register limits.",
+  "eyebrow": "Ukraine",
+  "hero_lede": "Investigative consulting on Ukrainian matters means reading corporate and beneficial ownership data from registers reshaped by martial law, testing counterparties in reconstruction, agriculture and defence supply chains, and separating lawful open-source findings from information that Ukrainian personal data rules and wartime restrictions place out of reach.",
+  "intro": [
+    "Ukraine is a civil law jurisdiction whose business environment has been defined since February 2022 by full-scale war and martial law. Public registers that were among the most open in Europe, including the Unified State Register of legal entities with its beneficial ownership fields, were restricted at the start of the invasion and have since been partly reopened under Law No. 4576-IX of 2025, with defence-sector and address data still withheld. Investigative work must account for occupied territory, displaced records, wartime data restrictions and a personal data statute that is under active reform.",
+    "Organisations commission work touching Ukraine for reasons tied to its economy and the war. Grain, oilseed and metals exporters, logistics operators and their financiers need counterparty and ownership checks. Donors, development finance institutions and contractors in reconstruction programmes face procurement integrity and diversion risk. Defence and dual-use supply chains raise end-use and sanctions exposure where assets sit in or near occupied regions. Investors revisiting Ukrainian assets need litigation and ownership histories, and law firms pursuing assets of sanctioned or politically exposed persons often trace Ukrainian corporate links. Each requires careful sourcing because registers, courts and counterparties have been disrupted by the conflict."
+  ],
+  "population": {
+    "value": "39.0 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/UA/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Ukraine has a civil law system built on the 1996 Constitution and codified law, including the Civil Code of 2003. Commercial disputes between businesses are heard by a separate system of commercial (economic) courts, with appeals to commercial courts of appeal and final review by the Commercial Court of Cassation within the Supreme Court. The High Anti-Corruption Court hears corruption and related money laundering cases. International commercial arbitration is commonly seated at the International Commercial Arbitration Court at the Ukrainian Chamber of Commerce and Industry.",
+  "data_protection": {
+    "law": "Law of Ukraine No. 2297-VI On Personal Data Protection (2010, as amended)",
+    "regulator": "Ukrainian Parliament Commissioner for Human Rights (Ombudsman)",
+    "summary": "Processing generally requires the data subject's consent unless a statute or contract necessity applies, and sensitive categories such as health, political or religious views are prohibited subject to narrow exemptions. Mandatory database registration was abolished in 2014, but high-risk processing must be notified to the Ombudsman. Transfers abroad are permitted to states with an adequate level of protection, including EEA states and Convention 108 parties, or on grounds such as unambiguous consent. Draft Law No. 8153, intended to align Ukrainian law with the GDPR and create a new regulator, passed first reading in 2024. For investigations, this means documenting the lawful basis before collecting personal data and minimising what is exported."
+  },
+  "investigator_regulation": "As of 2026, we have not identified an enacted statute licensing private detectives in Ukraine. An earlier law on private detective activity was vetoed by the President, and Draft Law No. 3010 On Private Detective Activity, adopted at first reading in February 2021, would place certification and a Unified Register of Detectives with the Ministry of Justice; we have not confirmed its final adoption. In practice, investigative work relies on lawful open sources, registers and interviews, while covert surveillance, interception and access to restricted state databases are reserved to authorised state bodies. Engagements are scoped with Ukrainian counsel.",
+  "corporate_records": "The Unified State Register of Legal Entities, Individual Entrepreneurs and Public Organisations, maintained by the Ministry of Justice, records founders, managers, charter capital and beneficial owners. Ukraine was an early adopter of a public beneficial ownership register. Access was restricted after February 2022; under Law No. 4576-IX of 2025 and a Ministry of Justice order of November 2025, open data on owners and beneficial ownership has been restored, while addresses, contacts, activity codes and defence-sector entities remain withheld. Court decisions are published in a public register. Real property records may be subject to wartime access limits and are checked case by case.",
+  "anti_corruption": "The Law on Prevention of Corruption, in force since 2015, governs conflicts of interest, asset declarations and corporate compliance programmes, while the Criminal Code criminalises bribery and imposes liability on legal entities. Anti-money laundering obligations sit in the law on preventing the legalisation of criminal proceeds (Law No. 361-IX, 2019). Enforcement rests with the National Anti-Corruption Bureau (NABU), the Specialised Anti-Corruption Prosecutor's Office, the High Anti-Corruption Court, the National Agency on Corruption Prevention and the State Financial Monitoring Service.",
+  "matters": [
+    {
+      "title": "Agricultural export counterparties",
+      "text": "Ownership and reputation checks on grain, oilseed and sunflower oil traders, elevator operators and Black Sea logistics providers, including whether assets, storage or shipments have links to occupied territory or to persons subject to sanctions, and whether stated capacity matches registered property and court history."
+    },
+    {
+      "title": "Reconstruction procurement integrity",
+      "text": "Due diligence on contractors, subcontractors and suppliers bidding for donor-funded or state reconstruction work, testing beneficial ownership, related-party links to officials, prior procurement disputes and any NABU or prosecutorial matters reported in published court decisions."
+    },
+    {
+      "title": "Defence and dual-use supply chains",
+      "text": "Mapping of suppliers, intermediaries and end users in defence, drone and dual-use component chains, with attention to diversion risk, ownership opacity created by wartime register restrictions, and exposure to entities or regions subject to US, EU or UK restrictions."
+    },
+    {
+      "title": "Asset tracing and judgments",
+      "text": "Lawful tracing of corporate holdings, real estate and court records connected to Ukrainian debtors or politically exposed persons, including assets moved, nationalised or seized since 2022, to support enforcement strategy developed with Ukrainian and foreign counsel."
+    },
+    {
+      "title": "Investor and partner vetting",
+      "text": "Background, integrity and reputational research on Ukrainian business groups, managers and joint venture partners before equity investment, lending, distribution agreements or market re-entry, covering ownership history, litigation, asset declarations where public, media coverage and political exposure."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "Ukrainian (state language); English widely used in international business"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Kyiv, UTC+2 (UTC+3 in summer)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Courts language",
+      "value": "Ukrainian"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Kyiv, Lviv, Dnipro, Odesa, Kharkiv"
+    },
+    {
+      "label": "Document formalities",
+      "value": "Certified Ukrainian translations and notarisation commonly required for court and registry use"
+    },
+    {
+      "label": "Operating context",
+      "value": "Martial law in force since February 2022; some registers and regions restricted"
+    },
+    {
+      "label": "Currency",
+      "value": "Ukrainian hryvnia (UAH)"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes each Ukrainian engagement from Nashville, beginning with a jurisdictional and sanctions review. As a US company, TDSC screens every matter for sanctions compliance and does not accept engagements that would violate US or other applicable sanctions, including those covering Crimea and other Russian-occupied regions; work touching those areas is limited to lawful due diligence and risk advisory for clients outside them. We rely on reopened open-data registers, published court decisions and lawful public sources, and we note where wartime restrictions leave gaps. Where local enquiries or document retrieval are needed, we coordinate qualified Ukrainian professionals and work with Ukrainian counsel. Personal data is collected only on a documented lawful basis and transferred abroad only on a permitted ground.",
+  "faqs": [
+    {
+      "q": "Can beneficial ownership in Ukraine still be checked during martial law?",
+      "a": "Partly. Public access to the Unified State Register was restricted after February 2022. Under Law No. 4576-IX of 2025 and a Ministry of Justice order of November 2025, open data on owners and beneficial owners has been restored, but addresses, contact details and defence-sector entities remain withheld. We record which fields were available on the date of each search."
+    },
+    {
+      "q": "Are private detectives licensed in Ukraine?",
+      "a": "We have not identified an enacted licensing statute as of 2026. An earlier law was vetoed and Draft Law No. 3010, which would introduce Ministry of Justice certification and a register of detectives, passed first reading in 2021. Until a regime is confirmed, we work through lawful sources and coordinate qualified Ukrainian professionals and counsel rather than relying on any detective status."
+    },
+    {
+      "q": "Will TDSC take on matters involving occupied territories?",
+      "a": "Only where the work is lawful. Every matter is screened for sanctions compliance, and TDSC does not accept engagements that would breach US or other applicable sanctions covering Crimea and other Russian-occupied regions. Permissible work is typically limited to due diligence and risk advisory for clients outside those areas, such as assessing a counterparty's exposure to them."
+    },
+    {
+      "q": "How does Ukrainian data protection law affect a cross-border investigation?",
+      "a": "Law No. 2297-VI generally requires consent or another statutory basis for processing, restricts sensitive data and allows transfers abroad to states with adequate protection or on grounds such as unambiguous consent. We document the basis for any personal data collected, minimise what leaves Ukraine and track Draft Law No. 8153, which would bring GDPR-style rules and a new regulator."
+    },
+    {
+      "q": "Are Ukrainian court decisions useful for litigation research?",
+      "a": "Yes. Ukraine publishes court decisions in a public electronic register, which allows searches for commercial disputes, criminal proceedings involving companies and High Anti-Corruption Court matters. Decisions may be anonymised for individuals, so we corroborate parties through registry data and other lawful sources before drawing conclusions, and we flag where proceedings may be sealed."
+    }
+  ],
+  "sources": [
+    {
+      "title": "World Bank, Population total: Ukraine",
+      "url": "https://api.worldbank.org/v2/country/UA/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "DLA Piper, Data Protection Laws of the World: Ukraine",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=UA"
+    },
+    {
+      "title": "VoxUkraine, How the new draft law changes the rules of personal data protection (2024)",
+      "url": "https://voxukraine.org/en/mandatory-informing-control-and-high-penalties-how-the-new-draft-law-changes-the-rules-of-personal-data-protection"
+    },
+    {
+      "title": "Verkhovna Rada, Adopted as a basis the Draft Law On Private Detective Activity",
+      "url": "https://www.rada.gov.ua/en/print/203539.html"
+    },
+    {
+      "title": "Kyiv Post, Poroshenko vetoes law on private detectives",
+      "url": "https://archive.kyivpost.com/ukraine-politics/poroshenko-vetoes-law-private-detectives.html"
+    },
+    {
+      "title": "Komersant, The Unified State Register is open again",
+      "url": "https://komersant.ua/en/yedr-znovu-vidkrytyy-shcho-teper-mozhut-pereviryty-ukraintsi-ta-biznes/"
+    },
+    {
+      "title": "Open Ownership, Early impacts of public beneficial ownership registers: Ukraine",
+      "url": "https://www.openownership.org/en/publications/early-impacts-of-public-beneficial-ownership-registers-ukraine/ukraines-pioneering-approach/"
+    },
+    {
+      "title": "Lex Mundi, Global Anti-Corruption Compliance Guide: Ukraine",
+      "url": "https://www.lexmundi.com/guides/anti-corruption-compliance-guide/jurisdictions/europe/ukraine/"
+    },
+    {
+      "title": "National Anti-Corruption Bureau of Ukraine",
+      "url": "https://nabu.gov.ua/en/"
+    }
+  ],
+  "review_flags": [
+    "Draft Law No. 8153 (new personal data law) passed first reading Nov 2024; not confirmed whether enacted by Nov 2026. If enacted, data_protection law/regulator fields must change.",
+    "Private detective licensing: Draft Law No. 3010 passed first reading Feb 2021; final adoption not confirmed. Presidential veto of earlier PI law taken from Kyiv Post search result title, not opened.",
+    "Register access under martial law is changing; reopening based on Law No. 4576-IX (2025) and MoJ Order 3168/5 (Nov 2025) per Komersant secondary report. Real property register access not verified.",
+    "AML law number 361-IX (2019), commercial court structure and ICAC at UCCI are stated from general knowledge, not from an opened source; verify.",
+    "Martial law status assumed still in force as of Nov 2026."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,145 @@
+{
+  "cc": "JM",
+  "name": "Jamaica",
+  "meta_description": "TDSC investigative consulting on Jamaica: counterparty due diligence, fraud and asset tracing, BPO and tourism sector research, and litigation support.",
+  "eyebrow": "Jamaica",
+  "hero_lede": "Matters touching Jamaica range from vetting a hotel, logistics or outsourcing partner to tracing proceeds of fraud and supporting proceedings in Kingston. TDSC scopes background research and due diligence from Nashville, working within the Data Protection Act and coordinating licensed Jamaican investigators and counsel where local work is required.",
+  "intro": [
+    "Jamaica is an English-speaking parliamentary democracy with a common-law legal system, final appeal to the Judicial Committee of the Privy Council and a comprehensive data protection statute that became fully operational in December 2023. Its regulatory environment is more developed than many Caribbean jurisdictions: private investigators are licensed, company records are held by the Companies Office of Jamaica, and anti-corruption and asset recovery agencies are active. Practical limits remain. Since 2023 beneficial ownership information has been available only to competent authorities, less than half of the island's land is registered under the title system, and civil litigation in the Supreme Court can take years. Investigative work therefore depends on precise scoping.",
+    "Organisations commission work involving Jamaica because of its scale in tourism, business process outsourcing, logistics, bauxite and alumina, agriculture and remittances, and because of its large diaspora in the United States, Canada and the United Kingdom. Typical needs include due diligence on hotel developers, BPO operators and special economic zone tenants, background research on local partners and senior hires, investigation of fraud schemes targeting overseas victims, asset tracing for judgments and insolvencies, and evidence gathering for disputes in Kingston or abroad. Lenders, insurers and law firms also seek to understand political exposure, reputation and litigation history among Jamaican principals."
+  ],
+  "population": {
+    "value": "2.84 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/JM/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Jamaica has a common-law system derived from English law. Civil claims are heard in the Parish Courts or the Supreme Court, with appeals to the Court of Appeal and final appeal to the Judicial Committee of the Privy Council; Jamaica has not accepted the appellate jurisdiction of the Caribbean Court of Justice. A Commercial Court within the Supreme Court has existed since 2001 but, according to the US State Department, is underused, and delays are significant. Arbitration and mediation are facilitated by the Dispute Resolution Foundation and the Caribbean Branch of the Chartered Institute of Arbitrators.",
+  "data_protection": {
+    "law": "Data Protection Act, 2020",
+    "regulator": "Office of the Information Commissioner",
+    "summary": "The Act was passed in 2020, partly commenced in December 2021 and became fully operational on 1 December 2023, followed by a six-month registration period. It sets eight data protection standards, including fair and lawful processing, purpose limitation, minimisation, accuracy, limited retention, data subject rights, security and safeguards for transfers outside Jamaica. Controllers must register with the Information Commissioner, and many must appoint a data protection officer. The Act reaches controllers outside Jamaica that process Jamaican residents' data in certain circumstances. Sensitive data, including health, biometric, political and religious information, requires particular care. Investigative work involving Jamaican personal data needs a documented purpose and lawful basis."
+  },
+  "investigator_regulation": "Private investigators in Jamaica are regulated by the Private Security Regulation Authority (PSRA), an agency of the Ministry of National Security established under legislation passed in 1992. The PSRA registers and licenses contract security organisations, security guards, security trainers and private investigators, and has warned that those who hire unregistered operators may be held liable for their conduct. Licensing confers no special powers. Police, tax and immigration records are not available to private parties, and surveillance, recording and covert approaches must comply with criminal law, the Data Protection Act and the constitutional right to privacy. TDSC confirms PSRA registration of any Jamaican professional it coordinates.",
+  "corporate_records": "Companies and business names are registered with the Companies Office of Jamaica (Office of the Registrar of Companies), which offers online registration and searches of basic company information, directors and filed documents. Amendments to the Companies Act approved in March 2023 extended beneficial ownership disclosure to all companies, lowered the threshold to 25 percent and gave the Registrar verification powers; that information is no longer publicly accessible and is available to competent authorities. Land is registered under the Registration of Titles Act, but less than half of land is registered and informal occupation is common.",
+  "anti_corruption": "The Corruption Prevention Act criminalises bribery, and the Integrity Commission Act 2017 merged three oversight bodies into a single Integrity Commission responsible for investigations, asset declarations and contract oversight. The Proceeds of Crime Act 2007 underpins money laundering offences and civil and criminal forfeiture, enforced by the Financial Investigations Division, which houses Jamaica's Financial Intelligence Unit. The Major Organised Crime and Anti-Corruption Agency (MOCA) investigates serious corruption and organised crime.",
+  "matters": [
+    {
+      "title": "Tourism and resort counterparties",
+      "text": "Due diligence on hotel owners, developers, contractors and attraction operators along the north coast and in Kingston, covering ownership through Companies Office filings, litigation history, regulatory issues and reputation, with attention to land title gaps that can complicate resort and residential projects."
+    },
+    {
+      "title": "BPO and special economic zones",
+      "text": "Background research on outsourcing operators, special economic zone developers and tenants before contracts or acquisitions, including principals, financial standing, labour disputes and client concentration, in a sector that has grown quickly and now competes hard for staff."
+    },
+    {
+      "title": "Fraud and asset tracing",
+      "text": "Supporting victims, insurers and counsel in fraud matters with Jamaican links, including schemes targeting overseas individuals, by mapping entities, property and associates from lawful sources and preparing material for referral to authorities or for civil recovery in Jamaica or abroad."
+    },
+    {
+      "title": "Partner and executive vetting",
+      "text": "Integrity checks on local partners, distributors and senior hires in logistics, mining, agriculture and financial services, covering corporate interests, litigation, adverse media and political exposure, scoped so that personal data is handled consistently with the Data Protection Act."
+    },
+    {
+      "title": "Litigation and judgment support",
+      "text": "Locating witnesses and assets, assembling public-record chronologies and identifying recoverable property for proceedings before the Supreme Court in Kingston or for enforcing foreign judgments and awards, with Jamaican counsel directing the use of any evidence gathered."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business language",
+      "value": "English; Jamaican Patois widely spoken"
+    },
+    {
+      "label": "Currency",
+      "value": "Jamaican dollar (JMD)"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Jamaica, UTC-5, no daylight saving time"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Kingston, Montego Bay and Ocho Rios"
+    },
+    {
+      "label": "Courts language",
+      "value": "English"
+    },
+    {
+      "label": "Business culture",
+      "value": "Personal relationships and referrals matter; meetings are courteous and often informal in tone"
+    },
+    {
+      "label": "Investigator licensing",
+      "value": "Private Security Regulation Authority"
+    }
+  ],
+  "tdsc_approach": "TDSC opens each Jamaican engagement with a jurisdictional review covering the client's purpose, the lawful basis for handling personal data under the Data Protection Act 2020, and which records are public, restricted or available only by court order. Desk research from Nashville draws on Companies Office filings, Supreme Court and Court of Appeal judgments, Gazette notices, regulatory announcements and Jamaican media archives. Where inquiries on the ground are needed, TDSC coordinates PSRA-licensed Jamaican investigators and works alongside the client's Jamaican counsel, who directs any approach to witnesses and any application for disclosure or preservation of assets. Personal data is limited to what the matter requires, transferred securely and retained only for the agreed period. TDSC does not seek police, tax or banking records outside lawful process.",
+  "faqs": [
+    {
+      "q": "Do private investigators need a licence in Jamaica?",
+      "a": "Yes. The Private Security Regulation Authority, under the Ministry of National Security, registers and licenses private investigators along with security firms and guards. TDSC does not hold a Jamaican licence; where local inquiries are needed it coordinates PSRA-licensed professionals, and it checks their registration before any work begins so that clients are not exposed to liability for unregistered operators."
+    },
+    {
+      "q": "Can I find out who really owns a Jamaican company?",
+      "a": "Directors and basic company information are available from the Companies Office of Jamaica. Since the 2023 amendments to the Companies Act, beneficial ownership filings are no longer publicly accessible and are available to competent authorities. TDSC can often build an ownership picture from filings, litigation, property and media sources, and counsel can advise on formal disclosure routes."
+    },
+    {
+      "q": "Does the Jamaican Data Protection Act apply to a foreign client?",
+      "a": "It can. The Act applies to controllers established in Jamaica and, in some circumstances, to foreign organisations that process Jamaican residents' personal data. It has been fully operational since December 2023, with registration overseen by the Office of the Information Commissioner. TDSC documents the purpose of each engagement and minimises the personal data it collects."
+    },
+    {
+      "q": "How long does it take to verify title to Jamaican property?",
+      "a": "It depends on whether the land is registered. Registered land can be checked against the title register, but less than half of land in Jamaica is registered, and informal occupation and squatting are common. Unregistered parcels require deeper work by Jamaican attorneys and surveyors, which TDSC can complement with research on sellers and prior disputes."
+    },
+    {
+      "q": "Can TDSC help with a fraud that originated in Jamaica?",
+      "a": "TDSC can assemble lawful evidence on the entities, people and property involved, prepare it in a form suitable for counsel and law enforcement, and support civil recovery through Jamaican or foreign courts. Criminal investigation and asset forfeiture are matters for Jamaican authorities, including the Financial Investigations Division and MOCA, to whom counsel can make referrals."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Jamaica Information Service, Data Protection Act takes effect today (December 2023)",
+      "url": "https://jis.gov.jm/data-protection-act-takes-effect-today/"
+    },
+    {
+      "title": "Chambers and Partners, A snapshot of the Data Protection Act (Jamaica)",
+      "url": "https://chambers.com/articles/a-snapshot-of-the-data-protection-act"
+    },
+    {
+      "title": "Jamaica Information Service, Only hire licensed security guards - PSRA (March 2019)",
+      "url": "https://jis.gov.jm/only-hire-licensed-security-guards-psra/"
+    },
+    {
+      "title": "Jamaica Observer, Spying now hot business (January 2022)",
+      "url": "https://www.jamaicaobserver.com/2022/01/30/spying-now-hot-business/"
+    },
+    {
+      "title": "Ministry of Industry, Investment and Commerce, Companies Act amended to strengthen anti-money laundering efforts",
+      "url": "https://www.miic.gov.jm/companies-act-amended-strengthen-anti-money-laundering-efforts"
+    },
+    {
+      "title": "US Department of State, 2024 Investment Climate Statements: Jamaica",
+      "url": "https://www.state.gov/reports/2024-investment-climate-statements/jamaica/"
+    },
+    {
+      "title": "Financial Investigations Division, About the FID",
+      "url": "https://fid.gov.jm/?page_id=5"
+    },
+    {
+      "title": "World Bank, Population total: Jamaica",
+      "url": "https://api.worldbank.org/v2/country/JM/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    }
+  ],
+  "review_flags": [
+    "Exact short title of the PSRA's governing statute not confirmed from an official text (sources refer to 'the PSRA Act' passed in 1992); described generically.",
+    "Data Protection Act breach notification and penalty provisions not verified, so not described; the Minister indicated the sanctions regime for unregistered controllers would take effect later.",
+    "Status of the Corruption Prevention Act alongside the Integrity Commission Act 2017 taken from the 2024 US Investment Climate Statement; confirm it has not been consolidated or repealed.",
+    "DLA Piper's c=JM page returned Albania content, so it was not used as a source."
+  ],
+  "researched": "2026-11-04"
+}

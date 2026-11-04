@@ -1,0 +1,142 @@
+{
+  "cc": "OM",
+  "name": "Oman",
+  "meta_description": "TDSC investigative consulting on Oman: counterparty due diligence, asset tracing and data-compliant research under the 2022 Personal Data Protection Law.",
+  "eyebrow": "Sultanate of Oman",
+  "hero_lede": "Investigative consulting for matters touching Oman means working within a consent-centred data protection regime, Arabic-language courts and records, and a business community where family groups and state-linked entities are prominent. TDSC scopes each engagement from Nashville and coordinates qualified local professionals where work in Oman requires it.",
+  "intro": [
+    "Oman is a Gulf monarchy whose economy still rests heavily on hydrocarbons while the state pursues diversification under its Vision 2040 programme through free zones and the Special Economic Zone at Duqm. Commercial law is codified and applied in Arabic. Since 2025 a specialised Investment and Commerce Court has handled merchant and investment disputes, and the Personal Data Protection Law became fully enforceable in February 2026. For investigators, this combination means that official records, court filings and regulatory guidance are primarily in Arabic, that personal data handling now carries explicit consent and transfer obligations, and that much of the commercial landscape is shaped by long-established family conglomerates and government-related enterprises.",
+    "Organisations commission investigative work involving Oman when they enter joint ventures or agency arrangements with Omani partners, bid for infrastructure, energy or port projects, or acquire stakes in local businesses. Typical exposures include undisclosed related-party interests, conflicts involving public officials, sponsor or agency disputes, and asset tracing after a commercial relationship breaks down. Oman's position on regional shipping routes and its trade links with India, the other Gulf states, China and East Africa also bring supply-chain and counterparty questions. Insurers, lenders and law firms instruct background work on executives and counterparties, while employers in the region seek lawful support with internal misconduct inquiries involving staff based in Muscat or Sohar."
+  ],
+  "population": {
+    "value": "5.49 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/OM/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Oman has a civil law system built on codified statutes, with Islamic law (Sharia) as a basis of legislation and governing personal status matters. Commercial disputes are heard in the ordinary court hierarchy, which culminates in the Supreme Court, and, since 2025, in a specialised Investment and Commerce Court established by Royal Decree with jurisdiction over disputes between merchants on commercial activities and investment contracts. Proceedings are conducted in Arabic. The Oman Commercial Arbitration Centre, supported by the Oman Chamber of Commerce and Industry, administers institutional arbitration under Oman's arbitration law.",
+  "data_protection": {
+    "law": "Personal Data Protection Law (Royal Decree No. 6/2022) and its Executive Regulations (Ministerial Decision No. 34/2024)",
+    "regulator": "Ministry of Transport, Communications and Information Technology",
+    "summary": "Oman's Personal Data Protection Law became fully enforceable on 5 February 2026, when the transition period extended by Ministerial Decision No. 6/2025 ended. The regime is consent-centred: controllers must obtain explicit, informed and verifiable consent unless a statutory exclusion applies, and it remains unsettled how far those exclusions operate as independent lawful bases. Transfers of personal data outside Oman require the data subject's explicit consent, must not prejudice national security or higher national interests, and should go to jurisdictions offering equivalent protection. Controllers must appoint a data protection officer and report breaches within 72 hours. Investigative work that collects or exports personal data on Omani residents needs a documented basis before it begins."
+  },
+  "investigator_regulation": "We have not identified a published licensing regime in Oman for private investigators or detective agencies comparable to those in many other jurisdictions, and we have not confirmed that such activity is recognised as a licensable commercial activity. Investigative work touching Oman should therefore be treated as restricted to open-source research, review of lawfully obtainable records and properly authorised interviews. Covert surveillance, recording of individuals and attempts to obtain police, telecommunications, banking or immigration information are matters for the authorities and are outside what any private party should attempt. Engagements are scoped with Omani counsel before any local enquiries are made.",
+  "corporate_records": "Companies are registered with the Ministry of Commerce, Industry and Investment Promotion, which maintains the commercial registry under the Commercial Companies Law (Royal Decree No. 18/2019). Commercial registration details such as company name, legal form, registered activities and listed partners or shareholders can generally be obtained through the ministry, though third-party access varies. Under the beneficial ownership regulation issued in 2023, companies must identify their ultimate beneficial owners, keep a register at their head office for at least ten years and make it available to the government; we have not identified public access to that information. Court records are not generally searchable by the public.",
+  "anti_corruption": "Bribery is criminalised under the Penal Code (Royal Decree No. 7/2018), which covers both offering and accepting bribes, and the Law for the Protection of Public Funds and Avoidance of Conflicts of Interest (Royal Decree No. 112/2011, as amended) governs conflicts involving public officials. Money laundering and terrorist financing are addressed by Royal Decree No. 30/2016, which established the National Centre for Financial Information as the financial intelligence unit. The State Financial and Administrative Audit Institution and the Public Prosecution are central to enforcement.",
+  "matters": [
+    {
+      "title": "Joint venture partner due diligence",
+      "text": "Background and reputational review of Omani partners, agents and family-owned groups before a joint venture, distribution or agency agreement, including corporate affiliations, litigation visible in open sources, politically exposed connections and the history of previous foreign partnerships."
+    },
+    {
+      "title": "Energy and infrastructure counterparties",
+      "text": "Counterparty screening for contractors, subcontractors and suppliers bidding on oil and gas, renewable energy, port and logistics projects, including at Duqm and Sohar, with attention to beneficial ownership, sanctions exposure, related-party interests and any public procurement controversies."
+    },
+    {
+      "title": "Asset tracing after disputes",
+      "text": "Research supporting counsel who are enforcing judgments or arbitral awards against parties with Omani connections, identifying corporate holdings, vessels, real estate interests and regional affiliates through lawful sources, and mapping assets held elsewhere in the Gulf."
+    },
+    {
+      "title": "Executive and senior hire screening",
+      "text": "Lawful verification of education, employment history, directorships and public-record issues for executives relocating to or from Oman, scoped around the consent and transfer requirements of the Personal Data Protection Law. Findings are documented with their sources."
+    },
+    {
+      "title": "Supply chain and trade integrity",
+      "text": "Review of trading companies and free zone entities involved in re-export, shipping and commodity flows through Omani ports, assessing through lawful sources whether ownership, activity and counterparties match what has been represented to the client."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Arabic (official); English widely used in commerce"
+    },
+    {
+      "label": "Working week",
+      "value": "Sunday to Thursday"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Muscat, UTC+4 (no daylight saving)"
+    },
+    {
+      "label": "Courts language",
+      "value": "Arabic; foreign documents need certified Arabic translation"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Muscat, Sohar, Duqm, Salalah"
+    },
+    {
+      "label": "Currency",
+      "value": "Omani rial (OMR)"
+    },
+    {
+      "label": "Business culture",
+      "value": "Relationship-based; introductions and personal standing matter"
+    }
+  ],
+  "tdsc_approach": "TDSC works on matters touching Oman from Nashville and holds no licence in the Sultanate. Each engagement begins with a jurisdictional review: what the client needs to establish, which sources can lawfully be used, and whether any collection or transfer of personal data engages the Personal Data Protection Law's consent and cross-border requirements. Research relies on public registries, Arabic-language open sources, published judgments where available and properly arranged interviews. Where work inside Oman is needed, TDSC coordinates with Omani counsel and with qualified, appropriately authorised local professionals rather than acting directly. TDSC does not attempt to obtain police, banking, telecommunications or immigration information. Findings are reported with their sources and limits, and personal data is minimised, held securely and retained only as the engagement requires.",
+  "faqs": [
+    {
+      "q": "Can TDSC carry out surveillance in Oman?",
+      "a": "No. We have not identified a licensing framework under which private surveillance would be recognised in Oman, and covert monitoring of individuals raises criminal, privacy and immigration risks. TDSC limits work touching Oman to lawful research, records review and authorised interviews, and asks Omani counsel to advise before any enquiry is conducted on the ground."
+    },
+    {
+      "q": "How does the Personal Data Protection Law affect background checks?",
+      "a": "Since 5 February 2026 the law has been fully enforceable. It centres on explicit, informed consent, and transfers of personal data out of Oman generally need the data subject's explicit consent. Background checks on Omani residents should therefore be designed with consent and data minimisation in mind, and clients should confirm their own position with counsel."
+    },
+    {
+      "q": "Can we find out who ultimately owns an Omani company?",
+      "a": "Companies must maintain beneficial ownership registers under a 2023 regulation, but those registers are kept for government inspection rather than public search. TDSC works from commercial registration details, shareholder information that is lawfully available, open-source research and corporate filings in other jurisdictions to build an ownership picture, and states plainly where gaps remain."
+    },
+    {
+      "q": "Are research findings usable in Omani proceedings?",
+      "a": "Whether material can be relied on in Omani courts or in arbitration is a question for Omani counsel. Proceedings are in Arabic, and foreign documents generally require certified translation and formal authentication. TDSC prepares sourced reports suitable for counsel to assess and can coordinate translation through qualified providers when the matter requires it."
+    },
+    {
+      "q": "Which sectors raise the most counterparty risk?",
+      "a": "In our experience, projects in energy, ports, logistics, construction and government procurement attract the most scrutiny, because they combine large contract values, agents or intermediaries and close interaction with state-linked entities. Free zone trading companies also warrant attention where ownership or activity is unclear. Each review is calibrated to the specific transaction."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CMS: Oman personal data protection law entering the enforcement phase",
+      "url": "https://cms.law/en/omn/legal-updates/oman-personal-data-protection-law-entering-the-enforcement-phase"
+    },
+    {
+      "title": "CMS Expert Guide to Anti-Bribery and Corruption Laws: Oman",
+      "url": "https://cms.law/en/int/expert-guides/cms-expert-guide-to-anti-bribery-and-corruption-laws/oman"
+    },
+    {
+      "title": "Chambers: Oman, an introduction to dispute resolution",
+      "url": "https://chambers.com/content/item/6545"
+    },
+    {
+      "title": "Oman Observer: Investment and Commercial Court established in Oman",
+      "url": "https://www.omanobserver.om/ampArticle/1168057"
+    },
+    {
+      "title": "Decree.om blog: Ultimate beneficial ownership in Oman",
+      "url": "https://blog.decree.om/2026/ultimate-beneficial-ownership-ubo-in-oman-identification-and-disclosure-requirements/"
+    },
+    {
+      "title": "Curtis Oman Law Blog: Oman's new anti-money laundering law",
+      "url": "https://omanlawblog.curtis.com/2016/07/omans-new-anti-money-laundering-law.html"
+    },
+    {
+      "title": "Oman Observer: Oman issues new regulations to strengthen anti-money laundering efforts",
+      "url": "https://www.omanobserver.om/ampArticle/1141151"
+    },
+    {
+      "title": "World Bank: Population, total (Oman)",
+      "url": "https://api.worldbank.org/v2/country/OM/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    }
+  ],
+  "review_flags": [
+    "No private investigator licensing regime identified for Oman; text states this honestly and should be confirmed by Omani counsel.",
+    "Investment and Commerce Court: Chambers cites Royal Decree 35/2025; decree number not independently confirmed from an official source, so the page omits it.",
+    "Oman Commercial Arbitration Centre named from Chambers; arbitration law number not stated.",
+    "Commercial Companies Law Royal Decree 18/2019 and public availability of commercial registry extracts not confirmed from an official source in this research pass.",
+    "Vision 2040, working week, Duqm SEZ and Sharia's constitutional role stated from general knowledge rather than an opened source."
+  ],
+  "researched": "2026-11-04"
+}

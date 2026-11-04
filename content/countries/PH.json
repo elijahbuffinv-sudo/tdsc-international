@@ -1,0 +1,142 @@
+{
+  "cc": "PH",
+  "name": "Philippines",
+  "meta_description": "TDSC investigative consulting on the Philippines: SEC records and beneficial ownership, Data Privacy Act-aware research and PNP-licensed local coordination.",
+  "eyebrow": "Republic of the Philippines",
+  "hero_lede": "Investigative consulting for matters touching the Philippines means working with SEC corporate filings and a new beneficial ownership registry, a Data Privacy Act that treats offence proceedings as sensitive information, and a private investigation sector licensed by the Philippine National Police.",
+  "intro": [
+    "The Philippines is an archipelago of more than 7,000 islands and one of the faster-growing economies in Southeast Asia, with commercial activity concentrated in Metro Manila and significant centres in Cebu, Davao and the economic zones of Calabarzon and Central Luzon. English is widely used in business, government and the courts, and many corporate and court records are produced in English. Corporations are registered with the Securities and Exchange Commission (SEC), which in January 2026 launched an online beneficial ownership registry under revised disclosure rules. The Data Privacy Act of 2012 is administered by an active National Privacy Commission, and private detective agencies are licensed under the Private Security Services Industry Act of 2022.",
+    "Organisations commission work involving the Philippines because of its role in business process outsourcing, remittances, electronics manufacturing, infrastructure, energy, mining and real estate, and as a source of labour and services for multinational groups. Recurring exposures include family-controlled conglomerates with complex cross-holdings, dummy or nominee arrangements used to work around constitutional and statutory foreign-ownership limits, procurement and permitting risk at national and local government level, and fraud involving shell companies and online payment channels. Investors, lenders, insurers and counsel regularly need reliable background on Philippine counterparties, verification of ownership and control, and documentary support for litigation and arbitration involving Philippine parties."
+  ],
+  "population": {
+    "value": "116.8 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/PH/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "The Philippines has a mixed legal system combining civil-law codification, notably the Civil Code, with common-law features, including precedent set by Supreme Court decisions. Commercial disputes are heard by the Regional Trial Courts, some branches of which are designated special commercial courts, with appeals to the Court of Appeals and the Supreme Court. The Court of Tax Appeals and the Sandiganbayan, an anti-graft court, have specialised jurisdiction. Arbitration is governed by the Alternative Dispute Resolution Act of 2004 (Republic Act No. 9285), and the Philippine Dispute Resolution Center (PDRCI) is a leading domestic institution.",
+  "data_protection": {
+    "law": "Data Privacy Act of 2012 (Republic Act No. 10173) and its 2016 Implementing Rules and Regulations",
+    "regulator": "National Privacy Commission (NPC)",
+    "summary": "Processing is permitted where necessary for legitimate interests pursued by the controller, unless overridden by the data subject's fundamental rights, which is the basis most relevant to investigative work. Information about any proceeding for an offence committed or alleged to have been committed is sensitive personal information with narrower processing bases; a 2024 NPC advisory addresses processing for court proceedings and legal claims. Controllers remain accountable for data transferred abroad, and the NPC issued model contractual clauses for cross-border transfers in May 2024. Notifiable breaches must be reported to the NPC and affected individuals within 72 hours. Criminal penalties apply to unlawful processing, prosecuted by the Department of Justice."
+  },
+  "investigator_regulation": "Private investigation is a licensed activity. The Private Security Services Industry Act (Republic Act No. 11917), which lapsed into law on 30 July 2022 and repealed Republic Act No. 5487, requires a juridical person operating a private detective agency to hold a licence to operate issued by the Chief of the Philippine National Police, and treats private investigators as private security professionals who need a licence to exercise the profession, Filipino citizenship and pre-licensing training. Recording of private communications without consent is separately restricted under the Anti-Wiretapping Act (Republic Act No. 4200), and data privacy rules apply to information gathering.",
+  "corporate_records": "Corporations and partnerships are registered with the SEC under the Revised Corporation Code of 2019, and annual filings such as the General Information Sheet, which lists directors, officers and stockholders, and audited financial statements can generally be requested from the SEC. SEC Memorandum Circular No. 15, Series of 2025, effective 1 January 2026, lowers the beneficial ownership threshold to 20 percent, requires nominees to disclose their principals, prohibits bearer shares and moves reporting to the HARBOR online registry launched in January 2026. Whether that registry is open to the public has not been confirmed. Land titles are recorded at Registries of Deeds under the Land Registration Authority.",
+  "anti_corruption": "The Anti-Graft and Corrupt Practices Act (Republic Act No. 3019, 1960) and the Revised Penal Code's bribery provisions are the principal corruption laws. The Office of the Ombudsman investigates and prosecutes public officials, and the Sandiganbayan tries graft cases. The Anti-Money Laundering Act of 2001 (Republic Act No. 9160), amended several times since, is administered by the Anti-Money Laundering Council (AMLC), which acts as the financial intelligence unit and can seek freezing of assets linked to unlawful activity.",
+  "matters": [
+    {
+      "title": "Dummy and nominee arrangements",
+      "text": "Analysis of whether Filipino shareholders in businesses subject to foreign-ownership limits hold their shares in substance, combining SEC General Information Sheets over time, director and officer networks, related-party filings, litigation and media, with any conclusions on legality left to Philippine counsel."
+    },
+    {
+      "title": "Counterparty and conglomerate due diligence",
+      "text": "Background research on Philippine partners, distributors and suppliers, including entities within family-controlled conglomerates, covering corporate history, cross-holdings, regulatory actions, court cases and reputational coverage in English and Filipino-language media ahead of investment, lending or contracting."
+    },
+    {
+      "title": "Outsourcing and vendor integrity",
+      "text": "Integrity and ownership reviews of business process outsourcing providers, staffing agencies and service vendors handling client data or funds, examining corporate filings, principals' business histories, adverse media and disputes, with attention to Data Privacy Act obligations on the vendor relationship."
+    },
+    {
+      "title": "Asset tracing for enforcement",
+      "text": "Identification of corporate interests, real property recorded at Registries of Deeds and business relationships connected to a judgment or award debtor, supporting Philippine counsel planning recognition and enforcement of foreign judgments or arbitral awards under the Alternative Dispute Resolution Act."
+    },
+    {
+      "title": "Procurement and graft exposure",
+      "text": "Documentary research on contractors, consultants and intermediaries dealing with national agencies, government-owned corporations and local government units, drawing on public procurement records, Ombudsman and Sandiganbayan decisions and media to inform anti-corruption compliance reviews and third-party onboarding decisions."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "English and Filipino; regional languages such as Cebuano widely spoken"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Manila, UTC+8 (no daylight saving time)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday in most offices"
+    },
+    {
+      "label": "Currency",
+      "value": "Philippine peso (PHP)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Metro Manila (Makati, Bonifacio Global City, Ortigas), Cebu, Davao, Clark"
+    },
+    {
+      "label": "Courts language",
+      "value": "English predominates in pleadings and decisions"
+    },
+    {
+      "label": "Company registry",
+      "value": "Securities and Exchange Commission (SEC)"
+    },
+    {
+      "label": "Investigator licensing",
+      "value": "Chief of the Philippine National Police under Republic Act No. 11917"
+    }
+  ],
+  "tdsc_approach": "TDSC scopes Philippine matters from Nashville by documenting the client's legitimate interest under the Data Privacy Act, identifying any sensitive information such as offence proceedings, and planning transfers of findings under contractual safeguards consistent with the NPC model clauses. Research draws on SEC filings, Supreme Court and appellate decisions, procurement records, regulatory announcements and English and Filipino-language media. Where interviews, surveillance or other field enquiries are needed, TDSC coordinates detective agencies holding a PNP licence to operate and works with Philippine counsel, bearing in mind the Anti-Wiretapping Act. TDSC holds no Philippine licence, does not approach officials for information, obtain non-public records or use pretexting, and keeps case data under restricted access with defined retention.",
+  "faqs": [
+    {
+      "q": "Who licenses private investigators in the Philippines?",
+      "a": "Under the Private Security Services Industry Act of 2022, the Chief of the Philippine National Police issues licences to operate private detective agencies and licences for private security professionals, a category that includes private investigators. TDSC is not licensed in the Philippines and coordinates appropriately licensed local agencies for any field work."
+    },
+    {
+      "q": "Can beneficial ownership of a Philippine corporation be checked?",
+      "a": "SEC Memorandum Circular No. 15, Series of 2025, in force since 1 January 2026, requires disclosure of natural persons holding 20 percent or more, or exercising effective control, through the HARBOR registry. Public access to that data has not been confirmed in our review, so ownership work also relies on General Information Sheets, financial statements and corroborating sources."
+    },
+    {
+      "q": "Does the Data Privacy Act restrict background research on individuals?",
+      "a": "It regulates it rather than prohibiting it. Legitimate interests can support due diligence and dispute work, but information about offence proceedings is sensitive personal information with narrower grounds, and the NPC has issued guidance on processing for legal claims. TDSC records purpose and proportionality before research begins and does not give legal advice."
+    },
+    {
+      "q": "Can conversations be recorded during a Philippine investigation?",
+      "a": "The Anti-Wiretapping Act prohibits recording private communications without the consent of all parties, subject to narrow exceptions. TDSC does not arrange covert recording of private conversations and ensures that any interviews conducted by licensed local professionals follow consent and data privacy requirements agreed with Philippine counsel."
+    },
+    {
+      "q": "Are Philippine court decisions useful for counterparty research?",
+      "a": "Often. Supreme Court and appellate decisions are published and searchable, and they can reveal disputes, fraud findings and graft cases involving companies and individuals. Trial court records are less consistently accessible, so findings are framed carefully and corroborated with SEC filings, regulatory announcements and media."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Philippines",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=PH"
+    },
+    {
+      "title": "World Bank: Population, total (Philippines)",
+      "url": "https://api.worldbank.org/v2/country/PH/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "Supreme Court E-Library: Republic Act No. 11917, Private Security Services Industry Act",
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/95597"
+    },
+    {
+      "title": "Rödl & Partner: Philippines new SEC digital beneficial ownership registry (February 2026)",
+      "url": "https://www.roedl.com/en/insights/philippines-new-sec-digital-beneficial-ownership-registry/"
+    },
+    {
+      "title": "Lawphil: Republic Act No. 3019, Anti-Graft and Corrupt Practices Act (1960)",
+      "url": "https://lawphil.net/statutes/repacts/ra1960/ra_3019_1960.html"
+    },
+    {
+      "title": "Lawphil: Republic Act No. 9160, Anti-Money Laundering Act of 2001",
+      "url": "https://www.lawphil.net/statutes/repacts/ra2001/ra_9160_2001.html"
+    },
+    {
+      "title": "Lawphil: Republic Act No. 9285, Alternative Dispute Resolution Act of 2004",
+      "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9285_2004.html"
+    }
+  ],
+  "review_flags": [
+    "Public accessibility of SEC HARBOR beneficial ownership data not confirmed; check SEC guidance before relying on it.",
+    "RA 11917 text opened does not expressly apply Filipino-ownership rule or licence-to-operate wording to detective agencies in every section; implementing rules (IRR) not reviewed. Confirm current PNP licensing practice with Philippine counsel.",
+    "Anti-Wiretapping Act (RA 4200), Revised Corporation Code (2019), DTI business-name registration, Torrens/LRA land records, special commercial court designation, PDRCI, Ombudsman/Sandiganbayan/AMLC roles and mixed-legal-system characterisation are from general knowledge or search-result listings, not pages opened this session.",
+    "RA 9160 and RA 9285 sources were seen in search results but not opened (web fetch rate limit reached during research).",
+    "Pending Data Privacy Act amendment bills (e.g., HB 9651) could change penalties and sensitive-data categories; DLA Piper did not expect enactment within 12 months."
+  ],
+  "researched": "2026-11-04"
+}

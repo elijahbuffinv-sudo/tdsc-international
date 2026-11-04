@@ -1,0 +1,146 @@
+{
+  "cc": "GE",
+  "name": "Georgia",
+  "meta_description": "TDSC investigative consulting on Georgia: due diligence, ownership checks and dispute support using NAPR registry records and the 2023 data protection law.",
+  "eyebrow": "Georgia, South Caucasus",
+  "hero_lede": "Investigative consulting for matters touching Georgia relies on the National Agency of Public Registry's company and property records, a 2023 GDPR-style data protection law now supervised by the State Audit Office, limited beneficial ownership transparency, and coordination with qualified local professionals and Georgian counsel.",
+  "intro": [
+    "Georgia has built a reputation for straightforward company formation and property registration, much of it handled through the National Agency of Public Registry (NAPR) under the Ministry of Justice and the Public Service Halls. For investigators this means that direct shareholders, company status and registered property rights can usually be established from official records. Ownership behind those shareholders is harder: Georgia does not operate a public register of beneficial owners. Institutional change has also been significant, with the Anti-Corruption Bureau and the Personal Data Protection Service liquidated on 2 March 2026 and their functions transferred to the State Audit Office.",
+    "Organisations commission investigative work involving Georgia because of its position as a transit corridor linking the Black Sea, the Caspian region, Turkey and Central Asia, its free industrial zones, and foreign investment in logistics, energy, hydropower, real estate, tourism and banking. Since 2022 the country has also seen inflows of companies and individuals relocating from Russia and elsewhere in the region, which raises questions for counterparties about ownership, sanctions exposure and the movement of funds. Typical concerns include opaque holding structures, the reliability of trade intermediaries, property disputes and the background of partners in real estate and hospitality projects."
+  ],
+  "population": {
+    "value": "3.94 million",
+    "year": "2025",
+    "source_url": "https://api.worldbank.org/v2/country/GE/indicator/SP.POP.TOTL?format=json&mrnev=1"
+  },
+  "legal_system": "Georgia has a civil law system based on codified legislation, including the Civil Code and the Law on Entrepreneurs, which was substantially rewritten with effect from 2022. Commercial disputes are heard by the ordinary courts: first-instance city and district courts, including Tbilisi City Court, the Courts of Appeals in Tbilisi and Kutaisi, and the Supreme Court of Georgia as the court of cassation. Arbitration is widely used in commercial contracts, and the Georgian International Arbitration Centre (GIAC) in Tbilisi is the principal institutional forum. Proceedings are conducted in Georgian.",
+  "data_protection": {
+    "law": "Law of Georgia on Personal Data Protection (adopted 14 June 2023, main provisions in force 1 March 2024, amended 17 December 2025)",
+    "regulator": "State Audit Office of Georgia (supervisory functions transferred from the Personal Data Protection Service on 2 March 2026)",
+    "summary": "The 2023 law follows GDPR principles. Investigative processing needs a lawful basis such as the legitimate interests of the client or a third party, data made public by the individual, or consent, and special category data needs an additional ground with safeguards. The law separately regulates video and audio monitoring, which matters for any workplace or covert recording. Transfers abroad are permitted to countries assessed as adequate by the supervisory authority, under contracts with enforceable safeguards, or on other listed grounds, so transfers to the United States need a documented mechanism. We have not identified a general data localisation requirement."
+  },
+  "investigator_regulation": "We have not identified a dedicated licensing regime for private investigators or detective agencies in Georgia. The Law on Private Security Activities (2008), under which licences are issued by the Public Safety Command Center 112 of the Ministry of Internal Affairs, covers guarding and technical security, not investigations, and expressly bars security companies from operational and investigative actions prohibited by Georgian law. Covert surveillance and interception are reserved to state bodies under strict procedures, and unlawful recording of private life is a criminal matter. Engagements are therefore scoped with Georgian counsel, relying on public records and lawful open-source and interview-based enquiries.",
+  "corporate_records": "The National Agency of Public Registry (NAPR), under the Ministry of Justice, registers entrepreneurs and non-entrepreneurial legal entities, immovable property rights with cadastral data, movable and intangible property rights, mortgages and tax liens. Registry extracts show a company's status, directors and registered direct shareholders. Georgia does not maintain a public register of beneficial owners: NAPR records only direct legal owners, and beneficial ownership is identified mainly by banks and other obliged entities under AML rules, so layered or nominee structures must be traced through foreign registries and other sources. Property records held by NAPR are a well-used source for asset research.",
+  "anti_corruption": "Bribery and related offences are criminalised in the Criminal Code of Georgia. The Anti-Corruption Bureau, which oversaw asset declarations and political finance, was liquidated on 2 March 2026 and its functions transferred to the State Audit Office. Criminal corruption cases are investigated by state law enforcement bodies. Anti-money laundering obligations arise under the Law on Facilitating the Prevention of Money Laundering and the Financing of Terrorism, with the Financial Monitoring Service of Georgia acting as the financial intelligence unit.",
+  "matters": [
+    {
+      "title": "Counterparty and ownership verification",
+      "text": "Confirming who stands behind Georgian companies when NAPR shows only direct shareholders, by tracing corporate shareholders through foreign registries, reviewing directors' other appointments and property holdings, and testing the counterparty's own account of its ownership against court records, media archives and open sources in Georgian, Russian and English."
+    },
+    {
+      "title": "Transit trade and sanctions exposure",
+      "text": "Reviewing freight forwarders, traders and logistics companies that move goods through Poti, Batumi or overland routes to Armenia, Azerbaijan and Central Asia, where clients need assurance that intermediaries are not connected to restricted parties or involved in diversion of controlled goods."
+    },
+    {
+      "title": "Real estate and hospitality investment",
+      "text": "Supporting investors in Tbilisi and Batumi residential, hotel and resort projects with background research on developers and local partners, verification of registered title and encumbrances in NAPR records, and review of prior disputes, unfinished projects and complaints from buyers."
+    },
+    {
+      "title": "Relocated businesses and founders",
+      "text": "Assessing companies and individuals who have moved operations to Georgia since 2022, including technology firms and traders, where clients must understand prior business history abroad, the source of capital, continuing links to their home jurisdiction and any adverse regulatory or media record."
+    },
+    {
+      "title": "Asset research for disputes",
+      "text": "Assisting counsel in identifying real estate, company interests and movable property linked to a Georgian debtor ahead of enforcement of a court judgment or arbitral award, with recognition and enforcement steps handled by Georgian lawyers before the competent courts and enforcement bureau."
+    }
+  ],
+  "practical": [
+    {
+      "label": "Business languages",
+      "value": "Georgian; English and Russian widely used in business"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Tbilisi, UTC+4 (no daylight saving)"
+    },
+    {
+      "label": "Working week",
+      "value": "Monday to Friday"
+    },
+    {
+      "label": "Currency",
+      "value": "Georgian lari (GEL)"
+    },
+    {
+      "label": "Main business centres",
+      "value": "Tbilisi, Batumi, Kutaisi, Poti"
+    },
+    {
+      "label": "Courts language",
+      "value": "Georgian; foreign documents need notarised translation"
+    },
+    {
+      "label": "Key registry",
+      "value": "National Agency of Public Registry (NAPR), Ministry of Justice"
+    },
+    {
+      "label": "Business culture",
+      "value": "Personal networks and hospitality carry weight; decisions often sit with founders"
+    }
+  ],
+  "tdsc_approach": "Engagements touching Georgia are scoped from Nashville, beginning with a review of what can lawfully be established and which institutions now hold relevant powers, given the 2026 transfer of data protection and anti-corruption functions to the State Audit Office. Research draws on NAPR company and property records, court decisions, procurement information, foreign registries and open sources in Georgian, Russian and English. Because Georgia has no dedicated licensing regime for private investigators, any enquiries on the ground are carried out by qualified local professionals under the direction of Georgian counsel, without covert recording or surveillance. Every matter is screened for sanctions exposure. Personal data is minimised and transferred under a documented safeguard. TDSC does not use pretexting or seek restricted government records.",
+  "faqs": [
+    {
+      "q": "Does Georgia have a public register of beneficial owners?",
+      "a": "No. As of 2025, the National Agency of Public Registry records direct legal shareholders, not ultimate beneficial owners, and analysts have noted the gap. Beneficial ownership is collected mainly by banks and other obliged entities under anti-money laundering rules, which is not public. Where a Georgian company is held by a foreign entity, we trace ownership through the relevant foreign registries and other lawful sources."
+    },
+    {
+      "q": "Who supervises data protection in Georgia now?",
+      "a": "Under amendments adopted by Parliament on 17 December 2025, the Personal Data Protection Service was liquidated and its supervisory functions passed to the State Audit Office of Georgia on 2 March 2026. The substantive rules remain those of the 2023 Law on Personal Data Protection, which follows GDPR principles, including restrictions on video and audio monitoring and on transfers abroad."
+    },
+    {
+      "q": "Are private investigators licensed in Georgia?",
+      "a": "We have not identified a dedicated licensing law for private investigators. The Law on Private Security Activities licenses guarding and technical security services, not investigations, and bars security companies from prohibited investigative actions. Covert surveillance is reserved to state bodies. We therefore scope Georgian enquiries with local counsel and rely on public records, open sources and lawful interviews."
+    },
+    {
+      "q": "Can property owned by a Georgian counterparty be identified?",
+      "a": "Often, yes. NAPR registers immovable property rights together with cadastral data, as well as mortgages, tax liens and certain movable and intangible property rights. Searches require care with transliteration of Georgian names and with identification details. Results are a starting point for counsel, who decide how findings are used in court, arbitration or enforcement."
+    },
+    {
+      "q": "What sanctions considerations arise in Georgian matters?",
+      "a": "Georgia is not subject to comprehensive US sanctions, but its role as a trade corridor and the relocation of businesses from Russia since 2022 mean that counterparties may have links to restricted parties. TDSC screens every matter and does not accept work that would breach US or other applicable sanctions; due diligence on Georgian intermediaries frequently focuses on these links."
+    }
+  ],
+  "sources": [
+    {
+      "title": "World Bank: Population, total (Georgia)",
+      "url": "https://api.worldbank.org/v2/country/GE/indicator/SP.POP.TOTL?format=json&mrnev=1"
+    },
+    {
+      "title": "DLA Piper Data Protection Laws of the World: Georgia",
+      "url": "https://www.dlapiperdataprotection.com/?t=law&c=GE"
+    },
+    {
+      "title": "Parliament of Georgia: Anti-Corruption Bureau and Personal Data Protection Service to be abolished on 2 March 2026",
+      "url": "https://parliament.ge/en/print/news/antikoruftsiuli-biuro-da-personalur-monatsemta-datsvis-samsakhuri-2026-tslis-2-marts-gaukmdeba"
+    },
+    {
+      "title": "National Agency of Public Registry: About the Agency",
+      "url": "https://napr.gov.ge/en/about-agency"
+    },
+    {
+      "title": "IDFI: Beneficial ownership standards in Georgia, analysis (2024)",
+      "url": "https://idfi.ge/en/bo-standards-georgia-analysis"
+    },
+    {
+      "title": "Matsne (Legislative Herald of Georgia): Law on Private Security Activities",
+      "url": "https://matsne.gov.ge/en/document/view/19414"
+    },
+    {
+      "title": "Georgia Today: Amendments to the Law on Facilitating Prevention of Money Laundering and Financing of Terrorism (2022)",
+      "url": "https://georgiatoday.ge/amendments-to-law-on-facilitating-prevention-of-money-laundering-and-financing-of-terrorism/"
+    },
+    {
+      "title": "1TV: Anti-Corruption Bureau to be disbanded, functions transferred to State Audit Office",
+      "url": "https://1tv.ge/lang/en/news/anti-corruption-bureau-to-be-disbanded-its-functions-transferred-to-state-audit-office/"
+    }
+  ],
+  "review_flags": [
+    "Personal Data Protection Service and Anti-Corruption Bureau liquidated 2 March 2026; functions moved to the State Audit Office (Parliament of Georgia, DLA Piper). Confirm the State Audit Office's exact remit and naming once implementation guidance is published.",
+    "No dedicated private investigator licensing law identified; statement rests on the absence of one in research and the scope of the Law on Private Security Activities. Confirm with Georgian counsel.",
+    "No public beneficial ownership register per IDFI (July 2024); check whether any reform has since been adopted.",
+    "Court structure (Courts of Appeals in Tbilisi and Kutaisi, Supreme Court), GIAC, the 2022 Law on Entrepreneurs date, and the Financial Monitoring Service as FIU are from general knowledge or secondary sources and were not verified on official pages.",
+    "Statement that NAPR extracts show directors is from general knowledge; the NAPR page opened did not detail extract contents."
+  ],
+  "researched": "2026-11-04"
+}
