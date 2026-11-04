@@ -1,7 +1,7 @@
 <script>
 /* TDSC International city search + city banner (v1). Index: GeoNames cities >= 50k (CC BY 4.0). */
 (function(){
-var d=document,IDX=null,loading=null,URL_IDX='https://cdn.jsdelivr.net/gh/elijahbuffinv-sudo/tdsc-international@6d1365f190e3/sq/assets/search-index.json';
+var d=document,IDX=null,loading=null,URL_IDX='https://cdn.jsdelivr.net/gh/elijahbuffinv-sudo/tdsc-international@cd20206c2dfc/sq/assets/search-index.json';
 function ready(f){d.readyState!=='loading'?f():d.addEventListener('DOMContentLoaded',f)}
 function norm(s){return (s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9 ]+/g,' ').replace(/\s+/g,' ').trim()}
 function load(){if(IDX)return Promise.resolve(IDX);if(loading)return loading;
