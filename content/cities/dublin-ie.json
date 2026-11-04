@@ -1,0 +1,58 @@
+{
+  "slug": "dublin-ie",
+  "name": "Dublin",
+  "cc": "IE",
+  "meta_description": "TDSC investigative consulting in matters touching Dublin: EU-hub entity due diligence, funds and leasing research, and Commercial Court and arbitration work.",
+  "eyebrow": "Dublin, Ireland",
+  "hero_lede": "Investigative consulting for matters that run through Dublin: European headquarters of technology and life sciences groups, funds, insurance and aircraft leasing structures, disputes in the High Court's Commercial Court and Dublin-seated arbitrations. Scoped from Nashville with appropriately licensed Irish professionals and Irish counsel.",
+  "intro": [
+    "Dublin is Ireland's capital and the base for much of its international business. County Dublin had 1,458,154 residents at the April 2022 census, up 8 percent since 2016. Many of the multinational technology companies with a strategic presence in Ireland, including Apple, Amazon, Google, Meta, Microsoft and Intel, use Dublin as a European base, and the city's financial services sector spans fund administration, aircraft leasing, insurance and wholesale banking, much of it clustered around the International Financial Services Centre in the Docklands. Professional services, life sciences and medtech headquarters functions add to a business community that sits within the EU while sharing language and legal tradition with the UK and US.",
+    "Organisations commission investigative work connected to Dublin because Irish entities frequently sit at the centre of European group structures, financing vehicles and fund platforms, so ownership and control questions often lead there even when operations are elsewhere. Typical triggers include due diligence on Irish holding, leasing and fund entities ahead of transactions; background research on directors and controllers; fact development for commercial litigation in the High Court and for Dublin-seated arbitrations; inquiries into suspected fraud, misconduct or data incidents at European headquarters of US groups; and asset tracing where Irish companies, property or bank relationships form part of a wider cross-border enforcement strategy."
+  ],
+  "economy": [
+    {"label": "Population", "value": "1,458,154 in County Dublin (Census 2022, CSO)"},
+    {"label": "Growth", "value": "Up 110,795, or 8%, since the 2016 census"},
+    {"label": "Key sectors", "value": "Technology, funds and fund administration, aircraft leasing, insurance, banking, life sciences, professional services"},
+    {"label": "Financial district", "value": "International Financial Services Centre, Dublin Docklands"},
+    {"label": "Role", "value": "European or EMEA headquarters location for many US technology and life sciences groups"},
+    {"label": "Time zone", "value": "Europe/Dublin, UTC+0 (UTC+1 in summer)"},
+    {"label": "Business language", "value": "English; Irish is an official language"}
+  ],
+  "matters": [
+    {"title": "Irish holding and SPV due diligence", "text": "Research on Irish holding companies, special purpose vehicles and section 110 style financing entities used in cross-border structures, tracing directors, company secretaries, corporate service providers and filed ownership information to establish who controls and benefits from the Dublin entity."},
+    {"title": "Funds and asset manager background checks", "text": "Due diligence on Dublin-domiciled funds, management companies, administrators and their principals for investors, allocators and transaction counterparties, combining registry filings, published regulatory notices, litigation records and reputation research across the jurisdictions where the managers operate."},
+    {"title": "Aircraft leasing and asset tracing", "text": "Research supporting lessors, lenders and counsel in disputes or recoveries involving Dublin-based leasing platforms and their lessees, mapping lessee ownership, related parties and asset movements across jurisdictions, using public registers, court records and open-source aviation data."},
+    {"title": "European headquarters internal investigations", "text": "Support to counsel investigating suspected fraud, misconduct, leaks or conflicts of interest at the Dublin European headquarters of multinational groups, with document review, chronologies and background research planned around Irish employment and data protection requirements."},
+    {"title": "Commercial Court and arbitration support", "text": "Fact development, witness and counterparty background research, and enforcement-oriented asset research for disputes in the Commercial Court list of the High Court or in Dublin-seated arbitrations, structured with Irish solicitors and counsel so findings are usable in common law proceedings."}
+  ],
+  "local_context": [
+    {"title": "High Court and Commercial Court", "text": "The High Court sits at the Four Courts in Dublin, where its Central Office handles originating documents and filings. The Commercial Court, a distinct division of the High Court established in January 2004, case manages large domestic and international business disputes, including contract, IT, mergers, restructuring, insurance transfers, derivatives and intellectual property cases. Associated specialist lists cover competition, arbitration and strategic infrastructure litigation."},
+    {"title": "Arbitration in Dublin", "text": "Ireland's Arbitration Act 2010 applies the 2006 UNCITRAL Model Law. Arbitration Ireland promotes the city as a seat, and the Dublin Dispute Resolution Centre, a purpose-built facility beside the Four Courts, offers hearing rooms for arbitration and mediation. The International Centre for Dispute Resolution, the international arm of the American Arbitration Association, has launched ICDR Ireland in Dublin as a hub for disputes between US and European businesses."},
+    {"title": "Regulators based in Dublin", "text": "The Central Bank of Ireland, which authorises and supervises banks, funds, insurers and payment firms, and the Data Protection Commission, which acts as lead GDPR supervisor for many multinationals with European headquarters in Ireland, are both based in Dublin. Their published registers, decisions and enforcement notices are useful lawful sources in due diligence on Dublin counterparties; supervisory files, complaints and inspection findings are confidential and not accessible to investigators."},
+    {"title": "Registries and the IFSC", "text": "Company filings with the Companies Registration Office and the Register of Beneficial Ownership, described on the Ireland country page, are central to Dublin work. Because many IFSC entities are administered by corporate service providers, filed directors and registered offices often point to service firms rather than decision-makers, so further layered research is usually needed to identify the people who actually direct the business."}
+  ],
+  "tdsc_approach": "For matters touching Dublin, TDSC begins by working out what the Irish entity actually is within its group: an operating headquarters, a fund or leasing vehicle, or a financing conduit administered by a service provider. That determines which records matter, from Companies Registration Office filings and published accounts to Central Bank registers, court lists and open sources. Personal data is handled under the GDPR and the Data Protection Act 2018. For disputes, TDSC aligns its work with Irish solicitors and the forum, whether the Commercial Court or a Dublin-seated arbitration. Where interviews or surveillance-type fieldwork in Ireland are required, TDSC coordinates private investigators licensed by the Private Security Authority. TDSC has no office in Dublin.",
+  "faqs": [
+    {"q": "Why do so many investigations lead to a Dublin company?", "a": "Dublin hosts European headquarters, fund platforms, leasing companies and financing vehicles for many international groups. An Irish entity may hold assets, contracts or intellectual property even where the business operates elsewhere. TDSC traces the entity's filings, officers, service providers and group links to explain its role and who directs it."},
+    {"q": "Does a filed Dublin director show who controls the company?", "a": "Not always. Many IFSC and holding entities use directors and registered offices supplied by corporate service providers. Filings remain an essential starting point, but TDSC combines them with accounts, beneficial ownership information where available, litigation records and open sources to identify those exercising real control."},
+    {"q": "Can TDSC support a Dublin-seated arbitration?", "a": "Yes. TDSC supports counsel with factual research, background on parties and witnesses, and asset research for enforcement. Arbitration in Ireland is governed by the Arbitration Act 2010, based on the UNCITRAL Model Law, and Dublin offers dedicated hearing facilities and an ICDR presence. Procedural strategy remains a matter for counsel."},
+    {"q": "Who regulates investigators in Ireland if fieldwork is needed in Dublin?", "a": "Private investigators are licensed by the Private Security Authority under the Private Security Services Act 2004. Where a Dublin matter needs interviews, observation or other fieldwork, TDSC coordinates PSA-licensed investigators and agrees the scope in writing with the client and Irish counsel before any work starts."},
+    {"q": "Does TDSC have an office in Dublin?", "a": "No. TDSC has no office, staff or address in Dublin or elsewhere in Ireland. Engagements are scoped and managed from Nashville, Tennessee. Where local work is required, TDSC coordinates appropriately licensed Irish professionals and works alongside the client's Irish solicitors under a written scope agreed in advance."}
+  ],
+  "sources": [
+    {"title": "Central Statistics Office, Census of Population 2022 Summary Results: Dublin", "url": "https://www.cso.ie/en/csolatestnews/pressreleases/2023pressreleases/pressstatementcensusofpopulation2022-summaryresultsdublin"},
+    {"title": "Dublin.ie, Invest: Key sectors", "url": "https://dublin.ie/invest/key-sectors"},
+    {"title": "Ireland for Law, The Commercial Court", "url": "https://www.irelandforlaw.com/the-commercial-court"},
+    {"title": "Dublin.ie, Arbitration a boost for Dublin's economy", "url": "https://dublin.ie/invest/stories/arbitration-a-boost-for-dublins-economy/"},
+    {"title": "Law Senate, Ireland strengthens position in global dispute resolution with ICDR launch in Dublin", "url": "https://www.lawsenate.com/news/ireland-strengthens-position-in-global-dispute-resolution-with-icdr-launch-in-dublin.html"},
+    {"title": "Courts Service, Central Office of the High Court (search result)", "url": "https://supremecourt.ie/offices/central-office-of-the-high-court"},
+    {"title": "IFSC, 3 Reasons Dublin Is A Great City To Work In (search result)", "url": "https://www.ifsc.ie/news/3-reasons-dublin-is-a-great-city-to-work-in"}
+  ],
+  "review_flags": [
+    "Population is County Dublin (Census 2022), not Dublin City Council area; CSO Census 2027 not yet available.",
+    "Not verified from an opened source: Central Bank of Ireland and Data Protection Commission headquartered in Dublin and DPC lead-supervisor role; High Court sitting at the Four Courts; 'section 110' financing vehicles; corporate service provider practice at IFSC entities.",
+    "ICDR Ireland launch date not stated in the source opened; confirm before publishing.",
+    "Commercial Court monetary threshold (commonly cited as EUR 1 million) deliberately omitted as not verified."
+  ],
+  "researched": "2026-11-04"
+}

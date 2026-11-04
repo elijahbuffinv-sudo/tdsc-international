@@ -6,13 +6,13 @@
   "eyebrow": "North Holland, Netherlands",
   "hero_lede": "Amsterdam combines Europe's largest equity trading venue, a dense cluster of holding companies and headquarters, a major port and Schiphol airport. TDSC scopes investigative consulting for matters touching the city, from Nashville, coordinating licensed Dutch agencies and counsel where local work is required.",
   "intro": [
-    "Amsterdam is the financial and business capital of the Netherlands. Its stock exchange, founded in 1602 and now part of Euronext, is described as the oldest in the world and overtook London as Europe's largest equity trading venue after Brexit. The Zuidas district hosts the country's largest law firms, accounting and consulting practices and the World Trade Centre, and companies such as ING, ABN AMRO, Heineken, AkzoNobel, Booking.com and Philips are based in the city, alongside the European headquarters of many US technology groups. The Port of Amsterdam is the fourth-largest in Europe by cargo tonnage, and Schiphol is among Europe's busiest airports.",
+    "Amsterdam is the financial and business capital of the Netherlands. Its stock exchange, founded in 1602 and now part of Euronext, is described as the oldest in the world and overtook London as Europe's largest equity trading venue after Brexit. The Zuidas district hosts the country's largest law firms, accounting and consulting practices and the World Trade Centre, and companies such as ING, ABN AMRO, Heineken, AkzoNobel, Booking.com and Philips are based in the city, alongside the European headquarters of many US technology groups. The Port of Amsterdam handled about 63 million tonnes of mostly bulk cargo in 2023, and Schiphol is among Europe's busiest airports.",
     "Organisations commission investigative work connected to Amsterdam because so much international ownership and money passes through Dutch entities managed from the city, even when the underlying business is elsewhere in Europe, Africa, Asia or the Americas. Typical engagements include tracing ownership through Amsterdam holding and financing companies, diligence on trading houses and fintech or payments businesses, internal investigations at European headquarters, and evidence and asset work supporting proceedings before the Amsterdam courts, including the English-language Netherlands Commercial Court and the Enterprise Chamber, whose corporate inquiry proceedings are distinctive to Dutch law."
   ],
   "economy": [
     {
       "label": "Population",
-      "value": "941,873 in the city (1 January 2026)"
+      "value": "942,504 in the city (start of 2026, CBS)"
     },
     {
       "label": "Metro area",
@@ -76,7 +76,7 @@
     },
     {
       "title": "Financial regulators in the city",
-      "text": "Both the Dutch Authority for the Financial Markets (AFM), which supervises conduct on financial markets including Euronext Amsterdam, and De Nederlandsche Bank (DNB), the prudential supervisor, are based in Amsterdam. Their public registers, enforcement decisions and warnings are useful sources when assessing a financial counterparty's licensing claims and history. Unlicensed firms claiming Dutch authorisation can often be identified this way."
+      "text": "The Netherlands uses a twin peaks model, and both supervisors are based in Amsterdam. The Dutch Authority for the Financial Markets (AFM) supervises market conduct, including Euronext Amsterdam, prospectuses and market abuse, while De Nederlandsche Bank (DNB) is the prudential supervisor of banks, insurers and payment firms, working with the ECB for banks. Their public registers, enforcement decisions and warnings help test a counterparty's licensing claims and history."
     }
   ],
   "tdsc_approach": "For Amsterdam matters TDSC first establishes what the Dutch entity actually is: an operating business, a regional headquarters, or a holding or financing company with few staff and decisions taken elsewhere. Research then combines KVK filings and deposited accounts, Amsterdam court judgments, AFM and DNB registers, Euronext disclosures and Dutch and English-language media, with foreign registry work where ownership leads abroad. Because investigation agencies in the Netherlands require a licence and work under a privacy code of conduct, any surveillance, interviews or local inquiries are carried out by licensed Dutch agencies that TDSC coordinates, under the direction of the client's Dutch counsel, with data processing limited to the agreed purpose.",
@@ -114,14 +114,34 @@
     {
       "title": "Chambers and Partners: Litigation 2026, Netherlands",
       "url": "https://practiceguides.chambers.com/practice-guides/litigation-2026/netherlands"
+    },
+    {
+      "title": "NH Nieuws: Amsterdam groeit verder naar ruim 940.000 inwoners (CBS figures)",
+      "url": "https://www.nhnieuws.nl/nieuws/356781/amsterdam-groeit-verder-naar-ruim-940000-inwoners"
+    },
+    {
+      "title": "Wikipedia: Netherlands Authority for the Financial Markets",
+      "url": "https://en.wikipedia.org/wiki/Netherlands_Authority_for_the_Financial_Markets"
+    },
+    {
+      "title": "Wikipedia: De Nederlandsche Bank",
+      "url": "https://en.wikipedia.org/wiki/De_Nederlandsche_Bank"
+    },
+    {
+      "title": "Baker McKenzie Global Financial Services Regulatory Guide: Who regulates banking and financial services in the Netherlands",
+      "url": "https://resourcehub.bakermckenzie.com/en/resources/global-financial-services-regulatory-guide/europe-middle-east-and-africa/netherlands/topics/who-regulates-banking-and-financial-services-in-your-jurisdiction"
+    },
+    {
+      "title": "Wikipedia: Port of Amsterdam",
+      "url": "https://en.wikipedia.org/wiki/Port_of_Amsterdam"
     }
   ],
   "review_flags": [
-    "Only 3 sources opened (brief asks 5-10); CBS, KVK, AFM, DNB and Port of Amsterdam sites not fetched due to budget and fetch restrictions.",
-    "Population (941,873 at 1 Jan 2026) and metro figure from Wikipedia, not CBS directly.",
-    "AFM and DNB headquarters in Amsterdam, and AFM's supervisory role, stated from general knowledge without an opened source.",
-    "Netherlands Arbitration Institute deliberately not placed in Amsterdam (it is based in Rotterdam per general knowledge); no Amsterdam-specific arbitration centre named.",
-    "Licensing and privacy code reference relies on the NL country page, whose Wpbr details are themselves flagged as unverified."
+    "Corrected: removed 'fourth-largest port in Europe'; Wikipedia ranks the Port of Amsterdam 14th in Europe by tonnage, about 63 million tonnes in 2023. The 'fuels and agricultural commodities' wording in matters is only partly supported (fossil fuels yes, agribulk not confirmed).",
+    "Population changed to 942,504 (CBS figure reported by NH Nieuws, 2 Feb 2026) from 941,873 (Wikipedia); likely provisional, confirm on CBS StatLine. Metro figure (2.48 million) still from Wikipedia.",
+    "AFM and DNB Amsterdam headquarters and twin peaks roles now sourced (Wikipedia, Baker McKenzie).",
+    "Netherlands Arbitration Institute deliberately not placed in Amsterdam; no Amsterdam-specific arbitration centre named.",
+    "Licensing and privacy code reference relies on the NL country page, whose Wpbr details are themselves flagged as unverified; Enterprise Chamber details rest on Chambers guide only."
   ],
   "researched": "2026-11-04"
 }

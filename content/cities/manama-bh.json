@@ -1,0 +1,138 @@
+{
+  "slug": "manama-bh",
+  "name": "Manama",
+  "cc": "BH",
+  "meta_description": "TDSC investigative consulting in matters touching Manama: banking and Islamic finance counterparties, BCDR and international court context, asset research.",
+  "eyebrow": "Capital of the Kingdom of Bahrain",
+  "hero_lede": "Manama is Bahrain's capital and the base of a banking and Islamic finance sector that serves the wider Gulf. Matters touching the city often involve regulated financial institutions, family business groups and disputes before the BCDR or the new Bahrain International Commercial Court. TDSC scopes research accordingly.",
+  "intro": [
+    "Manama is the capital of the Kingdom of Bahrain and the seat of its government, its central bank and most of its financial sector. The city lies within the Capital Governorate, which recorded 548,345 residents in the 2020 census, out of a national population the World Bank puts at about 1.6 million. Bahrain built its role as a regional financial centre earlier than its Gulf neighbours, and Manama hosts conventional and Islamic banks, wholesale banks, insurers, fund administrators and fintech firms, many of them in the Bahrain Financial Harbour and Seef districts. The economy also depends on aluminium, petroleum refining, logistics and services, with close commercial ties to Saudi Arabia across the King Fahd Causeway.",
+    "Organisations commission investigative work connected to Manama largely because of its financial institutions and the family business groups that operate across the Gulf from it. Lenders, investors and counterparties need to know who stands behind a Bahraini holding company, whether a bank or fund manager holds the licence it claims, and how a group's assets are distributed between Bahrain, Saudi Arabia and other markets. Disputes arising from financing, investment and joint ventures are often heard by the Bahrain Chamber for Dispute Resolution, and from late 2025 may also go to the Bahrain International Commercial Court. Research has to anticipate which forum applies and what evidence it will need."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "548,345 (Capital Governorate, 2020 census); national about 1.6 million (2025, World Bank)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Banking and Islamic finance, insurance, fintech, aluminium, refining, logistics, tourism"
+    },
+    {
+      "label": "Regulator and exchange",
+      "value": "Central Bank of Bahrain (single financial regulator); Bahrain Bourse"
+    },
+    {
+      "label": "Financial districts",
+      "value": "Bahrain Financial Harbour, Diplomatic Area and Seef"
+    },
+    {
+      "label": "Port and airport",
+      "value": "Khalifa Bin Salman Port; Bahrain International Airport (Muharraq)"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Bahrain, UTC+3, no daylight saving"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Arabic (official, courts) and English (widely used in finance)"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Bank and fund counterparty verification",
+      "text": "Confirming that a Manama-based bank, investment firm or fund manager holds the Central Bank of Bahrain licence it claims, identifying its shareholders and principals from lawful sources, and reviewing regulatory actions, litigation and adverse media before a mandate, placement or correspondent relationship proceeds."
+    },
+    {
+      "title": "Islamic finance transaction disputes",
+      "text": "Supporting counsel in disputes over sukuk, murabaha and other Islamic financing structures by researching obligors, guarantors, related entities and asset positions, and by reconstructing the corporate history of special purpose vehicles and their sponsors across Bahrain and other Gulf markets."
+    },
+    {
+      "title": "Gulf family group mapping",
+      "text": "Mapping the companies, partnerships and property-holding vehicles of family business groups with operations in Bahrain and Saudi Arabia, so investors, lenders and joint venture partners understand how control, assets and liabilities are distributed and where interests are held through nominees."
+    },
+    {
+      "title": "Asset tracing for BCDR and court claims",
+      "text": "Identifying commercial registrations, shareholdings and other assets connected to a debtor in Bahrain to support enforcement of BCDR judgments, arbitral awards or foreign judgments, and helping counsel judge whether recovery in Manama is realistic before costs are committed."
+    },
+    {
+      "title": "Fintech and payments partner diligence",
+      "text": "Reviewing fintech, payments and crypto-asset businesses established in Manama, including licensing status, founders' histories, ownership, related companies abroad and customer complaints, where partners or acquirers need assurance about compliance culture and the reliability of stated business volumes."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Bahrain Chamber for Dispute Resolution",
+      "text": "The BCDR, established by Legislative Decree No. 30 of 2009 and based in Manama, combines a judicial tribunal with an arbitration and mediation centre. Its tribunal has mandatory jurisdiction over certain commercial disputes with claims above BHD 500,000, and cases may proceed in Arabic or, under certain conditions, English. Tribunal judgments are not appealable but may be challenged before the Court of Cassation on limited grounds. Its arbitration centre applies the 2017 BCDR-AAA rules."
+    },
+    {
+      "title": "Bahrain International Commercial Court",
+      "text": "Created under Royal Decree No. 9 of 2024 and launched on 5 November 2025, the BICC hears international commercial disputes where the parties consent. Proceedings may be in English, foreign counsel may appear and foreign law may be applied. Unless parties object, appeals go to an international committee of the Singapore International Commercial Court including SICC and BICC judges. How its jurisdiction will interact with the BCDR is still being settled."
+    },
+    {
+      "title": "Onshore courts in the capital",
+      "text": "Ordinary civil and commercial cases outside the BCDR and BICC are heard by Bahrain's civil courts, with appeals to the High Court of Appeal and final review by the Court of Cassation, in Arabic. Court records are not open to general third-party searching, so a party's litigation history is usually built from published decisions, media reporting and counsel enquiries. Arabic translations of foreign documents are normally required."
+    },
+    {
+      "title": "Central Bank of Bahrain",
+      "text": "The Central Bank of Bahrain, headquartered in Manama, is the single regulator for banking, insurance, investment business, capital markets and payments, and maintains a public register of licensed institutions. Its register and enforcement announcements are the first lawful check on any Manama financial counterparty. The Ministry of Industry and Commerce's Sijilat system, covered on the national page, handles commercial registrations."
+    }
+  ],
+  "tdsc_approach": "TDSC handles Manama matters from Nashville and has no presence in Bahrain. Engagements start by identifying the relevant entities' commercial registrations and any Central Bank of Bahrain licences, and by establishing whether a dispute is likely to sit with the BCDR, the BICC, the onshore courts or arbitration. Research relies on Sijilat records, the Central Bank's public register, published judgments, commercial databases and Arabic and English media. Where Saudi or other Gulf entities form part of a group, research extends to their public records in each jurisdiction. Any local enquiries are scoped with Bahraini counsel and carried out by appropriately authorised local professionals, and personal data is handled in line with Bahrain's Personal Data Protection Law.",
+  "faqs": [
+    {
+      "q": "Which forum hears a large commercial dispute in Manama?",
+      "a": "It depends on the claim and the parties. Certain commercial claims above BHD 500,000 fall within the mandatory jurisdiction of the BCDR tribunal, international disputes can go to the Bahrain International Commercial Court by consent, and others go to the civil courts or arbitration. Counsel determines the forum; TDSC shapes research around its evidential needs."
+    },
+    {
+      "q": "How can a client confirm a Manama bank or investment firm is licensed?",
+      "a": "The Central Bank of Bahrain maintains a public register of licensed financial institutions and publishes enforcement announcements. TDSC checks the claimed licence category against that register, then reviews the firm's commercial registration, shareholders, principals, litigation and media coverage to see whether its profile matches what it has represented."
+    },
+    {
+      "q": "What is new about the Bahrain International Commercial Court?",
+      "a": "Launched in November 2025, it allows consenting parties to litigate international commercial disputes in English, with foreign counsel and foreign law, and appeals by default to a committee linked to the Singapore International Commercial Court. Its practice is still developing, so TDSC monitors published decisions when supporting counsel in matters before it."
+    },
+    {
+      "q": "Can TDSC research a Bahraini family business group?",
+      "a": "Yes, within lawful sources. Commercial registrations, partner details where published, court decisions, regulatory notices and media reporting can show how a family group's companies relate. Interests held through nominees or in other Gulf states take longer to establish, and TDSC states clearly which links are confirmed and which are inferred."
+    },
+    {
+      "q": "Are Manama court records available online?",
+      "a": "Bahraini court records are not generally searchable by third parties, and proceedings in the ordinary courts are in Arabic. Some decisions are published and the BCDR publishes material on its work, but litigation histories are usually assembled from several sources. TDSC works with Bahraini counsel where formal access to records is needed."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Al Tamimi: Launch of the new Bahraini International Commercial Court, a 2026 outlook",
+      "url": "https://www.tamimi.com/our-knowledge/publications/eyes-on-2026/articles/launch-of-the-new-bahraini-international-commercial-court-a-2026-outlook-2/"
+    },
+    {
+      "title": "Lex Mundi: Arbitration institutions guide, Bahrain",
+      "url": "https://www.lexmundi.com/guides/arbitration-institutions-guide/jurisdictions/middle-east/bahrain/"
+    },
+    {
+      "title": "Wikipedia: Capital Governorate, Bahrain",
+      "url": "https://en.wikipedia.org/wiki/Capital_Governorate,_Bahrain"
+    },
+    {
+      "title": "Global Arbitration Review: Bahrain Chamber for Dispute Resolution (2024)",
+      "url": "https://globalarbitrationreview.com/survey/the-guide-regional-arbitration/2024/organization-profile/bahrain-chamber-dispute-resolution"
+    },
+    {
+      "title": "Chambers: Dispute Resolution 2026, Bahrain trends and developments",
+      "url": "https://practiceguides.chambers.com/practice-guides/dispute-resolution-2026/bahrain/trends-and-developments"
+    },
+    {
+      "title": "MEED: Bahrain to build new financial district",
+      "url": "https://www.meed.com/bahrain-to-build-new-financial-district/"
+    }
+  ],
+  "review_flags": [
+    "City population uses the Capital Governorate 2020 census figure (548,345) via Wikipedia citing the governorate annual report; no standalone Manama figure found. National figure reused from the BH country page (World Bank), not re-fetched this session.",
+    "BCDR mandatory jurisdiction described generally ('certain commercial disputes above BHD 500,000'); the qualifying conditions (financial institution or international party) were not confirmed in sources opened.",
+    "Central Bank of Bahrain as single regulator, Bahrain Bourse, Bahrain Financial Harbour/Seef, Khalifa Bin Salman Port, Bahrain International Airport, King Fahd Causeway and Asia/Bahrain time zone are from prior knowledge. GAR, Chambers and MEED pages appeared in search results but were not opened.",
+    "BICC launched 5 November 2025; its jurisdictional overlap with BCDR is unsettled per Al Tamimi."
+  ],
+  "researched": "2026-11-04"
+}

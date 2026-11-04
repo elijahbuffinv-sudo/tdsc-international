@@ -1,0 +1,143 @@
+{
+  "slug": "lisbon-pt",
+  "name": "Lisbon",
+  "cc": "PT",
+  "meta_description": "TDSC investigative consulting in matters touching Lisbon: real estate ownership research, Lusophone counterparty due diligence and arbitration support.",
+  "eyebrow": "Lisbon, Portugal",
+  "hero_lede": "Investigative consulting for matters that run through Lisbon: real estate and investor residency structures, counterparties linked to Angola, Brazil and Mozambique, technology companies in Portugal's largest start-up hub, and disputes before Lisbon courts and arbitral tribunals. Scoped from Nashville with qualified Portuguese professionals.",
+  "intro": [
+    "Lisbon is Portugal's capital and the centre of a metropolitan area of about 3.35 million people across 18 municipalities, roughly 29 percent of the national population in 2025, with about 658,000 residents in the municipality itself. Statistics Portugal puts the metropolitan area's 2024 GDP at about 106 billion euros, the largest of any Portuguese region. Most of Portugal's largest companies are based in the region, together with Euronext Lisbon, the securities regulator CMVM and Banco de Portugal. Lisbon has also built the country's largest technology and start-up hub, while tourism, real estate, financial and professional services, and port and logistics activity shape the local economy.",
+    "Organisations commission investigative work connected to Lisbon for several recurring reasons. Real estate in the city has attracted substantial foreign investment, including through Portugal's investor residency programme, and Transparency International Portugal has warned that weak source-of-wealth checks made property a channel for laundering. Lisbon's role as a bridge to Portuguese-speaking Africa and Brazil means that assets and companies of Angolan, Brazilian and Mozambican investors frequently sit in Portuguese structures, sometimes at the centre of asset recovery proceedings. Investors also need due diligence on Lisbon technology companies and their founders, and parties to Lusophone commercial disputes increasingly choose Lisbon as a seat of arbitration."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 658,200 in the municipality (2025, INE)"
+    },
+    {
+      "label": "Metro area",
+      "value": "About 3.35 million across 18 municipalities (2025, INE)"
+    },
+    {
+      "label": "Regional GDP",
+      "value": "About 106 billion euros (2024, INE)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Financial and professional services, technology, tourism, real estate, logistics, public administration"
+    },
+    {
+      "label": "Exchange and regulators",
+      "value": "Euronext Lisbon; CMVM; Banco de Portugal"
+    },
+    {
+      "label": "Arbitration",
+      "value": "Arbitration Centre of the Portuguese Chamber of Commerce and Industry"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Lisbon, UTC+0 (UTC+1 in summer)"
+    },
+    {
+      "label": "Business languages",
+      "value": "Portuguese; English widely used"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Real estate ownership and source of funds",
+      "text": "Research into who stands behind Lisbon properties and the companies or funds that hold them, using land registry certificates, commercial register records and open sources, to support lenders, buyers, compliance teams and counsel concerned about undisclosed owners, politically exposed persons or proceeds of crime."
+    },
+    {
+      "title": "Lusophone counterparty due diligence",
+      "text": "Background and ownership research on Angolan, Brazilian and Mozambican investors, companies and politically exposed persons with Lisbon holdings or partners, combining Portuguese records with research in the investors' home jurisdictions and attention to asset recovery and corruption proceedings already under way."
+    },
+    {
+      "title": "Asset tracing for recovery proceedings",
+      "text": "Lawful identification of property, company interests and other assets in Portugal connected to judgment debtors or parties in fraud and corruption cases, supporting counsel in enforcement, freezing and recovery actions, including those brought by foreign states seeking to recover assets held in Lisbon."
+    },
+    {
+      "title": "Technology and start-up investment diligence",
+      "text": "Research on founders, investors, ownership structures and prior ventures of Lisbon technology and start-up businesses before investment or acquisition, including verification of claimed credentials, related-party transactions, litigation and tax or social security remarks visible in public sources."
+    },
+    {
+      "title": "Arbitration support in Lusophone disputes",
+      "text": "Background research on parties, witnesses and corporate groups in arbitrations seated in Lisbon, often involving counterparties from Angola, Mozambique or Brazil, and asset research to support enforcement of awards in Portugal and elsewhere, coordinated with counsel in each relevant jurisdiction."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Arbitration in Lisbon",
+      "text": "The Arbitration Centre of the Portuguese Chamber of Commerce and Industry, established in 1987 in central Lisbon, is the leading domestic arbitral institution. Portugal's Voluntary Arbitration Law, Law 63/2011, in force since March 2012, follows the UNCITRAL Model Law as amended in 2006. Shared legal roots and language make Lisbon a natural seat for disputes involving Angolan and Mozambican parties, whose civil codes and arbitration laws derive from Portuguese models."
+    },
+    {
+      "title": "Courts in Lisbon",
+      "text": "Lisbon's first-instance courts include specialised commercial sections handling company, insolvency and corporate disputes, with appeals to the Court of Appeal of Lisbon, and the Supreme Court of Justice also sits in the city. Many judgments of the higher courts are published, but first-instance files are not generally open to the public, so litigation research often runs through counsel. Insolvency proceedings, which are published, can also reveal creditors and related parties."
+    },
+    {
+      "title": "Financial supervisors in the city",
+      "text": "The Portuguese Securities Market Commission (CMVM), which supervises Euronext Lisbon and capital market participants, and Banco de Portugal, which supervises banks, are both based in Lisbon. Their published decisions, registers of authorised entities and warnings are important lawful sources in counterparty due diligence. Supervisory files are confidential and are not accessible to investigators. Requests for non-public information are a matter for the client's counsel and the authority concerned."
+    },
+    {
+      "title": "Investor residency and real estate",
+      "text": "Portugal's investor residency programme, launched in October 2012, drew billions of euros of foreign investment, most of it into property concentrated in Lisbon. Transparency International Portugal argued that source-of-wealth checks were not rigorous enough and that the programme facilitated laundering through real estate. Ownership research on Lisbon property therefore often has to look through companies and funds to the people behind them."
+    }
+  ],
+  "tdsc_approach": "For matters touching Lisbon, TDSC first establishes where the structure leads beyond Portugal, since Lisbon properties and companies are often held for investors in Angola, Brazil, Mozambique or elsewhere and need research in those jurisdictions too. Research draws on the commercial and land registries, published accounts, court decisions, CMVM and Banco de Portugal publications and open sources in Portuguese and English, reviewed under the GDPR and Portuguese data protection law. For disputes, work is aligned with Portuguese counsel and with the arbitral or court forum. Because Portugal has no specific licensing regime for private investigators, TDSC selects local professionals carefully and keeps any fieldwork within agreed legal limits. TDSC has no office in Lisbon.",
+  "faqs": [
+    {
+      "q": "Can TDSC identify who owns a property in Lisbon?",
+      "a": "TDSC can obtain land registry certificates and commercial register records for the owning company, and trace onward through corporate and fund structures using public and lawfully obtained sources. Where ownership leads abroad, TDSC extends research into those jurisdictions. Findings distinguish what records show from what is inferred, so counsel can decide on next steps."
+    },
+    {
+      "q": "Why do Lisbon matters often involve Angola, Brazil or Mozambique?",
+      "a": "Shared language and legal heritage have made Lisbon a base for investors, companies and politically exposed persons from Portuguese-speaking countries. Their Portuguese assets can become relevant in corruption, fraud and asset recovery proceedings. TDSC combines Portuguese records with research in the home jurisdiction to build a complete picture."
+    },
+    {
+      "q": "Can TDSC support an arbitration seated in Lisbon?",
+      "a": "Yes, as a consultant to counsel. TDSC researches opposing parties, corporate groups, witnesses and assets in arbitrations administered by the Lisbon chamber of commerce arbitration centre or other institutions seated in the city, working only from public and lawfully obtained records. Enforcement research outside Portugal is coordinated with counsel in the relevant jurisdictions."
+    },
+    {
+      "q": "Does TDSC use licensed investigators in Lisbon?",
+      "a": "Portugal does not appear to have a dedicated licensing regime for private investigators. TDSC therefore selects local professionals on the basis of experience and references, agrees a written scope, and ensures fieldwork respects Portuguese law on privacy, data protection and recording. Private security activity, which is separately regulated, is not part of TDSC's services."
+    },
+    {
+      "q": "Does TDSC have staff in Lisbon?",
+      "a": "No. TDSC has no office, staff or address in Lisbon or elsewhere in Portugal. Engagements are scoped and managed from Nashville. Where a matter needs local inquiries, TDSC coordinates independent Portuguese professionals and works with the client's Portuguese counsel, within a written scope agreed before work begins."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikipedia, Lisbon metropolitan area (citing Statistics Portugal)",
+      "url": "https://en.wikipedia.org/wiki/Lisbon_metropolitan_area"
+    },
+    {
+      "title": "Euronext, Welcome to Euronext Lisbon",
+      "url": "https://euronext.com/fr/markets/lisbon"
+    },
+    {
+      "title": "Kluwer Arbitration Blog, Portugal: a new hub for international arbitration disputes (2017)",
+      "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/portugal-a-new-hub-for-international-arbitration-disputes/"
+    },
+    {
+      "title": "Portugal Resident, Money laundering through real estate a real problem in Portugal says watchdog",
+      "url": "https://stg.portugalresident.com/money-laundering-through-real-estate-a-real-problem-in-portugal-says-watchdog/"
+    },
+    {
+      "title": "ch-aviation, Angola seeks to seize Portuguese properties in Sonair case (search result)",
+      "url": "https://www.ch-aviation.com/news/74284-angola-seeks-to-seize-portuguese-properties-in-sonair-case"
+    },
+    {
+      "title": "The Portugal News, Lisbon crowned as the new tech capital (search result)",
+      "url": "https://cloud.theportugalnews.com/news/2024-02-18/lisbon-crowned-as-the-new-tech-capital/86124"
+    }
+  ],
+  "review_flags": [
+    "Population and GDP figures (658,236 municipality; 3,352,939 metro, 2025; GDP 106 bn euros 2024) taken from Wikipedia citing INE; verify on ine.pt.",
+    "Golden visa: copy describes the programme historically (launched 2012) from an undated TI Portugal article; the real estate route was reportedly ended in 2023 but this was not verified in sources. Check current programme status before publishing.",
+    "Arbitration centre facts from a 2017 Kluwer blog post; rules and caseload may have changed.",
+    "Not verified from an opened source: Lisbon commercial court sections (Juízo de Comércio), Court of Appeal of Lisbon, Supreme Court of Justice seat, Banco de Portugal/CMVM headquarters in Lisbon (Euronext page names them as regulators only).",
+    "Angola asset recovery mention relies only on search-result headlines (Sonair case); no specific case named in copy."
+  ],
+  "researched": "2026-11-04"
+}

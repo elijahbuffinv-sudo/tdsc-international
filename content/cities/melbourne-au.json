@@ -1,0 +1,134 @@
+{
+  "slug": "melbourne-au",
+  "name": "Melbourne",
+  "cc": "AU",
+  "meta_description": "TDSC investigative consulting in matters touching Melbourne: Victorian licensing and surveillance rules, Commercial Court support and asset research.",
+  "eyebrow": "Melbourne, Victoria, Australia",
+  "hero_lede": "Melbourne is Australia's second financial centre and home to some of its largest companies, and investigative work there runs under Victorian as well as Commonwealth law. TDSC scopes Melbourne matters around Victorian investigator licensing and surveillance rules, coordinating licensed Victorian investigators where fieldwork is needed.",
+  "intro": [
+    "Melbourne, the capital of Victoria, is one of Australia's two main business centres and among its fastest-growing cities. The Australian Government's Centre for Population puts Greater Melbourne at about 5.44 million people in 2024-25, projected to pass 5.5 million in 2025-26. Several of the country's largest banks, resources, telecommunications and superannuation organisations are headquartered in the city, and it is a major centre for health and medical research, higher education, manufacturing, logistics and the creative industries. The Port of Melbourne handles a large share of Australia's container trade, and Melbourne Airport connects the city to Asia and beyond. Victoria's Parliament, courts and state agencies all sit in the city.",
+    "Organisations commission investigative work connected to Melbourne because it is where much of Australia's institutional capital is managed and where many large national companies make decisions. Investors and acquirers need background on Victorian private companies, founders and family businesses. Litigants before the Supreme Court of Victoria and the Federal Court need research on parties and assets. Employers in the city's large public, health, education and construction workforces face misconduct allegations that must be investigated fairly. Because Victorian investigators must be licensed and covert recording is tightly restricted, how information is gathered matters as much as what is found, and evidence obtained improperly may not be usable."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 5.44 million, Greater Melbourne (2024-25, Centre for Population)"
+    },
+    {
+      "label": "State",
+      "value": "Victoria, about 7.07 million residents (2024-25)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Financial services and superannuation, health and education, technology, manufacturing, logistics, retail"
+    },
+    {
+      "label": "Courts",
+      "value": "Supreme Court of Victoria (including its Commercial Court); Federal Court Melbourne registry"
+    },
+    {
+      "label": "Port and airport",
+      "value": "Port of Melbourne; Melbourne Airport (Tullamarine)"
+    },
+    {
+      "label": "Time zone",
+      "value": "Australia/Melbourne, UTC+10 (AEST), UTC+11 during daylight saving (AEDT)"
+    },
+    {
+      "label": "Language of business",
+      "value": "English"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Private and family company diligence",
+      "text": "Researching Melbourne-based private companies, family groups and founders ahead of investment or acquisition, using ASIC extracts, Victorian court records, insolvency notices and open sources, with attention to prior failed ventures, related-party dealings and trust structures commonly used by Victorian business families."
+    },
+    {
+      "title": "Asset research for Victorian proceedings",
+      "text": "Identifying Victorian real property, company interests and other assets of a judgment or award debtor so that counsel can assess freezing orders and enforcement in the Supreme Court of Victoria or the Federal Court, and connecting assets held through trusts and nominee companies."
+    },
+    {
+      "title": "Construction and property counterparties",
+      "text": "Reviewing Melbourne property developers, builders and subcontractors for lenders and investors, including corporate histories, phoenix activity indicators, building defect and insolvency litigation and regulatory actions, in a market where projects often sit in single-purpose companies that can be wound up quickly."
+    },
+    {
+      "title": "Workplace investigations under Victorian rules",
+      "text": "Scoping misconduct and complaint investigations for employers with Melbourne staff, with attention to the Surveillance Devices Act 1999 (Vic), procedural fairness and record keeping, so that findings can withstand challenge before the Fair Work Commission or a court."
+    },
+    {
+      "title": "Supply chain and logistics fraud",
+      "text": "Supporting importers, freight forwarders and insurers where fraud, theft or diversion of goods moving through the Port of Melbourne and related warehousing is suspected, including background on intermediaries and mapping of the entities that benefited from losses."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Supreme Court and Federal Court",
+      "text": "Large commercial disputes in Melbourne are commonly heard in the Commercial Court of the Supreme Court of Victoria, which runs specialist lists for matters such as corporations, arbitration, technology and construction, or in the Federal Court of Australia's Melbourne registry where federal jurisdiction is engaged. Both courts can grant freezing and search orders where the evidence supports them, and both enforce arbitral awards. Forum choice is a matter for Australian counsel."
+    },
+    {
+      "title": "Victorian investigator licensing",
+      "text": "In Victoria, private investigators are licensed under the Private Security Act 2004, with licensing administered by Victoria Police through its licensing services division. Applicants generally need a Certificate III in Investigative Services and must pass probity and criminal history checks, and licences can carry conditions. Requirements differ from those in New South Wales, so a Sydney licence does not by itself cover Melbourne fieldwork. Any Melbourne fieldwork commissioned through TDSC is carried out by appropriately licensed Victorian investigators."
+    },
+    {
+      "title": "Surveillance Devices Act 1999 (Vic)",
+      "text": "The Victorian Act makes it an offence to use an optical device to record a private activity, or a listening device to record a private conversation to which one is not a party, without consent, and requires consent to install or use a tracking device. Listening and optical devices are banned outright in workplace toilets, washrooms, change rooms and lactation rooms. The Act has been amended many times; the version in force dates from December 2025."
+    },
+    {
+      "title": "Registries and integrity bodies",
+      "text": "Company information comes from ASIC's national register. Victorian land titles are held on a Torrens register maintained by Land Use Victoria, and title searches show the registered proprietor and registered interests such as mortgages and caveats. The Independent Broad-based Anti-corruption Commission (IBAC) investigates public sector corruption in Victoria, and its public reports are a useful source for procurement and government-facing reviews."
+    }
+  ],
+  "tdsc_approach": "TDSC handles Melbourne matters from Nashville and has no office or licence in Australia. Engagements start with a review of which sources and rules apply: ASIC records, Victorian title searches, Supreme Court and Federal Court files, insolvency notices, regulatory actions and IBAC reports. Where the work needs interviews, attendance at addresses or observation, TDSC coordinates investigators licensed under Victoria's Private Security Act 2004 and agrees the method with the client's Australian lawyers, so that the Surveillance Devices Act 1999 (Vic) is respected and results remain usable in court or the Fair Work Commission. Personal information is handled with the Privacy Act 1988 in mind, and reports separate verified facts from inference.",
+  "faqs": [
+    {
+      "q": "Does a private investigator in Melbourne need a Victorian licence?",
+      "a": "Yes. Private investigators in Victoria are licensed under the Private Security Act 2004, administered by Victoria Police. Licensing is state-based, so a licence from another state does not automatically cover work in Victoria. TDSC holds no Australian licence and coordinates appropriately licensed Victorian investigators for any Melbourne fieldwork."
+    },
+    {
+      "q": "Can a conversation be recorded secretly in Victoria?",
+      "a": "Victoria's Surveillance Devices Act 1999 makes it an offence to record a private conversation to which you are not a party without consent. Different rules apply to parties to a conversation and to publication of recordings, and the position should be confirmed with Victorian counsel before any recording is made. TDSC does not arrange covert recording that the law prohibits."
+    },
+    {
+      "q": "Can an employer use cameras in a Melbourne workplace?",
+      "a": "Employers can generally monitor open work areas, subject to the Surveillance Devices Act 1999 (Vic), workplace agreements and privacy obligations. The Act prohibits listening and optical devices in workplace toilets, washrooms, change rooms and lactation rooms, and a Victorian employer was fined in Brown v Palmer (2008) for a camera in a staff change room."
+    },
+    {
+      "q": "Which court hears a large commercial dispute in Melbourne?",
+      "a": "Usually the Commercial Court of the Supreme Court of Victoria, or the Federal Court of Australia's Melbourne registry where federal law or jurisdiction is engaged. Counsel chooses the forum. TDSC supports either with background research on parties and witnesses and with asset identification ahead of freezing or enforcement applications."
+    },
+    {
+      "q": "Can we find out who owns property in Melbourne?",
+      "a": "Generally yes. Victoria operates a Torrens title register, and a title search shows the registered proprietor and registered interests such as mortgages and caveats. Where property sits in a company or trust, ASIC records and other sources are used to identify those behind the registered owner, with clear limits on what can be confirmed."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Centre for Population: 2025 Population Statement, Victoria",
+      "url": "https://population.gov.au/sites/population.gov.au/files/2026-01/ss-2025-pop-statement-vic.pdf"
+    },
+    {
+      "title": "Invest Victoria: Greater Melbourne demographics",
+      "url": "https://invest.vic.gov.au/understand-the-market/discover-consumer-and-business-markets/greater-melbourne-demographics"
+    },
+    {
+      "title": "Victorian Legislation: Surveillance Devices Act 1999",
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/surveillance-devices-act-1999"
+    },
+    {
+      "title": "Maurice Blackburn: Surveillance in the workplace",
+      "url": "https://www.mauriceblackburn.com.au/blog/2018/june/27/surveillance-in-the-workplace/"
+    },
+    {
+      "title": "OzStudies: How to become a private investigator in Australia",
+      "url": "https://www.ozstudies.com/blog/australia-careers-guide/how-to-become-a-private-investigator-in-australia"
+    }
+  ],
+  "review_flags": [
+    "Victorian PI licensing (Private Security Act 2004, Victoria Police licensing division, Certificate III) is from a careers blog (OzStudies), not Victoria Police; verify with the official licensing page.",
+    "Supreme Court of Victoria Commercial Court and its lists, Federal Court Melbourne registry, Port of Melbourne's share of container trade, headquarters of major banks/resources/telco companies, Land Use Victoria Torrens register and IBAC are from general knowledge; not opened.",
+    "Surveillance Devices Act content is from a 2018 law-firm blog; the Act has been amended since (version in force from 10 Dec 2025). Confirm the workplace and tracking provisions are current.",
+    "Population is 2024-25 Centre for Population figure; the source notes sub-state figures will be revised."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,150 @@
+{
+  "slug": "dusseldorf-de",
+  "name": "Düsseldorf",
+  "cc": "DE",
+  "meta_description": "TDSC investigative consulting in matters touching Düsseldorf: patent dispute support, Asian investor due diligence and research on Rhine-Ruhr counterparties.",
+  "eyebrow": "Düsseldorf, North Rhine-Westphalia, Germany",
+  "hero_lede": "Investigative consulting for matters that run through Düsseldorf: patent disputes in one of Europe's busiest patent venues, Japanese and Chinese corporate groups with European hubs in the city, and listed industrial, retail and energy groups of the Rhine-Ruhr region. Scoped from Nashville with qualified German professionals.",
+  "intro": [
+    "Düsseldorf is the capital of North Rhine-Westphalia, Germany's most populous state, and the central city of the Rhine-Ruhr region, one of the largest metropolitan economies in the European Union. It is headquarters to listed groups including Henkel, Rheinmetall, GEA, Metro and Uniper, and to Eurowings. The city hosts one of Germany's regional stock exchanges, Messe Düsseldorf with its programme of international trade fairs, Düsseldorf Airport, a large advertising and telecommunications sector and a long-standing fashion trade. It is also continental Europe's leading Japanese business location and a major European base for Chinese companies, giving it an unusually Asia-facing profile among German cities.",
+    "Organisations commission investigative work connected to Düsseldorf for several recurring reasons. Patent owners and defendants need fact development and background research for infringement actions, which have long been brought in Düsseldorf and can now also go to the Unified Patent Court's local division there. Investors and counterparties ask for due diligence on the European subsidiaries of Japanese and Chinese groups clustered in the city, and on distributors and agents in their supply chains. Listed industrial, defence, energy and wholesale groups generate shareholder, supplier and integrity inquiries, and the trade fair calendar brings counterparties, intellectual property concerns and product counterfeiting issues to the city every year."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 618,700 residents (2024)"
+    },
+    {
+      "label": "Metro area",
+      "value": "Central city of the Rhine-Ruhr region, North Rhine-Westphalia"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Chemicals and consumer goods, engineering, defence, energy, wholesale, advertising, telecoms, fashion"
+    },
+    {
+      "label": "Major headquarters",
+      "value": "Henkel, Rheinmetall, GEA, Metro, Uniper, Eurowings"
+    },
+    {
+      "label": "Asian business",
+      "value": "About 630 Japanese companies in NRW and 610 Greater China companies in the city (2019-2020)"
+    },
+    {
+      "label": "Exchange and fairs",
+      "value": "Regional stock exchange; Messe Düsseldorf trade fairs"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Berlin, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Business languages",
+      "value": "German; English widely used, Japanese and Chinese in parts of the business community"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Patent litigation fact development",
+      "text": "Background research on parties, products, distribution channels and prior use, and chronologies of market activity, supporting counsel in patent infringement proceedings in Düsseldorf before German courts or the Unified Patent Court local division, with findings structured for use in evidence where counsel requires."
+    },
+    {
+      "title": "Due diligence on Asian-owned subsidiaries",
+      "text": "Ownership, management and reputation research on the European subsidiaries of Japanese and Chinese groups based in Düsseldorf, tracing parent structures abroad and checking registered officers, filings and adverse media, for investors, lenders, distributors and joint venture partners."
+    },
+    {
+      "title": "Trade fair counterfeiting and IP exposure",
+      "text": "Research on exhibitors and their trading entities connected to Messe Düsseldorf trade fairs where clients suspect counterfeiting, design copying or grey-market distribution, coordinated with counsel who handle any urgent court measures and with licensed local investigators for fieldwork."
+    },
+    {
+      "title": "Defence, energy and export-control counterparties",
+      "text": "Integrity and ownership research on suppliers, agents and customers of defence, energy and engineering groups in the region, focusing on beneficial ownership, sanctions exposure and links to restricted end users, to support compliance reviews and investigations into diversion concerns."
+    },
+    {
+      "title": "Wholesale and retail supplier inquiries",
+      "text": "Inquiries into supplier fraud, kickbacks, conflicts of interest and procurement irregularities involving wholesale, retail and consumer goods businesses headquartered in Düsseldorf, combining lawful records research and open-source analysis with interviews arranged through German counsel and licensed investigators."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Patent courts in Düsseldorf",
+      "text": "Düsseldorf is one of Germany's principal patent litigation venues. The Regional Court Düsseldorf hears infringement actions, with appeals to the Higher Regional Court Düsseldorf, and the Unified Patent Court operates a local division in the city that has continued to add judges, including a new legally qualified judge sworn in on 3 February 2025. Choice of forum affects timing, language and the evidence that counsel will need."
+    },
+    {
+      "title": "Higher Regional Court Düsseldorf",
+      "text": "The Higher Regional Court Düsseldorf hears appeals in civil and commercial matters from courts across much of the Rhineland, including patent and competition-related cases. Its judgments, and those of the Regional Court below it, are a key source for litigation history research on parties based in the region. Court records are not open in the way they are in common-law systems, so file access normally runs through counsel."
+    },
+    {
+      "title": "Commercial register and IHK",
+      "text": "The commercial register for companies seated in Düsseldorf is kept by the local court and is searchable through the joint register portal of the German states described on the Germany country page. The Düsseldorf Chamber of Industry and Commerce (IHK Düsseldorf) supports foreign companies and runs a China competence centre, reflecting the density of Chinese and other foreign-owned businesses registered in the city."
+    },
+    {
+      "title": "State capital institutions",
+      "text": "As capital of North Rhine-Westphalia, Düsseldorf hosts the state parliament and ministries. State-level procurement, subsidy and economic development decisions are taken in the city, and the state data protection commissioner supervises most private-sector data processing by organisations established in NRW. Internal investigations at NRW employers should be planned with that authority's guidance and with works council arrangements in mind. Public funding and procurement records of the state are useful sources in integrity research."
+    },
+    {
+      "title": "Japanese and Chinese business networks",
+      "text": "NRW.Global Business reported about 630 Japanese companies in North Rhine-Westphalia and more than 8,400 Japanese residents in Düsseldorf as of 2019, and about 610 Greater China companies in the city. Japan's trade organisation JETRO has an office in Düsseldorf. Due diligence frequently requires parallel research in Japanese or Chinese records and media alongside German filings. Findings in different languages are reconciled in a single report."
+    }
+  ],
+  "tdsc_approach": "For matters touching Düsseldorf, TDSC starts by identifying the forum and the record base: a patent matter headed for the Regional Court or the Unified Patent Court local division needs evidence-ready chronologies, while a subsidiary of a Japanese or Chinese group needs parallel research in its home jurisdiction. Research relies on the commercial register, published accounts, court decisions, trade fair and product information, and open sources in German, English and, where needed, Japanese or Chinese, reviewed under the GDPR and German data protection law. Where interviews, test purchases or fieldwork in Düsseldorf are required, TDSC coordinates German investigators operating under the applicable trade rules and works with the client's German counsel. TDSC has no office in Düsseldorf.",
+  "faqs": [
+    {
+      "q": "Can TDSC support a patent case in Düsseldorf?",
+      "a": "Yes, as a consultant to counsel. TDSC develops background on parties, products and distribution, and builds market chronologies for infringement or validity arguments, whether the case is before the Regional Court Düsseldorf or the Unified Patent Court local division. Counsel decides how findings are used, and any test purchases or fieldwork are carried out by licensed German investigators."
+    },
+    {
+      "q": "How does TDSC research a Japanese or Chinese company's Düsseldorf subsidiary?",
+      "a": "TDSC combines German commercial register filings and published accounts for the subsidiary with research into its parent group, officers and ownership in Japan, China or Hong Kong, using official registries and media in the relevant languages. The result connects the local entity to the wider group and highlights any sanctions, litigation or reputational issues."
+    },
+    {
+      "q": "Can TDSC help with counterfeit products shown at a Düsseldorf trade fair?",
+      "a": "TDSC can research the exhibiting companies, their trading entities and their distribution networks before or after a fair. Urgent measures such as preliminary injunctions are for the client's German counsel. Any on-site documentation during a fair is arranged through licensed German investigators within the fair's rules and German law."
+    },
+    {
+      "q": "Which data protection authority applies to an employer in Düsseldorf?",
+      "a": "Private-sector processing by organisations established in North Rhine-Westphalia is generally supervised by the state data protection commissioner. Internal investigations should be planned with counsel, the company's data protection officer and, where one exists, the works council. TDSC limits the personal data it gathers to what the agreed purpose requires."
+    },
+    {
+      "q": "Does TDSC have staff in Düsseldorf?",
+      "a": "No. TDSC has no office, staff or address in Düsseldorf or elsewhere in Germany. Engagements are scoped and managed from Nashville. Where a matter needs local inquiries, TDSC coordinates independent German investigators and works with the client's German counsel, within a written scope agreed before work begins."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikipedia, Düsseldorf",
+      "url": "https://en.wikipedia.org/wiki/Dusseldorf"
+    },
+    {
+      "title": "NRW.Global Business, Japanese business continues to focus on Düsseldorf and North Rhine-Westphalia",
+      "url": "https://www.nrwglobalbusiness.com/press/detail/japanese-business-continues-to-focus-on-duesseldorf-and-north-rhine-westphalia"
+    },
+    {
+      "title": "NRW.Global Business, North Rhine-Westphalia and Düsseldorf hotspot for Chinese companies",
+      "url": "https://www.nrwglobalbusiness.com/press/detail/north-rhine-westphalia-and-duesseldorf-hotspot-for-chinese-companies"
+    },
+    {
+      "title": "Unified Patent Court, News",
+      "url": "https://www.unified-patent-court.org/en/news?page=1"
+    },
+    {
+      "title": "JETRO Düsseldorf (search result)",
+      "url": "https://www.jetro.go.jp/germany/jetro_deutschland/duesseldorf/"
+    },
+    {
+      "title": "IHK Düsseldorf, China Kompetenzzentrum Düsseldorf (search result)",
+      "url": "https://www.ihk.de/duesseldorf/aussenwirtschaft/auslandsmaerkte/china/china-kompetenzzentrum-duesseldorf-3344932"
+    },
+    {
+      "title": "IHK Düsseldorf, Ausländische Unternehmen (search result; fetch failed)",
+      "url": "https://www.ihk.de/duesseldorf/aussenwirtschaft/auslaendische-unternehmen"
+    }
+  ],
+  "review_flags": [
+    "Population 618,685 (2024) taken from Wikipedia, not IT.NRW or the city statistics office; Wikipedia itself shows a conflicting 658,245 figure. Verify with IT.NRW before publishing.",
+    "Japanese/Chinese company counts are 2019-2020 NRW.Global Business figures; newer counts likely exist.",
+    "Not verified from an opened source: Regional Court and Higher Regional Court Düsseldorf patent jurisdiction and caseload, commercial register at Amtsgericht Düsseldorf, NRW data protection commissioner (LDI NRW) seat, name of the Düsseldorf stock exchange (Börse Düsseldorf).",
+    "IHK and JETRO pages seen only in search results; IHK foreign-companies page fetch failed."
+  ],
+  "researched": "2026-11-04"
+}

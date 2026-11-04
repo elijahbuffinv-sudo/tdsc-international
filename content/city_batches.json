@@ -1,0 +1,421 @@
+{
+ "redo_weak": [
+  "new-york-us|New York|US",
+  "toronto-ca|Toronto|CA",
+  "mexico-city-mx|Mexico City|MX",
+  "istanbul-tr|Istanbul|TR",
+  "amsterdam-nl|Amsterdam|NL"
+ ],
+ "batches": [
+  [
+   "warsaw-pl|Warsaw|PL",
+   "guangzhou-cn|Guangzhou|CN",
+   "bangkok-th|Bangkok|TH",
+   "los-angeles-us|Los Angeles|US",
+   "kuala-lumpur-my|Kuala Lumpur|MY"
+  ],
+  [
+   "luxembourg-lu|Luxembourg|LU",
+   "taipei-tw|Taipei|TW",
+   "shenzhen-cn|Shenzhen|CN",
+   "brussels-be|Brussels|BE",
+   "zurich-ch|Z\u00fcrich|CH"
+  ],
+  [
+   "buenos-aires-ar|Buenos Aires|AR",
+   "melbourne-au|Melbourne|AU",
+   "san-francisco-us|San Francisco|US",
+   "riyadh-sa|Riyadh|SA",
+   "santiago-cl|Santiago|CL"
+  ],
+  [
+   "dusseldorf-de|D\u00fcsseldorf|DE",
+   "stockholm-se|Stockholm|SE",
+   "washington-us|Washington|US",
+   "vienna-at|Vienna|AT",
+   "lisbon-pt|Lisbon|PT"
+  ],
+  [
+   "munich-de|Munich|DE",
+   "dublin-ie|Dublin|IE",
+   "houston-us|Houston|US",
+   "berlin-de|Berlin|DE",
+   "johannesburg-za|Johannesburg|ZA"
+  ],
+  [
+   "boston-us|Boston|US",
+   "new-delhi-in|New Delhi|IN",
+   "bogota-co|Bogot\u00e1|CO",
+   "ho-chi-minh-city-vn|Ho Chi Minh City|VN",
+   "rome-it|Rome|IT"
+  ],
+  [
+   "bengaluru-in|Bengaluru|IN",
+   "budapest-hu|Budapest|HU",
+   "athens-gr|Athens|GR",
+   "hamburg-de|Hamburg|DE",
+   "doha-qa|Doha|QA"
+  ],
+  [
+   "chengdu-cn|Chengdu|CN",
+   "miami-us|Miami|US",
+   "tianjin-cn|Tianjin|CN",
+   "dallas-us|Dallas|US",
+   "atlanta-us|Atlanta|US"
+  ],
+  [
+   "auckland-nz|Auckland|NZ",
+   "barcelona-es|Barcelona|ES",
+   "hangzhou-cn|Hangzhou|CN",
+   "bucharest-ro|Bucharest|RO",
+   "lima-pe|Lima|PE"
+  ],
+  [
+   "montreal-ca|Montreal|CA",
+   "prague-cz|Prague|CZ",
+   "chongqing-cn|Chongqing|CN",
+   "tel-aviv-il|Tel Aviv|IL",
+   "brisbane-au|Brisbane|AU"
+  ],
+  [
+   "cairo-eg|Cairo|EG",
+   "hanoi-vn|Hanoi|VN",
+   "nanjing-cn|Nanjing|CN",
+   "oslo-no|Oslo|NO",
+   "perth-au|Perth|AU"
+  ],
+  [
+   "abu-dhabi-ae|Abu Dhabi|AE",
+   "copenhagen-dk|Copenhagen|DK",
+   "manama-bh|Manama|BH",
+   "wuhan-cn|Wuhan|CN",
+   "manila-ph|Manila|PH"
+  ],
+  [
+   "xiamen-cn|Xiamen|CN",
+   "nairobi-ke|Nairobi|KE",
+   "kyiv-ua|Kyiv|UA",
+   "geneva-ch|Geneva|CH",
+   "jinan-cn|Jinan|CN"
+  ],
+  [
+   "calgary-ca|Calgary|CA",
+   "zhengzhou-cn|Zhengzhou|CN",
+   "shenyang-cn|Shenyang|CN",
+   "dalian-cn|Dalian|CN",
+   "suzhou-cn|Suzhou|CN"
+  ],
+  [
+   "qingdao-cn|Qingdao|CN",
+   "casablanca-ma|Casablanca|MA",
+   "changsha-cn|Changsha|CN",
+   "beirut-lb|Beirut|LB",
+   "port-louis-mu|Port Louis|MU"
+  ],
+  [
+   "denver-us|Denver|US",
+   "lagos-ng|Lagos|NG",
+   "belgrade-rs|Belgrade|RS",
+   "montevideo-uy|Montevideo|UY",
+   "vancouver-ca|Vancouver|CA"
+  ],
+  [
+   "seattle-us|Seattle|US",
+   "manchester-gb|Manchester|GB",
+   "sofia-bg|Sofia|BG",
+   "bratislava-sk|Bratislava|SK",
+   "rio-de-janeiro-br|Rio de Janeiro|BR"
+  ],
+  [
+   "lyon-fr|Lyon|FR",
+   "xi-an-cn|Xi'an|CN",
+   "helsinki-fi|Helsinki|FI",
+   "kunming-cn|Kunming|CN",
+   "zagreb-hr|Zagreb|HR"
+  ],
+  [
+   "nicosia-cy|Nicosia|CY",
+   "karachi-pk|Karachi|PK",
+   "caracas-ve|Caracas|VE",
+   "hefei-cn|Hefei|CN",
+   "stuttgart-de|Stuttgart|DE"
+  ],
+  [
+   "panama-city-pa|Panama City|PA",
+   "chennai-in|Chennai|IN",
+   "philadelphia-us|Philadelphia|US",
+   "tunis-tn|Tunis|TN",
+   "fuzhou-cn|Fuzhou|CN"
+  ],
+  [
+   "guatemala-city-gt|Guatemala City|GT",
+   "hyderabad-in|Hyderabad|IN",
+   "cape-town-za|Cape Town|ZA",
+   "dhaka-bd|Dhaka|BD",
+   "porto-pt|Porto|PT"
+  ],
+  [
+   "austin-us|Austin|US",
+   "san-diego-us|San Diego|US",
+   "minneapolis-us|Minneapolis|US",
+   "antwerp-be|Antwerp|BE",
+   "almaty-kz|Almaty|KZ"
+  ],
+  [
+   "amman-jo|Amman|JO",
+   "santo-domingo-do|Santo Domingo|DO",
+   "rotterdam-nl|Rotterdam|NL",
+   "adelaide-au|Adelaide|AU",
+   "lahore-pk|Lahore|PK"
+  ],
+  [
+   "colombo-lk|Colombo|LK",
+   "taiyuan-cn|Taiyuan|CN",
+   "kuwait-city-kw|Kuwait City|KW",
+   "monterrey-mx|Monterrey|MX",
+   "osaka-jp|Osaka|JP"
+  ],
+  [
+   "haikou-cn|Haikou|CN",
+   "tbilisi-ge|Tbilisi|GE",
+   "tampa-us|Tampa|US",
+   "tirana-al|Tirana|AL",
+   "quito-ec|Quito|EC"
+  ],
+  [
+   "nashville-us|Nashville|US",
+   "islamabad-pk|Islamabad|PK",
+   "kampala-ug|Kampala|UG",
+   "san-salvador-sv|San Salvador|SV",
+   "muscat-om|Muscat|OM"
+  ],
+  [
+   "phnom-penh-kh|Phnom Penh|KH",
+   "birmingham-gb|Birmingham|GB",
+   "pune-in|Pune|IN",
+   "ningbo-cn|Ningbo|CN",
+   "harbin-cn|Harbin|CN"
+  ],
+  [
+   "san-jose-us|San Jose|US",
+   "bologna-it|Bologna|IT",
+   "san-jose-cr|San Jos\u00e9|CR",
+   "ahmedabad-in|Ahmedabad|IN",
+   "bristol-gb|Bristol|GB"
+  ],
+  [
+   "tegucigalpa-hn|Tegucigalpa|HN",
+   "riga-lv|Riga|LV",
+   "detroit-us|Detroit|US",
+   "poznan-pl|Pozna\u0144|PL",
+   "labuan-my|Labuan|MY"
+  ],
+  [
+   "charlotte-us|Charlotte|US",
+   "pittsburgh-us|Pittsburgh|US",
+   "valencia-es|Valencia|ES",
+   "edinburgh-gb|Edinburgh|GB",
+   "jeddah-sa|Jeddah|SA"
+  ],
+  [
+   "turin-it|Turin|IT",
+   "katowice-pl|Katowice|PL",
+   "baku-az|Baku|AZ",
+   "george-town-my|George Town|MY",
+   "dar-es-salaam-tz|Dar es Salaam|TZ"
+  ],
+  [
+   "wellington-nz|Wellington|NZ",
+   "managua-ni|Managua|NI",
+   "cleveland-us|Cleveland|US",
+   "nanchang-cn|Nanchang|CN",
+   "changchun-cn|Changchun|CN"
+  ],
+  [
+   "cali-co|Cali|CO",
+   "st-louis-us|St. Louis|US",
+   "ljubljana-si|Ljubljana|SI",
+   "baltimore-us|Baltimore|US",
+   "bilbao-es|Bilbao|ES"
+  ],
+  [
+   "marseille-fr|Marseille|FR",
+   "surabaya-id|Surabaya|ID",
+   "accra-gh|Accra|GH",
+   "izmir-tr|\u0130zmir|TR",
+   "harare-zw|Harare|ZW"
+  ],
+  [
+   "maputo-mz|Maputo|MZ",
+   "vilnius-lt|Vilnius|LT",
+   "gothenburg-se|Gothenburg|SE",
+   "raleigh-us|Raleigh|US",
+   "queretaro-mx|Quer\u00e9taro|MX"
+  ],
+  [
+   "glasgow-gb|Glasgow|GB",
+   "zhuhai-cn|Zhuhai|CN",
+   "phoenix-us|Phoenix|US",
+   "dakar-sn|Dakar|SN",
+   "cincinnati-us|Cincinnati|US"
+  ],
+  [
+   "skopje-mk|Skopje|MK",
+   "kansas-city-us|Kansas City|US",
+   "limassol-cy|Limassol|CY",
+   "la-paz-bo|La Paz|BO",
+   "leeds-gb|Leeds|GB"
+  ],
+  [
+   "guayaquil-ec|Guayaquil|EC",
+   "hartford-us|Hartford|US",
+   "belfast-gb|Belfast|GB",
+   "indianapolis-us|Indianapolis|US",
+   "algiers-dz|Algiers|DZ"
+  ],
+  [
+   "shijiazhuang-cn|Shijiazhuang|CN",
+   "lusaka-zm|Lusaka|ZM",
+   "guadalajara-mx|Guadalajara|MX",
+   "strasbourg-fr|Strasbourg|FR",
+   "columbus-us|Columbus|US"
+  ],
+  [
+   "ankara-tr|Ankara|TR",
+   "johor-bahru-my|Johor Bahru|MY",
+   "ottawa-ca|Ottawa|CA",
+   "wrocaw-pl|Wroc\u0142aw|PL",
+   "urumqi-cn|\u00dcr\u00fcmqi|CN"
+  ],
+  [
+   "christchurch-nz|Christchurch|NZ",
+   "douala-cm|Douala|CM",
+   "tashkent-uz|Tashkent|UZ",
+   "lausanne-ch|Lausanne|CH",
+   "malaga-es|M\u00e1laga|ES"
+  ],
+  [
+   "wuxi-cn|Wuxi|CN",
+   "george-town-ky|George Town|KY",
+   "salt-lake-city-us|Salt Lake City|US",
+   "tallinn-ee|Tallinn|EE",
+   "nantes-fr|Nantes|FR"
+  ],
+  [
+   "medellin-co|Medell\u00edn|CO",
+   "edmonton-ca|Edmonton|CA",
+   "utrecht-nl|Utrecht|NL",
+   "taichung-tw|Taichung|TW",
+   "campinas-br|Campinas|BR"
+  ],
+  [
+   "lille-fr|Lille|FR",
+   "abuja-ng|Abuja|NG",
+   "yangon-mm|Yangon|MM",
+   "krakow-pl|Krak\u00f3w|PL",
+   "jacksonville-us|Jacksonville|US"
+  ],
+  [
+   "southampton-gb|Southampton|GB",
+   "san-antonio-us|San Antonio|US",
+   "belo-horizonte-br|Belo Horizonte|BR",
+   "leipzig-de|Leipzig|DE",
+   "newcastle-upon-tyne-gb|Newcastle upon Tyne|GB"
+  ],
+  [
+   "naples-it|Naples|IT",
+   "curitiba-br|Curitiba|BR",
+   "luanda-ao|Luanda|AO",
+   "abidjan-ci|Abidjan|CI",
+   "milwaukee-us|Milwaukee|US"
+  ],
+  [
+   "nassau-bs|Nassau|BS",
+   "gaborone-bw|Gaborone|BW",
+   "puebla-mx|Puebla|MX",
+   "toulouse-fr|Toulouse|FR",
+   "brasilia-br|Bras\u00edlia|BR"
+  ],
+  [
+   "podgorica-me|Podgorica|ME",
+   "kaohsiung-tw|Kaohsiung|TW",
+   "bern-ch|Bern|CH",
+   "porto-alegre-br|Porto Alegre|BR",
+   "malmo-se|Malm\u00f6|SE"
+  ],
+  [
+   "des-moines-us|Des Moines|US",
+   "guiyang-cn|Guiyang|CN",
+   "nice-fr|Nice|FR",
+   "tijuana-mx|Tijuana|MX",
+   "nanning-cn|Nanning|CN"
+  ],
+  [
+   "canberra-au|Canberra|AU",
+   "nuremberg-de|Nuremberg|DE",
+   "port-of-spain-tt|Port of Spain|TT",
+   "cordoba-ar|C\u00f3rdoba|AR",
+   "sarajevo-ba|Sarajevo|BA"
+  ],
+  [
+   "foshan-cn|Foshan|CN",
+   "bordeaux-fr|Bordeaux|FR",
+   "florence-it|Florence|IT",
+   "oklahoma-city-us|Oklahoma City|US",
+   "astana-kz|Astana|KZ"
+  ],
+  [
+   "genoa-it|Genoa|IT",
+   "nagoya-jp|Nagoya|JP",
+   "lanzhou-cn|Lanzhou|CN",
+   "durban-za|Durban|ZA",
+   "dongguan-cn|Dongguan|CN"
+  ],
+  [
+   "portland-us|Portland|US",
+   "san-juan-pr|San Juan|PR",
+   "bergen-no|Bergen|NO",
+   "yerevan-am|Yerevan|AM",
+   "richmond-us|Richmond|US"
+  ],
+  [
+   "santa-cruz-de-la-sierra-bo|Santa Cruz de la Sierra|BO",
+   "asuncion-py|Asunci\u00f3n|PY",
+   "sacramento-us|Sacramento|US",
+   "cebu-city-ph|Cebu City|PH",
+   "hohhot-cn|Hohhot|CN"
+  ],
+  [
+   "cologne-de|Cologne|DE",
+   "the-hague-nl|The Hague|NL",
+   "birmingham-us|Birmingham|US",
+   "las-vegas-us|Las Vegas|US",
+   "ciudad-juarez-mx|Ciudad Ju\u00e1rez|MX"
+  ],
+  [
+   "winnipeg-ca|Winnipeg|CA",
+   "orlando-us|Orlando|US"
+  ]
+ ],
+ "done": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ]
+}

@@ -1,0 +1,142 @@
+{
+  "slug": "athens-gr",
+  "name": "Athens",
+  "cc": "GR",
+  "meta_description": "TDSC investigative consulting in matters touching Athens: shipowner and counterparty research, real estate ownership checks, and support for Athens disputes.",
+  "eyebrow": "Athens, Attica, Greece",
+  "hero_lede": "Athens and its port of Piraeus form the centre of Greek government, finance, shipping and an investment boom in tourism and real estate. TDSC helps clients research Athens-based companies, shipowning groups and property interests, and supports counsel in disputes before the city's courts and arbitral institutions.",
+  "intro": [
+    "Athens is Greece's capital and the core of the Attica region, which held nearly 3.8 million people at the 2021 census, with about 3.7 million in the Athens metropolitan area. Attica generates almost half of Greece's gross value added and close to 40 percent of national employment, according to the Bank of Greece governor speaking in October 2026. The economy is concentrated in services: trade, transport and logistics, tourism, real estate, finance and business services. The government, the Bank of Greece, the Hellenic Capital Market Commission, the Athens Exchange and the head offices of Greece's main banks and listed groups are based in the city, and neighbouring Piraeus is the country's largest port and the traditional home of Greek-owned shipping.",
+    "Organisations commission investigative work connected to Athens because so much Greek capital is managed, contested and invested there. Lenders, charterers and buyers dealing with Greek shipowners need to see past single-ship companies and foreign registrations to the families and managers behind them. Foreign investors in hotels, residential developments and privatised assets need assurance about sellers, partners and title. Public procurement and state-linked projects raise integrity questions. And with Athens tourism receipts and property prices rising sharply since 2019, ownership disputes, source-of-funds questions and fraud claims involving Athens real estate have become more common subjects for research."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 3.72 million in the Athens metropolitan area; nearly 3.8 million in Attica (2021 census)"
+    },
+    {
+      "label": "Metro area",
+      "value": "58 municipalities across the Athens and Piraeus regional units and East and West Attica"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Shipping and maritime services, tourism and hospitality, real estate, banking, trade and logistics, business services"
+    },
+    {
+      "label": "Exchange and regulators",
+      "value": "Athens Exchange; Hellenic Capital Market Commission; Bank of Greece"
+    },
+    {
+      "label": "Port and airport",
+      "value": "Port of Piraeus; Athens International Airport Eleftherios Venizelos"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Athens, UTC+2 (UTC+3 in summer)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Greek; English widely used in shipping, finance and tourism"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Shipowner and fleet ownership research",
+      "text": "Tracing the families, managers and holding structures behind Athens and Piraeus shipowning groups, whose vessels are typically held by single-ship companies registered abroad, using Greek corporate records, court decisions, maritime databases and press coverage before a charter, financing, sale or claim."
+    },
+    {
+      "title": "Real estate and hotel investment",
+      "text": "Researching sellers, co-investors, developers and their financing in Athens residential, hotel and short-term rental investments, including lawfully obtained title and cadastral information, litigation and adverse media, at a time of rapid price growth and heavy foreign capital inflow."
+    },
+    {
+      "title": "Listed company and bank counterparties",
+      "text": "Reviewing Athens Exchange issuers and regulated financial counterparties through their announcements, Hellenic Capital Market Commission decisions, GEMI filings and court records, to test governance, related-party dealings and the history of restructurings that followed Greece's financial crisis."
+    },
+    {
+      "title": "Procurement and state-linked contractors",
+      "text": "Integrity research on Athens contractors, consultancies and suppliers to public bodies and infrastructure projects, covering ownership, political exposure, prior investigations and press reporting, for clients considering joint ventures or subcontracts on Greek public works and concessions."
+    },
+    {
+      "title": "Dispute and enforcement support",
+      "text": "Assisting counsel in Athens litigation and arbitration with background research on opposing parties, witnesses and experts, and with asset research on Greek debtors, their companies and property interests ahead of enforcing a judgment or arbitral award."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Athens courts",
+      "text": "Athens has the country's busiest civil courts. The Athens Court of First Instance hears most significant commercial claims and also appoints arbitrators for parties not resident in Greece, while the Athens Court of Appeal hears appeals and, under the 2023 arbitration law, annulment applications where an award's district cannot otherwise be determined. The Areios Pagos, Greece's Supreme Civil and Criminal Court, sits in Athens. Court delays have long been a concern, and recent reforms aimed at speeding proceedings had yet to show clear results by 2025."
+    },
+    {
+      "title": "Athens arbitral institutions",
+      "text": "Law 5016/2023 now governs international commercial arbitration seated in Greece, with domestic arbitration remaining under the Code of Civil Procedure. Athens hosts the Athens Mediation and Arbitration Organisation (EODID), which handles domestic and international cases, and the arbitration department of the Athens Chamber of Commerce and Industry. The Technical Chamber of Greece runs permanent arbitration for technical disputes. Maritime disputes are often referred to the Piraeus Association for Maritime Arbitration or the Hellenic Chamber of Shipping, or to London."
+    },
+    {
+      "title": "Registries and chambers",
+      "text": "Athens companies are recorded in the General Commercial Register (GEMI), whose data and published filings are available online and whose local registry services are provided through the chambers of commerce, including the Athens Chamber of Commerce and Industry. Property in Athens is increasingly covered by the Hellenic Cadastre, which has been replacing the older system of local mortgage registries. Shipping registrations, by contrast, are mostly outside Greece, so fleet research requires flag-state and classification society records."
+    },
+    {
+      "title": "Regulators based in Athens",
+      "text": "The Bank of Greece, which supervises banks, the Hellenic Capital Market Commission, which supervises listed companies and investment firms, and the Hellenic Competition Commission are all headquartered in Athens and publish decisions and sanctions. The National Transparency Authority handles public sector integrity and audit work. Their published decisions, together with Athens Exchange announcements, are core sources in any review of a regulated Athens counterparty."
+    }
+  ],
+  "tdsc_approach": "TDSC handles Athens matters from Nashville and has no office in Greece. Engagements start by identifying the records that bear on the question: GEMI filings and published accounts, Athens Exchange announcements, regulator decisions, court judgments, and cadastral information obtainable lawfully, and for shipping matters, flag registries, classification societies and maritime databases. Greek-language research is essential, because much press and court material on Athens companies and families is published only in Greek. Where enquiries in Athens or Piraeus are needed, such as discreet market soundings or property verification, TDSC coordinates qualified local professionals working with Greek counsel. Personal data is handled under the GDPR and Greek Law 4624/2019, and findings separate documented ownership from market reputation.",
+  "faqs": [
+    {
+      "q": "How do you identify who owns a Greek-managed vessel?",
+      "a": "Vessels are usually held by single-ship companies registered in flag states such as Liberia, the Marshall Islands or Malta, with management in Athens or Piraeus. We connect the registered owner, the technical and commercial managers and the group's Greek companies, using registry, classification and court records, and flag where the beneficial owner cannot be documented."
+    },
+    {
+      "q": "Which Athens arbitral institutions are used for commercial disputes?",
+      "a": "Domestic and international commercial cases are administered by the Athens Mediation and Arbitration Organisation (EODID) and the Athens Chamber of Commerce and Industry's arbitration department, while technical disputes go to the Technical Chamber of Greece. Many maritime disputes are referred to Piraeus institutions or London. Counsel chooses the forum; TDSC supports whichever is used."
+    },
+    {
+      "q": "Are Athens property records reliable for due diligence?",
+      "a": "They are improving. The Hellenic Cadastre has been replacing the older local mortgage registries, but historical records, unregistered rights and inheritance issues can still complicate title. We combine cadastral information with court records and corporate searches on the owning entities, and work with Greek lawyers and engineers who handle formal title review."
+    },
+    {
+      "q": "What can public records show about an Athens company?",
+      "a": "GEMI provides registration details, management, articles and published financial statements, and listed companies publish announcements through the Athens Exchange. Court decisions and regulator sanctions add history. Ultimate ownership through foreign holding companies, common in shipping and real estate, often requires research in other jurisdictions. We say plainly where such links remain undocumented."
+    },
+    {
+      "q": "Why is Athens real estate a focus for source-of-funds questions?",
+      "a": "Foreign capital has flowed into Athens residential and hotel property, and the Bank of Greece reported apartment price rises of 6.5 percent in 2025. Higher values and many cross-border buyers raise questions about sellers, intermediaries and the origin of funds. TDSC researches counterparties so clients and their banks can meet their own compliance obligations."
+    }
+  ],
+  "sources": [
+    {
+      "title": "To Vima: Stournaras, Athens's challenges stem from its economic success (October 2026)",
+      "url": "https://www.tovima.com/finance/stournaras-athenss-challenges-stem-from-its-economic-success/"
+    },
+    {
+      "title": "EMTA: Athens, identification of the metropolitan area",
+      "url": "https://www.emta.com/network/athens/identification-of-the-metropolitan-area/"
+    },
+    {
+      "title": "Anadolu Agency: Greece's population shrank by 3.5% over past decade, census (2022)",
+      "url": "https://aa.com.tr/en/europe/greece-s-population-shrank-by-35-over-past-decade-census/2641050"
+    },
+    {
+      "title": "Global Arbitration Review: Greece, arbitration reforms boost global appeal for international dispute resolution (2025)",
+      "url": "https://globalarbitrationreview.com/review/the-european-arbitration-review/2026/article/greece-arbitration-reforms-boost-global-appeal-international-dispute-resolution"
+    },
+    {
+      "title": "Athens Chamber of Commerce and Industry: arbitration (English)",
+      "url": "https://adminportal.acci.gr/images/engl_1Diaitisia_EBEA.pdf"
+    },
+    {
+      "title": "Aceris Law: Greece Arbitration Law 2023 in English",
+      "url": "https://www.acerislaw.com/wp-content/uploads/2023/07/2023-Greece-Arbitration-Law-in-English.pdf"
+    },
+    {
+      "title": "Global Legal Post / Law Over Borders: Arbitration, Greece",
+      "url": "https://www.globallegalpost.com/lawoverborders/arbitration-law-guide-1612228170/greece-291046970"
+    }
+  ],
+  "review_flags": [
+    "Population is from the 2021 census as reported by EMTA (preliminary, 3,722,544 metro) and Anadolu (Attica nearly 3.8 million); no ELSTAT page was opened. EMTA's City of Athens municipal figure (996,283) looked inconsistent and was not used.",
+    "Athens Exchange naming: Euronext's acquisition of ATHEX (2025) was not researched; confirm the current exchange name before publishing.",
+    "GEMI local services via chambers, Hellenic Cadastre replacing mortgage registries, Areios Pagos, HCMC/Bank of Greece/Competition Commission/National Transparency Authority headquarters and Law 4624/2019 are from prior knowledge or the GR country page, not sources opened for this city.",
+    "Port of Piraeus and Athens International Airport naming, and flag-state examples for Greek shipping, are from general knowledge."
+  ],
+  "researched": "2026-11-04"
+}

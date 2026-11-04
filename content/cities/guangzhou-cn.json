@@ -1,0 +1,59 @@
+{
+  "slug": "guangzhou-cn",
+  "name": "Guangzhou",
+  "cc": "CN",
+  "meta_description": "TDSC investigative consulting in matters touching Guangzhou: Canton Fair supplier checks, export trade disputes, e-commerce IP research and Nansha entities.",
+  "eyebrow": "Guangdong Province, China",
+  "hero_lede": "Investigative consulting for matters touching Guangzhou, scoped from Nashville: verification of exporters and suppliers met through the Canton Fair, research on Nansha free trade zone entities, fact-finding in e-commerce and intellectual property matters, and factual support for counsel before Guangzhou courts and arbitration bodies.",
+  "intro": [
+    "Guangzhou, capital of Guangdong Province, is one of the historic gateways of Chinese trade and a core city of the Guangdong-Hong Kong-Macao Greater Bay Area. It had more than 18.97 million permanent residents in 2024, and its GDP exceeded 2.8 trillion yuan in 2022, second in the Greater Bay Area after Shenzhen. Services account for more than 70 percent of output, alongside automotive manufacturing, including new energy vehicles, and biomedicine and information technology. The China Import and Export Fair, the Canton Fair, has been held in the city since 1957, and foreign trade was expected to reach about 1.1 trillion yuan in 2024. Nansha Port handled 20.49 million TEU that year.",
+    "Organisations commission investigative work connected to Guangzhou because so many of their suppliers, distributors and trading partners are found there. Buyers who meet exporters at the Canton Fair need to know whether a company is a manufacturer or an intermediary, and whether it can deliver what it promises. Brand owners face counterfeiting and infringement through online sellers and wholesale markets. Lenders and traders exposed to shipments through Nansha confront documentary and inventory risk. When disputes arise, they are increasingly heard by Guangzhou's specialised courts or its busy arbitration commission, and counsel need well-sourced facts about counterparties and their related companies."
+  ],
+  "economy": [
+    {"label": "Population", "value": "Over 18.97 million permanent residents (2024)"},
+    {"label": "GDP", "value": "Over 2.8 trillion yuan (2022), second in the Greater Bay Area"},
+    {"label": "Key sectors", "value": "Trade and services, automotive and new energy vehicles, IT, biomedicine, logistics"},
+    {"label": "Trade fair", "value": "China Import and Export Fair (Canton Fair), held since 1957"},
+    {"label": "Port", "value": "Nansha Port, 20.49 million TEU (2024)"},
+    {"label": "Special zones", "value": "Nansha Free Trade Zone; bonded zones at Huangpu, Nansha, Baiyun Airport and Knowledge City"},
+    {"label": "Time zone", "value": "Asia/Shanghai (UTC+8, no daylight saving)"},
+    {"label": "Languages of business", "value": "Mandarin Chinese and Cantonese; English in export trade"}
+  ],
+  "matters": [
+    {"title": "Canton Fair supplier verification", "text": "Confirming whether a Guangzhou exporter met at the Canton Fair or online is a genuine manufacturer, a trading company or a front, by comparing registration data, business scope, litigation history and trade reporting with its claims, and arranging site checks through qualified local professionals where justified."},
+    {"title": "E-commerce and IP infringement research", "text": "Fact-finding for brand owners and their counsel on online sellers and wholesale suppliers linked to Guangzhou, tracing the companies and individuals behind storefronts and identifying related entities, to support enforcement actions before the Guangzhou Internet Court or Intellectual Property Court."},
+    {"title": "Nansha trade and logistics entities", "text": "Mapping ownership and activity of trading, logistics and holding companies registered in the Nansha Free Trade Zone or Guangzhou bonded zones, where registered addresses may not reflect operations and group structures often extend through Hong Kong or Macao."},
+    {"title": "Trade finance and shipment disputes", "text": "Researching parties, related companies and prior disputes where invoices, bills of lading or warehouse documents linked to shipments through Guangzhou's ports appear inconsistent, supporting lenders, insurers and counsel pursuing recovery or claims."},
+    {"title": "Distributor and joint venture conduct", "text": "Supporting counsel investigating suspected diversion, kickbacks or undisclosed related-party dealings by Guangzhou distributors, agents or joint venture partners, particularly in automotive supply chains, with background research on intermediaries and an inquiry designed around PIPL and data export rules."}
+  ],
+  "local_context": [
+    {"title": "Guangzhou specialised courts", "text": "Guangzhou has a cluster of specialised courts. The Guangzhou Internet Court, China's third, opened in September 2018 to hear e-commerce contract disputes, online copyright and online lending cases, with proceedings largely conducted online. Intellectual property appeals from it go to the Guangzhou Intellectual Property Court and other appeals to the Guangzhou Intermediate People's Court. The Guangzhou Maritime Court hears shipping and cargo disputes. Judgments from these courts are an important record on Guangzhou sellers and traders."},
+    {"title": "Guangzhou Arbitration Commission", "text": "The Guangzhou Arbitration Commission is among the busiest in China. It accepted a record 27,000 filings in 2025, with RMB 92.1 billion in dispute, including 877 foreign-related cases worth RMB 12.3 billion, and has handled parties from 67 countries and jurisdictions. Regulations on building Guangzhou as an international commercial arbitration centre took effect in May 2026. Investigative support is confined to factual research for counsel and the parties."},
+    {"title": "Nansha and bonded zones", "text": "Guangzhou's opening-up framework includes the Nansha Free Trade Zone, import demonstration zones in Nansha and Huangpu, four national economic and technological development zones and four comprehensive bonded zones. Nansha is designated a demonstration zone for cooperation among Guangdong, Hong Kong and Macao, and its port launched 174 international container routes in 2024. Zone registration can bring particular customs and licensing arrangements, so diligence should confirm which permissions an entity actually holds."},
+    {"title": "Greater Bay Area structures", "text": "Many Guangzhou businesses are held through companies in Hong Kong or Macao, and cross-boundary groups are common across the Greater Bay Area. Tracing ultimate ownership therefore usually means combining mainland registration data with Hong Kong or Macao company records. Hong Kong and mainland authorities have also deepened legal cooperation in the region, which can bear on how evidence and judgments move between them; such questions are for counsel."}
+  ],
+  "tdsc_approach": "For matters touching Guangzhou, TDSC first defines the commercial question, typically who really makes the goods, who stands behind an online seller or whether a counterparty can meet a claim, and then identifies which Guangzhou courts, registers and zone authorities are relevant. Research is conducted from Nashville using registration data, published judgments, trade information and Chinese-language open sources, together with Hong Kong and Macao records where groups cross the boundary. Where site checks or document retrieval are justified, TDSC coordinates with qualified local professionals and the client's Chinese counsel. Personal information is collected only as the purpose requires, and any data export from China is reviewed with counsel before it happens.",
+  "faqs": [
+    {"q": "We met a supplier at the Canton Fair. How do we check it?", "a": "We start with registration data showing business scope, registered capital, shareholders and legal representative, then look at litigation, administrative penalties and trade reporting. Comparing these with the supplier's claims usually shows whether it manufactures or trades. Where the order size justifies it, a site visit is arranged through qualified local professionals acting lawfully."},
+    {"q": "Can you identify who is behind an infringing online store linked to Guangzhou?", "a": "Often, yes, at least to the level of the operating company and related entities, using platform disclosures, registration data, prior judgments and open sources. We provide the findings to counsel for enforcement, for example before the Guangzhou Internet Court. We do not test-purchase under false identities or access platform back-end data."},
+    {"q": "What can Guangzhou court judgments tell us?", "a": "Judgments from the Internet Court, Intellectual Property Court, Maritime Court and ordinary courts can reveal prior infringement findings, unpaid debts, cargo disputes and enforcement against assets. They show how a counterparty behaves under pressure. Publication of judgments in China has narrowed in recent years, so absence of a record is not proof that no dispute exists."},
+    {"q": "Do you support arbitrations before the Guangzhou Arbitration Commission?", "a": "We support counsel, not the tribunal, with research on the opposing party's group, related companies, prior disputes and publicly disclosed assets relevant to enforcement. Given the Commission's large and growing foreign-related caseload, these tasks are increasingly common. Questions of procedure, enforcement or strategy remain for Chinese counsel."},
+    {"q": "Does TDSC have staff in Guangzhou?", "a": "No. TDSC is based in Nashville and has no office or staff in Guangzhou or elsewhere in China. Most work is desk research. Where on-the-ground steps are needed, we coordinate with qualified local professionals and the client's counsel, and we decline requests involving restricted records, covert methods or personal information obtained without authorisation."}
+  ],
+  "sources": [
+    {"title": "Our China Story: GBA at a Glance, Understand Guangzhou in 5 figures", "url": "https://www.ourchinastory.com/en/14486"},
+    {"title": "Guangzhou Municipal Government: Doing Business in Guangzhou, 2024 foreign trade and investment", "url": "https://www.gz.gov.cn/guangzhouinternational/businessenvironmentoptimization/businessnews/content/post_10040331.html"},
+    {"title": "Newsgd: Nansha District economic and port figures", "url": "https://www.newsgd.com/node_d6ab31923d/38ff50ec5d.shtml"},
+    {"title": "China Daily: China's third internet court opens in Guangzhou (2018)", "url": "https://www.chinadaily.com.cn/a/201809/28/WS5badf326a310eff3032801a8.html"},
+    {"title": "ANTARA: Guangzhou Arbitration Commission opens global applications for panel of arbitrators (2026)", "url": "https://en.antaranews.com/news/415887/empowering-international-commercial-arbitration-guangzhou-arbitration-commission-opens-global-applications-for-panel-of-arbitrators"},
+    {"title": "Hong Kong Government: SJ visits Guangzhou and Shenzhen to deepen legal co-operation (2023)", "url": "https://www.info.gov.hk/gia/general/202306/08/P2023060800783.htm"}
+  ],
+  "review_flags": [
+    "Population (18.97 million, 2024) from a Greater Bay Area promotional site (ourchinastory.com), not Guangzhou Statistics Bureau; GDP figure is 2022 and dated - verify current figures.",
+    "Guangzhou Maritime Court named from general knowledge; not confirmed in a source opened this session.",
+    "Port figure is Nansha Port only (20.49 million TEU, 2024), not total Port of Guangzhou throughput.",
+    "Guangzhou Arbitration Commission figures (27,000 filings in 2025, May 2026 arbitration-centre regulations) from a 2026 PR Wire/Xinhua item via ANTARA - promotional source.",
+    "Hong Kong government source listed for GBA legal cooperation was seen in search results only, not opened."
+  ],
+  "researched": "2026-11-04"
+}

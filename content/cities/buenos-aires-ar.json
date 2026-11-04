@@ -1,0 +1,138 @@
+{
+  "slug": "buenos-aires-ar",
+  "name": "Buenos Aires",
+  "cc": "AR",
+  "meta_description": "TDSC investigative consulting in matters touching Buenos Aires: IGJ company records, national commercial courts, Bolsa arbitration and asset research support.",
+  "eyebrow": "Autonomous City of Buenos Aires",
+  "hero_lede": "Buenos Aires is Argentina's capital and the seat of most of its corporate headquarters, regulators and commercial courts. TDSC scopes Buenos Aires matters around IGJ company records, the national commercial courts and the city's arbitral institutions, coordinating licensed local professionals and Argentine counsel where fieldwork is needed.",
+  "intro": [
+    "The Autonomous City of Buenos Aires is Argentina's political capital and its principal business centre. INDEC's 2022 national census counted more than 3.1 million residents in the city itself, and more than 13 million people live across the wider metropolitan area (AMBA). Most of the country's banks, insurers, listed companies, law firms and multinational regional offices are based in the city, alongside the national government, the Central Bank, the securities regulator and the stock exchange. The port and the international airport at Ezeiza connect the city to grain, energy and manufacturing supply chains reaching far beyond it, and the city has a large professional services, media and software sector.",
+    "Organisations commission investigative work connected to Buenos Aires because the city is where Argentine counterparties are incorporated, financed and litigated. Most companies doing business nationally are registered with the Inspección General de Justicia in the city, and disputes involving them are often heard by the national commercial courts sitting there. Foreign investors need background on owners and managers before entering joint ventures or acquisitions, particularly in energy, agribusiness, mining services and technology. Lenders and judgment creditors need to understand asset holdings in a market where currency controls, inflation and repeated restructurings have encouraged holding structures abroad. Public procurement in the capital also brings integrity and conflict-of-interest questions."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "More than 3.1 million, City of Buenos Aires (2022 census, INDEC)"
+    },
+    {
+      "label": "Metro area",
+      "value": "More than 13 million, Buenos Aires Metropolitan Area (AMBA)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Financial and professional services, software and IT, media, commerce, logistics, public administration"
+    },
+    {
+      "label": "Exchange and regulator",
+      "value": "Bolsas y Mercados Argentinos (BYMA); Comisión Nacional de Valores (CNV); Banco Central (BCRA)"
+    },
+    {
+      "label": "Port and airport",
+      "value": "Port of Buenos Aires; Ministro Pistarini (Ezeiza) and Aeroparque airports"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Argentina/Buenos_Aires, UTC-3, no daylight saving"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Spanish; English common in finance and multinationals"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Counterparty and owner background research",
+      "text": "Researching Buenos Aires-registered companies, their shareholders and directors ahead of acquisitions or joint ventures, using IGJ filings, Official Gazette notices, court records and open sources, and testing whether the people presented as owners are the ones who control the business in practice."
+    },
+    {
+      "title": "Asset research for creditors",
+      "text": "Identifying real estate, company interests and other assets of judgment or award debtors in the city, and tracing holding structures abroad commonly used by Argentine business families, so counsel can plan precautionary measures and enforcement before the national commercial courts."
+    },
+    {
+      "title": "Restructuring and insolvency diligence",
+      "text": "Supporting creditors and investors in concurso preventivo and quiebra proceedings filed before the national commercial courts in the city, with background on controlling shareholders, related-party transactions in the period before the filing and any movement of assets to connected entities in Argentina or abroad."
+    },
+    {
+      "title": "Procurement and integrity reviews",
+      "text": "Reviewing suppliers, consultants and intermediaries in national and city government contracting for undisclosed conflicts of interest, links to public officials, prior sanctions or debarments and adverse media, in support of compliance programmes, pre-contract diligence and internal investigations led by counsel."
+    },
+    {
+      "title": "Fraud in financial and fintech firms",
+      "text": "Assisting banks, brokers and fintech companies headquartered in Buenos Aires where internal fraud, misappropriation or misconduct by employees or agents is suspected, including mapping of the entities and accounts that received funds and background research on the individuals involved and their business associates."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "National commercial courts",
+      "text": "Because the city historically hosted the federal capital, many commercial cases are heard by the national commercial courts (Juzgados Nacionales de Primera Instancia en lo Comercial) and their court of appeal, the Cámara Nacional de Apelaciones en lo Comercial, which handle company, contract, banking and insolvency disputes, including concursos and quiebras of city-domiciled debtors. Federal courts in the city hear matters within federal jurisdiction. The transfer of national courts to the city's own judiciary has been debated for years and remains a point to check."
+    },
+    {
+      "title": "Arbitration in Buenos Aires",
+      "text": "The Tribunal de Arbitraje General de la Bolsa de Comercio de Buenos Aires has three permanent arbitrators and hears national and international commercial disputes; its current rules were approved by IGJ General Resolution 81/20 in February 2020. The Cámara Argentina de Comercio and the Bolsa de Cereales de Buenos Aires also administer institutional arbitration. Research for arbitrations is scoped around what the tribunal will need to see."
+    },
+    {
+      "title": "IGJ and city company registry",
+      "text": "The Inspección General de Justicia, under the national Ministry of Justice, keeps the Public Registry for companies domiciled in the city and supervises civil associations and foundations. Filings and Official Gazette publications are key sources on directors and shareholders. In 2008 the City Legislature passed Law 2,875 creating its own commercial registry, but execution of that law was suspended, and the IGJ remains the operative registry."
+    },
+    {
+      "title": "Property and city-level rules",
+      "text": "Real estate in the city is recorded in the Registro de la Propiedad Inmueble de la Capital Federal, a national registry, where reports on ownership and encumbrances can be requested by those with a legitimate interest. The city has its own legislature and security legislation covering private security services; whether it governs investigative services, and on what terms, has not been confirmed and is checked with Argentine counsel on each matter."
+    }
+  ],
+  "tdsc_approach": "TDSC handles Buenos Aires matters from Nashville and has no office, staff or licence in Argentina. Engagements start by identifying which records apply: IGJ filings and Official Gazette notices, national commercial and federal court files, property registry reports obtainable through proper channels, CNV disclosures for listed issuers and open-source and media research in Spanish. Where interviews, site visits or local inquiries are needed, TDSC coordinates qualified and appropriately authorised Argentine professionals and agrees the method with the client's Argentine counsel, with attention to Law 25,326 on personal data and to how evidence will be presented in court or arbitration. Reports separate documented facts from inference.",
+  "faqs": [
+    {
+      "q": "Where are Buenos Aires companies registered?",
+      "a": "Companies domiciled in the City of Buenos Aires register with the Inspección General de Justicia, a national body under the Ministry of Justice. Its records, together with notices in the Official Gazette, show incorporations, director appointments and many corporate changes. Companies domiciled in Buenos Aires Province register with the provincial authority instead, so the domicile matters when searching."
+    },
+    {
+      "q": "Which court hears a commercial dispute in Buenos Aires?",
+      "a": "Many commercial disputes in the city go to the national commercial courts and the Cámara Nacional de Apelaciones en lo Comercial, which also handle insolvency proceedings. Federal courts hear matters within federal jurisdiction. Forum choice is a matter for Argentine counsel; TDSC supports either route with research on parties, witnesses and assets."
+    },
+    {
+      "q": "Is there an arbitral institution in Buenos Aires?",
+      "a": "Yes. The Tribunal de Arbitraje General de la Bolsa de Comercio de Buenos Aires hears national and international commercial disputes under rules approved in 2020, and the Cámara Argentina de Comercio and the Bolsa de Cereales also administer arbitration. TDSC does not advise on institution choice but supports research for city-seated proceedings."
+    },
+    {
+      "q": "Can property ownership in the city be checked?",
+      "a": "Real estate in the City of Buenos Aires is recorded in the Registro de la Propiedad Inmueble de la Capital Federal. Ownership and encumbrance reports are available to those with a legitimate interest, usually requested through local professionals. Where property sits in companies or trusts, IGJ and other records are used to identify those behind the registered owner."
+    },
+    {
+      "q": "Does TDSC carry out surveillance in Buenos Aires?",
+      "a": "TDSC does not conduct fieldwork in Argentina itself. Where a matter calls for local inquiries, TDSC coordinates qualified and appropriately authorised Argentine professionals and agrees the scope with the client's counsel, taking account of Argentine privacy and data protection rules and of how the material may later be used in court or arbitration."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Infobae: Cuáles son las ciudades más grandes de Argentina (2025)",
+      "url": "https://www.infobae.com/sociedad/2025/02/22/cuales-son-las-ciudades-mas-grandes-de-argentina/"
+    },
+    {
+      "title": "Bolsa de Comercio de Buenos Aires: Reglamento del Tribunal de Arbitraje General",
+      "url": "https://www.labolsa.com.ar/sitio/descargas/Reglamento-Tribunal-BCBA-a-partir-del-1-12-2020.pdf"
+    },
+    {
+      "title": "Mercado: El arbitraje en la solución de conflictos comerciales",
+      "url": "https://mercado.com.ar/revista/numero-1038/el-arbitraje-en-la-solucion-de-conflictos-comerciales/"
+    },
+    {
+      "title": "Diario Judicial: La Ciudad ya tiene su propia IGJ (2008)",
+      "url": "https://www.diariojudicial.com/news-58401-la-ciudad-ya-tiene-su-propia-igj"
+    },
+    {
+      "title": "Abogados.com.ar: Suspenden la ejecución de la ley que creó la IGJ porteña",
+      "url": "https://abogados.com.ar/suspenden-la-ejecucion-de-la-ley-que-creo-la-igj-portena/2572"
+    },
+    {
+      "title": "Wikipedia: Inspector General of Justice",
+      "url": "https://en.wikipedia.org/wiki/Inspector_General_of_Justice"
+    }
+  ],
+  "review_flags": [
+    "Population uses INDEC 2022 census via Infobae (city 'more than 3.1 million'); AMBA 'more than 13 million' has no stated source or year in that article. The official INDEC/city statistics page was not opened.",
+    "City Law 2,875 (2008) commercial registry: sources confirm its execution was suspended but not by whom or its current status; verify the IGJ remains the sole operative registry for city-domiciled companies.",
+    "National commercial courts, Cámara Nacional de Apelaciones en lo Comercial, BYMA/CNV/BCRA, Ezeiza/Aeroparque, Registro de la Propiedad Inmueble de la Capital Federal, and the pending transfer of national courts to the city are from general knowledge; not opened.",
+    "No source opened on whether City of Buenos Aires private security legislation covers investigative services; text says this is unconfirmed."
+  ],
+  "researched": "2026-11-04"
+}

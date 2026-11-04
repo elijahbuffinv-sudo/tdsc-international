@@ -1,0 +1,146 @@
+{
+  "slug": "zurich-ch",
+  "name": "Zürich",
+  "cc": "CH",
+  "meta_description": "TDSC investigative consulting in matters touching Zürich: bank and insurer counterparties, Commercial Court disputes, wealth structures and asset tracing.",
+  "eyebrow": "Canton of Zürich, Switzerland",
+  "hero_lede": "Investigative consulting for matters touching Zürich, scoped from Nashville: background research on financial counterparties and principals in Switzerland's largest financial centre, asset tracing through Zürich-domiciled structures, and factual support for counsel before the Zürich Commercial Court and in arbitration seated in the city.",
+  "intro": [
+    "Zürich is Switzerland's largest city, with an estimated 440,000 residents at the end of 2025, and the centre of its leading financial region. The financial sector in the Zürich region generated about CHF 32.8 billion of gross value added in 2023 and employed some 103,400 people, roughly one job in ten, with banks contributing 43 percent of that value added, insurers 37 percent and other financial services 20 percent. Around a third of Switzerland's banks are headquartered in the region, the SIX Swiss Exchange is domiciled in the city, and Zürich has become a European hub for reinsurance. Technology, professional services and corporate headquarters add to an economy oriented towards international clients.",
+    "Organisations commission investigative work connected to Zürich because so much private wealth, corporate treasury and financial risk is booked or managed there. Claimants and lenders want to know whether a counterparty's assets sit with Zürich banks, family offices or holding companies, and what can lawfully be established about them. Investors and acquirers need background research on fund managers, fintech founders and financial intermediaries. Insurers and reinsurers face claims and counterparty questions that reach across many jurisdictions. Commercial disputes regularly come before the Zürich Commercial Court or arbitration seated in the city, where counsel need well-sourced facts about parties whose operations are often outside Switzerland."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 440,000, City of Zürich (end 2025, estimate)"
+    },
+    {
+      "label": "Financial sector",
+      "value": "CHF 32.8 billion gross value added and about 103,400 jobs in the Zürich region (2023)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Banking, insurance and reinsurance, asset management, fintech, professional services, technology"
+    },
+    {
+      "label": "Exchange and regulator",
+      "value": "SIX Swiss Exchange (Zürich); Swiss Financial Market Supervisory Authority (FINMA)"
+    },
+    {
+      "label": "Banking presence",
+      "value": "About one third of Switzerland's roughly 250 banks headquartered in the Zürich region"
+    },
+    {
+      "label": "Courts",
+      "value": "Zürich Commercial Court (Handelsgericht) for commercial claims above CHF 30,000"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Zurich (UTC+1, UTC+2 in summer)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "German (Swiss German spoken); English widely used in finance"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Financial counterparty and principal background",
+      "text": "Background research on Zürich-based asset managers, independent wealth managers, fintech founders and financial intermediaries before an investment, mandate or partnership, covering commercial register history, regulatory publications, litigation, media in German and English and the principals' track records in other financial centres."
+    },
+    {
+      "title": "Asset tracing through Zürich structures",
+      "text": "Supporting counsel enforcing judgments or awards where assets may be held through Zürich holding companies, family offices or property, by mapping register entries, officers, publications in the official gazette and connected entities abroad, so counsel can assess whether Swiss attachment or recognition proceedings are worth pursuing."
+    },
+    {
+      "title": "Insurance and reinsurance claims research",
+      "text": "Fact-finding for insurers, reinsurers and their counsel on suspicious or complex claims connected to Zürich-based programmes, including research into insureds, brokers, intermediaries and loss circumstances across the jurisdictions where risks were written or losses occurred."
+    },
+    {
+      "title": "Commercial Court dispute support",
+      "text": "Assembling well-sourced factual records on opposing parties, their corporate groups and key individuals for counsel preparing or defending claims before the Zürich Commercial Court, where early settlement hearings make a clear early understanding of the counterparty especially valuable."
+    },
+    {
+      "title": "Family office and private wealth reviews",
+      "text": "Discreet research into the structures, advisers and public footprint of wealthy families and their Zürich offices for co-investors, lenders or counterparties, and for families themselves reviewing exposure from advisers, partners or relatives, within Swiss data protection and banking secrecy limits."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Zürich Commercial Court",
+      "text": "The canton of Zürich maintains a specialised Commercial Court that acts as the sole first-instance court for commercial cases worth more than CHF 30,000, and hears intellectual property, unfair competition and antitrust matters regardless of value. Its decisions can be appealed directly to the Federal Supreme Court. The court routinely holds early settlement hearings after the defence is filed, and over 70 percent of cases settle at that stage."
+    },
+    {
+      "title": "Planned international commercial court",
+      "text": "Following a federal civil procedure revision in force since 1 January 2025, the Zürich cantonal government approved in July 2025 a bill to create a Zürich International Commercial Court within the Commercial Court, able to hear international commercial disputes in English if all parties agree. The bill required approval by the cantonal parliament, so its status should be checked before relying on it."
+    },
+    {
+      "title": "Arbitration seated in Zürich",
+      "text": "Zürich is one of the world's established arbitration seats, and the cantonal government describes the planned international court as complementing the city's arbitration hub. Institutional cases are often administered by the Swiss Arbitration Centre under the Swiss Rules of International Arbitration, alongside ICC and ad hoc proceedings. Investigative support in arbitration is confined to factual research for counsel and the parties."
+    },
+    {
+      "title": "Cantonal registers and gazette",
+      "text": "Companies domiciled in Zürich are entered in the canton's commercial register, searchable nationally through Zefix, with changes published in the Swiss Official Gazette of Commerce. Entries show registered officers and signatories, which often reveal the professional directors, lawyers and fiduciaries who sit on Zürich holding companies. Debt enforcement records are kept by local debt collection offices and are available only to those with a demonstrated interest."
+    },
+    {
+      "title": "Financial market institutions",
+      "text": "The SIX Swiss Exchange, domiciled in Zürich, sets rules for listed companies, and FINMA supervises banks, insurers and other financial institutions. Public disclosures by listed Zürich companies and FINMA's published lists of supervised entities help confirm a counterparty's status. Swiss banking secrecy and data protection rules mean account-level information is obtainable only through proper legal process. Research respects that boundary from the outset."
+    }
+  ],
+  "tdsc_approach": "For matters touching Zürich, TDSC begins by separating what Swiss public sources can show, such as register entries, gazette publications, exchange disclosures and published judgments, from what only legal process can reach, such as bank and account information. Research is conducted from Nashville in German and English and then extended into the jurisdictions where owners, assets or operations sit. Where interviews, document retrieval or other local steps are justified, TDSC coordinates with qualified local professionals and the client's Swiss counsel rather than acting directly, mindful of Swiss rules against acts on behalf of a foreign state and on economic intelligence. Findings are sourced so counsel can use them before the Zürich courts or arbitral tribunals.",
+  "faqs": [
+    {
+      "q": "Can you find out whether a counterparty holds assets at a Zürich bank?",
+      "a": "Not directly. Swiss banking secrecy and data protection law mean account information is available only through proper legal process, such as attachment or recognition proceedings brought by Swiss counsel. We can establish lawfully available indicators, such as Zürich companies, officers, property and business relationships, that help counsel decide whether and where Swiss proceedings may be worthwhile."
+    },
+    {
+      "q": "What makes the Zürich Commercial Court different?",
+      "a": "It is a specialised cantonal court that hears commercial cases worth more than CHF 30,000 as the sole first instance, with appeals going straight to the Federal Supreme Court. It also hears intellectual property and competition matters regardless of value. Most cases settle after an early hearing, so having reliable facts about the counterparty early can shape strategy."
+    },
+    {
+      "q": "Will Zürich offer English-language commercial court proceedings?",
+      "a": "The cantonal government approved a bill in July 2025 to create a Zürich International Commercial Court within the Commercial Court, allowing English-language proceedings where all parties agree, under a federal procedure revision in force since January 2025. The bill required cantonal parliamentary approval, so counsel should confirm its current status."
+    },
+    {
+      "q": "Who are the people named on Zürich holding company registrations?",
+      "a": "Zürich commercial register entries list board members and authorised signatories. For holding and investment companies these are often lawyers, fiduciaries or professional directors rather than the owners. Their presence is lawful and common. Research therefore uses the register as a starting point and follows the structure through other records and jurisdictions to identify who controls the company."
+    },
+    {
+      "q": "Does TDSC have an office in Zürich?",
+      "a": "No. TDSC is based in Nashville and has no office or staff in Zürich or elsewhere in Switzerland. Most work is desk-based research using public and commercial sources. Where local steps are needed, we coordinate with qualified local professionals and the client's Swiss counsel, acting lawfully and within the limits of Swiss law."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Canton of Zürich: Financial services",
+      "url": "https://www.zh.ch/en/wirtschaft-arbeit/wirtschaftsstandort/finanzdienstleistungen.html"
+    },
+    {
+      "title": "Finanzplatz Zürich: Mainstay of Zurich's economy",
+      "url": "https://finanzplatz-zuerich.ch/en/fakten/mainstay-of-zurichs-economy/"
+    },
+    {
+      "title": "Canton of Zürich: Zürich soll ein internationales Handelsgericht erhalten (July 2025)",
+      "url": "https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2025/07/zuerich-soll-ein-internationales-handelsgericht-erhalten.html"
+    },
+    {
+      "title": "Global Legal Post / Law Over Borders: Commercial litigation, Switzerland",
+      "url": "https://www.globallegalpost.com/lawoverborders/commercial-litigation-law-guide-823391922/switzerland-1391127996"
+    },
+    {
+      "title": "Statista: Largest cities in Switzerland (31 December 2025)",
+      "url": "https://de.statista.com/statistik/daten/studie/216783/umfrage/groesste-staedte-in-der-schweiz"
+    },
+    {
+      "title": "Baker McKenzie Global Litigation News: Switzerland steps up international commercial courts (2025)",
+      "url": "https://globallitigationnews.bakermckenzie.com/2025/08/26/switzerland-steps-up-international-commercial-courts-will-strengthen-switzerland-as-hub-for-the-resolution-of-international-commercial-disputes/"
+    }
+  ],
+  "review_flags": [
+    "City population (about 440,000, end 2025) is a Statista estimate; the Statista page's own meta description says about 434,000. Replace with Stadt Zürich Statistik figure if available.",
+    "ZICC status: cantonal parliament decision after the July 2025 government bill not verified; text tells readers to check current status.",
+    "Swiss Arbitration Centre presence in Zürich, debt enforcement (Betreibungsamt) records access rule, cantonal commercial register naming, and mentions of Swiss Criminal Code limits (acts for a foreign state, economic intelligence) are from general knowledge, not opened sources; 'about 250 banks' figure dates from a 2019-2020 finanzplatz page.",
+    "Large employers (UBS, Zurich Insurance, Swiss Re) not named because no opened source listed them."
+  ],
+  "researched": "2026-11-04"
+}

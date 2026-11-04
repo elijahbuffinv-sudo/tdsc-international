@@ -80,14 +80,14 @@
     },
     {
       "title": "Records and registries",
-      "text": "Business entities are formed with the New York Department of State, Division of Corporations, whose public records show entity type, filing history and a service address but usually not owners. Real property records for the city's boroughs are recorded by the New York City Department of Finance, and state court filings are searchable online for many cases. Records of entities formed in Delaware or other states must be searched in those states."
+      "text": "Business entities are formed with the New York Department of State, Division of Corporations, whose public records show entity type, filing date, status and a service of process address, often a law firm or post office box, but not owners. Deeds and mortgages for Manhattan, Brooklyn, Queens and the Bronx are recorded by the City Register of the Department of Finance and searchable in ACRIS; Staten Island documents are recorded with the Richmond County Clerk. Entities formed in Delaware or other states must be searched there."
     },
     {
       "title": "Financial regulation in New York",
       "text": "The New York State Department of Financial Services supervises state-chartered banks, insurers, money transmitters and virtual currency businesses, and publishes enforcement actions and consent orders. Federal regulators, including the Securities and Exchange Commission and the Financial Industry Regulatory Authority, maintain major offices in the city. Their public enforcement records are standard sources when assessing New York financial counterparties."
     }
   ],
-  "tdsc_approach": "TDSC has no office in New York and works on New York matters from Nashville. We begin by agreeing with the client's counsel whether the work supports state or federal litigation, enforcement, a transaction or an internal review, because that decides which records are relevant and how findings should be documented. Research covers state and federal dockets, the Division of Corporations, New York City property records, regulatory registers and filings in Delaware and other states where entities are formed. Any fieldwork, interviews or surveillance in New York is performed by New York-licensed investigators under Article 7 of the General Business Law. Reports cite sources so counsel can rely on them in proceedings.",
+  "tdsc_approach": "TDSC has no office in New York and works on New York matters from Nashville. We begin by agreeing with the client's counsel whether the work supports state or federal litigation, enforcement, a transaction or an internal review, because that decides which records are relevant and how findings should be documented. Research covers state and federal dockets, the Division of Corporations, New York City property records (ACRIS and the Richmond County Clerk), regulatory registers and filings in Delaware and other states where entities are formed. Any fieldwork, interviews or surveillance in New York is performed by New York-licensed investigators under Article 7 of the General Business Law. Reports cite sources so counsel can rely on them in proceedings.",
   "faqs": [
     {
       "q": "Does an investigator need a New York licence to work on a New York matter?",
@@ -122,13 +122,27 @@
     {
       "title": "New York Department of State: Private Investigator licensing law (March 2026)",
       "url": "https://dos.ny.gov/system/files/documents/2026/03/pi-bea-wgp-sg-licensing-law_03.2026.pdf"
+    },
+    {
+      "title": "NYC Department of Finance: Property recording documents (City Register and ACRIS)",
+      "url": "https://www.nyc.gov/site/finance/property/property-recording-documents.page"
+    },
+    {
+      "title": "THE CITY: How to search property and building records in New York City",
+      "url": "https://www.thecity.nyc/2023/10/13/how-to-search-property-building-records/"
+    },
+    {
+      "title": "Filed: How to search New York business records (Division of Corporations)",
+      "url": "https://filed.dev/guides/how-to-search-new-york-business-records"
     }
   ],
   "review_flags": [
-    "Only three sources were actually opened (below the 5 minimum). Official pages for NYDFS, SDNY/EDNY, NYC Department of Finance (ACRIS), NY Division of Corporations, NYSE/Nasdaq and the UN could not be fetched (provenance restrictions); those statements rest on background knowledge. Add sources before publishing.",
-    "Commercial Division thresholds taken from Cornell LII text of 22 NYCRR 202.70; the official nycourts.gov page did not load. Thresholds are amended periodically; confirm before publishing.",
-    "New York LLC Transparency Act deliberately not mentioned: its scope was narrowed in 2025 and its status should be checked if beneficial ownership is to be discussed.",
-    "Search budget for this city exceeded by one call (4 WebSearch calls)."
+    "Corrected: the City Register/ACRIS covers Manhattan, Brooklyn, Queens and the Bronx only; Staten Island records are with the Richmond County Clerk (per NYC Department of Finance page).",
+    "Still from background knowledge, no source opened: NYDFS supervisory scope and enforcement publications; SDNY in Manhattan and EDNY in Brooklyn; NYSE and Nasdaq; UN headquarters; SEC/FINRA offices; PACER.",
+    "Division of Corporations description rests on a secondary guide (filed.dev) and THE CITY; the official DOS search page did not appear in results.",
+    "Commercial Division thresholds taken from Cornell LII text of 22 NYCRR 202.70; confirm against nycourts.gov before publishing.",
+    "New York LLC Transparency Act deliberately not mentioned; check its current status if beneficial ownership is to be discussed.",
+    "Original research exceeded the search budget (4 calls); this revision used 2 more."
   ],
   "researched": "2026-11-04"
 }

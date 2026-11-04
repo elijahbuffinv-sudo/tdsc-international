@@ -64,11 +64,11 @@
   "local_context": [
     {
       "title": "Courts sitting in the capital",
-      "text": "Mexico City hosts both its own judiciary, headed by the Tribunal Superior de Justicia de la Ciudad de México, which hears civil and commercial claims under local jurisdiction, and a large concentration of federal courts, including the federal district and collegiate courts that hear commercial and amparo matters and the Supreme Court. Whether a commercial dispute goes to local or federal court shapes where records are searched and how evidence is presented."
+      "text": "Mexico City hosts its own judiciary, headed by the Tribunal Superior de Justicia de la Ciudad de México, whose civil courts, including oral-procedure civil courts, hear civil and commercial claims under local jurisdiction, alongside a large concentration of federal courts, including the district and collegiate courts that hear commercial and amparo matters and the Supreme Court. Whether a commercial dispute goes to local or federal court shapes where records are searched and how evidence is presented."
     },
     {
       "title": "Arbitration in Mexico City",
-      "text": "Mexico City is the country's principal arbitral seat. The Centro de Arbitraje de México (CAM) is a private institution that administers commercial arbitration under its own rules, in force since 1 July 2009, under which the secretary general fixes the seat where the parties have not agreed one. ICC proceedings with a Mexican seat are also commonly sited in the capital, and the city's courts handle supporting and annulment measures."
+      "text": "Mexico City is the country's principal arbitral seat. The Centro de Arbitraje de México (CAM) is a private institution that administers commercial arbitration under revised rules in force since 1 December 2022, which add an expedited procedure for smaller claims, remote hearings, electronic filing and disclosure of third-party funders. ICC proceedings with a Mexican seat are also commonly sited in the capital, and the city's courts handle supporting and annulment measures."
     },
     {
       "title": "Registries for the capital",
@@ -118,13 +118,30 @@
     {
       "title": "Reglas de Arbitraje del Centro de Arbitraje de México (OHADAC copy)",
       "url": "https://www.ohadac.com/telechargement/legislation/40/reglas-de-arbitraje-del-centro-de-arbitraje-de-mexico.pdf"
+    },
+    {
+      "title": "Reglamento de la Ley Registral para la Ciudad de México (Consejería Jurídica CDMX)",
+      "url": "https://data.consejeria.cdmx.gob.mx//images/leyes/reglamentos/REGLAMENTO_DE_LA_LEY_REGISTRAL_PARA_LA_CIUDAD_DE_MEXICO_1.pdf"
+    },
+    {
+      "title": "Poder Judicial de la Ciudad de México: Organigrama TSJCDMX 2024",
+      "url": "https://www.poderjudicialcdmx.gob.mx/wp-content/uploads/Organigrama_TSJCDMX_2024.pdf"
+    },
+    {
+      "title": "Kluwer Arbitration Blog: Newly revised Arbitration Center of Mexico (CAM) Arbitration Rules",
+      "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/newly-revised-arbitration-center-of-mexico-cam-arbitration-rules/"
+    },
+    {
+      "title": "Garrigues: New arbitration rules issued by the Mexican Arbitration Center",
+      "url": "https://www.garrigues.com/en_GB/new/new-arbitration-rules-issued-mexican-arbitration-center-cover-important-need-local-arbitration"
     }
   ],
   "review_flags": [
-    "Only 4 sources opened (brief asks 5-10); camaramexico.com.mx and poderjudicialcdmx.gob.mx were blocked by fetch provenance rules. Add official TSJCDMX and CAM sources.",
-    "Headquarters of BMV, BIVA and CNBV in Mexico City is stated from general knowledge; opened sources did not state their location explicitly.",
-    "CAM rules cited are the 2009 version from an OHADAC copy; CAM may have issued newer rules. Check camaramexico.com.mx.",
-    "Court description (TSJCDMX civil/commercial jurisdiction, federal courts in the capital) and the Registro Público de la Propiedad y de Comercio de la CDMX are from general knowledge; not opened. Effect of the 2024-2025 judicial reform on the CDMX judiciary not researched.",
+    "Corrected: CAM rules updated; the 2022 rules entered into force 1 December 2022 (Kluwer, Garrigues). Removed the 2009-rules claim that the secretary general fixes the seat, not verified in the 2022 rules.",
+    "Registro Público de la Propiedad y de Comercio de la Ciudad de México name confirmed in the Reglamento de la Ley Registral (art. 2).",
+    "TSJCDMX court structure taken from the 2024 organigram (civil and oral civil courts; no separate commercial courts); effect of the 2024-2025 judicial reform not researched.",
+    "Population, metro and GDP-share figures still from Wikipedia, not INEGI.",
+    "Still from background knowledge: headquarters of BMV, BIVA and CNBV in Mexico City (Baker McKenzie confirms CNBV supervises the BMV, not locations); CAM location in Mexico City.",
     "AICM/AIFA airports intentionally omitted (not verified)."
   ],
   "researched": "2026-11-04"

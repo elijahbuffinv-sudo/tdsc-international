@@ -1,0 +1,57 @@
+{
+  "slug": "tianjin-cn",
+  "name": "Tianjin",
+  "cc": "CN",
+  "meta_description": "TDSC investigative consulting in matters touching Tianjin: port and shipping diligence, aircraft leasing counterparties and Binhai free trade zone partners.",
+  "eyebrow": "Tianjin Municipality, China",
+  "hero_lede": "Tianjin is northern China's largest port city, with shipping, vehicle trade, aircraft assembly and leasing, and a pilot free trade zone. TDSC scopes investigative consulting from Nashville for matters touching the city, using lawful public sources and coordinating qualified local professionals and counsel where required.",
+  "intro": [
+    "Tianjin is a provincial-level municipality about 120 kilometres from Beijing, with a population of about 13.9 million at the 2020 census. It is the largest port city in northern China and the main maritime gateway for the Beijing-Tianjin-Hebei region. Its Binhai New Area, developed around the port since the 1990s, contains the Tianjin Economic-Technological Development Area, founded in 1984, and the China (Tianjin) Pilot Free Trade Zone, established in 2015. Industry spans petrochemicals, vehicles, machinery and metalworking, and the city hosts Airbus's A320-series final assembly line. Official media report that more than 290 Fortune 500 companies have invested in the city.",
+    "Organisations commission investigative work connected to Tianjin because shipping, vehicle trade and asset finance concentrate there. Tianjin Port is the leading vehicle import and export hub in northern China, and the city is described as the world's second-largest aircraft leasing base, with about a third of China's civil aviation leasing activity. Leasing companies registered in the free trade zone often hold aircraft, vessels or equipment through special purpose vehicles; trading and forwarding firms in Binhai may sit within wider groups with state or private shareholders. Lessors, financiers, insurers and litigators need to understand who controls these structures and what disputes, penalties or enforcement actions appear in the record."
+  ],
+  "economy": [
+    {"label": "Population", "value": "About 13.87 million (2020 census)"},
+    {"label": "Status", "value": "Provincial-level municipality under the central government"},
+    {"label": "Key sectors", "value": "Port and shipping, vehicles, aircraft assembly and leasing, petrochemicals, machinery, metals"},
+    {"label": "Port", "value": "Tianjin Port, northern China's largest port and leading vehicle trade hub"},
+    {"label": "Free trade zone", "value": "China (Tianjin) Pilot Free Trade Zone (2015); Binhai New Area"},
+    {"label": "Airport", "value": "Tianjin Binhai International Airport"},
+    {"label": "Time zone", "value": "Asia/Shanghai, UTC+8"},
+    {"label": "Languages of business", "value": "Mandarin Chinese; English in shipping and foreign-invested firms"}
+  ],
+  "matters": [
+    {"title": "Aircraft and equipment leasing counterparties", "text": "Leasing groups in the Tianjin free trade zone often hold each aircraft, vessel or equipment item in a separate special purpose company. We map the parent group, shareholders of record, related lessees and published disputes so financiers and lessors understand who stands behind a lease and where repossession risk may lie."},
+    {"title": "Shipping and freight forwarding diligence", "text": "Shipowners, operators and forwarders around Tianjin Port handle bulk, container and vehicle cargo. We review registration data, maritime court judgments, administrative penalties and media to test ownership, related companies and history of cargo claims or detentions before charters, financing or acquisitions."},
+    {"title": "Vehicle import and export trade", "text": "Tianjin Port is northern China's main vehicle trade hub. We examine traders, exporters and parallel importers for ownership, related parties, licensing and customs-related penalties where published, helping manufacturers and distributors detect unauthorised channels, misdescription and undisclosed connections."},
+    {"title": "Free trade zone partner screening", "text": "Companies registered in the Binhai New Area and the pilot free trade zone range from substantial operators to thinly capitalised shells. We look beyond the registration to actual operations, shareholders of record, affiliated entities and litigation to confirm whether a partner has the substance it claims."},
+    {"title": "Support for maritime and commercial disputes", "text": "Claims before the Tianjin Maritime Court or in arbitration often depend on locating assets and understanding a defendant's group. We support counsel with research on vessels, related companies, published judgments and enforcement records, scoped to what PRC law allows to be collected and used."}
+  ],
+  "local_context": [
+    {"title": "Tianjin Maritime Court", "text": "The Tianjin Maritime Court, established in 1984, was the first of China's specialised maritime courts. Its jurisdiction covers ports, coasts, islands and sea areas of Tianjin and Hebei Province. It hears disputes on maritime trade contracts, bills of lading, marine insurance, general average, salvage, port operations and warehousing, freight forwarding and marine environmental damage, and handles recognition and enforcement of maritime arbitration awards. It is the key forum for shipping-related claims in the region."},
+    {"title": "Binhai New Area and TEDA", "text": "The Binhai New Area grew from 1994 around the port and was approved by the State Council in 2006 as a national integrated reform pilot area. Within it, the Tianjin Economic-Technological Development Area, founded in 1984, has district-like administrative and economic management powers. Many foreign-invested manufacturers and logistics firms are registered in these areas, so local registration and administrative records are often held by Binhai-level authorities."},
+    {"title": "Pilot free trade zone and leasing", "text": "The China (Tianjin) Pilot Free Trade Zone was formally established on 21 April 2015, and the older Tianjin Port Free Trade Zone dates from 1991. The zone is a major base for aircraft, vessel and equipment leasing, with official media describing Tianjin as the world's second-largest aircraft leasing base. Leasing companies there operate within national financial regulation and zone-specific policies that counsel should review for each structure."},
+    {"title": "Arbitration and local records", "text": "Commercial disputes involving Tianjin parties are often referred to arbitration, whether to a national institution or to the municipal arbitration commission based in the city; maritime awards may be enforced through the Maritime Court. Company registration data, shareholders of record and administrative penalties appear in the national enterprise credit publicity system, and judgments in national databases where published. Personal information is protected by national law."}
+  ],
+  "tdsc_approach": "TDSC has no office in Tianjin and works on Tianjin matters from Nashville. We first agree the purpose with the client's counsel, whether a leasing or shipping transaction, a vehicle distribution concern, partner screening in the free trade zone, or a claim before the Tianjin Maritime Court or in arbitration. Research draws on lawful public sources: enterprise credit publicity data, published judgments and enforcement records, maritime and vessel information where publicly available, and Chinese-language media. Where local enquiries are required, we coordinate qualified local professionals and PRC counsel, and we do not use pretexting or restricted government data. Data handling is planned around China's personal information and cross-border transfer rules, and reports state sources and confidence levels.",
+  "faqs": [
+    {"q": "Which court hears shipping disputes connected to Tianjin?", "a": "Maritime claims arising in the ports, coasts and sea areas of Tianjin and Hebei are generally heard by the Tianjin Maritime Court, established in 1984. It handles bills of lading, cargo, marine insurance, salvage, port operations and freight forwarding disputes, and the recognition and enforcement of maritime arbitration awards. Counsel should confirm jurisdiction for each claim."},
+    {"q": "How do you research a Tianjin aircraft leasing company?", "a": "We identify the parent group and the special purpose companies that hold individual assets, then review shareholders of record, registered capital, administrative penalties, litigation and media. We also look at the lessees and related parties involved. The aim is to show who controls the structure and whether past disputes or enforcement suggest elevated risk."},
+    {"q": "What does registration in the Binhai New Area tell us about a company?", "a": "It shows where a company is registered and which local authorities hold its records, and it may indicate access to free trade zone or development area policies. It does not prove that the company has real operations. We test substance through ownership, affiliates, trading history, litigation and public reporting."},
+    {"q": "Can you check vehicle exporters operating through Tianjin Port?", "a": "Yes, within lawful limits. We review the exporter's registration, shareholders, related companies, published administrative penalties and litigation, and media coverage, and look for signs of unauthorised distribution or misdescription. Any on-site enquiries are carried out by qualified local professionals within PRC law and coordinated with counsel."},
+    {"q": "Can research findings about individuals in Tianjin be shared abroad?", "a": "China restricts the collection of personal information and its transfer outside the country. We agree with counsel at the outset which personal information is necessary and how it will be handled, and we structure reporting to limit cross-border transfer of personal data while still answering the client's question."}
+  ],
+  "sources": [
+    {"title": "Tianjin (Wikipedia overview)", "url": "https://en.wikipedia.org/wiki/Tianjin"},
+    {"title": "Tianjin Maritime Court (Wikipedia overview)", "url": "https://en.wikipedia.org/wiki/Tianjin_Maritime_Court"},
+    {"title": "Gov.cn (Xinhua): Tianjin feature on port, free trade zone, Airbus and aircraft leasing (August 2024)", "url": "https://english.www.gov.cn/news/202408/07/content_WS66b2daaac6d0868f4e8e9c70.html"},
+    {"title": "CGTN: North China's Tianjin makes strides in high-quality development (March 2025)", "url": "https://news.cgtn.com/news/2025-03-07/North-China-s-Tianjin-makes-strides-in-high-quality-development-1BxT4Xq14He/p.html"},
+    {"title": "China Daily: Tianjin statistics", "url": "https://govt.chinadaily.com.cn/regional/tianjin/statistics"}
+  ],
+  "review_flags": [
+    "Population uses the 2020 census (13.87 million) from Wikipedia; no current Tianjin Statistics Bureau or World Bank figure was found in searches.",
+    "Tianjin Arbitration Commission and the national enterprise credit publicity system role are stated generically from background knowledge, not fetched.",
+    "Court descriptions rely on Wikipedia; official court pages not fetched. No Tianjin international commercial tribunal was verified, so none is mentioned.",
+    "China Daily statistics page yielded only GDP growth headlines; it is listed as a consulted source but supports little text."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "calgary-ca",
+  "name": "Calgary",
+  "cc": "CA",
+  "meta_description": "TDSC investigative consulting in matters touching Calgary: energy sector counterparties, Alberta corporate records, securities and asset research for counsel.",
+  "eyebrow": "Calgary, Alberta, Canada",
+  "hero_lede": "Investigative consulting for matters touching Calgary, scoped from Nashville: research on energy and resource counterparties, joint-venture partners and contractors, Alberta corporate and court records, and factual support for counsel in disputes before the Court of King's Bench and in arbitration.",
+  "intro": [
+    "Calgary is the commercial centre of Canada's energy industry and the largest city in Alberta. The City of Calgary estimates its population at about 1.51 million in April 2024 and 1.56 million in April 2025, after growth of 6.2 percent in a single year, while the census metropolitan area is estimated at about 1.84 million in 2025. The Conference Board of Canada puts the city's GDP contribution at 129 billion dollars in 2024. Oil and gas head offices, pipeline operators and their service providers sit alongside growing financial services, technology, aerospace, agribusiness, and transportation and logistics sectors. Alberta levies no provincial sales tax, payroll tax or land transfer tax, which helps draw corporate investment and new residents to the city.",
+    "Organisations commission investigative work connected to Calgary because so much capital, contracting and dispute activity in Canada's resource economy runs through it. Acquirers and lenders need background on the operators, junior producers and service companies behind assets in the Western Canadian basin. Joint-venture partners and royalty holders sometimes question how costs were charged or production reported. Large capital projects create procurement and contractor fraud exposure. Market cycles produce insolvencies, receiverships and asset sales where creditors want to know what a debtor and its principals still hold. Counsel in these matters need well-sourced facts about companies, individuals and related entities in Alberta and beyond."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 1.51 million (City of Calgary estimate, April 2024)"
+    },
+    {
+      "label": "Metro area",
+      "value": "Calgary CMA about 1.84 million (2025 estimate)"
+    },
+    {
+      "label": "Economic output",
+      "value": "GDP of 129 billion dollars (2024, Conference Board of Canada)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Energy and environment, financial services, technology, aerospace, agribusiness, transportation and logistics"
+    },
+    {
+      "label": "Securities regulator",
+      "value": "Alberta Securities Commission"
+    },
+    {
+      "label": "Superior court",
+      "value": "Court of King's Bench of Alberta, Calgary Courts Centre"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Edmonton (UTC-7, UTC-6 in summer)"
+    },
+    {
+      "label": "Language of business",
+      "value": "English"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Energy counterparty and operator diligence",
+      "text": "Background research on exploration and production companies, junior operators and their principals ahead of asset acquisitions, farm-ins or financing, covering corporate history, regulatory and litigation records, related entities and reputational issues, so buyers and lenders understand who they are dealing with in Alberta's energy sector."
+    },
+    {
+      "title": "Joint venture and royalty disputes",
+      "text": "Fact-finding for counsel where partners or royalty holders question cost allocation, production reporting or related-party transactions by an operator, including research into the companies and individuals who received payments and their links to the operator's management."
+    },
+    {
+      "title": "Capital project procurement fraud",
+      "text": "Support to internal investigations into suspected kickbacks, inflated invoicing or undisclosed conflicts involving contractors and suppliers on pipelines, facilities and other large projects, focusing on lawful background research into vendors, their owners and their connections to employees."
+    },
+    {
+      "title": "Insolvency and asset research",
+      "text": "Assembling factual records for creditors, receivers and counsel when Calgary companies enter receivership or restructuring, including principals' other business interests, property holdings disclosed in public registers, and transfers to related parties that may warrant further legal action."
+    },
+    {
+      "title": "Executive and investor background checks",
+      "text": "Lawful, consent-based or public-record background research on executives, directors and private investors before appointments, investments or partnerships, reviewing corporate roles, insolvency involvement, securities regulatory history, litigation and media coverage across Canadian and foreign jurisdictions. Findings are reported with their sources."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Courts sitting in Calgary",
+      "text": "The Court of King's Bench of Alberta, the province's superior trial court with inherent jurisdiction, sits in the Calgary Courts Centre, to which it moved in 2007. It was renamed from the Court of Queen's Bench on 8 September 2022. It hears civil and criminal trials and estate matters, and appeals go to the Court of Appeal of Alberta. Most significant commercial litigation, insolvency proceedings and receiverships involving Calgary companies run through this court."
+    },
+    {
+      "title": "Alberta investigator licensing",
+      "text": "Alberta requires anyone working as a private or in-house investigator to hold a licence under the Security Services and Investigators Act, administered by the Security Programs branch of Public Safety and Emergency Services. Applicants must complete approved training and pass a provincial exam. TDSC does not hold an Alberta licence; where work in the province requires licensed investigators, it coordinates with appropriately licensed Alberta professionals."
+    },
+    {
+      "title": "Alberta Securities Commission",
+      "text": "The Alberta Securities Commission regulates the province's capital markets, including the many energy issuers headquartered in Calgary. It investigates and brings proceedings over securities misconduct, and its investigative powers have been tested and upheld in the Alberta courts. Its published decisions and enforcement records are a useful public source when assessing directors, promoters and issuers connected to the city. Decisions are publicly searchable."
+    },
+    {
+      "title": "Provincial privacy and registries",
+      "text": "Private-sector personal information in Alberta is governed by the provincial Personal Information Protection Act rather than federal PIPEDA for most purposes, including employee information. Alberta corporate searches are obtained through the provincial corporate registry, generally via authorised registry agents, and land title records through the provincial land titles system. Federal corporations are searched separately through Corporations Canada. Each search answers a different question."
+    },
+    {
+      "title": "Arbitration in Calgary",
+      "text": "Energy contracts frequently provide for arbitration, and domestic and international arbitrations are often seated in Calgary under Alberta's arbitration legislation, with the Court of King's Bench exercising supervisory and enforcement functions. Investigative support in arbitration is limited to factual research for counsel and the parties, presented in a way that can be relied on and tested. Arbitral confidentiality is respected throughout."
+    }
+  ],
+  "tdsc_approach": "For matters touching Calgary, TDSC starts by defining the decision the client faces, whether that is an asset acquisition, a joint-venture dispute, a procurement concern or recovery from an insolvent counterparty, and then identifies the Alberta and federal records that bear on it. Research is conducted from Nashville using corporate registry extracts, Court of King's Bench filings, securities regulatory decisions and open sources. Because Alberta licenses private investigators, any work in the province that requires a licence, such as interviews, surveillance or field enquiries, is carried out by appropriately licensed Alberta professionals coordinated by TDSC and the client's Canadian counsel. Personal information is handled in line with Alberta's Personal Information Protection Act.",
+  "faqs": [
+    {
+      "q": "Do you need an Alberta licence to investigate matters in Calgary?",
+      "a": "Alberta requires private and in-house investigators working in the province to be licensed under the Security Services and Investigators Act. TDSC does not hold an Alberta licence. Desk research on public records can be performed from Nashville; any field work, interviews or surveillance in Alberta is carried out by appropriately licensed local investigators whom TDSC coordinates with the client's counsel."
+    },
+    {
+      "q": "Can you research an energy operator before we buy its assets?",
+      "a": "Yes. We review the operator's corporate history, directors and officers, related companies, litigation in the Court of King's Bench, securities regulatory decisions and media coverage. Where relevant we look at prior insolvencies of entities linked to the same principals. Technical and regulatory compliance questions, such as well liabilities, sit with engineers and regulatory counsel."
+    },
+    {
+      "q": "How do you help in a joint venture accounting dispute?",
+      "a": "Auditors and accountants test the numbers. We support counsel by identifying who received payments charged to the joint account, whether vendors are related to the operator's management, and what public records show about those parties. The aim is to give counsel a sourced factual picture before audit rights or litigation are pursued further."
+    },
+    {
+      "q": "What can Alberta records show about a debtor's assets?",
+      "a": "Land titles, corporate registry searches, personal property registry searches and court filings can show property, directorships, security interests and judgments. They do not show bank balances. We combine these records with open-source research into a debtor's other businesses, and any steps beyond public records are taken by counsel through the courts."
+    },
+    {
+      "q": "Does TDSC have an office in Calgary?",
+      "a": "No. TDSC is based in Nashville, Tennessee, and has no office or staff in Calgary or elsewhere in Canada. Engagements touching Calgary are scoped and managed from Nashville, with licensed Alberta investigators and the client's Canadian counsel engaged where local work or legal advice is needed."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Calgary Economic Development: Calgary at a Glance",
+      "url": "https://calgaryeconomicdevelopment.com/insights/economic-snapshot"
+    },
+    {
+      "title": "City of Calgary: Economic Outlook and Population Outlook",
+      "url": "https://calgary.ca/research/economic-outlook.html"
+    },
+    {
+      "title": "CBC News: Calgary population surges in StatsCan estimates",
+      "url": "https://amp.cbc.ca/news/canada/calgary/calgary-edmonton-cmas-july-2023-population-estimates-2024-data-release-1.7210191"
+    },
+    {
+      "title": "Government of Alberta: Investigator licence",
+      "url": "https://alberta.ca/investigator-licence"
+    },
+    {
+      "title": "Wikipedia: Court of King's Bench of Alberta",
+      "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_Alberta"
+    },
+    {
+      "title": "Newswire: Alberta Provincial Court upholds investigation powers of ASC",
+      "url": "https://newswire.ca/news-releases/alberta-provincial-court-upholds-investigation-powers-of-asc-512425331.html"
+    }
+  ],
+  "review_flags": [
+    "Population is a City of Calgary estimate (calgary.ca), not a Statistics Canada figure; CMA 1.84 million (2025) is also a City forecast table value. StatsCan CMA 1.68 million (July 2023) seen only via CBC.",
+    "Alberta Securities Commission headquartered in Calgary, Alberta PIPA coverage of employee data, Alberta corporate registry via registry agents, land titles and personal property registry, and Alberta arbitration legislation are stated from background knowledge; not opened this session.",
+    "No named arbitration institution in Calgary verified; local_context arbitration item kept general.",
+    "Court of King's Bench details from Wikipedia only; no commercial list or specialised commercial practice verified."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "auckland-nz",
+  "name": "Auckland",
+  "cc": "NZ",
+  "meta_description": "TDSC investigative consulting in matters touching Auckland: due diligence, asset tracing and counsel support in Commercial List and arbitration matters.",
+  "eyebrow": "Tamaki Makaurau, New Zealand",
+  "hero_lede": "Investigative consulting for matters that run through Auckland: New Zealand companies and investors concentrated in the region, commercial disputes before the High Court at Auckland and its Commercial List, arbitrations seated in the city, and property and trust structures across the region. Scoped from Nashville with qualified New Zealand professionals.",
+  "intro": [
+    "Auckland is New Zealand's largest city and its principal commercial centre. The region was home to about 1.8 million people in 2024, roughly 34 percent of the national population, and produced about 38 percent of national GDP, around NZ$160 billion in the year to March 2024. Professional, scientific and technical services and financial and insurance services are the largest industries by output, and nearly 80 percent of the workforce is in services. About 227,000 businesses, 35 percent of the national total, are based in the region. Auckland Airport is the country's main international gateway, and the Port of Auckland on the Waitemata Harbour is a major import port. Since 2010 the region has been governed by a single unitary authority, Auckland Council.",
+    "Organisations commission investigative work connected to Auckland because most New Zealand corporate head offices, private capital, professional advisers and many foreign-owned subsidiaries sit in the region. Typical triggers include due diligence on New Zealand acquisition targets and their owners, background research on executives and investment partners, and support to counsel in shareholder, construction, property and financing disputes heard in the High Court at Auckland. Construction and property development, a significant source of employment, generates disputes over failed projects, insolvent contractors and related-party dealings. Asset tracing for enforcement often has to deal with family trusts and nominee arrangements, which are widely used to hold property in New Zealand, and with import and trade arrangements running through the region's ports."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 1.82 million, Auckland region (Stats NZ estimate, June 2025)"
+    },
+    {
+      "label": "Share of New Zealand",
+      "value": "About 34% of population and 38% of GDP (2024)"
+    },
+    {
+      "label": "Regional GDP",
+      "value": "About NZ$160 billion (year to March 2024)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Professional services, finance and insurance, construction, health care, retail, logistics"
+    },
+    {
+      "label": "Port and airport",
+      "value": "Port of Auckland (Ports of Auckland Limited); Auckland Airport, main international gateway"
+    },
+    {
+      "label": "Local government",
+      "value": "Auckland Council, unitary authority since November 2010"
+    },
+    {
+      "label": "Time zone",
+      "value": "Pacific/Auckland, UTC+12 (UTC+13 in daylight saving time)"
+    },
+    {
+      "label": "Business language",
+      "value": "English"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Due diligence on Auckland companies",
+      "text": "Ownership, directorship, litigation and insolvency history of New Zealand companies and their principals, built from Companies Office records, published judgments, insolvency notices and media, to support acquisitions, private capital investments, joint ventures and lending decisions involving Auckland-based businesses."
+    },
+    {
+      "title": "Commercial List litigation support",
+      "text": "Background research on counterparties, witnesses and experts and fact development for counsel in disputes before the High Court at Auckland, including its Commercial List, where close case management and early hearing dates compress the time available for investigative work."
+    },
+    {
+      "title": "Construction and property disputes",
+      "text": "Research into developers, contractors and their related entities in Auckland construction and property disputes, including phoenix-style patterns where failed companies are succeeded by new entities with the same principals, and links between project vehicles, family trusts and directors."
+    },
+    {
+      "title": "Asset tracing through trusts",
+      "text": "Identification of property, companies and business interests connected to a judgment or award debtor in the Auckland region, mapping trust, nominee and company structures from lawful records and open sources, to support enforcement and freezing order strategy developed by New Zealand counsel."
+    },
+    {
+      "title": "Trade and import counterparty checks",
+      "text": "Screening of importers, distributors and logistics intermediaries connected to goods moving through Auckland's seaport and airport, with attention to ownership, related parties, adverse litigation and media, to support supplier onboarding, trade finance and fraud inquiries."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "High Court at Auckland",
+      "text": "The High Court at Auckland hears the largest volume of significant commercial litigation in New Zealand. A Commercial List for the Auckland registry, modelled on the New South Wales Supreme Court's Commercial List, was expected to begin operating in October 2025 for commercial claims generally of at least NZ$1 million, with dedicated judges, close case management and earlier hearing dates. Some large cases remain with the High Court's Commercial Panel. Practice and entry criteria should be confirmed with counsel."
+    },
+    {
+      "title": "Arbitration and dispute resolution",
+      "text": "Auckland is New Zealand's main seat for commercial arbitration and mediation. The New Zealand Dispute Resolution Centre (NZDRC), based in Takapuna on Auckland's North Shore, administers arbitration, arb-med, mediation, adjudication and expert determination across commercial, construction, property, shareholder and other disputes. It forms part of a wider group that includes the New Zealand International Arbitration Centre. Construction adjudication is common in Auckland building disputes."
+    },
+    {
+      "title": "Auckland Council records",
+      "text": "Auckland Council, a single unitary authority since 2010, holds property-related information for the region, including rating information and building and resource consent records, some of which is available through property information requests. These records can help establish the history of a site, development activity and the parties involved, alongside title information obtained through lawful channels. Requests for council records are made through Auckland Council's own processes."
+    },
+    {
+      "title": "Ports and regional trade",
+      "text": "Ports of Auckland Limited owns the Port of Auckland on the Waitemata Harbour near the central business district and the Port of Onehunga, which handles domestic cargo only. Real imports through Auckland's seaports were about NZ$31.8 billion in the year to November 2025, making the port and its logistics community relevant to trade fraud, supply chain and customs-related inquiries."
+    }
+  ],
+  "tdsc_approach": "For matters touching Auckland, TDSC first establishes where the dispute or decision sits: a proceeding in the High Court at Auckland or its Commercial List, an arbitration or adjudication seated in the city, a transaction, or enforcement against Auckland assets. That determines timetable, evidential needs and which records counsel can obtain. Research draws on Companies Office records, published judgments, insolvency and council information and open sources, reviewed under the Privacy Act 2020. Trust and property structures are mapped carefully, with title searches and formal steps taken through New Zealand counsel. Where interviews or field inquiries are needed, TDSC coordinates private investigators licensed under New Zealand law and works with the client's lawyers. TDSC has no office in Auckland.",
+  "faqs": [
+    {
+      "q": "Can TDSC support a case on the Auckland Commercial List?",
+      "a": "Yes, as a consultant to counsel. TDSC can research counterparties, profile witnesses and experts and develop facts on a timetable that fits the Commercial List's close case management. Counsel decides how material is used and handles disclosure obligations. TDSC documents its sources so that findings can be assessed for use in evidence where appropriate."
+    },
+    {
+      "q": "Why are trusts such a common issue in Auckland asset tracing?",
+      "a": "Family trusts are widely used in New Zealand to hold residential and investment property, and Auckland holds a large share of the country's property wealth. A debtor may control assets without owning them personally. TDSC maps trust, company and nominee links from lawful records and open sources so that New Zealand counsel can assess enforcement options."
+    },
+    {
+      "q": "Does TDSC support arbitrations seated in Auckland?",
+      "a": "Yes. TDSC supports counsel in arbitrations, arb-med and adjudications administered in Auckland, including by the New Zealand Dispute Resolution Centre, and in ad hoc proceedings. Work typically covers counterparty background, witness research and identification of assets relevant to later enforcement, documented so findings can be reviewed if a court is later asked to intervene."
+    },
+    {
+      "q": "Can TDSC check contractors before an Auckland construction project?",
+      "a": "Yes. TDSC reviews contractors, subcontractors and developers for ownership, related companies, prior insolvencies, litigation and adjudication history and media coverage, with attention to principals who have run failed companies before. Findings support procurement and lending decisions and are not legal advice or a substitute for formal credit or licensing checks."
+    },
+    {
+      "q": "Does TDSC have an office or investigators in Auckland?",
+      "a": "No. TDSC has no office, staff or address in Auckland or elsewhere in New Zealand. Engagements are run from Nashville. Where a matter needs local inquiries, TDSC coordinates independent investigators holding the licence required under New Zealand law and works with the client's New Zealand counsel within an agreed written scope."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Auckland Council Economic Development Office and PwC, Auckland Economic Monitor, July 2025",
+      "url": "https://knowledgeauckland.org.nz/media/qz3kpdbq/auckland-economic-monitor-pwc-economic-dev-office-july-2025.pdf"
+    },
+    {
+      "title": "Knowledge Auckland, Auckland Economic Update, January 2026",
+      "url": "https://knowledgeauckland.org.nz/media/j2uncmzx/auckland-economic-update-01january-2026.pdf"
+    },
+    {
+      "title": "New Zealand Law Society, New Auckland Commercial List expected to change commercial litigation",
+      "url": "https://www.lawsociety.org.nz/news/publications/lawtalk/lawtalk-issue-962/new-auckland-commercial-list-expected-to-change-commercial-litigation/"
+    },
+    {
+      "title": "Simpson Grierson, New Commercial List set to shake up commercial litigation in Auckland High Court",
+      "url": "https://www.simpsongrierson.com/insights-news/legal-updates/new-commercial-list-set-to-shake-up-commercial-litigation-in-auckland-high-court"
+    },
+    {
+      "title": "The Law Association of New Zealand, Commercial List practice note for the Auckland High Court",
+      "url": "https://www.thelawassociation.nz/commercial-list-practice-note-for-the-auckland-high-court/"
+    },
+    {
+      "title": "New Zealand Dispute Resolution Centre, Contact us",
+      "url": "https://nzdrc.co.nz/contact-us/"
+    },
+    {
+      "title": "Auckland Region (Wikipedia snapshot, citing Stats NZ subnational population estimates)",
+      "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Auckland_Region"
+    }
+  ],
+  "review_flags": [
+    "Population 1.82 million (June 2025) taken from a Wikipedia snapshot citing Stats NZ; no Stats NZ page appeared in searches. The Auckland Council/PwC monitor gives 'nearly 1.8 million' (2024, Infometrics).",
+    "Commercial List start date described as 'expected October 2025' (Law Society, June 2025); confirm it is operating and current entry criteria (NZ$1 million threshold) from the practice note.",
+    "Auckland Council property information/consent records and widespread use of family trusts are stated from general knowledge, not an opened source.",
+    "NZDRC/NZIAC relationship stated per NZDRC page ('part of The ADR Centre'); confirm wording."
+  ],
+  "researched": "2026-11-04"
+}

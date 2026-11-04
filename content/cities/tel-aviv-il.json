@@ -1,0 +1,59 @@
+{
+  "slug": "tel-aviv-il",
+  "name": "Tel Aviv",
+  "cc": "IL",
+  "meta_description": "TDSC investigative consulting in matters touching Tel Aviv: technology due diligence, capital markets research and support in Economic Division litigation.",
+  "eyebrow": "Tel Aviv-Yafo, Israel",
+  "hero_lede": "Tel Aviv is Israel's commercial and financial centre, hosting its stock exchange, its largest district court and much of its technology industry. TDSC scopes investigative consulting from Nashville for matters touching the city, using public records and coordinating Israeli-licensed investigators and the client's Israeli counsel where local work is required.",
+  "intro": [
+    "Tel Aviv-Yafo is the core of Israel's largest metropolitan area and its main business centre. The Central Bureau of Statistics estimated the city's population at 467,875 at the end of 2021, while the surrounding metropolitan area holds a far larger share of the country's population and employment. The city hosts the Tel Aviv Stock Exchange, the head offices of major banks, insurers and law firms, and a dense concentration of technology companies, venture capital funds and research and development centres of multinational groups. Software, cybersecurity, fintech, semiconductors and life sciences are prominent. Business is conducted in Hebrew and English, and many companies run on a Sunday to Thursday or Monday to Friday week depending on their markets.",
+    "Organisations commission investigative work connected to Tel Aviv because so much cross-border technology investment and dual listing activity passes through it. Acquirers and investors need to verify founders, intellectual property ownership and prior ventures of Israeli startups. Foreign issuers that have raised bond finance on the Tel Aviv Stock Exchange, including real estate groups from abroad, have generated defaults and litigation that call for asset and ownership research. Shareholder class actions and derivative claims are heard largely in the city's Economic Division. Compliance teams also screen Israeli counterparties in defence, cyber and dual-use technology for export control, political exposure and reputational concerns."
+  ],
+  "economy": [
+    {"label": "Population", "value": "467,875 (city, end-2021 estimate, Central Bureau of Statistics)"},
+    {"label": "District", "value": "Tel Aviv District, centre of the Gush Dan metropolitan area"},
+    {"label": "Key sectors", "value": "Software, cybersecurity, fintech, semiconductors, life sciences, banking, insurance, real estate"},
+    {"label": "Exchange", "value": "Tel Aviv Stock Exchange"},
+    {"label": "Commercial court", "value": "Economic Division, Tel Aviv District Court (since 2011)"},
+    {"label": "Airport", "value": "Ben Gurion Airport, near Lod"},
+    {"label": "Time zone", "value": "Asia/Jerusalem, UTC+2 (UTC+3 in summer)"},
+    {"label": "Languages of business", "value": "Hebrew; English widely used in technology and finance"}
+  ],
+  "matters": [
+    {"title": "Technology investment due diligence", "text": "Investors and acquirers of Tel Aviv technology companies need assurance about founders, prior companies, intellectual property chains and links to former employers or state programmes. We research Israeli and foreign corporate records, litigation, patents and media to test the story presented in a data room."},
+    {"title": "TASE bond issuer investigations", "text": "Foreign and domestic issuers have raised bond finance in Tel Aviv, and some have defaulted. Bondholder trustees and counsel need to locate assets, trace transfers and understand related-party dealings. We combine Israeli filings with research in the jurisdictions where the issuer's assets and controllers sit."},
+    {"title": "Class and derivative action support", "text": "Securities class actions and derivative claims are concentrated in the Tel Aviv Economic Division. Plaintiffs and defendants need facts about directors, controlling shareholders and transactions. We assemble public-record histories and document trails for counsel, scoped to the certification stage and later proceedings."},
+    {"title": "Cyber and dual-use counterparties", "text": "Tel Aviv's cybersecurity, intelligence-adjacent and defence technology firms raise particular export control and reputational questions. We research ownership, management backgrounds, government contracts and media coverage so that clients can judge whether a partnership, investment or customer relationship needs further legal review."},
+    {"title": "Executive and key person screening", "text": "Senior hires and board appointments in Tel Aviv frequently involve candidates with careers spanning Israel, the United States and Europe. We verify stated roles, directorships, litigation and regulatory history across these jurisdictions, within Israeli privacy limits and the client's documented purpose."}
+  ],
+  "local_context": [
+    {"title": "Tel Aviv District Court Economic Division", "text": "The Economic Division was created in 2011 within the Tel Aviv District Court, the country's largest district court, to group economic cases before judges with relevant expertise and to shorten proceedings. Its caseload includes Securities Law claims, derivative claims and disputes over shareholders' rights and obligations. Class actions and derivative claims require court certification first, and these proceedings are heard mostly in district courts, particularly this division."},
+    {"title": "Class actions and certification", "text": "Israel's Class Actions Law (2006) and Companies Law (1999) allow class actions and derivative claims, which must first be certified by the court through a motion that carries no court fee. Certified claims may be reheard before an expanded district court bench on request. Decisions of the Economic Division have dismissed certification against foreign bond issuers where the applicant lacked the necessary standing, showing that facts about relationships matter early."},
+    {"title": "Tel Aviv business organisations", "text": "The Tel Aviv and Central Israel Chamber of Commerce describes itself as a public, non-political and independent non-profit body and the largest business and employer organisation in Israel. It and the Federation of Israeli Chambers of Commerce provide business networks and listings. For investigations, such bodies are useful for context, but corporate facts come from the Registrar of Companies and court records described on the Israel page."},
+    {"title": "Local investigative limits", "text": "Israel's licensing law for private investigators and its Protection of Privacy Law, described on the Israel page, apply fully in Tel Aviv. Surveillance, witness approaches and other fieldwork in the city are carried out by investigators licensed in Israel and planned with Israeli counsel. TDSC does not hold an Israeli licence and does not obtain restricted records or use pretexts."}
+  ],
+  "tdsc_approach": "TDSC has no office in Tel Aviv and handles Tel Aviv matters from Nashville. We first agree with the client's Israeli counsel the purpose of the work: a technology investment, a bondholder recovery, Economic Division litigation, an arbitration or an internal review, since that governs what may be gathered under Israeli privacy law. Research draws on Registrar of Companies records, Tel Aviv Stock Exchange and Israel Securities Authority filings, court decisions, patent records and Hebrew and English media, and follows assets and controllers into the United States, Europe or elsewhere. Fieldwork is carried out by Israeli-licensed investigators. Reports separate verified findings from indications and cite sources for counsel.",
+  "faqs": [
+    {"q": "Which court in Tel Aviv hears securities and shareholder disputes?", "a": "The Economic Division of the Tel Aviv District Court, created in 2011, hears Securities Law claims, derivative claims and shareholder disputes, and much of Israel's corporate class action work. Other commercial cases are heard by the district and magistrates' courts according to value and subject. Israeli counsel determines the forum; we align research with its procedure."},
+    {"q": "Can TDSC help bondholders of a foreign issuer listed in Tel Aviv?", "a": "Yes, through the trustee or counsel. We review the issuer's Tel Aviv filings and immediate reports, then research its controllers, subsidiaries and assets in the countries where they sit, including property and corporate records. Findings show where value may lie and which related-party transactions merit scrutiny in recovery or insolvency proceedings."},
+    {"q": "How do you check an Israeli startup's founders?", "a": "We verify company registrations and directorships, prior ventures and their outcomes, litigation, patents and assignments, and media in Hebrew and English. Where founders came from other companies, we look for disputes over intellectual property or non-compete obligations. Military service details are generally not public and are not sought beyond what the founders themselves disclose."},
+    {"q": "Can a foreign investigator work in Tel Aviv?", "a": "Investigative work in Israel is a licensed activity, and acting as a private investigator without a licence is an offence. TDSC therefore coordinates Israeli-licensed investigators for surveillance, witness enquiries or other fieldwork in Tel Aviv, planned with Israeli counsel so that it respects the Protection of Privacy Law and evidence rules."},
+    {"q": "Does Tel Aviv's working week affect investigations?", "a": "It can. Government offices and many Israeli businesses work Sunday to Thursday, while technology and finance firms dealing with foreign markets often work Monday to Friday. Jewish holidays close courts and offices. We schedule requests, interviews and deadlines with these calendars in mind, especially when coordinating with US or European counsel."}
+  ],
+  "sources": [
+    {"title": "City Population: Tel Aviv-Yafo (Central Bureau of Statistics data)", "url": "https://citypopulation.de/en/israel/telaviv/tel_aviv/5000__tel_aviv_yafo"},
+    {"title": "Doing Business in Israel 2017: litigation, Economic Affairs Division and class actions", "url": "https://israeldesks.com/books/doing_business_in_israel_2017/files/assets/basic-html/page-79.html"},
+    {"title": "FBC & Co: Legal update, litigation and capital markets, December 2019", "url": "https://www.fbclawyers.com/news/legal-update-litigation-and-capital-markets-december-2019"},
+    {"title": "Tel Aviv and Central Israel Chamber of Commerce: business opportunity listing", "url": "https://www.chamber.org.il/37679/40433/52076/?id=91137"},
+    {"title": "Chambers Practice Guides: Collective Redress and Class Actions 2022, Israel", "url": "https://practiceguidesdev.chambers.com/practice-guides/collective-redress-class-actions-2022/israel"},
+    {"title": "Barnea Jaffa Lande: Class actions", "url": "https://www.barlaw.co.il/class-actions/"}
+  ],
+  "review_flags": [
+    "Population is an end-2021 CBS estimate via citypopulation.de; no current CBS figure appeared in searches. Replace with the latest CBS estimate.",
+    "Stated from background knowledge, not verified this session: TASE location and role, sector mix, foreign real estate bond issuers and defaults, Ben Gurion Airport, Sunday-Thursday working week, Federation of Israeli Chambers of Commerce role.",
+    "No Tel Aviv arbitration institution is named; none was verified in searches.",
+    "Page does not address the security situation since October 2023; editorial decision needed on whether to mention operational disruption.",
+    "Chambers and Barnea Jaffa Lande pages listed from search results only; not opened."
+  ],
+  "researched": "2026-11-04"
+}

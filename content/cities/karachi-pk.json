@@ -1,0 +1,60 @@
+{
+  "slug": "karachi-pk",
+  "name": "Karachi",
+  "cc": "PK",
+  "meta_description": "TDSC investigative consulting in matters touching Karachi: port and trade counterparty research, banking and listed company due diligence, and court disputes.",
+  "eyebrow": "Karachi, Sindh, Pakistan",
+  "hero_lede": "Investigative consulting for matters that run through Karachi: importers, exporters and textile groups trading through its ports, banks and listed companies headquartered in the city, and disputes before the Sindh High Court and Karachi's district courts. Scoped from Nashville with qualified Pakistani professionals and counsel.",
+  "intro": [
+    "Karachi is Pakistan's largest city and its financial and industrial capital, with a population of about 20.3 million according to the 2023 census. The State Bank of Pakistan and the Pakistan Stock Exchange are headquartered there, as are nearly all of the country's major banks, including Habib Bank, MCB Bank and United Bank. The Port of Karachi and Port Qasim handle nearly all of Pakistan's seaborne trade, and the city collects roughly half of federal tax revenue, largely customs duty and sales tax on imports. Textiles, cement, steel, chemicals, food processing and automobile assembly are concentrated in industrial estates such as SITE, Korangi, Landhi and Port Qasim, alongside the Karachi Export Processing Zone.",
+    "Organisations commission investigative work connected to Karachi because Pakistan's trade, banking and corporate ownership converge there. Typical triggers include due diligence on importers, exporters and textile suppliers before contracts or financing; research on family-controlled business groups and listed companies ahead of investment or joint ventures; background on shipping agents, freight forwarders and clearing agents where cargo, documents or payments have gone astray; and support to counsel in commercial, company and banking disputes before the Sindh High Court or Karachi's district courts. Fraud involving trade documents, under- or over-invoicing, misdirected remittances and counterfeit goods, and reputational questions about politically connected counterparties, are recurring themes."
+  ],
+  "economy": [
+    {"label": "Population", "value": "About 20.3 million across seven districts (2023 census)"},
+    {"label": "Economic weight", "value": "Roughly half of Federal Board of Revenue collections; major share of national GDP"},
+    {"label": "Key sectors", "value": "Banking, insurance, textiles and apparel, cement, steel, chemicals, food processing, automobiles, shipping"},
+    {"label": "Financial institutions", "value": "State Bank of Pakistan; Pakistan Stock Exchange; head offices of most Pakistani banks"},
+    {"label": "Ports", "value": "Port of Karachi and Port Qasim, handling nearly all of Pakistan's seaborne trade"},
+    {"label": "Industrial zones", "value": "SITE, Korangi, Landhi, North Karachi, Port Qasim; Karachi Export Processing Zone (1980)"},
+    {"label": "Time zone", "value": "Asia/Karachi, UTC+5 (no daylight saving)"},
+    {"label": "Business languages", "value": "English and Urdu; Sindhi and other regional languages also spoken"}
+  ],
+  "matters": [
+    {"title": "Importer and exporter due diligence", "text": "Research on trading companies, textile mills and apparel exporters operating from Karachi's industrial estates, covering SECP filings, directors and shareholders, litigation, trade press and adverse media, to support supplier onboarding, buyer credit decisions and responsible sourcing reviews."},
+    {"title": "Port and shipping fraud inquiries", "text": "Fact-finding for insurers, lenders and cargo owners where goods moving through the Port of Karachi or Port Qasim are lost, diverted or misdeclared, focusing on the shipping agents, clearing agents and consignees involved and the public records and documentary trail around them."},
+    {"title": "Business group and listed company research", "text": "Background on Karachi-based family business groups and companies listed on the Pakistan Stock Exchange, mapping related entities, cross-holdings, directors and regulatory history, for investors, acquirers and joint venture partners assessing governance, control and reputational exposure."},
+    {"title": "Banking and financial counterparty review", "text": "Research supporting compliance teams and counsel on Karachi-headquartered banks, exchange companies, insurers and their clients, using published State Bank of Pakistan and SECP actions, court records and media, without any access to confidential banking or supervisory data."},
+    {"title": "Dispute and enforcement support", "text": "Fact development and asset research for counsel in contract, company and recovery proceedings in Karachi, including identifying corporate assets, related parties and prior litigation, so that Pakistani advocates can plan claims, company bench petitions or enforcement against local defendants."}
+  ],
+  "local_context": [
+    {"title": "Sindh High Court and civil courts", "text": "The Sindh High Court has its principal seat in Karachi. Historically it exercised original civil jurisdiction over high-value suits in Karachi, unlike other High Courts. The Sindh Civil Courts (Amendment) Act, 2025 removed that jurisdiction for suits valued at Rs65 million or more, making Karachi's District Courts the courts of first instance, as elsewhere in Pakistan. Commentators have since called for dedicated commercial courts or a commercial division; counsel should confirm current forum rules for any claim."},
+    {"title": "Company benches in Karachi", "text": "Under section 5(4) of the Companies Act, 2017, High Court Chief Justices must constitute company benches with exclusive original jurisdiction over company and regulatory matters. In July 2024 the Chief Justice of the Sindh High Court constituted two company benches at the Karachi principal seat. Winding-up, oppression and mismanagement, and other Companies Act petitions involving Karachi companies are heard there."},
+    {"title": "Financial regulators and markets", "text": "The State Bank of Pakistan, which regulates banks and exchange companies, and the Pakistan Stock Exchange are headquartered in Karachi. Their published circulars, enforcement actions, listed company announcements and annual reports are core lawful sources for research on Karachi institutions. Supervisory files, account records and suspicious transaction reports are confidential and are not accessible to investigators or their clients, except through formal legal process."},
+    {"title": "Ports, zones and industrial estates", "text": "The Port of Karachi and Port Qasim handle nearly all of Pakistan's shipping, and most import duties and sales tax are collected in the city. Industrial activity is concentrated in SITE, Korangi, Landhi and Port Qasim, and the Karachi Export Processing Zone in Landhi has operated since 1980. Site visits to factories and warehouses in these estates are often the most useful verification step in supplier and trade matters."}
+  ],
+  "tdsc_approach": "For matters touching Karachi, TDSC begins by mapping where the evidence is likely to sit: SECP filings, Pakistan Stock Exchange disclosures, State Bank of Pakistan publications, Sindh High Court and district court records, port and trade documentation held by the client, and Urdu- and English-language media. TDSC reviews each request against Pakistan's cybercrime and confidentiality rules and does not seek bank, telecom or identity database records or use pretexts. Where site visits to factories, warehouses or offices in Karachi's industrial estates are needed, TDSC coordinates qualified local professionals within a written scope, and aligns any litigation work with the client's Pakistani advocates. TDSC has no office in Karachi.",
+  "faqs": [
+    {"q": "Where are commercial suits heard in Karachi now?", "a": "Following the Sindh Civil Courts (Amendment) Act, 2025, the Sindh High Court at Karachi no longer hears civil suits valued at Rs65 million or more at first instance; they go to the District Courts. Company law petitions are heard by the High Court's company benches. Pakistani counsel should confirm the correct forum and any transitional arrangements for a particular claim."},
+    {"q": "Can TDSC verify a Karachi supplier or exporter?", "a": "Yes, within lawful limits. TDSC checks SECP registration, directors and shareholders, litigation and media, and where the scope allows coordinates a site visit by a qualified local professional to confirm the premises, operations and capacity claimed. Findings are reported with their sources so procurement and compliance teams can judge how much weight to give them."},
+    {"q": "Can TDSC obtain bank or customs records in Karachi?", "a": "No. Bank account information, customs declarations and supervisory files are confidential, and TDSC does not seek them through informal channels. Where such records matter, the client's Pakistani counsel can consider court orders or regulatory complaints. TDSC can analyse documents the client lawfully holds and corroborate them with public filings and media."},
+    {"q": "Is a Karachi listed company easier to research than a private one?", "a": "Generally yes. Companies listed on the Pakistan Stock Exchange publish annual reports, material announcements and pattern-of-shareholding disclosures, which add to SECP filings. Private companies in family groups disclose less, so TDSC relies more on filed returns, court records, related-party links and media to describe ownership and control."},
+    {"q": "Does TDSC have staff in Karachi?", "a": "No. TDSC has no office, staff or address in Pakistan. Engagements are scoped and managed from Nashville. Where a matter requires site visits, court record retrieval or discreet local inquiries in Karachi, TDSC coordinates independent qualified professionals and works alongside the client's Pakistani advocates, within a written scope agreed before work begins."}
+  ],
+  "sources": [
+    {"title": "Commissioner Karachi, Population (Census 2023 district figures)", "url": "https://commissionerkarachi.gos.pk/population"},
+    {"title": "The News, Karachi's population stands at 20.3 million in 7th census", "url": "https://thenews.com.pk/latest/1098032-karachis-population-stands-at-203-million-in-7th-census"},
+    {"title": "Express Tribune, Civil courts amendment: legal practice in Karachi set to change (2025)", "url": "https://tribune.com.pk/story/2534106/civil-courts-amendment-legal-practice-in-karachi-set-to-change"},
+    {"title": "SECP press release, Company Benches constituted in High Court of Sindh (22 July 2024)", "url": "https://secp.gov.pk/wp-content/uploads/2024/07/Press-Release-July-22-Company-Benches-constituted-in-High-Court-of-Sindh.pdf"},
+    {"title": "Dawn, Commercial courts (May 2025)", "url": "https://www.dawn.com/news/1910207"},
+    {"title": "Wikipedia, Economy of Karachi", "url": "https://en.wikipedia.org/wiki/Economy_of_Karachi"},
+    {"title": "Geo News, Karachi's population surpasses 18.6 million: PBS (provisional, May 2023)", "url": "https://www.geo.tv/latest/487214-karachis-population-surpasses-186-million-pbs"}
+  ],
+  "review_flags": [
+    "Population (about 20.3 million, 2023 census) from the Commissioner Karachi website and The News citing PBS; no direct PBS table opened.",
+    "Economic facts (ports, SBP and PSX headquarters, banks' head offices, ~half of FBR revenue, industrial estates, KEPZ 1980) rely on Wikipedia only; consider an official source.",
+    "Sindh Civil Courts (Amendment) Act 2025 commencement date and transitional arrangements for pending High Court suits not verified; possible further changes or constitutional challenge.",
+    "No dedicated Karachi commercial court identified; banking courts and Karachi arbitration centres not researched due to search budget.",
+    "SECP's Karachi company registration office not verified; SECP itself is headquartered in Islamabad."
+  ],
+  "researched": "2026-11-04"
+}

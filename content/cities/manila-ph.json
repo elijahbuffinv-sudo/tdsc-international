@@ -1,0 +1,145 @@
+{
+  "slug": "manila-ph",
+  "name": "Manila",
+  "cc": "PH",
+  "meta_description": "TDSC investigative consulting in matters touching Manila: corporate and shareholder disputes, procurement and infrastructure risk, port and BPO diligence.",
+  "eyebrow": "Metro Manila, Philippines",
+  "hero_lede": "Manila is the seat of the Philippine government, its highest courts and its central bank, at the heart of a metropolis of 14 million. Matters touching the city often involve family conglomerates, shareholder disputes, public procurement and port trade. TDSC scopes research around Philippine records and courts.",
+  "intro": [
+    "Manila is the capital of the Philippines and the historic core of Metro Manila, the National Capital Region. The Philippine Statistics Authority's 2024 census counted 1,902,590 residents in the City of Manila and 14,001,751 across Metro Manila, about 12.4 percent of the national population. The city itself hosts the Supreme Court, the Court of Appeals, the Bangko Sentral ng Pilipinas and the Port of Manila, while the wider metropolis contains the main business districts of Makati, Bonifacio Global City in Taguig and Ortigas. The economy of the region rests on services, including banking, business process outsourcing, real estate, retail and logistics, with many sectors led by long-established family conglomerates.",
+    "Organisations commission investigative work connected to Manila because so much Philippine corporate, financial and governmental activity is concentrated there. Foreign investors entering joint ventures with Philippine groups want to understand ownership, related parties and political exposure. Outsourcing clients and acquirers need assurance about service providers and their principals. Lenders and creditors pursue claims through the special commercial courts. Public infrastructure spending has brought procurement and corruption risk into sharper focus, and the Port of Manila handles a large share of the country's container trade, creating customs and trade documentation questions. Each of these depends on reading Philippine corporate filings and court records accurately."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "1,902,590 (City of Manila, 2024 census, PSA)"
+    },
+    {
+      "label": "Metro area",
+      "value": "Metro Manila (National Capital Region), 14,001,751 (2024 census)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Banking, business process outsourcing, real estate, retail, logistics, government services"
+    },
+    {
+      "label": "Exchange and regulators",
+      "value": "Philippine Stock Exchange; Bangko Sentral ng Pilipinas; Securities and Exchange Commission"
+    },
+    {
+      "label": "Port and airport",
+      "value": "Port of Manila; Ninoy Aquino International Airport (NAIA)"
+    },
+    {
+      "label": "Business districts",
+      "value": "Makati, Bonifacio Global City (Taguig), Ortigas, Manila Bay reclamation areas"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Manila, UTC+8, no daylight saving"
+    },
+    {
+      "label": "Languages of business",
+      "value": "English (courts, filings, contracts) and Filipino"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Conglomerate and joint venture mapping",
+      "text": "Mapping the companies, shareholders, directors and related parties of Philippine family groups headquartered in Metro Manila, using SEC filings such as General Information Sheets and financial statements, so investors understand how control is exercised and where conflicts of interest may arise in a joint venture."
+    },
+    {
+      "title": "Intra-corporate and shareholder disputes",
+      "text": "Supporting counsel in shareholder, board control and corporate rehabilitation disputes before Manila special commercial courts by reconstructing filing histories, share transfers and director changes, mindful that the stock and transfer book, not the General Information Sheet alone, is treated as controlling evidence of shareholding."
+    },
+    {
+      "title": "Infrastructure and procurement integrity",
+      "text": "Reviewing contractors, consultants and subcontractors in public infrastructure and procurement for ownership, political connections, prior blacklisting, graft cases and adverse media, where large public works budgets have drawn scrutiny and courts have been designated to handle infrastructure-related corruption cases."
+    },
+    {
+      "title": "Port and customs trade checks",
+      "text": "Testing importers, customs brokers and consignees using the Port of Manila for corporate legitimacy, related entities and litigation, where undervaluation, misdeclaration and smuggling cases create exposure for buyers, financiers and logistics providers dealing with Philippine trading companies."
+    },
+    {
+      "title": "BPO provider and executive vetting",
+      "text": "Checking outsourcing providers and their principals in Metro Manila before contracts involving customer data or financial processes, including corporate standing, ownership, litigation, labour and data privacy complaints, and the verified track record of senior managers."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Supreme Court and Court of Appeals",
+      "text": "The Supreme Court and the Court of Appeals sit in the City of Manila, so final appellate decisions in commercial disputes are issued there. Philippine decisions are published and searchable through the judiciary's e-Library, which makes appellate litigation history comparatively accessible. Recent rulings include a 2025 Supreme Court decision holding that inclusion in a General Information Sheet is not enough on its own to prove shareholder status."
+    },
+    {
+      "title": "Special commercial courts",
+      "text": "Regional Trial Courts designated by the Supreme Court as special commercial courts have exclusive jurisdiction over intra-corporate controversies, corporate rehabilitation, insolvency, securities regulation and related matters. Several branches in Manila and elsewhere in Metro Manila handle these cases, with appeals to the Court of Appeals. Contested commercial cases can take five to ten years to reach final resolution, which shapes asset preservation strategy."
+    },
+    {
+      "title": "Arbitration in Metro Manila",
+      "text": "The Philippine Dispute Resolution Center, Inc. is the main institution for non-construction commercial arbitration, including high-value cross-border cases, under the Alternative Dispute Resolution Act of 2004. The Construction Industry Arbitration Commission has original and exclusive jurisdiction over construction disputes. Arbitral proceedings and awards are confidential under the ADR Act, so research supports counsel on parties and assets rather than on prior awards."
+    },
+    {
+      "title": "Regulators based in Manila",
+      "text": "The Bangko Sentral ng Pilipinas, headquartered in Manila, supervises banks and other financial institutions, and the Securities and Exchange Commission administers corporate registration and securities regulation, as covered on the Philippines page. Graft cases against public officials are heard by the Sandiganbayan, the anti-graft court, which is located in Metro Manila and is a key source for procurement-related research. Its decisions are published."
+    }
+  ],
+  "tdsc_approach": "TDSC handles Manila matters from Nashville and has no presence in the Philippines. Engagements begin by identifying the relevant entities' SEC registrations and filings, any regulatory licences, and the courts or arbitral bodies likely to hear a dispute. Research uses SEC documents, published Supreme Court and Court of Appeals decisions, Sandiganbayan records, listed company disclosures, procurement publications and English and Filipino media. Where local enquiries are needed, TDSC coordinates appropriately licensed Philippine professionals working with local counsel and does not use pretexting or covert recording. Personal data is handled in line with the Data Privacy Act of 2012, and findings distinguish documented facts from unverified allegations.",
+  "faqs": [
+    {
+      "q": "Can TDSC obtain shareholder information on a Manila company?",
+      "a": "SEC filings, including the General Information Sheet listing directors, officers and stockholders, can generally be obtained and are a strong starting point. The Supreme Court has held that a General Information Sheet alone does not prove shareholding, so disputes may require the stock and transfer book through proper legal process, which counsel handles."
+    },
+    {
+      "q": "Which court hears a shareholder dispute in Manila?",
+      "a": "Intra-corporate disputes go to Regional Trial Courts designated as special commercial courts, with appeals to the Court of Appeals and then the Supreme Court, both seated in Manila. Proceedings can run for years, so TDSC often supports counsel with early research on the opposing party's assets and related companies."
+    },
+    {
+      "q": "How does TDSC research procurement and corruption risk in Manila?",
+      "a": "By reviewing contractors' ownership and directors through SEC filings, checking for graft cases and Sandiganbayan proceedings, examining procurement publications and blacklisting notices, and analysing media reporting. Political exposure is documented from public sources. TDSC reports patterns and links with their sources and does not draw legal conclusions about wrongdoing."
+    },
+    {
+      "q": "Are Philippine court decisions publicly available?",
+      "a": "Supreme Court decisions and many Court of Appeals decisions are published, including through the judiciary's e-Library, and are in English. Trial court records are less accessible and may require a party's counsel to obtain them. That makes appellate history easier to research than first-instance litigation."
+    },
+    {
+      "q": "Is arbitration common for disputes with Manila counterparties?",
+      "a": "Yes, particularly in commercial and construction contracts. The Philippine Dispute Resolution Center handles most non-construction commercial arbitrations, while construction disputes go to the Construction Industry Arbitration Commission. Proceedings are confidential, so TDSC focuses on lawful research into the parties, their related companies and their assets."
+    }
+  ],
+  "sources": [
+    {
+      "title": "City Population: City of Manila (PSA census data)",
+      "url": "https://www.citypopulation.de/en/philippines/metromanila/admin/n_c_r_1st_district/133900__manila"
+    },
+    {
+      "title": "Real Estate News PH: Metro Manila population exceeds 14 million, PSA",
+      "url": "https://realestatenews.ph/national/metro-manila-population-exceeds-14-millionmdashpsa"
+    },
+    {
+      "title": "Chambers: Dispute Resolution 2026, Philippines trends and developments",
+      "url": "https://practiceguides.chambers.com/practice-guides/dispute-resolution-2026/philippines/trends-and-developments"
+    },
+    {
+      "title": "NDV Law: Bringing commercial disputes to specialized Regional Trial Courts",
+      "url": "https://ndvlaw.com/resolving-joint-venture-deadlocks-bringing-commercial-disputes-to-specialized-regional-trial-courts-philippines/"
+    },
+    {
+      "title": "Wikipedia: 2024 Philippine census",
+      "url": "https://en.wikipedia.org/wiki/2024_Philippine_census"
+    },
+    {
+      "title": "Manila Bulletin via Magzter: SC taps several RTCs to handle infra-related corruption cases",
+      "url": "https://www.magzter.com/es/stories/newspaper/Manila-Bulletin/SC-TAPS-SEVERAL-RTCS-TO-HANDLE-INFRARELATED-CORRUPTION-CASES"
+    },
+    {
+      "title": "PSA: Philippine Standard Geographic Code, National Capital Region",
+      "url": "https://psa.gov.ph/classification/psgc/citimuni/1300000000"
+    }
+  ],
+  "review_flags": [
+    "Locations of the Supreme Court, Court of Appeals and BSP in the City of Manila, the Sandiganbayan in Metro Manila, PSE, NAIA, and business-district list are from prior knowledge, not opened sources.",
+    "Infrastructure-corruption RTC designation relies only on a Manila Bulletin headline seen in search results (Magzter); article not opened. NDV Law, Wikipedia census and PSA PSGC pages appeared in search results but were not opened.",
+    "Metro Manila 14,001,751 is the PSA preliminary 2024 census figure as reported by Real Estate News PH."
+  ],
+  "researched": "2026-11-04"
+}

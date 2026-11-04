@@ -1,0 +1,138 @@
+{
+  "slug": "wuhan-cn",
+  "name": "Wuhan",
+  "cc": "CN",
+  "meta_description": "TDSC investigative consulting in matters touching Wuhan: automotive and optoelectronics firms, IP disputes in Wuhan courts and lawful supplier research.",
+  "eyebrow": "Hubei Province, China",
+  "hero_lede": "Wuhan is central China's largest industrial and transport hub, with deep automotive, optoelectronics and semiconductor supply chains. Matters touching the city often involve supplier verification, technology and IP disputes, and Yangtze trade. TDSC scopes research within China's strict data and security rules.",
+  "intro": [
+    "Wuhan is the capital of Hubei Province and the principal economic centre of central China, sitting where the Han River meets the Yangtze. Local reporting puts its 2025 GDP at about 2.21 trillion yuan, up 5.6 percent, with services the largest share and industry anchored by electronic information and automobile manufacturing. Electronic information overtook autos as the city's largest industry in 2024. The Wuhan East Lake High-tech Development Zone, branded Optics Valley of China, reported GDP of about 336 billion yuan in 2025, an optoelectronics industry above 650 billion yuan and more than 167,000 enterprises. Wuhan is also a major river port and rail junction linking eastern and western China.",
+    "Organisations commission investigative work connected to Wuhan mainly because of its manufacturing and technology supply chains. Foreign carmakers, component buyers and electronics companies source from Wuhan suppliers and need to know who owns them, whether they have the capacity they claim and whether they are linked to restricted end users. Technology companies face patent and trade secret disputes in Wuhan courts, which have become notable forums for standard essential patent litigation. Investors in Optics Valley start-ups and joint ventures need background on founders and related parties. All of this work has to be designed around Chinese rules on personal information, data export and counter-espionage."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "Around 13.8 million permanent residents (end 2024, unverified; see review flags)"
+    },
+    {
+      "label": "GDP",
+      "value": "About 2.21 trillion yuan in 2025, up 5.6 percent (municipal data as reported)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Electronic information, automobiles and new energy vehicles, optoelectronics, integrated circuits, biomedicine, logistics"
+    },
+    {
+      "label": "Technology zone",
+      "value": "Wuhan East Lake High-tech Development Zone (Optics Valley of China)"
+    },
+    {
+      "label": "Port and airport",
+      "value": "Port of Wuhan on the Yangtze; Wuhan Tianhe International Airport"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Shanghai, UTC+8, no daylight saving"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Mandarin Chinese (courts, registers, filings); English limited outside multinationals"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Automotive and EV supplier verification",
+      "text": "Confirming the ownership, registered capital, production licences, litigation record and administrative penalties of Wuhan component and vehicle suppliers before sourcing, using the national enterprise credit system and lawful commercial sources, and checking whether stated capacity and customer relationships are consistent with public information."
+    },
+    {
+      "title": "Optoelectronics and chip export controls",
+      "text": "Reviewing Optics Valley suppliers and customers in optical communications, lasers and integrated circuits for ownership links to entities on export control or sanctions lists, so that buyers and sellers can assess compliance exposure before contracting or shipping controlled items."
+    },
+    {
+      "title": "Patent and trade secret disputes",
+      "text": "Supporting counsel in technology disputes heard in Wuhan, including standard essential patent cases, by researching the opposing party's corporate group, related companies, published judgments and public statements, and by identifying former employees or licensees whose conduct may be relevant to trade secret claims."
+    },
+    {
+      "title": "Joint venture partner backgrounds",
+      "text": "Background research on Chinese partners in Wuhan joint ventures and technology investments, covering shareholders, affiliated companies, prior disputes, government connections disclosed in public filings and adverse media, presented with clear notes on what Chinese law permits to be collected and exported."
+    },
+    {
+      "title": "Yangtze trade and logistics fraud",
+      "text": "Testing whether trading companies, freight forwarders and warehouses involved in Yangtze shipping and rail freight through Wuhan exist and operate as represented, where fictitious shipments, duplicate pledging of goods or misdescribed cargo create losses for financiers and buyers."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Wuhan Intermediate People's Court",
+      "text": "The Wuhan Intermediate People's Court hears major first-instance commercial cases and appeals from district courts in the city, and houses a specialised intellectual property tribunal approved by the Supreme People's Court in 2017 with jurisdiction over first-instance IP cases across Hubei. In September 2020 the court issued a widely reported anti-suit injunction against InterDigital in standard essential patent litigation brought by Xiaomi, illustrating its prominence in technology disputes."
+    },
+    {
+      "title": "Wuhan Maritime Court",
+      "text": "Wuhan is home to one of China's specialised maritime courts, whose jurisdiction covers maritime and shipping disputes along the Yangtze River. Cases involving cargo, carriage, vessel arrest and inland shipping contracts on the river may therefore be heard there rather than in the ordinary courts. Its judgments, where published, help in profiling shipping and logistics counterparties. Inland shipping disputes can therefore require research in Chinese maritime records as well as company registers."
+    },
+    {
+      "title": "Wuhan Arbitration Commission",
+      "text": "The Wuhan Arbitration Commission is the city's local arbitral institution and handles commercial disputes, alongside national institutions such as CIETAC. Contracts with Wuhan counterparties may refer disputes to either. Arbitration in mainland China is confidential, so awards are rarely published, and research for counsel concentrates on parties, assets and documentary evidence that can be gathered lawfully. Enforcement proceedings are a more common source."
+    },
+    {
+      "title": "Local registries and free trade zone",
+      "text": "Company registration in Wuhan is handled by the municipal market regulation authorities, and core records appear on the national enterprise credit information system covered on the China page. The Wuhan area of the China (Hubei) Pilot Free Trade Zone, largely within the East Lake zone, offers simplified procedures for some foreign-invested businesses, which can affect where and how a target company is registered."
+    }
+  ],
+  "tdsc_approach": "TDSC handles Wuhan matters from Nashville and has no presence in China. Engagements are scoped carefully because Chinese law restricts the collection and export of personal information and treats some commercial information as sensitive under counter-espionage and data security rules. Research therefore relies on public corporate registration and credit records, published court judgments, listed company disclosures, patent records, export control lists and Chinese-language media, reviewed in Mandarin. TDSC does not conduct field enquiries, interviews or site visits in China itself unless qualified local professionals working with PRC counsel confirm that a defined, lawful scope is available. Findings note where Chinese sources have limits and where information could not be verified.",
+  "faqs": [
+    {
+      "q": "Can TDSC verify a Wuhan supplier's ownership?",
+      "a": "Usually, at the level of registered shareholders, legal representative, registered capital and administrative penalties, which are published through the national enterprise credit system. Ownership through offshore holding companies or nominees requires research in other jurisdictions and may remain unconfirmed. TDSC reports which links rest on official records and which on secondary sources."
+    },
+    {
+      "q": "Why are Wuhan courts significant in patent disputes?",
+      "a": "The Wuhan Intermediate People's Court hosts an IP tribunal covering Hubei and has heard high-profile technology cases, including standard essential patent litigation in which it issued an anti-suit injunction in 2020. Companies facing or bringing patent claims in Wuhan benefit from research on opposing parties and the court's published decisions."
+    },
+    {
+      "q": "Can TDSC visit a Wuhan factory to check it exists?",
+      "a": "Not directly. Site visits and interviews in China carry legal risk for foreign-directed investigators, and TDSC does not conduct them itself. Where a client needs physical verification, TDSC can discuss options such as audits by accredited firms or enquiries scoped by PRC counsel, and otherwise relies on lawful remote research."
+    },
+    {
+      "q": "How do export controls affect Wuhan technology deals?",
+      "a": "Wuhan's optoelectronics and semiconductor companies may be linked to entities on US or other export control lists, through ownership or customers. TDSC researches corporate relationships so that compliance teams and counsel can assess whether licences or restrictions apply. TDSC does not give legal advice on export control classification."
+    },
+    {
+      "q": "Are Wuhan arbitration awards public?",
+      "a": "Generally no. Arbitration before the Wuhan Arbitration Commission or national institutions is confidential, so awards rarely appear in public sources. Court proceedings to enforce or set aside awards sometimes produce published decisions. TDSC focuses on lawful research into the parties and their assets rather than on the content of confidential proceedings."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Tiger Brokers news: Wuhan's GDP surpasses 2.2 trillion yuan in 2025",
+      "url": "https://www.itiger.com/news/1155268991"
+    },
+    {
+      "title": "China Services Info: OVC leads Wuhan GDP growth for seven consecutive years",
+      "url": "https://www.chinaservicesinfo.com/s/202601/26/WS6981ae72498e23165e06d3b0/ovc-leads-wuhan-gdp-growth-for-seven-consecutive-years.html"
+    },
+    {
+      "title": "36Kr: Wuhan industry analysis",
+      "url": "https://eu.36kr.com/en/p/4047748992006402"
+    },
+    {
+      "title": "China Justice Observer: Wuhan court issues anti-suit injunction against InterDigital",
+      "url": "https://www.chinajusticeobserver.com/a/wuhan-court-issues-anti-suit-injunction-against-inter-digital"
+    },
+    {
+      "title": "JD Supra: New specialized IP tribunals unveiled in Wuhan, Nanjing, Suzhou and Chengdu",
+      "url": "https://www.jdsupra.com/legalnews/new-specialized-ip-tribunals-unveiled-21015/"
+    },
+    {
+      "title": "China Daily: 45% of cars in Hubei made in Auto Valley",
+      "url": "https://chinaservicesinfo.com/s/202208/23/WS63d62d27498ea274927ae831/45-of-cars-in-hubei-made-in-auto-valley.html"
+    }
+  ],
+  "review_flags": [
+    "Population (around 13.8 million, end 2024) is from prior knowledge; neither search surfaced a Wuhan statistical bulletin or World Bank figure. Verify against the Wuhan Bureau of Statistics before publication.",
+    "Wuhan Maritime Court (Yangtze jurisdiction), Wuhan Arbitration Commission, China (Hubei) Pilot FTZ Wuhan area, Port of Wuhan and Tianhe Airport are from prior knowledge, not opened sources.",
+    "GDP figure is from a Tiger Brokers news item relaying municipal data, not the official bulletin. The China Daily Auto Valley page appeared in search results but was not opened.",
+    "Field work in China is excluded by default given counter-espionage and data export rules; consistent with the CN country page."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,137 @@
+{
+  "slug": "san-francisco-us",
+  "name": "San Francisco",
+  "cc": "US",
+  "meta_description": "TDSC investigative consulting in matters touching San Francisco: California licensing and recording law, tech and venture diligence, litigation support.",
+  "eyebrow": "San Francisco, California",
+  "hero_lede": "San Francisco is the financial and legal centre of the Bay Area's technology and venture economy. TDSC scopes San Francisco matters around California's investigator licensing, all-party consent recording rules and privacy litigation risk, coordinating California-licensed investigators where fieldwork is needed.",
+  "intro": [
+    "San Francisco is a consolidated city and county with about 826,000 residents, according to the US Census Bureau's July 2025 estimate, at the centre of a Bay Area region that is one of the world's largest concentrations of technology companies and venture capital. The city hosts headquarters and major offices of software, artificial intelligence, payments and social media companies, along with banks, asset managers, law firms and the Federal Reserve Bank of San Francisco. Venture capital and private equity firms based in the city and along the Peninsula fund start-ups worldwide. The city is also the seat of the US Court of Appeals for the Ninth Circuit and the Northern District of California, which hear many technology, securities and privacy cases.",
+    "Organisations commission investigative work connected to San Francisco because so much early-stage and growth capital, intellectual property and personal data passes through companies based there. Investors and acquirers need background on founders and management teams whose public profiles may be thin or carefully curated. Companies face trade secret disputes when engineers move between competitors, and securities and shareholder claims after rapid growth or failure. Litigants need research on witnesses and assets in federal and state proceedings. California's strict recording law, active privacy litigation and investigator licensing rules mean that the way information is gathered in San Francisco carries real legal exposure for the investigator and the client."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "826,079, City and County of San Francisco (July 2025 estimate, US Census Bureau)"
+    },
+    {
+      "label": "Metro area",
+      "value": "San Francisco Bay Area, including Silicon Valley and Oakland"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Technology and AI, venture capital, financial services, biotechnology, professional services, tourism"
+    },
+    {
+      "label": "Financial institutions",
+      "value": "Federal Reserve Bank of San Francisco (Twelfth District)"
+    },
+    {
+      "label": "Federal courts",
+      "value": "Ninth Circuit Court of Appeals; US District Court for the Northern District of California"
+    },
+    {
+      "label": "Airport and port",
+      "value": "San Francisco International Airport (SFO); Port of San Francisco, with Port of Oakland across the bay"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Los_Angeles, UTC-8 (PST), UTC-7 during daylight saving (PDT)"
+    },
+    {
+      "label": "Language of business",
+      "value": "English"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Founder and management team diligence",
+      "text": "Researching founders, executives and key engineers of San Francisco start-ups ahead of venture, growth or acquisition investments, using court records, corporate filings, regulatory databases and open sources to test claimed credentials, prior ventures, litigation and disputes that a pitch deck or data room may not disclose."
+    },
+    {
+      "title": "Trade secret and employee departure matters",
+      "text": "Supporting counsel where engineers or executives leave for a competitor and confidential information may have gone with them, through background research on the individuals and new employer, public-record and open-source review, and coordination with forensic specialists, within the limits of California law on employee mobility."
+    },
+    {
+      "title": "Securities and shareholder litigation support",
+      "text": "Assisting counsel in securities, shareholder and fraud claims connected to San Francisco companies, including witness location, background on former employees and executives, and research into undisclosed relationships, ahead of proceedings in the Northern District of California or San Francisco Superior Court."
+    },
+    {
+      "title": "Crypto and fintech fraud tracing",
+      "text": "Supporting victims, investors and their counsel where funds have been lost through fintech or digital-asset ventures based in the city, mapping the entities, individuals and on-chain and off-chain movements involved so that counsel can assess recovery, freezing and enforcement options."
+    },
+    {
+      "title": "Asset research for judgment enforcement",
+      "text": "Identifying real property, company interests and other assets in San Francisco and California held by judgment or award debtors, using county recorder and assessor records, Secretary of State filings and litigation history, so counsel can plan enforcement in California courts."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Federal and state courts",
+      "text": "The US Court of Appeals for the Ninth Circuit and the US District Court for the Northern District of California sit in San Francisco, and the Northern District hears a large share of the country's technology, privacy and securities litigation, including many suits under the California Invasion of Privacy Act. State commercial disputes are heard by the San Francisco County Superior Court, which assigns complex civil cases to dedicated judges. Forum strategy is a matter for counsel."
+    },
+    {
+      "title": "California investigator licensing",
+      "text": "Anyone who conducts investigations for compensation in California must be licensed under the Private Investigator Act, Business and Professions Code sections 7512 to 7573, which is enforced by the Bureau of Security and Investigative Services within the Department of Consumer Affairs. Licensing requires fingerprint-based background checks, verified experience and a state examination. Investigators retained by attorneys must still be licensed. Any San Francisco fieldwork commissioned through TDSC is carried out by California-licensed investigators."
+    },
+    {
+      "title": "All-party consent recording rules",
+      "text": "California Penal Code section 632 requires the consent of all parties to record a confidential communication, and section 632.7 applies the same rule to calls involving mobile phones. Unlawfully recorded material is generally inadmissible, violations can be charged as misdemeanours or felonies, and section 637.2 allows anyone harmed to sue for the greater of 5,000 dollars per violation or three times actual damages, a claim that can reach the client who commissioned the work."
+    },
+    {
+      "title": "Privacy litigation and data rules",
+      "text": "San Francisco sits at the centre of California privacy litigation. Plaintiffs increasingly bring Invasion of Privacy Act claims over website tracking tools, and federal judges in the Northern District have reached inconsistent results on intent and liability. California also has its own consumer privacy law and a dedicated privacy regulator. Investigative work involving personal data of California residents is therefore scoped carefully with counsel, including how data is collected, stored and shared."
+    }
+  ],
+  "tdsc_approach": "TDSC handles San Francisco matters from Nashville and does not hold a California investigator licence. Engagements begin by mapping the sources that apply: federal and state court dockets, California Secretary of State filings, San Francisco recorder and assessor records, SEC and other regulatory filings, and open-source research on founders and companies. Where interviews, site visits or observation are needed, TDSC coordinates investigators licensed by the Bureau of Security and Investigative Services and agrees the method with the client's California counsel. No recording is made without the consent California law requires, and personal data is handled with California privacy rules and litigation risk in mind. Reports distinguish verified facts from inference.",
+  "faqs": [
+    {
+      "q": "Does an investigator working in San Francisco need a California licence?",
+      "a": "Yes, unless a statutory exemption applies. California's Private Investigator Act requires anyone investigating for compensation to hold a licence from the Bureau of Security and Investigative Services, including investigators retained by attorneys. TDSC holds no California licence and coordinates California-licensed investigators for any San Francisco fieldwork."
+    },
+    {
+      "q": "Can an investigator record a call with a San Francisco witness?",
+      "a": "Not without the consent of every party where the conversation is confidential. Penal Code section 632 requires all-party consent, section 632.7 covers mobile calls, and the California Supreme Court has applied the law to out-of-state callers recording Californians. Violations bring criminal penalties, statutory damages and likely exclusion of the recording."
+    },
+    {
+      "q": "How can we check a San Francisco start-up founder's background?",
+      "a": "Typical sources include federal and state court dockets, Secretary of State filings, regulatory and enforcement databases, professional licensing records, prior company records and open-source and media research. Credentials and claimed exits are verified where possible with the institutions concerned. The scope is set with the client and its counsel, with attention to California privacy rules."
+    },
+    {
+      "q": "Which courts hear technology disputes in San Francisco?",
+      "a": "Federal cases are commonly filed in the Northern District of California, with appeals to the Ninth Circuit, both seated in San Francisco. State cases go to San Francisco County Superior Court, which assigns complex civil matters to dedicated judges. TDSC supports counsel in either forum with research on parties, witnesses and assets."
+    },
+    {
+      "q": "Can property ownership in San Francisco be researched?",
+      "a": "Generally yes. Deeds and other recorded documents are held by the San Francisco Assessor-Recorder, and property tax records are public. Where property is held through LLCs or trusts, Secretary of State filings, litigation and other records are used to identify those behind the registered owner, with clear limits on what can be confirmed."
+    }
+  ],
+  "sources": [
+    {
+      "title": "US Census Bureau QuickFacts: San Francisco County, California",
+      "url": "https://www.census.gov/quickfacts/table/PST045224/06075"
+    },
+    {
+      "title": "Axios: San Francisco's population on the rebound since 2022",
+      "url": "https://www.axios.com/local/san-francisco/2024/03/29/sf-population-rebound-census-data"
+    },
+    {
+      "title": "Open Exam Prep: The Private Investigator Act and BSIS authority",
+      "url": "https://open-exam-prep.com/study-guides/ca-private-investigator/bsis-framework-licensing/bsis-authority-licensing-act"
+    },
+    {
+      "title": "Open Exam Prep: Audio recording, wiretapping and eavesdropping (Penal Code 632, 632.7, 633.5)",
+      "url": "https://open-exam-prep.com/study-guides/ca-private-investigator/california-privacy-statutory-restrictions/audio-recording-wiretapping-eavesdropping"
+    },
+    {
+      "title": "California Lawyers Association: Updates in privacy litigation",
+      "url": "https://calawyers.org/privacy-law/updates-in-privacy-litigation-an-overview-of-another-year-of-explosive-growth/"
+    }
+  ],
+  "review_flags": [
+    "California PI licensing and Penal Code 632/632.7/637.2 details come from an exam-prep study guide, not BSIS or the official code; verify against BSIS and leginfo.legislature.ca.gov.",
+    "Federal Reserve Bank of SF, Ninth Circuit and N.D. Cal. seated in SF, SF Superior Court complex civil assignments, SFO/Port of SF/Port of Oakland, SF Assessor-Recorder records, and California's consumer privacy law/regulator (CCPA/CPPA, deliberately not named in detail) are from general knowledge; not opened.",
+    "Kearney v. Salomon Smith Barney (2006) was cited in the study guide as applying CIPA to out-of-state callers; FAQ paraphrases this without naming the case."
+  ],
+  "researched": "2026-11-04"
+}

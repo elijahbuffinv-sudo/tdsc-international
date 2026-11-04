@@ -1,0 +1,58 @@
+{
+  "slug": "vienna-at",
+  "name": "Vienna",
+  "cc": "AT",
+  "meta_description": "TDSC investigative consulting in matters touching Vienna: CEE regional hub due diligence, VIAC arbitration support and research on cross-border ownership.",
+  "eyebrow": "Vienna, Austria",
+  "hero_lede": "Investigative consulting for matters that run through Vienna: regional headquarters for Central and Eastern Europe, banks and holding structures with eastward exposure, arbitrations under the Vienna Rules, and counterparties connected to the city's community of international organisations. Scoped from Nashville with qualified Austrian professionals.",
+  "intro": [
+    "Vienna is Austria's capital and, with about 2.04 million residents at the start of 2026, by far its largest city and a federal state in its own right. It hosts one of the four headquarters of the United Nations at the Vienna International Centre, together with the IAEA, UNIDO, UNODC, OPEC, the OPEC Fund, the OSCE and the Wassenaar Arrangement secretariat among more than 40 international organisations. Banking, insurance, professional services, real estate, tourism and public administration anchor the local economy, and many multinational groups run their Central and Eastern European and Balkan operations from regional headquarters in the city.",
+    "Organisations commission investigative work connected to Vienna because it sits on the line between Western capital and Eastern and South-Eastern European markets. Typical triggers include due diligence on Vienna-registered holding companies and private foundations used to hold assets across the region; research on banks and investors with exposure to Russia, Ukraine, the Western Balkans and the wider CEE; background research and asset tracing for arbitrations administered by the Vienna International Arbitral Centre; sanctions and export-control screening of trading, energy and technology counterparties; and integrity research on suppliers, consultants and contractors connected to procurement by the international organisations based in the city."
+  ],
+  "economy": [
+    {"label": "Population", "value": "2,042,036 residents (1 January 2026, preliminary)"},
+    {"label": "Status", "value": "Federal capital and one of Austria's nine federal states"},
+    {"label": "Key sectors", "value": "Banking and insurance, professional services, real estate, tourism, life sciences, public administration"},
+    {"label": "International organisations", "value": "UN Office at Vienna, IAEA, UNIDO, UNODC, OPEC, OSCE; more than 40 in total"},
+    {"label": "Diplomatic community", "value": "About 3,800 diplomats and more than 6,000 international officials"},
+    {"label": "Arbitration", "value": "Vienna International Arbitral Centre (VIAC), founded 1975"},
+    {"label": "Time zone", "value": "Europe/Vienna, UTC+1 (UTC+2 in summer)"},
+    {"label": "Business languages", "value": "German; English widely used, CEE languages common in regional business"}
+  ],
+  "matters": [
+    {"title": "CEE regional holding due diligence", "text": "Ownership and management research on Vienna holding companies, private foundations and regional headquarters that control subsidiaries across Central, Eastern and South-Eastern Europe, tracing ownership chains through local registers in each country to identify ultimate owners, related parties and adverse histories."},
+    {"title": "VIAC arbitration and enforcement support", "text": "Background research on opposing parties, corporate groups and witnesses in arbitrations under the Vienna Rules, and lawful asset research to support enforcement of awards against parties with assets in Austria or across the region, coordinated with counsel in each relevant jurisdiction."},
+    {"title": "Sanctions exposure and East-West trade", "text": "Research into whether Vienna-based traders, energy intermediaries, technology distributors or investment vehicles have links to sanctioned persons or restricted end users, examining ownership changes, nominee arrangements and trade patterns, to support compliance reviews and investigations into possible circumvention."},
+    {"title": "Banking and investor counterparty research", "text": "Due diligence on banks, payment firms, investment managers and wealthy investors with Vienna connections, focusing on source-of-wealth indicators, regulatory and litigation history and media coverage across the CEE region, for correspondent relationships, transactions and onboarding decisions."},
+    {"title": "International organisation supplier integrity", "text": "Integrity and conflict-of-interest research on suppliers, consultants and implementing partners bidding for or holding contracts with Vienna-based international organisations, supporting procurement teams, oversight offices and the contractors themselves in responding to allegations of fraud or collusion."}
+  ],
+  "local_context": [
+    {"title": "Vienna International Arbitral Centre", "text": "VIAC was established in 1975 as a department of the Austrian Federal Economic Chamber and has administered more than 1,700 proceedings under its Vienna Rules, with parties from Europe, the Americas and Asia. Since 2018 it has also administered domestic disputes previously handled by regional arbitration courts. Austria's arbitration law follows the UNCITRAL Model Law, adopted with minor changes in 2006. Proceedings are confidential, so research relies on public records."},
+    {"title": "Commercial court and Firmenbuch", "text": "Commercial disputes in Vienna are heard at first instance by the Commercial Court of Vienna (Handelsgericht Wien), which also maintains the commercial register for companies seated in the city. The Firmenbuch itself is a nationwide judicial register described on the Austria country page. For Vienna holding structures, filed annual accounts and historical extracts are often the starting point for tracing ownership into neighbouring states."},
+    {"title": "International organisations and immunities", "text": "Vienna is one of the four UN headquarters and hosts the IAEA, UNIDO, UNODC, OPEC, the OPEC Fund, the OSCE and other bodies. International organisations generally enjoy privileges and immunities under their headquarters agreements, and their internal records and investigations are governed by their own rules. Investigations touching their staff or procurement must be scoped with this in mind and with the organisation's oversight office."},
+    {"title": "Vienna as a state and trade authority", "text": "Vienna is both a municipality and a federal state, so state-level trade administration applies within the city. In Austria detective work is a regulated trade requiring proof of competence, and fieldwork in Vienna is carried out only by investigators holding the appropriate trade authorisation. Data protection supervision for Austria is national and is covered on the Austria country page."}
+  ],
+  "tdsc_approach": "For matters touching Vienna, TDSC first maps how far the structure reaches beyond Austria, since a Vienna holding company or foundation often leads to subsidiaries and owners in Central, Eastern and South-Eastern Europe that need research in local registers and languages. Research draws on the Firmenbuch, filed accounts, court decisions, sanctions lists, procurement records and open sources, reviewed under the GDPR and Austrian data protection law. TDSC screens every matter for sanctions compliance as a US company. For arbitrations, work is aligned with counsel and the confidentiality of VIAC proceedings. Where fieldwork in Vienna is needed, TDSC coordinates Austrian detectives holding the regulated trade authorisation. TDSC has no office in Vienna.",
+  "faqs": [
+    {"q": "Can TDSC support an arbitration administered by VIAC?", "a": "Yes, as a consultant to counsel. TDSC researches opposing parties, corporate groups, witnesses and assets for proceedings under the Vienna Rules, using only public and lawfully obtained records, since arbitral proceedings are confidential. Where enforcement is expected outside Austria, TDSC coordinates research in those jurisdictions with local counsel."},
+    {"q": "Why do Vienna due diligence matters often extend into other countries?", "a": "Many groups manage Central and Eastern European and Balkan operations from Vienna, and Vienna holding companies and private foundations are used to own assets across the region. Understanding who controls a Vienna entity often requires research in registers, courts and media in several neighbouring jurisdictions, which TDSC builds into the scope."},
+    {"q": "Can TDSC investigate matters involving staff of international organisations in Vienna?", "a": "TDSC can research public information about contractors, suppliers and counterparties of Vienna-based international organisations. Matters involving the organisations' staff or internal processes are subject to their own rules and immunities, and are scoped with the client's counsel and, where relevant, the organisation's oversight office. TDSC does not seek non-public records of these bodies."},
+    {"q": "Does TDSC check sanctions exposure for Vienna counterparties?", "a": "Yes. TDSC, as a US company, screens every matter for sanctions compliance and frequently researches whether Vienna-based traders, intermediaries or investment vehicles have ownership or business links to sanctioned persons. It does not accept engagements that would violate US or other applicable sanctions and does not advise on workarounds."},
+    {"q": "Does TDSC have staff in Vienna?", "a": "No. TDSC has no office, staff or address in Vienna or elsewhere in Austria. Engagements are scoped and managed from Nashville. Where a matter needs local inquiries, TDSC coordinates independent Austrian detectives holding the required trade authorisation and works with the client's Austrian counsel, within a written scope agreed beforehand."}
+  ],
+  "sources": [
+    {"title": "VOL.AT, Vienna stands out in population growth (Statistik Austria preliminary data)", "url": "https://www.vol.at/vienna-stands-out-in-population-growth/9975530"},
+    {"title": "VIAC, About us", "url": "https://viac.eu/en/about-us"},
+    {"title": "United Nations Office at Vienna, Vienna as a centre of international diplomacy", "url": "https://www.unvienna.org/unvienna/multi-lang-link/host-city/index.html"},
+    {"title": "Austrian Embassy (archive), International organisations in Austria", "url": "https://archive.austria.org/international-organisations-in-austria"},
+    {"title": "City of Vienna, Vienna in figures 2026 (search result; fetch blocked)", "url": "https://www.wien.gv.at/pdf/ma23/vienna-in-figures-2026.pdf"},
+    {"title": "VIAC Annual Report 2025 (search result)", "url": "https://www.viac.eu/viac-annual-report-2025-web/"}
+  ],
+  "review_flags": [
+    "Population 2,042,036 (1 Jan 2026, preliminary Statistik Austria) seen via VOL.AT news report, not on statistik.at directly.",
+    "Not verified from an opened source: Handelsgericht Wien as first-instance commercial court and register court for Vienna; Vienna as hub for CEE regional headquarters; private foundations used as holding vehicles. Wiener Börse and FMA not mentioned for lack of sources.",
+    "International organisations list from an archived Austrian embassy page; KAICIID (listed there) relocated and was deliberately omitted. OSCE HQ status not explicit in that source but UNOV page lists it.",
+    "Sanctions-related matter types reference Russia exposure in general terms only; review against current sanctions status."
+  ],
+  "researched": "2026-11-04"
+}

@@ -84,7 +84,7 @@
     },
     {
       "title": "Land and corporate records",
-      "text": "Ontario operates an electronic land registration system covering Toronto, through which parcel registers, transfers and charges can be searched for a fee, identifying registered owners and mortgagees. Corporate searches use Ontario's Public Business Registry for provincial companies and Corporations Canada for federal ones. Neither register shows beneficial ownership comprehensively, so attributions usually require connecting land, corporate, court and securities records."
+      "text": "Ontario's land registry is online only, covering more than 7.4 million parcels. Current and historical parcel records can be searched through OnLand for a fee, identifying registered owners and charges; ServiceOntario certifies registrations but does not search for users. Ontario's Public Business Registry shows only basic company details free, with fuller records through service providers, while Corporations Canada's free federal search shows directors and filings. Neither discloses shareholders or beneficial owners publicly."
     }
   ],
   "tdsc_approach": "TDSC has no office in Toronto and works on Toronto matters from Nashville. We first confirm with the client's Ontario counsel whether the work supports a Commercial List proceeding, other litigation, an arbitration, a financing or acquisition, or an internal review, since that determines what may be gathered and how it is documented. Research draws on Ontario and federal corporate registries, Ontario land records, court decisions, securities regulatory decisions and filings, and records in the other countries where the subject operates. Fieldwork in Toronto is carried out by investigators licensed under Ontario's Private Security and Investigative Services Act, 2005. Personal information is handled under Canadian privacy requirements, and reports cite sources for use in proceedings.",
@@ -126,12 +126,29 @@
     {
       "title": "McCarthy Tetrault: Six-one, Toronto as a seat for international arbitration",
       "url": "https://www.mccarthy.ca/en/insights/blogs/international-arbitration-blog/six-one-toronto-seat-international-arbitration"
+    },
+    {
+      "title": "Government of Ontario: Land Registry (OnLand and Teraview)",
+      "url": "https://www.ontario.ca/landregistration"
+    },
+    {
+      "title": "Corporations Canada: Search for a Federal Corporation",
+      "url": "https://ised-isde.canada.ca/cc/lgcy/fdrlCrpSrch.html?lang=eng++"
+    },
+    {
+      "title": "Legalmondo: How to find company information in Canada",
+      "url": "https://www.legalmondo.com/?p=27946"
+    },
+    {
+      "title": "Ontario Securities Commission: Order revoking a cease trade order (example of published OSC orders)",
+      "url": "https://www.osc.gov.on.ca/en/20226.htm"
     }
   ],
   "review_flags": [
-    "Population is for the Toronto CMA (July 2024); the City of Toronto figure was not obtained. A 2025 StatCan update may exist.",
-    "Commercial List eligible statutes taken from a 2013 Lerners article; the current Toronto practice direction section G.2 was not read (page truncated). Confirm the list is unchanged.",
-    "Stated from background knowledge, not fetched this session: Ontario Securities Commission role and Toronto location, TSX, SEDAR+, Bay Street bank headquarters, mining-finance concentration, Arbitration Act 1991, intrusion upon seclusion tort, Ontario electronic land registration.",
+    "Population is for the Toronto CMA (July 2024); the City of Toronto figure was not obtained and a 2025 StatCan update may exist.",
+    "Land and corporate records paragraph rewritten from the Ontario Land Registry page, Corporations Canada search page and Legalmondo: Ontario registry public results are limited; federal search shows directors; shareholders and beneficial owners not public.",
+    "Commercial List eligible statutes taken from a 2013 Lerners article; confirm against the current Toronto practice direction.",
+    "Still from background knowledge: OSC headquarters in Toronto (only its published cease trade orders verified), TSX and TMX, SEDAR+, Bay Street bank headquarters, mining-finance concentration, Arbitration Act 1991, intrusion upon seclusion tort.",
     "No named Toronto arbitral institution included; none verified."
   ],
   "researched": "2026-11-04"

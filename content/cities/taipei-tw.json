@@ -1,0 +1,146 @@
+{
+  "slug": "taipei-tw",
+  "name": "Taipei",
+  "cc": "TW",
+  "meta_description": "TDSC investigative consulting in matters touching Taipei: listed company and supplier research, Neihu and Nangang technology firms, and dispute support.",
+  "eyebrow": "Taipei City, Taiwan",
+  "hero_lede": "Investigative consulting for matters touching Taipei, scoped from Nashville: research on listed groups and their disclosures, background work on technology and electronics firms in Neihu and Nangang, and factual support for counsel in Taipei court proceedings and Chinese Arbitration Association cases.",
+  "intro": [
+    "Taipei is Taiwan's capital and the seat of its financial, corporate and administrative institutions. The city has around 2.5 million residents and produced an estimated NT$7.5 trillion of output in 2025. It counted 251,798 profit-seeking enterprises in 2024, about 15 percent of the national total, and its leading industries include real estate, manufacturing, finance and insurance, public administration and health. Taipei is also the main destination for foreign investors: in 2024 it attracted 195 of the 343 new foreign enterprises entering Taiwan and more than half of approved foreign direct investment by value. Technology and research activity clusters in the Neihu Technology Park and the Nangang Software Park.",
+    "Organisations commission investigative work connected to Taipei because many of the groups that matter to global electronics, semiconductor and hardware supply chains keep their headquarters, finance teams and listed holding companies in the city, even when factories sit elsewhere in Taiwan or across the Strait. Buyers and investors need to understand who controls a supplier and how it is financed. Technology companies face trade secret leakage when engineers move between competitors. Listed groups generate disclosures, related-party transactions and shareholder disputes that reward careful reading. Litigants and arbitrating parties need well-sourced facts about Taipei counterparties and the overseas entities connected to them."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 2.5 million (2024)"
+    },
+    {
+      "label": "City output",
+      "value": "About NT$7.5 trillion (2025 estimate, Taipei City Government)"
+    },
+    {
+      "label": "Enterprises",
+      "value": "251,798 profit-seeking enterprises registered in Taipei (2024)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Finance and insurance, technology R&D and IC design, real estate, corporate headquarters, public administration"
+    },
+    {
+      "label": "Exchanges and regulator",
+      "value": "Taiwan Stock Exchange and Taipei Exchange (TPEx); Financial Supervisory Commission"
+    },
+    {
+      "label": "Technology clusters",
+      "value": "Neihu Technology Park, Nangang Software Park, Beitou-Shilin Technology Park"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Taipei (UTC+8, no daylight saving)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Mandarin Chinese (traditional characters); English common in finance and technology"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Listed group disclosure analysis",
+      "text": "Reading the public filings of Taipei-headquartered listed groups, including related-party transactions, guarantees, overseas subsidiaries and changes among directors and major shareholders, to identify concentrations of risk or control that are not obvious from marketing materials or the consolidated headline figures."
+    },
+    {
+      "title": "Technology supplier and partner diligence",
+      "text": "Background research on Neihu and Nangang IC design, hardware and software companies before supply, licensing or investment decisions, covering ownership, key engineers and executives, litigation, links to mainland Chinese entities and the group companies that actually hold intellectual property or manufacturing capacity."
+    },
+    {
+      "title": "Trade secret and departing engineer matters",
+      "text": "Factual support for counsel where engineers or managers leave a Taipei technology firm for a competitor, including research into new employers, related start-ups, patent filings and public professional footprints, structured so that findings can be used in civil or criminal proceedings under Taiwanese law."
+    },
+    {
+      "title": "Shareholder and family group disputes",
+      "text": "Mapping the investment companies, foundations and relatives through which Taipei business families hold listed and private interests, for counsel in succession, control or minority shareholder disputes and for investors assessing governance risk in family-controlled groups."
+    },
+    {
+      "title": "Cross-strait and offshore structure research",
+      "text": "Tracing how Taipei groups hold mainland Chinese or Southeast Asian operations through Hong Kong, Samoa, the British Virgin Islands or other intermediate holdings, using Taiwanese disclosures alongside foreign registries, so clients understand where assets and decision-making actually sit."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Taipei district courts",
+      "text": "Most first-instance civil and commercial claims involving Taipei companies are heard in the city's district courts, with appeals to the High Court and, above a value threshold of NT$1.5 million, to the Supreme Court, both of which sit in Taipei. District courts also handle provisional attachment applications, which require the applicant to show a risk to enforcement and usually to post a bond of around one third of the claim."
+    },
+    {
+      "title": "Intellectual Property and Commercial Court",
+      "text": "Large commercial disputes involving Taipei groups, generally claims of NT$100 million or more and certain listed-company and corporate governance matters, fall within the exclusive jurisdiction of the Intellectual Property and Commercial Court, whose first-instance judgments are appealed directly to the Supreme Court. Trade secret and patent cases common to Taipei's technology sector are also heard there, making its decisions a key public record."
+    },
+    {
+      "title": "Chinese Arbitration Association, Taipei",
+      "text": "The Chinese Arbitration Association, Taipei (CAA) is seated in Taipei and is the most used of Taiwan's six arbitral institutions. It administers cases under the CAA Arbitration Rules; communication with the institution can be in Chinese or English and parties may agree the language of the arbitration. Its awards can be enforced through the Taiwanese courts once recognised. Investigative support is confined to factual research for counsel and the parties."
+    },
+    {
+      "title": "Market institutions and MOPS",
+      "text": "The Taiwan Stock Exchange and the Taipei Exchange operate the Market Observation Post System (MOPS), the main repository of listed and over-the-counter company filings, under the oversight of the Financial Supervisory Commission. The TWSE reported 979 listed companies and a market capitalisation above US$1.7 trillion in mid-2023. Filings are largely in Chinese, with English versions for some issuers. Research therefore needs strong Chinese-language reading."
+    },
+    {
+      "title": "Technology parks and foreign investment",
+      "text": "Neihu Technology Park concentrates R&D centres and corporate headquarters, while Nangang Software Park focuses on IC design and digital content. More than 3,650 foreign-invested enterprises are registered in Taipei. Park tenancy, investment approvals and published company information can help confirm whether a counterparty's claimed Taipei operations are real and of the scale it describes. Claims of a Neihu or Nangang presence are a common starting point for verification."
+    }
+  ],
+  "tdsc_approach": "For matters touching Taipei, TDSC begins by identifying which entity in a group actually holds the relevant contracts, assets or technology, and whether it is listed, over-the-counter or private. Research is conducted from Nashville using MOPS filings, registration data, published judgments of the Taipei courts and the Intellectual Property and Commercial Court, and Chinese-language media read in traditional characters. Where interviews, site visits or document retrieval are justified, TDSC coordinates with qualified local professionals and the client's Taiwanese counsel rather than acting directly. Personal data is limited to what the question requires, and any cross-strait element is reviewed for its legal and practical sensitivities before work begins.",
+  "faqs": [
+    {
+      "q": "What can MOPS filings tell us about a Taipei company?",
+      "a": "For listed and over-the-counter companies, MOPS filings show financial statements, material information announcements, related-party transactions, endorsements and guarantees, overseas investments and changes in directors and major shareholders. They often reveal how a Taipei headquarters controls subsidiaries in mainland China or Southeast Asia. Private companies do not file on MOPS, so research relies on registration data and other sources."
+    },
+    {
+      "q": "Which court would hear a large commercial dispute with a Taipei company?",
+      "a": "Commercial claims of NT$100 million or more and certain corporate governance matters generally go to the Intellectual Property and Commercial Court, with appeals directly to the Supreme Court. Smaller claims start in the competent district court, such as one of those serving Taipei. Your Taiwanese counsel will confirm the forum; we support them with factual research."
+    },
+    {
+      "q": "Can you help when an engineer leaves for a competitor?",
+      "a": "Yes, by supporting counsel with lawful research into the new employer, any related start-ups, patent and trademark filings and public professional activity, and by helping organise facts for civil claims or a criminal complaint. Device forensics are handled by qualified forensic specialists engaged through counsel, and we do not conduct covert surveillance."
+    },
+    {
+      "q": "Is arbitration common for disputes with Taipei counterparties?",
+      "a": "Many Taiwanese commercial contracts refer disputes to the Chinese Arbitration Association, Taipei, the most used of Taiwan's arbitral institutions, and parties can agree to arbitrate in English. International contracts may instead choose Singapore, Hong Kong or other seats. In all cases TDSC's role is limited to factual research supporting counsel and the parties."
+    },
+    {
+      "q": "Does TDSC have an office in Taipei?",
+      "a": "No. TDSC is based in Nashville and has no office or staff in Taipei or elsewhere in Taiwan. Most work is desk-based research using public and commercial sources in Chinese and English. Where local steps are needed, we coordinate with qualified local professionals and the client's Taiwanese counsel, acting lawfully and within the agreed scope."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Invest Taipei: Overview of Taipei",
+      "url": "https://invest.taipei/en/why-taipei/highlight/"
+    },
+    {
+      "title": "Taipei City Government: Taipei Index 2024 (PDF)",
+      "url": "https://invest.taipei/wp-content/uploads/2026/07/Taipei-Index-2024_EN_F.pdf"
+    },
+    {
+      "title": "Taiwan Stock Exchange: 2025 Guide to Investing in Taiwan",
+      "url": "https://www.twse.com.tw/en/page/about/company/guide.html"
+    },
+    {
+      "title": "Lex Mundi: Arbitration institutions guide, Taiwan",
+      "url": "https://www.lexmundi.com/guides/arbitration-institutions-guide/jurisdictions/asia-pacific/taiwan/"
+    },
+    {
+      "title": "Global Legal Post / Law Over Borders: Commercial litigation and cross-border enforcement, Taiwan",
+      "url": "https://www.globallegalpost.com/lawoverborders/commercial-litigation-and-cross-border-enforcement-303045018/taiwan-31452551"
+    },
+    {
+      "title": "Global Arbitration Review: Chinese Arbitration Association, Taipei profile (2023)",
+      "url": "https://globalarbitrationreview.com/survey/the-guide-regional-arbitration/2023/organization-profile/chinese-arbitration-association-taipei"
+    }
+  ],
+  "review_flags": [
+    "Population given as 'about 2.5 million (2024)': the Taipei Index chart reads about 2.49 million at end 2024 but no exact labelled figure; the invest.taipei overview gives 2.46 million and 2.43 million without years. Confirm against Taipei City civil affairs statistics.",
+    "Commercial Case Adjudication Act start date conflicts: Global Legal Post says 1 July 2020, the TW country page says 1 July 2021 (2021 is the commonly cited effective date). No date used on this page.",
+    "Statements that the High Court and Supreme Court sit in Taipei, and that IP and Commercial Court hears trade secret and listed-company governance matters, are general knowledge not confirmed in an opened source. The IP and Commercial Court's location (New Taipei) deliberately omitted.",
+    "TWSE listed-company and market cap figures date from June 2023; consider updating."
+  ],
+  "researched": "2026-11-04"
+}

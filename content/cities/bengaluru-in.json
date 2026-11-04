@@ -1,0 +1,147 @@
+{
+  "slug": "bengaluru-in",
+  "name": "Bengaluru",
+  "cc": "IN",
+  "meta_description": "TDSC investigative consulting in matters touching Bengaluru: technology counterparty diligence, IP and employee misconduct research, property title checks.",
+  "eyebrow": "Bengaluru, Karnataka, India",
+  "hero_lede": "Bengaluru is India's technology capital and the base of much of its software, startup, aerospace and biotech activity. TDSC helps clients research Bengaluru companies, founders and vendors, investigate suspected leakage of data or intellectual property, and test the land and property records that underpin local transactions.",
+  "intro": [
+    "Bengaluru, the capital of Karnataka, is the centre of India's information technology and startup economy. India Briefing describes it as the country's IT capital, with around two million technology workers and some 25,000 IT companies, and a hub that accounts for roughly a third or more of India's IT exports. Global companies run engineering and capability centres from technology parks along the Outer Ring Road, Whitefield and Electronic City. The city is also home to public sector aerospace and space organisations, including Hindustan Aeronautics Limited and the Indian Space Research Organisation, and to India's leading cluster of biotechnology firms, alongside machine tools, electronics and garment manufacturing in estates such as Peenya and Bommasandra.",
+    "Organisations commission investigative work connected to Bengaluru because so much of the world's software, product development and back-office work passes through it. Investors in Bengaluru startups need confidence in founders, revenue claims and related-party arrangements. Multinationals with large local teams face departing employees who take source code, client data or staff to competitors, and vendor networks where procurement kickbacks or conflicts of interest go unnoticed. Rapid urban growth has made land and property a recurring source of disputes, and recent registration irregularities show why title cannot be taken on trust. Founders, executives and counterparties based in the city also feature in cross-border litigation and enforcement."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 8.5 million in the city at the 2011 Census; current metropolitan estimates exceed 13 million"
+    },
+    {
+      "label": "Metro area",
+      "value": "Bengaluru Urban district and surrounding Bengaluru Rural growth corridors"
+    },
+    {
+      "label": "Key sectors",
+      "value": "IT services and software, startups, global capability centres, aerospace, biotechnology, electronics, machine tools, garments"
+    },
+    {
+      "label": "Major employers",
+      "value": "Large Indian and multinational IT firms; Hindustan Aeronautics Limited; ISRO; biotech companies"
+    },
+    {
+      "label": "Airport",
+      "value": "Kempegowda International Airport (opened 2008); no seaport, with Mangaluru the nearest major port"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Kolkata, UTC+5:30, no daylight saving"
+    },
+    {
+      "label": "Languages of business",
+      "value": "English in commerce and technology; Kannada as state official language; Hindi, Tamil and Telugu widely spoken"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Startup founder and revenue diligence",
+      "text": "Researching Bengaluru founders, co-founders and their prior ventures, and testing revenue, customer and headcount claims against Ministry of Corporate Affairs filings, litigation records, former employee accounts and public sources before a venture, growth or acquisition investment closes."
+    },
+    {
+      "title": "Source code and data leakage",
+      "text": "Supporting counsel where departing engineers or teams are suspected of taking source code, client data or confidential designs to a competitor, by establishing the new employer's structure, the individuals' links to it and the public evidence of competing products or client approaches."
+    },
+    {
+      "title": "Vendor and procurement integrity",
+      "text": "Checking IT services subcontractors, staffing agencies, facilities and logistics vendors around Bengaluru for undisclosed links to client employees, shell entities sharing addresses or directors, and adverse records, where inflated invoicing or kickbacks are suspected inside a local capability centre."
+    },
+    {
+      "title": "Land and property title checks",
+      "text": "Reviewing the ownership chain, khata status, encumbrances and litigation affecting Bengaluru land or buildings before a lease, purchase or development, with local professionals obtaining lawfully available registration and revenue records and noting gaps or inconsistencies."
+    },
+    {
+      "title": "Aerospace and defence supply chain",
+      "text": "Background research on suppliers and partners in Bengaluru's aerospace, electronics and machine-tool clusters, covering ownership, export control and sanctions exposure, government connections and reputation, for clients considering or entering offset, joint venture or component supply arrangements."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Courts sitting in Bengaluru",
+      "text": "The High Court of Karnataka sits in Bengaluru and mainly exercises appellate and supervisory jurisdiction, including writ jurisdiction under Articles 226 and 227 of the Constitution; unlike Bombay, it is not a court of first instance for most civil suits. Civil matters begin in the City Civil and Sessions Court, and commercial disputes go to the Commercial Courts set up under the Commercial Courts Act 2015."
+    },
+    {
+      "title": "Arbitration and mediation",
+      "text": "The Karnataka Arbitration and Conciliation Centre, established by the High Court of Karnataka, offers an arbitrator panel, hearing rooms and videoconferencing and is a common venue for domestic commercial arbitrations involving Bengaluru parties. Courts in the city grant interim relief in support of arbitration under section 9 of the Arbitration and Conciliation Act 1996, including asset preservation orders. The High Court also runs mediation drives, and Lok Adalats are organised through the state and district legal services authorities."
+    },
+    {
+      "title": "Karnataka land and property records",
+      "text": "Karnataka was an early mover in digitising land records through the Bhoomi portal, which provides Records of Rights, Tenancy and Crops and mutation records. Property documents are registered through the Kaveri 2.0 system of the Department of Stamps and Registration, which also issues encumbrance certificates online, while urban property tax and ownership details are recorded in municipal khata and e-Khata records. A 2025 Karnataka amendment bill gave registration authorities more power to refuse documents showing forged titles or ownership disputes."
+    },
+    {
+      "title": "Recent registration irregularities",
+      "text": "In January 2026 Karnataka suspended sub-registrars at Sarjapur, Banaswadi, Varthur and Halasuru after the Inspector General of Registration found that sale deeds had been registered by misusing court-order exemptions in Kaveri 2.0 or without importing mandatory e-Khata data. The case concerned a 53.5-acre parcel in Anekal taluk valued at about Rs 250 crore, and the state revenue minister ordered the Bengaluru Deputy Commissioner to investigate. It illustrates why registration alone is not proof of clean title."
+    },
+    {
+      "title": "Company registry and tribunals",
+      "text": "Companies incorporated in Karnataka are registered with the Registrar of Companies in Bengaluru, with filings available nationally through the Ministry of Corporate Affairs portal. Bengaluru also hosts a bench of the National Company Law Tribunal for insolvency and company law cases and a Debt Recovery Tribunal used by lenders. Karnataka's Real Estate Regulatory Authority publishes registered project details for checking developers."
+    }
+  ],
+  "tdsc_approach": "TDSC handles Bengaluru matters from Nashville and has no office in India. Engagements start by identifying the records that bear on the question: Ministry of Corporate Affairs filings for the Karnataka entities involved, City Civil Court, Commercial Court and High Court of Karnataka orders, tribunal cause lists, and, for property, Bhoomi, Kaveri and khata records obtained lawfully. Research includes Kannada-language press where useful. Where enquiries on the ground are needed, such as discreet market interviews or site verification in a technology park, TDSC coordinates experienced local professionals working alongside Indian counsel, without pretexting or access to call, bank or identity records. Employee-related work is scoped with counsel under India's data protection framework, and findings separate documented facts from inference.",
+  "faqs": [
+    {
+      "q": "Does a Bengaluru commercial suit start in the High Court of Karnataka?",
+      "a": "Generally not. Unlike the Bombay High Court, the High Court of Karnataka mainly hears appeals, revisions and writ petitions. Commercial suits are filed in the Commercial Courts in Bengaluru and other civil suits in the City Civil Court. Research for a dispute therefore often starts with those trial courts' records before moving to any High Court appeal or writ proceedings."
+    },
+    {
+      "q": "Can TDSC help when an engineering team leaves for a competitor?",
+      "a": "Yes, as support to counsel. We can map the competitor's ownership and directors, establish the departed individuals' roles and public activity, and look for evidence of competing products or client approaches. We do not access personal devices, email accounts or call records. Forensic examination of company devices is handled by specialists engaged through counsel."
+    },
+    {
+      "q": "How reliable are Bengaluru property records?",
+      "a": "Karnataka's records are among India's most digitised, through Bhoomi, Kaveri 2.0 and e-Khata, but digitisation does not remove risk. The 2026 suspension of several Bengaluru sub-registrars over improperly registered sale deeds shows that registered documents can still be challenged. We combine registry, encumbrance and court searches and note any inconsistency between revenue and municipal records."
+    },
+    {
+      "q": "What can be verified about a Bengaluru startup before investing?",
+      "a": "Corporate filings show directors, shareholdings where filed, charges and annual returns, and court and tribunal records show disputes. These can be compared with founders' public claims, prior ventures and the accounts of former staff and customers. Unlisted company filings are often late or thin, so we state clearly which claims were confirmed and which remain unverified."
+    },
+    {
+      "q": "Is the Karnataka Arbitration and Conciliation Centre used for international cases?",
+      "a": "It is established by the High Court of Karnataka and is mainly used for domestic commercial arbitration, while international parties often choose institutional seats elsewhere. Forum choice is for counsel. TDSC supports whichever forum is chosen, for example with background research on parties and witnesses or asset research ahead of enforcement in Karnataka."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Chambers and Partners: India Dispute Resolution, Bengaluru-based Overview",
+      "url": "https://chambers.com/content/item/7087"
+    },
+    {
+      "title": "India Briefing: Bengaluru, India foreign investment brief (2023)",
+      "url": "https://www.india-briefing.com/news/bengaluru-karnataka-india-investment-brief-industries-infrastructure-6371.html/"
+    },
+    {
+      "title": "India Briefing: Doing Business in Bengaluru, India's IT and startups hub",
+      "url": "https://www.india-briefing.com/news/business-bengaluru-indias-startups-hub-15870.html/"
+    },
+    {
+      "title": "The News Minute: Probe ordered into Infosys land sale in Bengaluru as registration violations surface (2026)",
+      "url": "https://www.thenewsminute.com/karnataka/probe-ordered-into-infosys-land-sale-in-bengaluru-as-registration-violation-surface"
+    },
+    {
+      "title": "Brigade Group: How property digitisation is reshaping Bengaluru real estate (2026)",
+      "url": "https://www.brigadegroup.com/blog/residential/property-digitisation-bengaluru-real-estate"
+    },
+    {
+      "title": "Housing.com: Karnataka HC asks BBMP to digitise old property records",
+      "url": "https://housing.com/news/karnataka-hc-asks-bbmp-to-digitise-old-property-records"
+    },
+    {
+      "title": "Britannica: Bengaluru",
+      "url": "https://www.britannica.com/place/Bangalore-India"
+    }
+  ],
+  "review_flags": [
+    "Population: 2011 Census city figure (about 8.5 million) and 'over 13 million' metro estimate come from India Briefing articles, not an official census or World Bank page. Update when India's 2026-27 census results are published.",
+    "Registrar of Companies in Bengaluru, NCLT Bengaluru bench, Bengaluru DRT and Karnataka RERA are stated from prior knowledge; no source opened confirms them. Verify.",
+    "Municipal governance: BBMP is referenced by sources dated 2026, but Bengaluru's civic administration was being restructured under the Greater Bengaluru Authority (2025); the page refers to 'municipal khata and e-Khata records' to avoid naming the body. Confirm current name.",
+    "Kaveri 2.0 registration case (January 2026) is a single press report; the Infosys and Puravankara names were deliberately omitted from the page. Status of the inquiry may change.",
+    "Karnataka Arbitration and Conciliation Centre establishment date not found; the statement that it is mainly used for domestic arbitration is an editorial characterisation."
+  ],
+  "researched": "2026-11-04"
+}

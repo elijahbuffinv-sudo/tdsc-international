@@ -1,0 +1,139 @@
+{
+  "slug": "doha-qa",
+  "name": "Doha",
+  "cc": "QA",
+  "meta_description": "TDSC investigative consulting in matters touching Doha: partner and contractor due diligence, QFC and onshore dispute support, energy supply chain research.",
+  "eyebrow": "Doha, State of Qatar",
+  "hero_lede": "Doha is the seat of Qatar's government, its sovereign wealth and financial institutions, and the companies that serve its gas, infrastructure and services economy. TDSC helps clients research Doha partners, sponsors and contractors, and supports counsel in Qatari court, Qatar Financial Centre and arbitration proceedings.",
+  "intro": [
+    "Doha is Qatar's capital and the centre of almost all of its commercial, financial and governmental life; most of the country's population lives in Doha and the surrounding municipalities. The state's wealth rests on natural gas, produced and liquefied at Ras Laffan Industrial City north of the capital, but decisions on that wealth, and much of the spending of it, are made in Doha. The city hosts the ministries, the Qatar Central Bank, the Qatar Stock Exchange, the sovereign wealth fund, and the Qatar Financial Centre, established in 2005 as a business and financial centre with its own common law-based legal environment. Construction, real estate, transport, hospitality, healthcare and education have expanded with sustained public investment.",
+    "Organisations commission investigative work connected to Doha because most commercial relationships in Qatar run through it. Foreign companies entering the market rely on Qatari partners, agents and subcontractors whose ownership and connections need to be understood before contracts are signed. Contractors and suppliers on large public and energy projects face payment disputes, claims and integrity questions. Investors and lenders dealing with Doha family groups need to see how holding companies and individuals connect. Disputes may be heard in the onshore courts, the Qatar Financial Centre's Civil and Commercial Court or in arbitration, each with different evidence and enforcement considerations."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 2.97 million in Qatar (2025, World Bank), most living in Doha and adjoining municipalities"
+    },
+    {
+      "label": "Metro area",
+      "value": "Doha with Al Rayyan, Al Wakrah and neighbouring municipalities"
+    },
+    {
+      "label": "Key sectors",
+      "value": "LNG and petrochemicals, construction and infrastructure, finance, real estate, transport and logistics, hospitality, education and healthcare"
+    },
+    {
+      "label": "Exchange and regulators",
+      "value": "Qatar Stock Exchange; Qatar Central Bank; Qatar Financial Markets Authority; QFC Regulatory Authority"
+    },
+    {
+      "label": "Port and airport",
+      "value": "Hamad Port south of Doha; Hamad International Airport"
+    },
+    {
+      "label": "Time zone",
+      "value": "Asia/Qatar, UTC+3, no daylight saving"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Arabic (official and court language); English widely used in commerce and in the QFC"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Local partner and agent due diligence",
+      "text": "Researching prospective Qatari partners, commercial agents and sponsors in Doha, including their family and corporate connections, public roles, litigation and reputation, so foreign companies understand who they are contracting with and whether undisclosed government links or conflicts could create integrity or compliance risk."
+    },
+    {
+      "title": "Contractor and subcontractor vetting",
+      "text": "Verifying the registration, ownership, project record, financial standing indicators and disputes of Doha contractors and suppliers on construction, infrastructure and energy-related projects, where insolvency, delayed payment chains and claims between tiers of contractors are recurring risks."
+    },
+    {
+      "title": "Family group and holding structure mapping",
+      "text": "Connecting Doha holding companies, trading businesses and QFC-registered entities to the families and individuals behind them, using lawfully obtained registry extracts, QFC public registers, published judgments and Arabic and English media, and stating clearly where ownership cannot be documented."
+    },
+    {
+      "title": "Energy supply chain research",
+      "text": "Background research on vendors, service providers and intermediaries in the gas and petrochemicals supply chain administered from Doha, including ownership, sanctions and export control exposure, adverse media and relationships with procurement decision-makers, for clients bidding or subcontracting."
+    },
+    {
+      "title": "Dispute and enforcement support",
+      "text": "Supporting counsel in Doha litigation and arbitration with research on opposing parties, witnesses and experts, and with research on assets and corporate interests of Qatari debtors ahead of enforcement through the QFC Court, onshore courts or under Qatar's enforcement law."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "QFC Civil and Commercial Court",
+      "text": "The Qatar International Court and Dispute Resolution Centre in Doha comprises the QFC Civil and Commercial Court and the QFC Regulatory Tribunal. The court has a First Instance Circuit and an Appellate Circuit and a bench drawn from Qatar, England, Singapore and other jurisdictions. Under QFC Law No. 7 of 2005 it hears disputes involving QFC entities and others in defined cases, and parties may agree to its jurisdiction. Judgments are published, and the court can refer its orders to Qatari authorities for enforcement."
+    },
+    {
+      "title": "Onshore courts",
+      "text": "Outside the QFC, commercial disputes proceed through the Qatari courts of first instance, the Court of Appeal and the Court of Cassation, all in Doha, with proceedings in Arabic. Law No. 21 of 2021 provides for a dedicated court for investment and commercial disputes. Domestic arbitral awards must satisfy Qatari procedural requirements, and the Court of Cassation has addressed when awards must be issued in the Emir's name. Access to onshore court files is generally limited to the parties."
+    },
+    {
+      "title": "Arbitration centres in Doha",
+      "text": "Qatar's Arbitration Law No. 2 of 2017 follows the UNCITRAL Model Law with local variations, including a one-month period to apply for annulment. The Qatar International Centre for Conciliation and Arbitration, established in 2006 within the Qatar Chamber, applies rules issued in 2024 and recorded nearly 86 cases that year. The QICDRC also administers arbitrations under its own rules, and the QFC applies its own Arbitration Regulations within the centre."
+    },
+    {
+      "title": "Registries and special zones",
+      "text": "Onshore companies are registered in the commercial registry of the Ministry of Commerce and Industry, while QFC entities appear in the QFC public register and entities in the free zones and Qatar Science and Technology Park are licensed under their own rules. The QFC, established in 2005, permits full foreign ownership and applies a 10 percent corporate tax. Identifying which regime governs a Doha counterparty is the first step in any records research."
+    }
+  ],
+  "tdsc_approach": "TDSC handles Doha matters from Nashville and has no office in Qatar. Engagements begin by establishing whether the counterparty or dispute sits onshore, in the Qatar Financial Centre or in a free zone, because this determines which registers, courts and data protection rules apply. Research draws on QFC public registers and judgments, Qatar Stock Exchange disclosures, lawfully obtained commercial registry extracts and Arabic and English media. Where enquiries in Doha are needed, such as discreet reputational soundings among business contacts, TDSC coordinates appropriately qualified local professionals working with Qatari counsel. Personal data is handled under Qatar's Law No. 13 of 2016 or the QFC's own data protection regulations as applicable, and findings distinguish documented relationships from reputation.",
+  "faqs": [
+    {
+      "q": "Should a dispute with a Doha counterparty go to the QFC Court or the onshore courts?",
+      "a": "That depends on the parties, the contract and counsel's advice. The QFC Civil and Commercial Court hears disputes involving QFC entities and cases where parties agree to its jurisdiction, in English and with published judgments. Onshore courts proceed in Arabic. TDSC supports whichever forum is chosen with research on parties and assets."
+    },
+    {
+      "q": "What can be learned about a Doha company from public records?",
+      "a": "It depends on where it is registered. QFC entities appear in the QFC's public register and Qatar Stock Exchange companies publish disclosures. Onshore commercial registry information is more limited than in European registries, so research combines lawfully obtained extracts with judgments, media and trade sources, and notes gaps plainly."
+    },
+    {
+      "q": "Which arbitral institutions operate in Doha?",
+      "a": "The Qatar International Centre for Conciliation and Arbitration, established in 2006 within the Qatar Chamber, administers domestic and international cases under rules issued in 2024. The QICDRC also administers arbitrations, and the QFC has its own Arbitration Regulations. Many Qatar-related contracts also choose seats outside Qatar. Forum selection is a matter for counsel."
+    },
+    {
+      "q": "Can TDSC identify a Qatari partner's government connections?",
+      "a": "TDSC can research public roles, board positions, family relationships documented in reliable sources and media reporting, which often reveal connections relevant to anti-corruption compliance. Informal influence is harder to evidence, and we distinguish documented links from reputation. We do not access government systems or restricted records."
+    },
+    {
+      "q": "Which data protection rules apply to research involving Doha?",
+      "a": "Onshore, Law No. 13 of 2016 on personal data protection applies, while firms in the Qatar Financial Centre are subject to the QFC's own data protection regulations. TDSC identifies the applicable regime at the start of an engagement and limits personal data collection to what the matter requires."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Mondaq: International arbitration in Qatar",
+      "url": "https://www.mondaq.com/arbitration-dispute-resolution/1720510/international-arbitration-in-qatar"
+    },
+    {
+      "title": "The Peninsula: QICCA announces implementation of its new arbitration rules (January 2025)",
+      "url": "https://s.thepeninsula.qa/article/24/01/2025/qicca-announces-implementation-of-its-new-arbitration-rules"
+    },
+    {
+      "title": "Al Tamimi: Not-so-Bleak House, the Qatar Financial Centre courts revisited (2021)",
+      "url": "https://www.tamimi.com/law-update/april-2021/articles/not-so-bleak-house-the-qatar-financial-centre-courts-revisited/"
+    },
+    {
+      "title": "MEED: Qatar economic zones (2013)",
+      "url": "https://www.meed.com/qatar-economic-zones"
+    },
+    {
+      "title": "QICDRC: Arbitration booklet 2025",
+      "url": "https://www.qicdrc.gov.qa/sites/default/files/2025-06/Arbitration%20Booklet%202025%20EN.pdf"
+    },
+    {
+      "title": "Global Arbitration Review: Guide to Regional Arbitration 2026, QICCA profile",
+      "url": "https://globalarbitrationreview.com/survey/the-guide-regional-arbitration/2026/organization-profile/qatar-international-centre-conciliation-and-arbitration-qicca"
+    }
+  ],
+  "review_flags": [
+    "Population: no Doha-specific figure was found in searches; the page uses Qatar's 2025 World Bank figure (2.97 million) taken from the QA country page and states that most residents live in Doha. The World Bank URL is not listed in sources because it was not opened in this session. Add a Planning and Statistics Authority figure for Doha municipality if wanted.",
+    "Qatar Central Bank, Qatar Stock Exchange, Qatar Financial Markets Authority, QFC Regulatory Authority, Hamad Port, Hamad International Airport and the Asia/Qatar time zone are from prior knowledge, not sources opened.",
+    "Law No. 21 of 2021 (investment and commerce court) is taken from the QA country page; the arbitration article opened did not mention it.",
+    "QFC 10 percent corporate tax and 'full foreign ownership' come from a 2013 MEED article; confirm current terms.",
+    "Free zones (Qatar Free Zones Authority) referenced generically; the MEED source predates the QFZA."
+  ],
+  "researched": "2026-11-04"
+}

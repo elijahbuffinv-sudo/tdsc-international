@@ -1,0 +1,143 @@
+{
+  "slug": "budapest-hu",
+  "name": "Budapest",
+  "cc": "HU",
+  "meta_description": "TDSC investigative consulting in matters touching Budapest: ownership research, service centre fraud inquiries and support for Budapest litigation.",
+  "eyebrow": "Budapest, Hungary",
+  "hero_lede": "Budapest concentrates Hungary's government, finance, courts and corporate headquarters, and hosts many regional service centres for multinational groups. TDSC helps clients research Budapest companies and their owners, investigate misconduct inside local operations, and support counsel in proceedings before the capital's courts and arbitral institution.",
+  "intro": [
+    "Budapest is Hungary's capital and by far its largest city, with about 1.68 million residents according to provisional 2026 figures from the Hungarian Central Statistical Office, and a wider metropolitan area extending into Pest county. It is the seat of the national government, the Magyar Nemzeti Bank and the Budapest Stock Exchange, which the central bank has controlled since 2015 and which it describes as the second most important exchange in the region after Warsaw. Banks, insurers, energy and telecommunications companies, pharmaceutical groups and the regional headquarters of many multinationals are based in the city, along with business service, IT and shared service centres that support group operations across Europe.",
+    "Organisations commission investigative work connected to Budapest because decisions, money and records involving Hungarian business tend to converge there. Investors and lenders need to understand who stands behind Budapest holding companies, private equity funds and family groups, particularly where public procurement, state support or politically connected ownership is part of the picture. Multinationals running finance, procurement and payroll functions from Budapest service centres face internal fraud and conflict-of-interest risks. Real estate and hospitality investment in the city raises ownership and source-of-funds questions. And counsel in disputes and enforcement need evidence that will stand up before Budapest courts or the chamber of commerce's arbitration court."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "About 1.68 million (2026, provisional, Hungarian Central Statistical Office)"
+    },
+    {
+      "label": "Metro area",
+      "value": "Budapest and its Pest county agglomeration"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Banking and finance, business and shared services, IT, pharmaceuticals, energy, telecommunications, real estate, tourism"
+    },
+    {
+      "label": "Exchange and regulator",
+      "value": "Budapest Stock Exchange (154 companies' shares traded, 2026); Magyar Nemzeti Bank as central bank and financial supervisor"
+    },
+    {
+      "label": "Transport hub",
+      "value": "Budapest Ferenc Liszt International Airport; Danube river port and rail freight links"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Budapest, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Hungarian; English widely used in multinational and financial settings; German in some trade relationships"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Holding company and ownership mapping",
+      "text": "Tracing the members, officers and changes recorded in the Hungarian company register for Budapest holding companies, together with private equity fund vehicles, trusts and related individuals, to establish who ultimately controls a counterparty and whether connected parties sit on the other side of a transaction."
+    },
+    {
+      "title": "Service centre fraud investigations",
+      "text": "Supporting multinationals where a Budapest finance, procurement or payroll centre shows signs of manipulated vendor master data, fictitious suppliers or conflicts of interest, by researching the vendors involved, their owners and their links to employees, in coordination with counsel and forensic accountants."
+    },
+    {
+      "title": "Procurement and state-linked counterparties",
+      "text": "Reviewing Budapest companies that win public contracts or receive state or EU funding, including their ownership history, contract record, litigation, and media and investigative reporting on political connections, so clients can assess reputational and integrity risk before partnering."
+    },
+    {
+      "title": "Real estate and hospitality investment",
+      "text": "Researching the owners, financing and litigation history behind Budapest office, residential and hotel assets and the companies that hold them, including land registry information obtained lawfully and source-of-funds questions about sellers, co-investors and buyers in the transaction."
+    },
+    {
+      "title": "Litigation and enforcement support",
+      "text": "Assisting counsel in Budapest proceedings and arbitration with background research on parties, witnesses and experts, and with asset research on Hungarian debtors and their corporate interests ahead of enforcement of a court judgment or arbitral award."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Courts sitting in Budapest",
+      "text": "Budapest has six consolidated district courts covering its 23 districts, which hear most first-instance cases. Claims above HUF 30 million, and corporate, securities and intellectual property disputes, start before a regional court, in the capital the Budapest-Capital Regional Court (Fővárosi Törvényszék), which also hears appeals from the district courts. Above it sit the Budapest-Capital Regional Court of Appeal and the Curia, Hungary's supreme court, which is also seated in Budapest and issues binding uniformity decisions."
+    },
+    {
+      "title": "Chamber of commerce arbitration",
+      "text": "The Permanent Arbitration Court attached to the Hungarian Chamber of Commerce and Industry has operated since 1949 and is the main arbitral institution for Hungarian commercial disputes. Since 1 January 2018 arbitration has been governed by Act LX of 2017, and the separate money and capital markets and energy arbitration courts closed at the end of 2017, with their cases and arbitration agreements transferred to the chamber court. Its current Rules of Proceedings are dated 15 September 2024."
+    },
+    {
+      "title": "Company register and filings",
+      "text": "Hungarian company registration is handled by courts of registration, and companies seated in Budapest register with the company court attached to the Budapest-Capital Regional Court. Register extracts showing officers, members, capital and changes are searchable online, and annual financial statements are published electronically. This gives Budapest due diligence a strong documentary base, although nominee arrangements, foreign parent companies and private equity fund structures can obscure ultimate ownership."
+    },
+    {
+      "title": "Financial supervision and markets",
+      "text": "The Magyar Nemzeti Bank, headquartered in Budapest, is both the central bank and the integrated supervisor of banks, insurers, investment firms and capital markets, and publishes supervisory decisions. It acquired a controlling stake in the Budapest Stock Exchange in 2015. The exchange's issuer announcements, the central bank's resolutions and published market data are core sources when reviewing a Budapest-listed company or a regulated financial counterparty."
+    }
+  ],
+  "tdsc_approach": "TDSC handles Budapest matters from Nashville and has no office in Hungary. Engagements begin by identifying the records that bear on the question: company register extracts and published financial statements, Budapest Stock Exchange announcements, Magyar Nemzeti Bank decisions, procurement records, court decisions and land registry information available lawfully. Hungarian-language research is central, because much press coverage, investigative journalism and official material on Budapest companies is not published in English. Where enquiries in the city are needed, such as discreet source interviews or site verification, TDSC coordinates qualified local professionals working with Hungarian counsel. Personal data is handled under the GDPR and Hungarian implementing law, and findings distinguish documented ownership from reported or inferred connections.",
+  "faqs": [
+    {
+      "q": "Which Budapest court hears a large commercial dispute?",
+      "a": "Claims above HUF 30 million, and corporate, securities and intellectual property disputes, generally start before the Budapest-Capital Regional Court, with appeals to the Budapest-Capital Regional Court of Appeal and extraordinary remedies before the Curia. Smaller claims go to the district courts. Counsel decides the forum; TDSC supports it with research on parties and assets."
+    },
+    {
+      "q": "Is the Hungarian chamber of commerce arbitration court the only arbitral option?",
+      "a": "It is the principal permanent arbitral institution in Hungary, and since 2018 the former money and capital markets and energy arbitration courts have been merged into it. Parties can also choose ad hoc arbitration or foreign institutions with a Budapest seat. Which is appropriate is a question for counsel, not TDSC."
+    },
+    {
+      "q": "How much can be learned about a Budapest company from public records?",
+      "a": "A great deal. The online company register shows officers, members of limited liability companies, registered capital and historic changes, and financial statements are published electronically. The main limits arise where shareholders are foreign companies, private equity funds or nominees, which require research in other jurisdictions and in Hungarian-language media."
+    },
+    {
+      "q": "Can TDSC investigate suspected fraud in a Budapest shared service centre?",
+      "a": "Yes, alongside the client's counsel and forensic accountants. TDSC typically researches suspect vendors, their owners and registered addresses, and looks for connections to employees in public records. Employee monitoring and interviews must comply with Hungarian labour law and data protection rules, so that part is scoped with counsel in advance."
+    },
+    {
+      "q": "Where can regulatory actions against Budapest financial firms be found?",
+      "a": "The Magyar Nemzeti Bank publishes supervisory resolutions and fines for the banks, insurers and investment firms it supervises, and the Budapest Stock Exchange publishes issuer announcements. Court decisions are published in anonymised form. Together with company register history, these are standard sources in a Budapest financial counterparty review."
+    }
+  ],
+  "sources": [
+    {
+      "title": "HIPA: Why Hungary (HCSO population figures, 2026)",
+      "url": "https://beszallito.hipa.hu/why-hungary/"
+    },
+    {
+      "title": "MNB: Record performance on the Hungarian stock exchange (July 2026)",
+      "url": "https://www.mnb.hu/en/pressroom/press-releases/press-releases-2026/record-performance-on-the-hungarian-stock-exchange-opening-bell-ceremony-featuring-mihaly-varga-and-andras-karman"
+    },
+    {
+      "title": "MNB: Budapest Stock Exchange is once again in Hungarian hands (2015)",
+      "url": "https://www.mnb.hu/en/pressroom/press-releases/press-releases-2015/budapest-stock-exchange-is-once-again-in-hungarian-hands"
+    },
+    {
+      "title": "Hungarian Chamber of Commerce and Industry: Court of Arbitration",
+      "url": "https://mkik.hu/en/court-of-arbitration"
+    },
+    {
+      "title": "Global Legal Post / Law Over Borders: Commercial Litigation, Hungary",
+      "url": "https://www.globallegalpost.com/lawoverborders/commercial-litigation-law-guide-823391922/hungary-946767874"
+    },
+    {
+      "title": "HCCI: Act LX of 2017 on Arbitration (English)",
+      "url": "https://mkik.hu/en/download/124/act-lx-of-2017-on-arbitration-15012025"
+    },
+    {
+      "title": "KSH: Budapest Statistical Yearbook 2019, chapter 2",
+      "url": "https://www.ksh.hu/evkonyvek/2019/budapest-statisztikai-evkonyve-2019/pdf/bpevk_2019_02.pdf"
+    }
+  ],
+  "review_flags": [
+    "Population (1,676,000) is from HIPA citing HCSO 2026 provisional data, not a KSH page opened directly.",
+    "The court names Budapest-Capital Regional Court (Fővárosi Törvényszék), Budapest-Capital Regional Court of Appeal, and the company court attached to the Regional Court are from prior knowledge; the litigation guide opened describes the structure generically. Verify names.",
+    "MNB control of the Budapest Stock Exchange since 2015 relies on the 2015 MNB press release title seen in search results; the page itself was not opened. Hungary's April 2026 election and any subsequent institutional changes were not researched.",
+    "Key sectors, airport name and shared service centre presence are from general knowledge; no source opened lists Budapest's sectors.",
+    "Statement that MNB is integrated supervisor and publishes resolutions is from prior knowledge (and the HU country page)."
+  ],
+  "researched": "2026-11-04"
+}

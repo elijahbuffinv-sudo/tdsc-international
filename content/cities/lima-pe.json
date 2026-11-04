@@ -1,0 +1,142 @@
+{
+  "slug": "lima-pe",
+  "name": "Lima",
+  "cc": "PE",
+  "meta_description": "TDSC investigative consulting in matters touching Lima: due diligence on Peruvian groups, arbitration and procurement support, and asset tracing.",
+  "eyebrow": "Lima Metropolitana, Peru",
+  "hero_lede": "Investigative consulting for matters that run through Lima: Peruvian groups and mining, infrastructure and financial companies headquartered in the capital, arbitrations administered by Lima institutions, public works and concession contracts, and real estate and holding structures across the metropolitan area. Scoped from Nashville with qualified Peruvian professionals.",
+  "intro": [
+    "Lima is Peru's capital and the centre of its economic, financial and political life. The National Institute of Statistics and Informatics (INEI) projects the population of Metropolitan Lima at about 10.3 million in 2025, roughly three in ten Peruvians, and the neighbouring constitutional province of Callao adds the country's main container port and international airport. Head offices of the banks, insurers, mining and energy groups, construction and retail companies are concentrated in districts such as San Isidro and Miraflores, alongside the Lima stock exchange and the national regulators. To the north, the Chancay deep-water port, majority-owned by Cosco Shipping Ports, began operations in late 2024; the central bank projected it could add up to 0.9 points to GDP in 2025.",
+    "Organisations commission investigative work connected to Lima because the decisions behind Peruvian mining, infrastructure, energy and consumer investments are taken there. Typical triggers include due diligence on Peruvian groups and joint venture partners, background research on executives, shareholders and politically exposed persons, and support to counsel in arbitrations, which are the usual forum for construction and concession disputes with the State. The Lava Jato investigations showed how bribery in public works could reach the arbitration process itself, so integrity of counterparties, intermediaries and even arbitrators is a recurring question. Asset tracing in Lima often involves real estate, family holding companies and offshore vehicles, while the growth of Chancay and Callao trade raises supply chain and trade fraud questions."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "10,285,076, Metropolitan Lima (INEI projection, 2025)"
+    },
+    {
+      "label": "Adjacent province",
+      "value": "Callao: main seaport and Jorge Chavez International Airport"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Finance and insurance, mining and energy head offices, construction, retail, manufacturing, logistics"
+    },
+    {
+      "label": "Markets and regulators",
+      "value": "Bolsa de Valores de Lima; national financial and securities regulators"
+    },
+    {
+      "label": "New port",
+      "value": "Chancay, about 80 km north; Cosco Shipping Ports holds 60%"
+    },
+    {
+      "label": "Arbitration",
+      "value": "Lima Chamber of Commerce national and international arbitration centre (rules amended 2025)"
+    },
+    {
+      "label": "Time zone",
+      "value": "America/Lima, UTC-5 (no daylight saving)"
+    },
+    {
+      "label": "Business languages",
+      "value": "Spanish; English in mining, finance and multinationals"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Due diligence on Lima groups",
+      "text": "Ownership, management, litigation and regulatory history of Peruvian companies and family groups headquartered in Lima, using public registry records obtained through proper channels, tax and regulator publications, published judgments and Peruvian media, to support acquisitions, joint ventures, lending and distribution agreements."
+    },
+    {
+      "title": "Arbitration and arbitrator integrity research",
+      "text": "Background research on counterparties, witnesses and experts for arbitrations administered in Lima, and, where counsel requests it, review of public information bearing on arbitrator disclosures and conflicts, reflecting concerns that emerged from Lava Jato prosecutions involving arbitrators in State construction cases."
+    },
+    {
+      "title": "Public works and concession risk",
+      "text": "Screening of consortium partners, subcontractors, consultants and intermediaries on public works, public-private partnerships and concessions awarded by national ministries and Lima municipal bodies, with attention to beneficial ownership, prior sanctions, procurement disqualifications and links to politically exposed persons."
+    },
+    {
+      "title": "Asset tracing in Metropolitan Lima",
+      "text": "Identification of real estate, companies and business interests connected to a judgment or award debtor in Lima, mapping family holding companies and offshore vehicles from lawful records and open sources, to support enforcement and precautionary measures pursued by Peruvian counsel."
+    },
+    {
+      "title": "Port and supply chain checks",
+      "text": "Screening of importers, exporters, freight forwarders and logistics companies connected to cargo moving through Callao and the new Chancay port, testing ownership, related parties, adverse media and litigation to support trade finance, supplier onboarding and cargo or customs fraud inquiries."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Courts sitting in Lima",
+      "text": "Most significant commercial litigation in Peru is heard in Lima, where the Superior Court of Justice of Lima has a commercial sub-speciality for many commercial matters, including annulment of arbitral awards seated in the city, and the Supreme Court sits. Specialised anticorruption and organised crime courts handling major cases, including those arising from Lava Jato, also operate in the capital, and their published decisions are useful sources."
+    },
+    {
+      "title": "Lima arbitration centre",
+      "text": "The National and International Arbitration Centre of the Lima Chamber of Commerce is Peru's leading arbitral institution. Amendments to its rules took effect on 1 March 2025; they provide for an emergency arbitrator, require arbitrators to sign declarations of independence and impartiality with continuing disclosure duties, and keep proceedings involving the State confidential until the award, which is then published. Many State contract disputes are arbitrated in Lima."
+    },
+    {
+      "title": "Lava Jato and arbitration",
+      "text": "In February 2019 Lava Jato prosecutors searched properties of arbitrators and former transport ministry officials suspected of favouring Odebrecht in arbitral awards that led to large payments by the Peruvian State, alleging bribery and money laundering. The case reshaped scrutiny of arbitrator appointments and disclosures in Lima and remains relevant context when assessing State-related disputes and their participants. Current case status is confirmed before reliance."
+    },
+    {
+      "title": "Registries, regulators and Callao",
+      "text": "Lima hosts the head offices of Peru's public registries, tax authority, securities and banking regulators and procurement supervisor, whose published sanctions and records support due diligence. Callao is a separate constitutional province with its own courts and authorities, so matters involving the port or airport may fall outside Lima's judicial district, and Chancay lies in the Lima region's Huaral province."
+    }
+  ],
+  "tdsc_approach": "For matters touching Lima, TDSC first identifies the forum and counterparty profile: a commercial claim before the Superior Court of Justice of Lima, an arbitration under the Lima Chamber of Commerce or another institution, a State contract or concession, or enforcement against assets in the capital. That shapes which records counsel can obtain, how findings are documented. Research draws on public registry information obtained through proper channels, regulator and procurement publications, published judgments and anticorruption case reporting and Peruvian media, reviewed under Peru's personal data protection law. Where field inquiries are needed, TDSC coordinates appropriately authorised Peruvian professionals and works with the client's Peruvian counsel. TDSC has no office in Lima.",
+  "faqs": [
+    {
+      "q": "Can TDSC support an arbitration administered by the Lima Chamber of Commerce?",
+      "a": "Yes, as a consultant to counsel. TDSC can research counterparties, witnesses and experts, identify assets relevant to enforcement and review public information relevant to conflicts and disclosures. The centre's 2025 rule amendments strengthened disclosure duties and keep State cases confidential until the award, so counsel decides what can be raised and when."
+    },
+    {
+      "q": "Why does Lava Jato still matter for disputes in Lima?",
+      "a": "Prosecutions arising from Lava Jato alleged that some arbitrators and officials were paid to favour Odebrecht in awards against the Peruvian State. The cases increased scrutiny of arbitrator independence and of State contracting. TDSC reviews published case information and media when assessing counterparties and participants, without access to sealed prosecutorial files."
+    },
+    {
+      "q": "Does a matter involving Callao or Chancay fall under Lima?",
+      "a": "Not necessarily. Callao is a separate constitutional province with its own courts and authorities, and Chancay is in Huaral province, outside Metropolitan Lima. Many companies operating at those ports are nevertheless headquartered in Lima. TDSC maps where entities are registered and operate so counsel can identify the right forum and records."
+    },
+    {
+      "q": "How does TDSC find assets held in Lima?",
+      "a": "TDSC maps companies, directorships and related parties from registry information and open sources and builds a picture of likely real estate and holding structures, including family and offshore vehicles. Formal property and registry certificates are obtained through counsel or official channels. Together these support enforcement strategy developed by Peruvian lawyers."
+    },
+    {
+      "q": "Does TDSC have an office or investigators in Lima?",
+      "a": "No. TDSC has no office, staff or address in Lima or elsewhere in Peru. Engagements are run from Nashville. Where a matter needs local inquiries, TDSC coordinates independent professionals authorised under Peruvian law and works with the client's Peruvian counsel within an agreed written scope."
+    }
+  ],
+  "sources": [
+    {
+      "title": "INEI, Lima Metropolitana: poblacion proyectada segun distritos 1995-2025",
+      "url": "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib0012/N53/anexo031.htm"
+    },
+    {
+      "title": "Andina, BCR: Chancay port could contribute 0.9 points of GDP in 2025",
+      "url": "https://andina.pe/ingles/noticia-bcr-puerto-chancay-contribuiria-09-puntos-del-pbi-el-2025-1001377.aspx"
+    },
+    {
+      "title": "Camara de Comercio de Lima, Reglamento de Arbitraje (2025)",
+      "url": "https://www.arbitrajeccl.com.pe/wp-content/uploads/2025/11/WEB-REGLAMENTO-DE-ARBITRAJE.pdf"
+    },
+    {
+      "title": "El Comercio, searches of arbitrators investigated in the Odebrecht case (February 2019)",
+      "url": "https://elcomercio.pe/politica/allanan-inmuebles-arbitros-investigados-caso-odebrecht-noticia-604825"
+    },
+    {
+      "title": "Global Arbitration Review, Lima Chamber of Commerce",
+      "url": "https://globalarbitrationreview.com/organisations/lima-chamber-of-commerce?page=2"
+    },
+    {
+      "title": "Congreso de la Republica, Lima Metropolitana regional profile",
+      "url": "https://www.congreso.gob.pe/Docs/comisiones2024/Presupuesto/files/pagina_web/regiones/lima_metropolitana/lima_metropolitana_-_16.01.pdf"
+    }
+  ],
+  "review_flags": [
+    "Population is an INEI projection (10,285,076 for 2025, excluding Callao) from an older projection series; check for updated INEI estimates. 'Roughly three in ten Peruvians' derived against World Bank 34.6 million in the PE country page.",
+    "Chancay opening (expected November 2024) and 0.9-point GDP estimate are BCR projections reported by Andina before opening; confirm actual operations.",
+    "Not verified from an opened source: Callao airport/port, Bolsa de Valores de Lima and regulator head offices, specialised anticorruption courts in Lima, Superior Court of Lima commercial sub-speciality handling award annulments, Callao as separate judicial district, Chancay in Huaral province (Andina confirms Huaral).",
+    "Lava Jato arbitrator case described from a 2019 report (preliminary stage); later developments (accusations, outcomes) not checked. No named individuals included."
+  ],
+  "researched": "2026-11-04"
+}

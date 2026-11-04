@@ -1,0 +1,57 @@
+{
+  "slug": "los-angeles-us",
+  "name": "Los Angeles",
+  "cc": "US",
+  "meta_description": "TDSC investigative consulting in matters touching Los Angeles: entertainment and media diligence, port and trade disputes, and litigation fact support.",
+  "eyebrow": "Los Angeles County, California",
+  "hero_lede": "Investigative consulting for matters touching Los Angeles, scoped from Nashville: diligence on entertainment, media and real estate counterparties, research into importers and logistics firms around the San Pedro Bay ports, and factual support for counsel in Los Angeles litigation, conducted within California's demanding privacy and recording rules.",
+  "intro": [
+    "Los Angeles County is the most populous county in the United States, with an estimated 9,757,179 residents in July 2024, and its economy produced about $712 billion in 2023, larger than that of most countries. The region combines the world's leading film, television and streaming industry with aerospace and defence, apparel and textile manufacturing, biomedical research, hospitality and tourism. The adjacent ports of Los Angeles and Long Beach together handled more than 16 million TEU in 2023 and carry about a third of US container trade. One third of residents were born abroad, and the Los Angeles consular corps, with 97 consulates, is among the largest in the world.",
+    "Organisations commission investigative work connected to Los Angeles because of the deals, assets and disputes the region generates. Studios, financiers and brands need background research on producers, talent-side intermediaries and media investors before committing money or reputation. Importers, lenders and insurers exposed to goods moving through the San Pedro Bay ports face supplier, cargo and trade-finance risk. Real estate investors want to know who stands behind entities buying and selling high-value property. Employers in the region deal with trade secret departures and misconduct inquiries. Because Los Angeles is a heavily litigated jurisdiction, counsel frequently need disciplined fact-finding that will stand up to scrutiny in California courts."
+  ],
+  "economy": [
+    {"label": "Population", "value": "9,757,179, Los Angeles County (July 2024, US Census Bureau)"},
+    {"label": "Economic output", "value": "About $712 billion GDP, Los Angeles County (2023)"},
+    {"label": "Key sectors", "value": "Entertainment and media, aerospace and defence, trade and logistics, apparel, biomedical, hospitality and tourism"},
+    {"label": "Ports", "value": "Port of Los Angeles 8.63 million TEU and Port of Long Beach 8.02 million TEU (2023)"},
+    {"label": "Airport", "value": "Los Angeles International (LAX)"},
+    {"label": "Time zone", "value": "America/Los_Angeles (UTC-8, UTC-7 in summer)"},
+    {"label": "Languages of business", "value": "English; Spanish widely spoken, and over half of residents speak another language at home"}
+  ],
+  "matters": [
+    {"title": "Entertainment and media counterparty diligence", "text": "Background research on producers, production companies, financiers and investors in film, television, streaming and music projects, covering corporate history, prior litigation, judgments, liens and reputation, so studios, lenders and brands understand who they are funding or partnering with before money moves."},
+    {"title": "Importer and logistics research", "text": "Research on importers, freight forwarders, customs brokers and warehouse operators connected to the ports of Los Angeles and Long Beach, including corporate filings, litigation, UCC filings and trade data, to support lenders, insurers and buyers assessing supplier, cargo or trade-finance risk."},
+    {"title": "Real estate ownership tracing", "text": "Identifying the individuals and entities behind limited liability companies and trusts holding Los Angeles County property, using recorded documents, assessor information, corporate filings and court records, for investors, lenders and counsel concerned with counterparty identity, fraud or asset recovery."},
+    {"title": "Trade secret and departing employee matters", "text": "Supporting counsel where technology, aerospace or media employees leave for competitors, with lawful background research on the new employer and related entities and on public activity relevant to alleged misappropriation, while forensic and legal steps remain with counsel and qualified experts."},
+    {"title": "Litigation and judgment enforcement support", "text": "Assembling factual records for counsel in Los Angeles state and federal litigation, including witness location, background on opposing parties, prior case histories and asset research from public records to inform settlement strategy and judgment enforcement."}
+  ],
+  "local_context": [
+    {"title": "Los Angeles courts", "text": "The Superior Court of California, County of Los Angeles, is the trial court for state matters across the county and handles a very large civil docket, including complex litigation. Federal cases are heard by the US District Court for the Central District of California, headquartered in downtown Los Angeles. Tentative rulings and case indexes are widely available, making docket research a core part of understanding a Los Angeles counterparty's litigation history."},
+    {"title": "California investigator licensing", "text": "Private investigators working in California must be licensed by the Bureau of Security and Investigative Services under the Private Investigator Act in the Business and Professions Code. Conviction of a crime substantially related to the duties of an investigator can lead to suspension or revocation of a licence. Any field work in Los Angeles is therefore carried out by California-licensed investigators engaged for the matter."},
+    {"title": "Recording and privacy rules", "text": "California is an all-party consent state. Penal Code section 632 makes it a crime to record or eavesdrop on a confidential communication without the consent of all parties, with civil damages of at least $5,000 per violation, and evidence obtained in breach is generally inadmissible. Section 632.7 covers cellular and cordless calls. The California Invasion of Privacy Act has generated extensive class action litigation in Los Angeles courts, and the California Consumer Privacy Act adds obligations for businesses handling personal information."},
+    {"title": "Port of Los Angeles and Long Beach", "text": "The San Pedro Bay port complex, made up of the separately governed ports of Los Angeles and Long Beach, is the largest container gateway in the United States, together handling over 16.6 million TEU in 2023. Shipping, warehousing and transloading activity is spread across the South Bay and the Inland Empire, so research on logistics counterparties often extends beyond Los Angeles County into neighbouring counties."}
+  ],
+  "tdsc_approach": "For matters touching Los Angeles, TDSC begins with the client's decision, whether to fund a production, extend credit to an importer, acquire property or pursue a claim, and then identifies the relevant county records, state and federal dockets, corporate filings and trade sources. Desk research is conducted from Nashville. Any surveillance, interviews or other field work in California is performed by investigators licensed by the Bureau of Security and Investigative Services and coordinated with the client's counsel. California's all-party recording rule is treated as a firm limit, and personal information is collected only as the purpose requires and handled in line with California privacy law.",
+  "faqs": [
+    {"q": "Can you research a film or streaming project's financiers?", "a": "Yes. We research the companies and individuals providing or arranging finance, including corporate history, prior productions, litigation, judgments, liens and reputation. We look for undisclosed related parties and sources of funds that raise reputational or legal concerns. Findings are reported factually so that legal and finance teams can decide how to proceed."},
+    {"q": "How do you identify who owns a Los Angeles property held by an LLC?", "a": "We combine recorded documents, assessor data, California and out-of-state entity filings, UCC records and litigation to trace managers, members and agents. California and Delaware disclosure is limited, so the trail sometimes stops at a registered agent or trust. Where that happens we say so and explain what further legal steps, such as discovery, could establish."},
+    {"q": "Can you record interviews with witnesses in Los Angeles?", "a": "Only with the consent of everyone being recorded. California Penal Code section 632 requires all-party consent for confidential communications, and violations carry criminal and civil liability. Interviews are conducted by licensed investigators or counsel, and consent to any recording is obtained and documented in advance."},
+    {"q": "Do you help with matters involving the San Pedro Bay ports?", "a": "Yes, on the desk research side. We look into importers, forwarders, brokers and warehouse operators, using corporate filings, trade data, UCC filings and litigation. We do not access carrier, terminal or customs systems; questions requiring such records are pursued by counsel through subpoena or other legal process."},
+    {"q": "Is TDSC licensed in California?", "a": "TDSC is based in Nashville and has no office in Los Angeles. Field investigative work in California is performed by investigators licensed by the Bureau of Security and Investigative Services, engaged and coordinated for the specific matter, often alongside the client's counsel. We do not use pretexting or obtain protected financial, telephone or motor vehicle records."}
+  ],
+  "sources": [
+    {"title": "US Census Bureau QuickFacts: Los Angeles County, California", "url": "https://www.census.gov/quickfacts/table/PST045224/06037"},
+    {"title": "LAEDC: The LA Advantage 2024 (PDF)", "url": "https://laedc.org/wpcms/wp-content/uploads/2024/04/The-LA-Advantage-2024-1.pdf"},
+    {"title": "LAEDC: Industry Clusters Study (2024)", "url": "https://laedc.org/download/industry-clusters-study-2024/"},
+    {"title": "California PI study guide: Audio recording, wiretapping and eavesdropping (Penal Code 632, 632.7)", "url": "https://open-exam-prep.com/study-guides/ca-private-investigator/california-privacy-statutory-restrictions/audio-recording-wiretapping-eavesdropping"},
+    {"title": "California Lawyers Association: Updates in privacy litigation", "url": "https://calawyers.org/privacy-law/updates-in-privacy-litigation-an-overview-of-another-year-of-explosive-growth/"},
+    {"title": "Beverly Hills Bar Association: Eavesdropping, consent and Penal Code 632", "url": "https://bhba.org/cle/eavesdropping-consent-and-the-law-what-every-attorney-needs-to-know-about-pen/"}
+  ],
+  "review_flags": [
+    "Port TEU figures are 2023 (from LAEDC 2024 report); 2024/2025 figures not checked. LAX passenger figures in source were inconsistent, so omitted.",
+    "LA Superior Court as county trial court and Central District of California headquartered in LA stated from general knowledge; not confirmed in a source opened.",
+    "BSIS/Private Investigator Act licensing statement relies on country page and a non-official PI exam study guide; verify against bsis.ca.gov.",
+    "CCPA mention and CIPA class-action trend from search-result titles (calawyers.org, bhba.org) not opened."
+  ],
+  "researched": "2026-11-04"
+}

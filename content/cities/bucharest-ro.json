@@ -1,0 +1,146 @@
+{
+  "slug": "bucharest-ro",
+  "name": "Bucharest",
+  "cc": "RO",
+  "meta_description": "TDSC investigative consulting in matters touching Bucharest: due diligence, procurement and corruption risk research, asset tracing and arbitration support.",
+  "eyebrow": "Bucharest, Romania",
+  "hero_lede": "Investigative consulting for matters that run through Bucharest: Romanian groups and multinational subsidiaries headquartered in the capital, public procurement and EU-funded contracts, disputes before Bucharest courts and arbitration institutions, and real estate and holding structures in the city. Scoped from Nashville with qualified Romanian professionals.",
+  "intro": [
+    "Bucharest is Romania's capital and its dominant business centre. The 2022 census counted about 1.72 million residents in the municipality, while the National Institute of Statistics recorded more than 2.1 million people domiciled there in July 2025, close to a tenth of the national total. More than 1.1 million employees worked in the city in late 2025. The capital concentrates head offices of banks, insurers, energy, telecommunications and retail groups, a large information technology and business services sector, and the Bucharest Stock Exchange. It also hosts the national courts, ministries and central agencies, which makes it the centre of public contracting and of the government programmes that distribute EU and national funds.",
+    "Organisations commission investigative work connected to Bucharest because most significant Romanian transactions, disputes and public contracts are decided there. Typical triggers include due diligence on Romanian acquisition targets, joint venture partners and distributors, background research on executives and politically connected shareholders, and support to counsel in commercial, construction and shareholder disputes before Bucharest courts or arbitration institutions. Public procurement, infrastructure and EU-funded projects carry corruption and conflict-of-interest risk, and matters can intersect with investigations by national anticorruption prosecutors. Real estate in the capital, and the companies and intermediaries that hold it, is often central to asset tracing and enforcement, while the large IT services sector raises questions about subcontracting chains and employee misconduct."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "1,716,961 (2022 census); 2,113,039 domiciled (INS, 1 July 2025)"
+    },
+    {
+      "label": "Employees",
+      "value": "Over 1.11 million (end-October 2025)"
+    },
+    {
+      "label": "Key sectors",
+      "value": "IT and communications, finance and insurance, energy, construction, retail, public administration"
+    },
+    {
+      "label": "Capital market",
+      "value": "Bucharest Stock Exchange"
+    },
+    {
+      "label": "Arbitration",
+      "value": "CCIR Court of International Commercial Arbitration; Bucharest International Arbitration Court"
+    },
+    {
+      "label": "Registry",
+      "value": "National Trade Register Office (ONRC) headquarters"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Bucharest, UTC+2 (UTC+3 in summer)"
+    },
+    {
+      "label": "Business languages",
+      "value": "Romanian; English widely used in multinationals and IT"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Due diligence on Bucharest companies",
+      "text": "Ownership, management, litigation and insolvency history of Romanian companies and their principals, built from trade register records, the insolvency bulletin, court case portals and Romanian media, to support acquisitions, joint ventures, lending and distribution agreements involving businesses headquartered in the capital."
+    },
+    {
+      "title": "Procurement and EU funds risk",
+      "text": "Screening of bidders, consortium partners, subcontractors and consultants on contracts awarded by ministries, central agencies and Bucharest municipal bodies, including EU-funded projects, with attention to beneficial ownership, conflicts of interest, links to politically exposed persons and prior exclusions."
+    },
+    {
+      "title": "Anticorruption investigation support",
+      "text": "Support to counsel where a client, partner or employee may be connected to bribery, influence peddling or misuse of public funds, including review of published prosecutorial communications and court decisions, and fact development scoped to respect Romanian data protection, labour and criminal procedure rules."
+    },
+    {
+      "title": "Asset tracing in the capital",
+      "text": "Identification of companies, real estate and business interests in Bucharest connected to a judgment or award debtor, combining trade register filings, information obtained through counsel from land registry procedures and open sources, to support enforcement and precautionary measures before Romanian courts."
+    },
+    {
+      "title": "IT services and employee misconduct",
+      "text": "Inquiries into suspected fraud, conflicts of interest, intellectual property leakage or undisclosed side businesses among staff and contractors of Bucharest technology and shared services centres, mapping related companies and subcontracting chains while respecting employee privacy rules."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Courts sitting in Bucharest",
+      "text": "Commercial and civil disputes in the capital are heard by the district courts of Bucharest's six sectors, the Bucharest Tribunal and the Bucharest Court of Appeal, and the High Court of Cassation and Justice, Romania's supreme court, also sits in the city. The volume of significant litigation concentrated here makes the court portal and published decisions important sources, though case details visible online are limited."
+    },
+    {
+      "title": "Arbitration institutions",
+      "text": "The Court of International Commercial Arbitration attached to the Chamber of Commerce and Industry of Romania (CCIR) was created in Bucharest in 1953 and reorganised by Law 335/2007 as a permanent institution for domestic and international arbitration; it reports settling more than 3,000 disputes, over 700 international, in the decade after EU accession. The Bucharest International Arbitration Court, launched in 2016 under the auspices of AmCham Romania, offers rules drawn from international practice."
+    },
+    {
+      "title": "Trade register and chambers",
+      "text": "The National Trade Register Office (ONRC) has its headquarters in Bucharest, alongside the trade register office for the municipality, where many of Romania's largest companies are registered. The Chamber of Commerce and Industry of Romania and the Bucharest Chamber of Commerce and Industry are both based in the city and run arbitration and business services useful in counterparty research. Registry extracts are obtained through official ONRC channels."
+    },
+    {
+      "title": "Central regulators and prosecutors",
+      "text": "As the capital, Bucharest hosts national authorities relevant to investigations, including the financial supervisory authority, the competition authority, the public procurement agency and the National Anticorruption Directorate, whose central structure is in the city. Their published decisions, registers of authorised entities, sanctions and press releases are lawful sources for background research; investigation files are not public. Supervisory and prosecutorial records are accessed only through lawful procedures."
+    }
+  ],
+  "tdsc_approach": "For matters touching Bucharest, TDSC first establishes the forum and the stakes: a dispute before the Bucharest Tribunal or Court of Appeal, an arbitration under the CCIR or another institution, a procurement or EU-funded project, or enforcement against assets in the capital. That shapes which records counsel can obtain and how findings must be documented. Research draws on trade register filings, the insolvency bulletin, court portals, procurement publications, regulator decisions and Romanian-language media, reviewed under the GDPR and Romanian data protection law. Land registry information is obtained through counsel or proper procedures. Where interviews or field inquiries are required, TDSC coordinates professionals authorised under Romanian law and works with the client's Romanian counsel. TDSC has no office in Bucharest.",
+  "faqs": [
+    {
+      "q": "Can TDSC support an arbitration administered in Bucharest?",
+      "a": "Yes, as a consultant to counsel. TDSC can research counterparties, profile witnesses and experts and identify assets relevant to enforcement in arbitrations before the CCIR Court of International Commercial Arbitration, the Bucharest International Arbitration Court or ad hoc tribunals. Counsel and the tribunal decide how material is used, and TDSC documents its sources for later review."
+    },
+    {
+      "q": "How does TDSC assess corruption risk on a Bucharest public contract?",
+      "a": "TDSC reviews the ownership and management of bidders and partners, links to public officials or politically exposed persons, prior exclusions, litigation and published anticorruption cases, and media coverage in Romanian. Findings are presented as risk indicators to support compliance and contracting decisions. TDSC does not give legal advice or access non-public investigation files."
+    },
+    {
+      "q": "Why does a company's Bucharest address not always tell the full story?",
+      "a": "Many Romanian companies are registered in the capital while operating elsewhere, and official domicile figures for Bucharest exceed census residents by several hundred thousand. TDSC therefore checks registered offices, operating sites, related companies and online footprint together, rather than relying on the registered address to understand where a business actually operates."
+    },
+    {
+      "q": "Can TDSC look into staff misconduct at a Bucharest IT centre?",
+      "a": "Yes, within Romanian and EU rules. TDSC can map undisclosed companies, related-party suppliers and conflicts of interest using public records and open sources, and support counsel in planning interviews and document review. Monitoring of employees and review of their communications must have a lawful basis, which the client's Romanian counsel confirms before work begins."
+    },
+    {
+      "q": "Does TDSC have an office or investigators in Bucharest?",
+      "a": "No. TDSC has no office, staff or address in Bucharest or elsewhere in Romania. Engagements are run from Nashville. Where a matter needs local inquiries, TDSC coordinates independent professionals authorised under Romanian law and works with the client's Romanian counsel within an agreed written scope."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bucharest.ro, Bucharest's population over a century (citing 2022 census and INS, October 2025)",
+      "url": "https://www.bucharest.ro/articles/bucharest-s-population-the-city-that-gained-a-million-people-in-a-century-and-lost-them-in-a-few-decades-1381"
+    },
+    {
+      "title": "Bucharest.ro, The labor market in Bucharest in 2025",
+      "url": "https://www.bucharest.ro/articles/the-labor-market-in-bucharest-in-2025-growth-sectors-and-average-salaries-741"
+    },
+    {
+      "title": "Stiri pe surse, Over 1.11 million employees in Bucharest as of end-October 2025",
+      "url": "https://www.stiripesurse.ro/over-111-million-employees-in-bucharest-as-of-end-october-2025_3848421"
+    },
+    {
+      "title": "Global Arbitration Review, The Court of International Commercial Arbitration (CCIR)",
+      "url": "https://globalarbitrationreview.com/survey/the-guide-regional-arbitration/2022/organization-profile/the-court-of-international-commercial-arbitration-ccir"
+    },
+    {
+      "title": "Avocatnet, Curtea de Arbitraj International Bucuresti launched",
+      "url": "https://www.avocatnet.ro/articol_44234/S-a-lansat-oficial-Curtea-de-Arbitraj-Interna%C8%9Bional-Bucure%C8%99ti.html"
+    },
+    {
+      "title": "ONRC, headquarters contact",
+      "url": "https://onrc.ro/index.php/en/contact-4/sediul-central"
+    },
+    {
+      "title": "Romania Insider, Bucharest Stock Exchange below other regional markets as share of GDP",
+      "url": "https://www.romania-insider.com/bucharest-stock-exchange-below-other-regional-markets-share-gdp-despite-more-listed-companies"
+    }
+  ],
+  "review_flags": [
+    "Population: 2022 census (1,716,961) and INS domiciled figure (2,113,039, July 2025) relayed via bucharest.ro, not opened directly from INS; no World Bank city figure.",
+    "Employee count (1.11 million, end-October 2025) and ONRC headquarters taken from search result titles only (not opened).",
+    "Not verified from an opened source: Bucharest court structure (sector courts, Tribunal, Court of Appeal, High Court), ASF/Competition Council/ANAP/DNA central seats, Bucharest Chamber of Commerce arbitration court; no city GDP share figure found.",
+    "BIAC (2016) status sourced to a 2016 article; confirm it is still active."
+  ],
+  "researched": "2026-11-04"
+}

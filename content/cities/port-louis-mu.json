@@ -1,0 +1,58 @@
+{
+  "slug": "port-louis-mu",
+  "name": "Port Louis",
+  "cc": "MU",
+  "meta_description": "TDSC investigative consulting in matters touching Port Louis: arbitration support, ownership research on Mauritius entities and cross-border asset tracing.",
+  "eyebrow": "Port Louis, Republic of Mauritius",
+  "hero_lede": "Investigative consulting for matters touching Port Louis, scoped from Nashville: factual support for counsel in arbitrations administered by MIAC and MARC and in Supreme Court proceedings, research behind Mauritius holding and fund structures, and asset tracing for disputes with Africa- and India-facing investment vehicles.",
+  "intro": [
+    "Port Louis is the capital of Mauritius and the country's financial and political centre. The city had 140,403 residents in the 2022 census, a modest figure that understates its role: it hosts the Bank of Mauritius, the Stock Exchange of Mauritius and the country's main harbour, one of the largest port facilities in the Indian Ocean region. The Supreme Court, the government and the principal law and professional services firms are concentrated in or near the city, and two arbitration institutions, MIAC and MARC, are based there. Together with the nearby business district of Ebene, Port Louis serves an international financial centre used to structure investment into Africa and India.",
+    "Organisations commission investigative work connected to Port Louis because so many cross-border investments pass through Mauritius companies and funds whose real owners and operations sit elsewhere. Investors, lenders and joint-venture partners need to know who controls a Mauritius holding company and whether it has substance. When deals fail, disputes often come before the Supreme Court in Port Louis or are arbitrated under MIAC or MARC rules, and counsel need well-sourced facts on the parties and their assets across several jurisdictions. Trade through the port, fund disputes and allegations of fraud or misappropriation by promoters and managers are other common reasons for enquiries."
+  ],
+  "economy": [
+    {"label": "Population", "value": "140,403 (2022 census)"},
+    {"label": "Role", "value": "Capital; financial, political and port centre of Mauritius"},
+    {"label": "Key sectors", "value": "Financial and global business services, banking, port and logistics, trade, tourism and retail"},
+    {"label": "Exchange", "value": "Stock Exchange of Mauritius"},
+    {"label": "Central bank", "value": "Bank of Mauritius"},
+    {"label": "Port", "value": "Port Louis harbour, the country's main port"},
+    {"label": "Time zone", "value": "Indian/Mauritius (UTC+4, no daylight saving)"},
+    {"label": "Languages of business", "value": "English and French; Mauritian Creole widely spoken"}
+  ],
+  "matters": [
+    {"title": "Holding company ownership research", "text": "Identifying who stands behind Mauritius holding companies and funds used to invest into Africa or India, by combining Registrar of Companies records, Stock Exchange of Mauritius disclosures, Supreme Court judgments and foreign registries, recognising that the beneficial ownership register is not public and that nominee directors are common."},
+    {"title": "MIAC and MARC arbitration support", "text": "Assembling factual material for counsel in arbitrations administered by MIAC or MARC or seated in Mauritius, including the opposing party's group structure, related companies, management, prior disputes and assets that could matter for interim relief or later enforcement in Mauritius or abroad."},
+    {"title": "Cross-border asset tracing", "text": "Tracing assets held through Port Louis structures for creditors and award holders, following funds and shareholdings from Mauritius vehicles into operating companies in Africa, India or elsewhere, and identifying jurisdictions where recognition and enforcement may be practical."},
+    {"title": "Fund and promoter disputes", "text": "Background and litigation research on fund managers, promoters and directors of Mauritius-domiciled funds and investment vehicles when investors suspect mismanagement, conflicts of interest or misappropriation, supporting counsel deciding whether to pursue claims before the Supreme Court or in arbitration."},
+    {"title": "Substance and counterparty checks", "text": "Testing whether a Port Louis-registered counterparty has the office, staff, directors and activity it claims, or is administered entirely by a management company, before contracts, financing or acquisitions, and screening its owners and intermediaries for sanctions, adverse media and political exposure."}
+  ],
+  "local_context": [
+    {"title": "Supreme Court and Designated Judges", "text": "The Supreme Court of Mauritius hears major commercial disputes and all applications under the International Arbitration Act 2008. Those applications go to a panel of three drawn from six Designated Judges appointed by the Chief Justice, and appeals from their final decisions lie to the Privy Council. Recent decisions have granted interim relief before a tribunal was formed and ordered security while awards were appealed, which matters for asset preservation strategy."},
+    {"title": "MIAC", "text": "The Mauritius International Arbitration Centre, based in Port Louis, was established in 2011 as a joint venture with the London Court of International Arbitration and has been independent since 2018. It administers cases under its MIAC Arbitration Rules 2018, based on the 2010 UNCITRAL Rules. The Secretary-General of the Permanent Court of Arbitration, which maintains an office in Mauritius, acts as appointing authority under the MIAC Rules."},
+    {"title": "MARC and the Chamber of Commerce", "text": "The Mediation and Arbitration Center Mauritius, also based in Port Louis, was set up in 1996 as an initiative of the Mauritius Chamber of Commerce and Industry and has been an independent company since 2020. It administered 37 Mauritius-seated arbitrations between 2014 and 2024. Those published statistics give a sense of the modest scale of institutional arbitration seated on the island, and its rules are adapted for international cases."},
+    {"title": "Port Louis financial institutions", "text": "The Bank of Mauritius and the Stock Exchange of Mauritius are located in Port Louis, and listed issuers' announcements and annual reports are among the most detailed public sources on large Mauritian groups. Global business companies must specify Mauritius as the seat of arbitration in their constitutions, so many disputes involving such entities end up being resolved under Mauritian supervisory law."}
+  ],
+  "tdsc_approach": "For matters touching Port Louis, TDSC first defines what the client needs to know, such as who controls a Mauritius vehicle, where its assets have gone, or what facts will support an arbitration or Supreme Court application, and then maps the Mauritian and foreign records that can answer it. Research is conducted from Nashville using registry searches, Stock Exchange of Mauritius disclosures, published Supreme Court judgments and records in the jurisdictions where underlying assets sit. Fuller registry information or court documents are obtained through Mauritian counsel where appropriate, and any on-island enquiries are coordinated with qualified local professionals. Personal data is handled with the Data Protection Act 2017 in mind.",
+  "faqs": [
+    {"q": "Can you identify the beneficial owner of a Port Louis company?", "a": "Often, but not from a single register. The Mauritian beneficial ownership register is not public, so we combine Registrar of Companies information, filings released on request, listed company disclosures, court judgments and foreign registries in the jurisdictions where the group operates. Where ownership cannot be established from lawful sources, counsel can consider disclosure through the Supreme Court."},
+    {"q": "How do you support a MIAC or MARC arbitration?", "a": "We provide counsel with factual research on the opposing party, its group structure, directors, assets and dispute history in Mauritius and abroad. That material can support interim relief applications before the Designated Judges or enforcement planning after an award. We do not act as party representatives or experts on Mauritian law."},
+    {"q": "Are Mauritius Supreme Court judgments useful for due diligence?", "a": "Yes. Judgments are published and frequently reveal shareholder disputes, insolvency, fund conflicts and arbitration-related applications involving Mauritius entities and their directors. We search them alongside foreign court records, since disputes about a Port Louis vehicle are often litigated where its operating assets or investors are located."},
+    {"q": "How do you test whether a Mauritius entity has real substance?", "a": "We look at its registered office, directors, staff, filings and public footprint, check whether it is administered by a management company, and compare its stated activities with evidence elsewhere. Where a visit or local enquiry is justified, we arrange it through qualified local professionals working lawfully, with Mauritian counsel advising on permitted methods."},
+    {"q": "Does TDSC have an office in Port Louis?", "a": "No. TDSC is based in Nashville and has no office or staff in Port Louis or elsewhere in Mauritius. Most of our work is desk-based research across several jurisdictions. Where on-island steps are needed, we coordinate with qualified local professionals and the client's Mauritian counsel."}
+  ],
+  "sources": [
+    {"title": "Wikipedia: Port Louis", "url": "https://en.wikipedia.org/wiki/Port_Louis"},
+    {"title": "City Population: Port Louis (Central Statistical Office census data)", "url": "https://citypopulation.de/en/mauritius/admin/111x__port_louis/"},
+    {"title": "Chambers Practice Guides: International Arbitration 2026, Mauritius, Trends and Developments", "url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2026/mauritius/trends-and-developments"},
+    {"title": "Aceris Law: International Arbitration in Mauritius", "url": "https://www.acerislaw.com/international-arbitration-in-mauritius/"},
+    {"title": "Mondaq: International arbitration in Mauritius", "url": "https://www.mondaq.com/trials-appeals-compensation/1664762/international-arbitration-in-mauritius"},
+    {"title": "Chambers Practice Guides: International Arbitration 2026, Mauritius", "url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2026/mauritius"}
+  ],
+  "review_flags": [
+    "Population 140,403 (2022 census) comes via City Population citing the Central Statistical Office, not a Statistics Mauritius page; it includes Pailles.",
+    "Supreme Court sitting in Port Louis, Ebene as nearby business district, and port being the country's main port are from general knowledge/Wikipedia; Wikipedia's 'largest port facility in the Indian Ocean region' claim not used verbatim.",
+    "No freeport details were verified; freeport omitted. Mondaq and Chambers main-page sources seen in search results only.",
+    "Beneficial ownership register not public and Data Protection Act 2017 rely on the MU country file."
+  ],
+  "researched": "2026-11-04"
+}

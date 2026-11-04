@@ -1,0 +1,137 @@
+{
+  "slug": "copenhagen-dk",
+  "name": "Copenhagen",
+  "cc": "DK",
+  "meta_description": "TDSC investigative consulting in matters touching Copenhagen: shipping and life sciences counterparties, CVR ownership research and commercial court context.",
+  "eyebrow": "Capital of Denmark",
+  "hero_lede": "Copenhagen is where Denmark's largest shipping, life sciences, energy and financial groups are run and where its specialised commercial court sits. Matters touching the city usually involve transparent public registers and strict data protection rules, and TDSC scopes research to work within both.",
+  "intro": [
+    "Copenhagen is the capital of Denmark and the centre of its commercial, financial and political life. The City of Copenhagen's statistics bank estimated the municipality's population at 667,124 at the start of 2025, within a wider metropolitan area that spans the Capital Region and reaches across the Øresund to southern Sweden. The city and its surroundings host the headquarters of global shipping and logistics groups, a dense life sciences cluster built around pharmaceutical, biotech and medical device companies, renewable energy developers, and Nasdaq Copenhagen, the country's stock exchange. Most of Denmark's national institutions, including the Supreme Court, the Eastern High Court and the Danish Financial Supervisory Authority, are based there.",
+    "Organisations commission investigative work connected to Copenhagen for reasons that reflect the city's industries. Shipping and logistics groups and their counterparties face questions about charterers, brokers, vessel ownership and trade compliance. Life sciences companies license technology, acquire biotech start-ups and appoint distributors whose backgrounds need checking. Energy developers and their investors take on partners and suppliers across many jurisdictions. Denmark's public company register is among the most open in Europe, so the challenge is usually not access but interpretation: understanding layered holding structures, foundation ownership and foreign parents, and handling personal data within the GDPR and Danish law."
+  ],
+  "economy": [
+    {
+      "label": "Population",
+      "value": "667,124 (Copenhagen municipality, 1 January 2025 estimate, City of Copenhagen statistics)"
+    },
+    {
+      "label": "Metro area",
+      "value": "Capital Region of Denmark, linked by the Øresund Bridge to Malmö and Skåne"
+    },
+    {
+      "label": "Key sectors",
+      "value": "Shipping and logistics, life sciences, renewable energy, financial services, design, tourism"
+    },
+    {
+      "label": "Exchange and regulator",
+      "value": "Nasdaq Copenhagen; Danish Financial Supervisory Authority (Finanstilsynet)"
+    },
+    {
+      "label": "Air and port hub",
+      "value": "Copenhagen Airport (Kastrup), Scandinavia's largest air hub; Port of Copenhagen"
+    },
+    {
+      "label": "Time zone",
+      "value": "Europe/Copenhagen, UTC+1 (UTC+2 in summer)"
+    },
+    {
+      "label": "Languages of business",
+      "value": "Danish (courts, registers) and English (widely used in business)"
+    }
+  ],
+  "matters": [
+    {
+      "title": "Shipping counterparty and vessel research",
+      "text": "Reviewing charterers, brokers, ship managers and buyers dealing with Copenhagen-based shipping groups, including ownership chains, related vessels, sanctions exposure, litigation and reputation, in a sector where single-ship companies and flag changes can obscure who ultimately controls an asset or bears liability."
+    },
+    {
+      "title": "Life sciences licensing and acquisitions",
+      "text": "Background research on biotech founders, research partners, distributors and acquisition targets in the Copenhagen and Medicon Valley cluster, covering company history, prior ventures, litigation, regulatory actions and undisclosed conflicts that could affect intellectual property, clinical data or a transaction's valuation."
+    },
+    {
+      "title": "Foundation-owned group structures",
+      "text": "Mapping ownership where major Danish companies are controlled by commercial foundations, and explaining how the foundation, its holding company and operating subsidiaries relate, so that counterparties and investors understand who takes decisions and where governance responsibility actually lies."
+    },
+    {
+      "title": "Renewable energy partner diligence",
+      "text": "Checking suppliers, contractors, landowners and co-investors in offshore wind and other energy projects led from Copenhagen, including ownership, financial standing, adverse media and track record in other markets where projects are developed. Results highlight where findings rest on single or unverified sources."
+    },
+    {
+      "title": "Insolvency and asset recovery support",
+      "text": "Assisting counsel and creditors in Danish bankruptcy matters by tracing company interests, director histories and transfers made before insolvency, drawing on CVR records, published court notices and filed accounts, so that claims and recovery actions can be properly targeted."
+    }
+  ],
+  "local_context": [
+    {
+      "title": "Courts sitting in Copenhagen",
+      "text": "The City Court of Copenhagen hears first-instance civil and criminal cases for the municipality, the Eastern High Court hears appeals and certain first-instance cases for eastern Denmark, and the Supreme Court sits in the city. Danish court proceedings are generally public, but there is no comprehensive open database of civil case files, so litigation history is assembled from published judgments, court lists, media and counsel enquiries rather than a single search."
+    },
+    {
+      "title": "Maritime and Commercial High Court",
+      "text": "Denmark's specialised commercial court, Sø- og Handelsretten, established in 1861, hears commercial and maritime cases, including many international business disputes, and has a bankruptcy division alongside its civil division. Its judgments are an important source when building the litigation profile of a Danish company or shipping group, and its decisions on international commercial and maritime matters are widely reported in the legal press."
+    },
+    {
+      "title": "Danish Institute of Arbitration",
+      "text": "The Danish Institute of Arbitration, founded in 1981 and based in Copenhagen, is the country's main arbitral institution and administers proceedings under its 2021 rules. Arbitration in Denmark is governed by the Arbitration Act of 2005, which is based on the UNCITRAL Model Law and limits court intervention to specified grounds. Research for arbitration is scoped around the evidence the tribunal is likely to need."
+    },
+    {
+      "title": "Registers and financial supervision",
+      "text": "The Danish Business Authority's CVR register, covered on the national page, is the core source for Copenhagen companies, including published owners and beneficial owners. For regulated firms, the Danish Financial Supervisory Authority, headquartered in Copenhagen, publishes authorisations and supervisory decisions, and Nasdaq Copenhagen company announcements provide disclosures on listed groups, their major shareholders and management changes. Together these sources usually give a detailed picture of a Copenhagen group."
+    }
+  ],
+  "tdsc_approach": "TDSC handles Copenhagen matters from Nashville and has no office or staff in Denmark. Engagements begin with a clear statement of purpose and lawful basis, because personal data in Danish matters falls under the GDPR and the Danish Data Protection Act. Research makes full use of what Denmark publishes openly, including CVR records, filed accounts, beneficial ownership entries, Nasdaq Copenhagen announcements, Finanstilsynet decisions and published judgments of the Maritime and Commercial High Court, read in Danish and English. Where interviews or local enquiries are justified, TDSC coordinates qualified local professionals working alongside Danish counsel. Findings are reported with sources so they can support decisions in Copenhagen courts or arbitration.",
+  "faqs": [
+    {
+      "q": "How transparent are Copenhagen company records?",
+      "a": "Very, by international standards. The CVR register publishes owners, managers and beneficial owners, and annual accounts are filed and accessible. The difficulty is usually interpretation: foreign parents, foundation ownership and multi-layer holding structures require research beyond the Danish register to show who ultimately controls a business and where its assets sit."
+    },
+    {
+      "q": "Which court hears commercial disputes in Copenhagen?",
+      "a": "Ordinary civil disputes start in the City Court of Copenhagen, with appeals to the Eastern High Court. Many commercial and maritime disputes, especially those with international elements or requiring specialist knowledge, are heard by the Maritime and Commercial High Court. Counsel decides the forum; TDSC builds research to suit the court's evidential needs."
+    },
+    {
+      "q": "Can TDSC investigate Danish employees for a client?",
+      "a": "Only within strict limits. Employee investigations involving Danish staff must have a lawful basis under the GDPR and Danish law, respect proportionality and usually involve employment counsel. TDSC helps scope what records may be reviewed and what external research is appropriate, and does not undertake covert monitoring of employees."
+    },
+    {
+      "q": "Why do Danish companies often have foundation owners?",
+      "a": "Several major Danish groups are controlled by commercial foundations that hold majority voting rights through holding companies. That affects governance, control and the identity of decision makers. TDSC explains such structures in plain terms for clients assessing a partner, supplier or acquisition target, using public filings and foundation disclosures."
+    },
+    {
+      "q": "Is Copenhagen a common seat for arbitration?",
+      "a": "Copenhagen is Denmark's main arbitration seat, and the Danish Institute of Arbitration administers domestic and international cases there. Shipping, construction and energy contracts often refer disputes to it. TDSC supports counsel with research on opposing parties, witnesses and assets relevant to the claims, without offering legal advice on procedure."
+    }
+  ],
+  "sources": [
+    {
+      "title": "City Population: Copenhagen districts (City of Copenhagen statistics)",
+      "url": "https://citypopulation.de/en/denmark/copenhagen/admin"
+    },
+    {
+      "title": "Mondaq: International arbitration in Denmark",
+      "url": "https://www.mondaq.com/arbitration-dispute-resolution/1580114/international-arbitration-in-denmark"
+    },
+    {
+      "title": "Wikipedia: Maritime and Commercial Court (Denmark)",
+      "url": "https://en.wikipedia.org/wiki/Maritime_and_Commercial_Court_(Denmark)"
+    },
+    {
+      "title": "Danish Courts: Maritime and Commercial High Court (English)",
+      "url": "https://domstol.dk/soeoghandelsretten/english"
+    },
+    {
+      "title": "Chambers: Litigation 2024, Denmark",
+      "url": "https://practiceguides.chambers.com/practice-guides/litigation-2024/denmark"
+    },
+    {
+      "title": "Chambers: Denmark, an introduction to dispute resolution",
+      "url": "https://chambers.com/content/item/5415"
+    }
+  ],
+  "review_flags": [
+    "Population (667,124, 1 Jan 2025) comes via citypopulation.de citing the City of Copenhagen statistics bank, not Statistics Denmark directly; verify.",
+    "City Court of Copenhagen, Eastern High Court and Supreme Court locations, Finanstilsynet HQ, Nasdaq Copenhagen, Copenhagen Airport as largest Scandinavian hub, Medicon Valley and foundation-ownership characterisation are from prior knowledge, not opened sources. Verify before publication.",
+    "Maritime and Commercial High Court location in Copenhagen is from prior knowledge; the pages opened did not state it. Chambers pages listed as sources appeared in search results but were not opened."
+  ],
+  "researched": "2026-11-04"
+}

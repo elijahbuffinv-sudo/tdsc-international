@@ -12,7 +12,7 @@
   "economy": [
     {
       "label": "Population",
-      "value": "About 15.75 million in the province (31 December 2025)"
+      "value": "15,754,053 in the province (TÜİK address-based register, end 2025)"
     },
     {
       "label": "Share of national economy",
@@ -64,7 +64,7 @@
   "local_context": [
     {
       "title": "Arbitration centres in Istanbul",
-      "text": "The Istanbul Arbitration Centre (ISTAC), established in 2015 and described as the primary venue for arbitration within Türkiye, has separate national and international boards and offers fast-track, emergency arbitrator and mediation-arbitration rules; it registered 263 cases in 2025. The Istanbul Chamber of Commerce runs ITOTAM, also founded in 2015. The Organisation of Islamic Cooperation Arbitration Centre is headquartered in Istanbul and issued new rules in January 2026."
+      "text": "The Istanbul Arbitration Centre (ISTAC), established in 2015 and described as the primary venue for arbitration within Türkiye, has separate national and international boards and offers fast-track, emergency arbitrator, mediation-arbitration and online hearing rules; it registered 263 cases in 2025. The Istanbul Chamber of Commerce runs ITOTAM, also founded in 2015. The Organisation of Islamic Cooperation Arbitration Centre is headquartered in Istanbul and issued new rules in January 2026."
     },
     {
       "title": "Istanbul courts and arbitration",
@@ -76,7 +76,7 @@
     },
     {
       "title": "Financial market institutions",
-      "text": "Borsa Istanbul, the country's exchange, is based in the city, and the Istanbul Financial Center in Ataşehir was developed to house financial institutions. Disclosures by listed Istanbul companies are a useful source for related-party transactions, major shareholders and litigation, though most Istanbul businesses are privately held and disclose far less. Media coverage and court records usually have to fill the gap for private companies, and those sources are reviewed in Turkish."
+      "text": "Borsa Istanbul, the country's exchange, operates in the city, and the Istanbul Financial Center in the Finanskent quarter near Ataşehir on the Asian side houses the Banking Regulation and Supervision Agency, the Capital Markets Board and national banks. Disclosures by listed Istanbul companies are a useful source for related-party transactions, major shareholders and litigation, though most Istanbul businesses are privately held and disclose far less. Media coverage and court records, reviewed in Turkish, usually fill the gap."
     }
   ],
   "tdsc_approach": "For Istanbul matters TDSC begins by mapping which entities are registered in the city and which sit elsewhere in Türkiye or offshore, and by screening every counterparty and transaction flow for sanctions and export control exposure before research starts. Work draws on Trade Registry Gazette announcements, court information available through lawful means, exchange disclosures and Turkish-language media, reviewed by Turkish speakers. Where interviews, document retrieval or court filings in Istanbul are needed, TDSC coordinates qualified local professionals and works under the direction of the client's Turkish counsel, given that Türkiye has no licensing regime for private investigators that we have identified and that personal data collection is tightly constrained. Reports separate documented facts from inference.",
@@ -114,13 +114,25 @@
     {
       "title": "Global Arbitration Review: Türkiye, the arbitration landscape (European Arbitration Review 2027)",
       "url": "https://globalarbitrationreview.com/review/the-european-arbitration-review/2027/article/turkiye-the-arbitration-landscape-key-legal-frameworks-institutions-and-recent-developments"
+    },
+    {
+      "title": "Daily Sabah: Türkiye's population reaches 86M as growth rate increases (TÜİK 2025 results)",
+      "url": "https://www.dailysabah.com/turkiye/turkiyes-population-reaches-86m-as-growth-rate-increases/news"
+    },
+    {
+      "title": "Global Arbitration Review, Guide to Regional Arbitration 2026: The Istanbul Arbitration Centre",
+      "url": "https://globalarbitrationreview.com/survey/the-guide-regional-arbitration/2026/organization-profile/the-istanbul-arbitration-centre"
+    },
+    {
+      "title": "Wikipedia: Istanbul Financial Center",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Financial_Center"
     }
   ],
   "review_flags": [
-    "Only 3 sources opened (brief asks 5-10); search budget for this city partly spent and TÜİK, ISTAC, ITO and Borsa Istanbul sites not fetched. Add official sources.",
-    "Population (15,754,053 at 31 Dec 2025) and 30% GDP share from Wikipedia, not TÜİK directly.",
-    "Not verified from an opened source: Borsa Istanbul HQ and the Istanbul Financial Center in Ataşehir; trade registry operating within the Istanbul Chamber of Commerce; Istanbul having the largest concentration of commercial courts; non-public joint-stock share ledgers (carried over from TR country page, itself flagged).",
-    "ISTAC fast-track threshold differs between sources (TRY 300,000 in the 2015 rules per Norton Rose; under TRY 5 million per GAR for 2025). Page avoids citing a figure.",
+    "Population 15,754,053 now confirmed via Daily Sabah report of TÜİK 2025 address-based results (published 9 Feb 2026); TÜİK release itself not opened. 30% GDP share still from Wikipedia only.",
+    "Corrected: Istanbul Financial Center is in Finanskent near Ataşehir and hosts the BRSA and Capital Markets Board; sources do not say Borsa Istanbul moved there, so the page no longer says so. Borsa Istanbul's own location still unverified.",
+    "ISTAC fast-track threshold: GAR 2026 profile says under TRY 5 million; 2015 rules said TRY 300,000. Page avoids a figure.",
+    "Still not verified from an opened source: trade registry operating within the Istanbul Chamber of Commerce; largest concentration of commercial courts; ITOTAM; non-public joint-stock share ledgers.",
     "Sanctions and re-export risk language is general; review against current US/EU guidance on Türkiye-routed trade."
   ],
   "researched": "2026-11-04"

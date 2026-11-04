@@ -1,0 +1,57 @@
+{
+  "slug": "bangkok-th",
+  "name": "Bangkok",
+  "cc": "TH",
+  "meta_description": "TDSC investigative consulting in matters touching Bangkok: shareholder and nominee research, partner diligence, trade disputes and arbitration support.",
+  "eyebrow": "Bangkok Metropolis, Thailand",
+  "hero_lede": "Investigative consulting for matters touching Bangkok, scoped from Nashville: research into Thai companies, shareholders and nominee structures, diligence on joint venture partners and distributors, and factual support for counsel in disputes before Bangkok's specialised trade court and arbitration institutions.",
+  "intro": [
+    "Bangkok is Thailand's capital and the centre of its commercial, financial and political life. The Bangkok Metropolitan Region, which adds five adjoining provinces, produced roughly half of Thailand's output in fiscal 2022, about 8.1 trillion baht, and is home to an estimated 17 million people, while the city proper had about 5.5 million registered residents in 2022 and a much larger daytime population. The headquarters of Thai banks, conglomerates and many regional offices of multinationals are concentrated here, as are the Stock Exchange of Thailand, the main government ministries and the courts that hear the country's significant commercial and international trade disputes.",
+    "Organisations commission investigative work connected to Bangkok because most dealings with Thai business pass through it. Investors and acquirers need to understand who really controls a Thai company, given the role of family groups, holding structures and nominee shareholders in arrangements involving foreign participation. Manufacturers and brand owners need diligence on distributors, agents and joint venture partners headquartered in the city. Hospitality, real estate and tourism investments bring their own ownership and reputational questions. When relationships break down, cases go to Bangkok courts, including the Central Intellectual Property and International Trade Court, or to arbitration, and counsel need reliable facts about the other side."
+  ],
+  "economy": [
+    {"label": "Population", "value": "About 5.5 million registered residents (2022); daytime population far higher"},
+    {"label": "Metro area", "value": "Bangkok Metropolitan Region, about 17 million people, roughly half of Thai GDP (FY2022)"},
+    {"label": "Key sectors", "value": "Finance, trade, services, tourism and hospitality, real estate, regional headquarters"},
+    {"label": "Exchange", "value": "Stock Exchange of Thailand"},
+    {"label": "Courts", "value": "Central Intellectual Property and International Trade Court (since 1997)"},
+    {"label": "Time zone", "value": "Asia/Bangkok (UTC+7, no daylight saving)"},
+    {"label": "Languages of business", "value": "Thai; English common in finance and international business"}
+  ],
+  "matters": [
+    {"title": "Shareholder and nominee structure research", "text": "Mapping the shareholders, directors and related companies of Bangkok-registered entities using Department of Business Development records and filed shareholder lists, and identifying where holding structures or apparent nominees suggest that control lies with individuals or groups other than those on the register."},
+    {"title": "Joint venture and distributor diligence", "text": "Background research on Thai partners, distributors and agents headquartered in Bangkok before contracts are signed or renewed, covering ownership, family group connections, litigation history, regulatory issues and reputation in Thai and English-language media."},
+    {"title": "Real estate and hospitality investments", "text": "Researching developers, landholding companies and principals behind Bangkok property and hotel projects, including group structures, prior disputes and publicly reported financial difficulty, so that investors and lenders understand who they are dealing with and where reputational exposure sits."},
+    {"title": "International trade dispute support", "text": "Assembling factual records for counsel in sale-of-goods, distribution and trade finance disputes before the Central Intellectual Property and International Trade Court, including counterparties' corporate histories, related entities and assets visible in public sources."},
+    {"title": "Regional office misconduct inquiries", "text": "Supporting counsel investigating suspected procurement fraud, kickbacks or conflicts of interest at a Bangkok regional office or subsidiary, with research on vendors and connected parties and an inquiry designed to respect the Personal Data Protection Act and Thai employment law."}
+  ],
+  "local_context": [
+    {"title": "Central IP and Trade Court", "text": "The Central Intellectual Property and International Trade Court, set up in December 1997 and sitting in Bangkok, hears intellectual property and international trade cases. Foreign-registered companies may file there as an alternative to an ordinary court of first instance, hearings run continuously so cases tend to move faster, and decisions can be appealed directly to the Supreme Court. Its case records are a key source on a Thai trading counterparty's dispute history."},
+    {"title": "Bangkok arbitration institutions", "text": "The two main institutions for international arbitration, the Thai Arbitration Institute of the Office of the Judiciary and the Thailand Arbitration Center (THAC), are based in Bangkok. THAC operates under the Arbitration Center Act 2007 and introduced mediation rules in 2014. Thai courts have supported arbitration agreements and enforced foreign awards. Investigative support is limited to factual research for counsel and the parties."},
+    {"title": "Metropolitan region structure", "text": "The Bangkok Metropolitan Region comprises Bangkok and five adjoining provinces: Nakhon Pathom, Pathum Thani, Nonthaburi, Samut Prakan and Samut Sakhon. Bangkok itself is governed by the Bangkok Metropolitan Administration rather than as an ordinary province. Factories, warehouses and logistics operations of Bangkok-headquartered companies are often located in the surrounding provinces, so diligence on operating assets frequently extends beyond the city boundary."},
+    {"title": "Registry and regulator headquarters", "text": "The Department of Business Development, which keeps company registrations, shareholder lists and financial statements, and the Securities and Exchange Commission, which supervises listed companies and capital markets, are both headquartered in Bangkok. Listed-company filings with the Stock Exchange of Thailand supplement registry data on larger groups. Records are largely in Thai, so accurate translation of names and filings is essential."}
+  ],
+  "tdsc_approach": "For matters touching Bangkok, TDSC begins by defining the question that matters to the client, such as who controls a company, whether a partner's history is as presented or what assets a counterparty holds, and then identifies the relevant Thai registers, listed-company filings, court records and media. Research is conducted from Nashville using lawful public and commercial sources, with careful handling of Thai-language names and documents. Where document retrieval, site checks or interviews are justified, TDSC coordinates with qualified Thai professionals and the client's Thai counsel. Personal data is collected only as the purpose requires, with PDPA obligations and cross-border transfer rules reviewed with counsel.",
+  "faqs": [
+    {"q": "Can you tell whether a Bangkok company's shareholders are nominees?", "a": "We can show where the indicators point: shareholders with no apparent means or business role, shared addresses, recurring individuals across unrelated companies, or holding structures that route control elsewhere. We report these indicators factually. Whether an arrangement breaches Thai law, including foreign ownership rules, is a legal question for Thai counsel."},
+    {"q": "What information is available on a private Thai company?", "a": "Registry records generally show registered capital, directors, authorised signatories, shareholder lists filed after general meetings and annual financial statements. Together these allow ownership changes and financial condition to be traced over time. We combine them with litigation information, media and, for listed groups, Stock Exchange of Thailand disclosures."},
+    {"q": "Do you support disputes before the Central IP and International Trade Court?", "a": "We support counsel with factual research on the opposing party, its related companies, prior disputes and publicly visible assets, and with locating potential witnesses. We do not provide legal advice on jurisdiction, procedure or the merits, which remain with Thai counsel."},
+    {"q": "Does diligence on a Bangkok partner extend outside the city?", "a": "Often. Many Bangkok-headquartered groups operate factories, warehouses or hotels in the surrounding provinces or elsewhere in Thailand. Where operating assets matter to the decision, we research them as well and, where justified, arrange site checks through qualified local professionals acting lawfully."},
+    {"q": "Does TDSC have an office in Bangkok?", "a": "No. TDSC is based in Nashville and has no office or staff in Thailand. Most work is desk research. Where on-the-ground steps are needed, we coordinate with qualified Thai professionals and the client's counsel, and we decline requests involving restricted records, covert recording or other methods that would breach Thai law."}
+  ],
+  "sources": [
+    {"title": "Wikipedia: Bangkok Metropolitan Region (population and gross provincial product tables)", "url": "https://en.wikipedia.org/wiki/Bangkok_Metropolitan_Region"},
+    {"title": "City Population: Bangkok Metropolitan", "url": "https://www.citypopulation.de/en/thailand/prov/admin/B__bangkok_metropolitan/"},
+    {"title": "Statista: Population of BMA in Thailand 2015-2024", "url": "https://statista.com/statistics/910999/thailand-population-in-bangkok"},
+    {"title": "Tilleke & Gibbins: Historical background of the IP&IT Court", "url": "https://www.tilleke.com/insights/historical-background-ipit-court/?page=3"},
+    {"title": "Chambers: Arbitration and mediation in Thailand, unique features, challenges and opportunities", "url": "https://chambers.com/articles/arbitration-and-mediation-in-thailand-unique-features-challenges-and-opportunities"},
+    {"title": "Siam Legal: Trade disputes litigation in Thailand", "url": "https://sites.google.com/view/siamlegal1/litigation/trade-disputes-in-thailand"}
+  ],
+  "review_flags": [
+    "No National Statistical Office or World Bank population source surfaced; Bangkok figure (5,527,994 registered, DPA 2022) and BMR figures (about 17 million, roughly half of GDP FY2022) come from Wikipedia, which notes internal inconsistencies - verify against NSO/NESDC.",
+    "Stock Exchange of Thailand, SEC and Department of Business Development headquarters in Bangkok, BMA's special status, and the location of TAI/THAC in Bangkok are stated from general knowledge or inference; not explicitly confirmed in sources opened.",
+    "Port (Laem Chabang) and airport details deliberately omitted for lack of a sourced figure.",
+    "Statista and citypopulation.de seen in search results only, not opened."
+  ],
+  "researched": "2026-11-04"
+}
